@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ui_mm_crouch_toggle">
+		<text>切换蹲下姿态</text>
+	</string>
+
+	<string id="ui_mm_restore_default_settings">
+		<text>是否要恢复默认设置？</text>
+	</string>
+
+	<string id="ui_mainmenu_autosave">
+		<text>自动保存 - </text>
+	</string>
+
+	<string id="ui_mainmenu_manualsave">
+		<text>手动保存 - </text>
+	</string>
+
+	<string id="ui_mainmenu_quicksave">
+		<text>快速保存 - </text>
+	</string>
+
+	<string id="ui_mm_frame_limit">
+		<text>帧率上限</text>
+	</string>
+
+	<string id="st_opt_unlimited">
+		<text>无限制</text>
+	</string>
+
+	<string id="ui_mm_sprint_toggle">
+		<text>切换冲刺姿态</text>
+	</string>
+
+	<string id="mp_close_combat">
+		<text>容器仓库</text>
+	</string>
+
+	<string id="ui_mm_invert_mouse">
+		<text>反转镜头</text>
+	</string>
+
+	<string id="mp_military_1">
+		<text>军用仓库</text>
+	</string>
+
+	<string id="st_display_mode_windowed">
+		<text>窗口化</text>
+	</string>
+
+	<string id="st_display_mode_borderless">
+		<text>无边框窗口化</text>
+	</string>
+
+	<string id="ui_mm_autoaim_enable">
+		<text>已启用辅助瞄准</text>
+	</string>
+
+	<string id="ui_mm_autoaim_enabletracking">
+		<text>已启用辅助瞄准追踪</text>
+	</string>
+
+	<string id="ui_mm_autoaim_strength">
+		<text>辅助瞄准强度</text>
+	</string>
+
+	<string id="ui_mm_fov">
+		<text>视野</text>
+	</string>
+
+	<string id="ui_mm_challenges">
+		<text>挑战</text>
+	</string>
+
+	<string id="ui_mm_display_mode">
+		<text>显示模式</text>
+	</string>
+
+	<string id="ui_mm_overwrite_save">
+		<text>此操作将删除并覆盖该存档，是否继续？</text>
+	</string>
+
+</string_table>

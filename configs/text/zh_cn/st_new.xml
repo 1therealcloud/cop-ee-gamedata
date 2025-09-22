@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ui_pad_layout_lean_right">
+		<text>向右倾斜</text>
+	</string>
+
+	<string id="ui_pad_layout_lean_left">
+		<text>向左倾斜</text>
+	</string>
+
+	<string id="ui_pad_layout_crouch_cod">
+		<text>蹲下/（长按）蹲得更低</text>
+	</string>
+
+	<string id="ui_pad_layout_sprint_crouch_old">
+		<text>冲刺/蹲低（蹲下时）</text>
+	</string>
+	<string id="ui_pad_layout_crouch_old">
+		<text>蹲低（蹲下时）</text>
+	</string>
+
+	<string id="c_preset_default">
+		<text>备选项</text>
+	</string>
+
+	<string id="c_type_general">
+		<text>一般移动</text>
+	</string>
+
+	<string id="c_type_zomming">
+		<text>缩放时</text>
+	</string>
+
+	<string id="c_type_wheel">
+		<text>滚轮菜单</text>
+	</string>
+
+	<string id="c_type_talk">
+		<text>谈话菜单</text>
+	</string>
+
+	<string id="c_type_trade">
+		<text> 交易菜单</text>
+	</string>
+
+	<string id="c_type_inventory">
+		<text>库存菜单</text>
+	</string>
+
+	<string id="ui_mm_controlls_preset">
+		<text> 配置</text>
+	</string>
+
+	<string id="ls_tip_92">
+		<text>若要暂停游戏，按下“$$ACTION_PAUSE$$”即可。</text>
+	</string>
+
+	<string id="legend_ui_tasks_toggle_map">
+		<text>$$ACTION_pda_tasks_toggle_map$$ 地图/信息</text>
+	</string>
+
+	<string id="st_display_mode_windowed_borderless">
+		<text>无边框窗口化</text>
+	</string>
+
+	<string id="st_press_any_key_PS4">
+		<text>按任意键开始</text>
+	</string>
+
+	<string id="ui_mm_mblur_pwr">
+		<text>动态模糊</text>
+	</string>
+
+	<string id="ui_eula_ps_tech_req">
+		<text>Any content purchased in an in-game store will be purchased from Sony Interactive \nEntertainment Network Europe Limited (“SIENE”) and be subject to PlayStation™Network \nTerms of Service and User Agreement which is available on the PlayStation®Store. Please check usage rights for each purchase as these may differ from item to item. Unless \notherwise shown, content available in any in-game store has the same age rating as the game.</text>
+		<text_US>Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment \nAmerica.</text_US>
+	</string>
+
+	<string id="legend_ui_add10">
+		<text>$$ACTION_UI_TAB_LEFT$$/$$ACTION_UI_TAB_RIGHT$$ +/- 10</text>
+	</string>
+
+	<string id="legend_ui_add100">
+		<text>$$ACTION_PDA_TASKS_MAP_ZOOM_IN$$/$$ACTION_PDA_TASKS_MAP_ZOOM_OUT$$ +/- 100</text>
+	</string>
+	<string id="ui_elua_disclamer">
+		<text>此为《S.T.A.L.K.E.R.：普里皮亚季的召唤》主机板。 \n \n 在变异区的世界里，当切尔诺贝利核电站灾难发生的那一刻，时间就静止了。从那个时候起，这里就没有变过：符号、口号、货币，还有很多其它东西，都和以前一样。\n 这是历史留给我们的一份传承，而我们也接纳了它。很多内容我们可以换个方式呈现，但它们依然保留了原样。游戏中展现的所有参考内容都是为了在艺术作品中表达出相应的历史氛围。希望大家和很多潜行者一样，能够喜欢变异区。\n \n 各位潜行者，祝你们狩猎愉快！\n \n诚挚的，GSC Game World 团队。\n </text>
+		<text_ps5>此为《潜行者：普里皮亚季的召唤》的PlayStation®5主机版本。\n \n 在变异区的世界里，当切尔诺贝利核电站灾难发生的那一刻，时间就静止了。从那个时候起，这里就没有变过：符号、口号、货币，还有很多其它东西，都和以前一样。\n 这 是历史留给我们的一份传承，而我们也接纳了它。很多内容我们可以换个方式呈现，但它们依然保留了原样。游戏中展现的所有参考内容都是为了在艺术作品中表达出相应的历史氛围。希望大家和很多潜行者一样，能够喜欢变异区。\n \n 各位潜行者，祝你们狩猎愉快！\n \n诚挚的，GSC Game World 团队。\n</text_ps5>
+	</string>
+
+	<string id="ui_mm_goto_store">
+		<text>$$ACTION_UI_ACTION_2$$ 前往Microsoft Store</text>
+		<text_ps4>$$ACTION_UI_ACTION_2$$ 前往 PlayStation®Store</text_ps4>
+		<text_nx64>$$ACTION_UI_ACTION_2$$ 前往 Nintendo eShop</text_nx64>
+	</string>
+
+	<string id="ui_mm_goto_store_pc">
+		<text>前往商店</text>
+		<text_ps4>前往 PlayStation®Store</text_ps4>
+		<text_xbox>前往Microsoft Store</text_xbox>
+	</string>
+
+	<string id="energy_drink_name">
+		<text>“停不下来”能量饮料</text>
+	</string>
+
+	<string id="energy_drink_short_name">
+		<text>“停不下来”能量饮料</text>
+	</string>
+
+	<string id="ui_modio_open">
+		<text>打开浏览器</text>
+	</string>
+
+	<string id="ui_modio_loadorder">
+		<text>Mod加载顺序</text>
+	</string>
+
+	<string id="ui_modio_logout">
+		<text>退出登录</text>
+	</string>
+
+	<string id="ui_modio_email">
+		<text>使用电子邮件登录或注册</text>
+	</string>
+
+	<string id="ui_modio_sendcode">
+		<text>电子邮件代码</text>
+	</string>
+
+	<string id="ui_modio_code">
+		<text>请查看电子邮件以获取代码，并在此处输入该代码。</text>
+	</string>
+
+	<string id="ui_modio_state">
+		<text>Mod.io状态</text>
+	</string>
+
+	<string id="ui_modio_state_ready">
+		<text>准备就绪，可以游玩</text>
+	</string>
+
+	<string id="ui_modio_state_downloading">
+		<text>正在下载Mod</text>
+	</string>
+
+	<string id="ui_modio_state_updating">
+		<text>正在更新Mod</text>
+	</string>
+
+	<string id="ui_modio_state_removing">
+		<text>正在移除Mod</text>
+	</string>
+
+	<string id="ui_modio_user">
+		<text>用户</text>
+	</string>
+
+	<string id="ui_modio_notlogged">
+		<text>未登录</text>
+	</string>
+
+	<string id="ui_modio_loadorder_automatic">
+		<text>自动</text>
+	</string>
+
+	<string id="ui_modio_loadorder_desc">
+		<text>设置加载Mod的顺序，以免覆盖文件</text>
+	</string>
+
+	<string id="ui_mm_modmenu">
+		<text>Mod.io</text>
+	</string>
+
+	<string id="ui_mm_sws_menu">
+		<text>Steam 创意工坊</text>
+	</string>
+
+	<string id="ui_modio_managerbusy">
+		<text>现在无法开始游戏！mod.io管理器繁忙，请稍候</text>
+	</string>
+
+	<string id="ui_modio_nomemory">
+		<text>没有可用空间，无法安装Mod！</text>
+	</string>
+
+	<string id="ui_modio_report">
+		<text>举报</text>
+	</string>
+
+	<string id="ui_modio_memory">
+		<text>占用内存： </text>
+	</string>
+
+	<string id="ui_terms_of_use">
+		<text>使用条款 </text>
+	</string>
+
+	<string id="legend_ui_modio_edit_order">
+		<text>$$ACTION_UI_ACTION_2$$ 编辑加载顺序</text>
+	</string>
+
+	<string id="legend_ui_modio_edit_order_pc">
+		<text>点击交换加载顺序</text>
+		<text_ps5>按下即可交换加载顺序</text_ps5>
+		<text_xbox>按下即可交换加载顺序</text_xbox>
+	</string>
+
+	<string id="ui_modio_mod_name">
+		<text>Mod名称：</text>
+	</string>
+
+	<string id="ui_modio_mod_order">
+		<text>顺序：</text>
+	</string>
+
+	<string id="ui_mm_adaptive_trigger">
+		<text>自适应扳机</text>
+	</string>
+
+	<string id="ui_mm_controller_speaker_enable">
+		<text>控制器喇叭</text>
+		<text_ps4>喇叭 </text_ps4>
+	</string>
+
+	<string id="ui_mm_controller_speaker_volume">
+		<text>控制器喇叭音量</text>
+		<text_ps4>喇叭音量 </text_ps4>
+	</string>
+
+	<string id="ui_mm_transfer_saves">
+		<text>转移存档</text>
+	</string>
+
+	<string id="ui_mm_enable_fsr">
+		<text>升级类型</text>
+	</string>
+
+	<string id="ui_mm_enable_fsr_sharpen">
+		<text>FSR锐化</text>
+	</string>
+
+	<string id="ui_mm_fsr_sharpeness">
+		<text>FSR锐化</text>
+	</string>
+
+	<string id="ui_mm_enable_fsr_frame_generation">
+		<text>FSR框架生成</text>
+	</string>
+
+	<string id="ui_mm_fsr_quality">
+		<text>升级模式</text>
+	</string>
+
+	<string id="ui_mm_recommended_note">
+		<text>*推荐用于可变刷新率屏幕。否则可能导致画面撕裂。</text>
+	</string>
+
+	<string id="ui_grass_distance">
+		<text>草地渲染距离</text>
+	</string>
+
+	<string id="ui_mm_enable_screen_space_shadows">
+		<text>Screen Space\nShadows</text>
+	</string>
+
+	<string id="ui_mm_enable_screen_space_reflections">
+		<text>Screen Space\nReflections</text>
+	</string>
+
+	<string id="ui_mm_input_method">
+		<text>输入方式</text>
+	</string>
+
+	<string id="ui_mm_dynamic_music_volume">
+		<text>动态音乐音量</text>
+	</string>
+
+	<string id="ui_mm_enable_screen_space_global_ilumination">
+		<text>Screen Space Global\nIllumination</text>
+	</string>
+
+    <string id="ui_mm_enable_async_compute">
+        <text>Async Compute</text>
+    </string>
+
+	<string id="ui_mm_wireless_controller">
+		<text>无线控制器</text>
+	</string>
+
+	<string id="ui_mm_quality_modes">
+		<text>质量模式</text>
+	</string>
+
+	<string id="ui_opt_quality">
+		<text>质量</text>
+	</string>
+
+	<string id="ui_opt_balanced">
+		<text>平衡</text>
+	</string>
+
+	<string id="ui_opt_performance">
+		<text>性能</text>
+	</string>
+
+	<string id="ui_controller_update_needed">
+		<text>DualSense®无线控制器需要更新</text>
+	</string>
+
+	<string id="ui_control_type_dualsense">
+		<text>DualSense®无线控制器</text>
+	</string>
+
+	<string id="ui_modio_mod_unsubscribed">
+		<text>无法在当前平台使用！已为你取消订阅该Mod</text>
+	</string>
+
+	<string id="ui_opt_native">
+		<text>原生</text>
+	</string>
+
+	<string id="ui_opt_ultra_performance">
+		<text>极高性能</text>
+	</string>
+
+	<string id="kb_current_task">
+		<text>显示当前任务</text>
+	</string>
+
+	<string id="30_mode">
+		<text>质量 </text>
+	</string>
+
+	<string id="40_mode">
+		<text>平衡 </text>
+	</string>
+
+	<string id="60_mode">
+		<text>性能 </text>
+	</string>
+
+	<string id="120_mode">
+		<text>极高性能 </text>
+	</string>
+
+	<string id="120_mode*">
+		<text>极高性能*</text>
+	</string>
+
+	<string id="ui_mm_camera_bobbing">
+		<text>镜头抖动</text>
+	</string>
+
+</string_table>

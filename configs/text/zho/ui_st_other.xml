@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_save_uni_pri_to_labx8">
+		<text>从普里皮亚季前往X8</text>
+	</string>
+
+	<string id="st_save_uni_travel_pri_to_jup">
+		<text>从普里皮亚季前往亚诺夫</text>
+	</string>
+
+	<string id="st_save_uni_travel_pri_to_zat">
+		<text>从普里皮亚季前往扎顿</text>
+	</string>
+
+	<string id="st_save_uni_labx8_to_pri">
+		<text>从X8前往普里皮亚季</text>
+	</string>
+
+	<string id="st_save_uni_travel_jup_to_pri">
+		<text>从亚诺夫前往普里皮亚季</text>
+	</string>
+
+	<string id="st_save_uni_travel_jup_to_zat">
+		<text>从亚诺夫前往扎顿</text>
+	</string>
+
+	<string id="st_save_uni_travel_zat_to_pri">
+		<text>从扎顿前往普里皮亚季</text>
+	</string>
+
+	<string id="st_save_uni_travel_zat_to_jup">
+		<text>从扎顿前往亚诺夫</text>
+	</string>
+
+	<string id="st_save_uni_travel_generic">
+		<text>在特定区域内移动</text>
+	</string>
+
+	<string id="st_save_jup_b209_placed_mutant_scanner">
+		<text>变种生物探测器</text>
+	</string>
+
+	<string id="st_save_jup_b16_passed_labyrinth">
+		<text>发现绿洲</text>
+	</string>
+
+	<string id="st_save_pri_b35_ready_to_snipe">
+		<text>“生死一击行动”已展开</text>
+	</string>
+
+	<string id="st_save_jup_b6_arrived_to_fen">
+		<text>普拉夫尼异常现象测量</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacutaion_start">
+		<text>普里皮亚季撤离已开始</text>
+	</string>
+
+	<string id="st_save_jup_a12_gave_artefact_for_hostage">
+		<text>支付人质赎金</text>
+	</string>
+
+	<string id="st_save_pri_a20_found_dead_recon">
+		<text>发现侦查小队</text>
+	</string>
+
+	<string id="st_save_pri_a18_met_reinforcement">
+		<text>增援已到达</text>
+	</string>
+
+	<string id="st_save_jup_a9_got_underpass_docs">
+		<text>发现通往普里皮亚季的地道</text>
+	</string>
+
+	<string id="st_save_jup_b1_entered_railroad_tunnel">
+		<text>寻找精神辐射源</text>
+	</string>
+
+	<string id="st_save_jup_b19_arrived_to_kopachy">
+		<text>派往科帕奇</text>
+	</string>
+
+	<string id="st_save_jup_b218_sokolov_in_squad">
+		<text>索科洛夫加入了小队</text>
+	</string>
+
+	<string id="st_save_jup_b218_travel_jup_to_pas">
+		<text>小队已集结</text>
+	</string>
+
+	<string id="st_save_zat_b7_met_with_robbers">
+		<text>潜行者受袭</text>
+	</string>
+
+	<string id="st_save_jup_b9_searched_heli_1">
+		<text>魔鬼鱼1检查完毕</text>
+	</string>
+
+	<string id="st_save_zat_b100_searched_heli_2">
+		<text>魔鬼鱼2检查完毕</text>
+	</string>
+
+	<string id="st_save_zat_b28_searched_heli_3">
+		<text>魔鬼鱼3检查完毕</text>
+	</string>
+
+	<string id="st_save_jup_b8_searched_heli_4">
+		<text>魔鬼鱼4检查完毕</text>
+	</string>
+
+	<string id="st_save_zat_b101_searched_heli_5">
+		<text>魔鬼鱼5检查完毕</text>
+	</string>
+
+	<string id="st_save_zat_b14_got_altered_wheel">
+		<text>发现异样光源</text>
+	</string>
+
+	<string id="st_save_jup_b218_strider_in_squad">
+		<text>斯特赖德加入了小队</text>
+	</string>
+
+	<string id="st_save_zat_a23_entered_test_center">
+		<text>已进入测试车间</text>
+	</string>
+
+	<string id="st_save_pri_a17_hospital_start">
+		<text>已缴获未知武器</text>
+	</string>
+
+	<string id="st_save_jup_b218_vano_in_squad">
+		<text>瓦诺加入了小队</text>
+	</string>
+
+	<string id="st_save_jup_a10_gonna_return_debt">
+		<text>已偿还瓦诺的债务</text>
+	</string>
+
+	<string id="st_save_pri_b301_arrived_to_help_zulu">
+		<text>找到祖鲁</text>
+	</string>
+
+	<string id="st_save_jup_b15_drunk_with_zulu">
+		<text>祖鲁加入了小队</text>
+	</string>
+
+	<string id="st_save_pri_a18_searched_antenna">
+		<text>“天线”已检查</text>
+	</string>
+
+	<string id="st_save_jup_b47_got_admin_docs">
+		<text>行政文件</text>
+	</string>
+
+	<string id="st_save_jup_b206_got_anomalous_plant">
+		<text>收集到异常植物</text>
+	</string>
+
+	<string id="st_save_zat_b103_warned_by_mercs">
+		<text>接近变电站车间</text>
+	</string>
+
+	<string id="st_save_zat_b40_warned_by_mercs">
+		<text>接近废物处理站</text>
+	</string>
+
+	<string id="st_save_zat_a2_reached_skadovsk">
+		<text>抵达斯卡多夫斯克</text>
+	</string>
+
+	<string id="st_save_jup_b217_arrived_to_jup">
+		<text>抵达亚诺夫</text>
+	</string>
+
+	<string id="st_save_uni_travel_pas_to_pri">
+		<text>抵达普里皮亚季</text>
+	</string>
+
+	<string id="st_save_pas_b400_underpass_start">
+		<text>抵达地下通道</text>
+	</string>
+
+	<string id="st_save_jup_b6_arrived_to_ash_heap">
+		<text>灰烬堆异常现象测量</text>
+	</string>
+
+	<string id="st_save_zat_a1_game_start">
+		<text>游戏起点</text>
+	</string>
+
+	<string id="st_save_zat_b38_met_with_grouse">
+		<text>吸血鬼巢穴</text>
+	</string>
+
+	<string id="st_save_zat_b33_got_container">
+		<text>在藏宝地找到的容器</text>
+	</string>
+
+	<string id="st_save_pri_a21_killed_controller">
+		<text>哨兵已被消灭</text>
+	</string>
+
+	<string id="st_save_zat_b42_arrived_to_controler_lair">
+		<text>危险洞穴</text>
+	</string>
+
+	<string id="st_save_pri_a22_found_dead_squad">
+		<text>发现一名阵亡的战士</text>
+	</string>
+
+	<string id="st_save_zat_b5_met_with_others">
+		<text>在护林站达成的交易</text>
+	</string>
+
+	<string id="st_save_jup_b207_arrived_to_duty_depot">
+		<text>使命仓库</text>
+	</string>
+
+	<string id="st_save_uni_surge_start">
+		<text>辐射</text>
+	</string>
+
+	<string id="st_save_pri_a25_gonna_place_explosive">
+		<text>幼儿园入口</text>
+	</string>
+
+	<string id="st_save_pri_a28_talked_with_ssu">
+		<text>成功建立与总部的通讯</text>
+	</string>
+
+	<string id="st_save_uni_zone_to_reality">
+		<text>撤离完成</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacuation_heli">
+		<text>撤离直升机起飞</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacuation_end">
+		<text>撤离直升机已抵达</text>
+	</string>
+
+	<string id="st_save_zat_a23_got_gauss_docs">
+		<text>发现高斯步枪文档</text>
+	</string>
+
+	<string id="st_save_zat_b18_noah_showed_teleport">
+		<text>抵达高原</text>
+	</string>
+
+	<string id="st_save_jup_a12_met_with_liberators">
+		<text>成功解救人质</text>
+	</string>
+
+	<string id="st_save_zat_b106_arrived_to_chimera_lair">
+		<text>狩猎奇美拉</text>
+	</string>
+
+	<string id="st_save_pri_a16_arrived_to_pri">
+		<text>军队已部署</text>
+	</string>
+
+	<string id="st_save_pri_a25_freed_medic">
+		<text>成功救出军医</text>
+	</string>
+
+	<string id="st_save_pri_a21_approached_mad_sentry">
+		<text>发现失踪哨兵</text>
+	</string>
+
+	<string id="ui_st_upgrade">
+		<text>修理/改装</text>
+	</string>
+
+	<string id="ui_st_upgrade_console">
+		<text>$$ACTION_talk_trade_upgrade$$修理/改装</text>
+	</string>
+
+</string_table>

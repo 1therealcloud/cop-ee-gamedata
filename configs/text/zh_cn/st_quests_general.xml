@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="hide_from_surge_message">
+		<text>注意！喷发即将开始：</text>
+	</string>
+
+	<string id="hide_from_surge_descr_1_a">
+		<text>你必须立即跑到最近的掩体，躲避喷发。</text>
+	</string>
+
+	<string id="hide_from_surge_descr_2_a">
+		<text>在喷发期间，你绝不能走出掩体。</text>
+	</string>
+
+	<string id="hide_from_surge_name_1">
+		<text>喷发：找到掩体</text>
+	</string>
+
+	<string id="hide_from_surge_name_2">
+		<text>喷发：在掩体中等待</text>
+	</string>
+
+</string_table>

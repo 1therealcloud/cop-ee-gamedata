@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="pri_a17_get_gauss_rifle_documentation_name">
+		<text>アイテム62：テスト工場で書類を見つける</text>
+	</string>
+	<string id="pri_a17_get_gauss_rifle_documentation_text">
+		<text>アイテム62に関する書類を見つける必要がある。その武器がヘリを撃ち落とすのに使用できたかどうか、書類で明確にしなくてはならない。</text>
+	</string>
+	<string id="pri_a17_get_in_cover_name">
+		<text>未確認の武器：建物の中で防護する</text>
+	</string>
+	<string id="pri_a17_get_in_cover_text">
+		<text>建物の中で防護して、モノリスの攻撃を撃退しなければならない。</text>
+	</string>
+	<string id="pri_a17_get_info_name">
+		<text>未確認の武器：情報を見つける</text>
+	</string>
+	<string id="pri_a17_get_info_text">
+		<text>武器を使用できず、それがどのように作動するのかも明らかではない。未確認の武器を理解できる技術者を見つけなくてはならない。</text>
+	</string>
+	<string id="pri_a17_kill_preacher_name">
+		<text>未確認の武器：モノリス部隊のリーダーを殺す</text>
+	</string>
+	<string id="pri_a17_kill_preacher_text">
+		<text>未確認の武器を使用するモノリス部隊のリーダーを殺さなくてはならない。</text>
+	</string>
+	<string id="pri_a17_maraud_name">
+		<text>未確認の武器：死んだモノリサーを探す</text>
+	</string>
+	<string id="pri_a17_maraud_text">
+		<text>モノリサーは未確認の武器を持っているはず。それを見つける。</text>
+	</string>
+	<string id="pri_a17_stalker_tech_produce_62_get_info_name">
+		<text>未確認の武器：カルダンと話す</text>
+	</string>
+	<string id="pri_a17_stalker_tech_produce_62_get_info_text">
+		<text>今ごろはもうカルダンの二日酔いが治まっている。未確認の武器に関して彼と話す時間だ。</text>
+	</string>
+	<string id="pri_a17_stalker_tech_produce_62_show_name">
+		<text>未確認の武器：カルダンが正気になるのを待つ</text>
+	</string>
+	<string id="pri_a17_stalker_tech_produce_62_show_text">
+		<text>カルダンは、おそらく武器のことを知っている。彼が起きたら、彼と話さなくてはならない。</text>
+	</string>
+	<string id="pri_a17_talk_with_kovalski_about_gauss_rifle_information_name">
+		<text>ガウス・ライフル：武器のことをコヴァルスキーに話す</text>
+	</string>
+	<string id="pri_a17_talk_with_kovalski_about_gauss_rifle_information_text">
+		<text>アイテム62に関して学習したすべてを、コヴァルスキーに伝えなくてはならない。</text>
+	</string>
+	<string id="pri_a17_task_find_gauss_rifle_name">
+		<text>未確認の武器：部隊に加わる</text>
+	</string>
+	<string id="pri_a17_task_find_gauss_rifle_text">
+		<text>武器を一緒に奪取するために特別部隊に加わらなくてはならない。</text>
+	</string>
+	<string id="pri_a17_task_get_gauss_rifle_from_preacher_name">
+		<text>未確認の武器：武器を得る</text>
+	</string>
+	<string id="pri_a17_task_get_gauss_rifle_from_preacher_text">
+		<text>モノリス部隊のリーダーの武器を得なくてはならない。</text>
+	</string>
+	<string id="pri_a17_task_give_gauss_rifle_to_kovalski_name">
+		<text>未確認の武器：コヴァルスキーに武器を持っていく</text>
+	</string>
+	<string id="pri_a17_task_give_gauss_rifle_to_kovalski_text">
+		<text>武器を得た。今、コヴァルスキーにそれを見せ、武器がヘリの墜落を引き起こせたかを知る。</text>
+	</string>
+	<string id="pri_a17_watch_recons_six_name">
+		<text>未確認の武器：モノリス待ち伏せに参加する</text>
+	</string>
+	<string id="pri_a17_watch_recons_six_text">
+		<text>軍の偵察部隊は、モノリス部隊を攻撃するために待ち伏せをする。この作戦に参加しなくてはならない。</text>
+	</string>
+	<string id="pri_a18_get_reinforcement_name">
+		<text>モノリス部隊：援軍と会う</text>
+	</string>
+	<string id="pri_a18_get_reinforcement_text">
+		<text>コヴァルスキーは、ブック・ストアに立てこもるモノリス部隊を倒すために、援軍を送った。</text>
+	</string>
+	<string id="pri_a18_go_post_name">
+		<text>モノリス部隊：ブック・ストアを一掃する</text>
+	</string>
+	<string id="pri_a18_go_post_text">
+		<text>建物内のモノリス部隊をすべて倒さなくてはならない。大きなモノリス部隊は、軍のキャンプの脅威になる。</text>
+	</string>
+	<string id="pri_a18_use_idol_name">
+		<text>モノリス部隊：奇妙な構造物を調査する</text>
+	</string>
+	<string id="pri_a18_use_idol_text">
+		<text>建物内には奇妙な装置があった。この装置を調べる。</text>
+	</string>
+	<string id="pri_a19_lab_x8_investigation_name">
+		<text>X8研究所：実験に関する書類を見つける</text>
+	</string>
+	<string id="pri_a19_lab_x8_investigation_text">
+		<text>見つけた情報は、X8と呼ばれる中央研究所に関係するものだ。それには、ゾーンで行なわれた秘密実験に関する情報が含まれているはずだ。</text>
+	</string>
+	<string id="pri_a20_check_recon_squad_task_name">
+		<text>行方不明の偵察部隊：部隊を見つける</text>
+	</string>
+	<string id="pri_a20_check_recon_squad_task_text">
+		<text>コヴァルスキーによって派遣された偵察部隊は、奇妙な通信のやり取りの後に消えた。何が起こったか知るために、彼らを見つけなければならない。</text>
+	</string>
+	<string id="pri_a21_chasovoi_body_search_name">
+		<text>行方不明の歩哨：歩哨が死んだエリアを調査する</text>
+	</string>
+	<string id="pri_a21_chasovoi_body_search_text">
+		<text>歩哨の行動は非常に奇妙なものだった。調査して、その理由を見つけなくてはならない。</text>
+	</string>
+	<string id="pri_a21_find_chasovoi_name">
+		<text>行方不明の歩哨：歩哨を見つける</text>
+	</string>
+	<string id="pri_a21_find_chasovoi_text">
+		<text>兵士のひとりが、彼の位置から行方不明になった。彼を見つけて、なぜ行方不明になったかを断定しなくてはならない。</text>
+	</string>
+	<string id="pri_a21_kill_kontroler_name">
+		<text>行方不明の歩哨：コントローラーを殺す</text>
+	</string>
+	<string id="pri_a21_kill_kontroler_text">
+		<text>行方不明の歩哨の近くにコントローラーがいた。それを倒さなくてはならない。</text>
+	</string>
+	<string id="pri_a22_find_dead_squad_name">
+		<text>電波妨害：行方不明の部隊を見つける</text>
+	</string>
+	<string id="pri_a22_find_dead_squad_text">
+		<text>電波の妨害源を探していた部隊が、行方不明になった。それを見つけなくてはならない。</text>
+	</string>
+	<string id="pri_a22_search_bodys_name">
+		<text>電波妨害：死体を探す</text>
+	</string>
+	<string id="pri_a22_search_bodys_text">
+		<text>死体をいくつか探せば、彼らが死んだ理由がわかるだろう。</text>
+	</string>
+	<string id="pri_a22_search_yarmoshuk_body_name">
+		<text>電波妨害：死体を探す</text>
+	</string>
+	<string id="pri_a22_search_yarmoshuk_body_text">
+		<text>死体を探せば、彼らが死んだ理由がわかるだろう。</text>
+	</string>
+	<string id="pri_a25_blow_up_door_name">
+		<text>電波妨害：ドアを爆破する</text>
+	</string>
+	<string id="pri_a25_blow_up_door_text">
+		<text>建物に入るために、爆発物を使用してドアを爆破しなければならない。</text>
+	</string>
+	<string id="pri_a25_check_freezer_knock_name">
+		<text>電波妨害：音を調査する</text>
+	</string>
+	<string id="pri_a25_check_freezer_knock_text">
+		<text>冷蔵庫から音がする。内部に誰かが閉じ込められているようだ。それを調べる。</text>
+	</string>
+	<string id="pri_a25_destroy_antenna_name">
+		<text>電波妨害：妨害源を除去する</text>
+	</string>
+	<string id="pri_a25_destroy_antenna_text">
+		<text>電波の妨害源にいる。それを破壊する必要がある。</text>
+	</string>
+	<string id="pri_a25_find_antenna_name">
+		<text>電波妨害：妨害源を見つける</text>
+	</string>
+	<string id="pri_a25_find_antenna_text">
+		<text>建物に電波の妨害源がある。それを見つける。</text>
+	</string>
+	<string id="pri_a25_find_explosive_name">
+		<text>電波妨害：爆発物を見つける</text>
+	</string>
+	<string id="pri_a25_find_explosive_text">
+		<text>妨害源を探すために派遣された部隊は爆発物を持っていた。建物の入口を破壊するために、それらを見つける。</text>
+	</string>
+	<string id="pri_a25_remove_source_of_hindrances_name">
+		<text>電波妨害：幼稚園の建物の内部に入る</text>
+	</string>
+	<string id="pri_a25_remove_source_of_hindrances_text">
+		<text>信号の源は、幼稚園の建物のどこかにある。そのために、内部に入らなければならない。</text>
+	</string>
+	<string id="pri_a28_cover_militarys_name">
+		<text>撤退：軍を援護する</text>
+	</string>
+	<string id="pri_a28_cover_militarys_text">
+		<text>ストレロクは死んだようだ。しかし、まだ軍がヘリに到達するのを助けなければならない。</text>
+	</string>
+	<string id="pri_a28_cover_strelok_name">
+		<text>撤退：ストレロクを援護する</text>
+	</string>
+	<string id="pri_a28_cover_strelok_text">
+		<text>司令部は、ストレロクが提示しなければならない情報に興味を持っている。ヘリまで彼を連れて行かなくてはならない。</text>
+	</string>
+	<string id="pri_a28_go_hellis_name">
+		<text>撤退：ヘリに到達する</text>
+	</string>
+	<string id="pri_a28_go_hellis_text">
+		<text>全員が死んだ。ヘリまで独力で到達しなければならない。</text>
+	</string>
+	<string id="pri_a28_talk_with_kovalski_name">
+		<text>撤退：コヴァルスキーと話す</text>
+	</string>
+	<string id="pri_a28_talk_with_kovalski_text">
+		<text>撤退が始まる前に、コヴァルスキーと話す必要がある。</text>
+	</string>
+	<string id="pri_a28_tell_kovalski_when_ready_name">
+		<text>撤退：コヴァルスキーに準備ができたことを告げる</text>
+	</string>
+	<string id="pri_a28_tell_kovalski_when_ready_text">
+		<text>コヴァルスキーに撤退する準備ができたことを通知しなくてはならない。</text>
+	</string>
+	<string id="pri_a28_wait_surge_end_name">
+		<text>撤退：光熱放射が終わるのを待つ</text>
+	</string>
+	<string id="pri_a28_wait_surge_end_text">
+		<text>光熱放射が終わるのを待たなくてはならない。</text>
+	</string>
+	<string id="pri_b305_check_unknown_signal_1_name">
+		<text>不明なもの：信号の源を調査する</text>
+	</string>
+	<string id="pri_b305_check_unknown_signal_1_text">
+		<text>キリロフは、基地から遠くない場所からの奇妙な信号を識別した。発信源を調査しなくてはならない。</text>
+	</string>
+	<string id="pri_b305_check_unknown_signal_2_name">
+		<text>不明なもの：信号を追う</text>
+	</string>
+	<string id="pri_b305_check_unknown_signal_2_text">
+		<text>信号座標が再びアクセス可能になった。それを追う。</text>
+	</string>
+	<string id="pri_b305_check_unknown_signal_3_name">
+		<text>不明なもの：最後に得た信号位置を調査する</text>
+	</string>
+	<string id="pri_b305_check_unknown_signal_3_text">
+		<text>信号は建物の庭で消えた。その最後に得た信号位置を調査する。</text>
+	</string>
+	<string id="pri_b305_check_unknown_signal_4_name">
+		<text>不明なもの：基地に対する攻撃に備える</text>
+	</string>
+	<string id="pri_b305_check_unknown_signal_4_text">
+		<text>軍の基地へ戻り、来るだろう攻撃に準える。</text>
+	</string>
+	<string id="pri_b305_kovalskiy_talk_name">
+		<text>電波妨害：コヴァルスキーと話す</text>
+	</string>
+	<string id="pri_b305_kovalskiy_talk_text">
+		<text>コヴァルスキー大佐に尋ねられる。</text>
+	</string>
+	<string id="pri_b306_task_1_name">
+		<text>ラボX8：エレベータ・シャフトの内部に入る</text>
+	</string>
+	<string id="pri_b306_task_1_text">
+		<text>地下研究所の入口は、ユビレイヌイ・サービス・センターの下だ。内部に入れる唯一の方法は、エレベータ・シャフトだ。</text>
+	</string>
+	<string id="pri_b306_task_2_name">
+		<text>ラボX8：発電機を見つける</text>
+	</string>
+	<string id="pri_b306_task_2_text">
+		<text>エレベータ・シャフトのドアへの電力が切られている。スイッチを入れるには、非常用発電機を見つけて作動させなくてはならない。</text>
+	</string>
+	<string id="pri_b306_task_3_name">
+		<text>ラボX8：研究所へ降りる</text>
+	</string>
+	<string id="pri_b306_task_3_text">
+		<text>ラボX8に入るには、エレベータを使用する必要がある。それはユビレイヌイ・サービス・センターの下にある。</text>
+	</string>
+	<string id="pri_b35_task_envoy_name">
+		<text>ワンショット：伝令兵を倒す</text>
+	</string>
+	<string id="pri_b35_task_envoy_text">
+		<text>伝令兵を倒さなくてはならない。彼が死ねば、傭兵たちは研究所を見つけることができない。</text>
+	</string>
+	<string id="pri_b35_task_envoy_wait_name">
+		<text>ワンショット：クライアントの手下を待つ</text>
+	</string>
+	<string id="pri_b35_task_envoy_wait_text">
+		<text>クライアントの手下が現われて、奴らのリーダーを殺すのを待つ。彼が死ねば、傭兵たちは研究所を見つけることができない。</text>
+	</string>
+	<string id="pri_b35_task_merc_name">
+		<text>ワンショット：傭兵部隊のリーダーを殺す</text>
+	</string>
+	<string id="pri_b35_task_merc_text">
+		<text>傭兵部隊のリーダーを殺さなくてはならない。彼が死ねば、傭兵たちは混乱し、大きな脅威にならない。</text>
+	</string>
+	<string id="pri_b35_task_merc_wait_name">
+		<text>ワンショット：傭兵たちが現れるのを待つ</text>
+	</string>
+	<string id="pri_b35_task_merc_wait_text">
+		<text>傭兵が現れるのを待ち、そのリーダーを殺さなくてはならない。彼が死ねば、傭兵たちは混乱し、大きな脅威にならない。</text>
+	</string>
+	<string id="pri_b35_task_reward_name">
+		<text>ワンショット：コヴァルスキーと話す</text>
+	</string>
+	<string id="pri_b35_task_reward_text">
+		<text>ミッションの結果をコヴァルスキーに報告する。</text>
+	</string>
+	<string id="pri_a19_lab_x8_investigation_1_name">
+		<text>X8研究所：地下施設を去るか、あるいは書類を探し続ける</text>
+	</string>
+	<string id="pri_a19_lab_x8_investigation_1_text">
+		<text>書類を見つけ、今、研究所を去ることができる。しかし、複合施設の内部に他の書類がまだあるかもしれない。</text>
+	</string>
+	<string id="pri_a19_lab_x8_investigation_2_name">
+		<text>X8研究所：地下施設を去るか、あるいは書類を探し続ける</text>
+	</string>
+	<string id="pri_a19_lab_x8_investigation_2_text">
+		<text>書類を見つけ、今、研究所を去ることができる。しかし、複合施設の内部に他の書類がまだあるかもしれない。</text>
+	</string>
+	<string id="pri_a19_lab_x8_investigation_3_name">
+		<text>X8研究所：地下施設を去る</text>
+	</string>
+	<string id="pri_a19_lab_x8_investigation_3_text">
+		<text>研究所の書類をすべて集めたようだ。今、研究所を去ることができる。</text>
+	</string>
+	<string id="pri_a18_wait_reinf_name">
+		<text>モノリス部隊：援軍を待つ</text>
+	</string>
+	<string id="pri_a18_wait_reinf_text">
+		<text>ブック・ストアの中のモノリス部隊を排除するために、コヴァルスキーから送られた援軍を待たなくてはならない。</text>
+	</string>
+	<string id="pri_a22_talk_with_kovalski_name">
+		<text>静かな言葉：コヴァルスキーと話す</text>
+	</string>
+	<string id="pri_a22_talk_with_kovalski_text">
+		<text>コヴァルスキーと話さなくてはならない。彼の言葉に重要なものがあるように思われる。</text>
+	</string>
+	<string id="pri_a28_defend_helis_name">
+		<text>撤退：ヘリで持ちこたえる</text>
+	</string>
+	<string id="pri_a28_defend_helis_text">
+		<text>離陸できるまで、敵からヘリを防御しなければならない。</text>
+	</string>
+	<string id="pri_a28_save_medic_name">
+		<text>撤退：医者を復活させる</text>
+	</string>
+	<string id="pri_a28_save_medic_text">
+		<text>医者はまた未確認部隊に撃たれたようだ。彼をできるだけ速く復活させる。</text>
+	</string>
+	<string id="pri_a28_return_to_helis_name">
+		<text>撤退：ヘリに戻る</text>
+	</string>
+	<string id="pri_a28_return_to_helis_text">
+		<text>いつでも離陸できるかも知れない。ヘリに戻らなければならない。</text>
+	</string>
+	<string id="pri_a28_helis_gonna_fly_name">
+		<text>撤退：できるだけ早くヘリに戻る</text>
+	</string>
+	<string id="pri_a28_helis_gonna_fly_text">
+		<text>ヘリの離陸準備ができた。どれか1機にすぐに乗り込まなくてはならない。パイロットは長く待てない。</text>
+	</string>
+</string_table>

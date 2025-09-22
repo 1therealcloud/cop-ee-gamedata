@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_achievement_10_descr">
+		<text>連續十次被你殺死、卻沒辦法哪怕反殺你一次，你的敵人一定感到很恥辱！不過，你並不殘酷——只是在給他一個繼續練習的理由。</text>
+	</string>
+
+	<string id="st_achievement_10_name">
+		<text>收割時間到</text>
+	</string>
+
+	<string id="st_achievement_11_descr">
+		<text>你超無情的！「一石二鳥」，用高斯來福槍將他們兩個串在了一起。</text>
+	</string>
+
+	<string id="st_achievement_11_name">
+		<text>一石二鳥</text>
+	</string>
+
+	<string id="st_achievement_12_descr">
+		<text>你那冷靜而工於算計的方法讓敵人迅速斃命——在短短幾秒內，你用雙管散彈槍兩槍精准打擊了兩個目標。</text>
+	</string>
+
+	<string id="st_achievement_12_name">
+		<text>兩槍兩命</text>
+	</string>
+
+	<string id="st_achievement_13_descr">
+		<text>顯然你對潛行者非常了解，這就是為甚麼你能成為首屈一指的傳奇潛行者！</text>
+	</string>
+
+	<string id="st_achievement_13_name">
+		<text>攀高枝者</text>
+	</string>
+
+	<string id="st_achievement_14_descr">
+		<text>用刀刺穿強化服？看起來你是那種喜歡刀刀見骨的人。</text>
+	</string>
+
+	<string id="st_achievement_14_name">
+		<text>開罐器</text>
+	</string>
+
+	<string id="st_achievement_15_descr">
+		<text>他們覺得已經搞定你了，但你昭示了誰才是老大——儘管死神近在咫尺，你還是殺了他們之中的五個人！</text>
+	</string>
+
+	<string id="st_achievement_15_name">
+		<text>不屈不撓</text>
+	</string>
+
+	<string id="st_achievement_16_descr">
+		<text>腎上腺素飆升！你用一陣彈雨消滅了敵人——5 秒 5 殺！超棒！</text>
+	</string>
+
+	<string id="st_achievement_16_name">
+		<text>怒不可遏</text>
+	</string>
+
+	<string id="st_achievement_17_descr">
+		<text>哇，好槍法！你以一換二，在不死的情況下射中了敵人的眼睛。</text>
+	</string>
+
+	<string id="st_achievement_17_name">
+		<text>眼科專家</text>
+	</string>
+
+	<string id="st_achievement_18_descr">
+		<text>就讓他們躲在拐角後埋伏吧，反正阻止不了你——你甚至無需瞄準就能擊中活動目標！</text>
+	</string>
+
+	<string id="st_achievement_18_name">
+		<text>閃電反應</text>
+	</string>
+
+	<string id="st_achievement_19_descr">
+		<text>讓他跑，跑得越快越好——反正你的子彈怎樣都能擊中他。</text>
+	</string>
+
+	<string id="st_achievement_19_name">
+		<text>截停逃跑者</text>
+	</string>
+
+	<string id="st_achievement_1_descr">
+		<text>你連續屠殺了二十個敵人，而且還沒死！哇，好一場浴血戰！</text>
+	</string>
+
+	<string id="st_achievement_1_name">
+		<text>大屠殺</text>
+	</string>
+
+	<string id="st_achievement_20_descr">
+		<text>他們可能有三個人，可能有狙擊步槍，但你的技術已經把他們都消滅了。</text>
+	</string>
+
+	<string id="st_achievement_20_name">
+		<text>最精準射手</text>
+	</string>
+
+	<string id="st_achievement_21_descr">
+		<text>無需一發子彈，你就能智勝野蠻人。</text>
+	</string>
+
+	<string id="st_achievement_21_name">
+		<text>和平信使</text>
+	</string>
+
+	<string id="st_achievement_22_descr">
+		<text>對於真正的狙擊手來說，距離從來不是問題！你在 120 公尺之外就能命中靶心。 </text>
+	</string>
+
+	<string id="st_achievement_22_name">
+		<text>極度精準</text>
+	</string>
+
+	<string id="st_achievement_23_descr">
+		<text>你的敵人把你擊倒了，但你給他留了顆活手榴彈當作驚喜！</text>
+	</string>
+
+	<string id="st_achievement_23_name">
+		<text>斯人紀念物</text>
+	</string>
+
+	<string id="st_achievement_24_descr">
+		<text>他們殺了你的朋友，理應承受你的復仇之火。用三具敵人的尸體來償三個死去的朋友，這才是正義。</text>
+	</string>
+
+	<string id="st_achievement_24_name">
+		<text>復仇者</text>
+	</string>
+
+	<string id="st_achievement_25_descr">
+		<text>作為你朋友的守護天使，你兩次幫助帶著神器的他從襲擊中脫困。</text>
+	</string>
+
+	<string id="st_achievement_25_name">
+		<text>小天使</text>
+	</string>
+
+	<string id="st_achievement_26_descr">
+		<text>透過在排行榜上增加積分，你守住了你和你的小隊的榮譽。</text>
+	</string>
+
+	<string id="st_achievement_26_name">
+		<text>守護榮譽</text>
+	</string>
+
+	<string id="st_achievement_27_descr">
+		<text>你是不是真的知道下一個神器會在哪裡出現？好吧，你在它剛剛出現不過幾秒鐘後就拿到它了！</text>
+	</string>
+
+	<string id="st_achievement_27_name">
+		<text>潛行者的直覺</text>
+	</string>
+
+	<string id="st_achievement_28_descr">
+		<text>你真是好命——你用你彈匣裡的最後一發子彈殺了敵人！當然，比起你被殺還是要好太多！</text>
+	</string>
+
+	<string id="st_achievement_28_name">
+		<text>好命鬼</text>
+	</string>
+
+	<string id="st_achievement_29_descr">
+		<text>你連續殺了八個敵人，表明了立場——來看看他們是否想要越界。</text>
+	</string>
+
+	<string id="st_achievement_29_name">
+		<text>黑名單 </text>
+	</string>
+
+	<string id="st_achievement_2_descr">
+		<text>沒人殺得了你，因為你小心又謹慎。你在遊戲中一次也沒死過，且得分超過 15 分。</text>
+	</string>
+
+	<string id="st_achievement_2_name">
+		<text>偏執狂</text>
+	</string>
+
+	<string id="st_achievement_30_descr">
+		<text>你總是用滅音器來確保做事不被人注意。何必要讓敵人知道死神的方位呢？</text>
+	</string>
+
+	<string id="st_achievement_30_name">
+		<text>寂靜射殺</text>
+	</string>
+
+	<string id="st_achievement_3_descr">
+		<text>憑藉獲勝以及比他們的領先得分手多一倍的分數，你摧毀了敵人。</text>
+	</string>
+
+	<string id="st_achievement_3_name">
+		<text>壓倒性優勢</text>
+	</string>
+
+	<string id="st_achievement_4_descr">
+		<text>你的迅速捕獲神器的大膽計畫取得了成功，在遊戲的前三分鐘，你就為你的小隊贏得了積分。</text>
+	</string>
+
+	<string id="st_achievement_4_name">
+		<text>閃電戰</text>
+	</string>
+
+	<string id="st_achievement_5_descr">
+		<text>你在沒有遺漏一個神器的情況下消滅了敵人，向他們展示了什麼才是真正的團隊合作。</text>
+	</string>
+
+	<string id="st_achievement_5_name">
+		<text>完勝！</text>
+	</string>
+
+	<string id="st_achievement_6_descr">
+		<text>你在所有區域內憑藉最高擊殺數、最多神器數和最少死亡次數獲得了最高分！再接再厲！</text>
+	</string>
+
+	<string id="st_achievement_6_name">
+		<text>多面手</text>
+	</string>
+
+	<string id="st_achievement_7_descr">
+		<text>你的刀法嫻熟，無人匹敵！你在 20 秒內給 3 個敵人開膛破肚，展現了你的手上技巧。</text>
+	</string>
+
+	<string id="st_achievement_7_name">
+		<text>狂怒</text>
+	</string>
+
+	<string id="st_achievement_8_descr">
+		<text>每個敵人都有弱點，而你發現了它，成功用你的配槍射中了敵人的眼睛。</text>
+	</string>
+
+	<string id="st_achievement_8_name">
+		<text>阿基里斯之踵</text>
+	</string>
+
+	<string id="st_achievement_9_descr">
+		<text>敵人的彈火對你而言是如此綿軟無力。你不僅毫發無傷地穿過了槍林彈雨，還把敵人都幹掉了！</text>
+	</string>
+
+	<string id="st_achievement_9_name">
+		<text>快過子彈</text>
+	</string>
+
+	<string id="st_sp_achievement_1_descr">
+		<text>你願意研究特異區的最新成果，憑藉對之前科學未知的特異點形態的新發現，你提升了我們對於特異區的了解。</text>
+	</string>
+
+	<string id="st_sp_achievement_1_name">
+		<text>先鋒</text>
+	</string>
+
+	<string id="st_sp_achievement_2_hint">
+		<text>現在潛行者們更重視你了。\n為了感謝你付出的努力，潛行者們開始給你在亞尼夫站的私人儲物箱裡放彈藥了。</text>
+	</string>
+
+	<string id="st_sp_achievement_2_descr">
+		<text>你不再盡力躲避危險的變異體了——你會將牠們完美獵殺。好的獵人在潛行者之中能得到高度尊敬。</text>
+	</string>
+
+	<string id="st_sp_achievement_2_name">
+		<text>變異體獵手</text>
+	</string>
+
+	<string id="st_sp_achievement_3_hint">
+		<text>現在潛行者們更重視你了。\n為表敬意，潛行者們開始給你在斯卡多夫斯克的私人儲物箱裡放醫療用品了。</text>
+	</string>
+
+	<string id="st_sp_achievement_3_descr">
+		<text>你發現了潛行者在斯卡多夫斯克消失的秘密：那個罪惡團體根本就不是變異體，而是更危險的敵人——人類。你成功探尋到了真相，贏得了潛行者們的尊重。</text>
+	</string>
+
+	<string id="st_sp_achievement_3_name">
+		<text>偵探</text>
+	</string>
+
+	<string id="st_sp_achievement_4_hint">
+		<text>現在潛行者們更重視你了。\n他們讓貿易商人「貓頭鷹」給你折扣。\n大鬍子現在會以最優惠的價格提供給你神器。</text>
+	</string>
+
+	<string id="st_sp_achievement_4_descr">
+		<text>你向強盜以及他們的頭目蘇丹展示了誰才是真正的老大，這為你在潛行者中贏得了人氣。斯卡多夫斯克的大門隨時向你敞開。</text>
+	</string>
+
+	<string id="st_sp_achievement_4_name">
+		<text>我們中的一員</text>
+	</string>
+
+	<string id="st_sp_achievement_5_hint">
+		<text>你贏得了強盜們的尊重。\n貿易商人「貓頭鷹」害怕他會成為你的下一個受害者，因此給了你折扣。\n按照約定，大鬍子會把他的一部分收益給你。</text>
+	</string>
+
+	<string id="st_sp_achievement_5_descr">
+		<text>你用計謀幫助蘇丹打贏了潛行者，並把大鬍子的生意收歸己有。扎通的人們如今對你是又敬又怕。</text>
+	</string>
+
+	<string id="st_sp_achievement_5_name">
+		<text>大佬</text>
+	</string>
+
+	<string id="st_sp_achievement_6_hint">
+		<text>潛行者們決定把「喜鵲」以欺瞞手段拿到的戰利品分給更值得的人。他們把他的東西放在了你留在亞尼夫的私人儲物箱裡。</text>
+	</string>
+
+	<string id="st_sp_achievement_6_descr">
+		<text>你將那個人渣繩之以法。「喜鵲」欺騙了很多潛行者，現在他的報應來了。</text>
+	</string>
+
+	<string id="st_sp_achievement_6_name">
+		<text>正義使者</text>
+	</string>
+
+	<string id="st_sp_achievement_7_hint">
+		<text>現在潛行者們更重視你了。\n只要你冒險進入特異區，強盜們就會不遺餘力追殺你。</text>
+	</string>
+
+	<string id="st_sp_achievement_7_descr">
+		<text>你找到了特異區研究人員已知的所有神器種類。這為你贏得了潛行者的尊重和強盜的密切關注。</text>
+	</string>
+
+	<string id="st_sp_achievement_7_name">
+		<text>神器獵手</text>
+	</string>
+
+	<string id="st_sp_achievement_8_hint">
+		<text>卡丹可以進行一項獨特的改造，透過安裝液壓伺服電機增壓器，能讓你在穿著強化服的時候移動更迅速。</text>
+	</string>
+
+	<string id="st_sp_achievement_8_descr">
+		<text>現在卡丹有了所有需要的工具，他將能夠進行新的更複雜的升級。</text>
+	</string>
+
+	<string id="st_sp_achievement_8_name">
+		<text>武器系統專家</text>
+	</string>
+
+	<string id="st_sp_achievement_9_hint">
+		<text>阿佐可以進行一項獨特的戰術頭盔改造：裝備上一個紅外線掃描儀，用來偵察附近的人類。</text>
+	</string>
+
+	<string id="st_sp_achievement_9_descr">
+		<text>阿佐已經擁有了所有特異區技術人員夢寐以求的工具。現在他能夠進行一些高科技改造。</text>
+	</string>
+
+	<string id="st_sp_achievement_9_name">
+		<text>高科技專家</text>
+	</string>
+
+	<string id="st_sp_achievement_10_hint">
+		<text>你的經驗讓你能夠更經常找到罕見神器。</text>
+	</string>
+
+	<string id="st_sp_achievement_10_descr">
+		<text>特異區中心你能去的地方幾乎都去遍了，你已經成為了每一個當地特異點的常客了。</text>
+	</string>
+
+	<string id="st_sp_achievement_10_name">
+		<text>老練潛行者</text>
+	</string>
+
+	<string id="st_sp_achievement_11_hint">
+		<text>你的領袖品質提高了你的團隊的生存機率。</text>
+	</string>
+
+	<string id="st_sp_achievement_11_descr">
+		<text>你需要完成一項團隊工作，所以你組建了一個厲害的小隊並證明了自己的領導地位。</text>
+	</string>
+
+	<string id="st_sp_achievement_11_name">
+		<text>領袖</text>
+	</string>
+
+	<string id="st_sp_achievement_12_hint">
+		<text>自由團、紀律團、自由潛行者，甚至是強盜都認可你的談判技巧，並給予你高度評價。</text>
+	</string>
+
+	<string id="st_sp_achievement_12_descr">
+		<text>你懂得如何和平解決問題。如果僅憑三言兩語就可以化解爭議，誰會想要兵戎相見呢？儘管如此，你還是要小心那些一言不發就先動刀動槍的人。</text>
+	</string>
+
+	<string id="st_sp_achievement_12_name">
+		<text>外交官</text>
+	</string>
+
+	<string id="st_sp_achievement_13_descr">
+		<text>你已經和科學家們共事很久了，久到你可以名副其實地被稱作助理研究員。科學家所在地堡裡的所有人都把你視作他們中的一份子。</text>
+	</string>
+
+	<string id="st_sp_achievement_13_name">
+		<text>研究助理</text>
+	</string>
+
+	<string id="st_sp_achievement_14_hint">
+		<text>你與紀律團的關係有所改善。當你陷入困境時，紀律團的戰士們會盡力幫助你。\n支持紀律團的技術人員阿佐給了你折扣。\n你與自由團的關係惡化了。\n支持自由團的貿易商人「夏威夷人」將會收你更多的錢。</text>
+	</string>
+
+	<string id="st_sp_achievement_14_descr">
+		<text>你幫了紀律團很多忙，因此贏得了紀律團戰士們的尊重並成為了他們的朋友。但請記住：特異區裡並不是所有人都支持紀律團。</text>
+	</string>
+
+	<string id="st_sp_achievement_14_name">
+		<text>紀律團的朋友</text>
+	</string>
+
+	<string id="st_sp_achievement_15_hint">
+		<text>你與自由團的關係有所改善。當你陷入困境時，自由團的戰士們會盡力幫助你。\n支持自由團的貿易商人「夏威夷人」給了你折扣。\n你與紀律團的關係惡化了。\n支持紀律團的技術人員阿佐將會收你更多的錢。</text>
+	</string>
+
+	<string id="st_sp_achievement_15_descr">
+		<text>你幫了自由團很多忙，因此贏得了自由團戰士們的尊重並成為了他們的朋友。但請記住：特異區裡並不是所有人都支持自由團。</text>
+	</string>
+
+	<string id="st_sp_achievement_15_name">
+		<text>自由團的朋友</text>
+	</string>
+
+	<string id="st_sp_achievement_16_hint">
+		<text>亞尼夫的潛行者們看重紀律團和自由團兩者的力量平衡，這就是為甚麼技術人員和貿易商人現在都給了你折扣。</text>
+	</string>
+
+	<string id="st_sp_achievement_16_descr">
+		<text>你沒有支持任何一個派閥陣營，總是以自由潛行者的身份行動。你既沒有樹敵，也沒有交到新朋友。</text>
+	</string>
+
+	<string id="st_sp_achievement_16_name">
+		<text>平衡之人</text>
+	</string>
+
+	<string id="st_sp_achievement_17_hint">
+		<text>貿易商人會提供給你更多罕見和昂貴的商品。</text>
+	</string>
+
+	<string id="st_sp_achievement_17_descr">
+		<text>儘管你知道囊中羞澀是什麼感受，但目前你的狀況還不錯。事實上，有時你的財富數目相當可觀，而貿易商人就喜歡你這種身價的客人。</text>
+	</string>
+
+	<string id="st_sp_achievement_17_name">
+		<text>富有客戶</text>
+	</string>
+
+	<string id="st_sp_achievement_18_hint">
+		<text>在拿到筆記後，史特列洛克找到了活下去的理由並將此設為目標，無論代價如何。</text>
+	</string>
+
+	<string id="st_sp_achievement_18_descr">
+		<text>你的深謀遠慮發揮了效用：在史特列洛克小隊的藏匿點處，你找到了筆記並一直保管著它們，直到遇到它們的真正主人。</text>
+	</string>
+
+	<string id="st_sp_achievement_18_name">
+		<text>秘密保管者</text>
+	</string>
+
+	<string id="st_sp_achievement_19_descr">
+		<text>多虧了抗生素藥片，在沒有掩護的情況下，你已經在能量釋放中存活下來了3次。目前還不清楚這會對你的心理造成什麼影響，因為你注意到你的腦海裡出現了一片怪異的寂靜。你似乎再也聽不到源源不絕的思緒了。</text>
+	</string>
+
+	<string id="st_sp_achievement_19_name">
+		<text>被特異區標記</text>
+	</string>
+
+	<string id="st_sp_achievement_20_hint">
+		<text>貿易商人「貓頭鷹」將你視為他最棒的密告者和搭檔，因此給了你折扣。</text>
+	</string>
+
+	<string id="st_sp_achievement_20_descr">
+		<text>當你得到一條情報時，你總能找到合適的買家。顯然，你在向需要者售賣情報時，心中早已算好了可圖之利。</text>
+	</string>
+
+	<string id="st_sp_achievement_20_name">
+		<text>情報販子</text>
+	</string>
+
+	<string id="st_sp_achievement_21_hint">
+		<text>你與潛行者的關係有所改善。當你陷入困境時，潛行者們會盡力幫助你。\n潛行者的醫護人員同意以成本價售賣醫療用品給你。</text>
+	</string>
+
+	<string id="st_sp_achievement_21_descr">
+		<text>你經常幫助潛行者們脫困。儘管他們的派閥並不十分緊密團結，你還是擁有了這些非官方潛行者兄弟們作為盟友，他們會在戰鬥或之後的事件中幫助你。</text>
+	</string>
+
+	<string id="st_sp_achievement_21_name">
+		<text>潛行者的朋友</text>
+	</string>
+
+	<string id="st_sp_achievement_1_hint">
+		<text>有了各式各樣的情報，赫爾曼教授和奧澤斯基教授就能創作一種新的實驗性藥物，也就是用在特異區的復甦藥。</text>
+	</string>
+
+	<string id="st_sp_achievement_19_hint">
+		<text>只要你的健康狀況良好，即便不使用藥物，也有機會在能量釋放中存活下來。</text>
+	</string>
+
+	<string id="st_sp_achievement_13_hint">
+		<text>鑑於你發揮的作用，赫爾曼教授將以成本價提供給你專供地堡工作人員使用的醫療用品和設備。\n諾維可夫跟你太熟了，以至於你只需支付他改造所需的零件花費。</text>
+	</string>
+
+	<string id="st_sp_achievement_hidden">
+		<text>隱藏</text>
+	</string>
+
+	<string id="st_sp_achievement_locked">
+		<text>鎖定</text>
+	</string>
+
+	<string id="st_sp_achievement_new_10_desc">
+		<text>與挪亞見面。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_10_name">
+		<text>沒有方舟 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_11_desc">
+		<text>首次進入亞諾夫。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_11_name">
+		<text>前往亞諾夫的火車 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_12_desc">
+		<text>搜查所有魔鬼魚直升機。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_12_name">
+		<text>不完美的計劃 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_13_desc">
+		<text>集合隊伍並前往天橋。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_13_name">
+		<text>被遺忘的道路 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_14_desc">
+		<text>首次進入洗衣店。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_14_name">
+		<text>煉獄 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_15_desc">
+		<text>尋找未來的武器。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_15_name">
+		<text>62號物品 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_16_desc">
+		<text>拿取X-8實驗室的所有文件。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_16_name">
+		<text>圖書管理員 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_17_desc">
+		<text>乘搭直升機撤離以完成遊戲。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_17_name">
+		<text>撤離 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_18_desc">
+		<text>完成遊戲，並決定留在特異區內。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_18_name">
+		<text>天生潛行者 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_19_desc">
+		<text>尋找米隆。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_19_name">
+		<text>是你嗎，米隆？ </text>
+	</string>
+
+	<string id="st_sp_achievement_new_1_desc">
+		<text>尋找傳奇的「綠洲之心」</text>
+	</string>
+
+	<string id="st_sp_achievement_new_1_name">
+		<text>大自然的禮物 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_20_desc">
+		<text>與皮處哈見面，協助他逃離特異點。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_20_name">
+		<text>老相識 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_21_desc">
+		<text>用手榴彈殺死100個敵人。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_21_name">
+		<text>幹員F-1</text>
+	</string>
+
+	<string id="st_sp_achievement_new_22_desc">
+		<text>同時裝備「雪花」、「火焰球」、「石花」和「月光」。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_22_name">
+		<text>自然災害</text>
+	</string>
+
+	<string id="st_sp_achievement_new_23_desc">
+		<text>以新手難度完成遊戲。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_23_name">
+		<text>全都是假的 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_24_desc">
+		<text>以潛行者難度完成遊戲。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_24_name">
+		<text>情報人員 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_25_desc">
+		<text>以老兵或高手難度完成遊戲。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_25_name">
+		<text>特異區會記住我們 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_26_desc">
+		<text>完成《S.T.A.L.K.E.R.: Call of Prypiat》 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_26_name">
+		<text>無法抗拒的呼喚 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_27_desc">
+		<text>拿到所有獎盃。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_27_hint">
+		<text>「普里皮亞季_專家」提示</text>
+	</string>
+
+	<string id="st_sp_achievement_new_27_name">
+		<text>普里皮亞季專家</text>
+	</string>
+
+	<string id="st_sp_achievement_new_2_desc">
+		<text>你獵殺了300個變異體 � 特異區變得更安全了，至少暫時是這樣。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_2_name">
+		<text>超級掠食者 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_3_desc">
+		<text>你喝了100瓶能量飲料。特異區太大了，可不能放慢腳步。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_3_name">
+		<text>咖啡反應者 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_4_desc">
+		<text>聽完所有弗林特的故事。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_4_name">
+		<text>小木偶 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_5_desc">
+		<text>用每台探測器至少找到一件神器。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_5_name">
+		<text>探測高手 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_6_desc">
+		<text>在最後的撤離中，救出柯瓦斯基組織的所有潛行者。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_6_name">
+		<text>及時支援 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_7_desc">
+		<text>找到並取得扎通所有含有武器的藏匿點裡的物品。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_7_name">
+		<text>掘地三尺</text>
+	</string>
+
+	<string id="st_sp_achievement_new_8_desc">
+		<text>殺死三隻吵鬧鬼。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_8_name">
+		<text>捉鬼敢死隊 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_9_desc">
+		<text>首次進入斯卡多夫斯克。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_9_name">
+		<text>永不沉沒 </text>
+	</string>
+
+	<string id="st_sp_achievement_popup">
+		<text>已解鎖挑戰： </text>
+	</string>
+	<string id="st_sp_achievement_state">
+		<text>狀態： </text>
+	</string>
+
+	<string id="st_sp_achievement_unlocked">
+		<text>已解鎖</text>
+	</string>
+
+</string_table>

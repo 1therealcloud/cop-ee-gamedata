@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="team_1_desc">
+		<text>变异区的无政府主义者。他们认为变异区是一个自由的避难所，并认为外部世界的所有法律、规则和惯例在这里都无效。他们的座右铭是“做你自己，少管闲事”。自由会反抗政府控制变异区的企图，并与雇佣军交战。其成员主要装备苏联和俄罗斯的枪械。</text>
+	</string>
+
+	<string id="team_1_name">
+		<text>自由派系（自由潜行者）</text>
+	</string>
+
+	<string id="team_2_desc">
+		<text>这些寻求冒险的杀手来自世界各地，对最肮脏的工作也来者不拒。他们的座右铭是“金钱没有气味”。只要还有对超自然体的需求，他们就会继续为了彻底控制超自然体的产地而战。雇佣兵主要装备西方国家的枪械。</text>
+	</string>
+
+	<string id="team_2_name">
+		<text>佣兵派系（匪徒）</text>
+	</string>
+
+</string_table>

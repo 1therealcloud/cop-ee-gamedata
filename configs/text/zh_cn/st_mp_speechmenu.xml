@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="speech_attack">
+		<text>所有人，攻击！</text>
+	</string>
+
+	<string id="speech_covermeartifact">
+		<text>我要去拿超自然体！掩护我！</text>
+	</string>
+
+	<string id="speech_followme">
+		<text>跟着我！</text>
+	</string>
+
+	<string id="speech_guardartifact">
+		<text>现在守卫超自然体。暂时不要拿！</text>
+	</string>
+
+	<string id="speech_holdingpos">
+		<text>我在坚守位置！</text>
+	</string>
+
+	<string id="speech_holdpos">
+		<text>坚守你的位置！</text>
+	</string>
+
+	<string id="speech_icoverartifact">
+		<text>夺取超自然体！我会掩护你！</text>
+	</string>
+
+	<string id="speech_needhelp">
+		<text>我需要帮助！</text>
+	</string>
+
+	<string id="speech_needmoney">
+		<text>我没有钱，给我买些装备！</text>
+	</string>
+
+	<string id="speech_no">
+		<text>不。</text>
+	</string>
+
+	<string id="speech_noenemy">
+		<text>未发现敌人！</text>
+	</string>
+
+	<string id="speech_report">
+		<text>立即回复！</text>
+	</string>
+
+	<string id="speech_retreat">
+		<text>撤退！</text>
+	</string>
+
+	<string id="speech_returntheartefact">
+		<text>带回超自然体！</text>
+	</string>
+
+	<string id="speech_roger">
+		<text>收到。</text>
+	</string>
+
+	<string id="speech_silence">
+		<text>闭嘴！</text>
+	</string>
+
+	<string id="speech_sticktogether">
+		<text>保持队型。</text>
+	</string>
+
+	<string id="speech_takeartifact">
+		<text>夺取超自然体！</text>
+	</string>
+
+</string_table>

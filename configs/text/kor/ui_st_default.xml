@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ls_c_tip_82">
+		<text>몇몇 장소는 앉아서 숙인 자세로도 지나가기가 불가능합니다. 땅에 바짝 엎드리기 위해서는 $$ACTION_CROUCH$$를 홀드하십시오.</text>
+	</string>
+	<string id="legend_ui_talk_reply">
+		<text>$$ACTION_UI_ACCEPT$$ 대화하기</text>
+	</string>
+</string_table>

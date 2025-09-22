@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_ach_balance_advocate">
+		<text>Elйrted az Egyensъly embere kihнvбst.</text>
+	</string>
+
+	<string id="st_ach_battle_systems_master">
+		<text>Elйrted a Fegyverrendszerek mestere kihнvбst.</text>
+	</string>
+
+	<string id="st_ach_detective">
+		<text>Elйrted a Detektнv kihнvбst.</text>
+	</string>
+
+	<string id="st_ach_diplomat">
+		<text>Elйrted a Diplomata kihнvбst.</text>
+	</string>
+
+	<string id="st_ach_friend_of_duty">
+		<text>Elйrted a Vбmbarбt kihнvбst.</text>
+	</string>
+
+	<string id="st_ach_friend_of_freedom">
+		<text>Elйrted a Szabadsбg barбtja kihнvбst.</text>
+	</string>
+
+	<string id="st_ach_friend_of_stalkers">
+		<text>Elйrted az Orvvadбszok barбtja kihнvбst.</text>
+	</string>
+
+	<string id="st_ach_herald_of_justice">
+		<text>Elйrted az Igazsбg hнrvivхje kihнvбst.</text>
+	</string>
+
+	<string id="st_ach_high_tech_master">
+		<text>Elйrted a Hi-Tech szakember kihнvбst.</text>
+	</string>
+
+	<string id="st_ach_information_dealer">
+		<text>Elйrted a Kцzlekedйsi szakember kihнvбst.</text>
+	</string>
+
+	<string id="st_ach_keeper_of_secrets">
+		<text>Elйrted a Titoktartу kihнvбst.</text>
+	</string>
+
+	<string id="st_ach_kingpin">
+		<text>Elйrted a Fхnцk kihнvбst.</text>
+	</string>
+
+	<string id="st_ach_leader">
+		<text>Elйrted a Vezetх kihнvбst.</text>
+	</string>
+
+	<string id="st_ach_mutant_hunter">
+		<text>Elйrted a Mutбnsvadбsz kihнvбst.</text>
+	</string>
+
+	<string id="st_ach_one_of_the_lads">
+		<text>Elйrted a Mieink egyike kihнvбst.</text>
+	</string>
+
+	<string id="st_ach_pioneer">
+		<text>Elйrted az Ъttцrх kihнvбst.</text>
+	</string>
+
+	<string id="st_ach_research_man">
+		<text>Elйrted a Kutatбsi segйd kihнvбst.</text>
+	</string>
+
+	<string id="st_ach_seeker">
+		<text>Elйrted a Tбrgyvadбsz kihнvбst.</text>
+	</string>
+
+	<string id="st_ach_skilled_stalker">
+		<text>Elйrted a Tapasztalt orvvadбsz kihнvбst.</text>
+	</string>
+
+	<string id="st_ach_wealthy">
+		<text>Elйrted a Jуmуdъ ьgyfйl kihнvбst.</text>
+	</string>
+
+	<string id="st_press_any_key">
+		<text>A jбtйkhoz nyomj meg bбrmilyen gombot</text>
+		<text_ps4>A jбtйkhoz nyomj meg bбrmilyen gombot</text_ps4>
+	</string>
+
+</string_table>

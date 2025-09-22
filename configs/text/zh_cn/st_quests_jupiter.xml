@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="jup_a10_actor_agree_back_vano_duties_name">
+		<text>债务：把钱带去给强盗</text>
+	</string>
+
+	<string id="jup_a10_actor_agree_back_vano_duties_text">
+		<text>瓦诺欠强盗一件衣服的钱，因为利息滚得太快，他还不起了。他希望你出面解决这个问题。</text>
+	</string>
+
+	<string id="jup_a10_actor_back_vano_duties_name">
+		<text>债务：回到瓦诺那里</text>
+	</string>
+
+	<string id="jup_a10_actor_back_vano_duties_text">
+		<text>告诉瓦诺他的债务偿还情况。</text>
+	</string>
+
+	<string id="jup_a10_kill_all_bandit_name">
+		<text>债务：解决强盗</text>
+	</string>
+
+	<string id="jup_a10_kill_all_bandit_text">
+		<text>偿还瓦诺的债务时出了问题。把强盗都干掉。</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_get_reward_name">
+		<text>人质：去米提亚的朋友那里领取奖励</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_get_reward_text">
+		<text>米提亚重获自由。去酒吧找他的朋友，领取你的奖励。</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_name">
+		<text>人质：解救米提亚</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_not_ready_name">
+		<text>人质：和灰熊谈谈，确保他已经准备就绪</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_not_ready_text">
+		<text>在尝试解救人质前，你必须先和灰熊谈谈。</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_power_name">
+		<text>人质：使用武力解救米提亚</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_power_text">
+		<text>你必须消灭强盗才能解救名为米提亚的潜行者。</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_power_wait_name">
+		<text>人质：与潜行者见面</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_power_wait_text">
+		<text>潜行者会帮助你解救人质。你要在晚上和他们见面，一起袭击强盗。</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_ransom_name">
+		<text>人质：为解救米提亚准备一笔赎金</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_ransom_text">
+		<text>准备一笔赎金给强盗首领，让他释放一名叫米提亚的潜行者。</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_text">
+		<text>解救一名叫米提亚的潜行者，他被强盗抓走当人质了。</text>
+	</string>
+
+	<string id="jup_a12_guide_prisoner_name">
+		<text>人质：带着米提亚离开强盗营地</text>
+	</string>
+
+	<string id="jup_a12_guide_prisoner_text">
+		<text>强盗营地太危险，不能待在里面。你必须护送米提亚离开营地。</text>
+	</string>
+
+	<string id="jup_a12_talk_with_prisoner_name">
+		<text>人质：和米提亚交谈</text>
+	</string>
+
+	<string id="jup_a12_talk_with_prisoner_text">
+		<text>米提亚暂时安全了。和他谈谈你的下一步行动。</text>
+	</string>
+
+	<string id="jup_a9_way_to_pripyat_tech_name">
+		<text>前往普里皮亚季的路：和技术员谈谈地下通道的事</text>
+	</string>
+
+	<string id="jup_a9_way_to_pripyat_tech_text">
+		<text>你找到的文件里说得很清楚，木星工厂的下面有一条地下通道，能够通往普里皮亚季。地下通道没有电，充满了毒气，入口也被封闭了。你必须找个能启动发电机的技术员，打开地下通道的门锁。</text>
+	</string>
+
+	<string id="jup_b10_ufo_memory_at_text">
+		<text>内存模块已经送到了专家手里。你必须等待它被破解完成。</text>
+	</string>
+
+	<string id="jup_b10_ufo_memory_name">
+		<text>无人机：破解内存模块</text>
+	</string>
+
+	<string id="jup_b10_ufo_memory_nitro_name">
+		<text>无人机：从氮气那里取回内存模块</text>
+	</string>
+
+	<string id="jup_b10_ufo_memory_novikov_name">
+		<text>无人机：从诺维科夫那里取回内存模块</text>
+	</string>
+
+	<string id="jup_b10_ufo_memory_repaired_by_nitro_text">
+		<text>氮气已经破解了内存模块。你要去把它取回来，看看里面有什么信息。</text>
+	</string>
+
+	<string id="jup_b10_ufo_memory_repaired_by_novikov_text">
+		<text>诺维科夫已经破解了内存模块。你要去把它取回来，看看里面有什么信息。</text>
+	</string>
+
+	<string id="jup_b10_ufo_memory_started_text">
+		<text>你从无人机上抢救出了一个内存模块。你需要破解它才能获得里面的信息。</text>
+	</string>
+
+	<string id="jup_b10_ufo_memory_wait_name">
+		<text>无人机：等待内存模块破解完成</text>
+	</string>
+
+	<string id="jup_b16_oasis_art_name">
+		<text>绿洲：找到证据</text>
+	</string>
+
+	<string id="jup_b16_oasis_art_text">
+		<text>绿洲已经被找到了，这地方确实有治疗功效。你要找到证据带回去给科学家。</text>
+	</string>
+
+	<string id="jup_b16_oasis_artifact_back_name">
+		<text>绿洲：把证据交给科学家</text>
+	</string>
+
+	<string id="jup_b16_oasis_artifact_back_text">
+		<text>绿洲已经被找到了，这地方确实有治疗功效。你要把找到的超自然体带回去交给科学家，以此作为证据。</text>
+	</string>
+
+	<string id="jup_b16_oasis_name">
+		<text>绿洲：确认传说是不是真的</text>
+	</string>
+
+	<string id="jup_b16_oasis_text">
+		<text>奥泽斯基是碉堡里的一名科学家，他让你去寻找变异区内一处传说中的绿洲。根据流言，那里的水有治疗功效，但没人知道这地方是否真的存在。</text>
+	</string>
+
+	<string id="jup_b19_agreed_to_go_name">
+		<text>科帕奇：和亚尔大叔同行</text>
+	</string>
+
+	<string id="jup_b19_agreed_to_go_text">
+		<text>亚尔大叔需要你的帮助。你要和他一起去科帕奇村。</text>
+	</string>
+
+	<string id="jup_b19_destroy_mercs_name">
+		<text>科帕奇：消灭雇佣兵</text>
+	</string>
+
+	<string id="jup_b19_destroy_mercs_text">
+		<text>看来亚尔大叔已经预料到雇佣兵会来。你必须消灭他们。</text>
+	</string>
+
+	<string id="jup_b19_following_yar_name">
+		<text>科帕奇：跟紧亚尔大叔</text>
+	</string>
+
+	<string id="jup_b19_following_yar_text">
+		<text>亚尔大叔让你跟紧他，保持安静。</text>
+	</string>
+
+	<string id="jup_b19_talk_to_yar_name">
+		<text>科帕奇：和亚尔大叔交谈</text>
+	</string>
+
+	<string id="jup_b19_talk_to_yar_text">
+		<text>雇佣兵都死了。你要去和亚尔大叔谈谈，弄清楚到底怎么回事。</text>
+	</string>
+
+	<string id="jup_b1_bring_art_back_name">
+		<text>间歇性心灵喷发：将异常物质带给科学家</text>
+	</string>
+
+	<string id="jup_b1_bring_art_back_text">
+		<text>按照说好的，你要把找到的样本交给赫尔曼。看起来，这像是间歇性心灵喷发的源头，由于暴露在异常区域中，它已经半异化了。</text>
+	</string>
+
+	<string id="jup_b1_get_art_name">
+		<text>间歇性心灵喷发：调查源头</text>
+	</string>
+
+	<string id="jup_b1_get_art_text">
+		<text>调查隧道中的某种异常物质。科学家相信这种间歇性的心灵场有源头，很可能就是一个超自然体。</text>
+	</string>
+
+	<string id="jup_b1_join_squad_name">
+		<text>间歇性心灵喷发：和白杨的小队见面</text>
+	</string>
+
+	<string id="jup_b1_join_squad_text">
+		<text>白杨的小队去了有间歇性心灵喷发的隧道，你必须去那里和他们碰头。</text>
+	</string>
+
+	<string id="jup_b1_meet_squad_name">
+		<text>间歇性心灵喷发：和白杨交谈</text>
+	</string>
+
+	<string id="jup_b1_meet_squad_text">
+		<text>加入白杨的小队，前往出现间歇性心灵喷发的隧道。按照协议，在你搜寻科学家想要的东西时，潜行者会守在隧道入口。</text>
+	</string>
+
+	<string id="jup_b200_tech_materials_brought_all_text">
+		<text>你要把找到的所有无线电技术材料交给氮气。</text>
+	</string>
+
+	<string id="jup_b200_tech_materials_brought_some_text">
+		<text>氮气需要无线电技术材料。你可以把自己已经有的交给他，或者再去给他找一点。</text>
+	</string>
+
+	<string id="jup_b200_tech_materials_name">
+		<text>无线电设备：给氮气找材料</text>
+	</string>
+
+	<string id="jup_b200_tech_materials_text">
+		<text>氮气需要无线电技术材料。他说你要去水泥厂找找。</text>
+	</string>
+
+	<string id="jup_b202_actor_items_stolen_01_name">
+		<text>盗窃：找到要为此事负责的小偷</text>
+	</string>
+
+	<string id="jup_b202_actor_items_stolen_01_text">
+		<text>问问亚诺夫的潜行者，有没有可疑的人从个人储物箱里偷东西。</text>
+	</string>
+
+	<string id="jup_b202_actor_items_stolen_02_name">
+		<text>盗窃：查看变电站</text>
+	</string>
+
+	<string id="jup_b202_actor_items_stolen_02_text">
+		<text>你需要去变电站看看，那个可能是小偷的可疑潜行者往那儿去了。</text>
+	</string>
+
+	<string id="jup_b202_actor_items_stolen_03_name">
+		<text>盗窃：拿走你的东西</text>
+	</string>
+
+	<string id="jup_b202_actor_items_stolen_03_text">
+		<text>漂流木偷的所有东西应该都藏在变电站后面的排水沟里。</text>
+	</string>
+
+	<string id="jup_b206_anomalous_grove_get_plant_name">
+		<text>异常植物：采集一份植物样本</text>
+	</string>
+
+	<string id="jup_b206_anomalous_grove_get_plant_text">
+		<text>采石场的边缘地带出现了一片长满异常植物的地区。奥泽斯基让你去采一份植物样本，以便他进行研究。</text>
+	</string>
+
+	<string id="jup_b206_anomalous_grove_have_plant_name">
+		<text>异常植物：把样本交给奥泽斯基</text>
+	</string>
+
+	<string id="jup_b206_anomalous_grove_have_plant_text">
+		<text>你要把植物样本交给奥泽斯基。作为交换，奥泽斯基会说服赫尔曼转让一套科学防护服。</text>
+	</string>
+
+	<string id="jup_b208_burers_hunt_kill_burers_name">
+		<text>猎杀：消灭不明的变异体</text>
+	</string>
+
+	<string id="jup_b208_burers_hunt_kill_burers_text">
+		<text>在木星工厂北部的隧道里，有一队潜行者遭遇了不明变异体。你要去调查一下这片区域，消灭变异体。</text>
+	</string>
+
+	<string id="jup_b208_burers_hunt_take_reward_name">
+		<text>猎杀：去捕兽师那里领取消灭变异体的奖励</text>
+	</string>
+
+	<string id="jup_b208_burers_hunt_take_reward_text">
+		<text>位于木星工厂北部隧道的变异体均已消灭。你要去通知捕兽师，领取奖励。</text>
+	</string>
+
+	<string id="jup_b209_hypotheses_1_name">
+		<text>猜想：把扫描仪放到塌方的中心</text>
+	</string>
+
+	<string id="jup_b209_hypotheses_1_text">
+		<text>把扫描仪放到塌方的中心，验证奥泽斯基的猜想。</text>
+	</string>
+
+	<string id="jup_b209_hypotheses_2_name">
+		<text>猜想：等待实验结束</text>
+	</string>
+
+	<string id="jup_b209_hypotheses_2_text">
+		<text>扫描仪现在处于开启模式，已经开始记录变异体的情况。你必须等待，直到收集到足够的数据来确认或者推翻这个猜想。</text>
+	</string>
+
+	<string id="jup_b209_hypotheses_3_name">
+		<text>猜想：拿起扫描仪</text>
+	</string>
+
+	<string id="jup_b209_hypotheses_3_text">
+		<text>你已收集到足够的数据来确认奥泽斯基的猜想。把扫描仪拿起来吧。</text>
+	</string>
+
+	<string id="jup_b209_hypotheses_4_name">
+		<text>猜想：把扫描仪交给奥泽斯基</text>
+	</string>
+
+	<string id="jup_b209_hypotheses_4_text">
+		<text>你必须把扫描仪交给奥泽斯基。目前收集到的数据已经足够确认他的猜想了。</text>
+	</string>
+
+	<string id="jup_b211_kill_bloodsuckers_name">
+		<text>猎杀：杀死沼泽吸血怪</text>
+	</string>
+
+	<string id="jup_b211_kill_bloodsuckers_text">
+		<text>有人在芦苇地看到一群沼泽吸血怪，就在水泥厂后面。当地的潜行者希望你去灭干净。</text>
+	</string>
+
+	<string id="jup_b211_take_reward_name">
+		<text>猎杀：去捕兽师那里领取消灭沼泽吸血怪的奖励</text>
+	</string>
+
+	<string id="jup_b211_take_reward_text">
+		<text>沼泽吸血怪都死了。你要去找捕兽师，领取本地潜行者给你的奖励。</text>
+	</string>
+
+	<string id="jup_b212_jupiter_kill_chimera_name">
+		<text>夜晚狩猎：杀死奇美拉</text>
+	</string>
+
+	<string id="jup_b212_jupiter_kill_chimera_text">
+		<text>奇美拉是在夜晚出没的捕食者，没有人知道它白天藏身何处。你必须等它晚上在通风综合楼旁边捕猎的时候杀死它。</text>
+	</string>
+
+	<string id="jup_b212_jupiter_tell_animalboy_about_chimera_name">
+		<text>夜晚狩猎：告诉捕兽师奇美拉已经死了</text>
+	</string>
+
+	<string id="jup_b212_jupiter_tell_animalboy_about_chimera_text">
+		<text>猎食者奇美拉已经死了，猎人狐狸大仇已报。去告诉捕兽师。</text>
+	</string>
+
+	<string id="jup_b217_get_tools_1_2_name">
+		<text>工具：把工具带给氮气</text>
+	</string>
+
+	<string id="jup_b217_get_tools_1_2_text">
+		<text>氮气请你找到两套工具：一套基础作业工具，一套精细作业工具。这位技术员表示愿意为这些工具支付报酬，利用它们制作更先进的武器和进行护甲改装。</text>
+	</string>
+
+	<string id="jup_b217_get_tools_1_3_name">
+		<text>工具：把工具带给氮气</text>
+	</string>
+
+	<string id="jup_b217_get_tools_1_3_text">
+		<text>氮气请你找到两套工具：一套基础作业工具，一套校准工具。这位技术员表示愿意为这些工具支付报酬，同时利用它们制作更先进的武器和进行护甲改装。</text>
+	</string>
+
+	<string id="jup_b217_get_tools_1_name">
+		<text>工具：把工具带给氮气</text>
+	</string>
+
+	<string id="jup_b217_get_tools_1_text">
+		<text>氮气请你找到一套基础作业工具。这位技术员表示愿意为这些工具支付报酬，同时利用它们制作更先进的武器和进行护甲改装。</text>
+	</string>
+
+	<string id="jup_b217_get_tools_2_3_name">
+		<text>工具：把工具带给氮气</text>
+	</string>
+
+	<string id="jup_b217_get_tools_2_3_text">
+		<text>氮气请你找到两套工具：一套精细作业工具，一套校准作业工具。这位技术员表示愿意为这些工具支付报酬，同时利用它们制作更先进的武器和进行护甲改装。</text>
+	</string>
+
+	<string id="jup_b217_get_tools_2_name">
+		<text>工具：把工具带给氮气</text>
+	</string>
+
+	<string id="jup_b217_get_tools_2_text">
+		<text>氮气请你找到一套精细作业工具。这位技术员表示愿意为这些工具支付报酬，同时利用它们制作更先进的武器和进行护甲改装。</text>
+	</string>
+
+	<string id="jup_b217_get_tools_3_name">
+		<text>工具：把工具带给氮气</text>
+	</string>
+
+	<string id="jup_b217_get_tools_3_text">
+		<text>氮气请你找到一套校准作业工具。这位技术员表示愿意为这些工具支付报酬，同时利用它们制作更先进的武器和进行护甲改装。</text>
+	</string>
+
+	<string id="jup_b217_mechanic_toolkit_search_name">
+		<text>工具：把工具带给氮气</text>
+	</string>
+
+	<string id="jup_b217_mechanic_toolkit_search_text">
+		<text>氮气请你找到三套工具：一套基础作业工具，一套精细作业工具，一套校准作业工具。这位技术员表示愿意为这些工具支付报酬，同时利用它们制作更先进的武器和进行护甲改装。</text>
+	</string>
+
+	<string id="jup_b218_actor_outfit_name">
+		<text>普里皮亚季 1 号：找到一件带有封闭式循环呼吸模块的防护服</text>
+	</string>
+
+	<string id="jup_b218_actor_outfit_text">
+		<text>你需要一件带有封闭式循环呼吸模块的防护服才能走进普里皮亚季 1 号地下通道，因为里面充满了含有未知物质的二氧化碳。</text>
+	</string>
+
+	<string id="jup_b218_monolith_guide_to_zulus_name">
+		<text>普里皮亚季 1 号：带着游民去见祖鲁</text>
+	</string>
+
+	<string id="jup_b218_monolith_guide_to_zulus_text">
+		<text>你必须带着游民去见祖鲁，让他以新成员的身份加入小队。如果他穿着秘碑战士的衣服一个人去，祖鲁不会欢迎他的到来。</text>
+	</string>
+
+	<string id="jup_b218_monolith_name">
+		<text>普里皮亚季 1 号：和游民谈谈防护服的事</text>
+	</string>
+
+	<string id="jup_b218_monolith_text">
+		<text>普里皮亚季 1 号地下通道里充满了含有未知物质的二氧化碳。你要告诉游民，他需要一件带有封闭式循环呼吸模块的防护服才能穿过地下通道。</text>
+	</string>
+
+	<string id="jup_b218_pripyat_group_gathering_name">
+		<text>普里皮亚季 1 号：召集一支小队前往普里皮亚季</text>
+	</string>
+
+	<string id="jup_b218_pripyat_group_gathering_text">
+		<text>氮气可以打开普里皮亚季 1 号地下通道的大门，但他拒绝在没有防护的情况下走进木星工厂。他还推荐你多找几个人一起穿过地下通道。你已经有祖鲁了，他建议你再派几个新兵给他。</text>
+	</string>
+
+	<string id="jup_b218_pripyat_group_zulus_talk_name">
+		<text>普里皮亚季 1 号：和祖鲁谈谈前往普里皮亚季的事</text>
+	</string>
+
+	<string id="jup_b218_pripyat_group_zulus_talk_text">
+		<text>氮气可以打开普里皮亚季 1 号地下通道的大门，但他拒绝在没有防护的情况下走进木星工厂。他还推荐你多找几个人一起穿过地下通道。他觉得你可以和祖鲁谈谈，因为对方能给你召集一支小队。</text>
+	</string>
+
+	<string id="jup_b218_soldier_guide_to_zulus_name">
+		<text>普里皮亚季 1 号：带着索科洛夫去见祖鲁</text>
+	</string>
+
+	<string id="jup_b218_soldier_guide_to_zulus_text">
+		<text>索科洛夫同意去普里皮亚季，在离开碉堡时他还会带上一件科学防护服。你要带他去见见祖鲁，让他作为新人加入小队。</text>
+	</string>
+
+	<string id="jup_b218_soldier_name">
+		<text>普里皮亚季 1 号：和索科洛夫谈谈防护服的事</text>
+	</string>
+
+	<string id="jup_b218_soldier_talk_to_scientist_name">
+		<text>普里皮亚季 1 号：和奥泽斯基谈谈给索科洛夫准备一件防护服的事</text>
+	</string>
+
+	<string id="jup_b218_soldier_talk_to_scientist_text">
+		<text>索科洛夫愿意穿上科学防护服，但赫尔曼不可能让他把衣服带出碉堡。你要和奥泽斯基谈谈，他这个人比较好说话。</text>
+	</string>
+
+	<string id="jup_b218_soldier_tell_outfit_name">
+		<text>普里皮亚季 1 号：告诉索科洛夫关于科学防护服的事</text>
+	</string>
+
+	<string id="jup_b218_soldier_tell_outfit_text">
+		<text>奥泽斯基对植物样本很满意。他让你去告诉索科洛夫，他可以把自己的科学防护服给赫尔曼。</text>
+	</string>
+
+	<string id="jup_b218_soldier_text">
+		<text>普里皮亚季 1 号地下通道里充满了含有未知物质的二氧化碳。你要告诉索科洛夫，他需要弄一件带有封闭式循环呼吸模块的防护服才能穿过地下通道。</text>
+	</string>
+
+	<string id="jup_b218_stalker_bring_money_name">
+		<text>普里皮亚季 1 号：给瓦诺赎衣服的钱</text>
+	</string>
+
+	<string id="jup_b218_stalker_bring_money_text">
+		<text>瓦诺从强盗那里借钱买来的防护服有封闭式循环呼吸模块，但他还不上钱只好把衣服抵押了。现在，他需要 3000 才能把衣服赎回来。</text>
+	</string>
+
+	<string id="jup_b218_stalker_guide_to_zulus_name">
+		<text>普里皮亚季 1 号：带着瓦诺去见祖鲁</text>
+	</string>
+
+	<string id="jup_b218_stalker_guide_to_zulus_text">
+		<text>瓦诺愿意去普里皮亚季。你要带他去见见祖鲁，让他作为新人加入小队。瓦诺可以在路上把自己的防护服赎回来。</text>
+	</string>
+
+	<string id="jup_b218_stalker_name">
+		<text>普里皮亚季 1 号：和瓦诺谈谈防护服的事</text>
+	</string>
+
+	<string id="jup_b218_stalker_text">
+		<text>普里皮亚季 1 号地下通道里充满了含有未知物质的二氧化碳。你要告诉瓦诺，他需要一件带有封闭式循环呼吸模块的防护服才能穿过地下通道。</text>
+	</string>
+
+	<string id="jup_b25_accuse_flint_end_text">
+		<text>火石、也就是喜鹊，是个狡猾的混蛋。你要把他行踪透露给死水湾的潜行者，其它派系也行。他们会好好给他上一课的。</text>
+	</string>
+
+	<string id="jup_b25_accuse_flint_first_text">
+		<text>火石到处向别人炫耀自己根本没见识过的事。去揭发他。</text>
+	</string>
+
+	<string id="jup_b25_accuse_flint_name">
+		<text>据为己有：教训火石</text>
+	</string>
+
+	<string id="jup_b25_accuse_flint_second_text">
+		<text>火石把其他人的成就都说成自己的。这家伙要吃点苦头，这样才能学会管好自己的舌头。</text>
+	</string>
+
+	<string id="jup_b25_accuse_flint_third_text">
+		<text>火石卖弄得太过分了——你要和他谈谈，让他明白你的意思。</text>
+	</string>
+
+	<string id="jup_b25_senya_accuse_flint_text">
+		<text>火石、也就是喜鹊，是个狡猾的混蛋。你要把他行踪透露给死水湾的潜行者，其它派系也行——这才是最高水平的复仇。</text>
+	</string>
+
+	<string id="jup_b32_get_scanners_task_name">
+		<text>特异点调查：去技术员那里拿扫描仪</text>
+	</string>
+
+	<string id="jup_b32_get_scanners_task_text">
+		<text>去诺维科夫那里拿扫描仪。赫尔曼想收集超自然体形成的数据，为此你必须把扫描仪放置在几个特异点的中心。</text>
+	</string>
+
+	<string id="jup_b32_task_name">
+		<text>特异点调查：把扫描仪放置在特异点</text>
+	</string>
+
+	<string id="jup_b32_task_reward_name">
+		<text>特异点调查：领取你的奖励</text>
+	</string>
+
+	<string id="jup_b32_task_reward_text">
+		<text>你把扫描仪放到了特异点里，去领取奖励。现在扫描仪已经就位，赫尔曼可以开始收集超自然体形成的数据了。</text>
+	</string>
+
+	<string id="jup_b32_task_text">
+		<text>把扫描仪放置在特异点的中心位置。赫尔曼想收集超自然体形成的数据，为此你必须把扫描仪放置在几个特异点的中心。</text>
+	</string>
+
+	<string id="jup_b43_bring_fuzz_kolobok_name">
+		<text>与科学家的合同：把超自然体“姜饼”带给加里克</text>
+	</string>
+
+	<string id="jup_b43_bring_fuzz_kolobok_text">
+		<text>加里克需要超自然体“姜饼”来完成与科学家的合同。把这个超自然体带给他。</text>
+	</string>
+
+	<string id="jup_b43_bring_mincer_meat_name">
+		<text>与科学家的合同：把超自然体“肉块”带给加里克</text>
+	</string>
+
+	<string id="jup_b43_bring_mincer_meat_text">
+		<text>加里克需要超自然体“肉块”来完成与科学家的合同。把这个超自然体带给他。</text>
+	</string>
+
+	<string id="jup_b43_contract_started_name">
+		<text>与科学家的合同：将超自然体“肉块”和“姜饼”带给加里克</text>
+	</string>
+
+	<string id="jup_b43_contract_started_text">
+		<text>加里克需要超自然体“肉块”和“姜饼”来完成他与科学家的合同。把这两个超自然体交给他。</text>
+	</string>
+
+	<string id="jup_b43_thanks_for_2_artifacts_name">
+		<text>与科学家的合同：超自然体已交付</text>
+	</string>
+
+	<string id="jup_b43_thanks_for_2_artifacts_text">
+		<text>加里克拿到这两个超自然体了，他的合同已经完成。</text>
+	</string>
+
+	<string id="jup_b46_duty_founder_pda_name">
+		<text>责任的历史：把责任创始人的 PDA 交给利益相关方</text>
+	</string>
+
+	<string id="jup_b46_duty_founder_pda_text">
+		<text>你找到了责任创始人的个人 PDA，他已经死在了特异点。看看谁会对派系领袖的最后时刻感兴趣，把 PDA 交给他。</text>
+	</string>
+
+	<string id="jup_b46_spatial_bubble_name">
+		<text>异常活动：使用改进后的探测器调查该地区</text>
+	</string>
+
+	<string id="jup_b46_spatial_bubble_text">
+		<text>科学家的扫描仪记录到碉堡北部有异常活动。你要使用改进后的探测器调查该地区。</text>
+	</string>
+
+	<string id="jup_b47_bunker_guards_01_name">
+		<text>保护科学家：找到可靠的人手</text>
+	</string>
+
+	<string id="jup_b47_bunker_guards_01_text">
+		<text>科学家碉堡现在防备空虚。你必须找到可靠的人手来保护它。</text>
+	</string>
+
+	<string id="jup_b47_bunker_guards_02_name">
+		<text>保护科学家：回到赫尔曼那里领取奖励</text>
+	</string>
+
+	<string id="jup_b47_bunker_guards_02_text">
+		<text>你已经找到了守卫科学家碉堡的人手。你要回到赫尔曼那里，领取应得的奖励。</text>
+	</string>
+
+	<string id="jup_b47_jupiter_products_01_name">
+		<text>最新发展：找到木星工厂的文件</text>
+	</string>
+
+	<string id="jup_b47_jupiter_products_01_text">
+		<text>赫尔曼对木星工厂的最新发展很感兴趣。你要前往工厂的行政区，把文件找出来。</text>
+	</string>
+
+	<string id="jup_b47_jupiter_products_02_name">
+		<text>最新发展：带着文件去找赫尔曼</text>
+	</string>
+
+	<string id="jup_b47_jupiter_products_02_text">
+		<text>你找到的文档显示，所有的技术文档都已经转移出工厂了。尽管帮助不大，但你还是要把这个消息告诉赫尔曼。</text>
+	</string>
+
+	<string id="jup_b47_jupiter_products_03_name">
+		<text>最新发展：带着文件和老黑的 PDA 去找赫尔曼</text>
+	</string>
+
+	<string id="jup_b47_jupiter_products_03_text">
+		<text>在你搜索文件时，雇佣兵发动了一次袭击。根据你在他们首领老黑身上找到的 PDA，这些人是来阻止科学家寻找文件的。与此同时，你找到的文档显示，所有的技术文档都已经转移出工厂了。你要把这个消息告诉赫尔曼，给他看看老黑的 PDA。</text>
+	</string>
+
+	<string id="jup_b4_monolith_squad_help_name">
+		<text>秘碑幸存者：和亚诺夫的居民谈谈避难的事</text>
+	</string>
+
+	<string id="jup_b4_monolith_squad_help_text">
+		<text>有一队秘碑战士摆脱了邪教对他们的影响。现在，他们正在寻找掩体躲避喷发和变异体。你要和亚诺夫车站的居民谈谈，说服他们放秘碑小队进去避难。</text>
+	</string>
+
+	<string id="jup_b4_stalkers_come_duty_text">
+		<text>带责任招募官去前秘碑小队那里。如果秘碑战士加入责任，他们就能在亚诺夫车站躲避喷发和变异体。</text>
+	</string>
+
+	<string id="jup_b4_stalkers_come_freedom_text">
+		<text>带自由招募官去前秘碑小队那里。如果秘碑战士加入自由，他们就能在亚诺夫车站躲避喷发和变异体。</text>
+	</string>
+
+	<string id="jup_b4_stalkers_come_name">
+		<text>秘碑幸存者：带招募官去前秘碑小队那里</text>
+	</string>
+
+	<string id="jup_b6_anom_1_guard_name">
+		<text>特异点调查：掩护潜行者</text>
+	</string>
+
+	<string id="jup_b6_anom_1_guard_text">
+		<text>看来在特异点测量引来了变异体。在潜行者采集完所有的数据前，你必须掩护好他们。</text>
+	</string>
+
+	<string id="jup_b6_anom_2_guard_name">
+		<text>特异点调查：掩护潜行者</text>
+	</string>
+
+	<string id="jup_b6_anom_2_guard_text">
+		<text>看来在特异点测量引来了科帕奇的僵尸。在潜行者采集完所有的数据前，你必须掩护好他们。</text>
+	</string>
+
+	<string id="jup_b6_get_reward_name">
+		<text>特异点调查：和赫尔曼交谈</text>
+	</string>
+
+	<string id="jup_b6_get_reward_text">
+		<text>特异点的测量已经完成——去通知科学家，领取你的奖励。</text>
+	</string>
+
+	<string id="jup_b6_get_to_anomal_place_name">
+		<text>特异点调查：和潜行者交谈</text>
+	</string>
+
+	<string id="jup_b6_get_to_anomal_place_text">
+		<text>和负责测量工作的潜行者小队交谈，决定去哪一个特异点。</text>
+	</string>
+
+	<string id="jup_b6_travel_home_name">
+		<text>特异点调查：和潜行者交谈</text>
+	</string>
+
+	<string id="jup_b6_travel_home_text">
+		<text>所有的测量工作都已经完成，你可以与小队一起回到科学家碉堡了。</text>
+	</string>
+
+	<string id="jup_b6_travel_name">
+		<text>特异点调查：和潜行者交谈</text>
+	</string>
+
+	<string id="jup_b6_travel_text">
+		<text>特异点的测量已经结束，现在你要去和小队讨论一下，看看接下来去哪里。</text>
+	</string>
+
+	<string id="jup_b6_watch_topol_squad_six_name">
+		<text>特异点调查：掩护潜行者</text>
+	</string>
+
+	<string id="jup_b6_watch_topol_squad_six_text">
+		<text>赫尔曼交给你一个任务，让你在潜行者去往特异点测量时给他们提供掩护。</text>
+	</string>
+
+	<string id="jup_b8_heli_4_crash_name">
+		<text>魔鬼鱼 4 号：调查失事点</text>
+	</string>
+
+	<string id="jup_b8_heli_4_crash_name_2">
+		<text>魔鬼鱼 4 号：找到电路烧毁的原因</text>
+	</string>
+
+	<string id="jup_b8_heli_4_crash_text">
+		<text>调查魔鬼鱼 4 号直升机失事地点。</text>
+	</string>
+
+	<string id="jup_b8_heli_4_crash_text_2">
+		<text>你必须找到击中魔鬼鱼 4 号直升机的强大电荷的源头。</text>
+	</string>
+
+	<string id="jup_b9_blackbox_decrypting_name">
+		<text>魔鬼鱼 1 号：把黑匣子交给一名技术员来破译</text>
+	</string>
+
+	<string id="jup_b9_blackbox_decrypting_text">
+		<text>魔鬼鱼 1 号的黑匣子没有在坠机中损毁。你要把它交给一名技术员进行破译，这样才能获得里面的信息。</text>
+	</string>
+
+	<string id="jup_b9_blackbox_descrypted_after_3_name">
+		<text>魔鬼鱼 1 号：等待黑匣子破译完成</text>
+	</string>
+
+	<string id="jup_b9_blackbox_descrypted_after_3_text">
+		<text>氮气同意破译黑匣子。他说可能需要三个小时。你要等待他破译完成。</text>
+	</string>
+
+	<string id="jup_b9_go_for_blackbox_descryption_name">
+		<text>魔鬼鱼 1 号：回到氮气那里查看黑匣子里的信息</text>
+	</string>
+
+	<string id="jup_b9_go_for_blackbox_descryption_text">
+		<text>氮气现在应该已经完成了破译工作。去他那里看看，弄清楚黑匣子里到底藏着什么信息。</text>
+	</string>
+
+	<string id="jup_b9_heli_1_crash_name">
+		<text>魔鬼鱼 1 号：调查失事地点</text>
+	</string>
+
+	<string id="jup_b9_heli_1_crash_text">
+		<text>调查魔鬼鱼 1 号直升机失事地点。</text>
+	</string>
+
+	<string id="pas_b400_pripyat_name">
+		<text>普里皮亚季 1 号：到达普里皮亚季</text>
+	</string>
+
+	<string id="pas_b400_pripyat_text">
+		<text>你必须通过普里皮亚季 1 号地下通道，然后到达普里皮亚季军事撤离点。</text>
+	</string>
+
+	<string id="zat_a9_way_gases_check_chemistry_workshop_name">
+		<text>前往普里皮亚季的路：调查木星工厂的化工车间</text>
+	</string>
+
+	<string id="zat_a9_way_gases_check_chemistry_workshop_text">
+		<text>关于普里皮亚季 1 号地下通道里充斥的气体的事情，你可以去化工车间找找资料。</text>
+	</string>
+
+	<string id="zat_a9_way_gates_check_corps_name">
+		<text>前往普里皮亚季的路：调查木星工厂的行政区</text>
+	</string>
+
+	<string id="zat_a9_way_gates_check_corps_text">
+		<text>向导不清楚去普里皮亚季有没有安全的路线，但他建议你先去了解一下从木星工厂到城市的地下隧道的情况。你可以从行政区着手。</text>
+	</string>
+
+	<string id="zat_a9_way_gates_check_electrical_workshop_name">
+		<text>前往普里皮亚季的路：调查木星工厂的实验区</text>
+	</string>
+
+	<string id="zat_a9_way_gates_check_electrical_workshop_text">
+		<text>行政区找到的文件里提到了木星工厂生产设施撤离的事。关于这件事的情报应该在实验区。</text>
+	</string>
+
+	<string id="zat_a9_way_gates_check_transport_workshop_name">
+		<text>前往普里皮亚季的路：查看普里皮亚季 1 号地下通道的运输闸</text>
+	</string>
+
+	<string id="zat_a9_way_gates_check_transport_workshop_text">
+		<text>地下通道的入口就在运输闸的后面。你要调查一下这个区域，寻找关于地下通道的情报。</text>
+	</string>
+
+	<string id="zat_a9_way_to_pripyat_check_archives_name">
+		<text>前往普里皮亚季的路：调查木星工厂的 1 号部门</text>
+	</string>
+
+	<string id="zat_a9_way_to_pripyat_check_archives_text">
+		<text>部门 1 里应该有关于普里皮亚季 1 号地下通道的情报。这个情报非常有用，所以你要去查看一下。</text>
+	</string>
+
+	<string id="zat_a9_way_to_pripyat_check_delivery_department_name">
+		<text>前往普里皮亚季的路：调查木星工厂的运输部门</text>
+	</string>
+
+	<string id="zat_a9_way_to_pripyat_check_delivery_department_text">
+		<text>根据实验车间的留言来看，撤离应该是由运输部门来实施的，所以你也要去那里看看。</text>
+	</string>
+
+	<string id="zat_a9_way_to_pripyat_check_repair_workshop_name">
+		<text>前往普里皮亚季的路：调查木星工厂的维修车间</text>
+	</string>
+
+	<string id="zat_a9_way_to_pripyat_check_repair_workshop_text">
+		<text>运输部门有 62 号物品在运输期间损耗的相关资料。根据记录，负责这件事的是维修车间——你应该去那里看看。</text>
+	</string>
+
+	<string id="zat_a9_way_to_pripyat_tell_stalker_guide_name">
+		<text>前往普里皮亚季的路：和向导交谈</text>
+	</string>
+
+	<string id="zat_a9_way_to_pripyat_tell_stalker_guide_text">
+		<text>根据其中一架直升机的黑匣子记录，军事部队应该在 B28 撤离点集合。再根据执行此次任务的其它直升机上的地图来看，这个撤离点位于普里皮亚季。你要想个办法到那里去——先和向导谈谈。</text>
+	</string>
+
+	<string id="zat_b207_depot_reward_task_name">
+		<text>责任仓库：拿回你应得的东西</text>
+	</string>
+
+	<string id="zat_b207_morgan_depot_task_name">
+		<text>责任仓库：和摩根见面</text>
+	</string>
+
+	<string id="zat_b207_morgan_depot_task_text">
+		<text>为了封你的口，商人摩根告诉了你进入责任仓库的方法。你要按照约定，去采石场附近和他见面。</text>
+	</string>
+
+	<string id="pas_b400_pripyat_gate_text">
+		<text>你必须打开大门才能继续前进。</text>
+	</string>
+
+	<string id="pas_b400_pripyat_door_text">
+		<text>你必须打开门才能继续前进。</text>
+	</string>
+
+	<string id="pas_b400_pripyat_hall_door_text">
+		<text>你必须开启大门的电源才能继续前进。</text>
+	</string>
+
+	<string id="pas_b400_pripyat_control_text">
+		<text>你必须打开大门才能继续前进。到控制室应该就能打开。</text>
+	</string>
+
+	<string id="jup_b6_employ_stalkers_name">
+		<text>研究小组：雇佣合适的人</text>
+	</string>
+
+	<string id="jup_b6_employ_stalkers_text">
+		<text>一群为科学家工作的研究小组被消灭了。你要招募一支新的小组，研究才能继续进行。</text>
+	</string>
+
+	<string id="jup_b6_employ_stalkers_reward_name">
+		<text>研究小组：回到赫尔曼那里领取奖励</text>
+	</string>
+
+	<string id="jup_b6_employ_stalkers_reward_text">
+		<text>你已经找到了组建新研究小组的合适人选。现在回到赫尔曼那里领取奖励。</text>
+	</string>
+
+	<string id="jup_b218_soldier_do_scientist_quest_name">
+		<text>普里皮亚季 1 号：完成奥泽斯基的任务</text>
+	</string>
+
+	<string id="jup_b218_soldier_do_scientist_quest_text">
+		<text>你必须完成奥泽斯基的异常植物任务，这样才能为索科洛夫获得防护服。</text>
+	</string>
+
+	<string id="jup_b200_tech_materials_inside_text">
+		<text>氮气需要无线电技术材料。你要去水泥厂寻找这些东西。</text>
+	</string>
+
+	<string id="jup_b25_flint_and_senya_text">
+		<text>火石就是把碎片留在特异点等死的人。去和他谈谈，弄清楚他为什么要这么做。</text>
+	</string>
+
+	<string id="jup_b25_revenge_senya_name">
+		<text>报应不爽：为碎片报仇</text>
+	</string>
+
+	<string id="jup_b25_revenge_senya_text">
+		<text>找出把碎片留在特异点等死，带着超自然体独自离开的人。可惜，碎片没能把这混蛋的名字说出来，目前我们只知道对方是自由的人。</text>
+	</string>
+
+	<string id="zat_b207_depot_reward_task_duty_text">
+		<text>舒尔加中校承诺，只要抓住此人，你就可以到责任的仓库挑喜欢的装备随便拿。</text>
+	</string>
+
+	<string id="zat_b207_depot_reward_task_freedom_text">
+		<text>只要证实这事是自由战士干的，洛基就允许你去责任的仓库挑喜欢的装备随便拿。</text>
+	</string>
+
+</string_table>

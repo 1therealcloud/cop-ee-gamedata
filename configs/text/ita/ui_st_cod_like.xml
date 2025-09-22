@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ls_c_tip_82">
+		<text>Passare attraverso alcuni posti и impossibile, anche quando sei accovacciato. Per acquattarti il piщ in basso possibile, tieni premuto $$ACTION_CROUCH$$.</text>
+	</string>
+	<string id="legend_ui_talk_reply">
+		<text>$$ACTION_UI_ACCEPT$$/$$ACTION_UI_ACTION_1$$ Parla</text>
+	</string>
+</string_table>

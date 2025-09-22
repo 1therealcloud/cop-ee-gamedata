@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="dm_anomalies_10">
+		<text>熱のアノマリーが水面下に出現するスポットがザトンにある。蒸気があるのでそれは「ボイラー」と呼ばれ、地下から出てくる。蒸気は問題ないと思っても、考え直すんだ。経験を積んだストーカーは、この種の蒸気のアノマリーは激しくなくても、少なくとも一般的な熱のアノマリーと同じくらい強いと言っている。温度は少し低いかもしれないが、より長く厳しく苦しませる。アーティファクトに関しては、火の種類の一般的なものが見つかる。</text>
+	</string>
+	<string id="dm_anomalies_11">
+		<text>アノマリーは少なくないが、採石場には多くのアーティファクトがある良いスポットがあると言われている。底まで下りるとガスのアノマリーからの泡が多くあるので、目を傷つけないように防毒マスクをするんだぞ。</text>
+	</string>
+	<string id="dm_anomalies_12">
+		<text>アシュヒープはコパチ村の近くの古い墓地にある。多くの熱のアノマリーと、時々ゾンビがいくらかいる。皆はその場所を回避しようとするが、そこではアーティファクトが見つかる</text>
+	</string>
+	<string id="dm_anomalies_13">
+		<text>アーティファクトが駐車場で見つかったと言われている。まだ最初のチョルノービリ災害の車両があり、放射能で胸が焼けるようになる。さらに、電気のアノマリーもいっぱいだ。</text>
+	</string>
+	<string id="dm_anomalies_14">
+		<text>すべての木が酸で捻じ曲げられたピュートリッドの森の中だ。そこに行った者が言うには、ガスのアノマリーが多くあるそうだ。ガスが多くて見通しが効かないが、十分な経験があれば、アーティファクトを探せる。</text>
+	</string>
+	<string id="dm_anomalies_15">
+		<text>アーティファクトを探すなら、酸性の場所に行くんだ。それらを得られる最良の場所はコンクリート・バスだ。競争は多くない。ジュピータの建物に近いため、誰もそこに行こうとしない。</text>
+	</string>
+	<string id="dm_anomalies_16">
+		<text>ジュピータ・プラントから遠くない場所で、道の部分が崩れている。舗装が溶けているので、そこはビチューメンと呼ばれている。割れ目には多くのアノマリーがある。重力のものや熱と混じり合ったアノマリーだ。2種類のアノマリーがあるので、アーティファクトも異なるものがあるに違いない。</text>
+	</string>
+	<string id="dm_anomalies_17">
+		<text>フェンと呼ばれるセメント・プラントの向うに、小さな湾がある。湾の全体が恐ろしい悪臭を放つ湿原に変わっており、水の中はガスのアノマリーでいっぱいだ。そこは水ではなく、まったくの酸だ。以前、アーティファクトが見つかった。しかし、その場所はモンスターでいっぱいになっている。</text>
+	</string>
+	<string id="dm_anomalies_18">
+		<text>古いセメント・プラントの中を見てくれ。多くのアノマリーがあるが、しかし、そこには価値がある。アーティファクトが簡単に手に入るが、競争がある。ひとつだけだが、地下でのハムスターとの競争だ。</text>
+	</string>
+	<string id="dm_anomalies_19">
+		<text>オークパインの近くを見るべきだ。それはガスのアノマリーの上の丘の間に生えている。どこかのオタクがそれが松と樫からの樹木だと識別してから、そう呼ばれている。そこでアーティファクトを探したければ、優れた化学防護が必要になる。それらの丘は犬の群れの本拠地でもあるので、多くの弾薬を持つんだ。</text>
+	</string>
+	<string id="dm_anomalies_2">
+		<text>時々は、アーティファクトを手に入れるために、アノマリーに入り込む必要がない。開けた場所で見つかったアーティファクトがある話も聞いている。ひとりのストーカーは、持っていた検出器がうまく対応し始めたので、バッテリーを換えることに決めた。それを行うとすぐに検出器は読み込み、バンという音を出し彼の手にアーティファクトが落ちたんだ。幸運な奴だろ？それがゾーンなんだ。時々は罰し、また、時々は報いてくれる。</text>
+	</string>
+	<string id="dm_anomalies_20">
+		<text>時々はアーティファクトがアノマリーの外部に移動すると、経験を積んだストーカーから聞いたことがある。検出器がピーと鳴り始めてそれを取り出しても、そこには何もない。それは“放浪する”アーティファクトが歩いたことを意味する。ゾーン自身がそれを誰に与えるかを決定するので、それを追わないことだ。</text>
+	</string>
+	<string id="dm_anomalies_21">
+		<text>プリピャチでは、まだ誰もアーティファクトを探していない。俺が知っている誰もが用心深く、ここには少しの時間しかいないんだ。</text>
+	</string>
+	<string id="dm_anomalies_22">
+		<text>誰が良いスポットを知っているのかはわからない。これまで、プリピャチはあまり調査されていない。</text>
+	</string>
+	<string id="dm_anomalies_23">
+		<text>俺は地下トンネルの中を見てみたい。町の真下にそれが多くあると言われている。</text>
+	</string>
+	<string id="dm_anomalies_24">
+		<text>これらの部分についてはあまり知られていない。ほとんどがゲーリーの話による。彼は、10階の建物ほども高い酸性のアノマリーの外に、巨大なブドウのツルが生える場所があると言っている。俺たちをからかっているかもしれないが、万一にもアーティファクトがあるかどうか、俺はそのブドウの木をチェックしてみたい。</text>
+	</string>
+	<string id="dm_anomalies_3">
+		<text>最も確かな場所は、酸性の沼地だ。そこは重力のアノマリーでいっぱいだ。しかし、見つけるのは簡単だ。ただ水面から目を離さないようにする。そうすれば、見誤らない。基本的に呼吸できる空気がないので、ガスのアノマリーはすごく苦痛だ。噴出があると、ひどくなる。衣服を通して硫酸よりも速く腐食される。</text>
+	</string>
+	<string id="dm_anomalies_5">
+		<text>丘の上の焼けた農場に、多くの熱のアノマリーがある。そこでは火のアーティファクトが見つかる。家々の中を見ることだ。光熱放射の後に多くのアノマリーがあっても、そこにはアーティファクトがあるだろう。</text>
+	</string>
+	<string id="dm_anomalies_6">
+		<text>おそらく焼けた農場の下の洞穴に多くあるだろう。検出器を持って丘の上を歩けば、鳴り続ける。それらに到達するのは十分に容易で、割れ目の上から飛び込むだけだが、外に出る方が大変だ。底はアノマリーでいっぱいで、ほとんどがボルテックスと酸性のものだ。何人かは、割れ目の中にさらに彗星に似たのを見たことを話している。全体に危険が混ざっているが、それは同様に色々なアーティファクトが混ざっていることを意味する。</text>
+	</string>
+	<string id="dm_anomalies_7">
+		<text>サーカスのアノマリーを見たことがあるか？それは2つの彗星が回転している巨大なスプリングボードのようなアノマリーで、円形をしている。まったくすごい光景だ。しかし、サーカスは多くの熱のアノマリーと一緒になっていて地獄のように熱いので、距離を保たなくてはならない。多くのアーティファクトがあるが、不快な火のポルターガイストが守っていて、近くに行くと焼かれる。</text>
+	</string>
+	<string id="dm_anomalies_9">
+		<text>重力のアーティファクトに興味があるなら、ファングのアノマリーの中でそれらを探すことだ。その場所は見つけるのが簡単で、アノマリーは地上で活動し、丘の半分が一掃されてる。丘には穴が少し開けられ、スノークがすぐに住み着く。ありがたいことに、そいつらは滅多に外部に出てこない。</text>
+	</string>
+	<string id="dm_anomalies_do_not_know_1">
+		<text>ゾーンの中では…、なあ、ゾーン中では、ただ、あきらめないことだ</text>
+	</string>
+	<string id="dm_anomalies_do_not_know_2">
+		<text>大事な質問だ。あんたはいつ俺に答えを言うんだ！</text>
+	</string>
+	<string id="dm_anomalies_do_not_know_3">
+		<text>どこで、いつ、なぜ…。覚えておけ、一度お宝の山を見つけたら、自分で保持するんだ。</text>
+	</string>
+	<string id="dm_anomalies_general">
+		<text>どこでアーティファクトを見つけられるんだ？</text>
+	</string>
+	<string id="dm_anomalies_no_more_1">
+		<text>もうあんたに話したぞ。</text>
+	</string>
+	<string id="dm_anomalies_no_more_2">
+		<text>いや、俺は何も知らない。</text>
+	</string>
+	<string id="dm_anomalies_no_more_3">
+		<text>それが俺の知っているすべてだ。誰かに尋ねてくれ。</text>
+	</string>
+	<string id="dm_hello_0">
+		<text>どうしたんだ？</text>
+	</string>
+	<string id="dm_hello_1">
+		<text>こんちは。</text>
+	</string>
+	<string id="dm_hello_10">
+		<text>やあ、ストーカー。</text>
+	</string>
+	<string id="dm_hello_11">
+		<text>やあ。</text>
+	</string>
+	<string id="dm_hello_12">
+		<text>何がほしいんだ？</text>
+	</string>
+	<string id="dm_hello_13">
+		<text>何だ？</text>
+	</string>
+	<string id="dm_hello_14">
+		<text>話してくれ。</text>
+	</string>
+	<string id="dm_hello_15">
+		<text>こんにちは、少佐。</text>
+	</string>
+	<string id="dm_hello_16">
+		<text>こんにちは。</text>
+	</string>
+	<string id="dm_hello_17">
+		<text>聞きましょう、少佐。</text>
+	</string>
+	<string id="dm_hello_2">
+		<text>やあ。</text>
+	</string>
+	<string id="dm_hello_3">
+		<text>何だ？</text>
+	</string>
+	<string id="dm_hello_4">
+		<text>よお。</text>
+	</string>
+	<string id="dm_hello_5">
+		<text>やあ、ストーカー。何を急いでるんだ？</text>
+	</string>
+	<string id="dm_hello_6">
+		<text>よお。</text>
+	</string>
+	<string id="dm_hello_7">
+		<text>よお。</text>
+	</string>
+	<string id="dm_hello_8">
+		<text>おお、やあ。</text>
+	</string>
+	<string id="dm_hello_9">
+		<text>どうだい。</text>
+	</string>
+	<string id="dm_hello_general">
+		<text>やあ！</text>
+	</string>
+	<string id="dm_help_0">
+		<text>助けてくれ！</text>
+	</string>
+	<string id="dm_help_1">
+		<text>俺を助けてくれ、死にそうだ…。</text>
+	</string>
+	<string id="dm_help_10">
+		<text>俺は治療が必要だ。</text>
+	</string>
+	<string id="dm_help_11">
+		<text>回復キットを！…急げ！</text>
+	</string>
+	<string id="dm_help_2">
+		<text>俺を助けてくれ…、ああ、…痛い！</text>
+	</string>
+	<string id="dm_help_3">
+		<text>回復キットをくれ…、すぐに回復キットだ…。</text>
+	</string>
+	<string id="dm_help_4">
+		<text>なあ…、ああ…、来てくれ。助けてくれ！</text>
+	</string>
+	<string id="dm_help_5">
+		<text>おい、回復キットだ！…急げ！</text>
+	</string>
+	<string id="dm_help_6">
+		<text>俺を助けてくれ…、回復キットをくれ…。</text>
+	</string>
+	<string id="dm_help_7">
+		<text>やられた…。助けてくれ！</text>
+	</string>
+	<string id="dm_help_8">
+		<text>回復キットが要る！</text>
+	</string>
+	<string id="dm_help_9">
+		<text>回復キットを！</text>
+	</string>
+	<string id="dm_information_1">
+		<text>スカドフスクの東の浚渫ステーションのことを聞いたか？夜にそこで奇妙なものが光るそうだ…。ゾーンでも不思議な話だ。それが調査する価値があるのかどうか全然わからない。価値のあるものが見つかっても、危険なのではないだろうか？それが問題なんだ…。</text>
+	</string>
+	<string id="dm_information_10">
+		<text>この辺りには使い古されたものしかない。プレオブラジェンスキー橋の上の荒廃した車両部隊を使うんだ。橋もそれも、まったく錆びきっているがな。多くの者がそのエリアの周りを探っている。スノークもアノマリーもなかった…。</text>
+	</string>
+	<string id="dm_information_11">
+		<text>サルタンがビアードの“ビジネス”を得ようと計画しているのを聞いたか？貪欲なあいつには、スカドフスクは十分な大きさではないんだ。なので、さらに大きなパイをつかみたかったんだ。しかし、俺たちは、「冗談じゃない」と答えた。ビアードと俺たちの残りの兵士はそいつらをやっつけた。サルタンの残忍な作戦は、ここには及ばない。</text>
+	</string>
+	<string id="dm_information_12">
+		<text>ほお、これに関して聞いたのか？いやらしいサルタンはビアードを抑えつけた…。奴が何を行ったかは正確に知らない。しかし、ビアードを支配したようだ！ゾーンはどうなるんだ？連中がこれを続けたら、知らないうちにスカドフスクはバンディットの基地になるぞ！</text>
+	</string>
+	<string id="dm_information_13">
+		<text>あんたはオアシスについて聞いたことがあるか？そこは見つけるのが非常に難しく、どこだかわかっても、たどり着くのはもっと困難だと言われている。また、湖がそこにあると思われる。そこへ入れば、病気はすべて消え、すべての傷が即座に治るんだ！ああ、言っても無駄だな。あんたは、何人のルーキー・ストーカーがここに、ゾーンの中心に来たかを知っているか？いくらかはアーティファクトの埋蔵品を探し、いくらかはただ興味に引かれて来るのだが、ほとんどの者はオアシスを見つけることを望んでいるんだ。言いたいことは、それはこの周りのどこかに隠れているんだ…。</text>
+	</string>
+	<string id="dm_information_14">
+		<text>皆は、ゾーンが鳴こうとしていると言う…。誰かがオアシスを見つけて、そのアーティファクトを取ったんだ、“オアシスのハート”をだ。今、ゾーンは別の次元へ変わるだろう。そして、ストーカーは常に外に出ることができなくなる…。それはただの冗談だが、彼らは実際にある種の新しいアーティファクト見つけた。で、科学者はトーチカでそれをいじくり回しているんだ。</text>
+	</string>
+	<string id="dm_information_15">
+		<text>あんたはトポルに関して聞いたか？彼はいくつかの新しい穴を見つけ、彼の部下たちがそこに入った。もちろん、喜んでな。その冒険は、コントローラーが彼らの脳をアイロンがけして終了した。もしひとりのストーカーがいなければ、連中は今ごろ病院のベットで小便をしてただろう。トポルがゾンビ化するのから正気づいた時、そのストーカーはコントローラーの耳を切り取って、そのそばにうずくまっていた。</text>
+	</string>
+	<string id="dm_information_16">
+		<text>コパチ村のことを聞いたかな？チョルノービリ原発の最初の災害が起こった時、そのエリアはひどくなり過ぎて、村全体を埋めることに決定した。家の跡には今は何もないが、小さな放射性の土塁だけがある。そこは災害の前でさえ不気味な場所だったと言う。俺は最近、そこで何かが見つかると考えていて、ぞくぞくしている。誰もがそこを調べるのを怖がっている。しかし彼らが勘違いしているのなら、そこは皆が知っているアーティファクトのある宝の山だ！</text>
+	</string>
+	<string id="dm_information_17">
+		<text>ヤノフには、光熱放射が接近するのを感じることができるストーカーが、2人だけいる。我々の医者のボーンセッター、そして元デューティー・メンバーのズールーだ。EXプレフィックスは最近の開発だ…。デューティーがヤノフ駅へ来た時、すでにフリーダムの戦士たちはそこにいた。想像どおり、事態はすぐに悪化した。両方の派閥は大損害に苦しみ、単独ストーカーさえもが流れ弾に撃たれた。その時、ズールーは光熱放射が来ると彼らに伝えたんだ。選ぶことなくデューティーとフリーダムに休戦を呼びかけ、駅の中に潜った。すべてが終わった時、ズールーはデューティーを辞め、駅の近くのタワーに移り住んだ。</text>
+	</string>
+	<string id="dm_information_18">
+		<text>そこにはすべての種類の奇妙な話がある。全部を信じなくてもいい。最近、ゾーンには多くの講談師がいるんだ。しかし、不思議なことは、ヤノフ駅で数人のストーカーがUFOを見た報告したことだ。それは直径約16フィートの黒い皿のように見えたと言う。遠距離からの飛行機のように見えたと言う者もいる。確かな事実は、目撃者のひとりが元パイロットであるということだ。彼は、生涯でそのようなものは何も見たことがないと言っている。</text>
+	</string>
+	<string id="dm_information_2">
+		<text>最近は悪いニュースしかない。善良な人間が次々に消えているんだ。そして血が一滴もない彼らの死体が見つかる。それはブラッドサッカーの仕業でしかない。他に何があるんだ？ああ、奴らの巣を見つけて、やっつけてやりたい。</text>
+	</string>
+	<string id="dm_information_20">
+		<text>あんたのための新しいものを得たぞ。フリーダムの兵士らが、デューティーの伝説の創立者のPDAを手に入れた。それが何を意味するかを知っているか？創立者が部下たちをだまし、軍の司令部がゾーンにいる兵士を放棄したと伝えていたことが判明したんだ。そして、奴は自分の党派を形成できたんだ！しかしそいつは、ゾーンにはいられなかった。その後しばらくして、ヒーロー自身がバブルの空間で見つかり、それで終りだった。…それが起こったことだ。俺は本当にデューティーに参加しようと考えていたのに！いや、俺とは関係なく、奴らの独善的な戯言を非難するぞ。</text>
+	</string>
+	<string id="dm_information_21">
+		<text>その新しいデューティー部隊を知っているか？ヤノフを去ったデューティー戦士たちのひとつのグループが、3倍になって戻ってきたことに注目してくれ。彼ら自身のクローンを作ったのだろうか？きっとデューティーがやったんだ。彼らを区別できるのは階級だけだ！</text>
+	</string>
+	<string id="dm_information_22">
+		<text>その新しいフリーダムの部隊を知っているか？ヤノフを去ったフリーダムたちのひとつのグループが、3倍になって戻ってきたことに注目してくれ。俺はある考えを思いついた。奴らは出芽によって増加しているんだ！そうは思わないか？奴らは根を張って植物人間の繁殖を始めるんだ！</text>
+	</string>
+	<string id="dm_information_23">
+		<text>ゴンタと彼の兵士らを知っているか？連中はしばらくの間、運が悪かった。ダニラが行方不明になり、クラブは負傷した。しかし今は、良いツキがあるんだ。科学者たちとうまくやっており、彼らのために調査をしている。なあ、いいだろう？楽な仕事で公式滞在許可を得られる確かなステップにいる。</text>
+	</string>
+	<string id="dm_information_24">
+		<text>ミタイ、トルバ、それにグリズリーと呼ばれるストーカーたちに関して聞いたかい？彼らは科学者の調査の仕事を得たそうだ。いったいそれが何なんだ？俺に言わせれば、そのインテリたちはたいして良くはない。だがな、少なくとも連中は今、気楽にやっている。そのうち公式滞在許可を得られるかもしれないな。</text>
+	</string>
+	<string id="dm_information_25">
+		<text>スパルタクスと彼のクルーを知っているか？そう、スカドフスクでは彼らを見ることはない。今、科学者のトーチカの警護をしてるんだ。もちろんミュータントをうまくさばき、バンディットを寄せつけない方法を知っている。科学はいくらかの平和と平穏のために使えるので、価値があるのさ。</text>
+	</string>
+	<string id="dm_information_26">
+		<text>あんたは無人駅でイライラしている傭兵たちを見たか？それは少し前のことだ。彼らは科学者のトーチカを警護するためにジュピターに行った。彼らの以前に、他の傭兵たちがそこを守っていたんだが、何かが起こったと聞いている。俺の話は間違いないぞ！何人かの傭兵が消え、他の者がそれに代わったが、また消えたんだ…。何度かそれが起こり、我々はザトンで傭兵から完全に解放されることになりそうだ。</text>
+	</string>
+	<string id="dm_information_27">
+		<text>皆が、今、科学者のトーチカはデューティーの勇敢な戦士たちによって警護されていると言っている。…だが俺は、何のために連中が必要なのか不思議なんだ。学者らがハムスター狩りのために、彼らに真新しいプラズマ銃を渡すと本当に思うかい？俺には関係ないがな、ハハッ…。</text>
+	</string>
+	<string id="dm_information_28">
+		<text>皆が、今、科学者のトーチカはフリーダムによって警護されていると言っている。科学者は、標本が煙となって消える心配をしてるのか？だが、はっきりしていることがあるぞ。誰かがトーチカを攻撃しようとすれば、そいつらは最初に煙幕を通らなくてはならないんだ。ハハハッ！</text>
+	</string>
+	<string id="dm_information_29">
+		<text>ジュピターの無線電子機器プラントを見たかい？ぞくぞくする場所だ。誰も、そこで何が起こるかは本当に知らない。アノマリーとミュータントはどこでも同じようなものだ…。だが、俺はまだそこに行きたくない。トラブルが起こる予感がするんだ。</text>
+	</string>
+	<string id="dm_information_3">
+		<text>新人さん、ここにようこそ。あんたはスカドフスクの医者の正体をあばいた男じゃないか？俺はありがたく思ってる。俺が奴の次の患者になりかねなかった…。俺たちは皆、それはモンスターの仕業と思っていた。だが俺は、何人かの人間が同じように悪くなりえると思う。俺たちは食うか食われるかの世界に住んでる。それが真実だろう？</text>
+	</string>
+	<string id="dm_information_30">
+		<text>あんたにそれを尋ねるべきだな。あんたがジュピターの下のトンネルに入った後、俺たちはゾーンの中心にあんたが達した噂を聞いた。それはすごく混乱を引き起こした。山のように多くの人々があんたの後に着いて行くのを望んだ。だが、ニトロが彼らを冷ました。彼は、トンネルのゲートが閉じられており、もう一度それらを開けようとしても、何もできなかったと言ったんだ。だが、ゲートを爆破しようとする数人の無法者がいて、どこで十分なダイナマイトを得るとか、トンネルに下りてからどうするかとか、まだ試みようとしているんだ。</text>
+	</string>
+	<string id="dm_information_31">
+		<text>ああ、ゲーリーに関しての最新の話を聞いたか？かつては科学者のために働いたストーカーだ。彼はもはや“侵入者”ではない。信じないだろうが、公式のゾーン滞在許可を得た。なので、彼は埋蔵品を持って家に帰るべきだよな？それどころか、プリピャチへ行った。誰もが、他の者のように彼は永遠に去ると思ったが違った。彼はやったが、その功績はストーカーへは役立ってない。彼は何人かの軍の兵士と一緒になったんだ。今、ゲーリーは兵士ら落ち着き、滞在許可やすべてを持っているが、普通のストーカーはそのエリアへはまだ立ち入り禁止なんだ。</text>
+	</string>
+	<string id="dm_information_32">
+		<text>そう、フリーダムとデューティーは今回、再びある重大な隠し場所をめぐって戦っている。3つの歩兵師団が装備をするための十分な武器があったと言われている。誰が最初にその隠し場所を作ったかは知らないが、対決は本当に大ごとだ。ヤノフですべてのストーカーが騒ぎを起こしたが、幸いにも彼らは退いた。あるいは、まだ他の紛争があるかもしれない。今、そのエリアはフリーダム部隊が守っているので、俺はデューティーが負けたんだと思う。</text>
+	</string>
+	<string id="dm_information_33">
+		<text>そう、デューティーとフリーダムは今回、再びある重大な隠し場所をめぐって戦っている。3つの歩兵師団が装備をするための十分な武器があったと言われている。誰が最初にその隠し場所を作ったかは知らないが、対決は本当に大ごとだ。ヤノフですべてのストーカーが騒ぎを起こしたが、幸いにも彼らは退いた。あるいは、まだ他の紛争があるかもしれない。今、そのエリアはデューティー部隊が守っているので、俺はフリーダムが負けたんだと思う。</text>
+	</string>
+	<string id="dm_information_34">
+		<text>最近あることが起った。ストーカーのグループがジュピターのトンネルを調査していて、何かに出くわしたんだ。…つまり、誰かにだ。最初に彼らの銃が手から飛び出し、そして次にあらゆる種類の物が彼らに向かって飛んできた。実際に何が起こったかという手掛かりをつかめなかったが、そこで2人の兵士が失われた。</text>
+	</string>
+	<string id="dm_information_35">
+		<text>ジュピターの北のトンネルで、ある種類のまとまったミュータントが見つかったそうだ。トラッパーは調査のために、ひとりのストーカーを中に派遣した。ブーラーの巣だったことが判明した。なぜ「だった」のか？そのストーカーがすべてのブーラーをやっつけたんだ。たった、ひとりでだぞ…。その男はもう少し背が高くて、グレネードランチャーを常に持つという以外は、あんたはその話に適合するなあ。</text>
+	</string>
+	<string id="dm_information_36">
+		<text>ストーカーたちは殺されるぞ…、モンスターたちはフェンから来る。セメント・プラントのストーカーは、奴らが我々の兵士のひとりを引きずっているのを見た。あんたは信じないだろうが、少なくとも1ダースはいた。ブラッドサッカーに似てるが、2倍大きく、はるかに速い。俺たちは、トラッパーがその野獣に対処する方法がわかることを願っている…。</text>
+	</string>
+	<string id="dm_information_37">
+		<text>あんたは沼地のブラッドサッカーのことを聞いたか？フェンのことは？そう、そいつらはいなくなった。トラッパーが来てくれたんだ…。彼は何人かのストーカーを雇った。10人程度でクルーを組み、沼地をくまなく探し、飛び出たところを天国に送ったんだ。その場所にはもう蛙も住んでいない。</text>
+	</string>
+	<string id="dm_information_38">
+		<text>誰かがキメラを撃ったという話が広まったのは、それほど前ではなかった。かつてはミュータントはダース単位でストーカーを殺した。しかし、ついにその流れが変わったんだと思う。その男はあんたと俺が一生で殺した蚊よりも多くのモンスターを殺した経験を積んだハンターであると他から聞いた。</text>
+	</string>
+	<string id="dm_information_39">
+		<text>最近、フリーダムが誰かを採用するのを聞いたか？フリントと呼ばれる男で、自分の冒険や手柄をあちこちに自慢している。だが、奴は地球のクズであると判明した。アノマリーの中に仲間を残して死なせ、彼の埋蔵品を取って逃げたんだ。その後、ザトンでさらに奴の功績があばかれた。そこでは、奴はキメラのハンター・グループを雇っていたんだ。俺はかつてはフリーダムを良く思っていた…。だが、俺はそのような仲間を持つなら派閥無しでいい。</text>
+	</string>
+	<string id="dm_information_4">
+		<text>そう、彼らはザトンでそのキメラを倒した。未知のストーカーが一緒の、ゴンタのクルーだ。待てよ、それはあんただろ？もしかして俺は直接話してるのか？すごく感謝するが、ミュータントに食べられた人間を悼む！</text>
+	</string>
+	<string id="dm_information_40">
+		<text>知らせる価値があるかどうかはわからないが、我々はここにノアを得た。会った中で最も頭のおかしい奴だ。彼は1隻の醜いはしけ舟を持っている。一週間でメチャクチャに作ったように見えるがな…。彼には注意するんだ。質問もせずに、すぐに撃つぞ。</text>
+	</string>
+	<string id="dm_information_41">
+		<text>あんたはこのニンブルを知っているか？そう、奴はこそこそした男だ。間違いなく、最良の銃をあちこちに売っている。どのようにそれを密輸入するのか不思議だ。つまり、どうやって見えないようにヴィンター銃を運ぶんだ？まるで魔法使いだ。</text>
+	</string>
+	<string id="dm_information_42">
+		<text>よくある噂だが、サルタンは面倒に入り込んだようだ。ビアードと別れ、その“ビジネス”を奪いたかったが、奴は多くを抱え込みすぎた。少し得ただけだった。奴を馬鹿にして見ていたクルーとはうまくいかなかった。それだけだ。</text>
+	</string>
+	<string id="dm_information_43">
+		<text>噂では、サルタンはビアードを手の内に得て、“ビジネス”の甘い汁を吸っている。それはいいが、今、サルタンは多くのものを得た。しかし、一番いいのは、俺たちがスカドフスクを歩けることだ。素晴らしい。光熱放射からの防護を探してるって？問題はない。料金を払うんだ！</text>
+	</string>
+	<string id="dm_information_44">
+		<text>なあ、あんたはオアシスのことを聞いたか？話では、その場所では即座に痛みや病気が治るそうだ。何かトリックかマジックだろうな…。俺は別の考えを持っているんだ。そこではオアシスの噂がいっぱいあって、前に言われていた願望機の噂がない。そう、おそらくオアシスは誰かの希望が本当に叶ったのではないかなあ？</text>
+	</string>
+	<string id="dm_information_45">
+		<text>オアシスからここまでの途中ずっと、インテリたちのアーティファクトについての話がされている。つまりこうだ。彼らがそれを研究すれば、癌に対する治療法にその研究を使用するだろう！その通りだぜ！</text>
+	</string>
+	<string id="dm_information_46">
+		<text>同じことを、毎日のように…。皆がゾーンの中心についての昔話を繰り返している。オアシスは即座にエネルギーをすべて回復し、傷を癒す場所だとな。それは純粋で、まったくのまやかしだが、聞く楽しみがある。特にその位置について話される場合はな…。ああ、俺は本気でそんな場所があったらと思うぜ。…俺たちは、多くの兵士を救えていただろう。</text>
+	</string>
+	<string id="dm_information_47">
+		<text>俺は、彼らがオアシスを見つけたと人づてに聞いた。それが存在すると思っていなかったが、事実は間違いないものだ。ひとつのアーティファクトがそこで見つかった。科学者がそれを研究しているそうだ。おそらく、すごく早く治療する装置を作るために、それを使えるんだろう。俺たちの兵士らがきっとそれを利用できるぞ。</text>
+	</string>
+	<string id="dm_information_48">
+		<text>コパチ村だ。ゾーンでは珍しくないが、俺には新しい。想像してくれ。地面の中に屋根まで埋められた家々がある村の全体を…。1986年にさかのぼる…。家々は多くの放射線を受けた。それらを埋めなければならなかったんだ。冷たい光景だ…。</text>
+	</string>
+	<string id="dm_information_49">
+		<text>ヤノフでデューティーと俺たちが一緒にいることになった話を知ってるか？それはすべてズールーが原因だ。彼はそのときデューティーにいた。そして彼は他の者たちとは異なり、光熱放射が接近するのを予知できた…。ヤノフには俺たちが最初に来て、ストーカーはその後だった。連中が銃を持って現れた時は、かろうじて息ができるほどだった。その種の殺戮を前に見たのは、1年以上前にガーベジでだ。両陣営で多くの兵士が死んだ。そこに我々の光熱放射の専門家がいたが、神が彼の魂を救った。ズールーが出てきて、「光熱放射が来る！防護するんだ！」と叫んだ。その時、何を俺たちが思ったのかだが…、奴らをやっつけ死なせようとしたのか？いいや、デューティーであろうがなかろうが人間だということだった。なので、我々は今生きている。平穏だった時には争ったが、光熱放射が打った時には一緒にすぐ横にくっついていた。ズールーはデューティーを辞め、今、ヤノフの近くで隠者として生きている。</text>
+	</string>
+	<string id="dm_information_5">
+		<text>ニュースでも秘密でもないが、技術者のカルダンは飲み過ぎて死に向かっている。彼はスカドフスクに来た時、簡単に仕事を始めることができ、放射能予防のためにだけ時々飲んでいた。後になって、彼の2人の友達の死で悲しみに沈み、彼は落ち込んでしまったんだ。彼らは本当に親しかったに違いない…。</text>
+	</string>
+	<string id="dm_information_50">
+		<text>よし、ここに面白い話がある。ある男がヤノフの上を飛ぶUFOについて話していた。実際、ゾーンでは人々の気をおかしくすることが起こる。ポルターガイストとコントローラーだけでは十分ではなく、UFOの話があってもおかしくない。ウォツカなしでは、悪霊払いはできないしな。「悪霊を払い、純粋な精神をお守りください！」、と叫ぶのを想像してくれ、ハハハッ。</text>
+	</string>
+	<string id="dm_information_51">
+		<text>コパチ村のことを聞いたかな？チョルノービリ原発の最初の災害が起こった時、そのエリアはひどくなり過ぎて、村全体を埋めることに決定した。家の跡には今は何もないが、小さな放射性の土塁だけがある。そこは災害の前でさえ不気味な場所だったと言う。俺は最近、そこで何かが見つかると考えていて、ぞくぞくしている。誰もがそこを調べるのを怖がっている。</text>
+	</string>
+	<string id="dm_information_52">
+		<text>これはニュースではないが、おそらく、あんたは聞いたことがないだろう。俺たちはフリーダムと争わなくなった。それはある状況のためだった。俺たちがここに来た時、フリーダムに飛びかかられた。両陣営で損失は大きかった…。しかし、戦いが佳境になった時、ズールーが光熱放射の接近を感じた。彼はそれを間違ったことはなかった…。俺たちは戦いを延期する以外なかった。俺がわからないのは、なぜズールーがその出来事の後にデューティーを去ったかだ…。</text>
+	</string>
+	<string id="dm_information_53">
+		<text>最近、我々の偵察兵がヤノフ駅の上に未確認飛行物体を見たことを報告した。つまりUFOだ。あんたが愚かな質問をする前に言うが、UFOは火星人の空飛ぶ円盤ではないぞ。目撃者がそれを識別できなかったなら、それは気象調査のものか、何かが飛んでいる物体だ。わかるかな？</text>
+	</string>
+	<string id="dm_information_54">
+		<text>あんたはそのPDAをロキに持って来た男だろう？。おお、それはすごいぞ。デューティーの伝説の創立者タチェンコ将軍は、どうしようもない兵士たちを指揮した。外部から連絡できないように無線を壊し、マヌケたちを従わせた。バブルの空間の中で、古いファッションでわめくためにだ！</text>
+	</string>
+	<string id="dm_information_55">
+		<text>変てこな奴らの新しい部隊を見たか？基地からの援軍ではありえないな。しかし、連中はちゃんとしたストーカーのように、よく訓練されすぎている。よくわからないぞ。モノリスから来たのかもな？おかしいぞ！</text>
+	</string>
+	<string id="dm_information_56">
+		<text>我々の新しい戦士たちを見たか？ああ、あんたが彼らを連れてきたのか？なかなかいいぜ。連中はきちんとしていて、堅そうだ。…ま、それはいい。数か月を過ごせば、心を解放するだろう。俺たちのやり方の生活を始めれば、十分に俺たちと同じになる。</text>
+	</string>
+	<string id="dm_information_57">
+		<text>我々は何人かのちゃんとした新人を得た。元のモノリサーの部隊だ。そして、新人でない何人かもな。訓練された戦士たちだ。もちろん、モノリスを離れた後の頭の中が、すぐにこの場所に馴染むとは限らない。だが大丈夫だろう。特別のイデオロギー101集中コースがあるさ。</text>
+	</string>
+	<string id="dm_information_58">
+		<text>フリーダムの奴らが何人かの元のモノリサーを採用したと言う。信じることが難しいが、新しい部隊を持っており、それは確かにゾーンの外から来たのではない。 俺は奴らの脳は薬でやられてかなり自暴自棄になってると推測している…。奴らは次に誰を雇うんだ。ゾンビ旅団か？ブーラーの大隊か？</text>
+	</string>
+	<string id="dm_information_59">
+		<text>このエリアはまもなく再び法と秩序を回復するだろう。デューティーは地域の重要な位置を支配した。俺たちはヤノフで足場を確保し、また、科学者のトーチカで週7日24時間の警護をしている。フリーダムは荷物をまとめ、旅に出る潮時だ。無政府主義者はここでは歓迎されない。</text>
+	</string>
+	<string id="dm_information_6">
+		<text>世界で一番新しい驚異、…それは酔っていないカルダンだ。 奴が禁酒中だと信じられるか？スカドフスクの皆が奴に、防空ホットラインの番号を得たのかと尋ねたんだ。彼は、「俺が必要としたただひとつの番号は62だった」と答えたんだ。</text>
+	</string>
+	<string id="dm_information_60">
+		<text>俺は、我々の兵士たちが科学者を警護する仕事を得るのを助けたのは、あんただったと思う。感謝している。嫌な傭兵の代わりに、トーチカで我々の仲間を見るのは嬉しい。本当に良いことだ！</text>
+	</string>
+	<string id="dm_information_61">
+		<text>さあて…。我々はデューティーの秘密の隠し場所に喜んでいる。今、自分たちの意図する目的のためにそれを使用するだろう。デューティーのすべての秘密を吐かせるための刑務所としてな。ハハハッ。警報システムのことを密告してくれたことに感謝する。援軍なしでは、我々には勝ち目はなかった。</text>
+	</string>
+	<string id="dm_information_62">
+		<text>もうひとつのデューティーの勝利だ！その無政府主義者らは調子に乗りすぎていた…。俺たちの秘密倉庫の中へ忍び込んで逃げられると思ってたんだ。あるわけないだろ！奴らを驚かし、狂ったハムスターと同様に、その頭を吹っ飛ばしたんだ。</text>
+	</string>
+	<string id="dm_information_63">
+		<text>このニュースは、フリーダムが犯罪者の集まりだということではないが、しかし、その最もおかしな奴に関しての新しいことが判明した。そいつはフリーダムではフリントの名前で知られているが、それに参加する前はマグパイというストーカーだった。奴がザトンに来て対ミュータントのハンター・クルーを指揮していた時は、少なくとも彼はマグパイという名前だった。奴はクルーをキメラに向かわせて殺させ、その間にクルーの装備を奪ってこのヤノフに来た。フリーダムに参加した後、奴はアーティファクトを得るために、パートナーをアノマリーに向かわせた。そう、そんなのがあんたのためのフリーダムさ。</text>
+	</string>
+	<string id="dm_information_7">
+		<text>ノアの進める新しい造船プロジェクトだ。それはザトンの最新のアトラクションさ。ノアという名のストーカーのな。経験を積み、やる気のある、そして100%の変人だ。奴の一番新しい正気を逸した考えは、ヨハネ黙示録からストーカーをすべて救うことだ。その目的のために、奴は“アーク”の上に古いはしけ舟を再建している。実際の精神病院だ。立ち寄ることに決めたら、ノアを悩まさないようにするんだ。そうする限りは、奴はほとんど無害だ。</text>
+	</string>
+	<string id="dm_information_8">
+		<text>ニンブルに会ったか？彼は今、ちょうどスカドフスクにいる。彼は商売の本当のプロだ。そう、主に銃と最近のスーツを扱うが、一流品ばかりだ！特製アイテム、試験的に設計されたもの、手製の逸品…、安くはない。どうして、そんなにこだわるのだろう？限定品ですごく高価だ！</text>
+	</string>
+	<string id="dm_information_9">
+		<text>パイロットがザトンとジュピターの間の新しいルートを使っていることを知っているか？かつては長い時間がかかり、坂を登ったり、アノマリーを避けたりした。今、それは簡単になった。旅行ではなく公園の散歩のようで、前の半分に感じる。そしてパイロットは功績のある者で、その功績が認められている。彼がルートを発見したのではないんだ。あるストーカーが彼に地図を与えた。もちろん有料でだが、べらぼうな値段ではなかった。</text>
+	</string>
+	<string id="dm_information_do_not_know_1">
+		<text>正直なところ、それほどでもない。</text>
+	</string>
+	<string id="dm_information_do_not_know_2">
+		<text>ゾーンでは、見る場所ごとに、新しいものがいつもある。</text>
+	</string>
+	<string id="dm_information_do_not_know_3">
+		<text>そう、あんたは今ここにいる。そいつはニュースだな。</text>
+	</string>
+	<string id="dm_information_general">
+		<text>ゾーンで何か新しいことがあるか？</text>
+	</string>
+	<string id="dm_information_no_more_1">
+		<text>あんたに興味を感じさせるものを何も知らないな。</text>
+	</string>
+	<string id="dm_information_no_more_2">
+		<text>俺が聞いたことだけだが、また今度話そう。</text>
+	</string>
+	<string id="dm_information_no_more_3">
+		<text>俺が知っていることは全部話した。</text>
+	</string>
+	<string id="dm_job_1">
+		<text>うむ…、おそらく、スカドフスクでグロースに尋ねるのがいい。彼は手伝いを探している。ストーカーたちが跡形もなく消えたんだ。皆は血がなくなった乾いた死体が見つかると、ブラッドサッカーの仕業と言う。しかし、これはあまりに多い。ほとんど一日おきに人間を襲っている。本当にブラッドサッカーなのか…。グロースはそのブラッドサッカーたちを追い詰めるために、さらに経験を積んだハンターを雇っている。</text>
+	</string>
+	<string id="dm_job_10">
+		<text>知ってのとおり、ストーカーが金銭を必要とする場合、2つの方法がある。アーティファクトを見つけてトレーダーに30カペイカで売るか、あるいは科学者のための仕事をする。科学者のところでは、いつも何かが提供されたり、ストーカーができることがある。アーティファクトやミュータントの死骸を届けるとかだ。しかしそれ以上に、うまくいけばゾーンの公式で合法的な滞在許可をもらえる。軍の検問所を通り、埋蔵品でいっぱいのバックパックを運び、敬礼されるのを想像してくれ！わくわくするぞ！とにかく、科学者のトーチカはヤコフ駅の西にある。彼らはすでにひとりのストーカーを働かせているが、たぶんあんたのような者なら雇うだろう。</text>
+	</string>
+	<string id="dm_job_11">
+		<text>どれくらい成功するかは、あんたがやることに依存する。ミュータントを狩ることが嫌でなければ、多くの仕事があるだろう。ヤノフの基地でトラッパーに尋ねるんだ。ミュータントの除去に良い金を払ってくれるが、その辺のシュードドッグを撃っても駄目だ。トラッパーは、アーティファクトの収集を邪魔をするか、光熱放射から隠れるためにストーカーが使用する場所にいる特定のモンスターの仕事を依頼する。</text>
+	</string>
+	<string id="dm_job_14">
+		<text>スカドフスクに来るあんたのような男は、ビアードを訪ねるのがいい。奴はアーティファクトにかなりの金を払う…。しかし、ひとつ言っておくが、奴のビジネスセンスは貧弱だ。力のある連中と利益を共有したくないんだ…。そして、その“糞”はその連中に歯向かいたいんだ。わかるかな？</text>
+	</string>
+	<string id="dm_job_15">
+		<text>現金を必要とするなら、アウルに会うんだ。奴はスカドフスクで必要なすべてのものを売っている…。情報、銃、何でもだ。書類やストーカーのPDAなど、すごく価値があるものを得た場合は、アウルにそれを持っていって払ってもらえ。さらに、奴の個人の注文を得れば、良い金が手に入る。何が必要かを尋ねることだ。</text>
+	</string>
+	<string id="dm_job_2">
+		<text>ゴンタを訪ねるのがいいだろう。彼とそのクルーは多くの話題を持っている。少し前に一匹のキメラがザトンに現れ、ゴンタと彼の部下がそれを追った。追い詰めるために2つのチームに分かれ、ハンターのひとりをブラッドサッカーの巣を探すために送った。最後にキメラを探し出した時には人が少なかった。そして他のストーカーのマグパイがやって来た。すべての成り行きを正確には知らないが、ほとんどの話では、マグパイはキメラを見るとすぐ逃げたということだ。ゴンタは、重傷を負った部下のひとりと、かろうじてそこから出た。だが、まだキメラはつかまっておらず、彼らは手を貸してくれる者を捜している。</text>
+	</string>
+	<string id="dm_job_3">
+		<text>それは簡単だ。大金を望むなら、サルタンがいい。彼は地元のボスだ。あんたがそれなりの男とわかれば、彼は仕事を見つけてくれる。</text>
+	</string>
+	<string id="dm_job_4">
+		<text>あんたが探すのが得意なら、つまりアーティファクト探しだが、ビアードと話すんだ。彼はここで多くの尊敬を得ている。スカドフスクで、あんたのアーティファクトに良い値段をつけてくれる唯一の人間だ。ゾーンの外にそれらを運ぶコネクションを持っている。さらに、いい男だ…。アドバイスや適切な仕事をくれる。</text>
+	</string>
+	<string id="dm_job_5">
+		<text>スカドフスクにひとりのトレーダーがいる。アウルという名だ。最低に楽しくない人間で、アーティファクトはすべてビアードに行くとか、常に文句を言ってる。しかし、金が必要なら、彼が何を提示してくれるかを見るんだ。そのイタチは弾薬よりもっと色々多くを扱っている。自分のことを話せば、彼の興味のあるものを売り買いして取り引きできる。彼を訪ねるんだ、第2後部デッキにいる。あんたは一緒に何かの仕事ができると確信する。</text>
+	</string>
+	<string id="dm_job_6">
+		<text>ヴァノに尋ねるといいだろう。ヤノフのバーにいる。彼はバンディットに縛られて、すでに借金を3度も返さなくてはならなくなった。彼には経験があり、色々のことができ、目を閉じてアノマリーも見つけられる。…だのに、いつもトラブルに巻き込まれる。多くの人が、彼に出ていくように勧めた。ゾーンは広いので、悪党は彼を見つけられないと…。だが、プライドが高くて逃げない。また、喜んでバンディットとの問題を解決しようとする人間もいないんだ。</text>
+	</string>
+	<string id="dm_job_7">
+		<text>仕事のことは忘れるんだ…。バンディットは本当に手に負えなくなった。奴らは囚人のミタイを連れて行き、身代金を要求している。ミタイはヤノフの最初のストーカーのひとりだった。光熱放射の間に防護ができるように、この場所を構築した。今、彼が助けを必要としてるのに、誰も何もしない。フリーダムやデューティーは問題外で、互いの喉をかじるのに忙しい。しかし残りの者は…、彼らは何かをするべきでだ！ああ、ミタイ自身のクルーは、彼を解放する方法を見つけられない。あんたが彼らを支援するなら、グリズリーと話すんだ。駅の酒場で会える。</text>
+	</string>
+	<string id="dm_job_8">
+		<text>ヤノフの技術者のニトロが作業用の材料を必要としている。知らないかもしれないが、彼は武器とエレクトロニクスの両方の扱いが上手だ。しかし、たまに技術だけでは十分ではなく、正しい材料が必要になる。なので、彼は周囲にそれを尋ねているんだ。問題なのは安全な場所は片づけられており、残りの大部分は危険すぎる場所だ。ニトロは、その危険を冒す誰かを見つけたいと望んでいる。その問題には、良い金が払われるのは確かだ。</text>
+	</string>
+	<string id="dm_job_9">
+		<text>ヤノフ駅の向うのアンクル・ヤールが、彼の何かを手伝うのに興味があるストーカーを捜していると聞いた。どうして彼がフリーダムの仲間に頼まないのかは不明だ…。とにかく、彼は良い老人だ。彼と話し、何か仕事をできるかどうか、確かめるべきだ。</text>
+	</string>
+	<string id="dm_job_do_not_know_1">
+		<text>うむ…、そのようなのは誰も知らないな。</text>
+	</string>
+	<string id="dm_job_do_not_know_2">
+		<text>俺自身がそれを知りたい。</text>
+	</string>
+	<string id="dm_job_do_not_know_3">
+		<text>どうして俺が知ってなくてはならないんだ？</text>
+	</string>
+	<string id="dm_job_general">
+		<text>誰か俺のために仕事を持ってる奴を知らないか？</text>
+	</string>
+	<string id="dm_job_no_more_1">
+		<text>あんたは、すでに俺にそれを尋ねたぞ。</text>
+	</string>
+	<string id="dm_job_no_more_2">
+		<text>別の何かを話せないか？</text>
+	</string>
+	<string id="dm_job_no_more_3">
+		<text>あんたは、もう俺の答えを聞いてるぞ。</text>
+	</string>
+	<string id="dm_universal_actor_exit">
+		<text>よし、それはもういい。</text>
+	</string>
+	<string id="dm_universal_actor_start">
+		<text>あんたに聞きたいことがあるんだ。</text>
+	</string>
+	<string id="dm_universal_npc_start_0">
+		<text>言ってみな。</text>
+	</string>
+	<string id="dm_universal_npc_start_1">
+		<text>言ってみろ。</text>
+	</string>
+	<string id="dm_universal_npc_start_2">
+		<text>言ってみな。</text>
+	</string>
+	<string id="dm_universal_npc_start_3">
+		<text>聞こう。</text>
+	</string>
+	<string id="dm_wounded_general">
+		<text>助けてくれ！</text>
+	</string>
+	<string id="dm_wounded_medkit">
+		<text>この回復キットを受け取れ。</text>
+	</string>
+	<string id="dm_wounded_sorry">
+		<text>すまない。何もない。</text>
+	</string>
+	<string id="dm_traveler_bye">
+		<text>わかった。</text>
+	</string>
+	<string id="dm_traveler_what_are_you_doing">
+		<text>あんたは何をやっているんだ？</text>
+	</string>
+	<string id="dm_traveler_can_i_go_with_you">
+		<text>あんたと一緒に行っていいか？</text>
+	</string>
+	<string id="dm_traveler_stalker_actor_companion_yes">
+		<text>もちろんだ。人数が多い方が楽しい。</text>
+	</string>
+	<string id="dm_traveler_stalker_actor_companion_no">
+		<text>悪いが、俺はひとりで行きたい。</text>
+	</string>
+	<string id="dm_traveler_actor_go_with_squad">
+		<text>では、行こう。</text>
+	</string>
+	<string id="dm_traveler_take_me_to">
+		<text>俺はある場所に行かなくてはならない。有料で案内してくれないか？</text>
+	</string>
+	<string id="dm_traveler_stalker_where_do_you_want">
+		<text>問題はない。どこへ行かなくてはならないんだ？選んでくれ。</text>
+	</string>
+	<string id="dm_traveler_actor_agree">
+		<text>了解だ。さあ、行こう。</text>
+	</string>
+	<string id="dm_traveler_actor_refuse">
+		<text>俺は考えを変えた。</text>
+	</string>
+	<string id="dm_traveler_stalker_i_cant_travel">
+		<text>いや、俺は急ぎのやらなくてはならない仕事がある。</text>
+	</string>
+	<string id="dm_stalker_doing_nothing_1">
+		<text>俺は休んでいるだけだ。</text>
+	</string>
+	<string id="dm_stalker_doing_nothing_2">
+		<text>なにもない。R&amp;Rを聞いているだけだ。</text>
+	</string>
+	<string id="dm_stalker_doing_nothing_3">
+		<text>俺が何かしてるように見えるか？何もないさ。</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_monster">
+		<text>ミュータントを追ってるんだ。</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_bandit">
+		<text>悪党を追っている…。</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_killer">
+		<text>数人の傭兵を追い詰めている。本当の悪者たちだ…。</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_monolith">
+		<text>狂信者部隊を尾行してるんだ。それはモノリサーたちだが…。</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_zombied">
+		<text>ゾンビを追ってるんだ。そいつらはいっぱいいる…。</text>
+	</string>
+	<string id="dm_traveler_travel_cost">
+		<text>よし。それには金がかかるぞ。</text>
+	</string>
+	<string id="dm_traveler_actor_dont_go_with_squad">
+		<text>うむ、俺は考えを変えた。</text>
+	</string>
+	<string id="dm_traveler_actor_has_no_money">
+		<text>俺はそんなに持っていない。</text>
+	</string>
+	<string id="dm_freedom_doing_nothing_1">
+		<text>あー、何もないなあ。</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_monster">
+		<text>俺はミュータントたちを追っている。誰かに奴らの場所に案内してもらわなくては。</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_bandit">
+		<text>この辺の悪党を追ってるんだ。</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_killer">
+		<text>俺は何人かの傭兵の頭の皮をはがしてやる。連中から取り立てる必要のある負債があるんだ。</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_monolith">
+		<text>俺は狂信者のモノリスたちを追っている。</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_duty">
+		<text>俺は何人かの債務者を追っている。</text>
+	</string>
+	<string id="dm_duty_doing_nothing_1">
+		<text>今はまったく、何もしていない。</text>
+	</string>
+	<string id="dm_duty_chasing_squad_monster">
+		<text>ミュータント狩りをして、地域の浄化をしようとしてるんだ。</text>
+	</string>
+	<string id="dm_duty_chasing_squad_bandit">
+		<text>バンディッズ部隊を追うミッションの最中だ。</text>
+	</string>
+	<string id="dm_duty_chasing_squad_killer">
+		<text>傭兵たちが目当てさ。その部隊の後を追っている。</text>
+	</string>
+	<string id="dm_duty_chasing_squad_monolith">
+		<text>モノリス部隊を追ってるのさ。</text>
+	</string>
+	<string id="dm_duty_chasing_squad_freedom">
+		<text>俺はおかしな奴らを追っている…、フリーダムの奴らだ。</text>
+	</string>
+	<string id="dm_stalker_searching_artefacts_1">
+		<text>アーティファクト・ハントをしてるのさ。</text>
+	</string>
+	<string id="dm_stalker_searching_artefacts_2">
+		<text>俺はキノコを採ってるんじゃないぞ。アーティファクトを探してる。</text>
+	</string>
+	<string id="dm_stalker_searching_artefacts_3">
+		<text>俺はアーティファクトを探してる。</text>
+	</string>
+	<string id="st_stalker_zat_sim_1">
+		<text>俺は小さな木立の隣のボイラーのアノマリーに向かってるんだ。</text>
+	</string>
+	<string id="st_stalker_zat_sim_2">
+		<text>俺は北の湖へ行く…。半島で時間を過ごすのさ。</text>
+	</string>
+	<string id="st_stalker_zat_sim_3">
+		<text>俺は北の湖の向うに行く。良いキャンプ・スポットがそこにあるんだ。</text>
+	</string>
+	<string id="st_stalker_zat_sim_4">
+		<text>俺は北の湖の向うの森に行くところだ。</text>
+	</string>
+	<string id="st_stalker_zat_sim_5">
+		<text>俺は製材所の西の小さな森林に向かっている。</text>
+	</string>
+	<string id="st_stalker_zat_sim_6">
+		<text>俺は沼地の西の丘に向かって進んでる。そこは湿地汚染がされてない。</text>
+	</string>
+	<string id="st_stalker_zat_sim_7">
+		<text>俺はアンテナ複合施設に向かっている。その西に小さな良いスポットがあるんだ。</text>
+	</string>
+	<string id="st_stalker_zat_sim_8">
+		<text>俺はオークパインの西の森に向かって進んでる。よければ一緒に来い。連れは気にならない。</text>
+	</string>
+	<string id="st_stalker_zat_sim_9">
+		<text>アイアン・フォレストと工場の間の森へ行く。</text>
+	</string>
+	<string id="st_stalker_zat_sim_10">
+		<text>大きな橋に向かってる…、その東に安全でプライベートが保てる小さな場所があるようだ。</text>
+	</string>
+	<string id="st_stalker_zat_sim_11">
+		<text>古いはしけ舟の南の駐車場へ行く。</text>
+	</string>
+	<string id="st_stalker_zat_sim_12">
+		<text>特に何もない。ただ旅をしているだけだ。スカドフスクの東の丘の上にキャンプに行く。</text>
+	</string>
+	<string id="st_stalker_zat_sim_13">
+		<text>イズムルドとガソリン・スタンドの間の森へ行く。</text>
+	</string>
+	<string id="st_stalker_zat_sim_14">
+		<text>廃棄物処理ステーションの近くの路の分枝。</text>
+	</string>
+	<string id="st_stalker_zat_sim_15">
+		<text>ボイラーのアノマリーへ行く。</text>
+	</string>
+	<string id="st_stalker_zat_sim_16">
+		<text>レンジャー・ステーションへ行く。建物複合施設がそこにある。おそらく、あんたはそれを見たんだ。そのひとつに溶鉱炉がある。そこでどんな種類の事業を営んだのかと不思議に思う。</text>
+	</string>
+	<string id="st_stalker_zat_sim_17">
+		<text>焼けた農場の西の森へ行く。</text>
+	</string>
+	<string id="st_stalker_zat_sim_18">
+		<text>ボイラーのアノマリーの東の森へ行く。</text>
+	</string>
+	<string id="st_stalker_zat_sim_19">
+		<text>北の湖を過ぎたところの丘へ行く。</text>
+	</string>
+	<string id="st_stalker_zat_sim_20">
+		<text>焼けた農場の南の小さな森。</text>
+	</string>
+	<string id="st_stalker_zat_sim_21">
+		<text>俺はスカドフスクの西へ向かっている。そこにパイプが来ている。</text>
+	</string>
+	<string id="st_stalker_zat_sim_22">
+		<text>俺はスカドフスクと浚渫ステーションの途中の、ある場所に向かっている。</text>
+	</string>
+	<string id="st_stalker_zat_sim_23">
+		<text>古いはしけ舟の近くの河口へ行く。</text>
+	</string>
+	<string id="st_stalker_zat_sim_24">
+		<text>スカーのアノマリーの近くの入り江へ行く。</text>
+	</string>
+	<string id="st_stalker_zat_sim_25">
+		<text>ガソリン・スタンドへ行く。</text>
+	</string>
+	<string id="st_stalker_zat_sim_26">
+		<text>オークパインの谷へ行く。</text>
+	</string>
+	<string id="st_stalker_zat_b55">
+		<text>俺はクローのアノマリーでアーティファクトを探したい。</text>
+	</string>
+	<string id="st_stalker_zat_a1">
+		<text>俺はボイラーのアノマリーの西の丘に向かっている。</text>
+	</string>
+	<string id="st_stalker_zat_a23_smart_terrain">
+		<text>アイアン・フォレストのアノマリーへ行く。</text>
+	</string>
+	<string id="st_stalker_zat_b100">
+		<text>俺はアイアン・フォレストのアノマリーへアーティファクトを探しに行く。</text>
+	</string>
+	<string id="st_stalker_zat_b101">
+		<text>俺は沼地へ行く。確かに、そこはガスで呼吸がしにくい。だが、アーティファクトはそれ以上のものだ。</text>
+	</string>
+	<string id="st_stalker_zat_b103_merc_smart">
+		<text>俺は変電所工場に行く。そこは光熱放射を避けるのに良い場所であると言われている。なので、その試験をしてみるつもりだ。</text>
+	</string>
+	<string id="st_stalker_zat_b104_zombied">
+		<text>あんたは近くに製材所があることを知っているはずだ。そこに俺は向かっている。価値があるのかどうか、そこを再確認したい。</text>
+	</string>
+	<string id="st_stalker_zat_b106_smart_terrain">
+		<text>イズムルドのリゾートで時間を過ごしたいんだ。ああ、確かにそこは良いリゾートだぞ…、フレッシュとボアにはだ！そこで少しキャンプができると考えている。</text>
+	</string>
+	<string id="st_stalker_zat_b12">
+		<text>橋へ行く。地図にプレオブラジェンスキーと書かれていると思う。</text>
+	</string>
+	<string id="st_stalker_zat_b14_smart_terrain">
+		<text>浚渫ステーションへ行く。そのエリアでは、まだいくつかの貴重品が見つかると賭けている。</text>
+	</string>
+	<string id="st_stalker_zat_b18">
+		<text>古いはしけ舟へ行く。</text>
+	</string>
+	<string id="st_stalker_zat_b20_smart_terrain">
+		<text>焼けた農場のそばを歩き、何か新しいアーティファクトが出てきたかどうか確かめたいんだ。</text>
+	</string>
+	<string id="st_stalker_zat_b28">
+		<text>南の台地へ行く。</text>
+	</string>
+	<string id="st_stalker_zat_b33">
+		<text>ガソリン・スタンドのそばの割れ目へ行く。</text>
+	</string>
+	<string id="st_stalker_zat_b38">
+		<text>クリュッグアンテナ複合施設に行くところだ。光熱放射から隠れる安全な場所が必要なんだ。残念ながら、多くのモンスターもそこにいるようだが。</text>
+	</string>
+	<string id="st_stalker_zat_b38u">
+		<text>クリュッグアンテナ複合施設に行くところだ。光熱放射から隠れる安全な場所が必要なんだ。残念ながら、多くのモンスターもそこにいるようだが。</text>
+	</string>
+	<string id="st_stalker_zat_b39">
+		<text>オークパインの近くに、アーティファクトを探しに行くつもりだ。うまくいけば、馬鹿な奴は窮地に立つ。</text>
+	</string>
+	<string id="st_stalker_zat_b40_smart_terrain">
+		<text>汚水溜めへだ…、廃棄物処理ステーションへ行く。そこは光熱放射から隠れるのに良い場所だ。</text>
+	</string>
+	<string id="st_stalker_zat_b42_smart_terrain">
+		<text>俺は北の湖の桟橋に向かっている。そこに着いたら、好きにやるのさ。</text>
+	</string>
+	<string id="st_stalker_zat_b52">
+		<text>俺はドックへ行くところだ。クレーンがある場所さ。キャンプをするのにも適当な場所だ。</text>
+	</string>
+	<string id="st_stalker_zat_b53">
+		<text>俺はボイラーのアノマリーの中でアーティファクトを探す計画をしている。俺のスーツが、この温泉休暇で残存するといいんだがな。</text>
+	</string>
+	<string id="st_stalker_zat_b54">
+		<text>スカーのアノマリーへ行く。</text>
+	</string>
+	<string id="st_stalker_zat_b56">
+		<text>自分の装備がどのくらい耐火性があるのかをテストしながら、アーティファクトを探したいんだ。サーカスのアノマリーの中でな。</text>
+	</string>
+	<string id="st_stalker_zat_b5_smart_terrain">
+		<text>レンジャー・ステーションへ行く。</text>
+	</string>
+	<string id="st_stalker_zat_b7">
+		<text>俺はシェフチェンコでキャンプをするつもりだ。そこは光熱放射から安全で、またミュータントの攻撃からも強い場所だ。</text>
+	</string>
+	<string id="st_stalker_zat_b7_stalker_raider">
+		<text>俺はシェフチェンコでキャンプをするつもりだ。そこは光熱放射から安全で、またミュータントの攻撃からも強い場所だ。</text>
+	</string>
+	<string id="st_stalker_zat_medic_home_smart">
+		<text>俺はドックへ行くところだ。クレーンがある場所さ。キャンプをするのにも適当な場所だ。</text>
+	</string>
+	<string id="st_stalker_zat_stalker_base_smart">
+		<text>俺は埋蔵品を売り払って、冷たいのを一杯やりたい。スカドフスクがその場所だ。</text>
+	</string>
+	<string id="st_stalker_jup_a10_smart_terrain">
+		<text>俺はジュピター・プラント横の軍の検問所へ行くところだ。</text>
+	</string>
+	<string id="st_stalker_jup_a12">
+		<text>コンテナ倉庫へ行く。</text>
+	</string>
+	<string id="st_stalker_jup_a12_merc">
+		<text>俺はコンテナ倉庫と南のトンネルの間の目立たないエリアに向かっている。</text>
+	</string>
+	<string id="st_stalker_jup_a6">
+		<text>ヤノフ駅へ行く。最後に休める時間を過ごすんだ。</text>
+	</string>
+	<string id="st_stalker_jup_b1">
+		<text>コパチ村の北のトンネルへ行く。</text>
+	</string>
+	<string id="st_stalker_jup_b19">
+		<text>俺は本当にぞくぞくする場所、コパチ村へ行く。…あるいは、そこに残された何かへだ。抗放射能薬や弾薬を仕入れた。…それが必要になるぞ！</text>
+	</string>
+	<string id="st_stalker_jup_b200">
+		<text>セメント工場へ行く。監視に良い地点で、誰も隠れて動くことができない。</text>
+	</string>
+	<string id="st_stalker_jup_b200_tushkan_smart_terrain">
+		<text>セメント工場へ行く。その最下部をチェックするつもりだ。</text>
+	</string>
+	<string id="st_stalker_jup_b202">
+		<text>ヤノフの近くの無人駅へ行く。</text>
+	</string>
+	<string id="st_stalker_jup_b203">
+		<text>俺は南の鉄道トンネルの近くに行くところだ。</text>
+	</string>
+	<string id="st_stalker_jup_b204">
+		<text>俺はジュピター・プラントの近くの冷却池に行くところだ。</text>
+	</string>
+	<string id="st_stalker_jup_b205_smart_terrain">
+		<text>俺はボルホフ対空複合施設へ行くところだ。ゾンビ狩りをする。</text>
+	</string>
+	<string id="st_stalker_jup_b205_smart_terrain_tushkano">
+		<text>ボルホフ対空複合施設にあるトーチカへ行く。</text>
+	</string>
+	<string id="st_stalker_jup_b206">
+		<text>採石場の近くのアノマリーの森へ行く。1つか2つのアーティファクトが見つかるかもしれない。</text>
+	</string>
+	<string id="st_stalker_jup_b207">
+		<text>俺は採石場へ行くところだ。そこに建設作業員のバンがある。</text>
+	</string>
+	<string id="st_stalker_jup_b207_depot_attack">
+		<text>採石場とヤノフ駅の間にその場所がある。しばらくそこにいるつもりだ。</text>
+	</string>
+	<string id="st_stalker_jup_b208">
+		<text>俺はジュピター・プラントの下へ続く、東のトンネルへ行くところだ。</text>
+	</string>
+	<string id="st_stalker_jup_b209">
+		<text>ビチューメンのアノマリーへ行く。俺のスーツがどれくらい耐火性があるのか確かめたい。</text>
+	</string>
+	<string id="st_stalker_jup_b211">
+		<text>俺はアーティファクトを探しにプラヴィのアノマリーにいくところだ。心配されるモンスターに対し、十分な解毒薬を得た。</text>
+	</string>
+	<string id="st_stalker_jup_b212">
+		<text>工場とコンテナ倉庫の間の換気用複合施設へ行く。なぜだって？俺が知るわけねえ。</text>
+	</string>
+	<string id="st_stalker_jup_b219">
+		<text>俺はジュピター工場へ行くところだ。なんでその場所がそういう名前がわかるかもな。</text>
+	</string>
+	<string id="st_stalker_jup_b25">
+		<text>俺は採石場の一番底まで行くんだ。ストーカーたちは、そこで多くのアーティファクトが見つかると言っている。</text>
+	</string>
+	<string id="st_stalker_jup_b32">
+		<text>古い車両がある駐車場へ行く。電気のアノマリーの中のアーティファクトを探す。</text>
+	</string>
+	<string id="st_stalker_jup_b4">
+		<text>ボルホフ対空複合施設とコンテナ倉庫の間に、きれいな小さな場所がある。そこに向かってるんだ。</text>
+	</string>
+	<string id="st_stalker_jup_b41">
+		<text>科学者のトーチカへ行く。</text>
+	</string>
+	<string id="st_stalker_jup_b46">
+		<text>ヤノフ駅の北西の冷却塔へ行く。</text>
+	</string>
+	<string id="st_stalker_jup_b47">
+		<text>ジュピター・プラントへ向かっている。だが内部に入る気はない。管理ビルの周りに何かないか見てみたい。</text>
+	</string>
+	<string id="st_stalker_jup_b6_anom_2">
+		<text>コパチ村の向うのアシュヒープのアノマリーへ行くところだ。</text>
+	</string>
+	<string id="st_stalker_jup_b8_smart_terrain">
+		<text>俺はジュピター工場に行くところだ。ヘリがそのエリアに落ちたと言われている。なので、それをチェックしようと思っている。</text>
+	</string>
+	<string id="st_stalker_jup_sim_1">
+		<text>俺は、ボルホフ対空複合施設と駐車場の間にある荒れ果てた列車へ行くところだ。</text>
+	</string>
+	<string id="st_stalker_jup_sim_2">
+		<text>光熱放射が安全なら、南のトンネルに行く。</text>
+	</string>
+	<string id="st_stalker_jup_sim_3">
+		<text>ヤノフとコパチ村の間の場所に行くところだ。</text>
+	</string>
+	<string id="st_stalker_jup_sim_4">
+		<text>俺はセメント工場の南、運河から遠くない場所へ行くところだ。</text>
+	</string>
+	<string id="st_stalker_jup_sim_5">
+		<text>俺はジュピター・プラントの北、運河に近い場所へ行くところだ。</text>
+	</string>
+	<string id="st_stalker_jup_sim_6">
+		<text>採石場を調べに行くところだ。</text>
+	</string>
+	<string id="st_stalker_jup_sim_7">
+		<text>採石場を調べに行くところだ。</text>
+	</string>
+	<string id="st_stalker_jup_sim_8">
+		<text>ヤノフの北のエリアを調べに行くところだ。</text>
+	</string>
+	<string id="st_stalker_jup_sim_9">
+		<text>ボルホフ対空複合施設の方へ向かっている。複合施設とコパチ村の間に、キャンプをする良い場所がある。</text>
+	</string>
+	<string id="st_stalker_jup_sim_10">
+		<text>ああ、ただ旅をしているだけだ…。コンテナ倉庫の方に向かってな。</text>
+	</string>
+	<string id="st_stalker_jup_sim_11">
+		<text>このエリアを調査している。今はちょうど、軍の検問所の南をチェックしようとしてる。</text>
+	</string>
+	<string id="st_stalker_jup_sim_12">
+		<text>工場とコンテナ倉庫の間のヘリパッドへ行く。</text>
+	</string>
+	<string id="st_stalker_jup_sim_13">
+		<text>俺はヤノフ駅の南、線路のそばの場所に行くところだ。</text>
+	</string>
+	<string id="st_stalker_jup_sim_14">
+		<text>ヤノフ駅の北の場所へ行く。</text>
+	</string>
+	<string id="st_stalker_jup_sim_15">
+		<text>アノマリーの森へ行く。</text>
+	</string>
+	<string id="st_stalker_jup_sim_16">
+		<text>対空複合施設の南の場所に行く。</text>
+	</string>
+	<string id="st_stalker_jup_sim_17">
+		<text>コンクリート・バスのアノマリーのすぐ横の冷却池に行く。</text>
+	</string>
+	<string id="st_stalker_jup_sim_18">
+		<text>俺はプラント周囲のエリアをチェックするつもりだ。</text>
+	</string>
+	<string id="st_stalker_jup_sim_19">
+		<text>俺はプラント周囲のエリアをチェックするつもりだ。</text>
+	</string>
+	<string id="st_stalker_pri_a15">
+		<text>ランドリーの後ろの庭へ行く。</text>
+	</string>
+	<string id="st_stalker_pri_a16">
+		<text>この辺りで最も安全な場所のランドリーへ行く。</text>
+	</string>
+	<string id="st_stalker_pri_a17">
+		<text>病院へ行く。途中でモノリスのおかしな奴らに出逢わないといいが…。</text>
+	</string>
+	<string id="st_stalker_pri_a18_smart_terrain">
+		<text>ブック・ストアへ行く…。そこは光熱放射から、かなり防護されると聞いた。</text>
+	</string>
+	<string id="st_stalker_pri_a20">
+		<text>この地域のアトラクションを見に行く。すべての人の友情のシンボルをな。ブック・ストアから遠くない場所だ。</text>
+	</string>
+	<string id="st_stalker_pri_a21_smart_terrain">
+		<text>古い食料雑貨店へ行く。今は新鮮なパンはないが、しかし、光熱放射から隠れるには十分に良い。</text>
+	</string>
+	<string id="st_stalker_pri_a22_smart_terrain">
+		<text>ベレスカ店へ行く。</text>
+	</string>
+	<string id="st_stalker_pri_a25_smart_terrain">
+		<text>古い幼稚園へ行く。</text>
+	</string>
+	<string id="st_stalker_pri_a28">
+		<text>プロメセウス記念碑の近くの映画館スクエアへ行く。</text>
+	</string>
+	<string id="st_stalker_pri_b301">
+		<text>俺は学校の建物に向かっている。そこはモンスターでいっぱいだと言われているが、光熱放射があった場合に役立つだろう。</text>
+	</string>
+	<string id="st_stalker_pri_b303">
+		<text>俺は古いサービス・センターに向かっている。一階にはアノマリーがあるだろう。そしてアーティファクトもな。</text>
+	</string>
+	<string id="st_stalker_pri_b304">
+		<text>俺は町のこの部分を調査している。今はちょうど、古い食料雑貨店に向かっているんだ。</text>
+	</string>
+	<string id="st_stalker_pri_b304_monsters_smart_terrain">
+		<text>俺は町のこの部分を調査している。今はちょうど、古い食料雑貨店に向かっているんだ。</text>
+	</string>
+	<string id="st_stalker_pri_b305_dogs">
+		<text>俺は町のこの部分を調査している。今はちょうど、団地の後ろのこの建物をチェックしたい。</text>
+	</string>
+	<string id="st_stalker_pri_b306">
+		<text>俺は公共娯楽センターを探索したい。そこはユビレイヌイと呼ばれていたと思う。</text>
+	</string>
+	<string id="st_stalker_pri_b307">
+		<text>俺はアノマリーを求めてこのエリアを探索しているんだ。火のアノマリーが幼稚園の西の庭にあると聞いた…。</text>
+	</string>
+	<string id="st_stalker_pri_b35_envoy">
+		<text>ああ、ただ町を回っているんだ。今ちょうど、団地に向かうところだ。</text>
+	</string>
+	<string id="st_stalker_pri_b35_mercs">
+		<text>ああ、ただ町を回っているんだ。今ちょうど、団地に向かうところだ。</text>
+	</string>
+	<string id="st_stalker_pri_b35_military">
+		<text>ああ、ただ町を回っているんだ。今ちょうど、団地に向かうところだ。</text>
+	</string>
+	<string id="st_stalker_pri_b36_smart_terrain">
+		<text>今は、川の港に向かって旅をしている。モノリスの連中に出逢わないことを望んでるが…。</text>
+	</string>
+	<string id="st_stalker_pri_b302">
+		<text>多くのアーティファクトがあって、モンスターやモノリサーはいないプリピャチの場所を探している。…へへ、俺が聞いた川の港のすぐ南のアノマリーを調べるつもりだ。</text>
+	</string>
+	<string id="st_stalker_pri_sim_1">
+		<text>プロメセウス映画館の方へ行く。</text>
+	</string>
+	<string id="st_stalker_pri_sim_2">
+		<text>プロメセウス記念碑の近くの映画館スクエアへ行く。</text>
+	</string>
+	<string id="st_stalker_pri_sim_3">
+		<text>俺はしばらく落ち着いて休みたい。幼稚園の北の庭にはきれいな小さな場所があって、申し分ないんだ。</text>
+	</string>
+	<string id="st_stalker_pri_sim_4">
+		<text>団地の南だ。</text>
+	</string>
+	<string id="st_stalker_pri_sim_5">
+		<text>俺は、幼稚園と団地の間のその場所へ行くところだ。</text>
+	</string>
+	<string id="dm_anomalies_8">
+		<text>そこにはスカーと呼ばれている場所がある。その地面は、斧で叩き切られたように見えるんだ。皆はそこでアーティファクトを見つけたが、しかし、一旦そこに入れば不思議なことが起こり始める。脳が非常に強く刺激されて、呼吸ができなくなるだけでなく、そこから出ようすることさえ忘れる。</text>
+	</string>
+	<string id="dm_anomalies_1">
+		<text>あんたは浚渫ステーションがどこか知っているだろ？そこは重力のアノマリーで打たれたが、経験を積んだストーカーには悪くはない場所だ。いつも通り、ボルトをただ投げ続けるんだ。さらに内外に放射能がある。まるで、濃縮ウランの重い塊の隣りにいるようだぞ。</text>
+	</string>
+	<string id="dm_anomalies_4">
+		<text>古い変電所があり、またアイアン・フォレストとも呼ばれている。見ればそれを理解できる。何人かの者が、光熱放射の後にそのエリアでアーティファクトのクラスタを見つけたと言っている。すべてが危険ではないが、主に電気のアノマリーと少しの放射線がある…。また、いくらかのポルターガイストもいて、すぐに隠れないとバラバラにされる。</text>
+	</string>
+	<string id="dm_job_12">
+		<text>仕事だって？正直な話、知らないなあ。だが、フリーダムを支援するチャンスを得たいなら、ヤノフで我々のボスに会えばいい。南側に行って、ロキに会ってくれ。人類の進歩を信じるなら、ゾーンの贈り物である大きな意識と重要性の中で、正しい選択を行なえることを覚えておくことだ。</text>
+	</string>
+	<string id="dm_job_13">
+		<text>思いつかない。だが、ゾーンとの我々の戦いの助けになるものや、また、それが呪いでなく贈り物であると思う者たちを見つけたら、デューティー遠征部隊指揮官のシュルガ中佐に会いに行くんだ。彼はヤノフ駅の責任者だ。北側で彼に会える。確かなことは、デューティーのすべての成功に貢献する民間人は皆、良い報酬を得られることだ。</text>
+	</string>
+	<string id="dm_information_19">
+		<text>皆が、古い冷却タワーで発生する不思議なことについて話している。共通の周波数に合わすと、どこかの可哀想な奴がアノマリーから出たがっている微かな救難呼出し信号を捕らえる。座標を尋ねても、返答はない。最も不思議なものは音だ。その種の歪みをうまく説明できないが…。</text>
+	</string>
+	<string id="st_stalker_zat_sim_27">
+		<text>俺はスカドフスクとシェフチェンコの間の場所に向かっている。</text>
+	</string>
+	<string id="st_stalker_jup_a9">
+		<text>ジュピターへだ。しかし、無理な冒険はしないだろう。</text>
+	</string>
+</string_table>

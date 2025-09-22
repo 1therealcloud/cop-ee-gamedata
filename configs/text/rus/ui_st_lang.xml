@@ -1,0 +1,428 @@
+<?xml version='1.0' encoding='utf-8'?>
+<string_table>
+   <string id="lang_cze">
+        <text>Čeština</text>
+    </string>
+    <string id="lang_eng">
+        <text>English</text>
+    </string>
+    <string id="lang_fra">
+        <text>Français</text>
+    </string>
+    <string id="lang_ger">
+        <text>Deutsch</text>
+    </string>
+    <string id="lang_ita">
+        <text>Italiano</text>
+    </string>
+    <string id="lang_jpn">
+        <text>日本語 </text>
+    </string>
+    <string id="lang_pol">
+        <text>Polski</text>
+    </string>
+    <string id="lang_rus">
+        <text>Русский</text>
+    </string>
+    <string id="lang_spa">
+        <text>Español</text>
+    </string>
+    <string id="lang_ukr">
+        <text>Українська</text>
+    </string>
+	<string id="lang_kor">
+        <text>한국어 </text>
+    </string>
+	<string id="lang_zh_cn">
+		<text>简体中文 </text>
+	</string>
+	<string id="lang_zh_tw">
+		<text>繁體中文 </text>
+	</string>
+	<string id="st_ui_health_sensor_utf8">
+		<text>Состояние здоровья</text>
+	</string>
+
+	<string id="st_level_utf8">
+		<text>Уровень</text>
+	</string>
+
+	<string id="ui_inv_time_utf8">
+		<text>Время</text>
+	</string>
+
+	<string id="zaton_utf8">
+		<text>Затон</text>
+	</string>
+
+	<string id="jupiter_utf8">
+		<text>Окрестности «Юпитера»</text>
+	</string>
+
+	<string id="jupiter_underground_utf8">
+		<text>Путепровод «Припять-1»</text>
+	</string>
+
+	<string id="pripyat_utf8">
+		<text>Припять</text>
+	</string>
+
+	<string id="labx8_utf8">
+		<text>Лаборатория X8</text>
+	</string>
+
+	<string id="ui_mainmenu_autosave_utf8">
+		<text>Автосохранение - </text>
+	</string>
+
+	<string id="ui_mainmenu_manualsave_utf8">
+		<text>Сохранение вручную - </text>
+	</string>
+
+	<string id="ui_mainmenu_quicksave_utf8">
+		<text>Быстрое сохранение - </text>
+	</string>
+
+	<string id="ui_mmenu_new_savegame_utf8">
+		<text>Новое сохранение</text>
+	</string>
+
+	<string id="ui_mmenu_no_savegames_utf8">
+		<text>Нет сохранений</text>
+	</string>
+
+	<string id="st_game_saved_utf8">
+		<text>Игра сохранена</text>
+	</string>
+
+	<string id="month_january_utf8">
+		<text>Январь</text>
+	</string>
+
+	<string id="month_february_utf8">
+		<text>Февраль</text>
+	</string>
+
+	<string id="month_march_utf8">
+		<text>Март</text>
+	</string>
+
+	<string id="month_april_utf8">
+		<text>Апрель</text>
+	</string>
+
+	<string id="month_may_utf8">
+		<text>Май</text>
+	</string>
+
+	<string id="month_june_utf8">
+		<text>Июнь</text>
+	</string>
+
+	<string id="month_july_utf8">
+		<text>Июль</text>
+	</string>
+
+	<string id="month_august_utf8">
+		<text>Август</text>
+	</string>
+
+	<string id="month_september_utf8">
+		<text>Сентябрь</text>
+	</string>
+
+	<string id="month_october_utf8">
+		<text>Октябрь</text>
+	</string>
+
+	<string id="month_november_utf8">
+		<text>Ноябрь</text>
+	</string>
+
+	<string id="month_december_utf8">
+		<text>Декабрь</text>
+	</string>
+
+	<string id="st_save_uni_travel_generic">
+		<text>переход в пределах зоны</text>
+	</string>
+
+	<string id="st_save_uni_travel_zat_to_jup">
+		<text>переход с Затона в Янов</text>
+	</string>
+
+	<string id="st_save_uni_travel_zat_to_pri">
+		<text>переход с Затона в Припять</text>
+	</string>
+
+	<string id="st_save_uni_travel_jup_to_zat">
+		<text>переход из Янова на Затон</text>
+	</string>
+
+	<string id="st_save_uni_travel_jup_to_pri">
+		<text>переход из Янова в Припять</text>
+	</string>
+
+	<string id="st_save_uni_travel_pri_to_zat">
+		<text>переход из Припяти на Затон</text>
+	</string>
+
+	<string id="st_save_uni_travel_pri_to_jup">
+		<text>переход из Припяти в Янов</text>
+	</string>
+
+	<string id="st_save_uni_pri_to_labx8">
+		<text>переход из Припяти в X-8</text>
+	</string>
+
+	<string id="st_save_uni_labx8_to_pri">
+		<text>переход из X-8 в Припять</text>
+	</string>
+
+	<string id="st_save_uni_surge_start">
+		<text>выброс</text>
+	</string>
+
+	<string id="st_save_zat_a1_game_start">
+		<text>начало игры</text>
+	</string>
+
+	<string id="st_save_zat_a2_reached_skadovsk">
+		<text>появление на «Скадовске»</text>
+	</string>
+
+	<string id="st_save_jup_b9_searched_heli_1">
+		<text>«Скат-1» осмотрен</text>
+	</string>
+
+	<string id="st_save_zat_b100_searched_heli_2">
+		<text>«Скат-2» осмотрен</text>
+	</string>
+
+	<string id="st_save_zat_b28_searched_heli_3">
+		<text>«Скат-3» осмотрен</text>
+	</string>
+
+	<string id="st_save_jup_b8_searched_heli_4">
+		<text>«Скат-4» осмотрен</text>
+	</string>
+
+	<string id="st_save_zat_b101_searched_heli_5">
+		<text>«Скат-5» осмотрен</text>
+	</string>
+
+	<string id="st_save_zat_b18_noah_showed_teleport">
+		<text>путь на плато</text>
+	</string>
+
+	<string id="st_save_jup_b217_arrived_to_jup">
+		<text>появление в Янове</text>
+	</string>
+
+	<string id="st_save_jup_a9_got_underpass_docs">
+		<text>путь в Припять найден</text>
+	</string>
+
+	<string id="st_save_jup_b15_drunk_with_zulu">
+		<text>Зулус присоединился к отряду</text>
+	</string>
+
+	<string id="st_save_jup_a10_gonna_return_debt">
+		<text>Вано выплатил долг</text>
+	</string>
+
+	<string id="st_save_jup_b218_vano_in_squad">
+		<text>Вано присоединился к отряду</text>
+	</string>
+
+	<string id="st_save_jup_b206_got_anomalous_plant">
+		<text>аномальное растение получено</text>
+	</string>
+
+	<string id="st_save_jup_b218_sokolov_in_squad">
+		<text>Соколов присоединился к отряду</text>
+	</string>
+
+	<string id="st_save_jup_b218_strider_in_squad">
+		<text>Бродяга присоединился к отряду</text>
+	</string>
+
+	<string id="st_save_jup_b218_travel_jup_to_pas">
+		<text>отряд собран</text>
+	</string>
+
+	<string id="st_save_pas_b400_underpass_start">
+		<text>появление в путепроводе</text>
+	</string>
+
+	<string id="st_save_uni_travel_pas_to_pri">
+		<text>появление в Припяти</text>
+	</string>
+
+	<string id="st_save_pri_a16_arrived_to_pri">
+		<text>военные найдены</text>
+	</string>
+
+	<string id="st_save_pri_a17_hospital_start">
+		<text>неизвестное оружие захвачено</text>
+	</string>
+
+	<string id="st_save_pri_a20_found_dead_recon">
+		<text>пропавшая разведгруппа найдена</text>
+	</string>
+
+	<string id="st_save_pri_a18_met_reinforcement">
+		<text>подкрепления прибыли</text>
+	</string>
+
+	<string id="st_save_pri_a18_searched_antenna">
+		<text>«антенна» осмотрена</text>
+	</string>
+
+	<string id="st_save_pri_a21_approached_mad_sentry">
+		<text>пропавший часовой найден</text>
+	</string>
+
+	<string id="st_save_pri_a21_killed_controller">
+		<text>контролёр возле часового убит</text>
+	</string>
+
+	<string id="st_save_zat_a23_entered_test_center">
+		<text>доступ в испытательный цех получен</text>
+	</string>
+
+	<string id="st_save_zat_a23_got_gauss_docs">
+		<text>документация по Гаусс-пушке найдена</text>
+	</string>
+
+	<string id="st_save_pri_a22_found_dead_squad">
+		<text>мёртвый боец найден</text>
+	</string>
+
+	<string id="st_save_pri_a25_gonna_place_explosive">
+		<text>вход в детский сад</text>
+	</string>
+
+	<string id="st_save_pri_a25_freed_medic">
+		<text>военный медик спасён</text>
+	</string>
+
+	<string id="st_save_pri_a28_talked_with_ssu">
+		<text>связь со штабом установлена</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacutaion_start">
+		<text>Эвакуация из Припяти начата</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacuation_end">
+		<text>эвакуационные вертолёты прибыли</text>
+	</string>
+
+	<string id="st_save_uni_zone_to_reality">
+		<text>эвакуация завершена</text>
+	</string>
+
+	<string id="st_save_jup_b209_placed_mutant_scanner">
+		<text>детектор мутантов</text>
+	</string>
+
+	<string id="st_save_jup_a12_gave_artefact_for_hostage">
+		<text>заплачен выкуп за заложника</text>
+	</string>
+
+	<string id="st_save_jup_a12_met_with_liberators">
+		<text>заложник освобождён</text>
+	</string>
+
+	<string id="st_save_jup_b6_arrived_to_ash_heap">
+		<text>Измерение активности аномалии «Пепелище»</text>
+	</string>
+
+	<string id="st_save_jup_b6_arrived_to_fen">
+		<text>Измерение активности аномалии «Плавни»</text>
+	</string>
+
+	<string id="st_save_zat_b38_met_with_grouse">
+		<text>логово кровососа</text>
+	</string>
+
+	<string id="st_save_jup_b19_arrived_to_kopachy">
+		<text>отправлен в Копачи</text>
+	</string>
+
+	<string id="st_save_zat_b40_warned_by_mercs">
+		<text>приближение к станции переработки отходов</text>
+	</string>
+
+	<string id="st_save_zat_b7_met_with_robbers">
+		<text>наезд на сталкеров</text>
+	</string>
+
+	<string id="st_save_zat_b33_got_container">
+		<text>в схроне найден контейнер</text>
+	</string>
+
+	<string id="st_save_zat_b106_arrived_to_chimera_lair">
+		<text>охота на химеру</text>
+	</string>
+
+	<string id="st_save_jup_b16_passed_labyrinth">
+		<text>Оазис найден</text>
+	</string>
+
+	<string id="st_save_pri_b35_ready_to_snipe">
+		<text>Операция «Один выстрел» начата</text>
+	</string>
+
+	<string id="st_save_jup_b1_entered_railroad_tunnel">
+		<text>поиск источника пси-излучения</text>
+	</string>
+
+	<string id="st_save_jup_b47_got_admin_docs">
+		<text>административные документы</text>
+	</string>
+
+	<string id="st_save_zat_b103_warned_by_mercs">
+		<text>приближение к цехам подстанции</text>
+	</string>
+
+	<string id="st_save_zat_b5_met_with_others">
+		<text>сделка возле лесничества</text>
+	</string>
+
+	<string id="st_save_jup_b207_arrived_to_duty_depot">
+		<text>Склад «Долга»</text>
+	</string>
+
+	<string id="st_save_zat_b14_got_altered_wheel">
+		<text>источник странного свечения найден</text>
+	</string>
+
+	<string id="st_save_pri_b301_arrived_to_help_zulu">
+		<text>Зулус найден</text>
+	</string>
+
+	<string id="st_save_zat_b42_arrived_to_controler_lair">
+		<text>опасная пещера</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacuation_heli">
+		<text>эвакуационный вертолёт взлетел</text>
+	</string>
+
+	<string id="ui_modio_nomemory_utf8">
+		<text>Невозможно установить модификацию! Недостаточно свободного места.</text>
+	</string>
+	
+	<string id="ui_mm_modio_error">
+		<text>Произошла ошибка Mod.io, код:\n</text>
+	</string>
+	<string id="ui_mm_modio_error_space">
+		<text>Недостаточно памяти для установки модификации:\n</text>
+	</string>
+	<string id="ui_mm_modio_error_video">
+		<text>Внимание! Установленные модификации требуют большого объема видеопамяти. Игра может стать нестабильной.</text>
+	</string>
+
+</string_table>

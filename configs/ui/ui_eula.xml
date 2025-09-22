@@ -1,0 +1,77 @@
+<w>
+	<main_dialog ui_scale_y_offset="5">
+		<background x="0" y="0" width="1024" height="768">
+			<auto_static x="0" y="0" width="1024" height="768" stretch="1">
+				<texture>ui\gray_alfa</texture>
+			</auto_static>
+		</background>
+		<dialog x="0" y="0" width="450" height="550" stretch="1">
+			<texture>ui_inGame2_opt_main_window</texture>
+			
+			<cap_title x="0" y="10" width="450" height="4" stretch="1">
+				<text r="170" g="170" b="170" font="graffiti22" align="c">ui_elua_name</text>
+			</cap_title>
+			
+			<sep_line x="3" y="30" width="444" height="10" stretch="1">
+				<texture>ui\ui_pda_horizontal_line</texture>
+			</sep_line>
+			
+			<scroll_v x="6" y="32" width="438" height="460" right_ident="0" left_ident="0" top_indent="0" bottom_indent="0" vert_interval="20" always_show_scroll="0"/>
+			
+			<text_licence x="0" y="0" width="428" height="1000" complex_mode="1">
+				<text r="170" g="170" b="170" font="letterica16" align="l">ui_elua_licence</text>
+			</text_licence>
+			
+			<sep_line_end x="3" y="494" width="444" height="10" stretch="1">
+				<texture>ui\ui_pda_horizontal_line</texture>
+			</sep_line_end>
+			
+			<text_header_template x="0" y="0" width="428" height="24" complex_mode="1">
+				<text r="170" g="170" b="170" font="graffiti22" align="l">Text</text>
+			</text_header_template>
+			
+			<text_header2_template x="0" y="0" width="428" height="24" complex_mode="1">
+				<text r="170" g="170" b="170" font="graffiti19" align="l">Text</text>
+			</text_header2_template>
+			
+			<text_template x="0" y="0" width="428" height="24" complex_mode="1">
+				<text r="170" g="170" b="170" font="letterica16" align="l">Text</text>
+			</text_template>
+			
+			<text_point_template  x="0" y="0" width="428" height="24">
+				<point x="20" y="0" width="10" height="10" stretch="1">
+					<texture>ui_radio_d</texture>
+				</point>
+				<text_wrap x="35" y="0" width="393" height="24" complex_mode="1">
+					<text r="170" g="170" b="170" font="letterica16" align="l">Text</text>
+				</text_wrap>
+			</text_point_template>
+			
+			<text_ps4_eula x="0" y="0" width="428" height="24" complex_mode="1">
+				<text r="170" g="170" b="170" font="letterica16" align="l">ui_eula_ps_tech_req</text>
+			</text_ps4_eula>
+			
+		<btn_accept x="171" y="520" width="108" height="26" stretch="1">
+				<text font="letterica18" align="c" x="-8" y="0">ui_accept_eula</text>
+			<texture>ui_inGame2_button</texture>
+            <text_color>
+                <e r="170" g="170" b="170"/>
+            </text_color>
+			<input_icon x="0" y="3" width="15" height="19" stretch="1" spacing="-3" texture="controller_a"/>
+		</btn_accept>
+		
+		<btn_accept_pc x="171" y="520" width="108" height="26" stretch="1">
+			<text font="letterica18" align="c">ui_accept_eula</text>
+			<texture>ui_inGame2_button</texture>
+            <text_color>
+                <e r="170" g="170" b="170"/>
+            </text_color>
+		</btn_accept_pc>
+			
+		</dialog>
+		
+		<cap_disclamer x="256" y="0" width="512" height="768" stretch="1" complex_mode="1">
+			<text r="170" g="170" b="170" font="graffiti22" align="c" vert_align="c">ui_elua_disclamer</text>
+		</cap_disclamer>
+	</main_dialog>
+</w>

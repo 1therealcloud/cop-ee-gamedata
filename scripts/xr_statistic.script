@@ -1,0 +1,1166 @@
+-- MTB-Damian.Romanik [JUD-721] Start: Functions for making sure that achievements will not be unlocked retroactively
+local hasInfoList = {}
+
+function hasTheInfoCheck(names)
+	local toReturn = true
+	local list = 0
+	local allUnlocked = true
+
+	for i = 1, #names do
+		local dontHave = false
+		local info = has_alife_info(names[i])
+
+		if hasInfoList[names[i]] == nil then
+			hasInfoList[names[i]] = info
+			dontHave = false
+		else
+			dontHave = not hasInfoList[names[i]]
+		end
+
+		if hasInfoList[names[i]] then
+			list = list + 1
+		end
+
+		if toReturn then
+			toReturn = dontHave and info
+		end
+
+		if not info then
+			allUnlocked = false
+		end
+	end
+
+	if (not toReturn) and allUnlocked and (list ~= #names) then
+		toReturn = true
+	end
+
+	return toReturn
+end
+
+function check_is_enough_of_mask_number(achievement_name, needed_number)
+	local found = 0
+
+	for i = 31, 0, -1 do
+		if get_achievement_mask(achievement_name, i) then
+			found = found + 1
+		end
+		if found >= needed_number then
+			return true
+		end
+	end
+
+	return false
+end
+-- MTB-Damian.Romanik [JUD-721] Stop: Functions for making sure that achievements will not be unlocked retroactively
+
+-- run_string log("----->"..tostring(xr_statistic.actor_statistic.best_monster).." "..tostring(xr_statistic.actor_statistic.best_monster_rank))
+actor_statistic = {
+					surges = 0,
+					completed_quests = 0,
+					killed_monsters = 0,
+					killed_stalkers = 0,
+					founded_secrets = 0,
+					artefacts_founded = 0,
+					best_monster = nil,
+					favorite_weapon_sect = nil,
+					best_monster_rank = 0,
+					}
+
+monster_classes = {
+			[clsid.bloodsucker_s] 	  = "bloodsucker",
+			[clsid.boar_s] 			  = "boar",
+			[clsid.burer_s] 		  = "burer",
+			[clsid.chimera_s] 		  = "chimera",
+			[clsid.controller_s] 	  = "controller",
+			[clsid.dog_s] 			  = "dog",
+			[clsid.flesh_s] 		  = "flesh",
+			[clsid.gigant_s] 		  = "gigant",
+			[clsid.poltergeist_s] 	  = "poltergeist",
+			[clsid.psy_dog_s] 		  = "psy_dog",
+			[clsid.pseudodog_s]		  = "pseudodog",
+			[clsid.snork_s ] 		  = "snork",
+			[clsid.tushkano_s ] 	  = "tushkano",
+		}
+
+local zaton_stashes_ids = {
+	["zat_hiding_place_1"] = 0,
+	["zat_hiding_place_4"] = 1,
+	["zat_hiding_place_7"] = 2,
+	["zat_hiding_place_16"] = 3,
+	["zat_hiding_place_18"] = 4,
+	["zat_hiding_place_20"] = 5,
+	["zat_hiding_place_22"] = 6,
+	["zat_hiding_place_26"] = 7,
+	["zat_hiding_place_27"] = 8,
+	["zat_hiding_place_28"] = 9,
+	["zat_hiding_place_29"] = 10,
+	["zat_hiding_place_30"] = 11,
+	["zat_hiding_place_34"] = 12,
+	["zat_hiding_place_41"] = 13,
+	["zat_hiding_place_45"] = 14,
+	["zat_hiding_place_49"] = 15,
+	["zat_hiding_place_54"] = 16,
+	["zat_hiding_place_55"] = 17,
+}
+
+weapons_table = {
+									abakan			= 0,
+									ak74			= 0,
+									ak74u			= 0,
+									beretta			= 0,
+									bm16			= 0,
+									colt1911		= 0,
+									desert			= 0,
+									f1				= 0,
+									fn2000			= 0,
+									fort			= 0,
+									g36				= 0,
+									gauss			= 0,
+									groza			= 0,
+									hpsa			= 0,
+									knife			= 0,
+									l85				= 0,
+									lr300			= 0,
+									mp5				= 0,
+									pb				= 0,
+									pkm				= 0,
+									pm				= 0,
+									protecta		= 0,
+									rg				= 0,
+									rgd5			= 0,
+									rpg7			= 0,
+									sig220			= 0,
+									sig550			= 0,
+									spas12			= 0,
+									svd				= 0,
+									svu				= 0,
+									toz34			= 0,
+									usp45			= 0,
+									val				= 0,
+									vintorez		= 0,
+									walther			= 0,
+									wincheaster1300	= 0,
+				}
+
+artefacts_table = {
+	af_cristall = false,
+	af_blood = false,
+	af_electra_sparkler = false,
+	af_cristall_flower = false,
+	af_medusa = false,
+	af_fireball = false,
+	af_mincer_meat = false,
+	af_electra_flash = false,
+	af_night_star = false,
+	af_dummy_glassbeads = false,
+	af_soul = false,
+	af_electra_moonlight = false,
+	af_dummy_battery = false,
+	af_vyvert = false,
+	af_fuzz_kolobok = false,
+	af_gravi = false,
+	af_eye = false,
+	af_baloon = false,
+	af_dummy_dummy = false,
+	af_gold_fish = false,
+	af_fire = false,
+	af_glass = false,
+	af_ice = false,
+}
+
+taken_artefacts = {}
+
+function inc_surges_counter()
+	actor_statistic.surges = actor_statistic.surges + 1
+end
+function inc_completed_quests_counter()
+	actor_statistic.completed_quests = actor_statistic.completed_quests + 1
+end
+function inc_killed_monsters_counter()
+	actor_statistic.killed_monsters = actor_statistic.killed_monsters + 1
+	inc_achievement_counter("alpha_predator", 1)
+end
+function inc_killed_stalkers_counter()
+	actor_statistic.killed_stalkers = actor_statistic.killed_stalkers + 1
+end
+function inc_founded_artefacts_counter(art_id)
+	if(taken_artefacts[art_id]==nil) then
+			actor_statistic.artefacts_founded = actor_statistic.artefacts_founded + 1
+		taken_artefacts[art_id] = art_id
+		local s_art = alife():object(art_id)
+			if(s_art and s_art:section_name()) then
+					artefacts_table[s_art:section_name()] = true
+			end
+	end
+end
+-- mtb-damian.romanik [JUD-307] start: implementation of counting for achievments
+function inc_used_energy_drinks_counter()
+	inc_achievement_counter("coffee_reactor", 1)
+end
+
+function inc_killed_poltergeists_counter()
+	inc_achievement_counter("ghostbuster", 1)
+end
+
+function add_used_detector()
+	local detector_type = -1
+	local function lookForItem(npc, item)
+		if item:section() == "detector_advanced" then
+			detector_type = 1
+		end
+		if item:section() == "detector_elite" then
+			detector_type = 2
+		end
+		if item:section() == "detector_scientific" then
+			detector_type = 3
+		end
+		if item:section() == "detector_simple" then
+			detector_type = 0
+		end
+	end
+
+	local player = db.actor
+
+	if player ~= nil then
+		player:iterate_activeitems(lookForItem, nil)
+	
+		if detector_type ~= -1 then
+			set_achievement_mask("detectortive", detector_type, true)
+		end
+	end
+end
+-- mtb-damian.romanik [JUD-307] end
+function inc_founded_secrets_counter(stash_id)
+	actor_statistic.founded_secrets = actor_statistic.founded_secrets + 1
+	local ID = zaton_stashes_ids[stash_id]
+
+	if ID ~= nil then
+		check_achievement_mask("under_every_rock", ID, true)
+	end
+end
+
+function set_best_monster(obj)
+	if IsStalker(obj) then
+--		actor_statistic.best_monster = "stalker"
+	else
+		local community = monster_classes[get_clsid(obj)]
+		if not(community) then
+			abort("Statistic ERROR: cannot find monster class for [%s] clsid [%s]", obj:name(), tostring(get_clsid(obj)))
+		end
+		local s_obj = alife():object(obj:id())
+		if(s_obj) then
+			local rank = s_obj:rank()
+			if(community=="flesh") then
+				if(rank==3) then
+					community = community.."_strong"
+				else
+					community = community.."_weak"
+				end
+			elseif(community=="poltergeist") then
+				if(rank==12) then
+					community = community.."_flame"
+				else
+					community = community.."_tele"
+				end
+			elseif(community=="boar") then
+				if(rank==6) then
+					community = community.."_strong"
+				else
+					community = community.."_weak"
+				end
+			elseif(community=="pseudodog" or community=="psy_dog") then
+				if(rank==13) then
+					community = community.."_strong"
+				else
+					community = community.."_weak"
+				end
+			elseif(community=="bloodsucker") then
+				if(rank==16) then
+					community = community.."_strong"
+				elseif(rank==15) then
+					community = community.."_normal"
+				else
+					community = community.."_weak"
+				end
+			end
+			if(rank>actor_statistic.best_monster_rank) then
+				actor_statistic.best_monster_rank = rank
+				actor_statistic.best_monster = community
+			end
+		end
+	end
+end
+
+function set_best_weapon(hit_amount)
+	local player = db.actor
+	if player ~= nil then
+		local active_item = player:active_item()
+		if(active_item) then
+			local s_obj = alife():object(active_item:id())
+			if(s_obj) then
+				local s = s_obj:section_name()
+				for w in string.gmatch(s, "%w+") do
+					if(weapons_table[w]~=nil) then
+						weapons_table[w] = weapons_table[w] + hit_amount
+					end
+				end
+			end
+			local amount = 0
+			for k,v in pairs(weapons_table) do
+				if(v>amount) then
+					amount = v
+					if(k=="rgd5" or k=="f1") then
+						actor_statistic.favorite_weapon_sect = "grenade_"..k
+					else
+						actor_statistic.favorite_weapon_sect = "wpn_"..k
+					end
+					if(k=="desert") then
+						actor_statistic.favorite_weapon_sect = "wpn_desert_eagle"
+					elseif(k=="rg") then
+						actor_statistic.favorite_weapon_sect = "wpn_rg-6"
+					end
+				end
+			end
+		end
+	end
+end
+
+function save(package)
+	package:w_u16(actor_statistic.surges)
+	package:w_u16(actor_statistic.completed_quests)
+	package:w_u32(actor_statistic.killed_monsters)
+	package:w_u32(actor_statistic.killed_stalkers)
+	package:w_u16(actor_statistic.founded_secrets)
+	package:w_u16(actor_statistic.artefacts_founded)
+	package:w_u32(actor_statistic.best_monster_rank)
+	package:w_stringZ(tostring(actor_statistic.best_monster))
+	package:w_stringZ(tostring(actor_statistic.favorite_weapon_sect))
+	local i = 0
+	for k,v in pairs(weapons_table) do
+		i = i + 1
+	end
+	package:w_u8(i)
+	for k,v in pairs(weapons_table) do
+		package:w_stringZ(tostring(k))
+		package:w_float(v)
+	end
+	i = 0
+	for k,v in pairs(artefacts_table) do
+		i = i + 1
+	end
+	package:w_u8(i)
+	for k,v in pairs(artefacts_table) do
+		package:w_stringZ(tostring(k))
+		package:w_bool(v)
+	end
+	i = 0
+	for k,v in pairs(taken_artefacts) do
+		i = i + 1
+	end
+	package:w_u8(i)
+	for k,v in pairs(taken_artefacts) do
+		package:w_u32(k)
+	end
+end
+
+function load(package)
+	actor_statistic = {}
+	actor_statistic.surges  			= package:r_u16()
+	actor_statistic.completed_quests 	= package:r_u16()
+	actor_statistic.killed_monsters  	= package:r_u32()
+	actor_statistic.killed_stalkers  	= package:r_u32()
+	actor_statistic.founded_secrets  	= package:r_u16()
+	actor_statistic.artefacts_founded	= package:r_u16()
+	actor_statistic.best_monster_rank 	= package:r_u32()
+	local str = package:r_stringZ()
+	if(str~="nil") then
+		actor_statistic.best_monster = str
+	end
+	str = package:r_stringZ()
+	if(str~="nil") then
+		actor_statistic.favorite_weapon_sect = str
+	end
+	weapons_table = {}
+	local n = package:r_u8()
+	for i = 1,n do
+		local k = package:r_stringZ()
+		local v = package:r_float()
+		weapons_table[k] = v
+	end
+	artefacts_table = {}
+	n = package:r_u8()
+	for i = 1,n do
+		log("n "..tostring(n))
+		local k = package:r_stringZ()
+		local v = package:r_bool()
+		artefacts_table[k] = v
+	end
+
+		taken_artefacts = {}
+	n = package:r_u8()
+	for i = 1,n do
+		local k = package:r_u32()
+		taken_artefacts[k] = k
+	end
+end
+
+function pioneer_functor()
+	if not has_alife_info("pioneer_achievement_gained") then
+		if hasTheInfoCheck({"zat_b14_give_item_linker", "jup_b1_complete_end", "jup_b206_anomalous_grove_done"}) then
+			db.actor:give_info_portion("pioneer_achievement_gained")
+            unlock_trophy("pioneer")
+		end
+	end
+	return hasTheInfoCheck({"pioneer_achievement_gained"})
+end
+
+function mutant_hunter_functor()
+	if not has_alife_info("mutant_hunter_achievement_gained") then
+		if hasTheInfoCheck({"jup_b208_burers_hunt_done", "jup_b212_jupiter_chimera_hunt_done", "jup_b211_scene_done"}) then
+			db.actor:give_info_portion("mutant_hunter_achievement_gained")
+            unlock_trophy("mutant_hunter")
+		end
+	end
+	return hasTheInfoCheck({"mutant_hunter_achievement_gained"})
+end
+
+function detective_functor()
+	if not has_alife_info("detective_achievement_gained") then
+		if hasTheInfoCheck({"zat_b22_barmen_gave_reward"}) then
+			db.actor:give_info_portion("detective_achievement_gained")
+            unlock_trophy("detective")
+		end
+	end
+	return hasTheInfoCheck({"detective_achievement_gained"})
+end
+
+function one_of_the_lads_functor()
+	if not has_alife_info("one_of_the_lads_gained") then
+		if hasTheInfoCheck({"zat_b30_sultan_loose", "zat_b7_actor_help_stalkers"}) then
+			db.actor:give_info_portion("one_of_the_lads_gained")
+            unlock_trophy("one_of_the_lads")
+		end
+	end
+	return hasTheInfoCheck({"one_of_the_lads_gained"})
+end
+
+function kingpin_functor()
+	if not has_alife_info("kingpin_gained") then
+		if hasTheInfoCheck({"zat_b30_barmen_under_sultan", "zat_b7_actor_help_bandits"}) then
+			db.actor:give_info_portion("kingpin_gained")
+            unlock_trophy("kingpin")
+		end
+	end
+	return hasTheInfoCheck({"kingpin_gained"})
+end
+
+function herald_of_justice_functor()
+	if not has_alife_info("herald_of_justice_achievement_gained") then
+	-- MTB-Damian.Romanik [JUD-1199] Start: It should be one of the info portions, not all of them
+		if hasTheInfoCheck({"jup_b25_flint_blame_done_to_duty"}) 
+			or hasTheInfoCheck({"jup_b25_flint_blame_done_to_freedom"})
+			or hasTheInfoCheck({"zat_b106_found_soroka_done"}) 
+		then
+	-- MTB-Damian.Romanik [JUD-1199] End: It should be one of the info portions, not all of them
+			db.actor:give_info_portion("herald_of_justice_achievement_gained")
+            unlock_trophy("herald_of_justice")
+		end
+	end
+	return hasTheInfoCheck({"herald_of_justice_achievement_gained"})
+end
+
+function seeker_functor()
+	if hasTheInfoCheck({"sim_bandit_attack_harder"}) then
+		return true
+	end
+	for k,v in pairs(artefacts_table) do
+		if not v then
+			return false
+		end
+	end
+	-- Бандиты симуляционно больше преследуют игрока
+	db.actor:give_info_portion("sim_bandit_attack_harder")
+    unlock_trophy("seeker")
+	xr_effects.inc_faction_goodwill_to_actor(db.actor, nil, {"stalker", 200})
+	return true
+end
+
+function battle_systems_master_functor()
+	if not has_alife_info("battle_systems_master_achievement_gained") then
+		if hasTheInfoCheck({"zat_b3_all_instruments_brought"}) then
+			db.actor:give_info_portion("battle_systems_master_achievement_gained")
+            unlock_trophy("battle_systems_master")
+		end
+	end
+	return hasTheInfoCheck({"battle_systems_master_achievement_gained"})
+end
+
+function high_tech_master_functor()
+	if not has_alife_info("high_tech_master_achievement_gained") then
+		if hasTheInfoCheck({"jup_b217_tech_instrument_1_brought", "jup_b217_tech_instrument_2_brought", "jup_b217_tech_instrument_3_brought"}) then
+			db.actor:give_info_portion("high_tech_master_achievement_gained")
+            unlock_trophy("high_tech_master")
+		end
+	end
+	return hasTheInfoCheck({"high_tech_master_achievement_gained"})
+end
+
+function skilled_stalker_functor()
+	if not has_alife_info("skilled_stalker_achievement_gained") then
+		if hasTheInfoCheck({"actor_was_in_many_bad_places"}) then
+			db.actor:give_info_portion("skilled_stalker_achievement_gained")
+            unlock_trophy("skilled_stalker")
+		end
+	end
+	return hasTheInfoCheck({"skilled_stalker_achievement_gained"})
+end
+
+function leader_functor()
+	-- логика бонуса: pri_a21_base_restrictor.ltx
+	if not has_alife_info("leader_achievement_gained") then
+		if hasTheInfoCheck({"jup_a10_vano_agree_go_und", "jup_b218_soldier_hired", "jup_b218_monolith_hired"}) then
+			db.actor:give_info_portion("leader_achievement_gained")
+            unlock_trophy("leader")
+		end
+	end
+	return hasTheInfoCheck({"leader_achievement_gained"})
+end
+
+function diplomat_functor()
+	if not has_alife_info("diplomat_achievement_gained") then
+		if hasTheInfoCheck({"jup_a12_wo_shooting", "jup_a10_bandit_take_all_money"}) or hasTheInfoCheck({"jup_a12_wo_shooting", "jup_a10_bandit_take_money"}) then
+			xr_effects.inc_faction_goodwill_to_actor(db.actor, nil, {"stalker", 200})
+			xr_effects.inc_faction_goodwill_to_actor(db.actor, nil, {"freedom", 200})
+			xr_effects.inc_faction_goodwill_to_actor(db.actor, nil, {"dolg", 200})
+			xr_effects.inc_faction_goodwill_to_actor(db.actor, nil, {"bandit", 200})
+			db.actor:give_info_portion("diplomat_achievement_gained")
+            unlock_trophy("diplomat")
+		end
+	end
+	return hasTheInfoCheck({"diplomat_achievement_gained"})
+end
+
+function research_man_functor()
+	if hasTheInfoCheck({"research_man_gained"}) then
+		return true
+	end
+	local info_table = {
+		[0] = "jup_b16_task_done",
+		[1] = "jup_b1_task_done",
+		[2] = "jup_b46_task_done",
+		[3] = "jup_b47_task_end",
+		[4] = "jup_b32_task_done",
+		[5] = "jup_b6_task_done",
+		[6] = "jup_b206_task_done",
+		[7] = "jup_b209_task_done"
+	}
+	
+	for k,v in pairs (info_table) do
+		check_achievement_mask("research_man", k, hasTheInfoCheck({v}))
+	end
+
+	if check_is_enough_of_mask_number("research_man", 4) then
+		db.actor:give_info_portion("research_man_gained")
+        unlock_trophy("research_man")
+		return true
+	end
+
+	return false
+end
+
+function friend_of_duty_functor()
+	if not has_alife_info("sim_duty_help_harder") then
+		if hasTheInfoCheck({"jup_b4_monolith_squad_in_duty", "jup_b46_duty_founder_pda_to_duty", "jup_b207_sell_dealers_pda_duty", "jup_b25_flint_blame_done_to_duty"}) then
+			db.actor:give_info_portion("sim_duty_help_harder")
+            unlock_trophy("friend_of_duty")
+		end
+	end
+	return hasTheInfoCheck({"sim_duty_help_harder"})
+end
+
+function friend_of_freedom_functor()
+	if not has_alife_info("sim_freedom_help_harder") then
+		if hasTheInfoCheck({"jup_b4_monolith_squad_in_freedom", "jup_b46_duty_founder_pda_to_freedom", "jup_b207_sell_dealers_pda_freedom", "jup_b25_flint_blame_done_to_freedom"}) then
+			db.actor:give_info_portion("sim_freedom_help_harder")
+            unlock_trophy("friend_of_freedom")
+		end
+	end
+	return hasTheInfoCheck({"sim_freedom_help_harder"})
+end
+
+function balance_advocate_functor()
+	if not has_alife_info("balance_advocate_gained") then
+		if hasTheInfoCheck({"jup_b46_duty_founder_pda_to_stalkers", "jup_b207_dealers_pda_sold_owl", "zat_b106_found_soroka_done"}) then
+			db.actor:give_info_portion("balance_advocate_gained")
+            unlock_trophy("balance_advocate")
+		end
+	end
+	return hasTheInfoCheck({"balance_advocate_gained"})
+end
+
+function wealthy_functor()
+	if db.actor:money() >= 100000 and not has_alife_info("actor_wealthy") then
+		db.actor:give_info_portion("actor_wealthy")
+        unlock_trophy("wealthy")
+	end
+	return hasTheInfoCheck({"actor_wealthy"})
+end
+
+function keeper_of_secrets_functor()
+	-- логика бонуса: pri_b305_logic.ltx
+	if not has_alife_info("keeper_of_secrets_achievement_gained") then
+		if hasTheInfoCheck({"pri_b305_all_strelok_notes_given"}) then
+			db.actor:give_info_portion("keeper_of_secrets_achievement_gained")
+            unlock_trophy("keeper_of_secrets")
+		end
+	end
+	return hasTheInfoCheck({"keeper_of_secrets_achievement_gained"})
+end
+
+function marked_by_zone_functor()
+	if hasTheInfoCheck({"actor_marked_by_zone_3_times"}) then
+		return true
+	end
+
+	-- MTB-Damian.Romanik [JUD-596] Start: Fix for freezes on loading
+	if db.actor == nil then
+		return false
+	end
+	-- MTB-Damian.Romanik [JUD-596] End
+
+	local counter_name = "actor_marked_by_zone_cnt"
+	local cnt_value = xr_logic.pstor_retrieve(db.actor, counter_name, 0)
+	if cnt_value > 2 then
+		db.actor:give_info_portion("actor_marked_by_zone_3_times")
+        unlock_trophy("marked_by_zone")
+		return true
+	end
+
+	return false
+end
+
+function information_dealer_functor()
+	if hasTheInfoCheck({"actor_information_dealer"}) then
+		return true
+	end
+
+	local info_table = {
+		[0] = "zat_b40_pda_1_saled",
+		[1] = "zat_b40_pda_2_saled",
+		[2] = "jup_b46_duty_founder_pda_sold",
+		[3] = "jup_b207_merc_pda_with_contract_sold",
+		[4] = "jup_b207_dealers_pda_sold",
+		[5] = "jup_a9_evacuation_info_sold",
+		[6] = "jup_a9_meeting_info_sold",
+		[7] = "jup_a9_losses_info_sold",
+		[8] = "jup_a9_delivery_info_sold",
+		[9] = "zat_b12_documents_sold_1",
+		[10] = "zat_b12_documents_sold_2",
+		[11] = "zat_b12_documents_sold_3",
+		[12] = "zat_b40_notebook_saled",
+		[13] = "device_flash_snag_sold",
+		[14] = "device_pda_port_bandit_leader_sold",
+		[15] = "jup_b10_ufo_memory_2_sold"
+	}
+
+	for k,v in pairs (info_table) do
+		check_achievement_mask("information_dealer", k, hasTheInfoCheck({v}))
+	end
+
+	if check_is_enough_of_mask_number("information_dealer", 10) then
+		db.actor:give_info_portion("actor_information_dealer")
+        unlock_trophy("information_dealer")
+		return true
+	end
+
+	return hasTheInfoCheck({"actor_information_dealer"})
+end
+
+function friend_of_stalkers_functor()
+	if not has_alife_info("sim_stalker_help_harder") then
+		if hasTheInfoCheck({"jup_b220_trapper_zaton_chimera_hunted_told", "jup_a12_stalker_prisoner_helped", "jup_a10_vano_give_task_end", "zat_b5_stalker_leader_end", "zat_b7_task_end"}) then
+			db.actor:give_info_portion("sim_stalker_help_harder")
+			xr_effects.inc_faction_goodwill_to_actor(db.actor, nil, {"stalker", 100})
+            unlock_trophy("friend_of_stalkers")
+		end
+	end
+	return hasTheInfoCheck({"sim_stalker_help_harder"})
+end
+
+-- mtb-bartlomiej.kunikowski Start: [ACHIEVEMENTS] Add new achievements
+-- TODO mtb-bartlomiej.kunikowski: Replace tips with proper strings as them will be added finally
+
+-- mtb-damian.romanik [JUD-307] Start: Function for elimination of reusing part of code
+function unlock_achivment(id, text)
+	if not is_trophy_unlocked(id) then
+		unlock_trophy(id)
+		-- MTB-Damian.Romanik [JP2-382] Start: NX64 achievements implementation
+		if get_platform_id() == platform_ids.PLATFORM_NX64 then
+			local name = game.translate_string(text)
+			local unlocked_string = game.translate_string("st_sp_achievement_popup")
+
+			local ach_text = unlocked_string .. name
+
+			news_manager.send_tip(db.actor, ach_text, nil, id, nil, nil)
+		end
+		-- MTB-Damian.Romanik [JP2-382] End: NX64 achievements implementation
+	end
+end
+-- mtb-damian.romanik [JUD-307] End
+
+function gifts_of_nature_functor()
+	if hasTheInfoCheck({"gifts_of_nature"}) then
+		return true
+	end
+
+	if hasTheInfoCheck({"actor_has_af_oasis_heart"}) then
+		unlock_achivment("gifts_of_nature", "st_sp_achievement_new_1_name")
+		return true
+	end
+
+	return false
+end
+
+-- mtb-damian.romanik [JUD-307] Start: Implementation of achievments
+function alpha_predator_functor()
+	if hasTheInfoCheck({"alpha_predator"}) then
+		return true
+	end
+
+	if (get_achievement_counter("alpha_predator") >= 300) then
+		unlock_achivment("alpha_predator", "st_sp_achievement_new_2_name")
+		return true
+	end
+	return false
+end
+
+function coffee_reactor_functor()
+	if hasTheInfoCheck({"coffee_reactor"}) then
+		return true
+	end
+
+	if (get_achievement_counter("coffee_reactor") >= 100) then
+		unlock_achivment("coffee_reactor", "st_sp_achievement_new_3_name")
+		return true
+	end
+	
+	return false
+end
+
+function pinocchio_functor()
+	if hasTheInfoCheck({"pinocchio"}) then
+		return true
+	end
+
+	check_achievement_mask("pinocchio", 0, hasTheInfoCheck({"jup_b25_story_artefact_played"}))
+	check_achievement_mask("pinocchio", 1, hasTheInfoCheck({"jup_b25_story_oasis_played"}))
+	check_achievement_mask("pinocchio", 2, hasTheInfoCheck({"jup_b25_story_bloodsucker_played"}))
+	check_achievement_mask("pinocchio", 3, hasTheInfoCheck({"jup_b25_story_scientist_played"}))
+	check_achievement_mask("pinocchio", 4, hasTheInfoCheck({"jup_b25_story_guide_played"}))
+	check_achievement_mask("pinocchio", 5, hasTheInfoCheck({"jup_b25_story_zaton_played"}))
+	check_achievement_mask("pinocchio", 6, hasTheInfoCheck({"jup_b25_story_controller_played"}))
+	
+	if get_achievement_mask("pinocchio", 0)
+		and get_achievement_mask("pinocchio", 1)
+		and get_achievement_mask("pinocchio", 2)
+		and get_achievement_mask("pinocchio", 3)
+		and get_achievement_mask("pinocchio", 4)
+		and get_achievement_mask("pinocchio", 5)
+		and get_achievement_mask("pinocchio", 6)
+	then
+		unlock_achivment("pinocchio", "st_sp_achievement_new_4_name")
+		return true
+	end
+
+	return false
+end
+
+function detectortive_functor()
+	if hasTheInfoCheck({"detectortive"}) then
+		return true
+	end
+
+	if get_achievement_mask("detectortive", 0)
+		and get_achievement_mask("detectortive", 1)
+		and get_achievement_mask("detectortive", 2)
+		and get_achievement_mask("detectortive", 3)
+	then
+		unlock_achivment("detectortive", "st_sp_achievement_new_5_name")
+		return true
+	end
+
+	return false
+end
+
+function welltimed_backup_functor()
+	if hasTheInfoCheck({"welltimed_backup"}) then
+		return true
+	end
+
+	local kovalsky = get_story_object("pri_a17_military_colonel_kovalski")
+	if kovalsky == nil then
+		kovalsky = get_story_object("pri_a17_military_colonel_kovalski_strong")
+	end
+	local medic = get_story_object("pri_a25_base_medic")
+	if medic == nil then
+		medic = get_story_object("pri_a25_base_medic_strong")
+	end
+	local signaller = get_story_object("pri_a22_army_signaller")
+	if signaller == nil then
+		signaller = get_story_object("pri_a22_army_signaller_strong")
+	end
+	
+	if kovalsky ~= nil
+		and medic ~= nil
+		and signaller ~= nil
+	then
+		if kovalsky:alive()
+			and medic:alive()
+			and signaller:alive()
+			and hasTheInfoCheck({"pri_a28_evac_done"})
+		then
+			unlock_achivment("welltimed_backup", "st_sp_achievement_new_6_name")
+			return true
+		end
+	end
+
+	return false
+end
+
+function under_every_rock_functor()
+	if hasTheInfoCheck({"under_every_rock"}) then
+		return true
+	end
+
+	if (get_achievement_bytes("under_every_rock") >= 18) then
+		unlock_achivment("under_every_rock", "st_sp_achievement_new_7_name")
+		return true
+	end
+
+	return false
+end
+
+function ghostbuster_functor()
+	if hasTheInfoCheck({"ghostbuster"}) then
+		return true
+	end
+
+	if (get_achievement_counter("ghostbuster") >= 3) then
+		unlock_achivment("ghostbuster", "st_sp_achievement_new_8_name")
+		return true
+	end
+
+	return false
+end
+
+function unsinkable_functor()
+	if hasTheInfoCheck({"unsinkable"}) then
+		return true
+	end
+	
+	local zone = db.zone_by_name["zat_a2_sr_noweap"]
+	if zone ~= nil then
+		check_achievement_mask("unsinkable", 0, utils.npc_in_zone(db.actor, zone))
+
+		if get_achievement_mask("unsinkable", 0) then
+			unlock_achivment("unsinkable", "st_sp_achievement_new_9_name")
+			return true
+		end
+	end
+
+	return false
+end
+
+function arkless_functor()
+	if hasTheInfoCheck({"arkless"}) then
+		return true
+	end
+
+	if hasTheInfoCheck({"zat_b18_noah_met"}) then
+		unlock_achivment("arkless", "st_sp_achievement_new_10_name")
+		return true
+	end
+
+	return false
+end
+
+function train_to_yanov_functor()
+	if hasTheInfoCheck({"train_to_yanov"}) then
+		return true
+	end
+	
+	local zone = db.zone_by_name["jup_a6_sr_noweap"]
+	if zone ~= nil then
+		check_achievement_mask("train_to_yanov", 0, utils.npc_in_zone(db.actor, zone))
+		if get_achievement_mask("train_to_yanov", 0) then
+			unlock_achivment("train_to_yanov", "st_sp_achievement_new_11_name")
+			return true
+		end
+	end
+
+	return false
+end
+
+function imperfect_plans_functor()
+	if hasTheInfoCheck({"imperfect_plans"}) then
+		return true
+	end
+
+	if hasTheInfoCheck({"jup_b9_heli_1_searched", "zat_b100_heli_2_searched", "zat_b28_heli_3_searched", "jup_b8_heli_4_searched", "zat_b101_heli_5_searched"}) then
+		unlock_achivment("imperfect_plans", "st_sp_achievement_new_12_name")
+		return true
+	end
+
+	return false
+end
+
+function forgotten_paths_functor()
+	if hasTheInfoCheck({"forgotten_paths"}) then
+		return true
+	end
+
+	if level.name()=="jupiter_underground" then
+		unlock_achivment("forgotten_paths", "st_sp_achievement_new_13_name")
+		return true
+	end
+	
+	return false
+end
+
+function purgatory_functor()
+	if hasTheInfoCheck({"purgatory"}) then
+		return true
+	end
+	
+	local zone = db.zone_by_name["pri_a16_sr_noweap"]
+	if zone ~= nil then
+		check_achievement_mask("purgatory", 0, utils.npc_in_zone(db.actor, zone))
+		if get_achievement_mask("purgatory", 0) then
+			unlock_achivment("purgatory", "st_sp_achievement_new_14_name")
+			return true
+		end
+	end
+	
+	return false
+end
+
+function item_62_functor()
+	if hasTheInfoCheck({"item_62"}) then
+		return true
+	end
+
+	if hasTheInfoCheck({"zat_b3_gauss_repaired"}) then
+		unlock_achivment("item_62", "st_sp_achievement_new_15_name")
+		return true
+	end
+
+	return false
+end
+
+function librarian_functor()
+	if hasTheInfoCheck({"librarian"}) then
+		return true
+	end
+
+	local story_actor = get_story_object("actor")
+	
+	if story_actor ~= nil then
+		if get_achievement_mask("librarian", 0)
+			and get_achievement_mask("librarian", 1)
+			and get_achievement_mask("librarian", 2)
+			and get_achievement_mask("librarian", 3)
+			and get_achievement_mask("librarian", 4)
+			and get_achievement_mask("librarian", 5)
+		then
+			unlock_achivment("librarian", "st_sp_achievement_new_16_name")
+			return true
+		end
+	end
+
+	return false
+end
+
+function evacuation_functor()
+	if hasTheInfoCheck({"evacuation"}) then
+		return true
+	end
+
+	if hasTheInfoCheck({"pri_a28_helis_leave", "pri_a28_actor_in_zone_leave"}) 
+		and not has_alife_info("pri_a28_actor_in_zone_stay")
+	then
+		unlock_achivment("evacuation", "st_sp_achievement_new_17_name")
+		return true
+	end
+
+	return false
+end
+
+function stalker_by_blood_functor()
+	if hasTheInfoCheck({"stalker_by_blood"}) then
+		return true
+	end
+
+	if hasTheInfoCheck({"pri_a28_actor_in_zone_stay"})
+		and has_alife_info("pri_a28_evac_done")
+	then
+		unlock_achivment("stalker_by_blood", "st_sp_achievement_new_18_name")
+		return true
+	end
+
+	return false
+end
+
+function mirone_is_it_you_functor()
+	if hasTheInfoCheck({"mirone_is_it_you"}) then
+		return true
+	end
+
+	if hasTheInfoCheck({"save_zat_b42_arrived_to_controler_lair"}) then
+		unlock_achivment("mirone_is_it_you", "st_sp_achievement_new_19_name")
+		return true
+	end
+
+	return false
+end
+
+function old_acquaintance_functor()
+	if hasTheInfoCheck({"old_acquaintance"}) then
+		return true
+	end
+
+	if hasTheInfoCheck({"zat_b53_thanks_dialog"}) then
+		unlock_achivment("old_acquaintance", "st_sp_achievement_new_20_name")
+		return true
+	end
+	
+	return false
+end
+
+function agent_f1_functor()
+	if hasTheInfoCheck({"agent_f1"}) then
+		return true
+	end
+
+	if get_achievement_counter("agent_f1") >= 100 then
+		unlock_achivment("agent_f1", "st_sp_achievement_new_21_name")
+		return true
+	end
+
+	return false
+end
+
+function natural_disaster_functor()
+	if hasTheInfoCheck({"natural_disaster"}) then
+		return true
+	end
+
+	local found_snowflake = false
+	local found_stone_flower = false
+	local found_flame = false
+	local found_moonlight = false
+	local function lookForItem(npc, item)
+		if item:section() == "af_ice" then
+			found_snowflake = true
+		end
+		if item:section() == "af_cristall_flower" then
+			found_stone_flower = true
+		end
+		if item:section() == "af_fire" then
+			found_flame = true
+		end
+		if item:section() == "af_electra_moonlight" then
+			found_moonlight = true
+		end
+	end
+	
+	local player = db.actor
+	if player ~= nil then
+
+		player:iterate_belt(lookForItem, nil)
+
+		if found_snowflake 
+			and found_stone_flower
+			and found_flame
+			and found_moonlight
+		then
+			unlock_achivment("natural_disaster", "st_sp_achievement_new_22_name")
+			return true
+		end
+	end
+
+	return false
+end
+
+function its_all_fake_functor()
+	if hasTheInfoCheck({"its_all_fake"}) then
+		return true
+	end
+
+	local diff_level = level.get_game_difficulty()
+	if diff_level >= 0
+		and hasTheInfoCheck({"pri_a28_scene_end"})
+	then
+		unlock_achivment("its_all_fake", "st_sp_achievement_new_23_name")
+		return true
+	end
+
+	return false
+end
+
+function intelligence_agent_functor()
+	if hasTheInfoCheck({"intelligence_agent"}) then
+		return true
+	end
+
+	local diff_level = level.get_game_difficulty()
+	if diff_level >= 1
+		and hasTheInfoCheck({"pri_a28_scene_end"})
+	then
+		unlock_achivment("intelligence_agent", "st_sp_achievement_new_24_name")
+		return true
+	end
+
+	return false
+end
+
+function the_zone_will_remember_us_functor()
+	if hasTheInfoCheck({"the_zone_will_remember_us"}) then
+		return true
+	end
+
+	local diff_level = level.get_game_difficulty()
+	if diff_level >= 2
+		and hasTheInfoCheck({"pri_a28_scene_end"})
+	then
+		unlock_achivment("the_zone_will_remember_us", "st_sp_achievement_new_25_name")
+		return true
+	end
+
+	return false
+end
+
+function irresistable_call_functor()
+	if hasTheInfoCheck({"irresistable_call"}) then
+		return true
+	end
+	
+	if hasTheInfoCheck({"pri_a28_scene_end"}) then
+		unlock_achivment("irresistable_call", "st_sp_achievement_new_26_name")
+		return true
+	end
+
+	return false
+end
+
+function pripyat_expert_functor()
+	if check_completion() then
+		unlock_achivment("pripyat_expert", "st_sp_achievement_new_27_name")
+		return true
+	end
+
+	return false
+end
+
+-- mtb-damian.romanik [JUD-307] End
+
+-- mtb-bartlomiej.kunikowski End: [ACHIEVEMENTS] Add new achievements

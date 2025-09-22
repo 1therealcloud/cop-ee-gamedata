@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ls_header">
+		<text>100 TIPPS FЬR DAS ЬBERLEBEN IN DER ZONE</text>
+	</string>
+	<string id="ls_mp_tip_16">
+		<text>Wenn Sie einem Gegner ins Auge schieЯen, stirbt er auf der Stelle, ganz gleich wie stark seine Panzerung auch sein mag.</text>
+	</string>
+	<string id="ls_mp_tip_19">
+		<text>Die AC-96/2 verfьgt ьber einen einzigartigen Salvenmodus, in dem beide Kugeln in einer Salve abgefeuert werden und denselben Zielpunkt treffen.</text>
+	</string>
+	<string id="ls_mp_tip_21">
+		<text>Bei doppellдufigen Schrotflinten kann man beide Lдufe nahezu gleichzeitig abfeuern.</text>
+	</string>
+	<string id="ls_mp_tip_25">
+		<text>Pistolen sollte man nicht unterschдtzen. Sie haben eine erhebliche Stoppwirkung und kцnnen sehr effektiv gegen schlecht gepanzerte Ziele sein.</text>
+	</string>
+	<string id="ls_mp_tip_32">
+		<text>Scharfschьtzengewehre eignen sich dank ihrer Flachheit und Schussgenauigkeit hervorragend zum Ausschalten von Gegnern aus der Distanz. Auf kurze Entfernung sind sie weniger effektiv.</text>
+	</string>
+	<string id="ls_mp_tip_33">
+		<text>SchieЯen in Bewegung ist erheblich ungenauer als das Feuern, wдhrend Sie stehen oder sich zumindest ducken.</text>
+	</string>
+	<string id="ls_mp_tip_34">
+		<text>Waffen und Schutzanzьge nutzen sich unter den schwierigen Bedingungen der Zone schnell ab. Verschlissene Waffen sind ungenauer und klemmen цfter, wдhrend abgenutzte Schutzanzьge den Trдger schlechter beschьtzen.</text>
+	</string>
+	<string id="ls_mp_tip_54">
+		<text>Drьcken Sie "$$ACTION_SCREENSHOT$$", um einen Screenshot anzulegen.</text>
+	</string>
+	<string id="ls_mp_tip_9">
+		<text>Auf der Minimap wird das Artefakt oder der Spieler, der es trдgt, angezeigt. Wenn die Entfernung zum Artefakt zu groЯ ist, deutet ein Pfeil auf der Minimap in die entsprechende Richtung.</text>
+	</string>
+	<string id="ls_tip_37">
+		<text>Die AC-96/2 verfьgt ьber einen einzigartigen Salvenmodus, in dem beide Kugeln in einer Salve abgefeuert werden und denselben Zielpunkt treffen.</text>
+	</string>
+	<string id="ls_tip_39">
+		<text>Bei doppellдufigen Schrotflinten kann man beide Lдufe nahezu gleichzeitig abfeuern.</text>
+	</string>
+	<string id="ls_tip_43">
+		<text>Pistolen sollte man nicht unterschдtzen. Sie haben eine erhebliche Stoppwirkung und kцnnen sehr effektiv gegen schlecht gepanzerte Ziele sein.</text>
+	</string>
+	<string id="ls_tip_50">
+		<text>Scharfschьtzengewehre eignen sich dank ihrer Flachheit und Schussgenauigkeit hervorragend zum Ausschalten von Gegnern aus der Distanz. Auf kurze Entfernung sind sie weniger effektiv.</text>
+	</string>
+	<string id="ls_tip_52">
+		<text>Waffen und Schutzanzьge nutzen sich unter den schwierigen Bedingungen der Zone schnell ab. Verschlissene Waffen sind ungenauer und klemmen цfter, wдhrend abgenutzte Schutzanzьge den Trдger schlechter beschьtzen.</text>
+	</string>
+	<string id="ls_tip_56">
+		<text>Einige medizinische Produkte haben einzigartige Eigenschaften. Herkules-Pillen z.B. sorgen vorьbergehend dafьr, dass Sie mehr Gewicht tragen kцnnen, wдhrend Psi-Blocker Ihnen dabei helfen, Psi-Emissionen zu widerstehen.</text>
+	</string>
+	<string id="ls_tip_83">
+		<text>Drьcken Sie "$$ACTION_SCREENSHOT$$", um einen Screenshot anzulegen.</text>
+	</string>
+	<string id="ls_tip_number">
+		<text>Tipp #</text>
+	</string>
+	<string id="ls_tip_1">
+		<text>Wodka, eine gьnstige Alternative zu Strahlenschutzmitteln, stellt den einfachsten Weg dar, die Wirkung von Strahlung auf den Kцrper zu verringern.</text>
+	</string>
+	<string id="ls_tip_10">
+		<text>Sie kцnnen genauere Informationen ьber die aktuelle Mission einblenden, indem Sie "$$ACTION_SCORES$$" gedrьckt halten.</text>
+	</string>
+	<string id="ls_tip_13">
+		<text>Um nach Artefakten zu suchen, brauchen Sie einen Detektor. Die besten Detektoren erleichtern die Suche und finden womцglich wertvollere Artefakte.</text>
+	</string>
+	<string id="ls_tip_14">
+		<text>Stalker lassen niemanden mit einer Waffe in ihr Lager. Um Ihre Waffe einzustecken, mьssen Sie die entsprechende Taste drьcken ("$$ACTION_WPN_1$$", "$$ACTION_WPN_2$$", "$$ACTION_WPN_3$$", "$$ACTION_WPN_4$$").</text>
+	</string>
+	<string id="ls_tip_15">
+		<text>Sie kцnnen die Grenzen von Anomalien aufspьren, indem Sie Schrauben werfen. Drьcken Sie "$$ACTION_WPN_6$$", um Ihre Schraube in die Hand zu nehmen.</text>
+	</string>
+	<string id="ls_tip_17">
+		<text>Lebensmittel sind nicht nur die Lцsung fьr Ihren Hunger, sondern stellen auch langsam Ihre Gesundheit wieder her.</text>
+	</string>
+	<string id="ls_tip_18">
+		<text>Energy-Drinks verbessern vorьbergehend die Regeneration Ihrer Ausdauer, was sich wiederum positiv auf Ihre Beweglichkeit auswirkt.</text>
+	</string>
+	<string id="ls_tip_20">
+		<text>Eine niedrige Ausdauer kann dazu fьhren, dass Sie sich nicht mehr bewegen kцnnen und damit in entscheidenden Momenten sehr anfдllig gegenьber feindlichen Angriffen sind.</text>
+	</string>
+	<string id="ls_tip_21">
+		<text>Mit den Gerдusch- und Feinddetektoren in der linken oberen Bildschirmecke kцnnen Sie Ihre Heimlichkeit stets im Auge behalten.</text>
+	</string>
+	<string id="ls_tip_22">
+		<text>Wenn Sie einen Detektor in der Hand halten, kцnnen Sie weiterhin ein Messer, eine Pistole oder eine Schraube mit der anderen Hand fьhren.</text>
+	</string>
+	<string id="ls_tip_23">
+		<text>Einige medizinische Mittel verbessern die Widerstandskraft des Kцrpers gegen schдdliche Wirkungen. Die Einnahme solcher Mittel kann bei Missionen in Anomaliegebieten Ihr Leben retten.</text>
+	</string>
+	<string id="ls_tip_27">
+		<text>Sie kцnnen das Kontextmenь fьr Gegenstдnde in Ihrem Rucksack цffnen, indem Sie den Mauszeiger auf das gewьnschte Objekt fьhren und die rechte Maustaste drьcken.</text>
+	</string>
+	<string id="ls_tip_28">
+		<text>Die meisten Artefakte haben auЯer ihren nьtzlichen Seiten auch die Nebenwirkung, dass sie radioaktiv sind. Dies wiederum kann dadurch ausgeglichen werden, dass Sie Artefakte benutzen, die ihrerseits Strahlung absorbieren.</text>
+	</string>
+	<string id="ls_tip_29">
+		<text>Das Messer ist wirkungslos gegen Gegner mit Feuerwaffen. Setzen Sie es daher im Nahkampf oder bei lautlosen Angriffen ein.</text>
+	</string>
+	<string id="ls_tip_3">
+		<text>Das Gewicht, das Sie tragen, senkt Ihre Ausdauer. Zu viel Gewicht schrдnkt Ihre Bewegungsfдhigkeit ein und wenn Sie vollkommen ьberladen sind, kцnnen Sie sich gar nicht mehr fortbewegen.</text>
+	</string>
+	<string id="ls_tip_30">
+		<text>Ein Detektor ist der einzig sichere Weg, Anomaliegebiete nach Artefakten zu durchsuchen.</text>
+	</string>
+	<string id="ls_tip_31">
+		<text>Die meisten Artefakte bleiben unsichtbar, da sie sich stдndig im Anomaliegebiet bewegen. Dies дndert sich, sobald Sie sie mit Ihrem Detektor identifizieren.</text>
+	</string>
+	<string id="ls_tip_32">
+		<text>Mutanten sind nachts aktiver, was der Grund dafьr ist, dass Stalker fьr gewцhnlich auf den Sonnenaufgang warten, bevor Sie sich in die Zone begeben.</text>
+	</string>
+	<string id="ls_tip_33">
+		<text>Wenn Sie starker Strahlung ausgesetzt waren, nehmen Sie Antistrahlenmedikamente ein. Sollten Sie keine haben, benutzen Sie Medkits, um die ersten Symptome zu bekдmpfen, bis Sie es zu einem Arzt schaffen.</text>
+	</string>
+	<string id="ls_tip_34">
+		<text>Die meisten Stalker kцnnen Sie zu Zielen in der Nдhe fьhren, aber nur ein erfahrener Ortskundiger ist in der Lage, Sie schnell und sicher zu weit entfernten Orten zu bringen. Und deswegen verlangen sie auch ein Vermцgen fьr ihre Dienste.</text>
+	</string>
+	<string id="ls_tip_35">
+		<text>Sie kцnnen nicht nur mit dem Verkauf von Artefakten Geld verdienen: Auch nicht benцtigte Ausrьstung kann eine lukrative Einnahmequelle sein. Vergessen Sie aber nicht, dass Hдndler an stark beschдdigten Gegenstдnden normalerweise nicht interessiert sind.</text>
+	</string>
+	<string id="ls_tip_38">
+		<text>Um einen Schalldдmpfer, ein Zielfernrohr oder einen Unterlaufgranatwerfer von Ihrer Waffe abzumontieren, mьssen Sie auf die Waffe im Rucksack rechtsklicken und danach die entsprechende Aktion im Kontextmenь auswдhlen.</text>
+	</string>
+	<string id="ls_tip_40">
+		<text>Wenn Sie sich mцglichst leise fortbewegen mцchten, drьcken Sie "$$ACTION_ACCEL$$" zum Gehen oder "$$ACTION_CROUCH$$", um sich zu ducken.</text>
+	</string>
+	<string id="ls_tip_41">
+		<text>Schrotflinten sind Waffen fьr kurze Distanzen. Je weiter weg Ihr Gegner ist, desto weniger Wirkung zeigen Schrotflinten.</text>
+	</string>
+	<string id="ls_tip_42">
+		<text>Wenn Sie vor kleineren Feuerwaffen in Deckung gehen, sollten Sie sich hinter etwas Massives begeben. Im Gegenteil zu Betonwдnden stellen Holzbretter und Blechverkleidungen keine besonders undurchdringlichen Hindernisse dar.</text>
+	</string>
+	<string id="ls_tip_44">
+		<text>Kopfschьsse verursachen kritischen Schaden und sind fьr die meisten Gegner tцdlich.</text>
+	</string>
+	<string id="ls_tip_45">
+		<text>Jeder Mutantentyp in der Zone weist seine eigenen Kampfeigenschaften auf. Wenn Sie diese beachten und sich ihnen entsprechend verhalten, steigen Ihre Ьberlebenschancen enorm.</text>
+	</string>
+	<string id="ls_tip_46">
+		<text>Sie kцnnen kontrollieren, wie weit Sie eine Granate werfen, indem Sie "$$ACTION_WPN_ZOOM$$" gedrьckt halten.</text>
+	</string>
+	<string id="ls_tip_47">
+		<text>Ihre Gegner kцnnen Granaten einsetzen und werden das auch mцglichst oft tun. Wenn die Granatenwarnung angezeigt wird, sollten Sie den Explosionsbereich sofort verlassen.</text>
+	</string>
+	<string id="ls_tip_48">
+		<text>Indem Sie mit Anlauf springen, kцnnen Sie groЯe Spalte und Erdrisse ьberwinden.</text>
+	</string>
+	<string id="ls_tip_49">
+		<text>Ihre Gesundheits- und Ausdaueranzeigen werden in der rechten unteren Bildschirmecke dargestellt.</text>
+	</string>
+	<string id="ls_tip_53">
+		<text>Die Zone lebt - d.h. Sie kцnnen auch in Gebieten, die Sie bereits gesдubert haben, weiterhin auf Mutanten oder feindliche Stalker stoЯen.</text>
+	</string>
+	<string id="ls_tip_54">
+		<text>Seien Sie in der Zone stets auf der Hut und verlassen Sie sich nicht auf alte Informationen. Wenn Sie in ein Anomaliegebiet zurьckkehren, das Sie bereits erforscht haben, kann es durchaus vorkommen, dass die alten Wege nicht mehr sicher sind.</text>
+	</string>
+	<string id="ls_tip_58">
+		<text>In Gesprдchen mit anderen Stalkern kцnnen Sie nьtzliche Informationen ьber neue Gebiete oder aktuelle Ereignisse erhalten.</text>
+	</string>
+	<string id="ls_tip_60">
+		<text>Sie kцnnen jede beliebige Waffe in den beiden Waffenfeldern benutzen. So kцnnen Sie flexible Waffenkombinationen erstellen, wie etwa Sturmgewehr/Schrotflinte oder Pistole/Scharfschьtzengewehr.</text>
+	</string>
+	<string id="ls_tip_61">
+		<text>Alle Hдndler, die Sie in den verschiedenen Stalkerlagern treffen, haben ihre eigenen, besonderen Warenangebote. Дrzte z.B. haben normalerweise die beste Auswahl an medizinischen Produkten.</text>
+	</string>
+	<string id="ls_tip_62">
+		<text>Wenn Sie verletzt oder verstrahlt in ein Stalkerlager kommen, kцnnen Sie sich vom цrtlichen Arzt kostenlos behandeln lassen.</text>
+	</string>
+	<string id="ls_tip_63">
+		<text>Sie kцnnen Ihre persцnlichen Gegenstдnde im Lager in einer persцnlichen Kiste verstauen, damit Sie nicht benцtigte Ausrьstung nicht mit sich herumschleppen mьssen.</text>
+	</string>
+	<string id="ls_tip_64">
+		<text>Sollten Sie bis zu einer bestimmten Uhrzeit warten mьssen, kцnnen Sie im Lager ein Nickerchen machen, damit die Zeit schneller vergeht. Finden Sie dazu den Schlafbereich, drьcken Sie "$$ACTION_USE$$" und legen Sie fest, wie lange Sie schlafen wollen.</text>
+	</string>
+	<string id="ls_tip_65">
+		<text>Das Nachtsichtgerдt in Ihrem Helm kцnnen Sie zur Version der jeweils nдchsten Generation aufrьsten lassen. Damit wird die Reichweite des Gerдts erheblich vergrцЯert.</text>
+	</string>
+	<string id="ls_tip_67">
+		<text>Wenn Sie sich in der Zone aufhalten, sollten Sie stets Extramunition mit sich fьhren - Sie kцnnten sie schneller brauchen, als Ihnen lieb ist.</text>
+	</string>
+	<string id="ls_tip_68">
+		<text>Vergessen Sie nicht, Ihren Spielfortschritt regelmдЯig zu speichern - damit verhindern Sie, dass Sie dieselben Abschnitte wieder und wieder spielen mьssen.</text>
+	</string>
+	<string id="ls_tip_69">
+		<text>Um Medikamente sinnvoll zu konsumieren, sollten Sie wissen, wie sie wirken. Lesen Sie dazu die Beschreibungen der Medikamente und finden Sie heraus, was genau sie bewirken.</text>
+	</string>
+	<string id="ls_tip_70">
+		<text>Greifen Sie Gegner, die in Deckung sind, mit Granaten an. Beachten Sie dabei aber den Explosionsradius der Granate, um keine Verbьndeten in Mitleidenschaft zu ziehen.</text>
+	</string>
+	<string id="ls_tip_71">
+		<text>Um einen Gegenstand aus Ihrem Rucksack zu entfernen, rechtsklicken Sie darauf und wдhlen Sie die entsprechende Aktion aus.</text>
+	</string>
+	<string id="ls_tip_72">
+		<text>Sie kцnnen in den Spieloptionen festlegen, dass das Spiel an wichtigen Punkten automatisch gespeichert werden soll.</text>
+	</string>
+	<string id="ls_tip_73">
+		<text>Wenn Sie ins Lager zurьckkehren, sollten Sie Ihre Ausrьstung reparieren lassen, unnцtige Beute verkaufen und sich mit Munition sowie Medikamenten eindecken.</text>
+	</string>
+	<string id="ls_tip_75">
+		<text>Verwenden Sie bei Abstechern in die Zone Schutzanzьge, Artefakte oder entsprechende Medikamente, um die schдdliche Wirkung von Anomaliegebieten zu mildern.</text>
+	</string>
+	<string id="ls_tip_77">
+		<text>Sie kцnnen an den Leichen Ihrer Gegner neben Waffen und Munition auch wertvolle Gegenstдnde wie PDAs mit wichtigen Informationen finden.</text>
+	</string>
+	<string id="ls_tip_78">
+		<text>Artefakte sind nicht einfach nur eine Art von Beute: Neben der Tatsache, dass sie leicht und teuer sind, kцnnen sie hдufig auch дuЯerst nьtzliche Wirkungen aufweisen.</text>
+	</string>
+	<string id="ls_tip_79">
+		<text>Wegen der Umweltbedingungen in der Zone sind viele Mutanten radioaktiv verseucht. Es ist daher extrem gefдhrlich, sich ihnen ohne entsprechenden Strahlenschutz zu nдhern.</text>
+	</string>
+	<string id="ls_tip_8">
+		<text>Mit Verbandszeug, einem Armee-Medkit oder Vinca-Mitteln kцnnen Sie Blutungen stoppen. Wenn Sie nдmlich nicht schnell genug handeln, kann eine Blutung schwere gesundheitliche Folgen nach sich ziehen.</text>
+	</string>
+	<string id="ls_tip_80">
+		<text>Auf manchen Waffen kцnnen justierbare Zielfernrohre mit langer Reichweite montiert werden. Drьcken Sie "$$ACTION_NEXT_SLOT$$" oder "$$ACTION_PREV_SLOT$$", um die Reichweite zu дndern.</text>
+	</string>
+	<string id="ls_tip_82">
+		<text>Manche Orte sind unzugдnglich, selbst wenn Sie sich ducken. Um so tief wie mцglich zu kommen, mьssen Sie "$$ACTION_CROUCH$$" und "$$ACTION_ACCEL$$" gleichzeitig drьcken und gedrьckt halten.</text>
+	</string>
+	<string id="ls_tip_84">
+		<text>Um die Wahrscheinlichkeit zu verringern, von gegnerischem Feuer getroffen zu werden, sollten Sie sich beim SchieЯen um die Ecke lehnen. Halten Sie dafьr "$$ACTION_LLOOKOUT$$" oder "$$ACTION_RLOOKOUT$$" gedrьckt.</text>
+	</string>
+	<string id="ls_tip_85">
+		<text>Dank eines integrierten Zielerkennungssystems in Ihrem Fernglas, kцnnen Sie nicht nur weit entfernte Objekte betrachten, sondern auch Gegner aufspьren. Drьcken Sie "$$ACTION_WPN_5$$", um Ihr Fernglas zu benutzen.</text>
+	</string>
+	<string id="ls_tip_86">
+		<text>Ihre Taschenlampe schalten Sie mit "$$ACTION_TORCH$$" ein bzw. aus.</text>
+	</string>
+	<string id="ls_tip_87">
+		<text>Um eine Schraube in die Hand zu nehmen, mьssen Sie "$$ACTION_WPN_6$$" drьcken.</text>
+	</string>
+	<string id="ls_tip_88">
+		<text>Wenn Ihr Helm ein Nachtsichtgerдt aufweist, kцnnen Sie es mit "$$ACTION_NIGHT_VISION$$" ein- bzw. ausschalten.</text>
+	</string>
+	<string id="ls_tip_89">
+		<text>Drьcken Sie "$$ACTION_QUICK_USE_1$$", "$$ACTION_QUICK_USE_2$$", "$$ACTION_QUICK_USE_3$$" oder "$$ACTION_QUICK_USE_4$$", um den entsprechenden Gegenstand im Schnellzugriffsfeld zu benutzen.</text>
+	</string>
+	<string id="ls_tip_9">
+		<text>Die Wirkung von Medikamenten setzt nicht sofort ein und kann in manchen Fдllen eine lange Zeit anhalten.</text>
+	</string>
+	<string id="ls_tip_90">
+		<text>Ihr PDA enthдlt eine Karte, Informationen ьber aktuelle Missionen, Ihre persцnliche Statistik und ein Nachrichtenprotokoll. Drьcken Sie "$$ACTION_ACTIVE_JOBS$$", um Ihr PDA zu цffnen.</text>
+	</string>
+	<string id="ls_tip_91">
+		<text>Um nach Artefakten zu suchen, mьssen Sie Ihren Detektor einsetzen. Drьcken Sie dafьr "$$ACTION_SHOW_DETECTOR$$".</text>
+	</string>
+	<!--string id="ls_tip_92">
+		<text>Drьcken Sie zum Pausieren des Spiels "$$ACTION_PAUSE$$".</text>
+	</string-->
+	<string id="ls_tip_93">
+		<text>Drьcken Sie zum Schnellspeichern "$$ACTION_QUICK_SAVE$$". Drьcken Sie "$$ACTION_QUICK_LOAD$$", um das zuletzt gespeicherte Spiel zu laden.</text>
+	</string>
+	<string id="ls_tip_94">
+		<text>Rennen ist die schnellste Fortbewegungsart, aber auch die anstrengendste. Drьcken Sie "$$ACTION_run_or_lie_down$$" zum Rennen.</text>
+	</string>
+	<string id="ls_tip_95">
+		<text>Wenn Sie beim SchieЯen zielen, treffen Sie genauer, als wenn Sie einfach drauflos feuern. Drьcken Sie zum Zielen "$$ACTION_WPN_ZOOM$$".</text>
+	</string>
+	<string id="ls_tip_96">
+		<text>Wenn Sie ьber einen Unterlaufgranatwerfer verfьgen, kцnnen Sie zwischen diesem und dem normalen Feuermodus wechseln, indem Sie "$$ACTION_WPN_FUNC$$" drьcken.</text>
+	</string>
+	<string id="ls_tip_97">
+		<text>Wenn Sie ьber unterschiedliche Munitionsarten fьr Ihre Waffe verfьgen, kцnnen Sie mit "$$ACTION_WPN_NEXT$$" zwischen diesen wechseln.</text>
+	</string>
+	<string id="ls_tip_98">
+		<text>Drьcken Sie "$$ACTION_WPN_RELOAD$$", um Ihre Waffe nachzuladen, bevor das Magazin leer ist.</text>
+	</string>
+	<string id="ls_tip_99">
+		<text>Zum Ablegen Ihrer aktuellen Waffe mьssen Sie "$$ACTION_DROP$$" drьcken.</text>
+	</string>
+	<string id="ls_tip_6">
+		<text>Um eine Emission unbeschadet zu ьberstehen, sollten Sie in einem stabilen Gebдude oder unter der Erde Unterschlupf suchen. Wenn eine Emission ansteht, wird die Unterschlupfmцglichkeit, die am nдchsten liegt, auf Ihrem PDA angezeigt.</text>
+	</string>
+	<string id="ls_tip_12">
+		<text>Um einen Gegenstand ьber das Schnellzugriffsfeld zu benutzen, mьssen Sie ihn aus Ihrem Rucksack in eines der vier Felder ьber den Artefaktbehдltern ziehen.</text>
+	</string>
+	<string id="ls_tip_24">
+		<text>Das Bluttropfensymbol in der rechten unteren Bildschirmecke weist Sie auf eine Blutung hin, die gestoppt werden muss. Die Farbe des Symbols gibt an, wie stark die Blutung ist.</text>
+	</string>
+	<string id="ls_tip_25">
+		<text>Ein Strahlungssymbol in der rechten unteren Bildschirmecke weist Sie darauf hin, dass Sie einer Strahlung ausgesetzt sind. Wenn dies geschieht, sollten Sie Strahlenschutzmittel einnehmen. Die Farbe des Symbols gibt an, wie stark die Strahlung ist.</text>
+	</string>
+	<string id="ls_tip_4">
+		<text>Sie kцnnen mit Hilfe von Filtern verschiedene Markierungen auf Ihrem PDA ein- bzw. ausblenden. Die Filterschaltflдchen befinden sich ьber der Karte, unter der Zeile mit der aktuellen Mission.</text>
+	</string>
+	<string id="ls_tip_55">
+		<text>Artefakte sind fьr gewцhnlich nicht statisch: Sie bewegen sich innerhalb eines Anomaliegebiets. Plumpe Versuche, ein Artefakt in die Hдnde zu bekommen, werden Sie schneller in eine Anomalie fьhren, als Sie "Detektor" sagen kцnnen.</text>
+	</string>
+	<string id="ls_tip_57">
+		<text>Einige Stalker kцnnen Ihnen ihre Dienste anbieten, wie z.B. Informationen oder exklusive Waren. Eine andere Mцglichkeit ist, dass Sie bestimmte Artefakte bei Ihnen in Bestellung geben.</text>
+	</string>
+	<string id="ls_tip_59">
+		<text>Nach einer Emission kцnnen neue Artefakte in Anomaliegebieten erscheinen, die Sie zuvor bereits erforscht hatten.</text>
+	</string>
+	<string id="ls_tip_74">
+		<text>In den Spieloptionen kцnnen Sie den Schwierigkeitsgrad jederzeit anpassen.</text>
+	</string>
+	<string id="ls_tip_2">
+		<text>Techniker in Stalkerlagern kцnnen Ihre Waffen, Schutzanzьge und Helme verbessern</text>
+	</string>
+	<string id="ls_tip_66">
+		<text>Wenn Sie ьberleben mцchten, sollten Sie immer das Gerдusch des Geigerzдhlers beachten, das Sie vor Strahlung warnt. Ebenso wichtig ist das Anomaliegefahrensignal, das Sie warnt, wenn Sie sich in die Nдhe einer Anomalie begeben.</text>
+	</string>
+	<string id="ls_tip_26">
+		<text>Ihre Beziehung zu anderen Personen wirkt sich direkt auf den Preis von Waren und Diensten aus. Haben Sie ein schlechtes Verhдltnis, kцnnen Sie keinen Rabatt erwarten. Wenn Sie gut mit dem Hдndler auskommen, kцnnte er Ihnen sogar etwas Besonderes anbieten.</text>
+	</string>
+	<string id="ls_tip_11">
+		<text>Sie kцnnen die Waffen, die Sie finden, entladen, um an mehr Munition zu gelangen. Rechtsklicken Sie dafьr auf die Waffe in Ihrem Rucksack und wдhlen Sie danach die entsprechende Aktion im Kontextmenь aus.</text>
+	</string>
+	<string id="ls_mp_tip_1">
+		<text>Indem Sie Gegner ausschalten und Artefakte sammeln, erhalten Sie Punkte, mit denen Sie Ihren Rang verbessern kцnnen. Wenn Sie im Rang aufsteigen, erhalten Sie Zugriff auf neue Waffen, Ausrьstung und Panzerung.</text>
+	</string>
+	<string id="ls_mp_tip_11">
+		<text>Rauchgranaten werden eingesetzt, um das Artefakt zu stehlen oder Deckung zu erzeugen.</text>
+	</string>
+	<string id="ls_mp_tip_13">
+		<text>Der linke Bereich des Kaufmenьs besteht aus folgenden fьnf Reitern (von oben nach unten): Pistolen, Hauptwaffen, Ausrьstung, Munition und Medikamente. Wenn Sie einen Reiter auswдhlen, werden die fьr Ihren Rang verfьgbaren Gegenstдnde angezeigt.</text>
+	</string>
+	<string id="ls_mp_tip_14">
+		<text>Der rechte Bereich des Kaufmenьs enthдlt 4 Schnellkauffelder. Mit dem Disksymbol speichern Sie die Zusammenstellung, wдhrend Sie mit der entsprechenden Zahl die jeweilige Zusammenstellung laden. Im 4. Feld wird der letzte Kauf automatisch gespeichert.</text>
+	</string>
+	<string id="ls_mp_tip_15">
+		<text>Wenn Sie ьber mehr als eine Waffe verfьgen, kцnnen Sie zwischen ihnen wechseln, indem Sie wiederholt "$$ACTION_WPN_3$$" drьcken.</text>
+	</string>
+	<string id="ls_mp_tip_17">
+		<text>Ein Artefakt kann aktiviert werden, um eine Anomalie zu erzeugen. Machen Sie es dazu mit "$$ACTION_ARTEFACT$$" bereit und halten Sie danach "$$ACTION_WPN_FIRE$$" gedrьckt. Die erzeugte Anomalie ist sowohl fьr Gegner als auch fьr den Erzeuger gefдhrlich.</text>
+	</string>
+	<string id="ls_mp_tip_18">
+		<text>Ein wissenschaftlicher Schutzanzug wird Ihnen dabei helfen, in Anomalie- und radioaktiven Gebieten zu ьberleben.</text>
+	</string>
+	<string id="ls_mp_tip_2">
+		<text>ARTEFAKTJAGD: Um zu gewinnen, mьssen Sie eine bestimmte Anzahl von Artefakten in Ihre Basis bringen.</text>
+	</string>
+	<string id="ls_mp_tip_20">
+		<text>Um einen Schalldдmpfer, ein Zielfernrohr oder einen Unterlaufgranatwerfer von Ihrer Waffe abzumontieren, mьssen Sie auf die Waffe im Rucksack rechtsklicken und danach die entsprechende Aktion im Kontextmenь auswдhlen.</text>
+	</string>
+	<string id="ls_mp_tip_22">
+		<text>Wenn Sie sich mцglichst leise fortbewegen mцchten, drьcken Sie "$$ACTION_ACCEL$$" zum Gehen oder "$$ACTION_CROUCH$$", um sich zu ducken.</text>
+	</string>
+	<string id="ls_mp_tip_23">
+		<text>Schrotflinten sind Waffen fьr kurze Distanzen. Je weiter weg Ihr Gegner ist, desto weniger Wirkung zeigen Schrotflinten.</text>
+	</string>
+	<string id="ls_mp_tip_24">
+		<text>Wenn Sie vor kleineren Feuerwaffen in Deckung gehen, sollten Sie sich hinter etwas Massives begeben. Im Gegenteil zu Betonwдnden stellen Holzbretter und Blechverkleidungen keine besonders undurchdringlichen Hindernisse dar.</text>
+	</string>
+	<string id="ls_mp_tip_26">
+		<text>Kopfschьsse verursachen kritischen Schaden und sind fьr die meisten Gegner tцdlich.</text>
+	</string>
+	<string id="ls_mp_tip_27">
+		<text>Schnelles Laufen, Springen und Verletzungen senken Ihre Ausdauer betrдchtlich.</text>
+	</string>
+	<string id="ls_mp_tip_28">
+		<text>Sie kцnnen kontrollieren, wie weit Sie eine Granate werfen, indem Sie "$$ACTION_WPN_ZOOM$$" gedrьckt halten.</text>
+	</string>
+	<string id="ls_mp_tip_29">
+		<text>Ihre Gegner kцnnen Granaten einsetzen und werden das auch mцglichst oft tun. Wenn die Granatenwarnung angezeigt wird, sollten Sie den Explosionsbereich sofort verlassen.</text>
+	</string>
+	<string id="ls_mp_tip_3">
+		<text>DEATHMATCH: Sammeln Sie mцglichst viele Punkte durch getцtete Gegner, um zu gewinnen.</text>
+	</string>
+	<string id="ls_mp_tip_30">
+		<text>Indem Sie mit Anlauf springen, kцnnen Sie groЯe Spalte und Erdrisse ьberwinden.</text>
+	</string>
+	<string id="ls_mp_tip_31">
+		<text>Ihre Gesundheits- und Ausdaueranzeigen werden in der rechten unteren Bildschirmecke dargestellt.</text>
+	</string>
+	<string id="ls_mp_tip_35">
+		<text>Auf der Minimap wird die Richtung des Artefakts angezeigt. Wenn der Pfeil nach oben gerichtet ist, befindet sich das Artefakt oberhalb Ihrer Position. Zeigt er nach unten, liegt das Artefakt unterhalb Ihrer Position.</text>
+	</string>
+	<string id="ls_mp_tip_36">
+		<text>Sie kцnnen die Rucksдcke Ihrer Gegner einsammeln, um zusдtzliches Geld zu erhalten. Ьberschьssige Ausrьstung kann in der Basis verkauft werden.</text>
+	</string>
+	<string id="ls_mp_tip_37">
+		<text>Das Mitglied Ihres Teams, das das Artefakt trдgt, sollte um jeden Preis beschьtzt werden.</text>
+	</string>
+	<string id="ls_mp_tip_38">
+		<text>Greifen Sie Gegner, die in Deckung sind, mit Granaten an. Beachten Sie dabei aber den Explosionsradius der Granate, um keine Verbьndeten in Mitleidenschaft zu ziehen.</text>
+	</string>
+	<string id="ls_mp_tip_39">
+		<text>Sie kцnnen innerhalb Ihres Teams mit Sprachnachrichten kommunizieren. Drьcken Sie "$$ACTION_SPEECH_MENU_0$$" oder "$$ACTION_SPEECH_MENU_1$$", um in das Sprachnachrichtenmenь zu gelangen.</text>
+	</string>
+	<string id="ls_mp_tip_4">
+		<text>TEAM DEATHMATCH: Ihr Team muss mцglichst viele Punkte durch getцtete Gegner sammeln, um zu gewinnen.</text>
+	</string>
+	<string id="ls_mp_tip_40">
+		<text>Eine Abstimmung wird mit "$$ACTION_VOTE_BEGIN$$" gestartet.</text>
+	</string>
+	<string id="ls_mp_tip_41">
+		<text>Wenn Sie den Punktestand einsehen mцchten, drьcken Sie "$$ACTION_SCORES$$".</text>
+	</string>
+	<string id="ls_mp_tip_42">
+		<text>Drьcken Sie zum Respawnen "$$ACTION_JUMP$$", nachdem die Wartezeit abgelaufen ist.</text>
+	</string>
+	<string id="ls_mp_tip_43">
+		<text>Drьcken Sie zum Цffnen des Kaufmenьs "$$ACTION_BUY_MENU$$", wдhrend Sie sich in der Basis aufhalten.</text>
+	</string>
+	<string id="ls_mp_tip_44">
+		<text>Sie kцnnen den allgemeinen Chat mit "$$ACTION_CHAT$$" aufrufen. Um lediglich mit Ihrem Team zu chatten, mьssen Sie "$$ACTION_CHAT_TEAM$$" drьcken.</text>
+	</string>
+	<string id="ls_mp_tip_45">
+		<text>Rennen ist die schnellste Fortbewegungsart, aber auch die anstrengendste. Drьcken Sie "$$ACTION_run_or_lie_down$$" zum Rennen.</text>
+	</string>
+	<string id="ls_mp_tip_46">
+		<text>Wenn Sie beim SchieЯen zielen, treffen Sie genauer, als wenn Sie einfach drauflos feuern. Drьcken Sie zum Zielen "$$ACTION_WPN_ZOOM$$".</text>
+	</string>
+	<string id="ls_mp_tip_47">
+		<text>Wenn Sie ьber einen Unterlaufgranatwerfer verfьgen, kцnnen Sie zwischen diesem und dem normalen Feuermodus wechseln, indem Sie "$$ACTION_WPN_FUNC$$" drьcken.</text>
+	</string>
+	<string id="ls_mp_tip_48">
+		<text>Wenn Sie ьber unterschiedliche Munitionsarten fьr Ihre Waffe verfьgen, kцnnen Sie mit "$$ACTION_WPN_NEXT$$" zwischen diesen wechseln.</text>
+	</string>
+	<string id="ls_mp_tip_49">
+		<text>Drьcken Sie "$$ACTION_WPN_RELOAD$$", um Ihre Waffe nachzuladen, bevor das Magazin leer ist.</text>
+	</string>
+	<string id="ls_mp_tip_5">
+		<text>ARTEFAKTEROBERUNG: Um zu gewinnen, mьssen Sie eine bestimmte Anzahl von gegnerischen Artefakten in Ihre Basis bringen.</text>
+	</string>
+	<string id="ls_mp_tip_50">
+		<text>Zum Ablegen Ihrer aktuellen Waffe mьssen Sie "$$ACTION_DROP$$" drьcken.</text>
+	</string>
+	<string id="ls_mp_tip_51">
+		<text>Drьcken Sie "$$ACTION_INVENTORY$$", um Ihren Rucksackinhalt anzuzeigen.</text>
+	</string>
+	<string id="ls_mp_tip_52">
+		<text>Die meisten Waffen haben mehrere Feuermodi. Drьcken Sie zum Wechseln der Modi "$$ACTION_WPN_FIREMODE_NEXT$$" oder "$$ACTION_WPN_FIREMODE_PREV$$".</text>
+	</string>
+	<string id="ls_mp_tip_53">
+		<text>Manche Orte sind unzugдnglich, selbst wenn Sie sich ducken. Um so tief wie mцglich zu kommen, mьssen Sie "$$ACTION_CROUCH$$" und "$$ACTION_ACCEL$$" gleichzeitig drьcken und gedrьckt halten.</text>
+	</string>
+	<string id="ls_mp_tip_55">
+		<text>Um die Ecke kцnnen Sie sehen, wenn Sie Sie "$$ACTION_LLOOKOUT$$" oder "$$ACTION_RLOOKOUT$$" drьcken. Beachten Sie, dass Sie dabei nicht schieЯen kцnnen.</text>
+	</string>
+	<string id="ls_mp_tip_6">
+		<text>ARTEFAKTEROBERUNG: Um ein gestohlenes Artefakt wieder in Ihre Basis zu bringen, mьssen Sie den Gegner, der das Artefakt trдgt, ausschalten und danach mit "$$ACTION_USE$$" das Artefakt aufheben.</text>
+	</string>
+	<string id="ls_mp_tip_7">
+		<text>ARTEFAKTJAGD: Sie kцnnen das Artefakt zerstцren, indem Sie es aktivieren. Nehmen Sie es dazu in die Hand, indem Sie "$$ACTION_ARTEFACT$$" drьcken, und halten Sie dann "$$ACTION_WPN_FIRE$$" gedrьckt.</text>
+	</string>
+	<string id="ls_mp_tip_8">
+		<text>Sie kцnnen nicht rennen, wдhrend Sie das Artefakt tragen.</text>
+	</string>
+	<string id="ls_tip_100">
+		<text>Drьcken Sie "$$ACTION_INVENTORY$$", um Ihren Rucksackinhalt anzuzeigen.</text>
+	</string>
+	<string id="ls_tip_36">
+		<text>Um eine Waffe, einen Anzug oder einen Helm zu reparieren, mьssen Sie einen Techniker finden und auf "Reparieren" klicken, nachdem Sie den gewьnschten Gegenstand im Modifikationsfenster ausgewдhlt haben.</text>
+	</string>
+	<string id="ls_tip_81">
+		<text>Die meisten Waffen haben mehrere Feuermodi und Sie kцnnen mit Modifikationen weitere hinzufьgen. Drьcken Sie zum Wechseln der Modi "$$ACTION_WPN_FIREMODE_NEXT$$" oder "$$ACTION_WPN_FIREMODE_PREV$$".</text>
+	</string>
+	<string id="ls_tip_7">
+		<text>Die Flachheit der Waffe beeinflusst die Flugbahn des Projektils, wдhrend die Handhabung die Zeit bestimmt, die nach einem Schuss vergeht, bis das Visier wieder an seiner ursprьnglichen Position ist.</text>
+	</string>
+	<string id="ls_tip_5">
+		<text>Einige Schutzanzьge verfьgen ьber integrierte Helme. Bei solchen Anzьgen ist es nicht mцglich, andere Helme zu tragen.</text>
+	</string>
+	<string id="ls_tip_76">
+		<text>Jede Waffe weist ihre eigenen Werte in den Bereichen Schussgenauigkeit, Handhabung, Schaden und Feuerrate auf. Dadurch kцnnen Sie stets diejenige Waffe auswдhlen, die Ihren aktuellen Anforderungen am besten entspricht.</text>
+	</string>
+	<string id="ls_tip_51">
+		<text>SchieЯen in Bewegung ist erheblich ungenauer als das Feuern, wдhrend Sie stehen oder sich zumindest ducken.</text>
+	</string>
+	<string id="ls_mp_tip_10">
+		<text>Dieser Energy-Drink verbessert vorьbergehend Ihre Energieregeneration, wodurch Sie ьber einen lдngeren Zeitraum sprinten kцnnen.</text>
+	</string>
+	<string id="ls_mp_tip_12">
+		<text>Im Deathmatch-Modus verfьgen Sie ьber unendlich viel Munition.</text>
+	</string>
+	<string id="ls_tip_16">
+		<text>Strahlung gehцrt zu den hдufigsten Gefahren in der Zone. Der Kontakt mit starker Strahlung zieht Ihre Gesundheit in Mitleidenschaft und kann sogar zum Tod fьhren, wenn nichts dagegen unternommen wird.</text>
+	</string>
+	<string id="ls_tip_19">
+		<text>Nehmen Sie Nahrung mit, wenn Sie lange unterwegs sein werden. Bei sehr groЯem Hunger wird Ihre Ausdauerregeneration in Mitleidenschaft gezogen.</text>
+	</string>
+<!----------------------Console---------------------->
+	<string id="ls_c_tip_37">
+		<text>Die AC-96/2 verfьgt ьber einen einzigartigen Doppelschuss-Modus, bei dem beide Geschosse in einer Salve abgefeuert werden und dieselbe Stelle treffen.</text>
+	</string>
+	<string id="ls_c_tip_39">
+		<text>Bei doppellдufigen Schrotflinten kцnnen beide Lдufe nahezu gleichzeitig abgefeuert werden.</text>
+	</string>
+	<string id="ls_c_tip_43">
+		<text>Pistolen sind nicht zu unterschдtzen. Sie bieten beachtliche Bremskraft und kцnnen sehr effektiv gegen leicht gepanzerte Ziele sein.</text>
+	</string>
+	<string id="ls_c_tip_50">
+		<text>Scharfschьtzengewehre eignen sich dank ihres flachen Profils und der hohen Prдzision ideal dazu, Feinde aus grцЯerer Entfernung zu eliminieren. Im Nahkampf nicht allzu effektiv.</text>
+	</string>
+	<string id="ls_c_tip_52">
+		<text>Waffen und Schutzanzьge nutzen sich unter den rauen Bedingungen der Zone schnell ab. Abgenutzte Waffen verlieren an Genauigkeit und neigen zu Fehlzьndungen, wдhrend Anzьge nicht mehr ausreichend schьtzen.</text>
+	</string>
+	<string id="ls_c_tip_56">
+		<text>Einige Medikamente haben einzigartige Eigenschaften. Mit Herkules-Pillen kцnnen Sie zum Beispiel vorьbergehend mehr Gewicht tragen, wдhrend Psy-Blocker gegen Psy-Emissionen helfen.</text>
+	</string>
+	<string id="ls_c_tip_83">
+		<text>Drьcken Sie "$$ACTION_SCREENSHOT$$", um einen Screenshot anzulegen.</text>
+	</string>
+	<string id="ls_c_tip_1">
+		<text>Wodka ist eine billige Alternative zu strahlungshemmenden Mitteln und die einfachste Methode, die Auswirkungen von Strahlung auf den Kцrper zu reduzieren.</text>
+	</string>
+	<string id="ls_c_tip_10">
+		<text>Sie kцnnen genauere Informationen ьber die aktuelle Mission einblenden, indem Sie "$$ACTION_SCORES$$" gedrьckt halten.</text>
+	</string>
+	<string id="ls_c_tip_13">
+		<text>Sie brauchen einen Detektor, um nach Artefakten zu suchen. Die besten Detektoren machen die Suche einfacher und kцnnen sogar noch wertvollere Artefakte aufspьren.</text>
+	</string>
+	<string id="ls_c_tip_14">
+		<text>Stalker lassen niemanden mit Waffen in ihr Camp.</text>
+	</string>
+	<string id="ls_c_tip_15">
+		<text>Sie kцnnen feststellen, wo sich der Rand einer Anomalie befindet, indem Sie Schrauben werfen.</text>
+	</string>
+	<string id="ls_c_tip_17">
+		<text>Essen stillt nicht nur Ihren Hunger, sondern verbessert auch ein Stьck weit Ihre Gesundheit.</text>
+	</string>
+	<string id="ls_c_tip_18">
+		<text>Energy Drinks erhцhen kurzzeitig die Wiederherstellung Ihrer Ausdauer und damit Ihre potenzielle Mobilitдt.</text>
+	</string>
+	<string id="ls_c_tip_20">
+		<text>Geringe Ausdauer kann dazu fьhren, dass Sie in entscheidenden Momenten unbeweglich und anfдllig fьr feindliche Angriffe werden.</text>
+	</string>
+	<string id="ls_c_tip_21">
+		<text>Sie kцnnen Ihren Verschleierungsstatus mit Hilfe der Detektoren fьr Gerдusche und Feinderkennung links oben im Bildschirm ьberwachen.</text>
+	</string>
+	<string id="ls_c_tip_22">
+		<text>Einen Detektor in der einen Hand zu halten, hдlt Sie nicht davon ab, mit der anderen ein Messer, eine Pistole oder eine Schraube zu schwingen.</text>
+	</string>
+	<string id="ls_c_tip_23">
+		<text>Einige medizinische Produkte erhцhen die Widerstandskraft Ihres Kцrpers gegen schдdliche Einflьsse. Die Verwendung solcher Produkte kann Ihnen bei Einsдtzen in anomalen Bereichen das Leben retten.</text>
+	</string>
+	<string id="ls_c_tip_27">
+		<text>Sie kцnnen das Kontextmenь fьr Gegenstдnde in Ihrem Rucksack aufrufen, indem Sie das jeweilige Objekt markieren und $$ACTION_UI_CONTEXT_MENU$$ drьcken.</text>
+	</string>
+	<string id="ls_c_tip_28">
+		<text>Die meisten Artefakte sind nicht nur nьtzlich, sondern auch radioaktiv. Dieser Nachteil kann durch die Verwendung von Artefakten kompensiert werden, die Strahlung absorbieren.</text>
+	</string>
+	<string id="ls_c_tip_29">
+		<text>Ihr Messer ist im Kampf gegen Feinde, die mit Feuerwaffen bewaffnet sind, weitgehend nutzlos. Setzen Sie es im Nahkampf oder bei Kills aus dem Hinterhalt ein.</text>
+	</string>
+	<string id="ls_c_tip_3">
+		<text>Das Gewicht, das Sie tragen, verringert Ihre Ausdauer. Zu viel Ballast schrдnkt Ihre Beweglichkeit ein, und wenn Sie vцllig ьberladen sind, kцnnen Sie sich ьberhaupt nicht mehr bewegen.</text>
+	</string>
+	<string id="ls_c_tip_30">
+		<text>Ein Detektor ist die einzige verlдssliche Methode, um anomale Bereiche nach Artefakten abzusuchen.</text>
+	</string>
+	<string id="ls_c_tip_31">
+		<text>Die meisten Artefakte, die sich in einem anomalen Bereich bewegen, bleiben unsichtbar, bis sie von Ihrem Detektor entdeckt werden.</text>
+	</string>
+	<string id="ls_c_tip_32">
+		<text>Mutanten sind nachts aktiver, weshalb die meisten Stalker auf den Sonnenaufgang warten, bevor sie sich in die Zone begeben.</text>
+	</string>
+	<string id="ls_c_tip_33">
+		<text>Wenn Sie schwerer Strahlenbelastung ausgesetzt waren, verwenden Sie strahlungshemmende Mittel. Sollten Sie keine haben, verwenden Sie Medkits, um die ersten Symptome zu behandeln, bis Sie einen Arzt erreichen.</text>
+	</string>
+	<string id="ls_c_tip_34">
+		<text>Fast jeder Stalker kann Sie zu nahe gelegenen Standorten bringen, um jedoch zu weiter entfernten Regionen zu gelangen, braucht es einen erfahrenen Fьhrer. Dass er fьr seine Dienste einen hohen Preis nimmt, versteht sich von selbst.</text>
+	</string>
+	<string id="ls_c_tip_35">
+		<text>Der Verkauf von Artefakten ist nicht der einzige Weg, um an etwas Geld zu kommen, auch die Abgabe von nicht mehr benцtigter Ausrьstung kann ein lukratives Geschдft sein. Denken Sie daran, dass Hдndler nicht an stark beschдdigten Gegenstдnden interessiert sind.</text>
+	</string>
+	<string id="ls_c_tip_38">
+		<text>Um einen Schalldдmpfer, ein Zielfernrohr oder einen Granatwerfer von Ihrer Waffe zu entfernen, wдhlen Sie die Waffe in Ihrem Rucksack und die entsprechende Aktion aus dem Kontextmenь aus.</text>
+	</string>
+	<string id="ls_c_tip_40">
+		<text>Wenn Sie sich mцglichst gerдuschlos bewegen wollen, neigen Sie den linken Stick leicht, um zu gehen, oder drьcken Sie $$ACTION_CROUCH$$, um sich zu ducken.</text>
+	</string>
+	<string id="ls_c_tip_41">
+		<text>Schrotflinten sind Nahkampfwaffen und verlieren an Effektivitдt, je weiter Ihr Gegner von Ihnen entfernt ist.</text>
+	</string>
+	<string id="ls_c_tip_42">
+		<text>Wenn Sie vor Handfeuerwaffen in Deckung gehen, achten Sie darauf, sich hinter etwas Solidem verstecken. Im Gegensatz zu Betonwдnden bieten Holzbretter und Blech keine besonders sichere Deckung.</text>
+	</string>
+	<string id="ls_c_tip_44">
+		<text>Kopfschьssen fьgen kritischen Schaden zu und sind fьr die meisten Gegner tцdlich.</text>
+	</string>
+	<string id="ls_c_tip_45">
+		<text>Jeder Mutant in der Zone hat seine eigenen Kampfeigenschaften, die sie in Betracht ziehen sollten, um Ihre Ьberlebenschancen zu erhцhen.</text>
+	</string>
+	<string id="ls_c_tip_46">
+		<text>Sie kцnnen bestimmen, wie weit Sie die Granate werfen, indem Sie $$ACTION_WPN_ZOOM$$ halten.</text>
+	</string>
+	<string id="ls_c_tip_47">
+		<text>Feinde kцnnen und werden Granaten einsetzen. Sobald Sie die Granatenanzeige sehen, mьssen sie sich sofort aus der Gefahrenzone begeben.</text>
+	</string>
+	<string id="ls_c_tip_48">
+		<text>Wenn Sie vor dem Springen beschleunigen, kцnnen Sie grцЯere Risse und Lьcken ьberwinden.</text>
+	</string>
+	<string id="ls_c_tip_49">
+		<text>Die Hauptanzeigen fьr den Status Ihrer Gesundheit und Ausdauer befinden sich in der unteren rechten Bildschirmecke.</text>
+	</string>
+	<string id="ls_c_tip_53">
+		<text>Die Zone fьhrt ein Eigenleben, was bedeutet, dass Sie auch in Bereichen, die Sie bereits gerдumt haben, auf Mutanten oder feindliche Stalker treffen kцnnen.</text>
+	</string>
+	<string id="ls_c_tip_54">
+		<text>Seien Sie in der Zone stets wachsam und verlassen Sie sich nicht auf alte Informationen. Wenn Sie in einen anomalen Bereich zurьckkehren, die Sie bereits erforscht haben, kann es passieren, dass ein sicherer Pfad von einst nicht mehr existiert.</text>
+	</string>
+	<string id="ls_c_tip_58">
+		<text>Gesprдche mit gewцhnlichen Stalkern kцnnen nьtzliche Informationen ьber neue Orte oder aktuelle Ereignisse liefern.</text>
+	</string>
+	<string id="ls_c_tip_60">
+		<text>Sie kцnnen jede beliebige Waffe in beiden Waffenslots verwenden. So kцnnen flexible Waffenkombinationen entstehen, wie z. B. Sturmgewehr/Schrotflinte und Pistole/Scharfschьtzengewehr.</text>
+	</string>
+	<string id="ls_c_tip_61">
+		<text>Jeder Hдndler, dem Sie in den verschiedenen Stalker-Camps begegnen, bietet sein eigenes, einzigartiges Warensortiment an. Дrzte haben zum Beispiel die beste Auswahl an medizinischen Produkten.</text>
+	</string>
+	<string id="ls_c_tip_62">
+		<text>Wenn Sie verwundet oder mit einer Strahlenvergiftung in ein Stalker-Camp kommen, kцnnen Sie die Hilfe des dortigen Sanitдters kostenlos in Anspruch nehmen.</text>
+	</string>
+	<string id="ls_c_tip_63">
+		<text>Sie kцnnen Ihre Sachen in einer Box im Camp deponieren, um nicht unnцtiges Zeug schleppen zu mьssen.</text>
+	</string>
+	<string id="ls_c_tip_64">
+		<text>Wenn Sie auf einen bestimmten Zeitpunkt warten mьssen, kцnnen Sie im Camp ein Nickerchen halten. Dazu mьssen sie einen Schlafbereich aufsuchen, $$ACTION_USE$$ drьcken und auswдhlen, wie lange Sie schlafen wollen.</text>
+	</string>
+	<string id="ls_c_tip_65">
+		<text>Das Nachtsichtgerдt an Ihrem Helm kann auf ein Modell der nдchsten Generation aufgerьstet werden, um die Reichweite bedeutend zu erweitern.</text>
+	</string>
+	<string id="ls_c_tip_67">
+		<text>Wenn Sie in der Zone unterwegs sind, sollten Sie immer ein paar Ersatzmagazine bei sich haben – sie werden es nicht bereuen.</text>
+	</string>
+	<string id="ls_c_tip_68">
+		<text>Denken Sie daran, Ihr Spiel regelmдЯig zu speichern, um nicht immer wieder dieselben Abschnitte spielen zu mьssen.</text>
+	</string>
+	<string id="ls_c_tip_69">
+		<text>Wer Medikamente richtig einsetzen will, muss wissen, wie sie wirken. Lesen Sie die Beschreibungen, um sich ьber die Wirkungsweise der Medikamente zu informieren.</text>
+	</string>
+	<string id="ls_c_tip_70">
+		<text>Verwenden Sie Granaten, um in Deckung befindliche Feinde anzugreifen. Achten Sie auf den Explosionsradius der Granate, um verbьndete Kдmpfer nicht zu verletzen.</text>
+	</string>
+	<string id="ls_c_tip_71">
+		<text>Um einen Gegenstand aus Ihrem Rucksack zu entfernen, drьcken Sie $$ACTION_UI_CONTEXT_MENU$$ und wдhlen Sie die entsprechende Aktion im Kontextmenь.</text>
+	</string>
+	<string id="ls_c_tip_72">
+		<text>Sie kцnnen im Optionenmenь festlegen, dass das Spiel Ihren Fortschritt an bestimmten Punkten automatisch speichert.</text>
+	</string>
+	<string id="ls_c_tip_73">
+		<text>Sobald Sie ins Lager zurьckkehren, sollten Sie Ihre Ausrьstung reparieren, nicht benцtigte Beute verkaufen, sowie Munition und medizinischen Vorrдte aufstocken.</text>
+	</string>
+	<string id="ls_c_tip_75">
+		<text>Um die schдdlichen Auswirkungen der anomalen Bereiche bei Touren in die Zone zu verringern, tragen Sie Schutzanzьge, verwenden Sie Artefakte oder nehmen Sie die entsprechenden Medikamente.</text>
+	</string>
+	<string id="ls_c_tip_77">
+		<text>Neben Waffen und Munition kцnnen die Leichen von Gegnern auch kostbare Gegenstдnde wie PDAs mit wertvollen Informationen enthalten.</text>
+	</string>
+	<string id="ls_c_tip_78">
+		<text>Artefakte stellen nicht nur wertvolle Beute dar. Sie sind leicht, bringen viel Geld ein und haben oft extrem nьtzliche Effekte.</text>
+	</string>
+	<string id="ls_c_tip_79">
+		<text>Aufgrund der besonderen Eigenschaften der Zone sind viele Mutanten radioaktiv. Sich ihnen ohne angemessenen Strahlenschutz zu nдhern, ist extrem gefдhrlich.</text>
+	</string>
+	<string id="ls_c_tip_8">
+		<text>Um Blutungen zu stoppen, kцnnen Sie einen Verband, ein Militдr-Medikit oder Vinca-Tabletten verwenden. Wenn Sie sich nicht schnell um die Blutungen kьmmern, kцnnen sie Ihre Gesundheit ernsthaft schдdigen.</text>
+	</string>
+	<string id="ls_c_tip_80">
+		<text>Auf manchen Waffen kцnnen justierbare Zielfernrohre mit langer Reichweite montiert werden. Drьcken Sie "$$ACTION_NEXT_SLOT$$" oder "$$ACTION_PREV_SLOT$$", um die Reichweite zu дndern.</text>
+	</string>
+	<string id="ls_c_tip_82">
+		<text>Manche Orte sind unzugдnglich, selbst wenn Sie kriechen. Um so tief wie mцglich zu kriechen, mьssen Sie $$ACTION_CROUCH$$ halten.</text>
+	</string>
+	<string id="ls_c_tip_84">
+		<text>Um das Risiko zu verringern, vom feindlichen Feuer getroffen zu werden, sollten Sie das Feuer erwidern, indem Sie um die Ecke lehnen. Um dies zu tun, halten Sie $$ACTION_WPN_ZOOM$$ und drьcken Sie $$ACTION_UI_TAB_LEFT$$/$$ACTION_UI_TAB_RIGHT$$</text>
+	</string>
+	<string id="ls_c_tip_85">
+		<text>Dank einer eingebauten Zielortungsmechanik kцnnen Sie mit Ihrem Fernglas nicht nur weit entfernte Objekte erkennen, sondern auch Feinde orten.</text>
+	</string>
+	<string id="ls_c_tip_86">
+		<text>Um Ihre Taschenlampe ein- oder auszuschalten, drьcken Sie $$ACTION_TORCH$$.</text>
+	</string>
+	<string id="ls_c_tip_87">
+		<text>Um eine Schraube in die Hand zu nehmen, mьssen Sie "$$ACTION_WPN_6$$" drьcken.</text>
+	</string>
+	<string id="ls_c_tip_88">
+		<text>Sie haben ein Nachtsichtgerдt am Helm, das Sie mit $$ACTION_NIGHT_VISION$$ ein- und ausschalten kцnnen.</text>
+	</string>
+	<string id="ls_c_tip_89">
+		<text>Drьcken Sie "$$ACTION_QUICK_USE_1$$", "$$ACTION_QUICK_USE_2$$", "$$ACTION_QUICK_USE_3$$" oder "$$ACTION_QUICK_USE_4$$", um den entsprechenden Gegenstand im Schnellzugriffsfeld zu benutzen.</text>
+	</string>
+	<string id="ls_c_tip_9">
+		<text>Die Wirkung von Medikamenten setzt nicht sofort ein, manche Arzneien haben lang anhaltende Effekte.</text>
+	</string>
+	<string id="ls_c_tip_90">
+		<text>Ihr PDA enthдlt eine Karte, Informationen ьber aktuelle Missionen, Ihre persцnliche Statistik und ein Nachrichtenprotokoll. Drьcken Sie $$ACTION_ACTIVE_JOBS$$, um Ihr PDA zu цffnen.</text>
+	</string>
+	<string id="ls_c_tip_91">
+		<text>Sie mьssen Ihren Detektor rausholen, um nach Artefakten zu suchen.</text>
+	</string>
+	<!-->string id="ls_c_tip_92">
+		<text>Drьcken Sie zum Pausieren des Spiels "$$ACTION_PAUSE$$".</text>
+	</string-->
+	<string id="ls_c_tip_93">
+		<text>Drьcken Sie zum Schnellspeichern "$$ACTION_QUICK_SAVE$$". Mit "$$ACTION_QUICK_LOAD$$" kцnnen Sie den letzten Schnellspeicherstand laden.</text>
+	</string>
+	<string id="ls_c_tip_94">
+		<text>Laufen ist die schnellste Art der Fortbewegung, gleichzeitig aber auch die anstrengendste. Drьcken Sie dazu $$ACTION_run_or_lie_down$$.</text>
+	</string>
+	<string id="ls_c_tip_95">
+		<text>Gezieltes SchieЯen ist viel genauer als SchieЯen aus der Hьfte. Um zu zielen, drьcken Sie $$ACTION_WPN_ZOOM$$.</text>
+	</string>
+	<string id="ls_c_tip_96">
+		<text>Wenn Sie ьber einen Granatwerfer unter dem Lauf verfьgen, kцnnen Sie zwischen diesem und dem normalen Feuermodus wechseln, indem Sie $$ACTION_WPN_FUNC$$ drьcken.</text>
+	</string>
+	<string id="ls_c_tip_97">
+		<text>Wenn Sie mehrere Munitionstypen fьr Ihre aktuelle Waffe besitzen, kцnnen Sie mit $$ACTION_WPN_NEXT$$ zwischen ihnen wechseln.</text>
+	</string>
+	<string id="ls_c_tip_98">
+		<text>Drьcken Sie $$ACTION_WPN_RELOAD$$, um Ihr Magazin nachzuladen, bevor es leer ist.</text>
+	</string>
+	<string id="ls_c_tip_99">
+		<text>Drьcken Sie $$ACTION_DROP$$, um Ihre aktuelle Waffe abzulegen.</text>
+	</string>
+	<string id="ls_c_tip_6">
+		<text>Um eine Emission abzuwarten, suchen Sie Schutz in einem sicheren Gebдude oder im Untergrund. Wenn sich eine Emission nдhert, wird die nдchstgelegene Versteckmцglichkeit auf Ihrem PDA angezeigt.</text>
+	</string>
+	<string id="ls_c_tip_12">
+		<text>Um einen Gegenstand ьber den Schnellzugriff zu verwenden, wдhlen Sie den Gegenstand im Rucksack aus, drьcken Sie im Menь „Aktionen“ die Option „Zu Schnellzugriff hinzufьgen" und wдhlen Sie den Slot aus.</text>
+	</string>
+	<string id="ls_c_tip_24">
+		<text>Das Blutstropfensymbol unten rechts im Bildschirm warnt Sie vor Blutungen und weist auf die Notwendigkeit hin, sie zu stoppen. Die Farbe des Symbols zeigt an, wie stark die Blutung ist.</text>
+	</string>
+	<string id="ls_c_tip_25">
+		<text>Ein Symbol fьr Strahlungseinwirkung unten rechts im Bildschirm warnt Sie, wenn Sie Strahlung ausgesetzt waren. In diesem Fall sollten Sie strahlungshemmende Mittel verwenden. Die Farbe des Symbols zeigt an, wie stark Sie verstrahlt sind.</text>
+	</string>
+	<string id="ls_c_tip_4">
+		<text>Sie kцnnen auf der Karte in ihrem PDA Filter anwenden, um bestimmte Markierungen ein- oder auszublenden. Die Filter-Schaltflдchen befinden sich ьber der Karte unter der aktuellen Missionslinie.</text>
+	</string>
+	<string id="ls_c_tip_55">
+		<text>Artefakte sind in der Regel nicht statisch: Sie neigen dazu, sich in anomalen Bereichen zu bewegen. Jeder ьberstьrzte Versuch, einem Artefakt hinterherzujagen, wird Sie im Handumdrehen in eine Anomalie fьhren.</text>
+	</string>
+	<string id="ls_c_tip_57">
+		<text>Einige Stalker kцnnen Ihnen ihre Dienste anbieten, also Informationen oder exklusive Waren liefern, aber auch Bestellungen fьr bestimmte Artefakte aufgeben.</text>
+	</string>
+	<string id="ls_c_tip_59">
+		<text>Nach einer Emission kцnnen neue Artefakte in anomalen Bereichen auftauchen, die sie bereits untersucht haben.</text>
+	</string>
+	<string id="ls_c_tip_74">
+		<text>Sie kцnnen den Schwierigkeitsgrad des Spiels jederzeit im Spieloptionen-Menь дndern.</text>
+	</string>
+	<string id="ls_c_tip_2">
+		<text>Die Techniker in Stalker-Camps kцnnen Ihre Waffen, Anzьge und Helme aufrьsten.</text>
+	</string>
+	<string id="ls_c_tip_66">
+		<text>Wenn Sie ьberleben wollen, achten Sie stets auf das knisternde Gerдusch des Geigerzдhlers, der Sie vor Strahlung warnt, sowie auf das Anomalie-Gefahrensignal, das Sie darauf hinweist, dass Sie sich in der Nдhe einer Anomalie befinden.</text>
+	</string>
+	<string id="ls_c_tip_26">
+		<text>Ihre Beziehungen zu anderen Menschen wirken sich direkt auf den Preis von Waren und Dienstleistungen aus. Ist die Beziehung gestцrt, kцnnen Sie keinen Rabatt erwarten. Wenn Sie gut miteinander auskommen, ist der Hдndler vielleicht sogar geneigt, Ihnen etwas Besonderes anzubieten.</text>
+	</string>
+	<string id="ls_c_tip_11">
+		<text>Sie kцnnen die Waffen, die Sie finden, entladen, um mehr Munition zu bekommen. Klicken Sie dazu mit $$ACTION_UI_CONTEXT_MENU$$ auf die Waffe in Ihrem Rucksack und wдhlen Sie die entsprechende Aktion aus dem Kontextmenь.</text>
+	</string>
+	<string id="ls_c_tip_100">
+		<text>Drьcken Sie $$ACTION_INVENTORY$$, um in Ihren Rucksack zu schauen.</text>
+	</string>
+	<string id="ls_c_tip_36">
+		<text>Um ein Objekt zu reparieren, mьssen Sie einen Techniker finden und auf „Reparieren“ klicken, sobald Sie das Objekt im Modifikationsbildschirm auswдhlen. Sie kцnnen es auch mit $$ACTION_UI_CONTEXT_MENU$$ anklicken und die entsprechende Aktion aus dem Kontextmenь auswдhlen.</text>
+	</string>
+	<string id="ls_c_tip_81">
+		<text>Die meisten Waffen besitzen standardmдЯig mehrere Feuermodi, weitere kцnnen Sie zusammen mit Modifikationen kaufen. Um zwischen den Feuermodi zu wechseln, drьcken Sie $$ACTION_WPN_FIREMODE_NEXT$$ oder $$ACTION_WPN_FIREMODE_PREV$$.</text>
+	</string>
+	<string id="ls_c_tip_7">
+		<text>Das Profil einer Waffe beeinflusst die Flugbahn der Geschosse, wдhrend die Handhabung darauf hinweist, wie schnell das Visier nach dem Feuern in die Ausgangsposition zurьckkehrt.</text>
+	</string>
+	<string id="ls_c_tip_5">
+		<text>Einige Anzьge kommen mit integrierten Helmen daher. In diesem Fall ist es nicht mцglich, andere Helme zu benutzen.</text>
+	</string>
+	<string id="ls_c_tip_76">
+		<text>Jede Waffe bietet eine einzigartige Kombination aus Genauigkeit, Handhabung, Schaden und Feuerrate, was Ihnen hilft, aus dem breiten Angebot die richtige Wahl zu treffen.</text>
+	</string>
+	<string id="ls_c_tip_51">
+		<text>Die Schussgenauigkeit leidet erheblich, wenn Sie sich bewegen. Stehen Sie still oder ducken Sie sich, um die Genauigkeit zu erhцhen.</text>
+	</string>
+	<string id="ls_c_tip_16">
+		<text>Zu den hдufigsten Gefahren in der Zone gehцrt die Strahlung. Wenn Sie eine zu hohe Dosis abbekommen, kann das Ihrer Gesundheit schaden oder sogar tцdlich enden, wenn Sie sich nicht behandeln lassen.</text>
+	</string>
+	<string id="ls_c_tip_19">
+		<text>Vergessen Sie nicht, etwas Essen einzupacken, wenn Sie sich auf eine lange Tour begeben. Ihre Ausdauer wird spьrbar darunter leiden, wenn Sie unterwegs hungrig werden.</text>
+	</string>
+</string_table>

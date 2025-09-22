@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="hide_from_surge_message">
+		<text>주목! 에미션 시작까지 남은 시간:</text>
+	</string>
+
+	<string id="hide_from_surge_descr_1_a">
+		<text>즉시 근처에 있는 엄폐물로 숨어서 에미션을 피하라.</text>
+	</string>
+
+	<string id="hide_from_surge_descr_2_a">
+		<text>에미션이 진행되는 동안 엄폐물을 떠나지 마라.</text>
+	</string>
+
+	<string id="hide_from_surge_name_1">
+		<text>에미션: 엄폐물을 찾아라.</text>
+	</string>
+
+	<string id="hide_from_surge_name_2">
+		<text>에미션: 엄폐물 뒤에서 대기하라.</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,70 @@
+<w>
+	<background x="0" y="0" width="1024" height="768">
+	    <auto_static x="102" y="0" width="819" height="768" stretch="1">
+		    <texture>ui_inGame2_opt_background</texture>
+	    </auto_static>
+      <auto_static x="253" y="250" width="269" height="176" stretch="1">
+        <texture x="1" y="1" width="335" height="174">ui\video_window</texture>
+      </auto_static>
+      <auto_static x="0" y="0" width="102" height="768" stretch="1">
+		    <texture>ui_inGame2_opt_left_widepanel</texture>
+	    </auto_static>
+	    <auto_static x="921" y="0" width="102" height="768" stretch="1">
+		    <texture>ui_inGame2_opt_right_widepanel</texture>
+	    </auto_static>
+	</background>
+	
+	<background_orbis x="0" y="0" width="1024" height="768" stretch="1">
+		<texture x="0" y="0" width="1920" height="1080">ui\ui_mm_options_back_new</texture>
+	</background_orbis>
+
+	<!-- mtb-anna.galach Start: -->
+	<background_4k x="0" y="0" width="1024" height="768" stretch="1">
+		<texture x="0" y="0" width="3840" height="2160">ui\ui_mm_options_back_new</texture>
+	</background_4k>
+	<!-- mtb-anna.galach End -->
+
+<!-- MTB-Damian.Romanik [JP2-102] Start: Added textures for NX64 in both modes -->
+	<background_nx64 x="0" y="0" width="1024" height="768" stretch="1">
+		<texture x="0" y="0" width="1280" height="720">ui\ui_mm_options_back_nx64</texture>
+	</background_nx64>
+<!-- MTB-Damian.Romanik [JP2-102] End: Added textures for NX64 in both modes -->
+
+	<main_dialog ui_scale_y_offset="5">
+		<dialog x="112" y="274" width="800" height="462" stretch="1">
+			<texture>ui_inGame2_opt_main_window</texture>
+		</dialog>
+
+		<btn_cancel x="196" y="431" width="108" height="26" stretch="1">
+			<text font="letterica18" align="c">ui_mm_cancel</text>
+			<texture>ui_inGame2_Mp_bigbuttone</texture>
+            <text_color>
+                <e r="170" g="170" b="170"/>
+            </text_color>
+		</btn_cancel>
+	</main_dialog>
+
+
+	<challenges>
+		<scroll_v x="-4" y="20" width="800" height="402" right_ident="0" left_ident="0" top_indent="0" bottom_indent="0" vert_interval="0" always_show_scroll="0"/>
+		<item width="800" height="180"/>
+
+		<picture x="21" y="21" width="128" height="128">
+			<texture width="128" height="128">ui\ui_noise</texture>
+		</picture>
+		<name x="154" y="21" width="600" height="21" complex_mode="1">
+			<text font="letterica16" r="215" g="195" b="170" vert_align="t" align="l"></text>
+		</name>
+		<desc x="154" y="43" width="600" height="106" complex_mode="1">
+			<text font="letterica16" r="215" g="195" b="170" vert_align="t" align="l"></text>
+		</desc>
+		<state x="21" y="150" width="700" height="21" complex_mode="1">
+			<text font="letterica16" r="215" g="195" b="170" vert_align="t" align="l">Test</text>
+		</state>
+    </challenges>
+
+	<input_legend x="0" y="720" width="1024" height="50">
+		<scroll_area_margins left="30" right="30" top="0" bottom="0"/>
+		<text align="c" vert_align="c" font="graffiti22" color="ilegendtext"/>
+	</input_legend>
+</w>

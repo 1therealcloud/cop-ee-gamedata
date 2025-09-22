@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="ui_mm_language">
+        <text>언어</text>
+    </string>
+	<string id="ui_mm_language_sound">
+        <text>소리 언어</text>
+    </string>
+   <string id="lang_cze">
+        <text>Čeština</text>
+    </string>
+    <string id="lang_eng">
+        <text>English</text>
+    </string>
+    <string id="lang_fra">
+        <text>Français</text>
+    </string>
+    <string id="lang_ger">
+        <text>Deutsch</text>
+    </string>
+    <string id="lang_ita">
+        <text>Italiano</text>
+    </string>
+    <string id="lang_jpn">
+        <text>日本語 </text>
+    </string>
+    <string id="lang_pol">
+        <text>Polski</text>
+    </string>
+    <string id="lang_rus">
+        <text>Русский</text>
+    </string>
+    <string id="lang_spa">
+        <text>Español</text>
+    </string>
+    <string id="lang_ukr">
+        <text>Українська</text>
+    </string>
+	<string id="lang_kor">
+        <text>한국어 </text>
+    </string>
+	<string id="lang_zh_cn">
+        <text>简体中文 </text>
+    </string>
+	<string id="lang_zh_tw">
+        <text>繁體中文 </text>
+    </string>
+
+	<string id="st_save_uni_travel_pri_to_jup">
+		<text>프리피야티에서 야노우로 이동</text>
+	</string>
+
+	<string id="st_save_uni_travel_pri_to_zat">
+		<text>프리피야티에서 자톤으로 이동</text>
+	</string>
+
+	<string id="st_save_uni_labx8_to_pri">
+		<text>X8에서 프리피야티로 이동</text>
+	</string>
+
+	<string id="st_save_uni_travel_jup_to_pri">
+		<text>야노우에서 프리피야티로 이동</text>
+	</string>
+
+	<string id="st_save_uni_travel_jup_to_zat">
+		<text>야노우에서 자톤으로 이동</text>
+	</string>
+
+	<string id="st_save_uni_travel_zat_to_pri">
+		<text>자톤에서 프리피야티로 이동</text>
+	</string>
+
+	<string id="st_save_uni_travel_zat_to_jup">
+		<text>자톤에서 야노우로 이동</text>
+	</string>
+
+	<string id="st_save_uni_travel_generic">
+		<text>구역 내 이동</text>
+	</string>
+
+	<string id="st_save_jup_b209_placed_mutant_scanner">
+		<text>돌연변이 탐지기</text>
+	</string>
+
+	<string id="st_save_jup_b16_passed_labyrinth">
+		<text>오아시스 발견</text>
+	</string>
+
+	<string id="st_save_pri_b35_ready_to_snipe">
+		<text>일타일피 작전 시작</text>
+	</string>
+
+	<string id="st_save_jup_b6_arrived_to_fen">
+		<text>갈대밭 이상 현상 데이터값</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacutaion_start">
+		<text>프리피야티 대피 실시</text>
+	</string>
+
+	<string id="st_save_jup_a12_gave_artefact_for_hostage">
+		<text>지불한 인질 몸값</text>
+	</string>
+
+	<string id="st_save_pri_a20_found_dead_recon">
+		<text>정찰대 발견</text>
+	</string>
+
+	<string id="st_save_pri_a18_met_reinforcement">
+		<text>증원군 도착</text>
+	</string>
+
+	<string id="st_save_jup_a9_got_underpass_docs">
+		<text>프리피야티로 가는 길 발견</text>
+	</string>
+
+	<string id="st_save_jup_b1_entered_railroad_tunnel">
+		<text>Psi 에미션의 근원을 찾으세요.</text>
+	</string>
+
+	<string id="st_save_jup_b19_arrived_to_kopachy">
+		<text>코파치로 이동 완료</text>
+	</string>
+
+	<string id="st_save_jup_b218_sokolov_in_squad">
+		<text>소콜로프가 분대에 합류</text>
+	</string>
+
+	<string id="st_save_jup_b218_travel_jup_to_pas">
+		<text>분대 형성 완료</text>
+	</string>
+
+	<string id="st_save_zat_b7_met_with_robbers">
+		<text>스토커 공격</text>
+	</string>
+
+	<string id="st_save_jup_b9_searched_heli_1">
+		<text>스팅레이 1 조사 완료</text>
+	</string>
+
+	<string id="st_save_zat_b100_searched_heli_2">
+		<text>스팅레이 2 조사 완료</text>
+	</string>
+
+	<string id="st_save_zat_b28_searched_heli_3">
+		<text>스팅레이 3 조사 완료</text>
+	</string>
+
+	<string id="st_save_jup_b8_searched_heli_4">
+		<text>스팅레이 4 조사 완료</text>
+	</string>
+
+	<string id="st_save_zat_b101_searched_heli_5">
+		<text>스팅레이 5 조사 완료</text>
+	</string>
+
+	<string id="st_save_zat_b14_got_altered_wheel">
+		<text>이상한 발광체 발견</text>
+	</string>
+
+	<string id="st_save_jup_b218_strider_in_squad">
+		<text>스트라이더가 분대에 합류</text>
+	</string>
+
+	<string id="st_save_zat_a23_entered_test_center">
+		<text>테스트 작업장 입장 허가</text>
+	</string>
+
+	<string id="st_save_pri_a17_hospital_start">
+		<text>정체불명의 무기 확보</text>
+	</string>
+
+	<string id="st_save_jup_b218_vano_in_squad">
+		<text>바노가 분대에 합류</text>
+	</string>
+
+	<string id="st_save_jup_a10_gonna_return_debt">
+		<text>바노의 빚 상환 완료</text>
+	</string>
+
+	<string id="st_save_pri_b301_arrived_to_help_zulu">
+		<text>줄루 발견</text>
+	</string>
+
+	<string id="st_save_jup_b15_drunk_with_zulu">
+		<text>줄루가 분대에 합류</text>
+	</string>
+
+	<string id="st_save_pri_a18_searched_antenna">
+		<text>"안테나" 조사 완료</text>
+	</string>
+
+	<string id="st_save_jup_b47_got_admin_docs">
+		<text>행정 문서</text>
+	</string>
+
+	<string id="st_save_jup_b206_got_anomalous_plant">
+		<text>이상 식물 수집 완료</text>
+	</string>
+
+	<string id="st_save_zat_b103_warned_by_mercs">
+		<text>변전소 작업장으로 이동</text>
+	</string>
+
+	<string id="st_save_zat_b40_warned_by_mercs">
+		<text>폐기물 처리장으로 이동</text>
+	</string>
+
+	<string id="st_save_zat_a2_reached_skadovsk">
+		<text>스카도프스크 도착</text>
+	</string>
+
+	<string id="st_save_jup_b217_arrived_to_jup">
+		<text>야노우 도착</text>
+	</string>
+
+	<string id="st_save_uni_travel_pas_to_pri">
+		<text>프리피야티 도착</text>
+	</string>
+
+	<string id="st_save_pas_b400_underpass_start">
+		<text>지하도 도착</text>
+	</string>
+
+	<string id="st_save_jup_b6_arrived_to_ash_heap">
+		<text>잿더미 이상 현상 데이터값</text>
+	</string>
+
+	<string id="st_save_zat_a1_game_start">
+		<text>게임 시작</text>
+	</string>
+
+	<string id="st_save_zat_b38_met_with_grouse">
+		<text>블러드서커 소굴</text>
+	</string>
+
+	<string id="st_save_zat_b33_got_container">
+		<text>은닉처 안에서 수납 공간 발견</text>
+	</string>
+
+	<string id="st_save_pri_a21_killed_controller">
+		<text>파수꾼 근처의 컨트롤러 사살</text>
+	</string>
+
+	<string id="st_save_zat_b42_arrived_to_controler_lair">
+		<text>위험한 동굴</text>
+	</string>
+
+	<string id="st_save_pri_a22_found_dead_squad">
+		<text>죽은 병사 발견</text>
+	</string>
+
+	<string id="st_save_zat_b5_met_with_others">
+		<text>산림 관리소의 거래</text>
+	</string>
+
+	<string id="st_save_jup_b207_arrived_to_duty_depot">
+		<text>듀티 창고</text>
+	</string>
+
+	<string id="st_save_uni_surge_start">
+		<text>에미션</text>
+	</string>
+
+	<string id="st_save_pri_a25_gonna_place_explosive">
+		<text>유치원 입구</text>
+	</string>
+
+	<string id="st_save_pri_a28_talked_with_ssu">
+		<text>본부와 통신 개시</text>
+	</string>
+
+	<string id="st_save_uni_zone_to_reality">
+		<text>대피 성공</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacuation_heli">
+		<text>대피 헬리콥터 이륙</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacuation_end">
+		<text>대피 헬리콥터 도착</text>
+	</string>
+
+	<string id="st_save_zat_a23_got_gauss_docs">
+		<text>가우스 소총 문서 발견</text>
+	</string>
+
+	<string id="st_save_zat_b18_noah_showed_teleport">
+		<text>고원을 향해</text>
+	</string>
+
+	<string id="st_save_jup_a12_met_with_liberators">
+		<text>인질이 풀려났습니다.</text>
+	</string>
+
+	<string id="st_save_zat_b106_arrived_to_chimera_lair">
+		<text>키메라 사냥</text>
+	</string>
+
+	<string id="st_save_pri_a16_arrived_to_pri">
+		<text>군대 위치 파악 완료</text>
+	</string>
+
+	<string id="st_save_pri_a25_freed_medic">
+		<text>군 의무병 구출 완료</text>
+	</string>
+
+	<string id="st_save_pri_a21_approached_mad_sentry">
+		<text>실종된 파수꾼 발견</text>
+	</string>
+
+	<string id="st_ui_health_sensor_utf8">
+		<text>체력</text>
+	</string>
+
+	<string id="st_level_utf8">
+		<text>레벨</text>
+	</string>
+
+	<string id="ui_inv_time_utf8">
+		<text>시간</text>
+	</string>
+
+	<string id="zaton_utf8">
+		<text>자톤</text>
+	</string>
+
+	<string id="jupiter_utf8">
+		<text>주피터 인근 지역</text>
+	</string>
+
+	<string id="jupiter_underground_utf8">
+		<text>프리피야티 제1 지하도</text>
+	</string>
+
+	<string id="pripyat_utf8">
+		<text>프리피야티</text>
+	</string>
+
+	<string id="labx8_utf8">
+		<text>X8 연구소</text>
+	</string>
+
+	<string id="ui_mainmenu_autosave_utf8">
+		<text>자동 저장 - </text>
+	</string>
+
+	<string id="ui_mainmenu_manualsave_utf8">
+		<text>수동 저장 - </text>
+	</string>
+
+	<string id="ui_mainmenu_quicksave_utf8">
+		<text>빠른 저장 - </text>
+	</string>
+
+	<string id="ui_mmenu_new_savegame_utf8">
+		<text>신규 저장 게임</text>
+	</string>
+
+	<string id="ui_mmenu_no_savegames_utf8">
+		<text>저장 게임 없음</text>
+	</string>
+
+	<string id="st_game_saved_utf8">
+		<text>게임 저장 완료</text>
+	</string>
+
+	<string id="month_january_utf8">
+		<text>1월</text>
+	</string>
+
+	<string id="month_february_utf8">
+		<text>2월</text>
+	</string>
+
+	<string id="month_march_utf8">
+		<text>3월</text>
+	</string>
+
+	<string id="month_april_utf8">
+		<text>4월</text>
+	</string>
+
+	<string id="month_may_utf8">
+		<text>5월</text>
+	</string>
+
+	<string id="month_june_utf8">
+		<text>6월</text>
+	</string>
+
+	<string id="month_july_utf8">
+		<text>7월</text>
+	</string>
+
+	<string id="month_august_utf8">
+		<text>8월</text>
+	</string>
+
+	<string id="month_september_utf8">
+		<text>9월</text>
+	</string>
+
+	<string id="month_october_utf8">
+		<text>10월</text>
+	</string>
+
+	<string id="month_november_utf8">
+		<text>11월</text>
+	</string>
+
+	<string id="month_december_utf8">
+		<text>12월</text>
+	</string>
+
+	<string id="ui_modio_nomemory_utf8">
+		<text>저장 공간이 부족해 설치할 수 없습니다.</text>
+	</string>
+	
+	<string id="ui_mm_modio_error">
+		<text>발생한 Mod.io 에러(코드 포함):\n</text>
+	</string>
+	<string id="ui_mm_modio_error_space">
+		<text>수정본을 설치할 메모리 부족:\n</text>
+	</string>
+	<string id="ui_mm_modio_error_video">
+		<text>경고! 설치된 수정본에는 대량의 비디오 메모리가 필요합니다. 게임이 불안정할 수 있습니다</text>
+	</string>
+
+</string_table>

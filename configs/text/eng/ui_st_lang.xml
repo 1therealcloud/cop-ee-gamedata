@@ -1,0 +1,424 @@
+<?xml version='1.0' encoding='utf-8'?>
+<string_table>
+	<string id="ui_mm_language">
+        <text>Language</text>
+    </string>
+	<string id="ui_mm_language_sound">
+        <text>Sound Language</text>
+    </string>
+   <string id="lang_cze">
+        <text>Čeština</text>
+    </string>
+    <string id="lang_eng">
+        <text>English</text>
+    </string>
+    <string id="lang_fra">
+        <text>Français</text>
+    </string>
+    <string id="lang_ger">
+        <text>Deutsch</text>
+    </string>
+    <string id="lang_ita">
+        <text>Italiano</text>
+    </string>
+    <string id="lang_jpn">
+        <text>日本語 </text>
+    </string>
+    <string id="lang_pol">
+        <text>Polski</text>
+    </string>
+    <string id="lang_rus">
+        <text>Русский</text>
+    </string>
+    <string id="lang_spa">
+        <text>Español</text>
+    </string>
+    <string id="lang_ukr">
+        <text>Українська</text>
+    </string>
+	<string id="lang_kor">
+		<text>한국어 </text>
+	</string>
+	<string id="lang_zh_cn">
+		<text>简体中文 </text>
+	</string>
+	<string id="lang_zh_tw">
+		<text>繁體中文 </text>
+	</string>
+	<string id="st_ui_health_sensor_utf8">
+		<text>Health</text>
+	</string>
+
+	<string id="st_level_utf8">
+		<text>Level</text>
+	</string>
+
+	<string id="ui_inv_time_utf8">
+		<text>Time</text>
+	</string>
+
+	<string id="zaton_utf8">
+		<text>Zaton</text>
+	</string>
+
+	<string id="jupiter_utf8">
+		<text>The area around Jupiter</text>
+	</string>
+
+	<string id="jupiter_underground_utf8">
+		<text>Prypiat 1 underpass</text>
+	</string>
+
+	<string id="pripyat_utf8">
+		<text>Prypiat</text>
+	</string>
+
+	<string id="labx8_utf8">
+		<text>Laboratory X8</text>
+	</string>
+
+	<string id="ui_mainmenu_autosave_utf8">
+		<text>Autosave - </text>
+	</string>
+
+	<string id="ui_mainmenu_manualsave_utf8">
+		<text>Manual Save - </text>
+	</string>
+
+	<string id="ui_mainmenu_quicksave_utf8">
+		<text>Quicksave - </text>
+	</string>
+
+	<string id="ui_mmenu_new_savegame_utf8">
+		<text>New savegame</text>
+	</string>
+
+	<string id="ui_mmenu_no_savegames_utf8">
+		<text>No savegames</text>
+	</string>
+
+	<string id="st_game_saved_utf8">
+		<text>Game saved</text>
+	</string>
+
+	<string id="month_january_utf8">
+		<text>January</text>
+	</string>
+
+	<string id="month_february_utf8">
+		<text>February</text>
+	</string>
+
+	<string id="month_march_utf8">
+		<text>March</text>
+	</string>
+
+	<string id="month_april_utf8">
+		<text>April</text>
+	</string>
+
+	<string id="month_may_utf8">
+		<text>May</text>
+	</string>
+
+	<string id="month_june_utf8">
+		<text>June</text>
+	</string>
+
+	<string id="month_july_utf8">
+		<text>July</text>
+	</string>
+
+	<string id="month_august_utf8">
+		<text>August</text>
+	</string>
+
+	<string id="month_september_utf8">
+		<text>September</text>
+	</string>
+
+	<string id="month_october_utf8">
+		<text>October</text>
+	</string>
+
+	<string id="month_november_utf8">
+		<text>November</text>
+	</string>
+
+	<string id="month_december_utf8">
+		<text>December</text>
+	</string>
+
+	<string id="st_save_uni_travel_generic">
+		<text>moving within an area</text>
+	</string>
+
+	<string id="st_save_uni_travel_zat_to_jup">
+		<text>moving from Zaton to Yaniv</text>
+	</string>
+
+	<string id="st_save_uni_travel_zat_to_pri">
+		<text>moving from Zaton to Prypiat</text>
+	</string>
+
+	<string id="st_save_uni_travel_jup_to_zat">
+		<text>moving from Yaniv to Zaton</text>
+	</string>
+
+	<string id="st_save_uni_travel_jup_to_pri">
+		<text>moving from Yaniv to Prypiat</text>
+	</string>
+
+	<string id="st_save_uni_travel_pri_to_zat">
+		<text>moving from Prypiat to Zaton</text>
+	</string>
+
+	<string id="st_save_uni_travel_pri_to_jup">
+		<text>moving from Prypiat to Yaniv</text>
+	</string>
+
+	<string id="st_save_uni_pri_to_labx8">
+		<text>moving from Prypiat to X8</text>
+	</string>
+
+	<string id="st_save_uni_labx8_to_pri">
+		<text>moving from X8 to Prypiat</text>
+	</string>
+
+	<string id="st_save_uni_surge_start">
+		<text>emission</text>
+	</string>
+
+	<string id="st_save_zat_a1_game_start">
+		<text>beginning of the game</text>
+	</string>
+
+	<string id="st_save_zat_a2_reached_skadovsk">
+		<text>arrival at the Skadovsk</text>
+	</string>
+
+	<string id="st_save_jup_b9_searched_heli_1">
+		<text>Stingray 1 examined</text>
+	</string>
+
+	<string id="st_save_zat_b100_searched_heli_2">
+		<text>Stingray 2 examined</text>
+	</string>
+
+	<string id="st_save_zat_b28_searched_heli_3">
+		<text>Stingray 3 examined</text>
+	</string>
+
+	<string id="st_save_jup_b8_searched_heli_4">
+		<text>Stingray 4 examined</text>
+	</string>
+
+	<string id="st_save_zat_b101_searched_heli_5">
+		<text>Stingray 5 examined</text>
+	</string>
+
+	<string id="st_save_zat_b18_noah_showed_teleport">
+		<text>getting to the plateau</text>
+	</string>
+
+	<string id="st_save_jup_b217_arrived_to_jup">
+		<text>arrival at Yaniv</text>
+	</string>
+
+	<string id="st_save_jup_a9_got_underpass_docs">
+		<text>road to Prypiat found</text>
+	</string>
+
+	<string id="st_save_jup_b15_drunk_with_zulu">
+		<text>Zulu joins the squad</text>
+	</string>
+
+	<string id="st_save_jup_a10_gonna_return_debt">
+		<text>Vano’s debt repaid</text>
+	</string>
+
+	<string id="st_save_jup_b218_vano_in_squad">
+		<text>Vano joins the squad</text>
+	</string>
+
+	<string id="st_save_jup_b206_got_anomalous_plant">
+		<text>anomalous plant collected</text>
+	</string>
+
+	<string id="st_save_jup_b218_sokolov_in_squad">
+		<text>Sokolov joins the squad</text>
+	</string>
+
+	<string id="st_save_jup_b218_strider_in_squad">
+		<text>Strider joins the squad</text>
+	</string>
+
+	<string id="st_save_jup_b218_travel_jup_to_pas">
+		<text>squad assembled</text>
+	</string>
+
+	<string id="st_save_pas_b400_underpass_start">
+		<text>arrival in the underpass</text>
+	</string>
+
+	<string id="st_save_uni_travel_pas_to_pri">
+		<text>arrival in Prypiat</text>
+	</string>
+
+	<string id="st_save_pri_a16_arrived_to_pri">
+		<text>military forces located</text>
+	</string>
+
+	<string id="st_save_pri_a17_hospital_start">
+		<text>unidentified weapon captured</text>
+	</string>
+
+	<string id="st_save_pri_a20_found_dead_recon">
+		<text>recon squad found</text>
+	</string>
+
+	<string id="st_save_pri_a18_met_reinforcement">
+		<text>reinforcements arrived</text>
+	</string>
+
+	<string id="st_save_pri_a18_searched_antenna">
+		<text>“antenna” examined</text>
+	</string>
+
+	<string id="st_save_pri_a21_approached_mad_sentry">
+		<text>missing sentry found</text>
+	</string>
+
+	<string id="st_save_pri_a21_killed_controller">
+		<text>controller near sentry killed</text>
+	</string>
+
+	<string id="st_save_zat_a23_entered_test_center">
+		<text>testing workshop accessed</text>
+	</string>
+
+	<string id="st_save_zat_a23_got_gauss_docs">
+		<text>Gauss rifle documentation found</text>
+	</string>
+
+	<string id="st_save_pri_a22_found_dead_squad">
+		<text>dead fighter found</text>
+	</string>
+
+	<string id="st_save_pri_a25_gonna_place_explosive">
+		<text>entry to the kindergarten</text>
+	</string>
+
+	<string id="st_save_pri_a25_freed_medic">
+		<text>military medic rescued</text>
+	</string>
+
+	<string id="st_save_pri_a28_talked_with_ssu">
+		<text>established communications with HQ</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacutaion_start">
+		<text>Prypiat evacuation initiated</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacuation_end">
+		<text>evacuation helicopters reached</text>
+	</string>
+
+	<string id="st_save_uni_zone_to_reality">
+		<text>evacuation complete</text>
+	</string>
+
+	<string id="st_save_jup_b209_placed_mutant_scanner">
+		<text>mutant detector</text>
+	</string>
+
+	<string id="st_save_jup_a12_gave_artefact_for_hostage">
+		<text>ransom paid for hostage</text>
+	</string>
+
+	<string id="st_save_jup_a12_met_with_liberators">
+		<text>hostage freed</text>
+	</string>
+
+	<string id="st_save_jup_b6_arrived_to_ash_heap">
+		<text>Ash Heap anomaly measurements</text>
+	</string>
+
+	<string id="st_save_jup_b6_arrived_to_fen">
+		<text>Plavni anomaly measurements</text>
+	</string>
+
+	<string id="st_save_zat_b38_met_with_grouse">
+		<text>bloodsucker lair</text>
+	</string>
+
+	<string id="st_save_jup_b19_arrived_to_kopachy">
+		<text>sent to Kopachi</text>
+	</string>
+
+	<string id="st_save_zat_b40_warned_by_mercs">
+		<text>approach to the waste processing station</text>
+	</string>
+
+	<string id="st_save_zat_b7_met_with_robbers">
+		<text>stalker hit</text>
+	</string>
+
+	<string id="st_save_zat_b33_got_container">
+		<text>container found in stash</text>
+	</string>
+
+	<string id="st_save_zat_b106_arrived_to_chimera_lair">
+		<text>hunting the chimera</text>
+	</string>
+
+	<string id="st_save_jup_b16_passed_labyrinth">
+		<text>Oasis found</text>
+	</string>
+
+	<string id="st_save_pri_b35_ready_to_snipe">
+		<text>Operation One Shot initiated</text>
+	</string>
+
+	<string id="st_save_jup_b1_entered_railroad_tunnel">
+		<text>search for the psy-emission source</text>
+	</string>
+
+	<string id="st_save_jup_b47_got_admin_docs">
+		<text>administrative documents</text>
+	</string>
+
+	<string id="st_save_zat_b103_warned_by_mercs">
+		<text>approach to the substation workshop</text>
+	</string>
+
+	<string id="st_save_zat_b5_met_with_others">
+		<text>deal by the ranger station</text>
+	</string>
+
+	<string id="st_save_jup_b207_arrived_to_duty_depot">
+		<text>Duty warehouse</text>
+	</string>
+
+	<string id="st_save_zat_b14_got_altered_wheel">
+		<text>strange glow source found</text>
+	</string>
+
+	<string id="st_save_pri_b301_arrived_to_help_zulu">
+		<text>Zulu found</text>
+	</string>
+
+	<string id="st_save_zat_b42_arrived_to_controler_lair">
+		<text>dangerous cave</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacuation_heli">
+		<text>evacuation helicopter take-off</text>
+	</string>
+
+	<string id="ui_modio_nomemory_utf8">
+		<text>Unable to install modification! There is no free space</text>
+	</string>
+
+</string_table>

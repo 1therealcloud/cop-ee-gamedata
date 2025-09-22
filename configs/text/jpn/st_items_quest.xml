@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="jup_a9_conservation_info">
+		<text>メモ付き書類</text>
+	</string>
+	<string id="jup_a9_conservation_info_desc">
+		<text>書類は第一部門の命令に応じて記述される。輸送ロックの密閉に続いて、プリピャチ第一地下道はある種類の化学添加物と混じり合った二酸化炭素で充満した。その結果として、すべてのスタッフは、閉サイクル呼吸モジュール付きの化学防護服を着用するように命じられた。</text>
+	</string>
+	<string id="jup_a9_delivery_info">
+		<text>アイテム62の配送に関係する手紙</text>
+	</string>
+	<string id="jup_a9_delivery_info_desc">
+		<text>「アノマリーの活動により、地上でのアイテム62の輸送は実現可能ではない。地下のプリピャチ第一地下道を、配送に使用すること。配送およびその後の地下道密閉の計画は第一部門へ送られた。」</text>
+	</string>
+	<string id="jup_a9_evacuation_info">
+		<text>命令の入ったフォルダ</text>
+	</string>
+	<string id="jup_a9_evacuation_info_desc">
+		<text>書類は、ジュピタープラントから地下研究所への生産複合施設の撤退に言及している。この問題は、研究所セクションで議論されることになっていた。</text>
+	</string>
+	<string id="jup_a9_losses_info">
+		<text>配送予定表</text>
+	</string>
+	<string id="jup_a9_losses_info_desc">
+		<text>「アイテム62の配達のためのスケジュール。07/14：20ユニット（破損1）、07/21：32ユニット（破損2）、07/28：26ユニット（破損1）。途中の損失に関する貨物運送状は、修理工場に送られたコピーと共にプラント管理部に送られた。」</text>
+	</string>
+	<string id="jup_a9_meeting_info">
+		<text>ノートパソコン・シート</text>
+	</string>
+	<string id="jup_a9_meeting_info_desc">
+		<text>会議で次の決定が下された：配送部門は、アイテム62用の生産複合施設を撤退させることに専念する。</text>
+	</string>
+	<string id="jup_a9_power_info">
+		<text>デューティー変更ログ</text>
+	</string>
+	<string id="jup_a9_power_info_desc">
+		<text>「…18:30 - P-1地下道の全セクションの気密密閉を完了。19:00 - 鉄道ロック・ドアの気密密閉を完了。ドアを密閉するために溶接を使用しなければならなかった。19:45 - 輸送ロック・ドアを閉じる。地下道へのパワーがすでにカットされており、ロック・ドア・メカニズムの作業は補助発電機の稼働を要求した。20:00 - 化学工場で、地下道のガス充満を開始。22:00 - 地下道を密閉する仕事を完了し、第一部門へすべての書類を送り終了した。」</text>
+	</string>
+	<string id="jup_a9_way_info">
+		<text>地下道概略図</text>
+	</string>
+	<string id="jup_a9_way_info_desc">
+		<text>プリピャチ第一地下道概略図。地下道がプリピャチの町の下にあることを示している。書類はいくつかのメモを持っている。その1：輸送ロック・ドアを密閉。その2：地下道を密閉するために化学工場からのガスを使用。</text>
+	</string>
+	<string id="jup_b1_half_artifact">
+		<text>変化した絶縁体</text>
+	</string>
+	<string id="jup_b1_half_artifact_descr">
+		<text>これはかつては絶縁体だった。それは不安定アーティファクトにほぼ変わっている。おそらく周期的プサイ放射の源になっている。</text>
+	</string>
+	<string id="jup_b200_tech_materials_acetone">
+		<text>コロホニウムの缶</text>
+	</string>
+	<string id="jup_b200_tech_materials_acetone_descr">
+		<text>コロホニウムの缶は、はんだ付けに使用される。ゾーンでは稀なもので、そのため故障した設備を修理するために、地元の技術者はよく青い電気テープを使用する。</text>
+	</string>
+	<string id="jup_b200_tech_materials_capacitor">
+		<text>コンデンサーのパック</text>
+	</string>
+	<string id="jup_b200_tech_materials_capacitor_descr">
+		<text>コンデンサーのパック は、基本的な電気部品のひとつ。先端技術の装置の改良に使用されるが、ゾーンにはよくあるもので、通常は備蓄の必要はない。</text>
+	</string>
+	<string id="jup_b200_tech_materials_textolite">
+		<text>テクストライト・ベース</text>
+	</string>
+	<string id="jup_b200_tech_materials_textolite_descr">
+		<text>テクストライトはプリント基板の主要部品のひとつ。手をつけてないテクストライト・ベースに対するアマチュア無線技術者の感情は、真っ白の紙に対する作家の感情に似ている。</text>
+	</string>
+	<string id="jup_b200_tech_materials_transistor">
+		<text>トランジスター・ボックス</text>
+	</string>
+	<string id="jup_b200_tech_materials_transistor_descr">
+		<text>トランジスター・ボックスは、電気的な振動を生成し、変形して増幅する半導体。トランジスターはゾーンでのすべての無線技術者の夢である。</text>
+	</string>
+	<string id="jup_b200_tech_materials_wire">
+		<text>銅線ロール</text>
+	</string>
+	<string id="jup_b200_tech_materials_wire_descr">
+		<text>銅線ロールは、優れた伝導体で同時にベース・メタルの源。後者のためには、そのようなワイヤーはゾーンで非常に稀である。このワイヤーの埋蔵量はすべて、90年代に見つかって溶かされ、リサイクリング・センターに運ばれた。</text>
+	</string>
+	<string id="jup_b209_monster_scanner">
+		<text>ミュータント検出スキャナ</text>
+	</string>
+	<string id="jup_b209_monster_scanner_descr">
+		<text>普通のアノマリーの活動スキャナを基に、制限範囲ミュータント検出センサーと結果記録用コンポーネントを組み合わせた装置。ある量のデータが集められると作動する、自動終了スイッチを装備している。</text>
+	</string>
+	<string id="jup_b47_jupiter_products_info">
+		<text>管理書類</text>
+	</string>
+	<string id="jup_b47_jupiter_products_info_descr">
+		<text>管理上の情報のみが入っている書類のフォルダ。中央研究所からの命令に応じての書類。アイテム62に関係する技術資料はテスト工場に渡された。</text>
+	</string>
+	<string id="jup_b47_merc_pda">
+		<text>ブラックのPDA</text>
+	</string>
+	<string id="jup_b47_merc_pda_desc">
+		<text>その中で、ひとつのメッセージが目立っている。送信者はジャッカルと呼ばれ、そのメッセージは、「研究所の彼は、君に遠征隊を率いるように勧めるだろう。彼はトーチカを警護するために、君の兵士を雇わなければならなくなる。それは、君にとって事態をより簡単にする。クライアントは、科学者に届く“X”作戦に関するいかなる情報も求めていないことを覚えておいてくれ。それがされた場合、我々はゾーンを去ることができなくなる。ブラック、がっかりさせないでくれ。」</text>
+	</string>
+	<string id="jup_b9_blackbox">
+		<text>ブラックボックス</text>
+	</string>
+	<string id="jup_b9_blackbox_descr">
+		<text>墜落から残存したスティングレイ1号機のブラックボックス。暗号化されたフォーマットだが、それは飛行の最後の瞬間の詳細を含んでいるはず。</text>
+	</string>
+	<string id="pri_a25_explosive_charge_descr">
+		<text>軍用クラス5秒タイマー付プラスチック爆弾。</text>
+	</string>
+	<string id="pri_a25_explosive_name">
+		<text>タイマー付爆弾</text>
+	</string>
+	<string id="st_af_quest_b14_twisted">
+		<text>取替えホイール</text>
+	</string>
+	<string id="st_device_flash_snag">
+		<text>スナグのPDA</text>
+	</string>
+	<string id="st_device_flash_snag_descr">
+		<text>PDAにはエロチックな写真と一緒に無人駅がマークされ、はっきりと隠し場所を示している。何も特別のものではない。</text>
+	</string>
+	<string id="st_device_pda_port_bandit_leader">
+		<text>バンディットのPDA</text>
+	</string>
+	<string id="st_device_pda_port_bandit_leader_descr">
+		<text>PDAにある最後のメッセージ：「スナグの奴を捕らえて、俺のところに連れて来てくれ。はっきり言って、奴がどこにいてもよく、ただ見つけてくれるのでもいい。奴が戦いを続けるなら、レッスンをしてやる。サルタン。」</text>
+	</string>
+	<string id="st_device_pda_zat_b5_dealer_desc">
+		<text>このPDAにはモーガンのクライアントの詳細があり、彼が武器を奪ったデューティーの秘密倉庫の座標も入っている。その後、モーガンは傭兵およびサルタンと呼ばれる誰かとも接触し、武器を売った。証拠を隠すために、モーガンはフリーダムに倉庫の位置を漏らすことを決めた。共犯者のブルチャーが、この情報を伝えることになっていた。PDAには、さらにモーガンだけが切ることができる警報システムについて書かれている。隠し場所が開かれると、警報システムでデューティーに通報される。この情報は、デューティーとフリーダムの両方に興味を持たれている。</text>
+	</string>
+	<string id="st_device_pda_zat_b5_dealer_name">
+		<text>モーガンのPDA</text>
+	</string>
+	<string id="st_jup_b10_notes_01_desc">
+		<text>古い書類の最後にあるメモ：「ゴーストへ、私的なことを書いておく。アサルトライフルを感謝する。俺はそれが必要となるだろう。交換に、ドクターの医療品のいくつかを渡そう。俺は後をつけていた傭兵をやっつけたので、俺にはもうそれは必要ないと思う。俺はこれからファングと会うつもりだ。彼は解読したのだ。うまくやれれば、いつもの場所で会おう。ストレロク」</text>
+	</string>
+	<string id="st_jup_b10_notes_01_name">
+		<text>ゴーストへのメモ</text>
+	</string>
+	<string id="st_jup_b10_notes_02_desc">
+		<text>チェック模様の紙のメモ：「ストレロクへ、俺は用心して我々のプリピャチの隠し場の中に、別の解読コードを残した。俺とゴーストはアフロプロムに向かうので、ここに余分な弾薬を残しておく。必要なら、それを使ってくれ。良い狩猟を！ファング」</text>
+	</string>
+	<string id="st_jup_b10_notes_02_name">
+		<text>ストレロクへのメモ</text>
+	</string>
+	<string id="st_jup_b10_notes_03_desc">
+		<text>古い書類の最後にあるメモ：「ファングへ。もうあんたを待っていられない。俺は全部の部隊に追われている。独りで石棺に行く。ここに良い銃を残しておく。そのための弾薬を多く持っていないのだ。俺が戻らなければ、ゴーストにそれを与えてくれ。彼が銃を持てば、その銃が助けになるはずだ。気を付けるんだ。ストレロク」</text>
+	</string>
+	<string id="st_jup_b10_notes_03_name">
+		<text>ファングへのメモ</text>
+	</string>
+	<string id="st_jup_b10_ufo_memory_2_desc">
+		<text>無人航空機からのメモリー・モジュール。ノビコフは無人航空機が集めた情報へのアクセスを認めて、モジュールの障害を取り除いた。特にそれには、3つの無線ビーコンの座標が入っている。</text>
+	</string>
+	<string id="st_jup_b10_ufo_memory_2_name">
+		<text>メモリー・モジュール（障害除去済み）</text>
+	</string>
+	<string id="st_jup_b10_ufo_memory_desc">
+		<text>無人航空機からのメモリー・モジュール。墜落にもかかわらず、モジュールは完全に使用可能。しかし、不運にも障害がある。</text>
+	</string>
+	<string id="st_jup_b10_ufo_memory_name">
+		<text>メモリー・モジュール（障害あり）</text>
+	</string>
+	<string id="st_jup_b205_sokolov_note_desc">
+		<text>歩哨業務スケジュールの古いシート、下にNo.1421とある。マーカーを使用して書かれた古いメモ：「ヘリの墜落の後、撤退ポイントB205に移った。撤退は2日間試みられず、また、この位置に残ることは危険だ。B205を去り、モバイル化学研究所へ行くことに決めた。研究所は撤退ポイントの北東に位置する。」</text>
+	</string>
+	<string id="st_jup_b205_sokolov_note_name">
+		<text>ソコロフのメモ</text>
+	</string>
+	<string id="st_jup_b206_plant_desc">
+		<text>アノマリー活動によって部分的に変形した森の部分にある植物。森は攻撃的な侵入に反応するが、植物はそれほど危険に見えない。</text>
+	</string>
+	<string id="st_jup_b206_plant_name">
+		<text>怪奇植物</text>
+	</string>
+	<string id="st_jup_b207_merc_pda_with_contract_desc">
+		<text>PDAに受け取られた、モーガンからの最後のメッセージ。基本的に、デグチャレフと呼ばれるストーカーの暗殺の契約。メッセージにはいくつかの写真が添付されている。モーガンの最終指示は、読んだ後にメッセージを削除すること。</text>
+	</string>
+	<string id="st_jup_b207_merc_pda_with_contract_name">
+		<text>傭兵のPDA</text>
+	</string>
+	<string id="st_jup_b32_scanner_device_desc">
+		<text>この容器には、アーティファクト検出器、バッテリーおよび強力な発信機が組み合わされている。装置はアノマリーをスキャンして、現われるアーティファクトの数およびタイプを抽出する。この情報はすべて、科学者のトーチカへ自動的に中継される。</text>
+	</string>
+	<string id="st_jup_b32_scanner_device_name">
+		<text>アノマリー活動スキャナ</text>
+	</string>
+	<string id="st_jup_b46_duty_founder_pda_desc">
+		<text>PDAに最後に入力されたオーディオ録音：\n「…我々は、どちらの方向へ行っても、常にまったく同じ場所に出る。まだ、この霧に慣れることができない。…チェプルニが跡も残さず消えたことは不思議だ。おそらく、彼は出口を見つけたのでは…？\n6日目、…水を使い果たした…。大佐は自制心をなくし、射程内の2人を撃ち、そして自分自身も撃った…。今は俺自身も、このひどいアノマリーの中にいる…。もし司令部との交信を損なわなかったら、我々を救出できただろうに…。そして、デューティーの存在もなかっただろう。事態がどのようになっていたかと思う…、ああ。あのタチェンコ大尉はずっと前に死んだ…。そして、このデューティーのタチェンコ将軍も彼に続くだろう…。それで公平だと思う…。」\n発射音がした後、録音が終了している。</text>
+	</string>
+	<string id="st_jup_b46_duty_founder_pda_name">
+		<text>タチェンコ将軍のPDA</text>
+	</string>
+	<string id="st_lx8_service_instruction_descr">
+		<text>マニュアルには、アイテム62を使用する方法について書かれている。その指示では、武器の有効距離内では、弾丸軌道あるいは風のために調節を行う必要はなくて、重要でないことが強調されている。\nこれらの書類はUSS銃兵隊のアナリストが大きな興味を持つもので、他人の手に渡ってはならない。</text>
+	</string>
+	<string id="st_lx8_service_instruction_name">
+		<text>アイテム62のマニュアル</text>
+	</string>
+	<string id="st_pri_a19_american_experiment_info_descr">
+		<text>ノートパソコンには、プサイフィールドの別の半球のオブジェクトに対する影響を考察する実験の詳細な記述がある。カリブ海の科学者グループがその信号を受け取ったが、それは歪んでいた。あたかも誰かによって修正されたかのように、信号は奇妙な方法で変更されていた。説明がつくのはノウアスフィアの場合で、その変更はノウアスフィアによって行なわれたのだろう。\nこれらの書類はUSS銃兵隊のアナリストが大きな興味を持つもので、他人の手に渡ってはならない。</text>
+	</string>
+	<string id="st_pri_a19_american_experiment_info_name">
+		<text>実験の記述があるノートパソコン</text>
+	</string>
+	<string id="st_pri_a19_lab_x10_info_descr">
+		<text>書類には、アンテナの技術特性、およびそれらが計画された値からどれくらい逸脱するかについて書かれている。裏側にはメモがあり、これらの書類がX10研究所で準備されたことが示されている。\nこれらの書類はUSS銃兵隊のアナリストが大きな興味を持つもので、他人の手に渡ってはならない。</text>
+	</string>
+	<string id="st_pri_a19_lab_x10_info_name">
+		<text>レインボウ・エミッター：主な技術特性</text>
+	</string>
+	<string id="st_pri_a19_lab_x16_info_descr">
+		<text>書類には、研究の側面的な発見のひとつ、特に生きたクリーチャーがPSY光熱放射を生成できるという発見が書かれている。生物学分野のエミッター、つまり本質的には巨大な脳が、X16研究所の中でされた研究の一部として育てられた。\nこれらの書類はUSS銃兵隊のアナリストが大きな興味を持つもので、他人の手に渡ってはならない。</text>
+	</string>
+	<string id="st_pri_a19_lab_x16_info_name">
+		<text>研究書類</text>
+	</string>
+	<string id="st_pri_a19_lab_x18_info_descr">
+		<text>その報告書には、X18研究所から送られた生体サンプルに関する研究が詳しく書かれている。サンプルは強度を変えられる情報電界効果に置かれた。その報告書は、放射に接触後の生物の変化について細かく記述されている。\nこれらの書類はUSS銃兵隊のアナリストが大きな興味を持つもので、他人の手に渡ってはならない。</text>
+	</string>
+	<string id="st_pri_a19_lab_x18_info_name">
+		<text>サンプルに関する研究の報告書</text>
+	</string>
+	<string id="st_pri_a19_lab_x7_info_descr">
+		<text>書類は、X7と呼ばれる別の研究所への調査チーム、およびすべての材料の移送に関係することである。材料は知識集積の影響に関係のある問題を研究するために使用される。調査チームには次の者たちがいる：N.A.レーベジェフ、E.F.カランチャ、およびV.I.スースロフ。\nこれらの書類はUSS銃兵隊のアナリストが大きな興味を持つもので、他人の手に渡ってはならない。</text>
+	</string>
+	<string id="st_pri_a19_lab_x7_info_name">
+		<text>輸送命令書</text>
+	</string>
+	<string id="st_pri_b306_envoy_pda_desc">
+		<text>PDAの最後のメモ：「6階の技術フロアで、非常用発電機を見つけた。再起動するのに2時間かかった。スイッチを入れたかったが、セルビンに、彼が何人かの人々を連れてくるまで動かさないように命じられた。」</text>
+	</string>
+	<string id="st_pri_b306_envoy_pda_name">
+		<text>バルチュクのPDA</text>
+	</string>
+	<string id="st_pri_b35_lab_x8_key_desc">
+		<text>X8とマークされた赤い磁気カードキー。</text>
+	</string>
+	<string id="st_pri_b35_lab_x8_key_name">
+		<text>赤いX8カードキー</text>
+	</string>
+	<string id="st_pri_b36_monolith_hiding_place_pda_desc">
+		<text>このPDAには多くの無意味な入力があるが、目立つものがひとつある：「モノリスはメッセージの受取人と通信している。余分の弾薬を集め、信じない人々に知られていない場所にそれを在庫するように彼に命じている。これらの位置はモノリス・マークでマークされている。困難な時期が来た場合、モノリスに従う人々はその知恵からの恩恵を得るだろう…。俺は仲間にモノリスの意志を伝えており、弾薬のある場所を話した….」</text>
+	</string>
+	<string id="st_pri_b36_monolith_hiding_place_pda_name">
+		<text>モノリサーのPDA</text>
+	</string>
+	<string id="st_toolkit_1_desc">
+		<text>初心者的なツール・キット。上級仕事には適合しないが、ゾーンではツールが不足していて、簡単なことをする技術者には役立つ。</text>
+	</string>
+	<string id="st_toolkit_1_name">
+		<text>基本作業用ツール</text>
+	</string>
+	<string id="st_toolkit_2_desc">
+		<text>それなりに良いツール・セット。熟練技能者が個人使用のためになんとか普通に使える。古いが、ツールは良い状態。</text>
+	</string>
+	<string id="st_toolkit_2_name">
+		<text>上級用ツール</text>
+	</string>
+	<string id="st_toolkit_3_desc">
+		<text>装備の微調整用のプロ仕様のツール・セット。コンテナにある注釈では、セットがドイツで作られたことを示す。ツールキットには、どんな種類のチューニングや測定作業にも必要となるものすべてが含まれている。</text>
+	</string>
+	<string id="st_toolkit_3_name">
+		<text>測定作業用ツール</text>
+	</string>
+	<string id="st_zat_a23_access_card">
+		<text>古い磁気カードキー</text>
+	</string>
+	<string id="st_zat_a23_access_card_descr">
+		<text>カルダンの磁気カードキー。アイテム62試験工場へのアクセスに使用された。</text>
+	</string>
+	<string id="st_zat_a23_gauss_rifle_docs">
+		<text>アイテム62に関しての書類</text>
+	</string>
+	<string id="st_zat_a23_gauss_rifle_docs_descr">
+		<text>操作メカニズムおよび主な電磁気装置の技術特性について記述された書類。\n書類の中のメモ：「書類はラボX8に戻さなくてはならない。俺は忙しくなるだろうから、自分で届けてくれ。プリピャチ・ユビレイヌイ・サービス・センターで磁気カードを使用し、地下2階に降りてくれ。アクセス・カードを同封する。\nN.レーベジェフ。」\nこれらの書類はUSS銃兵隊のアナリストが大きな興味を持つもので、他人の手に渡ってはならない。</text>
+	</string>
+	<string id="st_zat_a23_labx8_key_name">
+		<text>黄色いX8カードキー</text>
+	</string>
+	<string id="st_zat_b12_documents_1">
+		<text>命令No.562</text>
+	</string>
+	<string id="st_zat_b12_documents_2">
+		<text>内部命令No.423</text>
+	</string>
+	<string id="st_zat_b12_key_1">
+		<text>キーA</text>
+	</string>
+	<string id="st_zat_b12_key_1_descr">
+		<text>文字「A」が表示された普通のキー。</text>
+	</string>
+	<string id="st_zat_b12_key_2">
+		<text>キーB</text>
+	</string>
+	<string id="st_zat_b12_key_2_descr">
+		<text>文字「B」が表示された普通のキー。</text>
+	</string>
+	<string id="st_zat_b20_noah_pda_desc">
+		<text>オーディオ録音のひとつは特に精神病質のように思える：「なので、そこは嫌なミュータントがいっぱいだ！…奴らは、ノアにつかまらないと考えて台地に登ったんだな。…俺が北部の農場を通る自分の通路を得たことをきっと知らないのだ。…楽しい旅行をだ！」</text>
+	</string>
+	<string id="st_zat_b20_noah_pda_name">
+		<text>ノアのPDA</text>
+	</string>
+	<string id="st_zat_b40_notebook_desc">
+		<text>ノートパソコンには、多くのスパムの中に、重要なものとしてマークされたメッセージがひとつある：\n「廃棄物処理ステーションの近くにキャンプを設置するんだ。この仕事に参加するすべての者があんたに加わるだろう。ブラックは、異なる使命を帯びて部下とジュピターにいるので、期待しないこと。軍はゾーンへのフライトをすべて保留にしたので、その側からの問題はない。ストーカーがプリピャチへの道を見つけた時に、我々はガイドを送り、クライアントの手下をそこで待つ。彼らは研究所がどこかを我々に教えるだろう。\nジャッカル。」</text>
+	</string>
+	<string id="st_zat_b40_notebook_name">
+		<text>傭兵のノートパソコン</text>
+	</string>
+	<string id="st_zat_b40_pda_1_desc">
+		<text>最終受信メッセージ：\n「我々はいくつかの古い工場のそばで待たされている。あんたのために道を偵察するために、前もって2人の兵士を送った。そして、クライアントの使者が現われるまで、我々はここで待つだろう。ここの大気はひどすぎる。\nテサク」</text>
+	</string>
+	<string id="st_zat_b40_pda_1_name">
+		<text>傭兵フックのPDA</text>
+	</string>
+	<string id="st_zat_b40_pda_2_name">
+		<text>傭兵リッジのPDA</text>
+	</string>
+	<string id="st_zat_b57_gas_desc">
+		<text>危険な化学神経ガスの缶。</text>
+	</string>
+	<string id="st_zat_b57_gas_name">
+		<text>ペランB3ガスの缶</text>
+	</string>
+	<string id="zat_b33_safe_container_desc">
+		<text>箱は巧妙なロックが取り付けられて閉められている。その重量と、振った時に出す音から判断して、何かが内側にある。</text>
+	</string>
+	<string id="zat_b33_safe_container_name">
+		<text>スチールボックス</text>
+	</string>
+	<string id="zat_b39_joker_pda_description">
+		<text>PDAのメモ：「俺はアーティファクトが、樹木自体にあると確信している。丘から木の上に登ることができるだろうことは、ここから明らかだ。丘にミュータントがいないことだけを望む。カルダンとバルジと口論してしまい、ここに独りで来なければならなかったことは残念だ。しかし、アーティファクトを持って戻れば、初めから俺が正しかったとわかるだろう…。」</text>
+	</string>
+	<string id="zat_b39_joker_pda_name">
+		<text>ジョーカーのPDA</text>
+	</string>
+	<string id="zat_b44_barge_pda_desc">
+		<text>PDAの最後のメモは、それを作った者が混乱していたことを伝えている：「歳取った酔っ払いのカルダン。飲んだ時だけが無精ではなくて、「ここでは気楽にやろうぜ・・・」と言う。だがその後、俺とジョーカーに、我々が若くてちゃんとできないと怒る。ジョーカーは彼のバッグをつかみ、消えた。俺がカルダンを落ち着かせようとしてる間に彼は去ったが、どこに行ったか俺が知るわけがない。そして俺がやると思われるのは何だ？その年寄りと飲むのか？御免だぜ！彼のウォッカは糞食らえだ…、ああ….」</text>
+	</string>
+	<string id="zat_b44_barge_pda_name">
+		<text>バルジのPDA</text>
+	</string>
+	<string id="zat_b22_medic_pda_desc">
+		<text>トレモールは彼のPDAに日記を記録していた。最後のメモは最も興味あるものだ：「記録第12：俺の研究はまもなく終わるだろう。キャンプの人々は何かを疑い始めている。グロースとダニラは、ブラッドサッカーを探すことを計画している。俺は、彼らがいつそれに気づくかと不安だ。俺は、血の瓶のどれが汚染されているか、そして残りのどれを隠すかを、分けなくてはならない…。誰かが来る（素早く録音装置のスイッチが切られる音がして、再び入れられている）…。記録第13：おそらく俺の最後だ。最初におせっかいなハンター、そして今はグロースだ。…俺は逃げないだろう。彼らは俺が目的で来るのだというのは知っている。それは問題ではない。このヘモグロビン依存性はすぐに俺を殺すだろう。だが、俺は疾病より、むしろ弾丸で死にたい…。」</text>
+	</string>
+	<string id="zat_b22_medic_pda">
+		<text>トレモールのPDA</text>
+	</string>
+	<string id="st_zat_b12_documents_1_descr">
+		<text>極秘事項。オブジェクトNo1のセキュリティに責任を負う司令部指揮官の命令第562。R.Yu.ディデンコ。\n化学保護ユニットNo423：接近戦状態でペランB3化学溶剤の実地試験をするために、セクターB103からセクターA19まで移動する。部隊長P.P.スレイビン大佐は、テストの行使に責任を負う。部隊長代理K.S.ヴァロフ中佐は輸送とセキュリティに責任を負う。</text>
+	</string>
+	<string id="st_zat_b12_documents_2_descr">
+		<text>極秘事項。P.P.スレイビン大佐からの命令。\nこの命令に従って、化学保護ユニットNo423のメンバーは以下の情報に熟知すること：\n1. ペランB3化学溶剤が入ったコンテナの鍵は、P.P.スレイビン大佐（鍵A）およびK.S.ウラソフ中佐（鍵B）が持つ。\n2. 正面から発車する車両部隊の順番：部隊長代理車両、エスコート車両No8、APC車両No1、運搬用車両No1、APC車両No3、エスコート車両No2、部隊長車両（P.P.スレイビン）。\n命令のコピーは、K.S.ウラソフ中佐およびR.B.ナザレンク上級中尉に渡される。</text>
+	</string>
+	<string id="st_zat_a23_labx8_key_descr">
+		<text>“X8”という印のある黄色の磁気カードキー。\n秘密研究所にアクセスするためにこのカードを使用するので、他人の手に入らないようにする。</text>
+	</string>
+	<string id="st_jup_b202_bandit_pda">
+		<text>サルタンの伝令兵のPDA</text>
+	</string>
+	<string id="st_jup_b202_bandit_pda_descr">
+		<text>このPDAから送られた最後の録音メッセージ：「サルタン、俺はそいつとは非常にうまくいった！我々に干渉しないように奴に教えたぞ！」</text>
+	</string>
+	<string id="st_af_quest_b14_twisted_descr">
+		<text>これは以前、浚渫ステーションのホイールだった。それは今、奇妙なアーティファクトに半分変っている。特性ははっきりしていて、活発に光ることと少しの放射能以外にはない。</text>
+	</string>
+	<string id="st_zat_b40_pda_2_desc">
+		<text>受信メッセージ：\n「俺はやっと武器をいくらか調達した。また、悪党共は奴らの派閥の在庫を売る気がある。それはかなり安いが、俺たちはそれをジュピターに運ばなければならないだろう。\nブルチャー。」</text>
+	</string>
+</string_table>

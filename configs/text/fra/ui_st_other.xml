@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="Btn_Cancel">
+		<text>Annuler</text>
+	</string>
+	<string id="Btn_No">
+		<text>Non</text>
+	</string>
+	<string id="Btn_OK">
+		<text>OK</text>
+	</string>
+	<string id="Btn_Yes">
+		<text>Oui</text>
+	</string>
+	<string id="bad">
+		<text>Mauvais</text>
+	</string>
+	<string id="enemy">
+		<text>Ennemi</text>
+	</string>
+	<string id="excellent">
+		<text>Excellent</text>
+	</string>
+	<string id="experienced">
+		<text>Expйrimentй</text>
+	</string>
+	<string id="friendly">
+		<text>Ami</text>
+	</string>
+	<string id="global_map">
+		<text>Carte de la Zone</text>
+	</string>
+	<string id="good">
+		<text>Bon</text>
+	</string>
+	<string id="indifferent">
+		<text>Indiffйrent</text>
+	</string>
+	<string id="master">
+		<text>Maоtre</text>
+	</string>
+	<string id="mm_mp_pda_hunt">
+		<text>Bonus PDA</text>
+	</string>
+	<string id="mp_only_one_voting">
+		<text>Un seul vote actif autorisй.</text>
+	</string>
+	<string id="neutral">
+		<text>Neutre</text>
+	</string>
+	<string id="novice">
+		<text>Dйbutant</text>
+	</string>
+	<string id="st_game">
+		<text>Partie</text>
+	</string>
+	<string id="st_item_used">
+		<text>Utilisй</text>
+	</string>
+	<string id="st_level">
+		<text>Niveau</text>
+	</string>
+	<string id="st_loading_ai_objects">
+		<text>Chargement des objets IA</text>
+	</string>
+	<string id="st_loading_alife_simulator">
+		<text>Serveur : chargement du simulateur A-life</text>
+	</string>
+	<string id="st_loading_cform">
+		<text>Chargement de CFORM</text>
+	</string>
+	<string id="st_loading_details">
+		<text>Chargement des dйtails</text>
+	</string>
+	<string id="st_loading_geometry">
+		<text>Chargement de la gйomйtrie</text>
+	</string>
+	<string id="st_loading_saved_game">
+		<text>Chargement de la sauvegarde</text>
+	</string>
+	<string id="st_loading_sectors_portals">
+		<text>Chargement des secteurs et portails</text>
+	</string>
+	<string id="st_loading_shaders">
+		<text>Chargement des shaders</text>
+	</string>
+	<string id="st_loading_spatial_db">
+		<text>Chargement de spatial-DB</text>
+	</string>
+	<string id="st_loading_textures">
+		<text>Chargement des textures</text>
+	</string>
+	<string id="st_mp_direct_ip">
+		<text>IP direct</text>
+	</string>
+	<string id="st_no_active_task">
+		<text>Aucune mission en cours</text>
+	</string>
+	<string id="st_not_enough_money">
+		<text>Fonds insuffisants</text>
+	</string>
+	<string id="st_not_enough_money_npc">
+		<text>Le PNJ n'a pas assez d'argent.</text>
+	</string>
+	<string id="st_opening_stream">
+		<text>Ouverture du stream</text>
+	</string>
+	<string id="st_prefetching_objects">
+		<text>Prйlecture des objets</text>
+	</string>
+	<string id="st_rubles">
+		<text>RS.</text>
+	</string>
+	<string id="st_server_connecting">
+		<text>SERVEUR : connexion en cours</text>
+	</string>
+	<string id="st_server_starting">
+		<text>SERVEUR : dйmarrage en cours</text>
+	</string>
+	<string id="st_validating_cdkey">
+		<text>Validation du numйro de sйrie</text>
+	</string>
+	<string id="st_video">
+		<text>Graphismes</text>
+	</string>
+	<string id="terrible">
+		<text>Terrible</text>
+	</string>
+	<string id="ui_inv_repair">
+		<text>Rйparer</text>
+	</string>
+	<string id="ui_st_cant_run_r2">
+		<text>Vous ne pouvez pas exйcuter Rendu 2 sur votre PC.</text>
+	</string>
+	<string id="ui_st_community">
+		<text>Faction</text>
+	</string>
+	<string id="ui_st_conn_cdkey_disabled">
+		<text>Erreur de connexion : votre numйro de sйrie n'est pas activй. Contactez le service client.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_in_use">
+		<text>Erreur de connexion : numйro de sйrie dйjа utilisй.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_invalid">
+		<text>Erreur de connexion : numйro de sйrie non valide.</text>
+	</string>
+	<string id="ui_st_conn_invalid_host">
+		<text>Erreur de connexion : hфte non valide</text>
+	</string>
+	<string id="ui_st_conn_invalid_pass">
+		<text>Erreur de connexion : mot de passe non valide</text>
+	</string>
+	<string id="ui_st_conn_new_patch">
+		<text>Nouvelle mise а jour disponible.\n Version : %s\n Emplacement :%s\nTйlйcharger maintenant ?</text>
+	</string>
+	<string id="ui_st_conn_no_new_patch">
+		<text>Aucune nouvelle mise а jour disponible</text>
+	</string>
+	<string id="ui_st_conn_rejected_server">
+		<text>Erreur de connexion : connexion rejetйe par le serveur</text>
+	</string>
+	<string id="ui_st_conn_sess_full">
+		<text>Erreur de connexion : serveur plein</text>
+	</string>
+	<string id="ui_st_conn_version_differs">
+		<text>Erreur de connexion : version diffйrente</text>
+	</string>
+	<string id="ui_st_connecting_to_masterserver">
+		<text>Connexion au serveur principal en cours</text>
+	</string>
+	<string id="ui_st_days">
+		<text>Jour(s)</text>
+	</string>
+	<string id="ui_st_error">
+		<text>Erreur</text>
+	</string>
+	<string id="ui_st_error_loading">
+		<text>Erreur de chargement</text>
+	</string>
+	<string id="ui_st_file_exist_owerwrite_q">
+		<text>Il existe dйjа un fichier du mкme nom. Voulez-vous l'йcraser ?</text>
+	</string>
+	<string id="ui_st_file_name_is_empty">
+		<text>Le nom de fichier est vide.</text>
+	</string>
+	<string id="ui_st_hours">
+		<text>Heure(s)</text>
+	</string>
+	<string id="ui_st_kicked_by_battleye">
+		<text>Dйconnectй par le systиme de protection BattleEye :</text>
+	</string>
+	<string id="ui_st_kicked_by_server">
+		<text>Dйconnectй. Raison :</text>
+	</string>
+	<string id="ui_st_leave">
+		<text>Quitter</text>
+	</string>
+	<string id="ui_st_load_game_confirm">
+		<text>Le chargement entraоnera la perte des donnйes non sauvegardйes. Continuer ?</text>
+	</string>
+	<string id="ui_st_mins">
+		<text>min.</text>
+	</string>
+	<string id="ui_st_months">
+		<text>mois</text>
+	</string>
+	<string id="ui_st_opponent_items">
+		<text>Sac а dos</text>
+	</string>
+	<string id="ui_st_params">
+		<text>Paramиtres</text>
+	</string>
+	<string id="ui_st_patch_download_error">
+		<text>Tйlйchargement de la mise а jour impossible.</text>
+	</string>
+	<string id="ui_st_patch_download_success">
+		<text>Tйlйchargement de la mise а jour terminй. Voulez-vous l'installer ?</text>
+	</string>
+	<string id="ui_st_price">
+		<text>Prix</text>
+	</string>
+	<string id="ui_st_rank">
+		<text>Rang</text>
+	</string>
+	<string id="ui_st_relation">
+		<text>Attitude</text>
+	</string>
+	<string id="ui_st_reputation">
+		<text>Rйputation</text>
+	</string>
+	<string id="ui_st_secs">
+		<text>sec.</text>
+	</string>
+	<string id="ui_st_select_one_map">
+		<text>Sйlectionnez au moins une carte</text>
+	</string>
+	<string id="ui_st_take_all">
+		<text>Tout prendre</text>
+	</string>
+	<string id="ui_st_time_remains">
+		<text>Temps restant</text>
+	</string>
+	<string id="ui_st_voting_disabled">
+		<text>Йchec du vote !</text>
+	</string>
+	<string id="ui_st_want_to_leave_game_q">
+		<text>Voulez-vous vraiment quitter le jeu ?</text>
+	</string>
+	<string id="ui_total_price">
+		<text>Total</text>
+	</string>
+	<string id="very_bad">
+		<text>trиs nйg.</text>
+	</string>
+	<string id="very_good">
+		<text>trиs posit.</text>
+	</string>
+	<string id="veteran">
+		<text>Vйtйran</text>
+	</string>
+	<string id="ui_st_inv_repair">
+		<text>Rйparer</text>
+	</string>
+	<string id="ui_repair_button_hint">
+		<text>Rйparer l'objet sйlectionnй ($$ACTION_ACTORMENU_TAKE_ALL$$)</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ Rйparer l'objet sйlectionnй </text_c>
+	</string>
+	<string id="st_key_notbinded">
+		<text>...</text>
+	</string>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<string id="ui_st_upgrade">
+		<text>Rйparer/Modifier</text>
+	</string>
+	<string id="ui_st_upgrade_console">
+		<text>$$ACTION_talk_trade_upgrade$$ Rйparer/Modifier</text>
+	</string>
+	<string id="ui_st_buy">
+		<text>Acheter</text>
+	</string>
+	<string id="ui_st_sell">
+		<text>Vendre</text>
+	</string>
+	<string id="ui_st_trade">
+		<text>Йchanger</text>
+	</string>
+	<string id="ui_st_exit_hint">
+		<text>Fermer la fenкtre ($$ACTION_QUIT$$)</text>
+		<text_c>$$ACTION_QUIT$$ Fermer la fenкtre </text_c>
+	</string>
+	<string id="ui_st_trade_hint">
+		<text>Ouvrir la fenкtre Йchanger ($$ACTION_ACTORMENU_TAKE_ALL$$)</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ Ouvrir la fenкtre Йchanger </text_c>
+	</string>
+	<string id="ui_st_upgrade_hint">
+		<text>Ouvrir la fenкtre Rйparations/modifications ($$ACTION_ACTORMENU_TAKE_ALL$$)</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ Ouvrir la fenкtre Rйparations/modifications </text_c>
+	</string>
+	<string id="ui_st_take_all_hint">
+		<text>Placer tous les objets dans le sac а dos ($$ACTION_ACTORMENU_TAKE_ALL$$)</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ Placer tous les objets dans le sac а dos </text_c>
+	</string>
+	<string id="ui_st_buy_hint">
+		<text>Acheter les objets sйlectionnйs ($$ACTION_ACTORMENU_TAKE_ALL$$)</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ Acheter les objets sйlectionnйs </text_c>
+	</string>
+	<string id="ui_st_sell_hint">
+		<text>Vendre les objets sйlectionnйs ($$ACTION_ACTORMENU_TAKE_ALL$$)</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ Vendre les objets sйlectionnйs </text_c>
+	</string>
+	
+</string_table>

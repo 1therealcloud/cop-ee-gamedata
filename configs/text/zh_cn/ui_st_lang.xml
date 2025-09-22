@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+
+	<string id="ui_mm_language">
+        <text>语言</text>
+    </string>
+	<string id="ui_mm_language_sound">
+        <text>声音语言</text>
+    </string>
+   <string id="lang_cze">
+        <text>Čeština</text>
+    </string>
+    <string id="lang_eng">
+        <text>English</text>
+    </string>
+    <string id="lang_fra">
+        <text>Français</text>
+    </string>
+    <string id="lang_ger">
+        <text>Deutsch</text>
+    </string>
+    <string id="lang_ita">
+        <text>Italiano</text>
+    </string>
+    <string id="lang_jpn">
+        <text>日本語 </text>
+    </string>
+    <string id="lang_pol">
+        <text>Polski</text>
+    </string>
+    <string id="lang_rus">
+        <text>Русский</text>
+    </string>
+    <string id="lang_spa">
+        <text>Español</text>
+    </string>
+    <string id="lang_ukr">
+        <text>Українська</text>
+    </string>
+	<string id="lang_kor">
+		<text>한국어 </text>
+	</string>
+    <string id="lang_zh_cn">
+        <text>简体中文 </text>
+    </string>
+	<string id="lang_zh_tw">
+        <text>繁體中文 </text>
+    </string>
+	
+	<string id="st_save_uni_travel_generic">
+		<text>正在区域内移动</text>
+	</string>
+
+	<string id="st_save_uni_travel_zat_to_jup">
+		<text>正在从死水湾移动至亚诺夫</text>
+	</string>
+
+	<string id="st_save_uni_travel_zat_to_pri">
+		<text>正在从死水湾移动至普里皮亚季</text>
+	</string>
+
+	<string id="st_save_uni_travel_jup_to_zat">
+		<text>正在从亚诺夫移动至死水湾</text>
+	</string>
+
+	<string id="st_save_uni_travel_jup_to_pri">
+		<text>正在从亚诺夫移动至普里皮亚季</text>
+	</string>
+
+	<string id="st_save_uni_travel_pri_to_zat">
+		<text>正在从普里皮亚季移动至死水湾</text>
+	</string>
+
+	<string id="st_save_uni_travel_pri_to_jup">
+		<text>正在从普里皮亚季移动至亚诺夫</text>
+	</string>
+
+	<string id="st_save_uni_pri_to_labx8">
+		<text>正在从普里皮亚季移动至 X8</text>
+	</string>
+
+	<string id="st_save_uni_labx8_to_pri">
+		<text>正在从 X8 移动至普里皮亚季</text>
+	</string>
+
+	<string id="st_save_uni_surge_start">
+		<text>喷发</text>
+	</string>
+
+	<string id="st_save_zat_a1_game_start">
+		<text>游戏开始阶段</text>
+	</string>
+
+	<string id="st_save_zat_a2_reached_skadovsk">
+		<text>抵达斯卡多夫斯克号</text>
+	</string>
+
+	<string id="st_save_jup_b9_searched_heli_1">
+		<text>已检查魔鬼鱼 1 号</text>
+	</string>
+
+	<string id="st_save_zat_b100_searched_heli_2">
+		<text>已检查魔鬼鱼 2 号</text>
+	</string>
+
+	<string id="st_save_zat_b28_searched_heli_3">
+		<text>已检查魔鬼鱼 3 号</text>
+	</string>
+
+	<string id="st_save_jup_b8_searched_heli_4">
+		<text>已检查魔鬼鱼 4 号</text>
+	</string>
+
+	<string id="st_save_zat_b101_searched_heli_5">
+		<text>已检查魔鬼鱼 5 号</text>
+	</string>
+
+	<string id="st_save_zat_b18_noah_showed_teleport">
+		<text>前往高地</text>
+	</string>
+
+	<string id="st_save_jup_b217_arrived_to_jup">
+		<text>抵达亚诺夫</text>
+	</string>
+
+	<string id="st_save_jup_a9_got_underpass_docs">
+		<text>已发现前往普里皮亚季的道路</text>
+	</string>
+
+	<string id="st_save_jup_b15_drunk_with_zulu">
+		<text>祖鲁加入了小队</text>
+	</string>
+
+	<string id="st_save_jup_a10_gonna_return_debt">
+		<text>瓦诺的债务已偿还</text>
+	</string>
+
+	<string id="st_save_jup_b218_vano_in_squad">
+		<text>瓦诺加入了小队</text>
+	</string>
+
+	<string id="st_save_jup_b206_got_anomalous_plant">
+		<text>已收集异常植物</text>
+	</string>
+
+	<string id="st_save_jup_b218_sokolov_in_squad">
+		<text>索科洛夫加入了小队</text>
+	</string>
+
+	<string id="st_save_jup_b218_strider_in_squad">
+		<text>游民加入了小队</text>
+	</string>
+
+	<string id="st_save_jup_b218_travel_jup_to_pas">
+		<text>小队已组建</text>
+	</string>
+
+	<string id="st_save_pas_b400_underpass_start">
+		<text>抵达地下通道</text>
+	</string>
+
+	<string id="st_save_uni_travel_pas_to_pri">
+		<text>抵达普里皮亚季</text>
+	</string>
+
+	<string id="st_save_pri_a16_arrived_to_pri">
+		<text>已发现军方位置</text>
+	</string>
+
+	<string id="st_save_pri_a17_hospital_start">
+		<text>已夺取不明武器</text>
+	</string>
+
+	<string id="st_save_pri_a20_found_dead_recon">
+		<text>已发现侦察小队</text>
+	</string>
+
+	<string id="st_save_pri_a18_met_reinforcement">
+		<text>增援已抵达</text>
+	</string>
+
+	<string id="st_save_pri_a18_searched_antenna">
+		<text>已检查“天线”</text>
+	</string>
+
+	<string id="st_save_pri_a21_approached_mad_sentry">
+		<text>已发现失踪的哨兵</text>
+	</string>
+
+	<string id="st_save_pri_a21_killed_controller">
+		<text>已杀死哨兵附近的夺心鬼</text>
+	</string>
+
+	<string id="st_save_zat_a23_entered_test_center">
+		<text>已访问测试工作室</text>
+	</string>
+
+	<string id="st_save_zat_a23_got_gauss_docs">
+		<text>已发现高斯步枪的文档</text>
+	</string>
+
+	<string id="st_save_pri_a22_found_dead_squad">
+		<text>已发现死去的战士</text>
+	</string>
+
+	<string id="st_save_pri_a25_gonna_place_explosive">
+		<text>幼儿园入口</text>
+	</string>
+
+	<string id="st_save_pri_a25_freed_medic">
+		<text>已营救军医</text>
+	</string>
+
+	<string id="st_save_pri_a28_talked_with_ssu">
+		<text>已和指挥部建立通讯</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacutaion_start">
+		<text>普里皮亚季撤离行动已启动</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacuation_end">
+		<text>撤离直升机已抵达</text>
+	</string>
+
+	<string id="st_save_uni_zone_to_reality">
+		<text>撤离已完成</text>
+	</string>
+
+	<string id="st_save_jup_b209_placed_mutant_scanner">
+		<text>变异体探测器</text>
+	</string>
+
+	<string id="st_save_jup_a12_gave_artefact_for_hostage">
+		<text>已为人质支付赎金</text>
+	</string>
+
+	<string id="st_save_jup_a12_met_with_liberators">
+		<text>人质已被解救</text>
+	</string>
+
+	<string id="st_save_jup_b6_arrived_to_ash_heap">
+		<text>特异点“灰堆”测量</text>
+	</string>
+
+	<string id="st_save_jup_b6_arrived_to_fen">
+		<text>特异点“芦苇地”测量</text>
+	</string>
+
+	<string id="st_save_zat_b38_met_with_grouse">
+		<text>吸血怪巢穴</text>
+	</string>
+
+	<string id="st_save_jup_b19_arrived_to_kopachy">
+		<text>交给科帕奇</text>
+	</string>
+
+	<string id="st_save_zat_b40_warned_by_mercs">
+		<text>通往废物处理站的道路</text>
+	</string>
+
+	<string id="st_save_zat_b7_met_with_robbers">
+		<text>潜行者攻击</text>
+	</string>
+
+	<string id="st_save_zat_b33_got_container">
+		<text>储藏点发现的容器</text>
+	</string>
+
+	<string id="st_save_zat_b106_arrived_to_chimera_lair">
+		<text>猎杀奇美拉</text>
+	</string>
+
+	<string id="st_save_jup_b16_passed_labyrinth">
+		<text>已发现绿洲</text>
+	</string>
+
+	<string id="st_save_pri_b35_ready_to_snipe">
+		<text>一击毙命行动已启动</text>
+	</string>
+
+	<string id="st_save_jup_b1_entered_railroad_tunnel">
+		<text>搜寻心灵喷发源头</text>
+	</string>
+
+	<string id="st_save_jup_b47_got_admin_docs">
+		<text>行政文件</text>
+	</string>
+
+	<string id="st_save_zat_b103_warned_by_mercs">
+		<text>前往变电站车间的道路</text>
+	</string>
+
+	<string id="st_save_zat_b5_met_with_others">
+		<text>在护林站的交易</text>
+	</string>
+
+	<string id="st_save_jup_b207_arrived_to_duty_depot">
+		<text>责任仓库</text>
+	</string>
+
+	<string id="st_save_zat_b14_got_altered_wheel">
+		<text>已发现奇异发光源</text>
+	</string>
+
+	<string id="st_save_pri_b301_arrived_to_help_zulu">
+		<text>已发现祖鲁</text>
+	</string>
+
+	<string id="st_save_zat_b42_arrived_to_controler_lair">
+		<text>危险的洞穴</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacuation_heli">
+		<text>撤离直升机起飞</text>
+	</string>
+
+	<string id="st_ui_health_sensor_utf8">
+		<text>生命值</text>
+	</string>
+
+	<string id="st_level_utf8">
+		<text>等級</text>
+	</string>
+
+	<string id="ui_inv_time_utf8">
+		<text>時間</text>
+	</string>
+
+	<string id="zaton_utf8">
+		<text>死水湾</text>
+	</string>
+
+	<string id="jupiter_utf8">
+		<text>木星周边地区</text>
+	</string>
+
+	<string id="jupiter_underground_utf8">
+		<text>普里皮亚季 1 号地下通道</text>
+	</string>
+
+	<string id="pripyat_utf8">
+		<text>普里皮亚季</text>
+	</string>
+
+	<string id="labx8_utf8">
+		<text>X8 实验室</text>
+	</string>
+
+	<string id="ui_mainmenu_autosave_utf8">
+		<text>自动保存 - </text>
+	</string>
+
+	<string id="ui_mainmenu_manualsave_utf8">
+		<text>手动保存 - </text>
+	</string>
+
+	<string id="ui_mainmenu_quicksave_utf8">
+		<text>快速保存 - </text>
+	</string>
+
+	<string id="ui_mmenu_new_savegame_utf8">
+		<text>新存档</text>
+	</string>
+
+	<string id="ui_mmenu_no_savegames_utf8">
+		<text>没有存档</text>
+	</string>
+
+	<string id="st_game_saved_utf8">
+		<text>游戏已保存</text>
+	</string>
+
+	<string id="month_january_utf8">
+		<text>一月</text>
+	</string>
+
+	<string id="month_february_utf8">
+		<text>二月</text>
+	</string>
+
+	<string id="month_march_utf8">
+		<text>行军</text>
+	</string>
+
+	<string id="month_april_utf8">
+		<text>四月</text>
+	</string>
+
+	<string id="month_may_utf8">
+		<text>五月</text>
+	</string>
+
+	<string id="month_june_utf8">
+		<text>六月</text>
+	</string>
+
+	<string id="month_july_utf8">
+		<text>七月</text>
+	</string>
+
+	<string id="month_august_utf8">
+		<text>八月</text>
+	</string>
+
+	<string id="month_september_utf8">
+		<text>九月</text>
+	</string>
+
+	<string id="month_october_utf8">
+		<text>十月</text>
+	</string>
+
+	<string id="month_november_utf8">
+		<text>十一月</text>
+	</string>
+
+	<string id="month_december_utf8">
+		<text>十二月</text>
+	</string>
+
+	<string id="ui_modio_nomemory_utf8">
+		<text>没有可用空间，无法安装Mod！</text>
+	</string>
+	
+	<string id="ui_mm_modio_error">
+		<text>遭遇Mod.io错误，错误代码：\n</text>
+	</string>
+	<string id="ui_mm_modio_error_space">
+		<text>内存不足，无法安装Mod：\n</text>
+	</string>
+	<string id="ui_mm_modio_error_video">
+		<text>警告！安装Mod需要占用大量显存。这可能导致游戏不稳定</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="jup_a10_actor_agree_back_vano_duties_name">
+		<text>債務：把錢帶給強盜</text>
+	</string>
+
+	<string id="jup_a10_actor_agree_back_vano_duties_text">
+		<text>瓦諾因為一件防護服而欠了強盜們一筆錢，但由於利息累積得太快而無法償還。他請求你幫忙解決這個問題。</text>
+	</string>
+
+	<string id="jup_a10_actor_back_vano_duties_name">
+		<text>債務：回去找瓦諾</text>
+	</string>
+
+	<string id="jup_a10_actor_back_vano_duties_text">
+		<text>告訴瓦諾他的債務償還進展。</text>
+	</string>
+
+	<string id="jup_a10_kill_all_bandit_name">
+		<text>債務：解決強盜</text>
+	</string>
+
+	<string id="jup_a10_kill_all_bandit_text">
+		<text>償還瓦諾的債務遇到了麻煩。幹掉強盜們。</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_get_reward_name">
+		<text>人質：拿到米塔伊的朋友給的報酬</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_get_reward_text">
+		<text>米塔伊已被解救。去酒吧和他的朋友見面以領取報酬。</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_name">
+		<text>人質：解救米塔伊</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_not_ready_name">
+		<text>人質：和葛里利交談來確保他已做好準備</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_not_ready_text">
+		<text>你必須在試圖解救人質之前去和葛里利交談。</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_power_name">
+		<text>人質：武力解救米塔伊</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_power_text">
+		<text>你必須消滅所有強盜以解救一個名叫米塔伊的潛行者。</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_power_wait_name">
+		<text>人質：會見潛行者</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_power_wait_text">
+		<text>潛行者們會幫你解救人質。你需要在午夜去見他們，然後一起襲擊強盜。</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_ransom_name">
+		<text>人質：為釋放米塔伊而交付贖金</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_ransom_text">
+		<text>和強盜約定交付贖金以解救一個名叫米塔伊的潛行者。</text>
+	</string>
+
+	<string id="jup_a12_free_prisoner_text">
+		<text>解救一個名叫米塔伊的潛行者，他被強盜扣做人質。</text>
+	</string>
+
+	<string id="jup_a12_guide_prisoner_name">
+		<text>人質：帶米塔伊離開強盜基地</text>
+	</string>
+
+	<string id="jup_a12_guide_prisoner_text">
+		<text>在強盜基地逗留很危險，你必須護送米塔伊走出基地。</text>
+	</string>
+
+	<string id="jup_a12_talk_with_prisoner_name">
+		<text>人質：和米塔伊交談</text>
+	</string>
+
+	<string id="jup_a12_talk_with_prisoner_text">
+		<text>米塔伊現在相對安全。跟他談談你下一步的行動。</text>
+	</string>
+
+	<string id="jup_a9_way_to_pripyat_tech_name">
+		<text>通往普里皮亞季的路：跟技術人員談談有關地下通道的事</text>
+	</string>
+
+	<string id="jup_a9_way_to_pripyat_tech_text">
+		<text>你找到的文件清楚地表明，木星工廠下方有一條通往普里皮亞季的地下通道。地下通道沒有電力，充滿了瓦斯氣體，入口也被封鎖。你必須找到能夠啟動發電機並打開地下通道門鎖的技術人員。</text>
+	</string>
+
+	<string id="jup_b10_ufo_memory_at_text">
+		<text>記憶體模組正在專家手中，你必須等待其被解鎖。</text>
+	</string>
+
+	<string id="jup_b10_ufo_memory_name">
+		<text>無人機：解鎖記憶體模組</text>
+	</string>
+
+	<string id="jup_b10_ufo_memory_nitro_name">
+		<text>無人機：從奈喬手中拿回記憶體模組</text>
+	</string>
+
+	<string id="jup_b10_ufo_memory_novikov_name">
+		<text>無人機：從諾維可夫手中拿回記憶體模組</text>
+	</string>
+
+	<string id="jup_b10_ufo_memory_repaired_by_nitro_text">
+		<text>奈喬已經解鎖了記憶體模組。你應該前去拿回模組，檢視其中包含的資訊。</text>
+	</string>
+
+	<string id="jup_b10_ufo_memory_repaired_by_novikov_text">
+		<text>諾維可夫已經解鎖了記憶體模組。你應該前去拿回模組，檢視其中包含的資訊。</text>
+	</string>
+
+	<string id="jup_b10_ufo_memory_started_text">
+		<text>你成功從無人機上搶救下了一個記憶體模組，必須解鎖後你才能查看其中包含的資訊。</text>
+	</string>
+
+	<string id="jup_b10_ufo_memory_wait_name">
+		<text>無人機：等待記憶體模組被解鎖</text>
+	</string>
+
+	<string id="jup_b16_oasis_art_name">
+		<text>綠洲：找到證據</text>
+	</string>
+
+	<string id="jup_b16_oasis_art_text">
+		<text>綠洲已被發現，這個地方確實有治療特性。你需要找到一些證據並帶回給科學家。</text>
+	</string>
+
+	<string id="jup_b16_oasis_artifact_back_name">
+		<text>綠洲：帶證據給科學家</text>
+	</string>
+
+	<string id="jup_b16_oasis_artifact_back_text">
+		<text>綠洲已被發現，這個地方確實有治療特性。你需要把你在那裡找到的神器當作證據帶給科學家。</text>
+	</string>
+
+	<string id="jup_b16_oasis_name">
+		<text>綠洲：查驗傳說的真偽</text>
+	</string>
+
+	<string id="jup_b16_oasis_text">
+		<text>來自地堡的科學家奧澤斯基想請你試著找到綠洲——一個位於特異區的傳說之地。根據傳聞，那裡應該有帶治療效果的水域，但沒有人知道它是否真的存在。</text>
+	</string>
+
+	<string id="jup_b19_agreed_to_go_name">
+		<text>科帕奇：與雅爾叔叔同行</text>
+	</string>
+
+	<string id="jup_b19_agreed_to_go_text">
+		<text>雅爾叔叔需要你的幫忙。和他一起去科帕奇小鎮。</text>
+	</string>
+
+	<string id="jup_b19_destroy_mercs_name">
+		<text>科帕奇：消滅傭兵團</text>
+	</string>
+
+	<string id="jup_b19_destroy_mercs_text">
+		<text>看起來雅爾叔叔預見了傭兵團的到來。你必須消滅他們。</text>
+	</string>
+
+	<string id="jup_b19_following_yar_name">
+		<text>科帕奇：緊跟雅爾叔叔</text>
+	</string>
+
+	<string id="jup_b19_following_yar_text">
+		<text>雅爾叔叔讓你跟著他並保持安靜。</text>
+	</string>
+
+	<string id="jup_b19_talk_to_yar_name">
+		<text>科帕奇：與雅爾叔叔交談</text>
+	</string>
+
+	<string id="jup_b19_talk_to_yar_text">
+		<text>僱傭兵們都死了。你應該去找雅爾叔叔談談，問清楚究竟發生了什麼事。</text>
+	</string>
+
+	<string id="jup_b1_bring_art_back_name">
+		<text>間歇性心靈輻射：將異常構造帶給科學家</text>
+	</string>
+
+	<string id="jup_b1_bring_art_back_text">
+		<text>按照約定，將你找到的樣本帶給赫爾曼。這件物品受到特異點接觸的影響，一半已經變形，似乎是間歇性心靈輻射的來源。</text>
+	</string>
+
+	<string id="jup_b1_get_art_name">
+		<text>間歇性心靈輻射：調查來源</text>
+	</string>
+
+	<string id="jup_b1_get_art_text">
+		<text>調查隧道中是否存在某種異常構造。科學家相信，間歇性的心靈場域存在一個來源，它可能類似於某種神器。</text>
+	</string>
+
+	<string id="jup_b1_join_squad_name">
+		<text>間歇性心靈輻射：與托普的小隊會面</text>
+	</string>
+
+	<string id="jup_b1_join_squad_text">
+		<text>托普的小隊去了有間歇性心靈輻射的隧道，你必須在那裡與他們會面。</text>
+	</string>
+
+	<string id="jup_b1_meet_squad_name">
+		<text>間歇性心靈輻射：與托普交談</text>
+	</string>
+
+	<string id="jup_b1_meet_squad_text">
+		<text>加入托普的小隊，前往有間歇性心靈輻射的隧道。按照協定，潛行者們會守衛隧道，而你要去搜尋科學家們想要的東西。</text>
+	</string>
+
+	<string id="jup_b200_tech_materials_brought_all_text">
+		<text>你應該把你找到的所有無線電技術的材料帶給奈喬。</text>
+	</string>
+
+	<string id="jup_b200_tech_materials_brought_some_text">
+		<text>奈喬需要無線電技術的材料。你可以給他你已有的，或者試著找到更多。</text>
+	</string>
+
+	<string id="jup_b200_tech_materials_name">
+		<text>無線電設備：為奈喬找到材料</text>
+	</string>
+
+	<string id="jup_b200_tech_materials_text">
+		<text>奈喬需要無線電技術的材料。他說你應該去水泥工廠尋找。</text>
+	</string>
+
+	<string id="jup_b202_actor_items_stolen_01_name">
+		<text>偷竊：找到誰是小偷</text>
+	</string>
+
+	<string id="jup_b202_actor_items_stolen_01_text">
+		<text>詢問在亞尼夫的潛行者，看看他們是否見過任何可疑之人，可能會偷走私人儲物箱裡的東西。</text>
+	</string>
+
+	<string id="jup_b202_actor_items_stolen_02_name">
+		<text>偷竊：檢查變電站</text>
+	</string>
+
+	<string id="jup_b202_actor_items_stolen_02_text">
+		<text>你需要去檢查一下變電站，因為那裡是那個有可能偷了東西的可疑潛行者去的地方。</text>
+	</string>
+
+	<string id="jup_b202_actor_items_stolen_03_name">
+		<text>偷竊：拿走你的東西</text>
+	</string>
+
+	<string id="jup_b202_actor_items_stolen_03_text">
+		<text>斯奈格偷走的所有東西應該都放在了他的藏匿點處，就在變電站後面的汙水管裡。</text>
+	</string>
+
+	<string id="jup_b206_anomalous_grove_get_plant_name">
+		<text>變異植物：拿到植物樣本</text>
+	</string>
+
+	<string id="jup_b206_anomalous_grove_get_plant_text">
+		<text>一處長滿了變異植被的區域出現在了採石場邊緣附近。奧澤斯基請你去採集一株植物樣本供他研究。</text>
+	</string>
+
+	<string id="jup_b206_anomalous_grove_have_plant_name">
+		<text>變異植物：把樣本給奧澤斯基</text>
+	</string>
+
+	<string id="jup_b206_anomalous_grove_have_plant_text">
+		<text>你必須把植物樣本帶給奧澤斯基。作為交換，他會說服赫爾曼提供一件科學防護服。</text>
+	</string>
+
+	<string id="jup_b208_burers_hunt_kill_burers_name">
+		<text>狩獵：消滅不明變異體</text>
+	</string>
+
+	<string id="jup_b208_burers_hunt_kill_burers_text">
+		<text>一群潛行者在木星工廠北部的隧道中遭遇了不明變異體。去調查該區域並消滅變異體。</text>
+	</string>
+
+	<string id="jup_b208_burers_hunt_take_reward_name">
+		<text>狩獵：從特拉帕手中領取在隧道擊殺變異體的報酬</text>
+	</string>
+
+	<string id="jup_b208_burers_hunt_take_reward_text">
+		<text>木星工廠北部隧道裡的變異體已經被消滅了。你應該告知特拉帕並領取你的報酬。</text>
+	</string>
+
+	<string id="jup_b209_hypotheses_1_name">
+		<text>假說：在斜坡中心放置掃描儀</text>
+	</string>
+
+	<string id="jup_b209_hypotheses_1_text">
+		<text>在斜坡中心放置掃描儀來驗證奧澤斯基的假說。</text>
+	</string>
+
+	<string id="jup_b209_hypotheses_2_name">
+		<text>假說：等待實驗結束</text>
+	</string>
+
+	<string id="jup_b209_hypotheses_2_text">
+		<text>掃描儀正在啟用中並已經發現了變異體的存在。你必須等待其收集到足夠多的資料來證實或推翻假說。</text>
+	</string>
+
+	<string id="jup_b209_hypotheses_3_name">
+		<text>假說：拿走掃描儀</text>
+	</string>
+
+	<string id="jup_b209_hypotheses_3_text">
+		<text>已經收集到了足夠多的資料來證實奧澤斯基的假說。拿走掃描儀。</text>
+	</string>
+
+	<string id="jup_b209_hypotheses_4_name">
+		<text>假說：把掃描儀給奧澤斯基</text>
+	</string>
+
+	<string id="jup_b209_hypotheses_4_text">
+		<text>你必須把掃描儀給奧澤斯基。上面收集到的資料足以證實他的假說。</text>
+	</string>
+
+	<string id="jup_b211_kill_bloodsuckers_name">
+		<text>狩獵：殺死沼澤地的吸血鬼</text>
+	</string>
+
+	<string id="jup_b211_kill_bloodsuckers_text">
+		<text>一群吸血鬼出現在了水泥工廠後方的沼澤地。當地的潛行者請求你去消滅牠們。</text>
+	</string>
+
+	<string id="jup_b211_take_reward_name">
+		<text>狩獵：從特拉帕手中領取殺死沼澤地吸血鬼的報酬</text>
+	</string>
+
+	<string id="jup_b211_take_reward_text">
+		<text>沼澤地吸血鬼都死了。你應該找特拉帕領取當地潛行者提供給你的報酬。</text>
+	</string>
+
+	<string id="jup_b212_jupiter_kill_chimera_name">
+		<text>夜間狩獵：殺死奇美拉</text>
+	</string>
+
+	<string id="jup_b212_jupiter_kill_chimera_text">
+		<text>奇美拉是夜行掠食者，沒有人知道白天牠的巢穴在哪裡。你必須等牠在夜裡去到通風設施處打獵時殺死牠。</text>
+	</string>
+
+	<string id="jup_b212_jupiter_tell_animalboy_about_chimera_name">
+		<text>夜間狩獵：告訴特拉帕奇美拉死了</text>
+	</string>
+
+	<string id="jup_b212_jupiter_tell_animalboy_about_chimera_text">
+		<text>殺人的奇美拉已經死了，獵人狐狸的大仇得報。將這事告訴給特拉帕。</text>
+	</string>
+
+	<string id="jup_b217_get_tools_1_2_name">
+		<text>工具：帶工具給奈喬</text>
+	</string>
+
+	<string id="jup_b217_get_tools_1_2_text">
+		<text>奈喬要你帶兩組工具給他：一組是基本工作用的，另一組是精工用的。技術人員會付你工具的費用，並能進行更高級的武器和護甲改造。</text>
+	</string>
+
+	<string id="jup_b217_get_tools_1_3_name">
+		<text>工具：帶工具給奈喬</text>
+	</string>
+
+	<string id="jup_b217_get_tools_1_3_text">
+		<text>奈喬要你帶兩組工具給他：一組是基本工作用的，另一組是校準用的。技術人員會付你工具的費用，並能進行更高級的武器和護甲改造。</text>
+	</string>
+
+	<string id="jup_b217_get_tools_1_name">
+		<text>工具：帶工具給奈喬</text>
+	</string>
+
+	<string id="jup_b217_get_tools_1_text">
+		<text>奈喬要你帶一套基礎工具給他，技術人員會付你工具的費用，並能進行更高級的武器和護甲改造。</text>
+	</string>
+
+	<string id="jup_b217_get_tools_2_3_name">
+		<text>工具：帶工具給奈喬</text>
+	</string>
+
+	<string id="jup_b217_get_tools_2_3_text">
+		<text>奈喬要你帶兩組工具給他：一組是精工用的，另一組是校準用的。技術人員會付你工具的費用，並能進行更高級的武器和護甲改造。</text>
+	</string>
+
+	<string id="jup_b217_get_tools_2_name">
+		<text>工具：帶工具給奈喬</text>
+	</string>
+
+	<string id="jup_b217_get_tools_2_text">
+		<text>奈喬要你帶一套精工工具給他，技術人員會付你工具的費用，並能進行更高級的武器和護甲改造。</text>
+	</string>
+
+	<string id="jup_b217_get_tools_3_name">
+		<text>工具：帶工具給奈喬</text>
+	</string>
+
+	<string id="jup_b217_get_tools_3_text">
+		<text>奈喬要你帶一套校準工具給他，技術人員會付你工具的費用，並能進行更高級的武器和護甲改造。</text>
+	</string>
+
+	<string id="jup_b217_mechanic_toolkit_search_name">
+		<text>工具：帶工具給奈喬</text>
+	</string>
+
+	<string id="jup_b217_mechanic_toolkit_search_text">
+		<text>奈喬要你帶三組工具給他：一組是基本工作用的，一組是精工用的，另一組是校準用的。技術人員會付你工具的費用，並能進行更高級的武器和護甲改造。</text>
+	</string>
+
+	<string id="jup_b218_actor_outfit_name">
+		<text>普里皮亞季1號：找到一件配備有封閉式循環呼吸組件的防護服</text>
+	</string>
+
+	<string id="jup_b218_actor_outfit_text">
+		<text>普里皮亞季1號地下通道已經充滿了二氧化碳和某種未知物質。你需要帶有封閉式循環呼吸組件的防護服才能通過地下通道。</text>
+	</string>
+
+	<string id="jup_b218_monolith_guide_to_zulus_name">
+		<text>普里皮亞季1號：帶斯特萊德去見祖魯</text>
+	</string>
+
+	<string id="jup_b218_monolith_guide_to_zulus_text">
+		<text>你必須帶斯特萊德去見祖魯，並介紹他作為小隊的新成員。祖魯可能不會歡迎一個穿著黑石組服裝的戰士獨自出現在他面前。</text>
+	</string>
+
+	<string id="jup_b218_monolith_name">
+		<text>普里皮亞季1號：跟斯特萊德談防護服的事</text>
+	</string>
+
+	<string id="jup_b218_monolith_text">
+		<text>普里皮亞季1號地下道已經充滿了二氧化碳和某種未知物質。你必須通知斯特萊德，他需要穿有封閉式循環呼吸組件的防護服才能通過地下道。</text>
+	</string>
+
+	<string id="jup_b218_pripyat_group_gathering_name">
+		<text>普里皮亞季1號：組一支小隊去普里皮亞季</text>
+	</string>
+
+	<string id="jup_b218_pripyat_group_gathering_text">
+		<text>奈喬可以打開普里皮亞季1號地下道的鎖，但他拒絕在沒有防護的情況下進入木星工廠。他還建議你帶幾個人一起通過地下道。祖魯已經決定要去了，他建議你派給他幾個新兵。</text>
+	</string>
+
+	<string id="jup_b218_pripyat_group_zulus_talk_name">
+		<text>普里皮亞季1號：跟祖魯聊去普里皮亞季的事</text>
+	</string>
+
+	<string id="jup_b218_pripyat_group_zulus_talk_text">
+		<text>奈喬可以打開普里皮亞季1號地下道的鎖，但他拒絕在沒有防護的情況下進入木星工廠。他還建議你帶幾個人一起通過地下道。他也建議你和祖魯聊一聊，因為他可以幫你組建小隊。</text>
+	</string>
+
+	<string id="jup_b218_soldier_guide_to_zulus_name">
+		<text>普里皮亞季1號：帶索科洛夫去見祖魯</text>
+	</string>
+
+	<string id="jup_b218_soldier_guide_to_zulus_text">
+		<text>索科洛夫已經同意前往普里皮亞季，並可在離開地堡時帶上科學防護服。你得帶他去見祖魯，並介紹他小隊的新成員。</text>
+	</string>
+
+	<string id="jup_b218_soldier_name">
+		<text>普里皮亞季1號：跟索科洛夫談科學防護服的事</text>
+	</string>
+
+	<string id="jup_b218_soldier_talk_to_scientist_name">
+		<text>普里皮亞季1號：跟奧澤斯基談給索科洛夫科學防護服的事</text>
+	</string>
+
+	<string id="jup_b218_soldier_talk_to_scientist_text">
+		<text>索科洛夫願意穿科學防護服，但是赫爾曼不想讓他從地堡帶走。你應該和奧澤斯基談談——他人比較好，也比較好講話。</text>
+	</string>
+
+	<string id="jup_b218_soldier_tell_outfit_name">
+		<text>普里皮亞季1號：告訴索科洛夫科學防護服的事</text>
+	</string>
+
+	<string id="jup_b218_soldier_tell_outfit_text">
+		<text>奧澤斯基對植物樣品很滿意。他要你告訴索科洛夫，他可以從赫爾曼那拿走他的科學防護服。</text>
+	</string>
+
+	<string id="jup_b218_soldier_text">
+		<text>普里皮亞季1號地下道已經充滿了二氧化碳和某種未知物質。你必須通知索科洛夫，他需要穿有封閉式循環呼吸組件的防護服才能通過地下道。</text>
+	</string>
+
+	<string id="jup_b218_stalker_bring_money_name">
+		<text>普里皮亞季1號：給瓦諾防護服的費用</text>
+	</string>
+
+	<string id="jup_b218_stalker_bring_money_text">
+		<text>瓦諾的防護服有封閉式呼吸循環組件，但他欠強盜錢。瓦諾不得不典當他來還債。現在他需要3000元才能贖回。</text>
+	</string>
+
+	<string id="jup_b218_stalker_guide_to_zulus_name">
+		<text>普里皮亞季1號：帶瓦諾去見祖魯</text>
+	</string>
+
+	<string id="jup_b218_stalker_guide_to_zulus_text">
+		<text>瓦諾願意前往普里皮亞季。你得帶他去見祖魯，並介紹他小隊的新成員。瓦諾可以在路上贖回他的防護服。</text>
+	</string>
+
+	<string id="jup_b218_stalker_name">
+		<text>普里皮亞季1號：跟瓦諾談科學防護服的事</text>
+	</string>
+
+	<string id="jup_b218_stalker_text">
+		<text>普里皮亞季1號地下道已經充滿了二氧化碳和某種未知物質。你必須通知瓦諾，他需要穿有封閉式循環呼吸組件的防護服才能通過地下道。</text>
+	</string>
+
+	<string id="jup_b25_accuse_flint_end_text">
+		<text>弗林特，又名喜鵲，他是個狡猾的賤人。你應該在扎通的潛行者或其他陣營前揭穿他。這樣才能好好教訓他。</text>
+	</string>
+
+	<string id="jup_b25_accuse_flint_first_text">
+		<text>弗林特在誇耀他根本沒看過的東西。揭穿他的謊言是好事。</text>
+	</string>
+
+	<string id="jup_b25_accuse_flint_name">
+		<text>說大話：處理弗林特</text>
+	</string>
+
+	<string id="jup_b25_accuse_flint_second_text">
+		<text>弗林特顯然在把別人的成就都攬在自己身上。他得學會管好自己的舌頭。</text>
+	</string>
+
+	<string id="jup_b25_accuse_flint_third_text">
+		<text>弗林特的膨風簡直令人無法置信——你應該跟他談談，讓他知道你的想法。</text>
+	</string>
+
+	<string id="jup_b25_senya_accuse_flint_text">
+		<text>弗林特，又名喜鵲，他是個狡猾的賤人。你應該在扎通的潛行者或其他陣營前揭穿他——給他個極致的報應。</text>
+	</string>
+
+	<string id="jup_b32_get_scanners_task_name">
+		<text>研究特異點：向技術人員取得掃描儀</text>
+	</string>
+
+	<string id="jup_b32_get_scanners_task_text">
+		<text>向諾維可夫取得掃描儀。赫爾曼想搜集神器形成的統計數據，掃描儀必須放在幾個特異點中心才有幫助。</text>
+	</string>
+
+	<string id="jup_b32_task_name">
+		<text>研究特異點：把掃描儀放在特異點</text>
+	</string>
+
+	<string id="jup_b32_task_reward_name">
+		<text>研究特異點：領取你的獎勵</text>
+	</string>
+
+	<string id="jup_b32_task_reward_text">
+		<text>領取先前允諾在特異點放置掃描儀的獎勵。現在掃描儀都就位了，赫爾曼可以開始收集神器形成的數據。</text>
+	</string>
+
+	<string id="jup_b32_task_text">
+		<text>將掃描儀放在特異點中心。赫爾曼想搜集神器形成的統計數據，掃描儀必須放在幾個特異點中心才有幫助。</text>
+	</string>
+
+	<string id="jup_b43_bring_fuzz_kolobok_name">
+		<text>與科學家的合約：把神器活血刺帶給蓋瑞</text>
+	</string>
+
+	<string id="jup_b43_bring_fuzz_kolobok_text">
+		<text>蓋瑞需要神器活血刺以達成他與科學家的合約。把這件神器帶給他。</text>
+	</string>
+
+	<string id="jup_b43_bring_mincer_meat_name">
+		<text>與科學家的合約：把神器肉塊帶給蓋瑞</text>
+	</string>
+
+	<string id="jup_b43_bring_mincer_meat_text">
+		<text>蓋瑞需要神器肉塊以達成他與科學家的合約。把這件神器帶給他。</text>
+	</string>
+
+	<string id="jup_b43_contract_started_name">
+		<text>與科學家的合約：把神器肉塊和活血刺帶給蓋瑞</text>
+	</string>
+
+	<string id="jup_b43_contract_started_text">
+		<text>蓋瑞需要神器肉塊和活血刺，以達成他與科學家的合約。把這些神器帶給他。</text>
+	</string>
+
+	<string id="jup_b43_thanks_for_2_artifacts_name">
+		<text>與科學家的合約：神器已送達</text>
+	</string>
+
+	<string id="jup_b43_thanks_for_2_artifacts_text">
+		<text>蓋瑞擁有兩種神器，他的合約已經達成。</text>
+	</string>
+
+	<string id="jup_b46_duty_founder_pda_name">
+		<text>紀律團的歷史：把紀律團創始人的PDA帶給相關人士</text>
+	</string>
+
+	<string id="jup_b46_duty_founder_pda_text">
+		<text>你找到紀律團創始人的私人PDA，他死在特異點內。你應該把這台PDA交給對領導人生前最後經歷有興趣的人。</text>
+	</string>
+
+	<string id="jup_b46_spatial_bubble_name">
+		<text>特異活動：使用改良過的探測器調查此區</text>
+	</string>
+
+	<string id="jup_b46_spatial_bubble_text">
+		<text>科學家特掃描儀在地堡北邊偵測到異常活動。使用改良過的探測器調查此區。</text>
+	</string>
+
+	<string id="jup_b47_bunker_guards_01_name">
+		<text>保衛科學家：找到可靠的人</text>
+	</string>
+
+	<string id="jup_b47_bunker_guards_01_text">
+		<text>科學家的地堡未受保護。你必須找到可靠的人來守衛。</text>
+	</string>
+
+	<string id="jup_b47_bunker_guards_02_name">
+		<text>保衛科學家：回去找赫爾曼領取獎勵</text>
+	</string>
+
+	<string id="jup_b47_bunker_guards_02_text">
+		<text>你找到了守衛科學家地堡的人。你應該回去找赫爾曼領取應得的獎勵。</text>
+	</string>
+
+	<string id="jup_b47_jupiter_products_01_name">
+		<text>最新的發展：找出木星工廠內的文件</text>
+	</string>
+
+	<string id="jup_b47_jupiter_products_01_text">
+		<text>赫爾曼對木星工廠最新的發展有興趣。去工廠行政區找文件。</text>
+	</string>
+
+	<string id="jup_b47_jupiter_products_02_name">
+		<text>最新的發展：把文件交給赫爾曼</text>
+	</string>
+
+	<string id="jup_b47_jupiter_products_02_text">
+		<text>你找到的文件指出，所有技術文件都被移出廠外。雖然資訊不多，但你應該將這些資訊傳達給赫爾曼。</text>
+	</string>
+
+	<string id="jup_b47_jupiter_products_03_name">
+		<text>最新的發展：把文件和布雷克的PDA交給赫爾曼</text>
+	</string>
+
+	<string id="jup_b47_jupiter_products_03_text">
+		<text>你在尋找文件時發生了傭兵攻擊事件。根據你在傭兵首領，布雷克身上找到的PDA，他們被派來阻止科學家尋找文件。同時，你找到的文件指出，所有技術文件都被移出廠外了。你應該將這些資訊傳達給赫爾曼，並給他看布雷克的PDA。</text>
+	</string>
+
+	<string id="jup_b4_monolith_squad_help_name">
+		<text>黑石組的生還者：與亞尼夫的居民討論掩護的事宜</text>
+	</string>
+
+	<string id="jup_b4_monolith_squad_help_text">
+		<text>一隊黑石組戰士打破了身上的咒語。他們正在尋找掩護，以躲避排放和變異體。你應該和亞尼夫的居民討論，允許黑石組小隊在那裡掩護。</text>
+	</string>
+
+	<string id="jup_b4_stalkers_come_duty_text">
+		<text>帶紀律團招募官去前黑石組小隊。如果黑石組戰士加入紀律團，他們就能在亞尼夫站獲得掩護，躲避排放和變異體。</text>
+	</string>
+
+	<string id="jup_b4_stalkers_come_freedom_text">
+		<text>帶自由團招募官去前黑石組小隊。如果黑石組戰士加入自由團，他們就能在亞尼夫站獲得掩護，躲避排放和變異體。</text>
+	</string>
+
+	<string id="jup_b4_stalkers_come_name">
+		<text>黑石組的生還者：帶招募官去前黑石組小隊</text>
+	</string>
+
+	<string id="jup_b6_anom_1_guard_name">
+		<text>研究特異點：掩護潛行者</text>
+	</string>
+
+	<string id="jup_b6_anom_1_guard_text">
+		<text>看來在特異點進行測量會吸引變異體。你必須掩護潛行者，直到他們收集到所有需要的數據為止。</text>
+	</string>
+
+	<string id="jup_b6_anom_2_guard_name">
+		<text>研究特異點：掩護潛行者</text>
+	</string>
+
+	<string id="jup_b6_anom_2_guard_text">
+		<text>看來在特異點進行測量會吸引科帕奇小鎮的喪屍。你必須掩護潛行者，直到他們收集到所有需要的數據為止。</text>
+	</string>
+
+	<string id="jup_b6_get_reward_name">
+		<text>研究特異點：與赫爾曼交談</text>
+	</string>
+
+	<string id="jup_b6_get_reward_text">
+		<text>已完成測量特異點——通知科學家這個消息，並領取你的獎勵。</text>
+	</string>
+
+	<string id="jup_b6_get_to_anomal_place_name">
+		<text>研究特異點：與潛行者交談</text>
+	</string>
+
+	<string id="jup_b6_get_to_anomal_place_text">
+		<text>與負責測量的潛行者小隊交談——你必須選擇要去的特異點。</text>
+	</string>
+
+	<string id="jup_b6_travel_home_name">
+		<text>研究特異點：與潛行者交談</text>
+	</string>
+
+	<string id="jup_b6_travel_home_text">
+		<text>所有需要的測量都已完成，你可以和小隊一起回到科學家的地堡。</text>
+	</string>
+
+	<string id="jup_b6_travel_name">
+		<text>研究特異點：與潛行者交談</text>
+	</string>
+
+	<string id="jup_b6_travel_text">
+		<text>特異點的測量已完成，你需要和小隊討論下一個目的地。</text>
+	</string>
+
+	<string id="jup_b6_watch_topol_squad_six_name">
+		<text>研究特異點：掩護潛行者</text>
+	</string>
+
+	<string id="jup_b6_watch_topol_squad_six_text">
+		<text>赫爾曼給了你一個工作，負責掩護在特異點測量的潛行者。</text>
+	</string>
+
+	<string id="jup_b8_heli_4_crash_name">
+		<text>魔鬼魚4號：調查墜機現場</text>
+	</string>
+
+	<string id="jup_b8_heli_4_crash_name_2">
+		<text>魔鬼魚4號：找出電子設備燒毀的原因</text>
+	</string>
+
+	<string id="jup_b8_heli_4_crash_text">
+		<text>調查魔鬼魚4號墜機現場</text>
+	</string>
+
+	<string id="jup_b8_heli_4_crash_text_2">
+		<text>你必須找出擊中魔鬼魚4號直升機的強力電荷來源。</text>
+	</string>
+
+	<string id="jup_b9_blackbox_decrypting_name">
+		<text>魔鬼魚1號：把黑盒子交給技術人員解密</text>
+	</string>
+
+	<string id="jup_b9_blackbox_decrypting_text">
+		<text>魔鬼魚1號的黑盒子未在墜機中損毀。必須將它帶給技術人員解密，你才能知道其中的資訊。</text>
+	</string>
+
+	<string id="jup_b9_blackbox_descrypted_after_3_name">
+		<text>魔鬼魚1號：等待黑盒子解密完成</text>
+	</string>
+
+	<string id="jup_b9_blackbox_descrypted_after_3_text">
+		<text>奈喬同意解密黑盒子。他說需要至少三個小時。你必須等他完成。</text>
+	</string>
+
+	<string id="jup_b9_go_for_blackbox_descryption_name">
+		<text>魔鬼魚1號：回去找奈喬看黑盒子的資訊</text>
+	</string>
+
+	<string id="jup_b9_go_for_blackbox_descryption_text">
+		<text>奈喬現在應該已經完成解密了。去找他拿黑盒子的資訊。</text>
+	</string>
+
+	<string id="jup_b9_heli_1_crash_name">
+		<text>魔鬼魚1號：調查墜機現場</text>
+	</string>
+
+	<string id="jup_b9_heli_1_crash_text">
+		<text>調查魔鬼魚1號墜機現場。</text>
+	</string>
+
+	<string id="pas_b400_pripyat_name">
+		<text>普里皮亞季1號：去普里皮亞季</text>
+	</string>
+
+	<string id="pas_b400_pripyat_text">
+		<text>你必須通過普里皮亞季1號地下道，抵達位在普里皮亞季的軍隊疏散點。</text>
+	</string>
+
+	<string id="zat_a9_way_gases_check_chemistry_workshop_name">
+		<text>通往普里皮亞季的路：調查木星工廠的化合物工坊</text>
+	</string>
+
+	<string id="zat_a9_way_gases_check_chemistry_workshop_text">
+		<text>化合物工坊應該有普里皮亞季1號地下道被某種氣體淹沒的資訊。</text>
+	</string>
+
+	<string id="zat_a9_way_gates_check_corps_name">
+		<text>通往普里皮亞季的路：調查木星工廠的行政區域</text>
+	</string>
+
+	<string id="zat_a9_way_gates_check_corps_text">
+		<text>嚮導不知道通往普里皮亞季的安全道路，但他建議你去找由木星工廠通往普里皮亞季的地下道資訊。你應該從行政區域開始著手。</text>
+	</string>
+
+	<string id="zat_a9_way_gates_check_electrical_workshop_name">
+		<text>通往普里皮亞季的路：調查木星工廠的研究室區域</text>
+	</string>
+
+	<string id="zat_a9_way_gates_check_electrical_workshop_text">
+		<text>在行政區域找到的文件提及，木星工廠排空生產複合物。與這件事有關的資訊應該會在研究室區域。</text>
+	</string>
+
+	<string id="zat_a9_way_gates_check_transport_workshop_name">
+		<text>通往普里皮亞季的路：檢查普里皮亞季1號地下道的運輸鎖</text>
+	</string>
+
+	<string id="zat_a9_way_gates_check_transport_workshop_text">
+		<text>地下道的入口在運輸鎖後方。調查這個區域，並尋找任何與地下道有關的資訊。</text>
+	</string>
+
+	<string id="zat_a9_way_to_pripyat_check_archives_name">
+		<text>通往普里皮亞季的路：調查木星工廠的第1部門</text>
+	</string>
+
+	<string id="zat_a9_way_to_pripyat_check_archives_text">
+		<text>第1部門內應胎有普里皮亞季1號地下道的資訊。這些資訊非常有用，你應該去查看。</text>
+	</string>
+
+	<string id="zat_a9_way_to_pripyat_check_delivery_department_name">
+		<text>通往普里皮亞季的路：調查木星工廠的輸送部門</text>
+	</string>
+
+	<string id="zat_a9_way_to_pripyat_check_delivery_department_text">
+		<text>就研究所工坊內的註記看來，排空應該由輸送部門進行，你應該也去那裡查看。</text>
+	</string>
+
+	<string id="zat_a9_way_to_pripyat_check_repair_workshop_name">
+		<text>通往普里皮亞季的路：調查木星工廠的修理場</text>
+	</string>
+
+	<string id="zat_a9_way_to_pripyat_check_repair_workshop_text">
+		<text>輸送部門有關於62號物品在運輸過程中損失的資訊。根據這項紀錄，修理場負責此案件——你應該去那裡查看。</text>
+	</string>
+
+	<string id="zat_a9_way_to_pripyat_tell_stalker_guide_name">
+		<text>通往普里皮亞季的路：與嚮導交談</text>
+	</string>
+
+	<string id="zat_a9_way_to_pripyat_tell_stalker_guide_text">
+		<text>根據其中一架直升機的黑盒子紀錄，軍方單位應該疏散點B28集合。根據在另一台參與任務的直升機內找到的地圖，這個點位在普里皮亞季。你得找到去那裡的辦法——與嚮導談談。</text>
+	</string>
+
+	<string id="zat_b207_depot_reward_task_name">
+		<text>紀律團的倉庫：拿屬於你的東西</text>
+	</string>
+
+	<string id="zat_b207_morgan_depot_task_name">
+		<text>紀律團的倉庫：與摩根見面</text>
+	</string>
+
+	<string id="zat_b207_morgan_depot_task_text">
+		<text>貿易商人摩根讓你進入紀律團倉庫，以換取你對他的生意保密。你得依約在採石場附近與他見面。</text>
+	</string>
+
+	<string id="pas_b400_pripyat_gate_text">
+		<text>你必須打開大門才能前進。</text>
+	</string>
+
+	<string id="pas_b400_pripyat_door_text">
+		<text>你必須打開門才能前進。</text>
+	</string>
+
+	<string id="pas_b400_pripyat_hall_door_text">
+		<text>你必須啟動大門的電源才能前進。</text>
+	</string>
+
+	<string id="pas_b400_pripyat_control_text">
+		<text>你必須打開大門才能前進。這可能可以在控制室進行。</text>
+	</string>
+
+	<string id="jup_b6_employ_stalkers_name">
+		<text>研究小隊：招募正確的人選</text>
+	</string>
+
+	<string id="jup_b6_employ_stalkers_text">
+		<text>一支為科學家工作的研究小隊已毀滅。你必須組一支新的隊伍，以便研究繼續進行。</text>
+	</string>
+
+	<string id="jup_b6_employ_stalkers_reward_name">
+		<text>研究小隊：回去找赫爾曼領獎勵</text>
+	</string>
+
+	<string id="jup_b6_employ_stalkers_reward_text">
+		<text>你找到了新小隊的正確人選。現在回去找赫爾曼領取獎勵。</text>
+	</string>
+
+	<string id="jup_b218_soldier_do_scientist_quest_name">
+		<text>普里皮亞季1號：完成奧澤斯基的任務</text>
+	</string>
+
+	<string id="jup_b218_soldier_do_scientist_quest_text">
+		<text>你必須完成奧澤斯基的變異植物任務，以幫索科洛夫獲取防護服。</text>
+	</string>
+
+	<string id="jup_b200_tech_materials_inside_text">
+		<text>奈喬需要無線電技術的材料。你必須去水泥廠尋找。</text>
+	</string>
+
+	<string id="jup_b25_flint_and_senya_text">
+		<text>弗林特讓斯普林特死在特異點內。與他交談，找出他這麼做的原因。</text>
+	</string>
+
+	<string id="jup_b25_revenge_senya_name">
+		<text>報應：為斯普林特報仇</text>
+	</string>
+
+	<string id="jup_b25_revenge_senya_text">
+		<text>找出讓斯普林特死在特異點內，並拿走神器就跑的人。很不幸，斯普林特無法親口說出奸人的姓名，因此只知道那人是自由團成員。</text>
+	</string>
+
+	<string id="zat_b207_depot_reward_task_duty_text">
+		<text>舒爾加中校允許你從紀律團的倉庫拿任何想要的裝備，只要你有辦法佔領它。</text>
+	</string>
+
+	<string id="zat_b207_depot_reward_task_freedom_text">
+		<text>洛基允許你從紀律團的倉庫拿任何想要的裝備，只要自由團的戰士佔領它。</text>
+	</string>
+
+</string_table>

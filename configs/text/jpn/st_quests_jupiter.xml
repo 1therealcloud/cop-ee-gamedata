@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="jup_a10_actor_agree_back_vano_duties_name">
+		<text>借金：バンディットに金銭を持っていく</text>
+	</string>
+	<string id="jup_a10_actor_agree_back_vano_duties_text">
+		<text>ヴァノはスーツのためにバンディットに金を借りており、利子が速く増えすぎ、払い戻すことができない。彼から、この問題に対処してくれるように依頼された。</text>
+	</string>
+	<string id="jup_a10_actor_back_vano_duties_name">
+		<text>借金：ヴァノのところに戻る</text>
+	</string>
+	<string id="jup_a10_actor_back_vano_duties_text">
+		<text>ヴァノに、彼の謝金返済をどのように行ったかを話す。</text>
+	</string>
+	<string id="jup_a10_kill_all_bandit_name">
+		<text>借金：バンディットと取り引きする</text>
+	</string>
+	<string id="jup_a10_kill_all_bandit_text">
+		<text>ヴァノの借金を返すのが揉めた。バンディットをやっつける。</text>
+	</string>
+	<string id="jup_a12_free_prisoner_get_reward_name">
+		<text>人質：ミタイの友人から報酬を受け取る</text>
+	</string>
+	<string id="jup_a12_free_prisoner_get_reward_text">
+		<text>ミタイが解放された。報酬を受け取るために、酒場で彼の友人に会う。</text>
+	</string>
+	<string id="jup_a12_free_prisoner_name">
+		<text>人質：ミタイの解放。</text>
+	</string>
+	<string id="jup_a12_free_prisoner_not_ready_name">
+		<text>人質：グリズリーと話し、彼が準備のできていることを確かめる</text>
+	</string>
+	<string id="jup_a12_free_prisoner_not_ready_text">
+		<text>人質の解放を試みる前に、グリズリーと話さなければならない。</text>
+	</string>
+	<string id="jup_a12_free_prisoner_power_name">
+		<text>人質：力ずくでミタイを解放する</text>
+	</string>
+	<string id="jup_a12_free_prisoner_power_text">
+		<text>ミタイと呼ばれるストーカーを解放するために、バンディットを倒す。</text>
+	</string>
+	<string id="jup_a12_free_prisoner_power_wait_name">
+		<text>人質：ストーカーたちと会う</text>
+	</string>
+	<string id="jup_a12_free_prisoner_power_wait_text">
+		<text>ストーカーたちは、人質を解放するのを手伝う。一緒にバンディットを攻撃するために、夜に彼らと会う必要がある。</text>
+	</string>
+	<string id="jup_a12_free_prisoner_ransom_name">
+		<text>人質：ミタイの解放のための身代金を揃える</text>
+	</string>
+	<string id="jup_a12_free_prisoner_ransom_text">
+		<text>ミタイと呼ばれるストーカーを解放するために、バンディットのリーダーに払う身代金を用意する。</text>
+	</string>
+	<string id="jup_a12_free_prisoner_text">
+		<text>バンディットによって人質として連れて行かれた、ミタイと呼ばれるストーカーを解放する。</text>
+	</string>
+	<string id="jup_a12_guide_prisoner_name">
+		<text>人質：ミタイをバンディットのキャンプから連れ出す</text>
+	</string>
+	<string id="jup_a12_guide_prisoner_text">
+		<text>バンディットのキャンプは危険すぎて、中に留まれない。キャンプの外へミタイを護衛しなければならない。</text>
+	</string>
+	<string id="jup_a12_talk_with_prisoner_name">
+		<text>人質：ミタイと話す</text>
+	</string>
+	<string id="jup_a12_talk_with_prisoner_text">
+		<text>ミタイは比較的安全。次の行動計画について彼と話す。</text>
+	</string>
+	<string id="jup_a9_way_to_pripyat_tech_name">
+		<text>プリピャチへの道：地下道のことで技術者と話す</text>
+	</string>
+	<string id="jup_a9_way_to_pripyat_tech_text">
+		<text>見つけた書類で、プリピャチに通じるジュピター・プラントの真下に地下道があることが明らかになった。地下道には電力はなく、ガスが満ちて、入口は閉鎖されている。ジェネレーターを始動でき、地下道のロックを開くことができる技術者を見つけなければならない。</text>
+	</string>
+	<string id="jup_b10_ufo_memory_at_text">
+		<text>メモリー・モジュールは専門家が持っている。障害が取り除かれるのを待たなければならない。</text>
+	</string>
+	<string id="jup_b10_ufo_memory_name">
+		<text>無人航空機：メモリー・モジュールの障害を取り除く</text>
+	</string>
+	<string id="jup_b10_ufo_memory_nitro_name">
+		<text>無人航空機：ニトロからメモリー・モジュールを得る</text>
+	</string>
+	<string id="jup_b10_ufo_memory_novikov_name">
+		<text>無人航空機：ノビコフからメモリー・モジュールを得る</text>
+	</string>
+	<string id="jup_b10_ufo_memory_repaired_by_nitro_text">
+		<text>ニトロはメモリー・モジュールの障害を取り除いた。それにどんな情報があるか確かめるために、モジュールを得なくてはならない。</text>
+	</string>
+	<string id="jup_b10_ufo_memory_repaired_by_novikov_text">
+		<text>ノビコフはメモリー・モジュールの障害を取り除いた。それにどんな情報があるか確かめるために、モジュールを得なくてはならない。</text>
+	</string>
+	<string id="jup_b10_ufo_memory_started_text">
+		<text>どうにか無人航空機から、メモリー・モジュールを回収した。それが持つ情報にアクセスするために、その障害を取り除かなければならない。</text>
+	</string>
+	<string id="jup_b10_ufo_memory_wait_name">
+		<text>無人航空機：メモリ・モジュールの障害が取り除かれるのを待つ</text>
+	</string>
+	<string id="jup_b16_oasis_art_name">
+		<text>オアシス：証拠を見つける</text>
+	</string>
+	<string id="jup_b16_oasis_art_text">
+		<text>オアシスが見つかった。そして、この場所は本当に治療をする特性を持っている。科学者に持っていく証拠を見つける必要がある。</text>
+	</string>
+	<string id="jup_b16_oasis_artifact_back_name">
+		<text>オアシス：科学者に証拠を持っていく</text>
+	</string>
+	<string id="jup_b16_oasis_artifact_back_text">
+		<text>オアシスが見つかった。そして、この場所は本当に治療をする特性を持っている。証拠として、科学者にそこで見つけたアーティファクトを持っていく必要がある。</text>
+	</string>
+	<string id="jup_b16_oasis_name">
+		<text>オアシス：伝説が真実かを調べる</text>
+	</string>
+	<string id="jup_b16_oasis_text">
+		<text>トーチカの科学者のオゼルスキーに、ゾーンでの伝説の場所、オアシスを見つけるよう依頼された。噂によれば、いくつかの癒される水域がそこになくてはならない。しかし、誰もそれが実際に存在するかは知らない。</text>
+	</string>
+	<string id="jup_b19_agreed_to_go_name">
+		<text>コパチ村：アンクル・ヤールと一緒に行く</text>
+	</string>
+	<string id="jup_b19_agreed_to_go_text">
+		<text>アンクル・ヤールは何かの手伝いが必要。彼とコパチ村へ行く。</text>
+	</string>
+	<string id="jup_b19_destroy_mercs_name">
+		<text>コパチ村：傭兵たちを倒す</text>
+	</string>
+	<string id="jup_b19_destroy_mercs_text">
+		<text>アンクル・ヤールが傭兵が来るのを予想した。それらを排除しなければならない。</text>
+	</string>
+	<string id="jup_b19_following_yar_name">
+		<text>コパチ村：アンクル・ヤールのそばにいる</text>
+	</string>
+	<string id="jup_b19_following_yar_text">
+		<text>アンクル・ヤールは、そばにいて静かにしているように依頼した。</text>
+	</string>
+	<string id="jup_b19_talk_to_yar_name">
+		<text>コパチ村：アンクル・ヤールと話す</text>
+	</string>
+	<string id="jup_b19_talk_to_yar_text">
+		<text>傭兵らは死んだ。起こったことの説明を得るために、アンクル・ヤールと話さなくてはならない。</text>
+	</string>
+	<string id="jup_b1_bring_art_back_name">
+		<text>周期的プサイ放射：科学者にアノマリー形成物を持っていく</text>
+	</string>
+	<string id="jup_b1_bring_art_back_text">
+		<text>合意したとおりに、見つけたサンプルをハーマンに持っていく。それはアノマリーとの接触によって半分変形したアイテムで、これが周期的プサイ放射の源のように思われる。</text>
+	</string>
+	<string id="jup_b1_get_art_name">
+		<text>周期的プサイ放射：その源を調査する</text>
+	</string>
+	<string id="jup_b1_get_art_text">
+		<text>ある種のアノマリー形成物があるトンネルを調査する。科学者は、周期的プサイ放射フィールドには源があり、それはおそらくアーティファクトのようなものだろうと信じている。</text>
+	</string>
+	<string id="jup_b1_join_squad_name">
+		<text>周期的プサイ放射：トポルの部隊と会う</text>
+	</string>
+	<string id="jup_b1_join_squad_text">
+		<text>トポルの部隊は、断続的なプサイ放射があるトンネルに行った。そこで彼らに会わなければならない。</text>
+	</string>
+	<string id="jup_b1_meet_squad_name">
+		<text>周期的プサイ放射：トポルと話す</text>
+	</string>
+	<string id="jup_b1_meet_squad_text">
+		<text>周期的プサイ放射のあるトンネルに行くために、トポルの部隊に加わる。契約では、科学者が望むものを探索している間、ストーカーたちがトンネルを警備することになっている。</text>
+	</string>
+	<string id="jup_b200_tech_materials_brought_all_text">
+		<text>見つけた無線技術部品をすべて、ニトロに持っていかなくてはならない。</text>
+	</string>
+	<string id="jup_b200_tech_materials_brought_some_text">
+		<text>ニトロは無線技術部品を必要としている。すでに持っているものを彼に渡すか、あるいはもっと見つける。</text>
+	</string>
+	<string id="jup_b200_tech_materials_name">
+		<text>無線装置：ニトロのために部品を見つける</text>
+	</string>
+	<string id="jup_b200_tech_materials_text">
+		<text>ニトロは無線技術部品を必要としている。彼は、セメント工場でそれらを探すべきだと言っている。</text>
+	</string>
+	<string id="jup_b202_actor_items_stolen_01_name">
+		<text>窃盗：誰が盗んだのか見つける</text>
+	</string>
+	<string id="jup_b202_actor_items_stolen_01_text">
+		<text>パーソナルボックスから物を盗むことができた疑わしい人間に会ったかどうか、ヤニフでストーカーたちに尋ねる。</text>
+	</string>
+	<string id="jup_b202_actor_items_stolen_02_name">
+		<text>窃盗：無人駅を調べる</text>
+	</string>
+	<string id="jup_b202_actor_items_stolen_02_text">
+		<text>盗みをしたと思われるストーカーが向かった場所の、無人駅を調べる必要がある。</text>
+	</string>
+	<string id="jup_b202_actor_items_stolen_03_name">
+		<text>窃盗：アイテムを得る</text>
+	</string>
+	<string id="jup_b202_actor_items_stolen_03_text">
+		<text>スナグが盗んだアイテムはすべて、無人駅の後ろの下水道の中の彼の隠し場所にあるに違いない。</text>
+	</string>
+	<string id="jup_b206_anomalous_grove_get_plant_name">
+		<text>怪奇植物：植物のサンプルを得る</text>
+	</string>
+	<string id="jup_b206_anomalous_grove_get_plant_text">
+		<text>怪奇植物で満たされたエリアが、採石場の端の近くに現われた。オゼルスキーに、彼の研究のために植物サンプルを得てくれるように依頼された。</text>
+	</string>
+	<string id="jup_b206_anomalous_grove_have_plant_name">
+		<text>怪奇植物：オゼルスキーにサンプルを渡す</text>
+	</string>
+	<string id="jup_b206_anomalous_grove_have_plant_text">
+		<text>オゼルスキーに植物サンプルを持っていかなければならない。交換として、オゼルスキーは科学的スーツを渡すようにハーマンを説得してくれる。</text>
+	</string>
+	<string id="jup_b208_burers_hunt_kill_burers_name">
+		<text>狩猟：未確認のミュータントを除去する</text>
+	</string>
+	<string id="jup_b208_burers_hunt_kill_burers_text">
+		<text>ジュピター・プラントのトンネルの北で、ストーカーのグループが未確認のミュータントに遭遇した。そのエリアを調査して、ミュータントを除去する。</text>
+	</string>
+	<string id="jup_b208_burers_hunt_take_reward_name">
+		<text>狩猟：トンネルの中でミュータントを殺した報酬を、トラッパーから得る。</text>
+	</string>
+	<string id="jup_b208_burers_hunt_take_reward_text">
+		<text>ジュピター・プラントのトンネルの北のミュータントが除去された。トラッパーに通知し、報酬をもらわなくてならない。</text>
+	</string>
+	<string id="jup_b209_hypotheses_1_name">
+		<text>仮説：傾斜地の中心にスキャナを置く</text>
+	</string>
+	<string id="jup_b209_hypotheses_1_text">
+		<text>オゼルスキーの仮説を証明するために、傾斜地の中心にスキャナを置く。</text>
+	</string>
+	<string id="jup_b209_hypotheses_2_name">
+		<text>仮説：実験が終了するのを待つ</text>
+	</string>
+	<string id="jup_b209_hypotheses_2_text">
+		<text>今、スキャナは動作モードで、ミュータントの存在を登録し始めた。仮説を確認するか反証するために十分なデータが集められるまで、待たなければならない。</text>
+	</string>
+	<string id="jup_b209_hypotheses_3_name">
+		<text>仮説：スキャナを取る</text>
+	</string>
+	<string id="jup_b209_hypotheses_3_text">
+		<text>オゼルスキーの仮説を確認するための十分なデータが集められた。スキャナを取る。</text>
+	</string>
+	<string id="jup_b209_hypotheses_4_name">
+		<text>仮説：オゼルスキーにスキャナを渡す</text>
+	</string>
+	<string id="jup_b209_hypotheses_4_text">
+		<text>オゼルスキーにスキャナを渡さなくてはならない。集められたデータは彼の仮説を確認するのに十分だ。</text>
+	</string>
+	<string id="jup_b211_kill_bloodsuckers_name">
+		<text>狩猟：沼地のブラッドサッカーを殺す</text>
+	</string>
+	<string id="jup_b211_kill_bloodsuckers_text">
+		<text>セメント工場の後ろの、フェンで沼地のブラッドサッカーのグループが目撃された。地元のストーカーたちに、それらを除去してくれるように依頼された。</text>
+	</string>
+	<string id="jup_b211_take_reward_name">
+		<text>狩猟：沼地のブラッドサッカーを殺した報酬を、トラッパーから得る</text>
+	</string>
+	<string id="jup_b211_take_reward_text">
+		<text>沼地のブラッドサッカーは死んだ。トラッパーから、地元のストーカーたちの報酬を得なくてはならない。</text>
+	</string>
+	<string id="jup_b212_jupiter_kill_chimera_name">
+		<text>夜の狩り：キメラを殺す</text>
+	</string>
+	<string id="jup_b212_jupiter_kill_chimera_text">
+		<text>キメラは夜行性の捕食動物で、誰もその昼間の巣の場所を知らない。換気複合施設で、それが現われる夜に殺さなければならない。</text>
+	</string>
+	<string id="jup_b212_jupiter_tell_animalboy_about_chimera_name">
+		<text>夜の狩り：トラッパーに、キメラの死んだことを告げる</text>
+	</string>
+	<string id="jup_b212_jupiter_tell_animalboy_about_chimera_text">
+		<text>キメラは死に、ハンターのフォックスの復讐がされた。これをトラッパーに告げる。</text>
+	</string>
+	<string id="jup_b217_get_tools_1_2_name">
+		<text>ツール：ニトロにツールを持っていく</text>
+	</string>
+	<string id="jup_b217_get_tools_1_2_text">
+		<text>ニトロに、2セットのツールを得るように依頼された：基本作業用1セットと上級作業用1セット。この技術者はその報酬を支払ってくれて、もっと高度な武器とアーマーの改造ができるようになる。</text>
+	</string>
+	<string id="jup_b217_get_tools_1_3_name">
+		<text>ツール：ニトロにツールを持っていく</text>
+	</string>
+	<string id="jup_b217_get_tools_1_3_text">
+		<text>ニトロに、2セットのツールを得るように依頼された：基本作業用1セットと測定作業用1セット。この技術者はその報酬を支払ってくれて、もっと高度な武器とアーマーの改造ができるようになる。</text>
+	</string>
+	<string id="jup_b217_get_tools_1_name">
+		<text>ツール：ニトロにツールを持っていく</text>
+	</string>
+	<string id="jup_b217_get_tools_1_text">
+		<text>ニトロに、基本作業用ツールの1セットを得るように依頼された。この技術者はその報酬を支払ってくれて、もっと高度な武器とアーマーの改造ができるようになる。</text>
+	</string>
+	<string id="jup_b217_get_tools_2_3_name">
+		<text>ツール：ニトロにツールを持っていく</text>
+	</string>
+	<string id="jup_b217_get_tools_2_3_text">
+		<text>ニトロに、2セットのツールを得るように依頼された：上級作業用1セットと測定作業用1セット。この技術者はその報酬を支払ってくれて、もっと高度な武器とアーマーの改造ができるようになる。</text>
+	</string>
+	<string id="jup_b217_get_tools_2_name">
+		<text>ツール：ニトロにツールを持っていく</text>
+	</string>
+	<string id="jup_b217_get_tools_2_text">
+		<text>ニトロに、上級作業用ツールの1セットを得るように依頼された。この技術者はその報酬を支払ってくれて、もっと高度な武器とアーマーの改造ができるようになる。</text>
+	</string>
+	<string id="jup_b217_get_tools_3_name">
+		<text>ツール：ニトロにツールを持っていく</text>
+	</string>
+	<string id="jup_b217_get_tools_3_text">
+		<text>ニトロに、測定作業用ツールの1セットを得るように依頼された。この技術者はその報酬を支払ってくれて、もっと高度な武器とアーマーの改造ができるようになる。</text>
+	</string>
+	<string id="jup_b217_mechanic_toolkit_search_name">
+		<text>ツール：ニトロにツールを持っていく</text>
+	</string>
+	<string id="jup_b217_mechanic_toolkit_search_text">
+		<text>ニトロに、3セットのツールを得るように依頼された：基本作業用1セット、上級作業用1セット、測定作業用1セット。この技術者はその報酬を支払ってくれて、もっと高度な武器とアーマーの改造ができるようになる。</text>
+	</string>
+	<string id="jup_b218_actor_outfit_name">
+		<text>プリピャチ第一地下道：閉サイクル呼吸モジュール付きスーツを見つける</text>
+	</string>
+	<string id="jup_b218_actor_outfit_text">
+		<text>プリピャチ第一地下道は未知の物質と混合した二酸化炭素で満たされており、そこを通り抜けるには閉サイクル呼吸モジュール付きスーツが必要となる。</text>
+	</string>
+	<string id="jup_b218_monolith_guide_to_zulus_name">
+		<text>プリピャチ第一地下道：ストライダーを連れてズールーに会う</text>
+	</string>
+	<string id="jup_b218_monolith_guide_to_zulus_text">
+		<text>ストライダーを連れて行ってズールーに会い、チームの新メンバーとして彼を紹介しなければならない。モノリス・スーツを着用している戦士が独りで現われれば、ズールーは歓迎しないかもしれない。</text>
+	</string>
+	<string id="jup_b218_monolith_name">
+		<text>プリピャチ第一地下道：ストライダーと防護服について話す</text>
+	</string>
+	<string id="jup_b218_monolith_text">
+		<text>プリピャチ第一地下道は未知の物質と混合した二酸化炭素で満たされている。そこを通り抜けるには閉サイクル呼吸モジュール付きスーツが必要となることを、ストライダーに告げなくてはならない。</text>
+	</string>
+	<string id="jup_b218_pripyat_group_gathering_name">
+		<text>プリピャチ第一地下道：プリピャチに行くチームを集める</text>
+	</string>
+	<string id="jup_b218_pripyat_group_gathering_text">
+		<text>ニトロはプリピャチ第一地下道のロックを開くことができたが、彼は警護なしでジュピタープラントに入ることを拒否している。彼はさらに、地下道を一緒に通り抜ける数人を得ることを勧めている。すでにズールーがいるが、彼のもとへ新兵たちを送らなくてはならない。</text>
+	</string>
+	<string id="jup_b218_pripyat_group_zulus_talk_name">
+		<text>プリピャチ第一地下道：ズールーにプリピャチへ行く話をする</text>
+	</string>
+	<string id="jup_b218_pripyat_group_zulus_talk_text">
+		<text>ニトロはプリピャチ第一地下道のロックを開くことができたが、彼は警護なしでジュピタープラントに入ることを拒否している。彼はさらに、地下道を一緒に通り抜ける数人を得ることを勧めている。チームを集めるのを助けてくれるように、ズールーと話さなくてはならない。</text>
+	</string>
+	<string id="jup_b218_soldier_guide_to_zulus_name">
+		<text>プリピャチ第一地下道：ソコロフを連れてズールーに会う</text>
+	</string>
+	<string id="jup_b218_soldier_guide_to_zulus_text">
+		<text>ソコロフはプリピャチへ行くことに合意しており、彼がトーチカを去る時に科学的スーツを得られる。彼を連れて行ってズールーに会い、チームの新メンバーとして彼を紹介しなければならない。</text>
+	</string>
+	<string id="jup_b218_soldier_name">
+		<text>プリピャチ第一地下道：ソコロフと防護服について話す</text>
+	</string>
+	<string id="jup_b218_soldier_talk_to_scientist_name">
+		<text>プリピャチ第一地下道：ソコロフのためのスーツについてオゼルスキーと話す</text>
+	</string>
+	<string id="jup_b218_soldier_talk_to_scientist_text">
+		<text>ソコロフは防護のために科学的スーツを着用したい。しかし、ハーマンはトーチカにあるスーツを彼に渡さない。それにはオゼルスキーと話さなくてはならない。彼は良い人間で扱いやすい。</text>
+	</string>
+	<string id="jup_b218_soldier_tell_outfit_name">
+		<text>プリピャチ第一地下道：ソコロフに科学的スーツのことを話す</text>
+	</string>
+	<string id="jup_b218_soldier_tell_outfit_text">
+		<text>オゼルスキーは植物サンプルに非常に満足している。ハーマンから科学的スーツを得られるとソコロフに伝えてくれるように、彼に依頼された。</text>
+	</string>
+	<string id="jup_b218_soldier_text">
+		<text>プリピャチ第一地下道は未知の物質と混合した二酸化炭素で満たされている。そこを通り抜けるには閉サイクル呼吸モジュール付きスーツが必要となることを、ソコロフに告げなくてはならない。</text>
+	</string>
+	<string id="jup_b218_stalker_bring_money_name">
+		<text>プリピャチ第一地下道：スーツのための金をヴァノに得る</text>
+	</string>
+	<string id="jup_b218_stalker_bring_money_text">
+		<text>ヴァノがバンディットに金を借りて買ったスーツは閉サイクル呼吸モジュール付きのもの。負債を払うためにそれを質にした。今、彼はそれを買い戻すために3,000を必要としている。</text>
+	</string>
+	<string id="jup_b218_stalker_guide_to_zulus_name">
+		<text>プリピャチ第一地下道：ヴァノを連れてズールーに会う</text>
+	</string>
+	<string id="jup_b218_stalker_guide_to_zulus_text">
+		<text>ヴァノはプリピャチへ行く意思がある。ヴァノを連れて行ってズールーに会い、チームの新メンバーとして彼を紹介しなければならない。ヴァノは途中で、彼のスーツを買い戻せる。</text>
+	</string>
+	<string id="jup_b218_stalker_name">
+		<text>プリピャチ第一地下道：ヴァノと防護服について話す</text>
+	</string>
+	<string id="jup_b218_stalker_text">
+		<text>プリピャチ第一地下道は未知の物質と混合した二酸化炭素で満たされている。そこを通り抜けるには閉サイクル呼吸モジュール付きスーツが必要となることを、ヴァノに告げなくてはならない。</text>
+	</string>
+	<string id="jup_b25_accuse_flint_end_text">
+		<text>フリント、またの名をマギー、は卑劣な奴なので、ザトンあるいは他の派閥でストーカーたちに彼のことを暴露する。これは、彼に良いレッスンを与えることになる。</text>
+	</string>
+	<string id="jup_b25_accuse_flint_first_text">
+		<text>フリントは見栄を張っており、見てもいないことを話す。彼のペテンを暴露するのが良いだろう。</text>
+	</string>
+	<string id="jup_b25_accuse_flint_name">
+		<text>偽の要求:フリントとのやり取り</text>
+	</string>
+	<string id="jup_b25_accuse_flint_second_text">
+		<text>フリントは他の業績をはっきり認められている。彼は口を滑らさないことを学ぶ必要がある。</text>
+	</string>
+	<string id="jup_b25_accuse_flint_third_text">
+		<text>フリントの見栄は度を過ぎている。彼と話し、彼に用件をわからせなくてはならない。</text>
+	</string>
+	<string id="jup_b25_senya_accuse_flint_text">
+		<text>フリント、またの名をマギー、は卑劣な奴なので、ザトンあるいは他の派閥でストーカーたちに彼のことを暴露する。それは最も高い注文への報復になる。</text>
+	</string>
+	<string id="jup_b32_get_scanners_task_name">
+		<text>アノマリー研究：技術者からスキャナを得る</text>
+	</string>
+	<string id="jup_b32_get_scanners_task_text">
+		<text>ノビコフからスキャナを得る。ハーマンはアーティファクトの構成の統計を集めたい。この目的のために、いくつかのアノマリーの中心にスキャナを置かなくてはならない。</text>
+	</string>
+	<string id="jup_b32_task_name">
+		<text>アノマリー研究：アノマリーにスキャナを置く</text>
+	</string>
+	<string id="jup_b32_task_reward_name">
+		<text>アノマリー研究：報酬を得る</text>
+	</string>
+	<string id="jup_b32_task_reward_text">
+		<text>アノマリーの中にスキャナを置くために約束された報酬を得る。今、スキャナはその位置にあり、ハーマンはアーティファクトの構成データを集め始めることができる。</text>
+	</string>
+	<string id="jup_b32_task_text">
+		<text>アノマリーの中心にスキャナを置く。ハーマンはアーティファクトの構成の統計を集めたい。この目的のために、いくつかのアノマリーの中心にスキャナを置かなくてはならない。</text>
+	</string>
+	<string id="jup_b43_bring_fuzz_kolobok_name">
+		<text>科学者との契約：ゲーリーにアーティファクトのコロボークを持っていく</text>
+	</string>
+	<string id="jup_b43_bring_fuzz_kolobok_text">
+		<text>ゲーリーは科学者との契約を完遂するためにアーティファクトのコロボークを必要としている。彼に、このアーティファクトを持っていく。</text>
+	</string>
+	<string id="jup_b43_bring_mincer_meat_name">
+		<text>科学者との契約：ゲーリーにアーティファクトのミート・チャンクを持っていく</text>
+	</string>
+	<string id="jup_b43_bring_mincer_meat_text">
+		<text>ゲーリーは科学者との契約を完遂するためにアーティファクトのミート・チャンクを必要としている。彼に、このアーティファクトを持っていく。</text>
+	</string>
+	<string id="jup_b43_contract_started_name">
+		<text>科学者との契約：ゲーリーにアーティファクトのミート・チャンクとコロボークを持っていく</text>
+	</string>
+	<string id="jup_b43_contract_started_text">
+		<text>ゲーリーは科学者との契約を完遂するためにアーティファクトのミート・チャンクとコロボークを必要としている。彼に、これらのアーティファクトを持っていく。</text>
+	</string>
+	<string id="jup_b43_thanks_for_2_artifacts_name">
+		<text>科学者との契約：アーティファクトを配達</text>
+	</string>
+	<string id="jup_b43_thanks_for_2_artifacts_text">
+		<text>ゲーリーは両方のアーティファクトを持っている。そして、彼の契約は完遂された。</text>
+	</string>
+	<string id="jup_b46_duty_founder_pda_name">
+		<text>デューティーの歴史：利害関係者にデューティー創立者のPDAを渡す</text>
+	</string>
+	<string id="jup_b46_duty_founder_pda_text">
+		<text>デューティー創立者の個人のPDAを見つけた。彼はアノマリーの中で死んだ。派閥リーダーの最後の瞬間に興味を持っている者へ、このPDAを渡す。</text>
+	</string>
+	<string id="jup_b46_spatial_bubble_name">
+		<text>アノマリー活動：改良された検出器を使用して、そのエリアを調査する</text>
+	</string>
+	<string id="jup_b46_spatial_bubble_text">
+		<text>科学者のスキャナは、トーチカの北での異常な活動を記録した。改良された検出器を使用して、そのエリアを調査する。</text>
+	</string>
+	<string id="jup_b47_bunker_guards_01_name">
+		<text>科学者の警護：信頼できる者たちを見つける</text>
+	</string>
+	<string id="jup_b47_bunker_guards_01_text">
+		<text>科学者のトーチカは無防備になっている。それを警護するために、信頼できる者たちを見つけなくてはならない。</text>
+	</string>
+	<string id="jup_b47_bunker_guards_02_name">
+		<text>科学者の警護：報酬のためにハーマンのところに戻る</text>
+	</string>
+	<string id="jup_b47_bunker_guards_02_text">
+		<text>科学者のトーチカのための警備兵たちを見つけた。その報酬を受け取りに、ハーマンのところに戻らなくてはならない。</text>
+	</string>
+	<string id="jup_b47_jupiter_products_01_name">
+		<text>最後の開発：ジュピター・プラントで書類を見つける</text>
+	</string>
+	<string id="jup_b47_jupiter_products_01_text">
+		<text>ハーマンは、ジュピター・プラントでの最後の開発に興味を持っている。プラントの管理部の中で書類を見つける。</text>
+	</string>
+	<string id="jup_b47_jupiter_products_02_name">
+		<text>最後の開発：書類をハーマンに持っていく</text>
+	</string>
+	<string id="jup_b47_jupiter_products_02_text">
+		<text>見つけた書類は、技術的な書類はすべてプラントの外部に移動されたことを示している。それは多くではないが、ハーマンにこの情報を伝えなくてはならない。</text>
+	</string>
+	<string id="jup_b47_jupiter_products_03_name">
+		<text>最後の開発：書類とブラックのPDAをハーマンに持っていく</text>
+	</string>
+	<string id="jup_b47_jupiter_products_03_text">
+		<text>書類を探している間に、傭兵の攻撃が起った。そのリーダーのブラックから見つけたPDAによれば、彼らは科学者たちが書類を探すのを妨げるために送られた。同時に見つけた書類は、技術的な書類はすべてプラントの外部に移動されたことを示している。ハーマンにこの情報を伝え、彼にブラックのPDAを見せなくてはならない。</text>
+	</string>
+	<string id="jup_b4_monolith_squad_help_name">
+		<text>モノリス生存者：防護についてヤニフの住人たちと話す</text>
+	</string>
+	<string id="jup_b4_monolith_squad_help_text">
+		<text>モノリサーの部隊は、呪縛から解放された。彼らは光熱放射とミュータントからの防御地を探している。ヤニフ駅の住人に、モノリス部隊がそこの防護ができることを提案しなくてはならない。</text>
+	</string>
+	<string id="jup_b4_stalkers_come_duty_text">
+		<text>デューティーの採用担当士官を、元のモノリス部隊へ連れて行く。モノリサーがデューティーに参加すれば、彼らはヤニフ駅で光熱放射とミュータントから防護ができる。</text>
+	</string>
+	<string id="jup_b4_stalkers_come_freedom_text">
+		<text>フリーダムの採用担当士官を、元のモノリス部隊へ連れて行く。モノリサーがフリーダムに参加すれば、彼らはヤニフ駅で光熱放射とミュータントから防護ができる。</text>
+	</string>
+	<string id="jup_b4_stalkers_come_name">
+		<text>モノリス生存者：採用担当士官を、元のモノリス部隊へ連れて行く</text>
+	</string>
+	<string id="jup_b6_anom_1_guard_name">
+		<text>アノマリー研究：ストーカーたちを警護する</text>
+	</string>
+	<string id="jup_b6_anom_1_guard_text">
+		<text>アノマリーの中での調査が、ミュータントを引きつけたようだ。要求されるデータをすべて集めるまで、ストーカーたちを警護しなければならない。</text>
+	</string>
+	<string id="jup_b6_anom_2_guard_name">
+		<text>アノマリー研究：ストーカーたちを警護する</text>
+	</string>
+	<string id="jup_b6_anom_2_guard_text">
+		<text>アノマリーの中での調査が、コパチ村のゾンビを引きつけたようだ。要求されるデータをすべて集めるまで、ストーカーたちを警護しなければならない。</text>
+	</string>
+	<string id="jup_b6_get_reward_name">
+		<text>アノマリー研究：ハーマンと話す</text>
+	</string>
+	<string id="jup_b6_get_reward_text">
+		<text>アノマリーの調査が完了した。このことを科学者に通知し、報酬をもらう。</text>
+	</string>
+	<string id="jup_b6_get_to_anomal_place_name">
+		<text>アノマリー研究：ストーカーたちと話す</text>
+	</string>
+	<string id="jup_b6_get_to_anomal_place_text">
+		<text>調査の責任を負うストーカー・チームと話す。どのアノマリーへ行くべきかを選ぶ必要がある。</text>
+	</string>
+	<string id="jup_b6_travel_home_name">
+		<text>アノマリー研究：ストーカーたちと話す</text>
+	</string>
+	<string id="jup_b6_travel_home_text">
+		<text>必要な調査をすべて行った。チームと一緒に科学者のトーチカへ戻ることができる。</text>
+	</string>
+	<string id="jup_b6_travel_name">
+		<text>アノマリー研究：ストーカーたちと話す</text>
+	</string>
+	<string id="jup_b6_travel_text">
+		<text>アノマリーの調査をひとつ終えた。次にどこへ行くべきかをチームと話す必要がある。</text>
+	</string>
+	<string id="jup_b6_watch_topol_squad_six_name">
+		<text>アノマリー研究：ストーカーたちを警護する</text>
+	</string>
+	<string id="jup_b6_watch_topol_squad_six_text">
+		<text>ハーマンから、ストーカーたちがアノマリーの中で調査している間、彼らを警護する仕事を提供された。</text>
+	</string>
+	<string id="jup_b8_heli_4_crash_name">
+		<text>スティングレイ4号機：墜落現場を調査する</text>
+	</string>
+	<string id="jup_b8_heli_4_crash_name_2">
+		<text>スティングレイ4号機：電気的な焼け焦げの原因を見つける</text>
+	</string>
+	<string id="jup_b8_heli_4_crash_text">
+		<text>スティングレイ4号機の墜落現場を調べる。</text>
+	</string>
+	<string id="jup_b8_heli_4_crash_text_2">
+		<text>スティングレイ4号機ヘリを打った、強力な電荷の源を見つけなければならない。</text>
+	</string>
+	<string id="jup_b9_blackbox_decrypting_name">
+		<text>スティングレイ1号機：解読のために技術者にブラックボックスを渡す</text>
+	</string>
+	<string id="jup_b9_blackbox_decrypting_text">
+		<text>スティングレイ1号機のブラックボックスが墜落で残存した。それが保持する情報にアクセスして解読するために、技術者にそれを持っていかなければならない。</text>
+	</string>
+	<string id="jup_b9_blackbox_descrypted_after_3_name">
+		<text>スティングレイ1号機：ブラックボックス解読が完了するのを待つ</text>
+	</string>
+	<string id="jup_b9_blackbox_descrypted_after_3_text">
+		<text>ニトロは、ブラックボックスの解読に合意した。彼は3時間ほどかかると言っている。彼が終了するのを待たなければなならない。</text>
+	</string>
+	<string id="jup_b9_go_for_blackbox_descryption_name">
+		<text>スティングレイ1号機：ブラックボックスの情報を取りにニトロのところに戻る</text>
+	</string>
+	<string id="jup_b9_go_for_blackbox_descryption_text">
+		<text>ニトロは、今ごろはもう解読プロセスを終えているに違いない。ブラックボックスが保持する情報を得るために、ニトロと会いに行く。</text>
+	</string>
+	<string id="jup_b9_heli_1_crash_name">
+		<text>スティングレイ1号機：墜落現場を調べる</text>
+	</string>
+	<string id="jup_b9_heli_1_crash_text">
+		<text>スティングレイ1号機の墜落現場を調べる。</text>
+	</string>
+	<string id="pas_b400_pripyat_name">
+		<text>プリピャチ第一地下道：プリピャチに到達する</text>
+	</string>
+	<string id="pas_b400_pripyat_text">
+		<text>プリピャチ第一地下道を抜け、プリピャチ内の軍の撤退ポイントに達しなければならない。</text>
+	</string>
+	<string id="zat_a9_way_gases_check_chemistry_workshop_name">
+		<text>プリピャチへの道：ジュピター・プラントで化学工場を調査する</text>
+	</string>
+	<string id="zat_a9_way_gases_check_chemistry_workshop_text">
+		<text>化学工場には、プリピャチ第一地下道に充満するある種のガスに関する情報があるはず。</text>
+	</string>
+	<string id="zat_a9_way_gates_check_corps_name">
+		<text>プリピャチへの道：ジュピター・プラントの管理部を調査する</text>
+	</string>
+	<string id="zat_a9_way_gates_check_corps_text">
+		<text>ガイドはプリピャチへの安全なルートのことを知らない。しかし、彼はジュピター・プラントから町に通じる地下トンネルに関する情報を、どこで見つけることができるか示唆した。管理部でそれを始める。</text>
+	</string>
+	<string id="zat_a9_way_gates_check_electrical_workshop_name">
+		<text>プリピャチへの道：ジュピター・プラントの研究所を調査する</text>
+	</string>
+	<string id="zat_a9_way_gates_check_electrical_workshop_text">
+		<text>管理部で見つかった書類は、ジュピター・プラントプラントからの生産複合施設の撤退に言及している。この件に関する情報は研究所にあるに違いない。</text>
+	</string>
+	<string id="zat_a9_way_gates_check_transport_workshop_name">
+		<text>プリピャチへの道：地下道の輸送ロックを調べる</text>
+	</string>
+	<string id="zat_a9_way_gates_check_transport_workshop_text">
+		<text>地下道の入口は輸送ロックの後ろにある。そのエリアを調査して、地下道に関する何かの情報を探す。</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_check_archives_name">
+		<text>プリピャチへの道：ジュピター・プラントの第一部門を調査する</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_check_archives_text">
+		<text>第一部門にプリピャチ第一地下道に関する情報があるに違いない。この情報は非常に役に立つので、そこを調べなくてはならない。</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_check_delivery_department_name">
+		<text>プリピャチへの道：ジュピター・プラントの配送部門を調査する</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_check_delivery_department_text">
+		<text>研究所の中のノートによって判断すると、その撤退は配送部門によって実行されと思われる。したがって、その場所を同様に調べる。</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_check_repair_workshop_name">
+		<text>プリピャチへの道：ジュピター・プラントの修理工場を調査する</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_check_repair_workshop_text">
+		<text>配送部門には、アイテム62と呼ばれた物の輸送の間の損失に関する情報があった。記録によれば、修理工場がこの件の取り扱いの責任を負っていた。その場所を調べる。</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_tell_stalker_guide_name">
+		<text>プリピャチへの道：ガイドと話す</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_tell_stalker_guide_text">
+		<text>ヘリの1機のブラックボックスの録音によれば、軍の部隊は、撤退ポイントB28に集まることになっていた。ミッションを行った別のヘリで見つかった地図では、このポイントはプリピャチに位置する。そこにたどり着く道を見つけなくてはならないので、それについてガイドと話す。</text>
+	</string>
+	<string id="zat_b207_depot_reward_task_name">
+		<text>デューティーの倉庫：請け負ったものを得る</text>
+	</string>
+	<string id="zat_b207_morgan_depot_task_name">
+		<text>デューティーの倉庫：モーガンに会う</text>
+	</string>
+	<string id="zat_b207_morgan_depot_task_text">
+		<text>トレーダーのモーガンは、彼の“ビジネス”を内密にする報酬として、デューティーの倉庫へのアクセスを提供した。約束した採石場の近くで、彼に会う必要がある。</text>
+	</string>
+	<string id="pas_b400_pripyat_gate_text">
+		<text>進むには、ゲートを開かなければならない。</text>
+	</string>
+	<string id="pas_b400_pripyat_door_text">
+		<text>進むには、ドアを開かなければならない。</text>
+	</string>
+	<string id="pas_b400_pripyat_hall_door_text">
+		<text>進むには、ゲートへの電源を入れなくてはならない。</text>
+	</string>
+	<string id="pas_b400_pripyat_control_text">
+		<text>進むには、ゲートの障害物を取り除かなければならない。おそらく管理室から行うことができる。</text>
+	</string>
+	<string id="jup_b6_employ_stalkers_name">
+		<text>研究グループ：ふさわしい人々を雇う</text>
+	</string>
+	<string id="jup_b6_employ_stalkers_text">
+		<text>科学者のために働く研究グループがやられた。研究を継続できるように、新しいグループを配置しなければならない。</text>
+	</string>
+	<string id="jup_b6_employ_stalkers_reward_name">
+		<text>研究グループ：ハーマンから報酬を受け取りに行く</text>
+	</string>
+	<string id="jup_b6_employ_stalkers_reward_text">
+		<text>新しい研究グループに適切な人々を見つけた。報酬を受け取りに、ハーマンのところに戻る。</text>
+	</string>
+	<string id="jup_b218_soldier_do_scientist_quest_name">
+		<text>プリピャチ1：オゼルスキーのミッションを完遂</text>
+	</string>
+	<string id="jup_b218_soldier_do_scientist_quest_text">
+		<text>ソコロフのために防護スーツを得るために、怪奇植物と共に、オゼルスキーのミッションを完遂しなくてはならない。</text>
+	</string>
+	<string id="jup_b200_tech_materials_inside_text">
+		<text>ニトロは無線技術用の材料が必要だ。セメント工場でそれらを見つけなくてはならない。</text>
+	</string>
+	<string id="jup_b25_flint_and_senya_text">
+		<text>アノマリーの中で死ぬように、スプリンターを置き去りにしたのはフリントだ。奴と話し、なぜ奴がそうしたのか調べてくれ。</text>
+	</string>
+	<string id="jup_b25_revenge_senya_name">
+		<text>仕返し：スプリンターの復讐をする</text>
+	</string>
+	<string id="jup_b25_revenge_senya_text">
+		<text>アノマリーの中で死ぬように、スプリンターを置き去りにした奴を見つける。不運にも、スプリンターはそいつの名前を言わなかった。わかっているのは、奴はフリーダム・メンバーであるということだ。</text>
+	</string>
+	<string id="zat_b207_depot_reward_task_duty_text">
+		<text>シュルガ中佐は、デューティー倉庫を占拠すれば、望む装備を何でもそこから得ることを許可した。</text>
+	</string>
+	<string id="zat_b207_depot_reward_task_freedom_text">
+		<text>ロキは、デューティー倉庫がフリーダム戦士に保持される間、望む装備を何でもそこから得ることを認めた。</text>
+	</string>
+</string_table>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ui_map_desc_mp_military_1_large">
+		<text>Egy elhagyott katonai bбzis hasznбlhatatlan teherautуkkal йs APC-kkel, leromlott fхhadiszбllбsokkal йs laktanyбkkal. Az elhagyatott megjelenйs azonban csalуka: ez egy igazi tбrgy aranybбnya, ami azt jelenti, hogy az ellensйg bбrmelyik sarkon leselkedhet.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_military_2_large">
+		<text>Ez a rйgi falu valуban baljуs hely. Ha elйg bбtor vagy ahhoz, hogy idejцjj, kйszьlj fel arra, hogy elkerьld a fejedbe fъrуdу golyу formбjбban tцrtйnх ьdvцzlйst. Itt egyetlen hely sem biztonsбgos, ezйrt a tбvcsх йs a hangtompнtу legyen veled!</text>
+	</string>
+
+	<string id="ui_map_desc_mp_military_2_short">
+		<text>Ez a rйgi falu valуban baljуs hely. Lehet, hogy eljutottбl ide, de most nincs idх pihenni.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_military_1_short">
+		<text>Egy elhagyott katonai bбzis elhagyatott teherautуkkal йs APC-kkel, leromlott fхhadiszбllбsokkal йs laktanyбkkal.</text>
+	</string>
+
+</string_table>

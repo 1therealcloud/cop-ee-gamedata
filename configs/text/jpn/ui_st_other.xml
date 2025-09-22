@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="Btn_Cancel">
+		<text>キャンセル</text>
+	</string>
+	<string id="Btn_No">
+		<text>いいえ</text>
+	</string>
+	<string id="Btn_OK">
+		<text>OK</text>
+	</string>
+	<string id="Btn_Yes">
+		<text>はい</text>
+	</string>
+	<string id="bad">
+		<text>悪い</text>
+	</string>
+	<string id="enemy">
+		<text>敵</text>
+	</string>
+	<string id="excellent">
+		<text>優秀</text>
+	</string>
+	<string id="experienced">
+		<text>経験者</text>
+	</string>
+	<string id="friendly">
+		<text>フレンド</text>
+	</string>
+	<string id="global_map">
+		<text>ゾーンのマップ</text>
+	</string>
+	<string id="good">
+		<text>良い</text>
+	</string>
+	<string id="indifferent">
+		<text>普通</text>
+	</string>
+	<string id="master">
+		<text>マスター</text>
+	</string>
+	<string id="mm_mp_pda_hunt">
+		<text>PDAボーナス</text>
+	</string>
+	<string id="mp_only_one_voting">
+		<text>一回のみ投票が有効</text>
+	</string>
+	<string id="neutral">
+		<text>中立</text>
+	</string>
+	<string id="novice">
+		<text>ルーキー</text>
+	</string>
+	<string id="st_game">
+		<text>ゲーム</text>
+	</string>
+	<string id="st_item_used">
+		<text>使用</text>
+	</string>
+	<string id="st_level">
+		<text>レベル</text>
+	</string>
+	<string id="st_loading_ai_objects">
+		<text>AIオブジェクトをロード中</text>
+	</string>
+	<string id="st_loading_alife_simulator">
+		<text>サーバー：有効シミュレーターをロード中</text>
+	</string>
+	<string id="st_loading_cform">
+		<text>CFORMをロード中</text>
+	</string>
+	<string id="st_loading_details">
+		<text>ディティールをロード中</text>
+	</string>
+	<string id="st_loading_geometry">
+		<text>ジオメトリをロード中</text>
+	</string>
+	<string id="st_loading_saved_game">
+		<text>セーブゲームをロード中</text>
+	</string>
+	<string id="st_loading_sectors_portals">
+		<text>セクターとポータルをロード中</text>
+	</string>
+	<string id="st_loading_shaders">
+		<text>シェイダーをロード中</text>
+	</string>
+	<string id="st_loading_spatial_db">
+		<text>スペシャルDBをロード中</text>
+	</string>
+	<string id="st_loading_textures">
+		<text>テクスチャーをロード中</text>
+	</string>
+	<string id="st_mp_direct_ip">
+		<text>ダイレクトIP</text>
+	</string>
+	<string id="st_no_active_task">
+		<text>現在の任務はなし</text>
+	</string>
+	<string id="st_not_enough_money">
+		<text>金が不足</text>
+	</string>
+	<string id="st_not_enough_money_npc">
+		<text>NPCは十分な金を持っていない</text>
+	</string>
+	<string id="st_opening_stream">
+		<text>オープニングストリーム</text>
+	</string>
+	<string id="st_prefetching_objects">
+		<text>プリフェッチオブジェクト</text>
+	</string>
+	<string id="st_rubles">
+		<text>SR.</text>
+	</string>
+	<string id="st_server_connecting">
+		<text>サーバー：接続中</text>
+	</string>
+	<string id="st_server_starting">
+		<text>サーバー：開始中</text>
+	</string>
+	<string id="st_validating_cdkey">
+		<text>有効CDキー</text>
+	</string>
+	<string id="st_video">
+		<text>ビデオ</text>
+	</string>
+	<string id="terrible">
+		<text>ひどい</text>
+	</string>
+	<string id="ui_inv_repair">
+		<text>修理</text>
+	</string>
+	<string id="ui_st_cant_run_r2">
+		<text>お使いのコンピュータはレンダー2を使用できません。</text>
+	</string>
+	<string id="ui_st_community">
+		<text>派閥</text>
+	</string>
+	<string id="ui_st_conn_cdkey_disabled">
+		<text>接続エラー：CDキーが無効です。カスタマー・サービスにお問い合わせください。</text>
+	</string>
+	<string id="ui_st_conn_cdkey_in_use">
+		<text>接続エラー：CDキーはすでに使用されています。</text>
+	</string>
+	<string id="ui_st_conn_cdkey_invalid">
+		<text>接続エラー：無効なCDキーです。</text>
+	</string>
+	<string id="ui_st_conn_invalid_host">
+		<text>接続エラー：無効なホストです。</text>
+	</string>
+	<string id="ui_st_conn_invalid_pass">
+		<text>接続エラー：無効なパスワードです。</text>
+	</string>
+	<string id="ui_st_conn_new_patch">
+		<text>新しいパッチが使えます。\nバージョン：%s\nロケーション%s\n今すぐダウンロードしますか？</text>
+	</string>
+	<string id="ui_st_conn_no_new_patch">
+		<text>現在は新しいパッチはありません。</text>
+	</string>
+	<string id="ui_st_conn_rejected_server">
+		<text>接続エラー：サーバーにより、接続が拒否されました。</text>
+	</string>
+	<string id="ui_st_conn_sess_full">
+		<text>接続エラー：セッションは満員です。</text>
+	</string>
+	<string id="ui_st_conn_version_differs">
+		<text>接続エラー：バージョンが違います。</text>
+	</string>
+	<string id="ui_st_connecting_to_masterserver">
+		<text>マスターサーバーへ接続中</text>
+	</string>
+	<string id="ui_st_days">
+		<text>日</text>
+	</string>
+	<string id="ui_st_error">
+		<text>エラー</text>
+	</string>
+	<string id="ui_st_error_loading">
+		<text>ロードエラー</text>
+	</string>
+	<string id="ui_st_file_exist_owerwrite_q">
+		<text>このファイル名はすでに存在します。上書きしますか？</text>
+	</string>
+	<string id="ui_st_file_name_is_empty">
+		<text>ファイル名が空です。</text>
+	</string>
+	<string id="ui_st_hours">
+		<text>時間</text>
+	</string>
+	<string id="ui_st_kicked_by_battleye">
+		<text>BattleEye保護システムによって切断されました：</text>
+	</string>
+	<string id="ui_st_kicked_by_server">
+		<text>切断されました。理由：</text>
+	</string>
+	<string id="ui_st_leave">
+		<text>出る</text>
+	</string>
+	<string id="ui_st_load_game_confirm">
+		<text>このゲームをロードすると、保存されていないデータは失われます。続けますか？</text>
+	</string>
+	<string id="ui_st_mins">
+		<text>分</text>
+	</string>
+	<string id="ui_st_months">
+		<text>月</text>
+	</string>
+	<string id="ui_st_opponent_items">
+		<text>バックパック</text>
+	</string>
+	<string id="ui_st_params">
+		<text>パラメータ</text>
+	</string>
+	<string id="ui_st_patch_download_error">
+		<text>パッチのダウンロードはできません。</text>
+	</string>
+	<string id="ui_st_patch_download_success">
+		<text>パッチのダウンロードに成功しました。それをインストールしますか？</text>
+	</string>
+	<string id="ui_st_price">
+		<text>プライス</text>
+	</string>
+	<string id="ui_st_rank">
+		<text>ランク</text>
+	</string>
+	<string id="ui_st_relation">
+		<text>態度</text>
+	</string>
+	<string id="ui_st_reputation">
+		<text>評判</text>
+	</string>
+	<string id="ui_st_secs">
+		<text>秒</text>
+	</string>
+	<string id="ui_st_select_one_map">
+		<text>少なくとも1つのマップを選択してください。</text>
+	</string>
+	<string id="ui_st_take_all">
+		<text>すべて取る</text>
+	</string>
+	<string id="ui_st_time_remains">
+		<text>残り</text>
+	</string>
+	<string id="ui_st_voting_disabled">
+		<text>投票が無効</text>
+	</string>
+	<string id="ui_st_want_to_leave_game_q">
+		<text>ゲームから離れますか？</text>
+	</string>
+	<string id="ui_total_price">
+		<text>合計</text>
+	</string>
+	<string id="very_bad">
+		<text>とても悪い</text>
+	</string>
+	<string id="very_good">
+		<text>とても良い</text>
+	</string>
+	<string id="veteran">
+		<text>ベテラン</text>
+	</string>
+	<string id="ui_st_inv_repair">
+		<text>修理</text>
+	</string>
+	<string id="ui_repair_button_hint">
+		<text>選択したアイテムを修理</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ 選択したアイテムを修理 </text_c>
+	</string>
+	<string id="st_key_notbinded">
+		<text>…</text>
+	</string>
+	<string id="ui_st_upgrade">
+		<text>修理/改造</text>
+	</string>
+	<string id="ui_st_upgrade_console">
+		<text>$$ACTION_talk_trade_upgrade$$ 修正 / 調整</text>
+	</string>
+	<string id="ui_st_buy">
+		<text>買う</text>
+	</string>
+	<string id="ui_st_sell">
+		<text>売る</text>
+	</string>
+	<string id="ui_st_trade">
+		<text>取り引き</text>
+	</string>
+	<string id="ui_st_exit_hint">
+		<text>ウィンドウを閉じる($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_QUIT$$ ウィンドウを閉じる</text_c>
+	</string>
+	<string id="ui_st_trade_hint">
+		<text>売買ウィンドウを開く($$ACTION_SPRINT_TOGGLE$$)</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ 売買ウィンドウを開く </text_c>
+	</string>
+	<string id="ui_st_upgrade_hint">
+		<text>修理と改造ウィンドウを開く($$ACTION_SPRINT_TOGGLE$$)</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ 修理と改造ウィンドウを開く </text_c>
+	</string>
+	<string id="ui_st_take_all_hint">
+		<text>すべてのアイテムを自分のバックパックに移動($$ACTION_SPRINT_TOGGLE$$)</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ すべてのアイテムを自分のバックパックに移動 </text_c>
+	</string>
+	<string id="ui_st_buy_hint">
+		<text>選んだアイテムを買う</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ 選んだアイテムを買う </text_c>
+	</string>
+	<string id="ui_st_sell_hint">
+		<text>選んだアイテムを売る</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ 選んだアイテムを売る </text_c>
+	</string>
+</string_table>

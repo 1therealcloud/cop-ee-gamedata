@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="jup_a10_bandit_leader_name">
+		<text>잭</text>
+	</string>
+
+	<string id="jup_a10_stalker_vano">
+		<text>바노</text>
+	</string>
+
+	<string id="jup_a6_duty_leader">
+		<text>슐가 중령</text>
+	</string>
+
+	<string id="jup_a6_freedom_leader">
+		<text>로키</text>
+	</string>
+
+	<string id="jup_a6_stalker_barmen">
+		<text>하와이안</text>
+	</string>
+
+	<string id="jup_a6_stalker_medik">
+		<text>본세터</text>
+	</string>
+
+	<string id="jup_b10_stalker_drunk">
+		<text>센카</text>
+	</string>
+
+	<string id="jup_b15_zulus">
+		<text>줄루</text>
+	</string>
+
+	<string id="jup_b19_freedom_yar_name">
+		<text>야르 아저씨</text>
+	</string>
+
+	<string id="jup_b1_stalker_1">
+		<text>토폴</text>
+	</string>
+
+	<string id="jup_b1_stalker_2">
+		<text>메이스</text>
+	</string>
+
+	<string id="jup_b1_stalker_3">
+		<text>스피리트</text>
+	</string>
+
+	<string id="jup_b1_stalker_4">
+		<text>스네이크</text>
+	</string>
+
+	<string id="jup_b207_merc_leader_name">
+		<text>벌처</text>
+	</string>
+
+	<string id="jup_b217_stalker_tech">
+		<text>니트로</text>
+	</string>
+
+	<string id="jup_b220_trapper">
+		<text>트래퍼</text>
+	</string>
+
+	<string id="jup_b25_freedom_flint">
+		<text>플린트</text>
+	</string>
+
+	<string id="jup_b46_duty_founder_name">
+		<text>타첸코 장군</text>
+	</string>
+
+	<string id="jup_b46_duty_founder_squad_02_name">
+		<text>분추크 중위</text>
+	</string>
+
+	<string id="jup_b46_duty_founder_squad_03_name">
+		<text>코스마흐 대령</text>
+	</string>
+
+	<string id="jup_b46_duty_founder_squad_04_name">
+		<text>자카르추크 중위</text>
+	</string>
+
+	<string id="jup_b47_merc_01">
+		<text>블랙</text>
+	</string>
+
+	<string id="jup_b47_merc_02">
+		<text>더플릿</text>
+	</string>
+
+	<string id="jup_b47_merc_03">
+		<text>서전</text>
+	</string>
+
+	<string id="jup_b47_merc_04">
+		<text>스컬</text>
+	</string>
+
+	<string id="jup_b47_merc_05">
+		<text>스테이크</text>
+	</string>
+
+	<string id="jup_b47_merc_06">
+		<text>코셰</text>
+	</string>
+
+	<string id="jup_b47_merc_07">
+		<text>코프스</text>
+	</string>
+
+	<string id="jup_b4_monolith_squad_leader_name">
+		<text>스트라이더</text>
+	</string>
+
+	<string id="jup_b4_monolith_squad_soldier_1_name">
+		<text>아머</text>
+	</string>
+
+	<string id="jup_b4_monolith_squad_soldier_2_name">
+		<text>시클</text>
+	</string>
+
+	<string id="jup_b4_monolith_squad_soldier_3_name">
+		<text>월러스</text>
+	</string>
+
+	<string id="jup_b4_monolith_squad_soldier_4_name">
+		<text>미커</text>
+	</string>
+
+	<string id="jup_b4_monolith_squad_soldier_5_name">
+		<text>포마</text>
+	</string>
+
+	<string id="jup_b6_scientist_biochemist">
+		<text>오제르스키 교수</text>
+	</string>
+
+	<string id="jup_b6_scientist_novikov">
+		<text>노비코프</text>
+	</string>
+
+	<string id="jup_b6_scientist_nuclear_physicist">
+		<text>헤르만 교수</text>
+	</string>
+
+	<string id="jup_b9_shliachin_name">
+		<text>쉴랴친 병장</text>
+	</string>
+
+	<string id="pri_a15_military_recon_1_name">
+		<text>세르게예프 중위</text>
+	</string>
+
+	<string id="pri_a15_military_recon_2_name">
+		<text>발류쇼크 병장</text>
+	</string>
+
+	<string id="pri_a15_military_recon_3_name">
+		<text>오스트로프스키 병장</text>
+	</string>
+
+	<string id="pri_a15_military_recon_leader_name">
+		<text>클리멘코 대위</text>
+	</string>
+
+	<string id="pri_a15_sokolov_name">
+		<text>소콜로프 중위</text>
+	</string>
+
+	<string id="pri_a17_military_captain_tarasov">
+		<text>타라소프 대위</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_name">
+		<text>코발스키 대령</text>
+	</string>
+
+	<string id="pri_a17_military_lieutenant_podorojniy">
+		<text>포도로즈니 중위</text>
+	</string>
+
+	<string id="pri_a18_skorlupko_in_suit_name">
+		<text>스켈랴 중위</text>
+	</string>
+
+	<string id="pri_a18_vano_in_suit_reserve_name">
+		<text>메르쿨로프 병장</text>
+	</string>
+
+	<string id="pri_a21_sentry_lieutenant_stecenko_name">
+		<text>스테첸코 중위</text>
+	</string>
+
+	<string id="pri_a22_military_yarmoshuk_name">
+		<text>야르모슈크 병장</text>
+	</string>
+
+	<string id="pri_a25_army_medic_name">
+		<text>로호베츠 중위</text>
+	</string>
+
+	<string id="pri_a28_evac_com_name">
+		<text>스미르노프 중위</text>
+	</string>
+
+	<string id="pri_b305_strelok_name">
+		<text>스트렐록</text>
+	</string>
+
+	<string id="pri_b306_envoy_name">
+		<text>바르추크</text>
+	</string>
+
+	<string id="st_actor_name">
+		<text>덱탸레프 소령</text>
+	</string>
+
+	<string id="st_jup_a12_bandit_cashier">
+		<text>드워프</text>
+	</string>
+
+	<string id="st_jup_a12_bandit_chief">
+		<text>시샤크</text>
+	</string>
+
+	<string id="st_jup_a12_stalker_assaulter">
+		<text>그리즐리</text>
+	</string>
+
+	<string id="st_jup_a12_stalker_diplomat">
+		<text>토르바</text>
+	</string>
+
+	<string id="st_jup_a12_stalker_prisoner">
+		<text>미타이</text>
+	</string>
+
+	<string id="st_jup_b207_duty_security_squad_leader_name">
+		<text>하브릴렌코 중위</text>
+	</string>
+
+	<string id="st_jup_b207_freedom_assault_squad_leader_name">
+		<text>크레멘</text>
+	</string>
+
+	<string id="st_jup_b207_freedom_recon_squad_leader_name">
+		<text>가이두크</text>
+	</string>
+
+	<string id="st_jup_b43_stalker_assistant">
+		<text>게리</text>
+	</string>
+
+	<string id="st_pri_a22_army_signaller">
+		<text>키릴로프 중위</text>
+	</string>
+
+	<string id="st_pri_b35_envoy">
+		<text>세르빈</text>
+	</string>
+
+	<string id="st_pri_b35_merc_leader">
+		<text>자칼</text>
+	</string>
+
+	<string id="st_zat_a2_stalker_nimble_name">
+		<text>님블</text>
+	</string>
+
+	<string id="st_zat_b106_stalker_crab_name">
+		<text>크랩</text>
+	</string>
+
+	<string id="st_zat_b106_stalker_garmata_name">
+		<text>가르마타</text>
+	</string>
+
+	<string id="st_zat_b106_stalker_gonta_name">
+		<text>곤타</text>
+	</string>
+
+	<string id="st_zat_b29_stalker_rival_1">
+		<text>슬레지해머</text>
+	</string>
+
+	<string id="st_zat_b29_stalker_rival_2">
+		<text>크레스트</text>
+	</string>
+
+	<string id="st_zat_b30_owl_stalker_trader_name">
+		<text>아울</text>
+	</string>
+
+	<string id="st_zat_b38_stalker_cop_name">
+		<text>그로우스</text>
+	</string>
+
+	<string id="st_zat_b38_stalker_hunter_name">
+		<text>다닐라</text>
+	</string>
+
+	<string id="st_zat_b7_bandit_boss_sultan_name">
+		<text>술탄</text>
+	</string>
+
+	<string id="st_zat_b7_duty_illicit_dealer_name">
+		<text>모건</text>
+	</string>
+
+	<string id="st_zat_b7_stalker_raider_leader">
+		<text>너클스</text>
+	</string>
+
+	<string id="st_zat_b7_stalker_squad_leader">
+		<text>스파르타쿠스</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_name">
+		<text>비어드</text>
+	</string>
+
+	<string id="zat_a2_stalker_mechanic_name">
+		<text>카르단</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_1_name">
+		<text>고블린</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_2_name">
+		<text>오크</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_3_name">
+		<text>피아니스트</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_4_name">
+		<text>모워</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_5_name">
+		<text>키르자흐</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_6_name">
+		<text>탱크</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_7_name">
+		<text>머그</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_name">
+		<text>해칫</text>
+	</string>
+
+	<string id="zat_b14_stalker_1_name">
+		<text>튜나</text>
+	</string>
+
+	<string id="zat_b18_noah_name">
+		<text>노아</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_name">
+		<text>파일럿</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_name">
+		<text>트레머</text>
+	</string>
+
+	<string id="zat_b28_draper_name">
+		<text>드라페이 중위</text>
+	</string>
+
+	<string id="zat_b28_umerov_name">
+		<text>우메로프 준위</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag">
+		<text>스낵</text>
+	</string>
+
+	<string id="zat_b40_merc_squad_leader_1_name">
+		<text>훅</text>
+	</string>
+
+	<string id="zat_b40_merc_squad_leader_2_name">
+		<text>릿지</text>
+	</string>
+
+	<string id="zat_b42_mayron_name">
+		<text>미로네</text>
+	</string>
+
+	<string id="zat_b44_stalker_barge_name">
+		<text>바지</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_1_name">
+		<text>페트루하</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_2_name">
+		<text>아울</text>
+	</string>
+
+	<string id="jup_b46_duty_founder_squad_01_name">
+		<text>체푸르니 소령</text>
+	</string>
+
+	<string id="pri_a17_military_prapor_valentyr">
+		<text>발렌티르 준위</text>
+	</string>
+
+	<string id="pri_a17_military_sergeant_morozov">
+		<text>모로조프 하사</text>
+	</string>
+
+	<string id="zat_b28_smoliak_name">
+		<text>스몰랴크 상위</text>
+	</string>
+
+	<string id="jup_b25_stalker_senya">
+		<text>스필린터</text>
+	</string>
+
+	<string id="zat_b100_army_1">
+		<text>가즈다 병장</text>
+	</string>
+
+	<string id="zat_b100_army_2">
+		<text>푸르테스 대위</text>
+	</string>
+
+	<string id="zat_b100_army_3">
+		<text>쉬베이코 하사</text>
+	</string>
+
+</string_table>

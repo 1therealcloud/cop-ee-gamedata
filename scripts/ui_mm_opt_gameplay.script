@@ -1,0 +1,110 @@
+class "opt_gameplay" (CUIWindow)		-- MTB-Damian.Romanik [JUD-317]: The class has been changed
+
+
+function opt_gameplay:__init() super()
+	self.mm_is_controller = main_menu.in_controller_mode()
+end
+
+function opt_gameplay:__finalize()
+
+end
+
+-- //MTB_Jakub_Jurek [JUD-72] multiline main menu scaling
+function lines_count(obj)
+	textObj = obj:TextControl()
+	textObj:SetWndSize( obj:GetWidth() ,obj:GetHeight())
+	local lineCount = textObj:GetLinesCount()
+	return lineCount
+end
+
+function opt_gameplay:max_lines_count()
+	local multiline = 1
+	if self.focusList == nil then return false end
+	for index, elem in ipairs(self.focusList) do
+		multiline =  math.max(multiline, lines_count(elem[1]))
+	end
+	return multiline
+end
+
+function adjust_to_offset(obj, offset)
+	local width = obj:GetWidth()
+	local height = obj:GetHeight() + offset
+	obj:SetWndSize(vector2():set(width,height))
+end 
+
+function opt_gameplay:adjust_position(offsetIncrement)
+	for index, elem in ipairs(self.focusList) do
+		adjust_to_offset(elem[1]:GetParent(),offsetIncrement)
+	end
+	self.scroll_v:ForceUpdate()
+end 
+
+-- MTB-Damian.Romanik [JUD-317] Start: Added variables for storing elements
+function opt_gameplay:add_element(xml ,cap_name, elem_name, elem_init_func)
+	local _st = xml:InitStatic("tab_gameplay:templ_item", self.scroll_v)
+	
+	_st.caption = xml:InitStatic(cap_name, _st)
+	local capX = _st.caption:GetWndPos().x
+	_st.caption:SetWndPos(vector2():set(capX,3))
+	
+	_st.element = elem_init_func(xml, elem_name, _st)
+	local elemX = _st.element:GetWndPos().x
+	_st.element:SetWndPos(vector2():set(elemX,3))
+	
+	table.insert(self.focusList, {_st.caption, _st.element, _st} )
+	return _st
+end 
+-- MTB-Damian.Romanik [JUD-317] End: Added variables for storing elements
+-- //end MTB_Jakub_Jurek [JUD-72] multiline main menu scaling
+
+function opt_gameplay:InitControls(x, y, xml, handler) -- //MTB_Jakub_Jurek [JUD-72] multiline main menu scaling| changed order of initialization to as seen on screen, its nessecery for scaling to work correctly
+
+	self:SetWndPos(vector2():set(x,y))
+	self:SetWndSize(vector2():set(738,416))
+	self:SetAutoDelete(true)
+
+--	self.bk = xml:InitFrame("frame_gameplay", self)
+
+	self.focusList = {}
+	local caption, element, _st
+	
+	self.scroll_v = xml:InitScrollView("tab_gameplay:scroll_v", self)
+	self:add_element(xml, "tab_gameplay:cap_difficulty",		"tab_gameplay:list_difficulty", xml.InitComboBox)
+	self:add_element(xml, "tab_gameplay:cap_check_crosshair",	"tab_gameplay:check_crosshair", xml.InitCheck)	
+	self:add_element(xml, "tab_gameplay:cap_check_dyn_crosshair","tab_gameplay:check_dyn_crosshair", xml.InitCheck)
+
+	
+	self:add_element(xml, "tab_gameplay:cap_check_show_weapon",	"tab_gameplay:check_show_weapon", xml.InitCheck)
+	self:add_element(xml, "tab_gameplay:cap_check_dist",		"tab_gameplay:check_dist", 		xml.InitCheck)
+	self:add_element(xml, "tab_gameplay:cap_check_tips",		"tab_gameplay:check_tips", 		xml.InitCheck)
+
+	if not is_gaming_console() then
+		self:add_element(xml, "tab_gameplay:cap_check_important_save",		"tab_gameplay:check_important_save", xml.InitCheck)
+	end
+
+	self:add_element(xml, "tab_gameplay:cap_check_hud_draw",		"tab_gameplay:check_hud_draw", xml.InitCheck)
+
+	self:add_element(xml, "tab_gameplay:cap_check_camera_bobbing","tab_gameplay:check_camera_bobbing", xml.InitCheck)
+	
+	self.elemLanguage 		= self:add_element(xml, "tab_gameplay:cap_language",		"tab_gameplay:list_language", xml.InitComboBox)
+	self.elemLanguageSound 	= self:add_element(xml, "tab_gameplay:cap_language_sound",	"tab_gameplay:list_language_sound", xml.InitComboBox)
+
+	if level.present() then
+		self.elemLanguage:Show(false)
+		self.elemLanguageSound:Show(false)
+		self.scroll_v:ForceUpdate()
+	end
+	
+	
+--[[
+	local btn
+	btn = xml:Init3tButton	("tab_gameplay:btn_check_updates", self)
+	handler:Register		(btn, "btn_check_updates")
+	]]--
+end
+
+function opt_gameplay:updateControls(xml)
+	self.elemLanguage:Show(not level.present())
+	self.elemLanguageSound:Show(not level.present())
+	self.scroll_v:ForceUpdate()
+end

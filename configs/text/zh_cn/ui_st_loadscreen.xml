@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ls_c_tip_82">
+		<text>有些地方即使蹲下也无法通过。如果你想尽可能地蹲得更低，长按$$ACTION_CROUCH$$。</text>
+	</string>
+
+	<string id="ls_header">
+		<text>100 个在变异区存活的小建议</text>
+	</string>
+
+	<string id="ls_mp_tip_16">
+		<text>无论敌人的护甲等级多高，只要击中眼睛，敌人就会立刻死亡。</text>
+	</string>
+
+	<string id="ls_mp_tip_19">
+		<text>AC-96/2 拥有独特的两连发射击模式。在这种模式下，两发子弹会打在同一个位置。</text>
+	</string>
+
+	<string id="ls_mp_tip_21">
+		<text>双管霰弹枪的两根枪管几乎是同时击发的。</text>
+	</string>
+
+	<string id="ls_mp_tip_25">
+		<text>不要小看手枪。这种枪拥有极强的停止力，对付护甲防护低的目标非常有效。</text>
+	</string>
+
+	<string id="ls_mp_tip_32">
+		<text>由于优秀的弹道平直度和精准度，狙击步枪是远距离击杀敌人的理想武器。近距离射击时就没那么高效了。</text>
+	</string>
+
+	<string id="ls_mp_tip_33">
+		<text>在移动时射击，你的精准度会比站着不动或蹲伏时稍低。</text>
+	</string>
+
+	<string id="ls_mp_tip_34">
+		<text>在变异区恶劣的条件下，武器和防护服会很快失效。失效的武器精度会降低，容易走火。失效的防护服将无法保护你。</text>
+	</string>
+
+	<string id="ls_mp_tip_54">
+		<text>若要截图，按下“$$ACTION_SCREENSHOT$$”即可。</text>
+	</string>
+
+	<string id="ls_mp_tip_9">
+		<text>超自然体以及携带超自然体的玩家会显示在小地图上。如果超自然体离得很远，小地图上会显示一个箭头，表示所在的方向。</text>
+	</string>
+
+	<string id="ls_tip_37">
+		<text>AC-96/2 拥有独特的两连发射击模式。在这种模式下，两发子弹会打在同一个位置。</text>
+	</string>
+
+	<string id="ls_tip_39">
+		<text>双管霰弹枪的两根枪管几乎是同时击发的。</text>
+	</string>
+
+	<string id="ls_tip_43">
+		<text>不要小看手枪。这种枪拥有极强的停止力，对付护甲防护低的目标非常有效。</text>
+	</string>
+
+	<string id="ls_tip_50">
+		<text>由于优秀的弹道平直度和精准度，狙击步枪是远距离击杀敌人的理想武器。近距离射击时就没那么高效了。</text>
+	</string>
+
+	<string id="ls_tip_52">
+		<text>在变异区恶劣的条件下，武器和防护服会很快失效。失效的武器精度会降低，容易走火。失效的防护服将无法保护你。</text>
+	</string>
+
+	<string id="ls_tip_56">
+		<text>部分医疗用品有独有的特性。例如，大力神药物能在一段时间内提升你的负重量，而心灵屏蔽药物能帮助你抵御心灵喷发。</text>
+	</string>
+
+	<string id="ls_tip_83">
+		<text>若要截图，按下“$$ACTION_SCREENSHOT$$”即可。</text>
+	</string>
+
+	<string id="ls_tip_number">
+		<text>小建议 #</text>
+	</string>
+
+	<string id="ls_tip_1">
+		<text>伏特加是一种廉价的抗辐射剂替代品，也是减轻辐射影响最简单的方法。</text>
+	</string>
+
+	<string id="ls_tip_10">
+		<text>长按“$$ACTION_SCORES$$”，即可获得当前任务的详细信息。</text>
+	</string>
+
+	<string id="ls_tip_13">
+		<text>你需要探测器才能搜寻超自然体。最好的探测器会让你事半功倍，甚至可能会侦测到价值更高的超自然体。</text>
+	</string>
+
+	<string id="ls_tip_14">
+		<text>潜行者不允许外人带着武器进自己的营地。若要隐藏武器，按下相应的按键即可（“$$ACTION_WPN_1$$”，“$$ACTION_WPN_2$$”，“$$ACTION_WPN_3$$”，“$$ACTION_WPN_4$$”）。</text>
+	</string>
+
+	<string id="ls_tip_15">
+		<text>你可以通过扔螺栓来确定特异点的边界。若要扔出螺栓，按下“$$ACTION_WPN_6$$”即可。</text>
+	</string>
+
+	<string id="ls_tip_17">
+		<text>食物不仅能缓解饥饿，还能稍稍提升你的生命值。</text>
+	</string>
+
+	<string id="ls_tip_18">
+		<text>能量饮料可以在短时间内提升耐力恢复的速度，从而增加你潜在的机动性。</text>
+	</string>
+
+	<string id="ls_tip_20">
+		<text>耐力低下时，你会无法移动，在关键时刻也更容易受到敌人的攻击。</text>
+	</string>
+
+	<string id="ls_tip_21">
+		<text>你可以使用屏幕左上角的声音和敌人探测指示器来监控自己的隐蔽情况。</text>
+	</string>
+
+	<string id="ls_tip_22">
+		<text>一手拿着探测器的情况下，你仍旧可以用另一只手使用匕首、手枪和螺栓。</text>
+	</string>
+
+	<string id="ls_tip_23">
+		<text>部分医疗用品能提升对减益效果的抗性。在异常地区执行任务时，这种道具能救你一命。</text>
+	</string>
+
+	<string id="ls_tip_27">
+		<text>在背包中，只要将鼠标悬停在所选道具上，点击鼠标右键，你就能打开快捷菜单。</text>
+	</string>
+
+	<string id="ls_tip_28">
+		<text>大部分超自然体除了能够产生各种有用的效果外，还具有放射性。你可以使用吸收辐射的超自然体来抵消。</text>
+	</string>
+
+	<string id="ls_tip_29">
+		<text>你的匕首不利于对付装备枪械的敌人。匕首可以在近战或暗杀时使用。</text>
+	</string>
+
+	<string id="ls_tip_3">
+		<text>负重会将降低你的耐力。负重太大时，你的行动会受到限制。完全超负重时，你将寸步难行。</text>
+	</string>
+
+	<string id="ls_tip_30">
+		<text>在异常地区搜寻超自然体时，探测器是唯一可靠的工具。</text>
+	</string>
+
+	<string id="ls_tip_31">
+		<text>在异常地区，大部分超自然体在移动时是看不见的，只有用探测器才能让它们现身。</text>
+	</string>
+
+	<string id="ls_tip_32">
+		<text>变异体在夜间会更活跃，所以潜行者更喜欢在天亮之后再进入变异区。</text>
+	</string>
+
+	<string id="ls_tip_33">
+		<text>如果你遭受了严重的辐射，记得使用抗辐射药物。如果手头没有，可以用医药箱先行处理，减缓最初的症状，让你可以坚持下来去看找医务员。</text>
+	</string>
+
+	<string id="ls_tip_34">
+		<text>大多数潜行者都可以带你在附近转转，但若要去远一点的地区，只有经验丰富的向导才能把你安全迅速地送到目的地。不过，这种服务的要价贵得要命。</text>
+	</string>
+
+	<string id="ls_tip_35">
+		<text>除了卖掉超自然体以外，你还有其它的赚钱方法：把不需要的装备转手也是个不错的买卖。记住，商人对严重损坏的道具可不感兴趣。</text>
+	</string>
+
+	<string id="ls_tip_38">
+		<text>如果你想从武器上卸下消音器、瞄准镜或下挂式榴弹发射器，只要在背包中右键单击武器，从弹出的快捷菜单中选择相应的操作即可。</text>
+	</string>
+
+	<string id="ls_tip_40">
+		<text>如果你想让移动时发出的动静最小，按下“$$ACTION_ACCEL$$”即可行走，或按下“$$ACTION_CROUCH$$”蹲伏。</text>
+	</string>
+
+	<string id="ls_tip_41">
+		<text>霰弹枪是近战武器。敌人离得越远，霰弹枪的威力就越小。</text>
+	</string>
+
+	<string id="ls_tip_42">
+		<text>躲避小口径武器射击时，你要确保自己躲在坚固的掩体后面。不像水泥墙，木板和薄金属板不算非常安全的掩体。</text>
+	</string>
+
+	<string id="ls_tip_44">
+		<text>对大部分敌人来说，爆头会造成致命伤害。</text>
+	</string>
+
+	<string id="ls_tip_45">
+		<text>变异区的各种变异体都有自己的特性。只要多多利用这一点，你的生存几率将大大提升。</text>
+	</string>
+
+	<string id="ls_tip_46">
+		<text>长按“$$ACTION_WPN_ZOOM$$”，你就能调整手雷投掷的距离。</text>
+	</string>
+
+	<string id="ls_tip_47">
+		<text>敌人能够并且会使用手雷。如果看到了手雷指示器，你必须立即离开杀伤区域。</text>
+	</string>
+
+	<string id="ls_tip_48">
+		<text>在跳跃前加速，你就能跃过沟渠和裂缝。</text>
+	</string>
+
+	<string id="ls_tip_49">
+		<text>屏幕右下角有很多重要的指示器，上面标明了你的生命值和耐力情况。</text>
+	</string>
+
+	<string id="ls_tip_53">
+		<text>变异区有自己的生命体系，也就是说，即便你已经清扫过整个区域，还是有几率会遇上变异体或敌对潜行者。</text>
+	</string>
+
+	<string id="ls_tip_54">
+		<text>在变异区时，你需要保持警惕，不要轻信过时的情报。在你回到某个已经探索过的异常地区时，你可能会发现之前走过的路已经不能走了。</text>
+	</string>
+
+	<string id="ls_tip_58">
+		<text>和经常遇见的潜行者多聊聊，你可能会获得关于新区域或相关事件的新情报。</text>
+	</string>
+
+	<string id="ls_tip_60">
+		<text>你可以在两个武器栏位里使用任何一种武器，灵活地进行组合，比如突击步枪/霰弹枪和手枪/狙击步枪。</text>
+	</string>
+
+	<string id="ls_tip_61">
+		<text>在广大的潜行者营地，你遇到的每个商人都会向你兜售独特的商品。举个例子，医务员那里有最好的医疗用品。</text>
+	</string>
+
+	<string id="ls_tip_62">
+		<text>走进潜行者营地时，如果你受了伤或者辐射中毒，当地的医务员会给你提供免费的帮助。</text>
+	</string>
+
+	<string id="ls_tip_63">
+		<text>你可以把自己的物品放在营地的个人储物箱里，这样就不用拖着多余的东西到处转了。</text>
+	</string>
+
+	<string id="ls_tip_64">
+		<text>如果你在等待某个特定的时刻到来，可以先在营地打个盹消磨时间。想要睡觉的话，只要找个睡觉的地方，按下“$$ACTION_USE$$”，然后选择需要睡多久就可以了。</text>
+	</string>
+
+	<string id="ls_tip_65">
+		<text>你头盔里的夜视仪可以升级到下一代版本，这样它的观测范围就更大。</text>
+	</string>
+
+	<string id="ls_tip_67">
+		<text>出发前往变异区时，你最好随身带几个备用弹匣——绝对能帮上大忙。</text>
+	</string>
+
+	<string id="ls_tip_68">
+		<text>记住，你一定要时不时保存一下游戏进度——这样你就不用一遍一遍重复玩过的部分了。</text>
+	</string>
+
+	<string id="ls_tip_69">
+		<text>若要正确使用药物，就得先了解它们的功效。你可以在药物说明上找到特定药物的药效。</text>
+	</string>
+
+	<string id="ls_tip_70">
+		<text>你可以用手雷攻击掩体后的敌人。注意手雷的杀伤半径，以免伤到友军。</text>
+	</string>
+
+	<string id="ls_tip_71">
+		<text>若要从背包中丢弃某件道具，只要右键单击该物品，从弹出的快捷菜单中选择相应的操作即可。</text>
+	</string>
+
+	<string id="ls_tip_72">
+		<text>你可以在选项菜单中进行专门的设置，让游戏在关键的节点自动存档。</text>
+	</string>
+
+	<string id="ls_tip_73">
+		<text>当你回到营地时，你可以修理装备，出售不需要的战利品，补充弹药和医疗用品。</text>
+	</string>
+
+	<string id="ls_tip_75">
+		<text>在变异区扫荡期间，如果你想减轻在异常地区受到的有害影响，可以穿上防护服，使用超自然体或吃相应的药物。</text>
+	</string>
+
+	<string id="ls_tip_77">
+		<text>除了武器和弹药，敌人的尸体上还可能会有诸如 PDA 之类的道具，上面会有很多情报。</text>
+	</string>
+
+	<string id="ls_tip_78">
+		<text>超自然体不仅仅是珍贵的战利品：除了重量轻、价格高昂之外，它们通常还有非常有用的效果。</text>
+	</string>
+
+	<string id="ls_tip_79">
+		<text>由于变异区的环境使然，很多变异体都具有辐射性。在没有做好辐射防护的情况下，贸然接近它们是非常危险的。</text>
+	</string>
+
+	<string id="ls_tip_8">
+		<text>你可以使用绷带、军用医药箱或长春花药物来止血。如果不迅速止血，你的健康会受到严重的影响。</text>
+	</string>
+
+	<string id="ls_tip_80">
+		<text>部分武器可以安装可调节的远距瞄准镜。若要调节距离，按下“$$ACTION_NEXT_SLOT$$”或“$$ACTION_PREV_SLOT$$”即可。</text>
+	</string>
+
+	<string id="ls_tip_82">
+		<text>有些地方就算蹲伏也过不去。如果想尽可能趴低，按住“$$ACTION_CROUCH$$”的同时按下“$$ACTION_ACCEL$$”即可。</text>
+	</string>
+
+	<string id="ls_tip_84">
+		<text>为了降低被敌方火力击中的概率，你可以躲在角落里还击。长按“$$ACTION_LLOOKOUT$$”或“$$ACTION_RLOOKOUT$$”即可。</text>
+	</string>
+
+	<string id="ls_tip_85">
+		<text>由于望远镜的内置目标定位机制，你不仅可以用它看清远处的物体，还能定位敌人。若想取出望远镜，按下“$$ACTION_WPN_5$$”即可。</text>
+	</string>
+
+	<string id="ls_tip_86">
+		<text>若要打开或关闭手电筒，按下“$$ACTION_TORCH$$”即可。</text>
+	</string>
+
+	<string id="ls_tip_87">
+		<text>若要取出螺栓，按下“$$ACTION_WPN_6$$”即可。</text>
+	</string>
+
+	<string id="ls_tip_88">
+		<text>如果你的头盔有内置的夜视仪，你可以按下“$$ACTION_NIGHT_VISION$$”使用或关闭这个功能。</text>
+	</string>
+
+	<string id="ls_tip_89">
+		<text>按下“$$ACTION_QUICK_USE_1$$”，“$$ACTION_QUICK_USE_2$$”，“$$ACTION_QUICK_USE_3$$”，“$$ACTION_QUICK_USE_4$$”，即可在快捷面板使用相应的道具。</text>
+	</string>
+
+	<string id="ls_tip_9">
+		<text>药物不会立即生效，而有的药效会持续很长时间。</text>
+	</string>
+
+	<string id="ls_tip_90">
+		<text>你的 PDA 里有当前任务的地图、资料，你的个人统计数据和消息记录。若要打开 PDA，按下“$$ACTION_ACTIVE_JOBS$$”即可。</text>
+	</string>
+
+	<string id="ls_tip_91">
+		<text>要搜索超自然体，你得先拿出探测器。要拿出来，按下“$$ACTION_SHOW_DETECTOR$$”即可。</text>
+	</string>
+
+	<string id="ls_tip_93">
+		<text>若要快速存档，按下“$$ACTION_QUICK_SAVE$$”即可。按下“$$ACTION_QUICK_LOAD$$”即可快速加载最新的快速存档。</text>
+	</string>
+
+	<string id="ls_tip_94">
+		<text>奔跑是最快的移动方式，但也是最累的。按下“$$ACTION_SPRINT_TOGGLE$$”即可奔跑。</text>
+	</string>
+
+	<string id="ls_tip_95">
+		<text>瞄准时射击比盲射要精准得多。若要瞄准，按下“$$ACTION_WPN_ZOOM$$”即可。</text>
+	</string>
+
+	<string id="ls_tip_96">
+		<text>如果你有下挂式榴弹发射器，按下“$$ACTION_WPN_FUNC$$”就能在发射器和普通射击模式之间切换。</text>
+	</string>
+
+	<string id="ls_tip_97">
+		<text>如果当前的武器有多种弹药可用，你可以按下“$$ACTION_WPN_NEXT$$”在弹药之间切换。</text>
+	</string>
+
+	<string id="ls_tip_98">
+		<text>若要在弹匣打空前重新给武器装弹，按下“$$ACTION_WPN_RELOAD$$”即可。</text>
+	</string>
+
+	<string id="ls_tip_99">
+		<text>若要丢弃当前的武器，按下“$$ACTION_DROP$$”即可。</text>
+	</string>
+
+	<string id="ls_tip_6">
+		<text>你需要待在可靠的建筑或地下等待喷发结束。喷发接近时，你的 PDA 上会显示最近的掩体。</text>
+	</string>
+
+	<string id="ls_tip_12">
+		<text>若要通过快捷栏使用道具，你只要把东西从背包里拖出来，放进这四个栏位的其中一个即可，位置就在超自然体栏的上面。</text>
+	</string>
+
+	<string id="ls_tip_24">
+		<text>屏幕右下角的血滴表示你正在流血，且需要尽快止血。颜色代表流血的严重程度。</text>
+	</string>
+
+	<string id="ls_tip_25">
+		<text>屏幕右下角的辐射危险符号代表你已经暴露在辐射中。出现这种情况时，你应该服用抗辐射药物。符号的颜色代表暴露的严重程度。</text>
+	</string>
+
+	<string id="ls_tip_4">
+		<text>你可以在 PDA 上进行筛选，在地图上显示或隐藏不同的标记。筛选按键在地图上方，当前任务的下面。</text>
+	</string>
+
+	<string id="ls_tip_55">
+		<text>通常来说，超自然体不是静止不动的：它们会在异常地区移动。因此，你追着超自然体跑的时候，尝尝会发现自己进入了特异点。</text>
+	</string>
+
+	<string id="ls_tip_57">
+		<text>部分潜行者可能会为你提供帮助，比如给你情报、独家道具，或者让你去寻找特定的超自然体。</text>
+	</string>
+
+	<string id="ls_tip_59">
+		<text>新的超自然体会在喷发后出现在你已经探索过的异常地区。</text>
+	</string>
+
+	<string id="ls_tip_74">
+		<text>你可以随时在游戏选项菜单里更改游戏难度。</text>
+	</string>
+
+	<string id="ls_tip_2">
+		<text>潜行者营地的技术员可以为你升级武器、防护装和头盔。</text>
+	</string>
+
+	<string id="ls_tip_66">
+		<text>如果你想活下来，一定要时刻注意盖革计数器发出的噼啪声，它会警告你有辐射，还会发出特异点危险信号，提醒你正在接近特异点。</text>
+	</string>
+
+	<string id="ls_tip_26">
+		<text>你和其他人的关系直接影响你想买的商品和服务的价格。如果你们关系不好，那么打折就别指望了。如果你们处得不错，商人甚至可能会给你提供一些特别的内容。</text>
+	</string>
+
+	<string id="ls_tip_11">
+		<text>你可以从找到的武器上卸下弹药。只要在背包中右键单击武器，从弹出的快捷菜单中选择选择相应的操作即可。</text>
+	</string>
+
+	<string id="ls_mp_tip_1">
+		<text>在击杀敌人、获取超自然体的同时，你还能获得用于提升排名的分数。排名提升后，你就能获得新的武器、护甲和装备。</text>
+	</string>
+
+	<string id="ls_mp_tip_11">
+		<text>烟雾弹可以用来偷窃超自然体或制造掩护。</text>
+	</string>
+
+	<string id="ls_mp_tip_13">
+		<text>购买菜单的左侧有五个标签，从上到下依次是：手枪、主武器、装备、弹药和医疗补给。选择所需的标签，你就能看到当前排名下可用的道具。</text>
+	</string>
+
+	<string id="ls_mp_tip_14">
+		<text>购买菜单的右侧包含四个快速购买栏。按下磁盘图标即可保存当前配置，而按下相应的数字可以加载该配置。第四个栏位会自动保存最后购买的那套装备。</text>
+	</string>
+
+	<string id="ls_mp_tip_15">
+		<text>如果你拥有不止一把武器，你可以重复按下“$$ACTION_WPN_3$$”在武器间切换。</text>
+	</string>
+
+	<string id="ls_mp_tip_17">
+		<text>超自然体被激活后，其所在地就会生成一个特异点。只要按下“$$ACTION_ARTEFACT$$”取出超自然体，再长按“$$ACTION_WPN_FIRE$$”即可形成特异点。对敌人和创造该特异点的玩家来说，这里同样危险。</text>
+	</string>
+
+	<string id="ls_mp_tip_18">
+		<text>科学防护服能让你在特异点和辐射区存活下来。</text>
+	</string>
+
+	<string id="ls_mp_tip_2">
+		<text>超自然体寻宝：若要取得胜利，你必须将特定数量的超自然体带回基地。</text>
+	</string>
+
+	<string id="ls_mp_tip_20">
+		<text>如果你想从武器上卸下消音器、瞄准镜或下挂式榴弹发射器，只要在背包中右键单击武器，从弹出的快捷菜单中选择相应的操作即可。</text>
+	</string>
+
+	<string id="ls_mp_tip_22">
+		<text>如果你想让移动时发出的动静最小，按下“$$ACTION_ACCEL$$”即可行走，或按下“$$ACTION_CROUCH$$”蹲伏。</text>
+	</string>
+
+	<string id="ls_mp_tip_23">
+		<text>霰弹枪是近战武器。敌人离得越远，霰弹枪的威力就越小。</text>
+	</string>
+
+	<string id="ls_mp_tip_24">
+		<text>躲避小口径武器射击时，你要确保自己躲在坚固的掩体后面。不像水泥墙，木板和薄金属板不算非常安全的掩体。</text>
+	</string>
+
+	<string id="ls_mp_tip_26">
+		<text>对大部分敌人来说，爆头会造成致命伤害。</text>
+	</string>
+
+	<string id="ls_mp_tip_27">
+		<text>在快速移动、跳跃和受伤的情况下，你的耐力会显著下降。</text>
+	</string>
+
+	<string id="ls_mp_tip_28">
+		<text>长按“$$ACTION_WPN_ZOOM$$”，你就能调整手雷投掷的距离。</text>
+	</string>
+
+	<string id="ls_mp_tip_29">
+		<text>敌人能够并且会使用手雷。如果看到了手雷指示器，你必须立即离开杀伤区域。</text>
+	</string>
+
+	<string id="ls_mp_tip_3">
+		<text>死亡竞赛：获得最高击杀得分，你就能获胜。</text>
+	</string>
+
+	<string id="ls_mp_tip_30">
+		<text>在跳跃前加速，你就能跃过沟渠和裂缝。</text>
+	</string>
+
+	<string id="ls_mp_tip_31">
+		<text>屏幕右下角有很多重要的指示器，上面标明了你的生命值和耐力情况。</text>
+	</string>
+
+	<string id="ls_mp_tip_35">
+		<text>小地图会显示超自然体的方位。如果箭头指向上方，那么超自然体就在你当前的位置，如果箭头向下，它就在你下面。</text>
+	</string>
+
+	<string id="ls_mp_tip_36">
+		<text>你可以收集敌人的背包，获得额外的金钱。多余的装备可以在基地出售。</text>
+	</string>
+
+	<string id="ls_mp_tip_37">
+		<text>你要不惜一切代价掩护携带超自然体的队友。</text>
+	</string>
+
+	<string id="ls_mp_tip_38">
+		<text>你可以用手雷攻击掩体后的敌人。注意手雷的杀伤半径，以免伤到友军。</text>
+	</string>
+
+	<string id="ls_mp_tip_39">
+		<text>你可以使用语音聊天的方式与队友交流。若要打开语音聊天菜单，按下“$$ACTION_SPEECH_MENU_0$$”或“$$ACTION_SPEECH_MENU_1$$”即可。</text>
+	</string>
+
+	<string id="ls_mp_tip_4">
+		<text>团队死亡竞赛：若要获得胜利，你的队伍要比敌方获得更高的击杀得分。</text>
+	</string>
+
+	<string id="ls_mp_tip_40">
+		<text>按下“$$ACTION_VOTE_BEGIN$$”即可开始投票。</text>
+	</string>
+
+	<string id="ls_mp_tip_41">
+		<text>按下“$$ACTION_SCORES$$”即可查看游戏得分。</text>
+	</string>
+
+	<string id="ls_mp_tip_42">
+		<text>等待期结束后，按下“$$ACTION_JUMP$$”即可重生。</text>
+	</string>
+
+	<string id="ls_mp_tip_43">
+		<text>若要打开购买菜单，在基地内按下“$$ACTION_BUY_MENU$$”即可。</text>
+	</string>
+
+	<string id="ls_mp_tip_44">
+		<text>按下“$$ACTION_CHAT$$”即可打开一般聊天。若要使用文本聊天的方式与队友交谈，按下“$$ACTION_CHAT_TEAM$$”即可。</text>
+	</string>
+
+	<string id="ls_mp_tip_45">
+		<text>奔跑是最快的移动方式，但也是最累的。按下“$$ACTION_SPRINT_TOGGLE$$”即可奔跑。</text>
+	</string>
+
+	<string id="ls_mp_tip_46">
+		<text>瞄准时射击比盲射要精准得多。若要瞄准，按下“$$ACTION_WPN_ZOOM$$”即可。</text>
+	</string>
+
+	<string id="ls_mp_tip_47">
+		<text>如果你有下挂式榴弹发射器，按下“$$ACTION_WPN_FUNC$$”就能在发射器和普通射击模式之间切换。</text>
+	</string>
+
+	<string id="ls_mp_tip_48">
+		<text>如果当前的武器有多种弹药可用，你可以按下“$$ACTION_WPN_NEXT$$”在弹药之间切换。</text>
+	</string>
+
+	<string id="ls_mp_tip_49">
+		<text>若要在弹匣打空前重新给武器装弹，按下“$$ACTION_WPN_RELOAD$$”即可。</text>
+	</string>
+
+	<string id="ls_mp_tip_5">
+		<text>超自然体抢夺：若要取得胜利，你必须将特定数量的敌方超自然体带回基地。</text>
+	</string>
+
+	<string id="ls_mp_tip_50">
+		<text>若要丢弃当前的武器，按下“$$ACTION_DROP$$”即可。</text>
+	</string>
+
+	<string id="ls_mp_tip_51">
+		<text>若要查看背包，按下“$$ACTION_INVENTORY$$”即可。</text>
+	</string>
+
+	<string id="ls_mp_tip_52">
+		<text>大部分武器都有好几种射击模式。若要在射击模式间切换，按下“$$ACTION_WPN_FIREMODE_NEXT$$”或“$$ACTION_WPN_FIREMODE_PREV$$”即可。</text>
+	</string>
+
+	<string id="ls_mp_tip_53">
+		<text>有些地方就算蹲伏也过不去。如果想尽可能趴低，按住“$$ACTION_CROUCH$$”的同时按下“$$ACTION_ACCEL$$”即可。</text>
+	</string>
+
+	<string id="ls_mp_tip_55">
+		<text>若要查看拐角处的情况，按下“$$ACTION_LLOOKOUT$$”或“$$ACTION_RLOOKOUT$$”即可。但你不能一边射击一边查看拐角处。</text>
+	</string>
+
+	<string id="ls_mp_tip_6">
+		<text>超自然体抢夺：若要将被偷走的超自然体带回基地，你必须击杀携带该超自然体的敌人，再按下“$$ACTION_USE$$”把它捡起来。</text>
+	</string>
+
+	<string id="ls_mp_tip_7">
+		<text>超自然体寻宝：激活超自然体就能将其摧毁。若要摧毁一个超自然体，先按下“$$ACTION_ARTEFACT$$”把它拿出来，再长按“$$ACTION_WPN_FIRE$$”激活。</text>
+	</string>
+
+	<string id="ls_mp_tip_8">
+		<text>携带超自然体时，你无法奔跑。</text>
+	</string>
+
+	<string id="ls_tip_100">
+		<text>若要查看背包，按下“$$ACTION_INVENTORY$$”即可。</text>
+	</string>
+
+	<string id="ls_tip_36">
+		<text>若要修理一件道具，你需要先找个技术员，在改装界面选定道具后，点击修理按钮即可。你也可以在相同的界面上，在该道具上单击右键，从快捷菜单中选择相应的操作。</text>
+	</string>
+
+	<string id="ls_tip_81">
+		<text>大部分武器都默认有好几种射击模式。你可以购买武器改装，增加新的模式。若要在射击模式间切换，按下“$$ACTION_WPN_FIREMODE_NEXT$$”或“$$ACTION_WPN_FIREMODE_PREV$$”即可。</text>
+	</string>
+
+	<string id="ls_tip_7">
+		<text>武器的弹道平直度会影响子弹的轨迹，而操控性则决定了在射击后，照门要多久才能回到起始位置。</text>
+	</string>
+
+	<string id="ls_tip_5">
+		<text>部分防护服配备了一体式头盔。穿上这样的防护服后，你就不能戴其它头盔了。</text>
+	</string>
+
+	<string id="ls_tip_76">
+		<text>每件武器都有独特的精准度、操控性、伤害和射速等特性。你可以从丰富的选择中挑选合适的武器。</text>
+	</string>
+
+	<string id="ls_tip_51">
+		<text>当你在移动时，射击的精准度会受到很大的影响，站着不动或蹲伏可以提升精准度。</text>
+	</string>
+
+	<string id="ls_mp_tip_10">
+		<text>这种能量饮料能暂时提升耐力的恢复速度，让你冲刺得更久。</text>
+	</string>
+
+	<string id="ls_mp_tip_12">
+		<text>在进行死亡竞赛模式的游戏时，你的弹药是无限的。</text>
+	</string>
+
+	<string id="ls_tip_16">
+		<text>变异区最常见的威胁之一就是辐射。严重的辐射会损害你的健康，如果不及时治疗，那你就会死亡。</text>
+	</string>
+
+	<string id="ls_tip_19">
+		<text>长时间扫荡时记得带点食物。如果你太饿，耐力恢复就会受到很大的影响。</text>
+	</string>
+
+	<string id="ls_c_tip_90">
+		<text>PDA中包括地图、当前任务信息、个人数据统计和消息日志。按下$$ACTION_ACTIVE_JOBS$$即可打开你的PDA。</text>
+	</string>
+
+	<string id="ls_c_tip_24">
+		<text>如果屏幕右下角出现血滴标志，则表示你正在流血并需要止血。标志的颜色表示出血的严重程度。</text>
+	</string>
+
+	<string id="ls_c_tip_46">
+		<text>你可以按住$$ACTION_WPN_ZOOM$$来调整投掷手榴弹的距离。</text>
+	</string>
+
+	<string id="ls_c_tip_71">
+		<text>要从背包中丢弃物品，只需按下$$ACTION_UI_CONTEXT_MENU$$，并从弹出菜单中选择丢弃操作。</text>
+	</string>
+
+	<string id="ls_c_tip_74">
+		<text>你可以随时在游戏选项菜单中更改游戏难度。</text>
+	</string>
+
+	<string id="ls_c_tip_31">
+		<text>大多数神器在异常区域移动时会保持隐形，你可以用探测器发现它们。</text>
+	</string>
+
+	<string id="ls_c_tip_18">
+		<text>能量饮料可以暂时提高你的耐力恢复，这将提升你潜在的移动能力。</text>
+	</string>
+
+	<string id="ls_c_tip_21">
+		<text>你可以使用位于屏幕左上角的噪音和敌人检测指示器来观察你的隐匿状态。</text>
+	</string>
+
+	<string id="ls_c_tip_25">
+		<text>如果屏幕右下角出现辐射危险标志，则表示你已受到辐射。当这种情况发生时，你应该使用抗辐射药物。标志的颜色表示你接触的辐射程度。</text>
+	</string>
+
+	<string id="ls_c_tip_62">
+		<text>如果你到达潜行者营地时状态为“受伤”或“受到辐射”，你可以向当地医生寻求免费帮助。</text>
+	</string>
+
+	<string id="ls_c_tip_95">
+		<text>瞄准射击比腰射更加精准。按下$$ACTION_WPN_ZOOM$$进行瞄准。</text>
+	</string>
+
+	<string id="ls_c_tip_86">
+		<text>按下$$ACTION_TORCH$$即可打开或关闭手电筒。</text>
+	</string>
+
+	<string id="ls_c_tip_17">
+		<text>食物不仅可以缓解饥饿感，还可以小幅改善你的健康状态。</text>
+	</string>
+
+	<string id="ls_c_tip_65">
+		<text>你可以通过升级头盔中的夜视设备来得到更大的夜视范围。</text>
+	</string>
+
+	<string id="ls_c_tip_35">
+		<text>出售神器并非唯一的赚钱方式：处理不需要的装备同样能获得利润。注意，商贩通常对严重损坏的物品不感兴趣。</text>
+	</string>
+
+	<string id="ls_c_tip_15">
+		<text>你可以通过投掷螺栓发现异常现象。</text>
+	</string>
+
+	<string id="ls_c_tip_23">
+		<text>记得在需要进入异常区域的任务中使用这些产品，说不定就能救你一命。</text>
+	</string>
+
+	<string id="ls_c_tip_1">
+		<text>伏特加是一种廉价的抗辐射药物替代品，是减轻辐射对身体影响的最简单方式。</text>
+	</string>
+
+	<string id="ls_c_tip_78">
+		<text>神器不只是珍贵的战利品：除了轻便和昂贵之外，它们往往还极具实用效果。</text>
+	</string>
+
+	<string id="ls_c_tip_34">
+		<text>要是只去附近的地方，大多数潜行者都可以带你去；但如果要前往遥远的地区，只有经验丰富的向导才能在保证安全的前提下快速将你送达，不过，他们会为提供的向导服务收取高昂的费用。</text>
+	</string>
+
+	<string id="ls_c_tip_26">
+		<text>你与他人的关系直接影响购买物品和服务需要的价格。别指望从关系不佳的人手里拿到折扣。但如果你们关系融洽，商人甚至可能愿意给你提供些特殊的商品。</text>
+	</string>
+
+	<string id="ls_c_tip_48">
+		<text>加速跳跃可以让你跨越大的间隙和裂缝。</text>
+	</string>
+
+	<string id="ls_c_tip_20">
+		<text>耐力过低可能使你在关键时刻无法移动，容易遭到敌人攻击。</text>
+	</string>
+
+	<string id="ls_c_tip_44">
+		<text>爆头射击能够造成大量伤害，可以一枪击毙大多数敌人。</text>
+	</string>
+
+	<string id="ls_c_tip_51">
+		<text>在移动过程中，射击精度会大大下降。站住不动或蹲下可以提升射击精度。</text>
+	</string>
+
+	<string id="ls_c_tip_37">
+		<text>AC-96/2具有独特的双发射击模式。在这种模式下，扣动扳机发出的两颗子弹会击中同一个地方。</text>
+	</string>
+
+	<string id="ls_c_tip_84">
+		<text>为了降低被敌人击中的几率，你可以在角落处侧身还击。长按$$ACTION_WPN_ZOOM$$并按下$$ACTION_UI_TAB_LEFT$$或$$ACTION_UI_TAB_LEFT$$可以做到这一点</text>
+	</string>
+
+	<string id="ls_c_tip_33">
+		<text>如果你受到了严重的辐射暴露，务必使用抗辐射药物。如果你没有任何药物，在找到医生前，可以使用急救包来处理初期症状。</text>
+	</string>
+
+	<string id="ls_c_tip_16">
+		<text>在封锁区中最常见的威胁之一就是辐射。严重的辐射暴露会损害你的健康，如果得不到适当的治疗，可能会让人丧命。</text>
+	</string>
+
+	<string id="ls_c_tip_96">
+		<text>如果你配备下挂榴弹发射器，你可以通过按下$$ACTION_WPN_FUNC$$切换至正常射击模式。</text>
+	</string>
+
+	<string id="ls_c_tip_76">
+		<text>每种武器都有独特的精度、操控性、伤害和射速，你可以从众多武器中挑选称心如意的一款。</text>
+	</string>
+
+	<string id="ls_c_tip_69">
+		<text>了解药物的作用可以帮助你更合理地使用药物。请查阅药物说明，了解某些药物的效果。</text>
+	</string>
+
+	<string id="ls_c_tip_94">
+		<text>奔跑是最快的移动方式，但也是最费力的。按下$$ACTION_run_or_lie_down$$开始奔跑。</text>
+	</string>
+
+	<string id="ls_c_tip_91">
+		<text>你需要拿出探测器来寻找神器。</text>
+	</string>
+
+	<string id="ls_c_tip_40">
+		<text>如果你想尽可能减少移动噪音，可以试着轻微移动左摇杆行走，或者按$$ACTION_CROUCH$$蹲下。</text>
+	</string>
+
+	<string id="ls_c_tip_100">
+		<text>按下$$ACTION_INVENTORY$$可以打开背包。</text>
+	</string>
+
+	<string id="ls_c_tip_13">
+		<text>你需要用探测器来寻找神器。探测器越高级，搜寻过程就会越轻松，甚至可能会发现更珍贵的神器。</text>
+	</string>
+
+	<string id="ls_c_tip_77">
+		<text>除了武器和弹药外，敌人的尸体上也可能包含有价值的物品，如带有信息的PDA。</text>
+	</string>
+
+	<string id="ls_c_tip_59">
+		<text>辐射过后，你已经探索过的异常区域可能会出现新的神器。</text>
+	</string>
+
+	<string id="ls_c_tip_41">
+		<text>霰弹枪适用于近身战斗。敌人距离越远，霰弹枪的杀伤效果就越弱。</text>
+	</string>
+
+	<string id="ls_c_tip_50">
+		<text>狙击步枪因其平直性和精准的特性，非常适合用于远距离消灭敌人。但在近距离战斗中效果较差。</text>
+	</string>
+
+	<string id="ls_c_tip_19">
+		<text>进行长时间的突袭行动时，随身携带一些食物。过度饥饿会导致耐力恢复能力大大降低。</text>
+	</string>
+
+	<string id="ls_c_tip_54">
+		<text>在这片封锁区内，你需要随时保持警惕，不要盲目依赖过去的信息。当你回到已经探索过的异常区域时，可能会发现来时的路线已经无法通行了。</text>
+	</string>
+
+	<string id="ls_c_tip_98">
+		<text>在弹夹打空前，按下$$ACTION_WPN_RELOAD$$来重新装填武器。</text>
+	</string>
+
+	<string id="ls_c_tip_7">
+		<text>武器的平直性会影响子弹的轨迹，而操控性则决定了射击后准星回到初始位置的时间。</text>
+	</string>
+
+	<string id="ls_c_tip_85">
+		<text>由于游戏内的目标定位机制，你的望远镜不仅可以清楚地查看远方的目标，还能帮你定位敌人。</text>
+	</string>
+
+	<string id="ls_c_tip_28">
+		<text>除了实用效果外，大多数神器都具有放射性。使用能吸收辐射的神器可以抵消辐射给你带来的影响。</text>
+	</string>
+
+	<string id="ls_c_tip_58">
+		<text>与普通的潜行者交谈可能会获得关于新区域或近期事件的有用信息。</text>
+	</string>
+
+	<string id="ls_c_tip_39">
+		<text>双管霰弹枪可以几乎同时发射两颗子弹。</text>
+	</string>
+
+	<string id="ls_c_tip_68">
+		<text>为了避免你重复游玩同一章节，记得定期保存你的游戏。</text>
+	</string>
+
+	<string id="ls_c_tip_4">
+		<text>你可以使用筛选功能，在PDA的地图上隐藏和显示不同的标记。筛选按钮位于地图上方，当前任务行的下方。</text>
+	</string>
+
+	<string id="ls_c_tip_97">
+		<text>如果当前武器有几种类型的弹药，你可以通过按$$ACTION_WPN_NEXT$$来进行切换。</text>
+	</string>
+
+	<string id="ls_c_tip_99">
+		<text>按下$$ACTION_DROP$$可以丢弃你当前的武器。</text>
+	</string>
+
+	<string id="ls_c_tip_45">
+		<text>封锁区中的每种变种生物都有自己独特的战斗方式。如果你能够注意到这点，你的生存几率将大大增加。</text>
+	</string>
+
+	<string id="ls_c_tip_2">
+		<text>潜行者营地的技师可以升级你的武器、服装和头盔。</text>
+	</string>
+
+	<string id="ls_c_tip_47">
+		<text>敌人会使用手榴弹，当你看到手榴弹提示时，立刻避开爆炸区域。</text>
+	</string>
+
+	<string id="ls_c_tip_53">
+		<text>封锁区的生命力不同寻常，这意味着你很有可能在你已经清理过的地方遇到变种生物或敌方潜行者。</text>
+	</string>
+
+	<string id="ls_c_tip_72">
+		<text>你可以在选项菜单中使用特殊设置，让游戏在关键点自动保存你的进度。</text>
+	</string>
+
+	<string id="ls_c_tip_29">
+		<text>你的刀在面对装备有枪支的敌人时效果不佳。你应在近战或暗杀时使用它。</text>
+	</string>
+
+	<string id="ls_c_tip_49">
+		<text>你可以在屏幕右下角看到显示健康状况和耐力的重要指标。</text>
+	</string>
+
+	<string id="ls_c_tip_30">
+		<text>探测器是在异常区域内探寻神器的唯一可靠方式。</text>
+	</string>
+
+	<string id="ls_c_tip_9">
+		<text>药物不会立即生效，有些药物可以持续很长时间。</text>
+	</string>
+
+	<string id="ls_c_tip_32">
+		<text>当夜幕降临时，变种生物会变得更为活跃，这就是潜行者宁愿等到天亮再进入封锁区的原因。</text>
+	</string>
+
+	<string id="ls_c_tip_88">
+		<text>如果你的头盔配备了夜视设备，你可以按下$$ACTION_NIGHT_VISION$$来开启或关闭夜视。</text>
+	</string>
+
+	<string id="ls_c_tip_55">
+		<text>神器通常不是静止的：它们会在异常区域内移动。冲动地去追赶神器很快就会让你陷入异常现象中。</text>
+	</string>
+
+	<string id="ls_c_tip_5">
+		<text>有些服装带有一体化头盔。这样的服装无法与其他头盔搭配使用。</text>
+	</string>
+
+	<string id="ls_c_tip_42">
+		<text>在躲避轻型武器射击时，确保你躲在坚实的物体后。相较于混凝土墙而言，木板和金属薄板不能算是安全的遮蔽物。</text>
+	</string>
+
+	<string id="ls_c_tip_64">
+		<text>如果你需要等待特定的时间，你可以在营地打盹儿来消磨时间。只需找到休息区，按下$$ACTION_USE$$并选择你想要睡眠的时长。</text>
+	</string>
+
+	<string id="ls_c_tip_63">
+		<text>你可以将物品存放在营地的个人储物箱中，避免身上携带多余的东西。</text>
+	</string>
+
+	<string id="ls_c_tip_12">
+		<text>要通过快捷栏使用物品，只需在背包中选择物品，然后按下“行动”菜单中的“添加到快捷栏”选项，并选择想要使用的槽位即可。</text>
+	</string>
+
+	<string id="ls_c_tip_27">
+		<text>你可以突出显示所需物品并按$$ACTION_UI_CONTEXT_MENU$$，以此在背包中显示物品菜单</text>
+	</string>
+
+	<string id="ls_c_tip_3">
+		<text>你携带的重量会减少你的耐力。过多的负重将限制你的移动能力，而完全超重则会让你无法移动。</text>
+	</string>
+
+	<string id="ls_c_tip_79">
+		<text>由于封锁区的环境，许多变种生物都带有放射性。如果没有足够的辐射防护，靠近他们将变得极其危险。</text>
+	</string>
+
+	<string id="ls_c_tip_43">
+		<text>别小看手枪。它们拥有相当大的威慑力，而且对防护较差的目标非常有效。</text>
+	</string>
+
+	<string id="ls_c_tip_52">
+		<text>在封锁区的恶劣环境下，武器和防护服将会很快磨损。磨损后的武器精准度较低并且容易走火，而磨损后的防护服也无法提供很好的保护。</text>
+	</string>
+
+	<string id="ls_c_tip_22">
+		<text>你可以一只手拿着探测器，用另一只手使用刀、手枪或螺栓。</text>
+	</string>
+
+	<string id="ls_c_tip_60">
+		<text>你可以在两个武器槽位中装备任何武器。这样，你就可以自由打造武器组合，比如突击步枪配霰弹枪，或者手枪配狙击步枪。</text>
+	</string>
+
+	<string id="ls_c_tip_66">
+		<text>要想在这里生存下来，你需要时刻留意盖革计数器发出的噼啪声，这是辐射的警告，同时也要注意异常现象的危险信号，它会告诉你你正在接近异常区域。</text>
+	</string>
+
+	<string id="ls_c_tip_57">
+		<text>有些潜行者可能会向你提供一些服务，比如提供信息和独特的物品，或者发布可以获得特定神器的任务。</text>
+	</string>
+
+	<string id="ls_c_tip_75">
+		<text>为了在封锁区内的行动中减少异常区域带来的有害影响，可以使用防护服、神器或者服用相应的药物。</text>
+	</string>
+
+	<string id="ls_c_tip_38">
+		<text>如果想要卸下武器上的消音器、瞄准镜或者下挂榴弹发射器，只需在背包中选择相应武器，然后在弹出的菜单中选择相应操作即可。</text>
+	</string>
+
+	<string id="ls_c_tip_70">
+		<text>利用手榴弹对付躲在掩体后的敌人，但是注意手榴弹的爆炸范围，避免伤害到友军。</text>
+	</string>
+
+	<string id="ls_c_tip_81">
+		<text>大多数武器默认有几种射击模式，你可以购买配件以添加新的射击模式。要切换射击模式，按下$$ACTION_WPN_FIREMODE_NEXT$$或者$$ACTION_WPN_FIREMODE_PREV$$。</text>
+	</string>
+
+	<string id="ls_c_tip_8">
+		<text>你可以使用绷带、军用医疗包或者长春花药物来止血。如果不及时处理，出血会严重损害你的健康。</text>
+	</string>
+
+	<string id="ls_c_tip_73">
+		<text>当回到营地时，你应该修理装备，出售不需要的战利品，并补充弹药和医疗用品。</text>
+	</string>
+
+	<string id="ls_c_tip_67">
+		<text>在封锁区内行动时，身上记得带几个备用的弹夹，它们一定会派上用场的。</text>
+	</string>
+
+	<string id="ls_c_tip_56">
+		<text>某些医疗用品有其独特的属性。如赫尔库勒斯药片可以短时间提升你的负重能力，而精神阻断的药物则能帮助你抵抗精神辐射。</text>
+	</string>
+
+	<string id="ls_c_tip_6">
+		<text>要避开辐射释放，你应该躲在坚固的建筑里或地下。当有辐射释放时，最近的避难处会在你的PDA上标出。</text>
+	</string>
+
+	<string id="ls_c_tip_36">
+		<text>要修理物品，你需要找到技师，并在改装界面选择该物品，然后点击修理按钮。你也可以在同一界面中按下$$ACTION_UI_CONTEXT_MENU$$，从弹出菜单中选择修理操作。</text>
+	</string>
+
+	<string id="ls_c_tip_14">
+		<text>如果你带着武器，潜行者就不会让你进入他们的营地。</text>
+	</string>
+
+	<string id="ls_c_tip_11">
+		<text>你可以卸下找到武器中的弹药以获取更多的弹药，只需在背包中按下$$ACTION_UI_CONTEXT_MENU$$，并从弹出的菜单中选择相应的操作。</text>
+	</string>
+
+	<string id="ls_c_tip_61">
+		<text>你在各个潜行者营地遇到的商人都会提供独特的商品内容。例如，医生肯定会提供最好的医疗用品。</text>
+	</string>
+
+</string_table>

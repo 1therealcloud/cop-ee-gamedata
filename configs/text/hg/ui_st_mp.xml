@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="savedata_full">
+		<text>Nincs hely ъj mentйsre! Tцrцlj vagy нrj felьl korбbbi mentйseket.</text>
+	</string>
+
+	<string id="mp_military_2">
+		<text>Rйgi falu</text>
+	</string>
+
+</string_table>

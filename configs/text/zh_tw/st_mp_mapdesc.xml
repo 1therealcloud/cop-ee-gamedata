@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="mp_autostation">
+		<text>汽車站</text>
+	</string>
+
+	<string id="ui_map_desc_mp_agroprom_large">
+		<text>這是個奇怪的地方。這棟寂靜的建築可能藏有不少秘密，但潛行者被吸引到此是別的原因——這片高風險、高回報的地區有大量的神器。動腦快、動作快，幸運與你站一塊！</text>
+	</string>
+
+	<string id="ui_map_desc_mp_agroprom_short">
+		<text>這是個奇怪的地方。這棟寂靜的建築可能藏有不少秘密，但潛行者被吸引到此是別的原因——這片地區有大量的神器。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_atp_large">
+		<text>特異區入口的公車停車場。牽引機、公車和卡車永遠停在它們的軌道上……這裡目前沒有發現神器，但這個地方受到潛行者老手的喜愛，他們追捕新手、搶奪他們僅有的財產。在建築物中和車輛後方找好掩蔽，小心屋頂上的敵人。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_atp_short">
+		<text>特異區入口的公車停車場。牽引機、公車和卡車永遠停在了它們的軌道上……</text>
+	</string>
+
+	<string id="ui_map_desc_mp_autostation_large">
+		<text>廢棄的倉儲建築和鄰近地區。如果你仔細尋找，會發現一些設備和物資。小心強大的特異點和倉庫屋頂上的狙擊手——那裡的視野絕佳，幾乎可以看到所有接近該區域的目標。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_autostation_short">
+		<text>廢棄的倉儲建築和鄰近地區。小心強大的特異點和狙擊手敵人。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_bath_large">
+		<text>一個神秘又吸引人的地方。這個池子是用來對某人或某物進行實驗，但它確切的目的將永遠成謎。這裡沒有神器，所以潛行者可能只是被奇異的裝置和配件殘骸吸引而至。小心屋頂，並請謹記，這個區域的輻射極高。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_bath_short">
+		<text>一個神秘又吸引人的地方。這個池子是用來對某人或某物進行實驗，但確切的目的將永遠成謎。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_darkvalley_large">
+		<text>黑暗山谷的這個危險區域中有一條長街和一間廢棄的學院。誰知道他們以前在那裡教什麼？這幾天在這裡唯一要學的就是如何生存！哦，還有密切留意屋頂……</text>
+	</string>
+
+	<string id="ui_map_desc_mp_darkvalley_short">
+		<text>黑暗山谷中的這個區域很危險，裡面有一條長街和一間廢棄的學院……</text>
+	</string>
+
+	<string id="ui_map_desc_mp_factory_large">
+		<text>這座陰沉荒涼的工廠是無數潛行者的安息地。雖然處處都有特異點等著訪客，但神器彷彿磁力般吸引他們大量湧入。請小心輻射！</text>
+	</string>
+
+	<string id="ui_map_desc_mp_factory_short">
+		<text>這座陰沉荒涼的工廠是無數潛行者的安息地。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_firestation_large">
+		<text>1986年，這座消防站的所有人力都被派往救援切爾諾貝爾核電站。消防塔有絕佳優勢，可以俯瞰周遭地區，無論遠近。很少有人造訪建築物的上層和地下室，但或許這樣也好。特異區內各派一直以來都在這個地區激烈對戰，爭奪最佳戰略位置。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_firestation_short">
+		<text>1986年，這座消防站的所有人力都被派往救援切爾諾貝爾核電站。該站具有絕佳戰術優勢。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_garbage_large">
+		<text>巨大垃圾場的一部分，堆積著1986年的災難後傾倒的放射性廢料，充滿老舊的吊車和各式設備。其他的當地建築包含老舊破爛的大樓和一座大型飛機棚。靠近科頓，此地神器數量較多，吸引著喜歡不費力收集神器的潛行者。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_garbage_short">
+		<text>巨大垃圾場的一部分，堆積著1986年的災難後傾倒的放射性廢料和各式設備。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_limansk_large">
+		<text>謎一樣的城市利曼西克的一塊小區域，被遺棄的公寓樓之間有棟半建成的建築。在這裡發現了幾件昂貴神器的消息迅速傳遍特異區，幾條通往利曼西克的道路隨之開通，自那時起槍聲就再沒停過。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_limansk_short">
+		<text>謎一樣的城市利曼西克的一塊小區域，被遺棄的公寓樓之間有棟半建成的建築。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_lost_village_large">
+		<text>位於特異區深處、被遺棄的淒涼小鎮。有著一個布滿鐵鏽的淺湖泊，也是大量車輛殘骸的歸宿，讓你的潛意識充滿對特異區現實的恐懼。小心狙擊手，但請記住：特異區喜愛勇者。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_lost_village_short">
+		<text>位於特異區深處、被遺棄的淒涼小鎮。有著一個布滿鐵鏽的淺湖泊，也是大量車輛殘骸的歸宿，讓你的潛意識充滿對特異區現實的恐懼。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_military_1_large">
+		<text>被遺棄的軍事基地，停著再也無法動彈的卡車和裝甲運兵車，有著荒廢的指揮部和兵營。不過這種荒涼的外觀只是掩人耳目：這裡是名副其實的神器寶庫，也意味著敵人可能潛伏在各個角落。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_military_1_short">
+		<text>被遺棄的軍事基地，停著再也無法動彈的卡車和裝甲運兵車，有著荒廢的指揮部和兵營。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_military_2_large">
+		<text>這座老村莊極為險惡。如果你好膽來到這，請做足準備迎接爆頭見面禮。這裡沒有一處安全，願你的瞄準鏡與滅音器與你同在！</text>
+	</string>
+
+	<string id="ui_map_desc_mp_military_2_short">
+		<text>這座老村莊極為險惡。也許你成功到達了這裡，但現在絕不是放鬆的時候。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_pool_large">
+		<text>這不是游泳池，更像是血池。子彈聲、爆炸聲和垂死的尖叫聲迴盪在磁磚走廊上……鮮少有潛行者知道來這裡的路，但知道怎麼出去的人更少。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_pool_short">
+		<text>這不是游泳池，更像是血池。子彈聲和爆炸聲迴盪在磁磚走廊上。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_railraod_short">
+		<text>鄰近羅斯托克工廠的小火車站。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_railroad_large">
+		<text>鄰近羅斯托克工廠的小火車站，滿是生鏽的火車和火車頭，永遠停在它們的軌道上。大量的神器引來特異區各處無畏的潛行者。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_rembasa_large">
+		<text>位於小村莊附近的維修基地。為了善後切爾諾貝爾事故，所有可運行的車輛都被運走了。隨著時間過去，遺留的設備已被洗劫當作備件。這個地區危險四伏，如暗藏殺機的沼澤和受污染的蘆葦叢，如果你夠幸運，或許能在其中找到一些真正有價值的東西。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_rembasa_short">
+		<text>位於小村莊附近的維修基地。這個地區危險四伏，如暗藏殺機的沼澤和受污染的蘆葦叢等。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_rostok_large">
+		<text>混凝土牆後方成堆的閒置生鏽金屬。在世紀之交之前，伴隨著擴音器裡滔滔不絕的社會主義口號，工廠一直在持續運轉，但這棟建築早已廢棄多時。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_rostok_short">
+		<text>廢棄的舊工廠：混凝土牆後方成堆的閒置金屬是其唯一遺留物</text>
+	</string>
+
+	<string id="ui_map_desc_mp_sport_center_large">
+		<text>位於普里皮亞季的運動中心，距離荒廢的學校不遠。1986年以來，這裡進行的體育項目與其愛好者都發生了巨變。潛行者被存疑的名氣、戰利品和神器吸引至此……有時就永遠留在這裡了。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_sport_center_short">
+		<text>位在普里皮亞季的運動中心，距離荒廢的學校不遠。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_training_camp_large">
+		<text>一個非常奇怪的地方。許多聲稱看過這裡的潛行者都受到嘲笑，但它確實存在。重力特異點已經撕裂了地面，創造出一個異世界景觀。這個地區主要有三座巨型塔樓、軍事硬體的遺跡和從地下裂出的漂浮陸島。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_training_camp_short">
+		<text>一個非常奇怪的地方。重力特異點已經撕裂了地面，創造出一個異世界景觀……</text>
+	</string>
+
+	<string id="ui_map_desc_mp_workshop_large">
+		<text>在紀律團定居此地以前，這是羅斯托克工廠的邊緣地帶。這個令人毛骨悚然的地方有著大量的神器。每個空飛機棚或倉庫都充斥著致命的危險。請極度小心，密切注意那棟白色的塔樓……</text>
+	</string>
+
+	<string id="ui_map_desc_mp_workshop_short">
+		<text>在紀律團定居此地以前，這是羅斯托克工廠的邊緣地帶。這個令人毛骨悚然的地方有著大量的神器。 </text>
+	</string>
+
+	<string id="ui_map_desc_mp_pripyat_large">
+		<text>很少人敢冒險進入廢棄的普里皮亞季城市，這裡曾經是切爾諾貝爾核電站員工的住所。儘管如此，這座死城的街道最近卻陷入麻煩之中：在普羅米修士電影院、碼頭和庫爾恰托瓦街上房屋之間的一小片地區發生了激烈的交火。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_pripyat_short">
+		<text>在普里皮亞季城市某處——普羅米修士電影院、碼頭和庫爾恰托瓦街上房屋之間的一小片地區，少數進入這座死城的人之間發生了激烈的戰鬥。</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,68 @@
+<w>
+	<main x="0" y="0" width="1024" height="768"/>	
+	<input_legend x="0" y="720" width="1024" height="50">
+		<scroll_area_margins left="30" right="30" top="0" bottom="0"/>
+		<text align="c" vert_align="c" font="graffiti22" color="ilegendtext"/>
+		<item string_id="legend_ui_wheelmenu_select"/>
+		<item string_id="legend_ui_drop_weapon"/>
+		<item string_id="legend_ui_night_vision"/>
+		<item string_id="legend_ui_wpn_func"/>
+		<item string_id="legend_ui_fire_mode"/>
+		<item string_id="legend_ui_ammo_next"/>
+	</input_legend>
+	
+	<action_sounds>
+		<snd_open>interface\console\whl_open</snd_open>
+		<snd_close>interface\console\whl_close</snd_close>
+		<snd_switch_slot>interface\console\whl_hover</snd_switch_slot>
+		<snd_select_slot>interface\console\whl_select</snd_select_slot>
+		<snd_fire_mode>interface\console\whl_fire_mode</snd_fire_mode>
+		<snd_grenade_mode>interface\console\whl_grenade_mode</snd_grenade_mode>
+	</action_sounds>
+	
+	<default_arc x="512" y="384" width="200" height="200" stretch="1">
+		<texture>ui_weapon_wheel_d</texture>
+	</default_arc>
+	<selected_arc  x="512" y="384" width="53" height="64" stretch="1">
+		<texture>ui_weapon_wheel_s</texture>
+	</selected_arc>
+	<focused_arc  x="512" y="384" width="53" height="64" stretch="1">
+		<texture>ui_weapon_wheel_f</texture>
+	</focused_arc>	
+	<focused_and_selected_arc  x="512" y="384" width="53" height="64" stretch="1">
+		<texture>ui_weapon_wheel_fs</texture>
+	</focused_and_selected_arc>
+		<!--
+	NO_ACTIVE_SLOT	= 0,
+	KNIFE_SLOT		= 1,//btn1			was (0)			!!!
+	2 INV_SLOT_2,		//btn2 PISTOL_SLOT	was (1)
+	3 INV_SLOT_3,		//btn3 RIFLE_SLOT	was (2)
+	4 GRENADE_SLOT,	//btn4 GRENADE_SLOT	was (3)
+	5 BINOCULAR_SLOT,	//btn5 BINOCULAR_SLOT
+	6 BOLT_SLOT,		//btn6 BOLT_SLOT
+	7 OUTFIT_SLOT,	// outfit
+	8 PDA_SLOT,		// pda
+	9 DETECTOR_SLOT,	// detector
+	10 TORCH_SLOT,		// torch
+	11 ARTEFACT_SLOT,	// artefact
+	12 HELMET_SLOT,
+	LAST_SLOT		= HELMET_SLOT
+	-->
+	
+	<wheel_menu_params sector_count="8" starting_angle="0.425" sector_gap_angle="0.035" safezone_height_factor="0.09" inner_radius_ratio="0.57" selected_radius_factor="1.078">
+		<color_selected r="255" g="153" b="68" a="255"/>
+		<color_deselected r="255" g="255" b="255" a="204"/>
+		<sector_outer_side_color r="51" g="51" b="51" a="50"/>
+		<sector_inner_side_color r="255" g="255" b="255" a="200"/>
+		
+		<!-- first slot is at 0 degrees = EAST -->
+		<slot id="5"/>
+		<slot id="9"/>
+		<slot id="6"/>
+		<slot id="0"/>
+		<slot id="2"/>
+		<slot id="3"/>
+		<slot id="1"/>
+		<slot id="4"/>
+	</wheel_menu_params>
+</w>

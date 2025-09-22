@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ammo-11.43x23-fmj">
+		<text>45口径ACP弾</text>
+	</string>
+	<string id="ammo-11.43x23-fmj_descr">
+		<text>45口径フルメタルジャケット弾は、その重い弾丸および比較的小さな装薬のため、100年以上の人気を持っている。弾は比較的遅いが、高い精度を持ち、相当な阻止能を提供する。</text>
+	</string>
+	<string id="ammo-11.43x23-fmj_s">
+		<text>45口径ACP</text>
+	</string>
+	<string id="ammo-11.43x23-hydro">
+		<text>45口径ACPハイドラ弾</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_descr">
+		<text>この尋常ではない45口径ACP弾は、大きい穴の軟弾頭弾と鋼芯で構成される。軟弾頭弾と徹甲弾のコンビネーションで、両方の利点を得て貫通する。</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_s">
+		<text>45口径ハイドラ</text>
+	</string>
+	<string id="ammo-12x70-buck">
+		<text>12x70散弾</text>
+	</string>
+	<string id="ammo-12x70-buck_descr">
+		<text>標準12口径の6mm散弾。近距離では致死率は高い。滑腔砲での使用にだけ適合する。</text>
+	</string>
+	<string id="ammo-12x70-buck_s">
+		<text>12x70散弾</text>
+	</string>
+	<string id="ammo-12x76-zhekan">
+		<text>12x76スラグ弾</text>
+	</string>
+	<string id="ammo-12x76-zhekan_descr">
+		<text>この重いスラグ弾は、通常大物の狩りに使用されるが、他の目的にも使える。貫通はしないが、その重いスラグ弾は装甲を打ち砕く。</text>
+	</string>
+	<string id="ammo-12x76-zhekan_s">
+		<text>12x76スラグ弾</text>
+	</string>
+	<string id="ammo-5.45x39-ap">
+		<text>5.45x39mm AP弾</text>
+	</string>
+	<string id="ammo-5.45x39-ap_descr">
+		<text>ワルシャワ条約国のオートマチック・ライフル用の軍用5.45x39-7H22口径の徹甲弾。弾丸は硬合金の侵徹体徹甲弾。ボディアーマーに対して有効。</text>
+	</string>
+	<string id="ammo-5.45x39-ap_s">
+		<text>5.45x39mm AP</text>
+	</string>
+	<string id="ammo-5.45x39-fmj">
+		<text>5.45x39mm弾</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_descr">
+		<text>ワルシャワ条約国のオートマチック・ライフル用の軍用5.45x39-7H22口径の改良された徹甲弾。縮小された反動と射程範囲100メートルの増加により、7.62口径よりも良い精度を提供する。</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_s">
+		<text>5.45x39mm</text>
+	</string>
+	<string id="ammo-5.56x45-ap">
+		<text>5.56x45mmAP弾</text>
+	</string>
+	<string id="ammo-5.56x45-ap_descr">
+		<text>SS190/M855インデックスで知られる、NATO軍標準の軍用5.56x45口径の徹甲弾。西側警備機関および特殊業務に広く使用される。ボディアーマーに対して有効。</text>
+	</string>
+	<string id="ammo-5.56x45-ap_s">
+		<text>5.56x45mmAP</text>
+	</string>
+	<string id="ammo-5.56x45-ss190">
+		<text>5.56x45mm弾</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_descr">
+		<text>正確なオートマチック発射を目的に特に設計されたNATO軍標準の 5.56x45口径の弾丸。ハンティング弾に基づいて設計され、良い弾道特性を提供する。SS109インデックスで広く知られている。</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_s">
+		<text>5.56x45</text>
+	</string>
+	<string id="ammo-7.62x54-7h14">
+		<text>7.62x54mm7H1弾</text>
+	</string>
+	<string id="ammo-7.62x54-7h14_descr">
+		<text>SVD銃のために特に設計された鋼侵徹体が付いた7.62口径の狙撃用弾丸。機関銃弾と異なり、7H1はしっかりした集中性と優れた貫通特性を提供する。</text>
+	</string>
+	<string id="ammo-7.62x54-7h14_s">
+		<text>7.62-7H1</text>
+	</string>
+	<string id="ammo-7.62x54-ap">
+		<text>7.62x54mmPP弾</text>
+	</string>
+	<string id="ammo-7.62x54-ap_descr">
+		<text>安価な7.62口径の機関銃用弾丸。狙撃用ライフルには適合しない。RP-74機関銃のみに使用される。</text>
+	</string>
+	<string id="ammo-7.62x54-ap_s">
+		<text>7.62x54PP</text>
+	</string>
+	<string id="ammo-9x18-fmj">
+		<text>9x18mm弾</text>
+	</string>
+	<string id="ammo-9x18-fmj_descr">
+		<text>鋼侵徹体付き、鉛芯のフルメタルジャケット弾。優れた阻止能を提供するが、ボディアーマーに対しては効果がない。</text>
+	</string>
+	<string id="ammo-9x18-fmj_s">
+		<text>9x18</text>
+	</string>
+	<string id="ammo-9x18-pmm">
+		<text>9x18mm +P+ 弾</text>
+	</string>
+	<string id="ammo-9x18-pmm_descr">
+		<text>この弾丸は、増強された阻止能の弾頭を持つ。ヨーロッパの+P+指定は、マズル速度の30%増加の「過剰圧力弾薬」を示す。ボディアーマーに対しては効果がない。</text>
+	</string>
+	<string id="ammo-9x18-pmm_s">
+		<text>9x18mm+P+</text>
+	</string>
+	<string id="ammo-9x19-fmj">
+		<text>9x19mmFMJ弾</text>
+	</string>
+	<string id="ammo-9x19-fmj_descr">
+		<text>ジャケット弾の基本的な9x19口径の弾丸は良い特性を持ち、生産が容易。国際会議で戦闘時用には使用禁止にされたことはよく知られている。ボディアーマーに対しては効果がない。</text>
+	</string>
+	<string id="ammo-9x19-fmj_s">
+		<text>9x19 FMJ</text>
+	</string>
+	<string id="ammo-9x19-pbp">
+		<text>9x19mmJHP弾</text>
+	</string>
+	<string id="ammo-9x19-pbp_descr">
+		<text>大きな穴付きの9x19口径ジャケット・ハローポイント弾は、高い阻止能と低い跳弾性を提供する。警察および自衛のために使用される。低い貫通性のため、ボディアーマーに対しては効果がない。</text>
+	</string>
+	<string id="ammo-9x19-pbp_s">
+		<text>9x19mmJHP</text>
+	</string>
+	<string id="ammo-9x39-ap">
+		<text>9x39mm SP-6弾</text>
+	</string>
+	<string id="ammo-9x39-ap_descr">
+		<text>SP-6は、外装からの硬鋼芯付きジャケット・ソフトポイント弾で、亜音速アサルトライフルの弾丸。秘密裏の発砲にはサイレンサーが必要。ワルシャワ条約国の特殊業務に使用される。ボディアーマーに対して有効。</text>
+	</string>
+	<string id="ammo-9x39-ap_s">
+		<text>9x39 SP-6</text>
+	</string>
+	<string id="ammo-9x39-pab9">
+		<text>9x39mmSP-5弾</text>
+	</string>
+	<string id="ammo-9x39-pab9_descr">
+		<text>SP-5は、バイメタリックの外装の亜音速の狙撃用弾丸。弾丸の後部には、鉛が入った溝付き鋼芯がある。秘密裏の発砲にはサイレンサーが必要。ワルシャワ条約国の特殊業務に使用される。</text>
+	</string>
+	<string id="ammo-9x39-pab9_s">
+		<text>9x39mmSP-5</text>
+	</string>
+	<string id="ammo-gauss">
+		<text>バッテリー</text>
+	</string>
+	<string id="ammo-m209">
+		<text>M203グレネード</text>
+	</string>
+	<string id="ammo-m209_descr">
+		<text>M203アンダーバレル・グレネードランチャー用の40mmグレネード弾。5メートルの殺傷範囲を持つ。FT-200M統合グレネードランチャーでの使用に適合する。</text>
+	</string>
+	<string id="ammo-m209_s">
+		<text>M203</text>
+	</string>
+	<string id="ammo-og-7b">
+		<text>OG-7V弾頭</text>
+	</string>
+	<string id="ammo-og-7b_descr">
+		<text>RPG-7uグレネードランチャーに使用される対人戦闘用の破砕性弾頭。主な目的は、RPG-7uランチャーを使用して、手榴弾の範囲外の敵を倒すこと。</text>
+	</string>
+	<string id="ammo-og-7b_s">
+		<text>OG-7V</text>
+	</string>
+	<string id="ammo-vog-25">
+		<text>VOG-25グレネード</text>
+	</string>
+	<string id="ammo-vog-25_descr">
+		<text>GP-25コスター・アンダーバレル・グレネードランチャー用の標準の破砕性グレネード弾。5メートルの殺傷範囲を持つ。VOG-25グレネード弾は、トゥンダーS14およびブルドッグ6リボルバー型グレネードランチャーにも使用される。</text>
+	</string>
+	<string id="ammo-vog-25_s">
+		<text>VOG-25</text>
+	</string>
+	<string id="st_addon_scope">
+		<text>PSO-1mスコープ</text>
+	</string>
+	<string id="st_addon_scope_descr">
+		<text>一般的なソビエト製5倍ズームのレンジスケール付き光学スコープ。ワルシャワ条約国の標準専用マウントで武器に取り付ける。</text>
+	</string>
+	<string id="st_addon_scope_detector">
+		<text>PSS-2xスコープ</text>
+	</string>
+	<string id="st_addon_scope_detector_descr">
+		<text>5倍ズーム光学スコープで、人体の熱源を識別するための熱バイザーを内蔵する。特殊部隊での使用のためにデザインされた。専用マウントで武器に取り付ける。</text>
+	</string>
+	<string id="st_addon_scope_night_vision">
+		<text>NSPU-3スコープ</text>
+	</string>
+	<string id="st_addon_scope_night_vision_descr">
+		<text>夜間戦闘用、光増幅管ナイトビジョン5倍固定ズーム・スコープ。専用マウントで武器に取り付ける。</text>
+	</string>
+	<string id="st_addon_scope_susat">
+		<text>SUSAT4倍ズームスコープ</text>
+	</string>
+	<string id="st_addon_scope_susat_custom_descr">
+		<text>大火力効果を提供するための自動調整が使用できる、調整可能な長距離1.6～4倍ズーム・スコープ。NATO標準のピカティーニーレールで武器に取り付ける。</text>
+	</string>
+	<string id="st_addon_scope_susat_descr">
+		<text>主として西側諸国で生産される固定4倍ズーム・スコープ。NATO標準のピカティーニーレールで武器に取り付ける。携帯兵器での中長距離の精密射撃に使用される。</text>
+	</string>
+	<string id="st_addon_scope_susat_dusk">
+		<text>SUSAT1.6倍ズーム・トワイライト・スコープ</text>
+	</string>
+	<string id="st_addon_scope_susat_dusk_descr">
+		<text>薄明かり中での戦闘用の光学SUSAT1.6倍高コントラスト・スコープ。NATO標準のピカティーニーレールで武器に取り付ける。</text>
+	</string>
+	<string id="st_addon_scope_susat_night_vision">
+		<text>SUSAT4倍ズーム・ナイト・スコープ</text>
+	</string>
+	<string id="st_addon_scope_susat_night_vision_descr">
+		<text>夜間長距離戦闘用の、ナイトビジョン装置付き固定4倍ズーム・スコープ。NATO標準のピカティーニーレールで武器に取り付ける。</text>
+	</string>
+	<string id="st_addon_scope_susat_x1.6">
+		<text>SUSAT1.6倍ズーム・スコープ</text>
+	</string>
+	<string id="st_addon_scope_susat_x1.6_descr">
+		<text>短中距離戦闘用光学SUSAT1.6倍スコープ。NATO標準のピカティーニーレールで武器に取り付ける。</text>
+	</string>
+	<string id="st_addon_scope_x2.7">
+		<text>PSU-1スコープ</text>
+	</string>
+	<string id="st_addon_scope_x2.7_descr">
+		<text>中距離市街戦用の2.7倍ズーム光学スコープ。専用マウントで武器に取り付ける。</text>
+	</string>
+	<string id="st_addon_silencer">
+		<text>サイレンサー</text>
+	</string>
+	<string id="st_addon_silencer_descr">
+		<text>希望どおりに改造ができる効果的なサイレンサー。バレル周辺のサイレンサー本体は、洗練された真鍮メッシュが巻かれている。正面は、弾丸の通過のための穴が付いた金属隔板1セットで構成される。セットには、ほとんどの武器のためのアダプタおよびシーラントが含まれる。通常は注意を引きつけずに、敵を消し去れる。</text>
+	</string>
+	<string id="st_grenade_f1">
+		<text>F1グレネード</text>
+	</string>
+	<string id="st_grenade_f1_descr">
+		<text>中レベルのボディアーマーを貫通できる破片が入った防衛用グレネード。半径7メートルの殺傷範囲を持つ。ストーカーはミュータントとの戦いに使用するために、軍と取り引きしてF1グレネードを得るようだ。</text>
+	</string>
+	<string id="st_grenade_launcher">
+		<text>GP-25コスター</text>
+	</string>
+	<string id="st_grenade_launcher_descr">
+		<text>単発、フロント・ロードの、ワルシャワ条約国で作られるアサルトライフル用のアンダーバレル・グレネードランチャー。発射メカニズムは自動コック式で、手動安全装置と、ライフルに不正確に取り付けられない自動発射予防装置付き。VOG-25グレネードを使用する。</text>
+	</string>
+	<string id="st_grenade_launcher_m203">
+		<text>M203</text>
+	</string>
+	<string id="st_grenade_launcher_m203_descr">
+		<text>3インチ短くされた改造グレネードランチャーで、ピカティーニーレールで武器に取り付ける。変更されたマウントにより、このグレネードランチャーは世界中で広く使用される。</text>
+	</string>
+	<string id="st_grenade_rgd5">
+		<text>RGD-5グレネード</text>
+	</string>
+	<string id="st_grenade_rgd5_descr">
+		<text>5メートルの小さな殺傷範囲を持つ攻撃用グレネード。ミュータントを燻し出すために、ストーカーによってしばしば使用される。比較的低価格。</text>
+	</string>
+	<string id="st_grenade_smoke">
+		<text>スモークグレネード</text>
+	</string>
+	<string id="st_grenade_smoke_descr">
+		<text>発煙手榴弾。煙幕を張るために使用される。投げてから煙幕が拡大するのに10秒かかる。</text>
+	</string>
+	<string id="st_knife">
+		<text>ナイフ</text>
+	</string>
+	<string id="st_wpn_abakan">
+		<text>AC-96/2</text>
+	</string>
+	<string id="st_wpn_ak74">
+		<text>AKM-74/2</text>
+	</string>
+	<string id="st_wpn_ak74u">
+		<text>AKM-74/2U</text>
+	</string>
+	<string id="st_wpn_beretta">
+		<text>マーサ</text>
+	</string>
+	<string id="st_wpn_bm16">
+		<text>ソードオフ・ショットガン</text>
+	</string>
+	<string id="st_wpn_bm16_descr">
+		<text>2連バレルのソードオフ狩猟用ショットガンで、フル・ショットガンより軽くてコンパクト。接近戦での隠れ易さと優れた有効性のコンビネーションにより、バンディットの間での最もポピュラーな武器のひとつ。</text>
+	</string>
+	<string id="st_wpn_colt1911">
+		<text>コラ919</text>
+	</string>
+	<string id="st_wpn_desert_eagle_nimble">
+		<text>ステップイーグル</text>
+	</string>
+	<string id="st_wpn_desert_eagle_nimble_descr">
+		<text>ブラック・カイトのデザインに基づく手製ピストル。コンポーネントは、このタイプの短銃用に驚異的な精度を与えるために素晴らしく調整されている。</text>
+	</string>
+	<string id="st_wpn_eagle">
+		<text>ブラック・カイト</text>
+	</string>
+	<string id="st_wpn_fn2000">
+		<text>FT-200M</text>
+	</string>
+	<string id="st_wpn_fort">
+		<text>フォラ12</text>
+	</string>
+	<string id="st_wpn_g36">
+		<text>GP37</text>
+	</string>
+	<string id="st_wpn_gauss">
+		<text>ガウス・ライフル</text>
+	</string>
+	<string id="st_wpn_groza">
+		<text>トゥンダーS14</text>
+	</string>
+	<string id="st_wpn_groza_descr">
+		<text>グレネードランチャーと一体化したこの攻撃用ライフルは緊急対応部隊のために特に開発され、AKMシリーズに似ている。主な違いは、9x39口径弾、ブルパップ・レイアウトおよび多くの構成オプションである。この武器はその優れた阻止能と共に、市街戦で離れた防御の後ろにいるボディアーマーの敵を殺すその能力により、ストーカーに高く評価されている。</text>
+	</string>
+	<string id="st_wpn_groza_nimble">
+		<text>ストーム</text>
+	</string>
+	<string id="st_wpn_groza_nimble_descr">
+		<text>アサルトライフルとグレネードランチャー・システムの実験的バージョンで、標準トゥンダーS14のロシア改造版。この武器は、特にゾーンで行動する部隊用にデザインされた。マガジン容量の増加が顕著。</text>
+	</string>
+	<string id="st_wpn_hpsa">
+		<text>HPSS-1m</text>
+	</string>
+	<string id="st_wpn_hpsa_descr">
+		<text>20世紀前半のピストルの改造モデルで、オリジナルと同じくらい信頼でき、強力で正確。このシリーズのピストルは、20世紀の最良の短銃のひとつとしての評判を持ち、ゾーンで大きな需要がある。</text>
+	</string>
+	<string id="st_wpn_l85">
+		<text>IL86</text>
+	</string>
+	<string id="st_wpn_lr300">
+		<text>TRs301</text>
+	</string>
+	<string id="st_wpn_mp5">
+		<text>バイパー5</text>
+	</string>
+	<string id="st_wpn_mp5_descr">
+		<text>このサブマシンガンは、その信頼度、使い易さ、および精度で世界中で人気がある。最近の数十年以上、バイパー55は世界的に特殊部隊および警察部隊で使われていた。驚くことではないが、世界のブラックマーケットに溢れ、ついにゾーンへも送られた。</text>
+	</string>
+	<string id="st_wpn_mp5_nimble">
+		<text>フレイジャー</text>
+	</string>
+	<string id="st_wpn_mp5_nimble_descr">
+		<text>優れたバイパー5モデルに基づいたサブマシンガンのプロトタイプ。近接格闘用の次世代武器としてデザインされ、より大きい口径、連射速度および精度の長所を持つ。</text>
+	</string>
+	<string id="st_wpn_pb">
+		<text>PB-1s</text>
+	</string>
+	<string id="st_wpn_pkm_zulus">
+		<text>ズールーのRP-74</text>
+	</string>
+	<string id="st_wpn_pkm_zulus_descr">
+		<text>この武器は以前にズールーによって所有されていた。その特徴には、大きな弾薬ボックスおよび特に信頼できる引込メカニズム・デザインがある。その改造で武器の重量が増加したが、それは最後の所有者にとっては問題ではなかった。</text>
+	</string>
+	<string id="st_wpn_pm">
+		<text>PMm</text>
+	</string>
+	<string id="st_wpn_pm_actor">
+		<text>名誉PMm銃</text>
+	</string>
+	<string id="st_wpn_pm_actor_descr">
+		<text>「職務において勇気と勇敢さを示し、非常に危険な国の命令に成功した業績」に対する報償として、デグチャレフに受け取られた古いPMm銃。</text>
+	</string>
+	<string id="st_wpn_protecta">
+		<text>エリミネーター</text>
+	</string>
+	<string id="st_wpn_rg6">
+		<text>ブルドッグ6</text>
+	</string>
+	<string id="st_wpn_rg6_descr">
+		<text>このリボルバー・タイプのグレネードランチャーは、6旋条が施されたフロント・ローディング・バレルが使われ、アンダーバレル・ランチャー・アタッチメントと同一である。さらに、ドラムもフロント・ローディングである。敵の射撃陣地の迅速な抑制に広く使用される。また、固定防御目標への攻撃、あるいは特に強いモンスターと戦う場合に使う。</text>
+	</string>
+	<string id="st_wpn_rp">
+		<text>RP-74</text>
+	</string>
+	<string id="st_wpn_rp_descr">
+		<text>このベルト供給の機関銃は、2ステージ供給システムと合わさった携帯用改造版である。重量と低い精度にもかかわらず、この機関銃はゾーンに賛美者が多い。主に派閥闘争やミュータントの穴などで、数の多い敵を圧倒する戦いに使用される。</text>
+	</string>
+	<string id="st_wpn_rpg7">
+		<text>RPG-7u</text>
+	</string>
+	<string id="st_wpn_sig220">
+		<text>SIP-t M200</text>
+	</string>
+	<string id="st_wpn_sig220_nimble">
+		<text>アルパイン</text>
+	</string>
+	<string id="st_wpn_sig220_nimble_descr">
+		<text>SIP-t M200短銃のユニークなモデル。限定版のごく一部で、未確認の特殊部隊用に作られた。このモデルは、マガジン容量の増加、高耐久性のスチール・バレルおよび超永続性のポリマー・レシーバーの長所を持つ。</text>
+	</string>
+	<string id="st_wpn_sig550">
+		<text>SGI-5k</text>
+	</string>
+	<string id="st_wpn_sig550_descr">
+		<text>“流行”のデザインを欠くにもかかわらず、世界中に賛美者が見つかる比較的新しいアサルトライフル。このシリーズの武器は、その信頼度、精度、使い易さで有名で、そのクラスでの最上のひとつ。ゾーンで得ることが比較的困難にもかかわらず、このアサルトライフルは、経験を積んだストーカーから高額で注文をされる。</text>
+	</string>
+	<string id="st_wpn_sig550_strelok">
+		<text>ストレロクのSGI-5k</text>
+	</string>
+	<string id="st_wpn_sig550_strelok_descr">
+		<text>スイス製のSGI-5kアサルトライフル。新しくはないが、前の所有者がそれをよく手入れしたことが明らか。一度分解され、すべてのコンポーネントが最適の作動をするように微調整されて阻止能を高め、組立て直されている。銃尻には、16の小さな刻み目と一緒に、「S」の文字が刻まれている。</text>
+	</string>
+	<string id="st_wpn_spas12">
+		<text>SPSA-14</text>
+	</string>
+	<string id="st_wpn_spas12_m2">
+		<text>SPSA-AUT</text>
+	</string>
+	<string id="st_wpn_spas12_m2_descr">
+		<text>SPSA-AUT自動コック式のショットガンは、デューティーの工場でのみ作られる。この武器は、ミュータントの大きなグループと戦うのを目的とされている。その供給機構の改良で高い連射速度となり、また、マガジン容量は10弾丸に増加された。12x70口径弾を使用。</text>
+	</string>
+	<string id="st_wpn_spas12_nimble">
+		<text>カービン銃</text>
+	</string>
+	<string id="st_wpn_spas12_nimble_descr">
+		<text>軍のショットガンはSPSA-14を基に、特に攻撃部隊のためにデザインされた。その元のタイプと同様にオートマチック発射ができるが、バランスのとれたショック・フリー・システムにより、さらに良い反動保護を提供する。</text>
+	</string>
+	<string id="st_wpn_svd">
+		<text>SVDm-2</text>
+	</string>
+	<string id="st_wpn_svd_descr">
+		<text>50年間以上市場に出て、格別の信頼度および使い易さで評判を得た軍の狙撃用ライフル。SVDm-2は、その部隊の攻撃有効距離を改善するために、通常軍に使用される。しかし、ストーカーは、ミュータントや軍のボディアーマーを貫通するその徹甲弾特性のため、この武器を尊重している。</text>
+	</string>
+	<string id="st_wpn_svd_nimble">
+		<text>リンクス</text>
+	</string>
+	<string id="st_wpn_svd_nimble_descr">
+		<text>SVDm-2狙撃用ライフルの、手で組み立てられたバージョン。外観においては全く異ならないが、精度と阻止能の理想的なコンビネーションを提供する。</text>
+	</string>
+	<string id="st_wpn_svu">
+		<text>SVUmk-2</text>
+	</string>
+	<string id="st_wpn_svu_nimble">
+		<text>SVU2-A</text>
+	</string>
+	<string id="st_wpn_svu_nimble_descr">
+		<text>連射速度が増加された短距離狙撃用ライフルは、SVUmk-2狙撃用ライフルの発展形の次のステップ。この武器はかつてはフリーダムの警備兵マックスが所有していた。</text>
+	</string>
+	<string id="st_wpn_toz34">
+		<text>狩猟用ショットガン</text>
+	</string>
+	<string id="st_wpn_toz34_descr">
+		<text>この非常に一般的な上下二連狩猟用ショットガンは、その精度と阻止能によって、ミュータントに対する保護をピストルより提供できる。ゾーン周辺の、ほとんどのルーキー兵によって使用される。</text>
+	</string>
+	<string id="st_wpn_umirotvoritel">
+		<text>未確認武器</text>
+	</string>
+	<string id="st_wpn_umirotvoritel_descr">
+		<text>未知の武器で、その発射メカニズムは規定されていない。武器は不完全に見え、トリガーを握っても何も起こらない。</text>
+	</string>
+	<string id="st_wpn_usp">
+		<text>UDPコンパクト</text>
+	</string>
+	<string id="st_wpn_usp_descr">
+		<text>優れた精度と完璧な信頼度および耐久性が、この武器の主な注目すべき特徴。いくらかの欠点は、そのサイズ、高目の重心、および重いボルトにある。その欠点を隠すのは難しいが、武器の素晴らしい特徴には重要な問題とならない。ゾーンのベテラン兵に特に人気がある。</text>
+	</string>
+	<string id="st_wpn_usp_nimble">
+		<text>マーチ</text>
+	</string>
+	<string id="st_wpn_usp_nimble_descr">
+		<text>短いボルト動作と軽量なボルトで組まれたコンパクトな大口径ピストル。ウルフハウンドと呼ばれた傭兵が所有していた。改造されたUDPコンパクト・ピストルと思える。</text>
+	</string>
+	<string id="st_wpn_val">
+		<text>SA アヴァランチ</text>
+	</string>
+	<string id="st_wpn_vintorez">
+		<text>ヴィンターBC</text>
+	</string>
+	<string id="st_wpn_vintorez_descr">
+		<text>射撃による早期の決定的な攻撃が必要な特別作戦で、無音で発光せずに狙撃することを目的に作られた特別の軍用狙撃用ライフル。ヴィンターBCは、統合スナイパーおよび光学スコープが装備され、高い徹甲弾能力と阻止能を提供する。小さなマガジンにもかかわらず、多くのストーカーによって高く評価されている。</text>
+	</string>
+	<string id="st_wpn_vintorez_nimble">
+		<text>タイド</text>
+	</string>
+	<string id="st_wpn_vintorez_nimble_descr">
+		<text>この武器は、狙撃用消音ライフルを基に、軍用として作られた。連射速度を犠牲にすることで、その元のモデルのヴィンターBCより高い阻止能を持っている。それにより、射撃兵の位置がわからずに、ひとりずつ敵を除去することを可能にした。</text>
+	</string>
+	<string id="st_wpn_walther">
+		<text>ウォーカーP9m</text>
+	</string>
+	<string id="st_wpn_wincheaster1300">
+		<text>チェイサー13</text>
+	</string>
+	<string id="st_wpn_wincheaster1300_descr">
+		<text>西側陣営の滑腔砲ショットガンで、その驚異的な信頼度および速いリロード速度により、世界中に広く人気がある。特にゾーンのハンターによって、その機能性が評価されている。すべての部分は防蝕合成物で覆われている。</text>
+	</string>
+	<string id="st_wpn_wincheaster1300_trapper">
+		<text>プレデター</text>
+	</string>
+	<string id="st_wpn_wincheaster1300_trapper_descr">
+		<text>かつてはトラッパーが所有していた、注文作りのポンプ連射式ショットガン。そのハンターの武器に関しての唯一の要求は、一発で動物を殺せることだった。この哲学は、動物がどれほど多くの人々を殺したとしても、やはりただの動物であって、悩むことはないという確信に基づいた。</text>
+	</string>
+	<string id="ammo-gauss_cardan">
+		<text>手製バッテリー</text>
+	</string>
+	<string id="st_addon_scope_susat_custom">
+		<text>SUSATメラ・スコープ</text>
+	</string>
+	<string id="st_wpn_abakan_descr">
+		<text>古くなったAKM74/2の代わりに開発された現代の攻撃用ライフル。主な違いは高速2弾丸射撃モードで、2つの弾丸を100メートル離れた目標の同じ位置に正確に撃つことができる。これは1弾丸射撃モードと比較して、目標に命中する可能性を著しく増加させ、敵を倒す可能性、阻止能および貫通能力を相当に改善している。</text>
+	</string>
+	<string id="st_wpn_ak74_descr">
+		<text>1974年に設計されたこの武器は、ワルシャワ条約国による小口径および低衝動弾丸を採用している。世界で最もポピュラーなアサルトライフルの子孫のAKM-74/2は、大きなマズル・ブレーキを持っており、扱いやすく反動が縮小されている。これはより良い精度および集中性を促進し、特に速い単射あるいは連射に良い。以前のものと同様に、このライフル銃は非常に単純で信頼できる。</text>
+	</string>
+	<string id="st_wpn_ak74u_descr">
+		<text>サイズ、重量および戦術目的の点でサブマシンガンに似ているが、この武器は、その内部メカニズムがAKM 74/2のものと同一であるという点で、アサルトライフルに分類される。狭い場所での可動性と高い貫通能力が顕著だが、欠点はその短い有効距離。また、比較的長い弾丸範囲、オーバヒート傾向および高い跳弾傾向がある。</text>
+	</string>
+	<string id="st_wpn_colt1911_descr">
+		<text>20世紀の主な武力紛争ですべて使われ、信頼をされて新しい世紀に入った古典的自動拳銃の改良版。標準型も改良型も、世界中の多くの兵器メーカーによって生産された。唯一の欠点は劣等なマガジン・キャパシティー。</text>
+	</string>
+	<string id="st_wpn_eagle_descr">
+		<text>究極のハンド・キャノン。大きく重く、致死率は高い。50メートル以上の距離のスチール目標に発砲できるほどで、中型と大型の獲物を狩りするための専門の武器として開発された。ゾーンでの使用には制限があり、価格、サイズおよび重量のすべてが他のピストルの2倍である。</text>
+	</string>
+	<string id="st_wpn_fn2000_descr">
+		<text>ブルパップ・レイアウトのこの武器は超現代的に見えるが、実際に大量生産されている。モジュラーシステム、コンピューター化射撃コントロール装置、40mmグレネードランチャーが付いたライフルとグレネードの複合武器。大きい外観にもかかわらず、武器は高度に人間工学に基づいていて、使用し易く良い技術特性の長所がある。</text>
+	</string>
+	<string id="st_wpn_fort_descr">
+		<text>ウクライナ製の法執行組織によって主に使用されるピストル。より高い精度、より良い人間工学が提供され、PMmより大きなマガジンを持っている。ゾーンでは、技術的な誤算がされた初期デザイン・モデルの欠陥品が多く売られている。それにもかかわらず、良い格闘特性のためにストーカーの間で需要がある。</text>
+	</string>
+	<string id="st_wpn_g36_descr">
+		<text>西側製アサルトライフル・ファミリーに新たに加えられたが、セミボルトのオートマチックを元に作られた前のシリーズのモデルとは著しく異なる。ショート・ストローク・ガス・ピストン・システム付きのアメリカの自動ガス圧式のアサルトライフルにむしろ似ている。これらの変更は、このライフル銃が軽くて信頼でき、一流の人間工学的な現代兵器の例であることを保証している。</text>
+	</string>
+	<string id="st_wpn_l85_descr">
+		<text>このライフル銃にはかなりの数の欠陥品が考えられる。それはこの武器のほとんどが、闇市場からゾーンへ運ばれた中古部品で近代化されたため。ライフル銃の主な長所は、内蔵4倍スコープ、単射の高い精度、および信頼できる改良技術。連射する場合、その精度は著しく減少し、ライフル銃の基本的内部メカニズムの信頼性が多少低くなる。</text>
+	</string>
+	<string id="st_wpn_lr300_descr">
+		<text>有名な武器ファミリーの開発の新しいステップ。変更はバレル、ガス・チューブおよびボルトを含むスチール構造の上部の半分に行なわれ、武器の重量を減らし、人間工学性とそのガスシステムを改善した。汚れやすい傾向はゾーンでの過酷な条件では選択しにくいが、武器の精度は高い。</text>
+	</string>
+	<string id="st_wpn_pb_descr">
+		<text>このピストルはPMmをベースに20世紀後半に開発され、特殊部隊や偵察部隊によって使用された。バレルの前部は統合サイレンサーで覆われ、内部にあるスプリングの後退を防ぐようボルト・メカニズムは短かくされて武器ハンドルの中にある。事実上旧式だが頼りになる。</text>
+	</string>
+	<string id="st_wpn_pm_descr">
+		<text>このソ連の遺産物はゾーンでの最も一般的なピストルで、コンパクトに利用できる自衛短銃としての最良のひとつ。小さくて信頼できて、普段に使用して維持するのに容易。短射程、低い射撃精度、弱い阻止能などの欠点がある。さらに重量とマガジン・サイズの点で、同じクラスの現代的なピストルに負ける。</text>
+	</string>
+	<string id="st_wpn_protecta_descr">
+		<text>滑腔砲戦闘リボルバー型ショットガンは、軍事部隊に大きな射撃能力を供給するのを意図された。大きなマガジンと高い効果的な連射速度の長所があるが、大きくてかなりの重量があり、リロードに時間がかかる。ゾーンでは数が少なく、主としてミュータントのいる場所の一掃に使用される。</text>
+	</string>
+	<string id="st_wpn_rpg7_descr">
+		<text>1960年代からあるこのグレネードランチャーは、軍の倉庫からゾーンへと持ち込まれた。武器は、オープン・リア・チューブ付きの滑腔砲単射無反動射撃システム。PGO7-2.7倍光学スコープを付けられる。その巨大なサイズと重量のためにストーカーが選ばないように思えるが、大きな破壊力と使い易さでゾーンに賛美者がいる。</text>
+	</string>
+	<string id="st_wpn_sig220_descr">
+		<text>ただ一つ残った、世界的に有名なピストルの大量生産モデル。この武器は、その優れた人間工学性と精度対する評判を得ており、マガジンは比較的小さいが、強力な弾薬とスイス時計のように機能するメカニズムに長所がある。大量生産の最上品は45ACP口径短銃のSIP-t M200だと信じるベテラン・ストーカーや傭兵もいる。</text>
+	</string>
+	<string id="st_wpn_spas12_descr">
+		<text>特殊目的用の滑腔砲自動ショットガンは20世紀後半に設計され、ポンプアクション式と自動コック式の射撃モードにできる。警察と攻撃部隊に万能武器として使用される。その信頼度および戦術上の柔軟性は顕著。大きな重量、複雑なメカニズム、相当なコストにもかかわらず、ミュータントに対するその有効性でゾーンでの需要がある。</text>
+	</string>
+	<string id="st_wpn_svu_descr">
+		<text>コンパクトなブルパップ・デザインのSVDm-2狙撃用ライフルの近代化バージョンは、急襲部隊の命令で作られた。速い正確な射撃ができてかなり軽く、短中距離での単射精度はその前モデルに似ている。これらの特性は多くのストーカーの賞賛の的となった。</text>
+	</string>
+	<string id="st_wpn_val_descr">
+		<text>ヴィンターBC狙撃用消音ライフルの改造バージョン。このアサルトライフルは、特殊部隊用の武器としてデザインされた。ライフル銃の主目的は、射撃手の位置をわからせずに、近代的身体防護装備を使用する敵に対して射撃をすること。その統合サイレンサーと重い亜音速9x39口径弾丸により、武器の発射音とマズル発光は最小になった。</text>
+	</string>
+	<string id="st_wpn_gauss_descr">
+		<text>アイテム62として知られる非常に精度の高いハイテク技術の武器で、ゾーン内部の秘密研究所で開発された。電磁システムを使用して、弾丸を非常に高速に加速することにより作動する。ほとんど反動なしに信じられないほどの阻止能を供給する。バッテリーの中でカプセルに入ったアーティファクト破片を使用することにより、武器に動力が供給される。</text>
+	</string>
+	<string id="st_wpn_beretta_descr">
+		<text>世界中でマーサ・ピストルの評判は高く、多少扱いにくいが比較的信頼できる武器。海を越えて武装部隊や警察、法執行組織で使用される。その強力な弾丸とマガジン・キャパシティーにより、暗黒街メンバーにも人気がある。ゾーンでは旧式で、中古品の中で見つけられる。</text>
+	</string>
+	<string id="st_wpn_walther_descr">
+		<text>優れた西側のピストルで、その信頼度、高容量、良い精度で知られ、そのクラスで最も人間工学的にできている。ゾーンで最も広く用いられているピストルのひとつで、プロとルーキーの両方に使用される。</text>
+	</string>
+	<string id="ammo-gauss_descr">
+		<text>フラッシュ・アーティファクトの破片をカプセルに入れたものを動力源として使用するバッテリー。ハイテク技術設備を使用して製造される。</text>
+	</string>
+	<string id="ammo-gauss_cardan_descr">
+		<text>これらの低キャパシティーのセルは、フラッシュ・アーティファクトの破片をカプセルに入れたものを動力源として使用する。低キャパシティーの原因は、一時しのぎの生産条件と専門設備の不足による。</text>
+	</string>
+</string_table>

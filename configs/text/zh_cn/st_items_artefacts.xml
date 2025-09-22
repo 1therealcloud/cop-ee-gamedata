@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_af_baloon_descr">
+		<text>一种由几种空心有机形体组成的混合物，这个超自然体会散发出一种气体物质，可以中和体内的放射性粒子而不伤害人体。这种效用为其带来了大量的需求。</text>
+	</string>
+
+	<string id="st_af_baloon_name">
+		<text>空间泡</text>
+	</string>
+
+	<string id="st_af_blood_descr">
+		<text>由植物、土壤和骨骼被压缩和扭曲后的聚合碎片形成的一种红色形体。可以部分中和化学毒物。会发出辐射。</text>
+	</string>
+
+	<string id="st_af_blood_name">
+		<text>血石</text>
+	</string>
+
+	<string id="st_af_cristall_descr">
+		<text>这种超自然体是在具有强烈热能活动的异常区域形成的。会主动消耗过多的热量，全程保持凉爽的触感。会发出辐射。</text>
+	</string>
+
+	<string id="st_af_cristall_flower_descr">
+		<text>这种超自然体类似花岗岩，是受到了极大的引力作用变形产生的，形成的结晶至今仍无法用科学来解释，可以对心灵喷发提供适度的防护，并且具有放射性。</text>
+	</string>
+
+	<string id="st_af_cristall_flower_name">
+		<text>石藕花</text>
+	</string>
+
+	<string id="st_af_cristall_name">
+		<text>结晶</text>
+	</string>
+
+	<string id="st_af_dummy_battery_descr">
+		<text>这种超自然体的成分包括静电元素，但科学家尚未确定其形成所需的确切物理条件。它在变异区内很受欢迎，因为可以提供能量而受到变异区内居民和访客的重视，但长时间使用会使身体疲劳。会发出辐射。</text>
+	</string>
+
+	<string id="st_af_dummy_battery_name">
+		<text>电池</text>
+	</string>
+
+	<string id="st_af_dummy_dummy_descr">
+		<text>这种超自然体过去被认为是垃圾，没有任何有用的特性。然而，科学家们最近发现，如果保持与身体接触，它对神经系统有很好的刺激作用。会发出辐射。</text>
+	</string>
+
+	<string id="st_af_dummy_dummy_name">
+		<text>甲壳</text>
+	</string>
+
+	<string id="st_af_dummy_glassbeads_descr">
+		<text>关于这种超自然体的很多情况对科学家们来说仍然是个谜。但与此同时可以肯定的是，它较厚部分的脉冲所产生的辐射会迫使开放性伤口中的血液更快地凝结，形成保护性结痂。该装置最明显的作用之一就是加快伤口愈合的速度。会发出辐射。</text>
+	</string>
+
+	<string id="st_af_dummy_glassbeads_name">
+		<text>念珠</text>
+	</string>
+
+	<string id="st_af_electra_flash_descr">
+		<text>这种静电超自然体能吸收强大的电流，然后将其释放。闪烁能够保护携带者免受高达 5000 伏特的电击。会发出辐射。</text>
+	</string>
+
+	<string id="st_af_electra_flash_name">
+		<text>闪烁</text>
+	</string>
+
+	<string id="st_af_electra_moonlight_descr">
+		<text>这种独特的静电超自然体可以在心灵波的影响下产生共振。潜行者已经学会了微调该超自然体，使其在相反的相位上和喷发来源产生共振，从而完全将其中和，或者显著中和其影响。会发出辐射。</text>
+	</string>
+
+	<string id="st_af_electra_moonlight_name">
+		<text>月光</text>
+	</string>
+
+	<string id="st_af_electra_sparkler_descr">
+		<text>静电系列超自然体，以其明亮的特性而得名。能够平滑电场强度的波动。会发出辐射。</text>
+	</string>
+
+	<string id="st_af_electra_sparkler_name">
+		<text>火花</text>
+	</string>
+
+	<string id="st_af_eye_descr">
+		<text>这种类似于人眼的超自然体可以大大提高身体的新陈代谢，帮助伤口更快愈合。有经验的潜行者说它还能带来好运。会发出辐射。</text>
+	</string>
+
+	<string id="st_af_eye_name">
+		<text>人眼</text>
+	</string>
+
+	<string id="st_af_fire_descr">
+		<text>这种超自然体在高温活动地区形成。会发出强大的红外辐射，强化新陈代谢过程，在持有者眼前治愈伤口。这种超自然体非常稀有，价值极高。会发出辐射。</text>
+	</string>
+
+	<string id="st_af_fire_name">
+		<text>自燃火</text>
+	</string>
+
+	<string id="st_af_fireball_descr">
+		<text>尽管火球是一种热能超自然体，但它可以拿在手上而不用担心被烧伤。这种超自然体的价值在于它能在一个小范围内保持约 24 摄氏度的温度，几乎不受周围环境的影响。会发出辐射。</text>
+	</string>
+
+	<string id="st_af_fireball_name">
+		<text>火球</text>
+	</string>
+
+	<string id="st_af_fuzz_kolobok_descr">
+		<text>姜饼是一种相对罕见的超自然体，在受化学物质污染的地区形成，因其能在短短几分钟内治愈各种伤口而备受推崇。由于不明原因，科学家们在潜行者中散布谣言，说这种超自然体会对携带者的遗传密码产生影响。会发出辐射。</text>
+	</string>
+
+	<string id="st_af_fuzz_kolobok_name">
+		<text>姜饼</text>
+	</string>
+
+	<string id="st_af_glass_name">
+		<text>萤火虫</text>
+	</string>
+
+	<string id="st_af_gold_fish_descr">
+		<text>金鱼是大量引力场相互作用的产物，它能够自发产生强大的内部定向引力场，让范围内的物体变得几乎没有重量。这样可以大大增加潜行者的负重能力，所以对它的需求总是很大。会发出辐射。</text>
+	</string>
+
+	<string id="st_af_gold_fish_name">
+		<text>金鱼</text>
+	</string>
+
+	<string id="st_af_gravi_descr">
+		<text>飘浮是由金属物质长期暴露在引力下形成的。这使得它能够维持反重力场，很多潜行者会利用其来减轻背包的重量。会发出辐射。</text>
+	</string>
+
+	<string id="st_af_gravi_name">
+		<text>飘浮</text>
+	</string>
+
+	<string id="st_af_ice_descr">
+		<text>乍一看这个超自然体很像姜饼。有些人声称它实际上就是姜饼，只不过暴露在强大的电场中使得它的特性得到了加强，能大大增加持有者的活力。会发出辐射。</text>
+	</string>
+
+	<string id="st_af_ice_name">
+		<text>雪花</text>
+	</string>
+
+	<string id="st_af_medusa_descr">
+		<text>这种引力超自然体可以吸引并吸收放射性粒子，减少辐射对身体的影响。在变异区中非常常见，并在外界被非正式地用来治疗急性辐射病。</text>
+	</string>
+
+	<string id="st_af_medusa_name">
+		<text>灵水母</text>
+	</string>
+
+	<string id="st_af_mincer_meat_descr">
+		<text>这种有机超自然体由变形、变异的动物组织组成。当被置于化学污染区时，肉块会将空气中的化学物质转化为一种粘液。会发出辐射。</text>
+	</string>
+
+	<string id="st_af_mincer_meat_name">
+		<text>肉块</text>
+	</string>
+
+	<string id="st_af_night_star_descr">
+		<text>这个发光的超自然体可以产生一个局部的定向低重力场。常被潜行者和飘浮一起使用，用于增加最大负荷。会发出辐射。</text>
+	</string>
+
+	<string id="st_af_night_star_name">
+		<text>夜明星</text>
+	</string>
+
+	<string id="st_af_soul_descr">
+		<text>一种独特的有机超自然体，具有同样独特的特性。不知为何，它能提高身体对于任何伤害的的整体恢复速度，而且不会加速毒素积累。因为其效果出众，以及诱人的外观，这个超自然体是很有价值的收藏品。会发出辐射。</text>
+	</string>
+
+	<string id="st_af_soul_name">
+		<text>灵魂</text>
+	</string>
+
+	<string id="st_af_vyvert_descr">
+		<text>这种形状怪异的超自然体出现在引力活动频繁的地方。可以像海绵一样吸收放射性元素。因此，该超自然体能够保护人们免受外界辐射以及已经进入身体的放射性粒子的影响。</text>
+	</string>
+
+	<string id="st_af_vyvert_name">
+		<text>扭曲</text>
+	</string>
+
+	<string id="st_compass">
+		<text>罗盘</text>
+	</string>
+
+	<string id="st_compass_descr">
+		<text>一种罕见的超自然体，已经好几年没有发现过了。该超自然体可以定位特异点的间隙。人们相信，它可以帮助人们毫发无伤地穿越最复杂的特异场。然而，很少有人知道如何正确使用它。</text>
+	</string>
+
+	<string id="st_oasis_heart">
+		<text>绿洲之心</text>
+	</string>
+
+	<string id="st_oasis_heart_descr">
+		<text>这种超自然体是在传说中的绿洲中心发现的。看来，它是一种结晶化的植物，具有绿洲的治疗特性。但与绿洲本身不同的是，这种超自然体具有极强的放射性。</text>
+	</string>
+
+	<string id="st_af_glass_descr">
+		<text>萤火虫与某种科学上未知的场相互作用，可以大大加快生物组织和器官的再生速度，并使新陈代谢过程正常化。这种超自然体可以在几秒钟内让重伤的潜行者重新站起来。不过很可惜，萤火虫极为罕见。会发出辐射。</text>
+	</string>
+
+</string_table>

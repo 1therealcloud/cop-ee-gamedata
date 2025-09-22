@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="speech_attack">
+		<text>전원, 공격!</text>
+	</string>
+
+	<string id="speech_covermeartifact">
+		<text>아티팩트를 확보하겠다! 엄호해줘!</text>
+	</string>
+
+	<string id="speech_followme">
+		<text>따라와!</text>
+	</string>
+
+	<string id="speech_guardartifact">
+		<text>아티팩트를 지켜. 섣불리 공격하면 안 돼!</text>
+	</string>
+
+	<string id="speech_holdingpos">
+		<text>위치 사수 중!</text>
+	</string>
+
+	<string id="speech_holdpos">
+		<text>위치 사수해!</text>
+	</string>
+
+	<string id="speech_icoverartifact">
+		<text>아티팩트를 확보해! 내가 엄호하겠다!</text>
+	</string>
+
+	<string id="speech_needhelp">
+		<text>도움이 필요해!</text>
+	</string>
+
+	<string id="speech_needmoney">
+		<text>돈이 없어. 누가 장비 좀 사줘!</text>
+	</string>
+
+	<string id="speech_no">
+		<text>안 돼.</text>
+	</string>
+
+	<string id="speech_noenemy">
+		<text>적군 아무도 없음!</text>
+	</string>
+
+	<string id="speech_report">
+		<text>지금 상황 보고해!</text>
+	</string>
+
+	<string id="speech_retreat">
+		<text>후퇴하라!</text>
+	</string>
+
+	<string id="speech_returntheartefact">
+		<text>아티팩트 가지고 귀환하라!</text>
+	</string>
+
+	<string id="speech_roger">
+		<text>알겠다.</text>
+	</string>
+
+	<string id="speech_silence">
+		<text>조용히 해!</text>
+	</string>
+
+	<string id="speech_sticktogether">
+		<text>같이 뭉쳐 다녀.</text>
+	</string>
+
+	<string id="speech_takeartifact">
+		<text>아티팩트를 확보해!</text>
+	</string>
+
+</string_table>

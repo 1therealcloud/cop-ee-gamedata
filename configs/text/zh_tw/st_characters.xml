@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="jup_a10_bandit_leader_name">
+		<text>傑克</text>
+	</string>
+
+	<string id="jup_a10_stalker_vano">
+		<text>瓦諾</text>
+	</string>
+
+	<string id="jup_a6_duty_leader">
+		<text>舒爾加中校</text>
+	</string>
+
+	<string id="jup_a6_freedom_leader">
+		<text>洛基</text>
+	</string>
+
+	<string id="jup_a6_stalker_barmen">
+		<text>夏威夷人</text>
+	</string>
+
+	<string id="jup_a6_stalker_medik">
+		<text>接骨師</text>
+	</string>
+
+	<string id="jup_b10_stalker_drunk">
+		<text>森卡</text>
+	</string>
+
+	<string id="jup_b15_zulus">
+		<text>祖魯</text>
+	</string>
+
+	<string id="jup_b19_freedom_yar_name">
+		<text>雅爾叔叔</text>
+	</string>
+
+	<string id="jup_b1_stalker_1">
+		<text>托普</text>
+	</string>
+
+	<string id="jup_b1_stalker_2">
+		<text>梅斯</text>
+	</string>
+
+	<string id="jup_b1_stalker_3">
+		<text>英靈</text>
+	</string>
+
+	<string id="jup_b1_stalker_4">
+		<text>史內克</text>
+	</string>
+
+	<string id="jup_b207_merc_leader_name">
+		<text>禿鷹</text>
+	</string>
+
+	<string id="jup_b217_stalker_tech">
+		<text>奈喬</text>
+	</string>
+
+	<string id="jup_b220_trapper">
+		<text>特拉帕</text>
+	</string>
+
+	<string id="jup_b25_freedom_flint">
+		<text>弗林特</text>
+	</string>
+
+	<string id="jup_b46_duty_founder_name">
+		<text>塔琴科將軍</text>
+	</string>
+
+	<string id="jup_b46_duty_founder_squad_02_name">
+		<text>伯恩楚科中尉</text>
+	</string>
+
+	<string id="jup_b46_duty_founder_squad_03_name">
+		<text>科斯馬赫上校</text>
+	</string>
+
+	<string id="jup_b46_duty_founder_squad_04_name">
+		<text>扎哈楚科中尉</text>
+	</string>
+
+	<string id="jup_b47_merc_01">
+		<text>布雷克</text>
+	</string>
+
+	<string id="jup_b47_merc_02">
+		<text>杜普雷</text>
+	</string>
+
+	<string id="jup_b47_merc_03">
+		<text>外科醫生</text>
+	</string>
+
+	<string id="jup_b47_merc_04">
+		<text>骷髏</text>
+	</string>
+
+	<string id="jup_b47_merc_05">
+		<text>斯塔克</text>
+	</string>
+
+	<string id="jup_b47_merc_06">
+		<text>科舍</text>
+	</string>
+
+	<string id="jup_b47_merc_07">
+		<text>屍體</text>
+	</string>
+
+	<string id="jup_b4_monolith_squad_leader_name">
+		<text>斯特萊德</text>
+	</string>
+
+	<string id="jup_b4_monolith_squad_soldier_1_name">
+		<text>阿莫爾</text>
+	</string>
+
+	<string id="jup_b4_monolith_squad_soldier_2_name">
+		<text>鐮刀</text>
+	</string>
+
+	<string id="jup_b4_monolith_squad_soldier_3_name">
+		<text>海象</text>
+	</string>
+
+	<string id="jup_b4_monolith_squad_soldier_4_name">
+		<text>米克</text>
+	</string>
+
+	<string id="jup_b4_monolith_squad_soldier_5_name">
+		<text>福馬</text>
+	</string>
+
+	<string id="jup_b6_scientist_biochemist">
+		<text>奧澤斯基教授</text>
+	</string>
+
+	<string id="jup_b6_scientist_novikov">
+		<text>諾維可夫</text>
+	</string>
+
+	<string id="jup_b6_scientist_nuclear_physicist">
+		<text>赫爾曼教授</text>
+	</string>
+
+	<string id="jup_b9_shliachin_name">
+		<text>西利亞琴中士</text>
+	</string>
+
+	<string id="pri_a15_military_recon_1_name">
+		<text>謝爾蓋耶夫中尉</text>
+	</string>
+
+	<string id="pri_a15_military_recon_2_name">
+		<text>瓦留肖克中士</text>
+	</string>
+
+	<string id="pri_a15_military_recon_3_name">
+		<text>奧斯特洛夫斯基中士</text>
+	</string>
+
+	<string id="pri_a15_military_recon_leader_name">
+		<text>柯里曼欽科上尉</text>
+	</string>
+
+	<string id="pri_a15_sokolov_name">
+		<text>索科洛夫中尉</text>
+	</string>
+
+	<string id="pri_a17_military_captain_tarasov">
+		<text>塔拉索夫上尉</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_name">
+		<text>科瓦斯基上校</text>
+	</string>
+
+	<string id="pri_a17_military_lieutenant_podorojniy">
+		<text>波多羅日尼中尉</text>
+	</string>
+
+	<string id="pri_a18_skorlupko_in_suit_name">
+		<text>斯科利亞中尉</text>
+	</string>
+
+	<string id="pri_a18_vano_in_suit_reserve_name">
+		<text>梅爾庫洛夫中士</text>
+	</string>
+
+	<string id="pri_a21_sentry_lieutenant_stecenko_name">
+		<text>斯捷岑科中尉</text>
+	</string>
+
+	<string id="pri_a22_military_yarmoshuk_name">
+		<text>葉蒙舒科中士</text>
+	</string>
+
+	<string id="pri_a25_army_medic_name">
+		<text>羅格維茨中尉</text>
+	</string>
+
+	<string id="pri_a28_evac_com_name">
+		<text>斯米爾諾夫中尉</text>
+	</string>
+
+	<string id="pri_b305_strelok_name">
+		<text>史特列洛克</text>
+	</string>
+
+	<string id="pri_b306_envoy_name">
+		<text>巴丘克</text>
+	</string>
+
+	<string id="st_actor_name">
+		<text>捷格加列夫少校</text>
+	</string>
+
+	<string id="st_jup_a12_bandit_cashier">
+		<text>矮子</text>
+	</string>
+
+	<string id="st_jup_a12_bandit_chief">
+		<text>舍順克</text>
+	</string>
+
+	<string id="st_jup_a12_stalker_assaulter">
+		<text>葛里利</text>
+	</string>
+
+	<string id="st_jup_a12_stalker_diplomat">
+		<text>托爾巴</text>
+	</string>
+
+	<string id="st_jup_a12_stalker_prisoner">
+		<text>米塔伊</text>
+	</string>
+
+	<string id="st_jup_b207_duty_security_squad_leader_name">
+		<text>哈維利倫卡中尉</text>
+	</string>
+
+	<string id="st_jup_b207_freedom_assault_squad_leader_name">
+		<text>克萊曼</text>
+	</string>
+
+	<string id="st_jup_b207_freedom_recon_squad_leader_name">
+		<text>蓋杜克</text>
+	</string>
+
+	<string id="st_jup_b43_stalker_assistant">
+		<text>蓋瑞</text>
+	</string>
+
+	<string id="st_pri_a22_army_signaller">
+		<text>基利爾洛夫中尉</text>
+	</string>
+
+	<string id="st_pri_b35_envoy">
+		<text>謝爾賓</text>
+	</string>
+
+	<string id="st_pri_b35_merc_leader">
+		<text>豺狼</text>
+	</string>
+
+	<string id="st_zat_a2_stalker_nimble_name">
+		<text>小機靈</text>
+	</string>
+
+	<string id="st_zat_b106_stalker_crab_name">
+		<text>螃蟹</text>
+	</string>
+
+	<string id="st_zat_b106_stalker_garmata_name">
+		<text>高墨達</text>
+	</string>
+
+	<string id="st_zat_b106_stalker_gonta_name">
+		<text>貢塔</text>
+	</string>
+
+	<string id="st_zat_b29_stalker_rival_1">
+		<text>大錘</text>
+	</string>
+
+	<string id="st_zat_b29_stalker_rival_2">
+		<text>克雷斯特</text>
+	</string>
+
+	<string id="st_zat_b30_owl_stalker_trader_name">
+		<text>貓頭鷹</text>
+	</string>
+
+	<string id="st_zat_b38_stalker_cop_name">
+		<text>松雞</text>
+	</string>
+
+	<string id="st_zat_b38_stalker_hunter_name">
+		<text>丹尼拉</text>
+	</string>
+
+	<string id="st_zat_b7_bandit_boss_sultan_name">
+		<text>蘇丹</text>
+	</string>
+
+	<string id="st_zat_b7_duty_illicit_dealer_name">
+		<text>摩根</text>
+	</string>
+
+	<string id="st_zat_b7_stalker_raider_leader">
+		<text>納可</text>
+	</string>
+
+	<string id="st_zat_b7_stalker_squad_leader">
+		<text>斯巴達克斯</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_name">
+		<text>大鬍子</text>
+	</string>
+
+	<string id="zat_a2_stalker_mechanic_name">
+		<text>卡丹</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_1_name">
+		<text>哥布林</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_2_name">
+		<text>奧克</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_3_name">
+		<text>鋼琴師</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_4_name">
+		<text>莫厄爾</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_5_name">
+		<text>基爾扎奇</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_6_name">
+		<text>坦克</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_7_name">
+		<text>傻瓜</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_name">
+		<text>小斧</text>
+	</string>
+
+	<string id="zat_b14_stalker_1_name">
+		<text>圖納</text>
+	</string>
+
+	<string id="zat_b18_noah_name">
+		<text>挪亞</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_name">
+		<text>飛機師</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_name">
+		<text>特雷莫爾</text>
+	</string>
+
+	<string id="zat_b28_draper_name">
+		<text>德雷佩中尉</text>
+	</string>
+
+	<string id="zat_b28_umerov_name">
+		<text>烏梅洛夫准尉</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag">
+		<text>斯奈格</text>
+	</string>
+
+	<string id="zat_b40_merc_squad_leader_1_name">
+		<text>鉤子</text>
+	</string>
+
+	<string id="zat_b40_merc_squad_leader_2_name">
+		<text>里奇</text>
+	</string>
+
+	<string id="zat_b42_mayron_name">
+		<text>米隆</text>
+	</string>
+
+	<string id="zat_b44_stalker_barge_name">
+		<text>巴奇</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_1_name">
+		<text>皮處哈</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_2_name">
+		<text>鑽子</text>
+	</string>
+
+	<string id="jup_b46_duty_founder_squad_01_name">
+		<text>切普尼少校</text>
+	</string>
+
+	<string id="pri_a17_military_prapor_valentyr">
+		<text>瓦倫舍准尉</text>
+	</string>
+
+	<string id="pri_a17_military_sergeant_morozov">
+		<text>莫洛索夫高級中士</text>
+	</string>
+
+	<string id="zat_b28_smoliak_name">
+		<text>斯莫利亞克高級中尉</text>
+	</string>
+
+	<string id="jup_b25_stalker_senya">
+		<text>斯普林特</text>
+	</string>
+
+	<string id="zat_b100_army_1">
+		<text>加茲達中士</text>
+	</string>
+
+	<string id="zat_b100_army_2">
+		<text>福特茲上尉</text>
+	</string>
+
+	<string id="zat_b100_army_3">
+		<text>什瓦伊科高級中士</text>
+	</string>
+
+</string_table>

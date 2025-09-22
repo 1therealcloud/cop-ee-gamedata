@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="hide_from_surge_message">
+		<text>注意！アノマリーが起こるまでの時間：</text>
+	</string>
+	<string id="hide_from_surge_descr_1_a">
+		<text>すぐに最も近い防御地に走り、光熱放射から隠れなければならない。</text>
+	</string>
+	<string id="hide_from_surge_descr_2_a">
+		<text>光熱放射の間は、防御地から出ては駄目だ。</text>
+	</string>
+	<string id="hide_from_surge_name_1">
+		<text>光熱放射：防御地を見つける</text>
+	</string>
+	<string id="hide_from_surge_name_2">
+		<text>光熱放射：防御地の中で待つ</text>
+	</string>
+</string_table>

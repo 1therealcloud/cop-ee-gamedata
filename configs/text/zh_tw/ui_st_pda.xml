@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="Time">
+		<text>時間</text>
+	</string>
+
+	<string id="actor">
+		<text>自由潛行者</text>
+	</string>
+
+	<string id="army">
+		<text>軍隊</text>
+	</string>
+
+	<string id="bandit">
+		<text>強盜</text>
+	</string>
+
+	<string id="dolg">
+		<text>紀律團</text>
+	</string>
+
+	<string id="ecolog">
+		<text>科學家</text>
+	</string>
+
+	<string id="filter_secondary_tasks_text">
+		<text>支線任務</text>
+	</string>
+
+	<string id="filter_treasures_text">
+		<text>藏匿點</text>
+	</string>
+
+	<string id="freedom">
+		<text>自由團</text>
+	</string>
+
+	<string id="killer">
+		<text>傭兵</text>
+	</string>
+
+	<string id="missions_list">
+		<text>任務欄</text>
+	</string>
+
+	<string id="monolith">
+		<text>黑石組</text>
+	</string>
+
+	<string id="monster">
+		<text>變異體</text>
+	</string>
+
+	<string id="month_april">
+		<text>四月</text>
+	</string>
+
+	<string id="month_august">
+		<text>八月</text>
+	</string>
+
+	<string id="month_december">
+		<text>十二月</text>
+	</string>
+
+	<string id="month_february">
+		<text>二月</text>
+	</string>
+
+	<string id="month_january">
+		<text>一月</text>
+	</string>
+
+	<string id="month_july">
+		<text>七月</text>
+	</string>
+
+	<string id="month_june">
+		<text>六月</text>
+	</string>
+
+	<string id="month_march">
+		<text>馬奇手槍</text>
+	</string>
+
+	<string id="month_may">
+		<text>五月</text>
+	</string>
+
+	<string id="month_november">
+		<text>十一月</text>
+	</string>
+
+	<string id="month_october">
+		<text>十月</text>
+	</string>
+
+	<string id="month_september">
+		<text>九月</text>
+	</string>
+
+	<string id="pda_btn_close">
+		<text>停用PDA</text>
+	</string>
+
+	<string id="pda_btn_logs">
+		<text>訊息欄</text>
+	</string>
+
+	<string id="pda_btn_logs_hint">
+		<text>顯示訊息記錄</text>
+	</string>
+
+	<string id="pda_btn_quests">
+		<text>區域地圖</text>
+	</string>
+
+	<string id="pda_btn_quests_hint">
+		<text>顯示特異區地圖和任務欄</text>
+	</string>
+
+	<string id="pda_btn_ranking">
+		<text>統計數據</text>
+	</string>
+
+	<string id="pda_btn_ranking_hint">
+		<text>顯示個人數據</text>
+	</string>
+
+	<string id="pda_cur_time">
+		<text>目前時間：</text>
+	</string>
+
+	<string id="pda_date_filter">
+		<text>數據篩選</text>
+	</string>
+
+	<string id="pda_filter_news">
+		<text>顯示消息</text>
+	</string>
+
+	<string id="pda_filter_talk">
+		<text>顯示對話</text>
+	</string>
+
+	<string id="pda_legend_caption">
+		<text>說明</text>
+	</string>
+
+	<string id="pda_stat_1">
+		<text>特異區時間：</text>
+	</string>
+
+	<string id="pda_stat_2">
+		<text>生存下來的排放：</text>
+	</string>
+
+	<string id="pda_stat_3">
+		<text>完成的任務：</text>
+	</string>
+
+	<string id="pda_stat_4">
+		<text>獵殺的變異體：</text>
+	</string>
+
+	<string id="pda_stat_5">
+		<text>殺死的潛行者：</text>
+	</string>
+
+	<string id="pda_stat_6">
+		<text>找到的神器：</text>
+	</string>
+
+	<string id="pda_stat_7">
+		<text>找到的藏匿點：</text>
+	</string>
+
+	<string id="pda_stat_favorite_weapon">
+		<text>喜愛的武器</text>
+	</string>
+
+	<string id="pda_stat_mutant_killed">
+		<text>殺死最強大的變異體</text>
+	</string>
+
+	<string id="st_location">
+		<text>地點：</text>
+	</string>
+
+	<string id="st_target">
+		<text>目標：</text>
+	</string>
+
+	<string id="st_ui_pda_legend_additional_task">
+		<text>支線任務</text>
+	</string>
+
+	<string id="st_ui_pda_legend_enemies">
+		<text>敵人</text>
+	</string>
+
+	<string id="st_ui_pda_legend_friends">
+		<text>朋友</text>
+	</string>
+
+	<string id="st_ui_pda_legend_leader">
+		<text>陣營領袖</text>
+	</string>
+
+	<string id="st_ui_pda_legend_main_task">
+		<text>主任務</text>
+	</string>
+
+	<string id="st_ui_pda_legend_neutrals">
+		<text>中立者</text>
+	</string>
+
+	<string id="st_ui_pda_legend_scout">
+		<text>嚮導</text>
+	</string>
+
+	<string id="st_ui_pda_legend_secrets">
+		<text>藏匿點</text>
+	</string>
+
+	<string id="st_ui_pda_legend_squad">
+		<text>小隊指揮官</text>
+	</string>
+
+	<string id="st_ui_pda_legend_trader">
+		<text>貿易商人</text>
+	</string>
+
+	<string id="stalker">
+		<text>潛行者</text>
+	</string>
+
+	<string id="ui_logs_center_caption">
+		<text>訊息欄</text>
+	</string>
+
+	<string id="ui_map_btn_center">
+		<text>角色置中</text>
+	</string>
+
+	<string id="ui_map_btn_down">
+		<text>向下移動</text>
+	</string>
+
+	<string id="ui_map_btn_left">
+		<text>向左移動</text>
+	</string>
+
+	<string id="ui_map_btn_legend">
+		<text>顯示說明</text>
+	</string>
+
+	<string id="ui_map_btn_right">
+		<text>向右移動</text>
+	</string>
+
+	<string id="ui_map_btn_up">
+		<text>向上移動</text>
+	</string>
+
+	<string id="ui_map_btn_zmreset">
+		<text>縮到最小</text>
+	</string>
+
+	<string id="ui_map_btn_zoom_in">
+		<text>放大</text>
+	</string>
+
+	<string id="ui_map_btn_zoom_out">
+		<text>縮小</text>
+	</string>
+
+	<string id="ui_ranking_center_caption">
+		<text>目標達成</text>
+	</string>
+
+	<string id="ui_task_btn_focus_center">
+		<text>在任務上置中地圖</text>
+	</string>
+
+	<string id="ui_task_btn_focus_center2">
+		<text>在任務上置中地圖</text>
+	</string>
+
+	<string id="zombied">
+		<text>喪屍</text>
+	</string>
+
+	<string id="zoom_in_btn_hint">
+		<text>比例尺+</text>
+	</string>
+
+	<string id="zoom_out_btn_hint">
+		<text>比例尺-</text>
+	</string>
+
+	<string id="st_ui_pda_legend_mechanic">
+		<text>技術人員</text>
+	</string>
+
+	<string id="st_ui_pda_legend_medic">
+		<text>醫護員</text>
+	</string>
+
+	<string id="ui_pda_secondary_task">
+		<text>目前任務</text>
+	</string>
+
+	<string id="ui_show_second_task_wnd">
+		<text>顯示／隱藏任務</text>
+	</string>
+
+	<string id="st_ui_pda_actor_box">
+		<text>個人儲物盒</text>
+	</string>
+
+	<string id="zaton">
+		<text>扎通</text>
+	</string>
+
+	<string id="jupiter">
+		<text>木星工廠附近的地區</text>
+	</string>
+
+	<string id="pripyat">
+		<text>普里皮亞季</text>
+	</string>
+
+	<string id="jupiter_underground">
+		<text>普里皮亞季1號地下道</text>
+	</string>
+
+	<string id="labx8">
+		<text>X8 實驗室</text>
+	</string>
+
+	<string id="filter_primary_objects_text">
+		<text>區域</text>
+	</string>
+
+	<string id="filter_quest_npcs_text">
+		<text>重要物品</text>
+	</string>
+
+	<string id="st_ui_pda_legend_primary_objects">
+		<text>區域</text>
+	</string>
+
+	<string id="st_jup_b32_has_af">
+		<text>掃描儀偵測到神器：</text>
+	</string>
+
+	<string id="st_jup_b32_no_af">
+		<text>掃描儀沒有偵測到任何神器</text>
+	</string>
+
+	<string id="st_ui_pda_secret">
+		<text>藏匿點</text>
+	</string>
+
+	<string id="st_ui_pda_sleep_place">
+		<text>睡覺區</text>
+	</string>
+
+</string_table>

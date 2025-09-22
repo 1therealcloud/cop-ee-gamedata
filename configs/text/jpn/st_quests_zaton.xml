@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="zat_a2_reach_base_name">
+		<text>安全な場所：スカドフスクに到達する</text>
+	</string>
+	<string id="zat_a2_reach_base_text">
+		<text>ゾーンでの比較的安全な場所は、大きなキャンプだけだ。最も近いものはスカドフスクで、そこに向かわなくてはならない。</text>
+	</string>
+	<string id="zat_b100_guide_maps_01_name">
+		<text>エリアの地図：誰か地図に興味を持つ者を見つける</text>
+	</string>
+	<string id="zat_b100_guide_maps_02_name">
+		<text>エリアの地図：パイロットに地図を提供する</text>
+	</string>
+	<string id="zat_b100_guide_maps_02_text">
+		<text>ザトンとジュピターの間のエリアの地図に、地元のガイドのパイロットが興味を持つかもしれない。</text>
+	</string>
+	<string id="zat_b100_heli_2_crash_name">
+		<text>スティングレイ2号機：墜落現場を調査する</text>
+	</string>
+	<string id="zat_b100_heli_2_crash_text">
+		<text>スティングレイ2号機が墜落した現場を調査する。</text>
+	</string>
+	<string id="zat_b101_heli_5_crash_name">
+		<text>スティングレイ5号機：墜落現場を調査する</text>
+	</string>
+	<string id="zat_b101_heli_5_crash_name_02">
+		<text>スティングレイ5号機：電気的な焼け焦げの原因を見つける</text>
+	</string>
+	<string id="zat_b101_heli_5_crash_name_03">
+		<text>スティングレイ・チーム：2機のヘリを打った電荷の源を見つける</text>
+	</string>
+	<string id="zat_b101_heli_5_crash_text">
+		<text>スティングレイ5号機：墜落現場を調査する</text>
+	</string>
+	<string id="zat_b101_heli_5_crash_text_02">
+		<text>スティングレイ5号機ヘリを打った、強力な電荷の源を見つけなければならない。</text>
+	</string>
+	<string id="zat_b101_heli_5_crash_text_03">
+		<text>スティングレイ4号機と5号機を燃やした電子機器が何かを見つけなくてはならない。それらは強力な電荷によって打たれたように見える。</text>
+	</string>
+	<string id="zat_b103_merc_bring_supplies_name">
+		<text>食料：傭兵たちのために食料を得る</text>
+	</string>
+	<string id="zat_b103_merc_bring_supplies_text">
+		<text>変電所工場の傭兵部隊に、肉の缶詰かソーセージかパンを、6つ持って来るように依頼された。</text>
+	</string>
+	<string id="zat_b103_merc_supplies_got_name">
+		<text>食料：傭兵たちに食料を持っていく</text>
+	</string>
+	<string id="zat_b103_merc_supplies_got_text">
+		<text>変電所工場の傭兵部隊に、集めた食料を持っていかなくてはならない。</text>
+	</string>
+	<string id="zat_b103_toolkit_2_substation_workshop_name">
+		<text>ツール：変電所工場を調査する</text>
+	</string>
+	<string id="zat_b103_toolkit_2_substation_workshop_text">
+		<text>変電所工場にツールがあると言われている。技術者が使うものを見つけられるかもしれない。</text>
+	</string>
+	<string id="zat_b106_find_chimera_name">
+		<text>キメラ狩り：ミュータントが眠っている間に見つける</text>
+	</string>
+	<string id="zat_b106_find_chimera_text">
+		<text>キメラが起きる前に、見つけなくてはならない。</text>
+	</string>
+	<string id="zat_b106_found_soroka_name">
+		<text>マグパイを探す：ゴンタに通知する</text>
+	</string>
+	<string id="zat_b106_found_soroka_text">
+		<text>ゴンタの部隊を作ったストーカーのマグパイが見つかったようだ。彼はフリーダムに参加しており、今は自分をフリントと呼んでいる。</text>
+	</string>
+	<string id="zat_b106_kill_chimera_name">
+		<text>キメラ狩り：ミュータントを殺す</text>
+	</string>
+	<string id="zat_b106_kill_chimera_text">
+		<text>キメラは目が覚めている。手遅れになる前に、それを殺さなくてはならない。</text>
+	</string>
+	<string id="zat_b106_meet_with_gonta_at_night_name">
+		<text>キメラ狩り：午前3時にゴンタと酒場で会う</text>
+	</string>
+	<string id="zat_b106_meet_with_gonta_at_night_text">
+		<text>ゴンタのキメラ狩りチームに加わるため、日の出の前にゴンタに会わなくてはならない。</text>
+	</string>
+	<string id="zat_b106_receipt_reward_name">
+		<text>キメラ狩り：トラッパーに知らせる</text>
+	</string>
+	<string id="zat_b106_receipt_reward_text">
+		<text>キメラ狩りが成功したことを、トラッパーと呼ばれるストーカーに通知しなくてはならない。彼は報酬をくれる。</text>
+	</string>
+	<string id="zat_b106_search_soroka_name">
+		<text>マグパイを探す：そのストーカーを見つける</text>
+	</string>
+	<string id="zat_b106_search_soroka_text">
+		<text>マグパイと呼ばれるストーカーは、ゴンタの部隊を作りキメラに攻撃させた。彼らに、その悪党を見つけてくれるように依頼された。</text>
+	</string>
+	<string id="zat_b107_evacuation_jupiter_name">
+		<text>撤退ポイント：ポイントB205を調査する</text>
+	</string>
+	<string id="zat_b107_evacuation_jupiter_text">
+		<text>ヘリの1機にあった地図には撤退ポイントが示されていた。兵士がポイントB205に行ったか、調べなくてはならない。</text>
+	</string>
+	<string id="zat_b107_evacuation_pripyat_1_name">
+		<text>撤退ポイント：ポイントB28を調査する</text>
+	</string>
+	<string id="zat_b107_evacuation_pripyat_1_text">
+		<text>ヘリの1機にあった地図には撤退ポイントが示されていた。兵士がポイントB28に行ったか、調べなくてはならない。</text>
+	</string>
+	<string id="zat_b107_evacuation_pripyat_2_name">
+		<text>撤退ポイント：ポイントB28の座標を見つける</text>
+	</string>
+	<string id="zat_b107_evacuation_pripyat_2_text">
+		<text>スティングレイ・ヘリの1機にあったブラックボックスの録音に、部隊指揮官がチームの集合予定位置を指定していた。その位置は撤退ポイントB28で、その座標を見つけなくてはならない。</text>
+	</string>
+	<string id="zat_b107_evacuation_pripyat_3_name">
+		<text>撤退ポイント：ポイントB28に到達する</text>
+	</string>
+	<string id="zat_b107_evacuation_pripyat_3_text">
+		<text>兵士が集合することになっていた位置はプリピャチにある。そこにたどり着く道を見つける。</text>
+	</string>
+	<string id="zat_b107_evacuation_zaton_name">
+		<text>撤退ポイント：ポイントB2を調査する</text>
+	</string>
+	<string id="zat_b107_evacuation_zaton_text">
+		<text>ヘリの1機にあった地図には撤退ポイントが示されていた。兵士がポイントB2に行ったか、調べなくてはならない。</text>
+	</string>
+	<string id="zat_b14_bring_strange_object_name">
+		<text>奇妙な現象：ビアードにアーティファクトを持っていく</text>
+	</string>
+	<string id="zat_b14_bring_strange_object_text">
+		<text>奇妙な光の源は奇妙なアーティファクトだった。ビアードが興味を持つに違いない。</text>
+	</string>
+	<string id="zat_b14_learn_about_strange_occurrence_by_stalkers_name">
+		<text>奇妙な現象：アーティファクトについてストーカーたちに尋ねる</text>
+	</string>
+	<string id="zat_b14_learn_about_strange_occurrence_by_stalkers_text">
+		<text>ストーカーたちは、奇妙なアーティファクトについて何かを知っているか、あるいは知っている者を教えてくれる。彼らに話しかける。</text>
+	</string>
+	<string id="zat_b14_learn_about_strange_occurrence_name">
+		<text>奇妙な現象：浚渫ステーションで光の源を見つける</text>
+	</string>
+	<string id="zat_b14_learn_about_strange_occurrence_text">
+		<text>不思議な光が浚渫ステーションで目撃された。ビアードに、その出所を見つけるように依頼された。</text>
+	</string>
+	<string id="zat_b14_take_artefact_name">
+		<text>奇妙な現象：アーティファクトを取る</text>
+	</string>
+	<string id="zat_b14_take_artefact_text">
+		<text>不思議な光の源は、奇妙なアーティファクトだった。それを取る。</text>
+	</string>
+	<string id="zat_b14_tell_svyaznoy_about_all_name">
+		<text>奇妙な現象：アーティファクトについてビアードに話す</text>
+	</string>
+	<string id="zat_b14_tell_svyaznoy_about_all_text">
+		<text>不思議な光の源は、奇妙なアーティファクトだった。たとえアーティファクトを持ってなくても、そのことをビアードに伝える。</text>
+	</string>
+	<string id="zat_b20_cross_the_teleport_name">
+		<text>台地へ到達：アノマリーに飛び込む</text>
+	</string>
+	<string id="zat_b20_cross_the_teleport_text">
+		<text>アノマリーの中を通る台地への道があるように思われる。そこに飛び込む必要がある。</text>
+	</string>
+	<string id="zat_b20_find_the_teleport_name">
+		<text>台地へ到達：ノアの秘密の通路を見つける</text>
+	</string>
+	<string id="zat_b20_find_the_teleport_text">
+		<text>ノアのPDAには、台地への彼の“抜け道”が記述されていた。それを見つけなくてはならない。</text>
+	</string>
+	<string id="zat_b20_plato_talk_to_noah_name">
+		<text>台地へ到達：ノアからそこに着く方法を見つけ出す</text>
+	</string>
+	<string id="zat_b20_plato_talk_to_noah_text">
+		<text>ノアと呼ばれるストーカーが、台地への通路を知っていると言われている。そこに着く方法を見つけ出さなくてはならない。</text>
+	</string>
+	<string id="zat_b22_bring_proof_name">
+		<text>行方不明のストーカーたち：トレモールが関与した証拠を持ってくる</text>
+	</string>
+	<string id="zat_b22_bring_proof_text">
+		<text>スカドフスクにトレモールの録音のあるPDAを持っていき、ビアードにそれを見せなくてはならない。録音は、その医者がストーカーが行方不明になった原因だったことを明らかにする。</text>
+	</string>
+	<string id="zat_b22_find_proof_name">
+		<text>行方不明のストーカーたち：トレモールが関与した証拠を見つける</text>
+	</string>
+	<string id="zat_b22_find_proof_text">
+		<text>トレモールがストーカーの失踪に関与したという証拠を残しているかどうか、調べなくてはならない。</text>
+	</string>
+	<string id="zat_b28_heli_3_crash_name">
+		<text>スティングレイ3号機：墜落現場を調査する</text>
+	</string>
+	<string id="zat_b28_heli_3_crash_text">
+		<text>スティングレイ3号機が墜落した現場を調査する。</text>
+	</string>
+	<string id="zat_b29_simple_bring_text_1">
+		<text>ビアードにアーティファクトを持っていかなくてはならない。しかし、有利な時間は終った。今、競争相手が同様にアーティファクトを探している。</text>
+	</string>
+	<string id="zat_b29_simple_bring_text_2">
+		<text>ビアードにアーティファクトを持っていかなくてはならない。競争相手もそれを探しているのを覚えておくこと。</text>
+	</string>
+	<string id="zat_b29_simple_bring_text_3">
+		<text>ビアードにアーティファクトを持っていかなくてはならない。しかし、すでに別のグループがひとつを見つけたとの報告がある。信号を追跡し、競争相手がする前に仕事を完了しなくてはならない。</text>
+	</string>
+	<string id="zat_b29_simple_bring_text_4">
+		<text>ビアードにアーティファクトを持っていかなくてはならない。しかし、すでに別のグループがそれをしたとの報告がある。今は、アーティファクトの料金の半分しか得られない。</text>
+	</string>
+	<string id="zat_b29_simple_bring_text_5">
+		<text>ビアードにアーティファクトを持っていかなくてはならない。</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_16">
+		<text>アーティファクトの注文：グラビを持って来る</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_17">
+		<text>アーティファクトの注文：アイを持って来る</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_18">
+		<text>アーティファクトの注文：バブルを持って来る</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_19">
+		<text>アーティファクトの注文：シェルを持って来る</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_20">
+		<text>アーティファクトの注文：ゴールドフィッシュを持って来る</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_21">
+		<text>アーティファクトの注文：フレームを持って来る</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_22">
+		<text>アーティファクトの注文：ファイアフライを持って来る</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_23">
+		<text>アーティファクトの注文：スノーフレークを持って来る</text>
+	</string>
+	<string id="zat_b29_simple_find_text_1">
+		<text>ビアードのためにアーティファクトを見つけなくてはならない。しかし、有利な時間は終った。今、競争相手が同様にアーティファクトを探している。</text>
+	</string>
+	<string id="zat_b29_simple_find_text_2">
+		<text>ビアードのためにアーティファクトを見つけなくてはならない。競争相手もそれを探しているのを覚えておくこと。</text>
+	</string>
+	<string id="zat_b29_simple_find_text_3">
+		<text>ビアードのためにアーティファクトを見つけなくてはならない。しかし、すでに別のグループがひとつを見つけたとの報告がある。信号を追跡し、競争相手がする前に仕事を完了しなくてはならない。</text>
+	</string>
+	<string id="zat_b29_simple_find_text_4">
+		<text>ビアードのためにアーティファクトを見つけなくてはならない。しかし、すでに別のグループがそれをしたとの報告がある。今は、アーティファクトの料金の半分しか得られない。</text>
+	</string>
+	<string id="zat_b29_simple_find_text_5">
+		<text>ビアードのためにアーティファクトを見つけなくてはならない。</text>
+	</string>
+	<string id="zat_b29_simple_find_title_16">
+		<text>アーティファクトの注文：グラビを見つける</text>
+	</string>
+	<string id="zat_b29_simple_find_title_17">
+		<text>アーティファクトの注文：アイを見つける</text>
+	</string>
+	<string id="zat_b29_simple_find_title_18">
+		<text>アーティファクトの注文：バブルを見つける</text>
+	</string>
+	<string id="zat_b29_simple_find_title_19">
+		<text>アーティファクトの注文：シェルを見つける</text>
+	</string>
+	<string id="zat_b29_simple_find_title_20">
+		<text>アーティファクトの注文：ゴールドフィッシュを見つける</text>
+	</string>
+	<string id="zat_b29_simple_find_title_21">
+		<text>アーティファクトの注文：フレームを見つける</text>
+	</string>
+	<string id="zat_b29_simple_find_title_22">
+		<text>アーティファクトの注文：ファイアフライを見つける</text>
+	</string>
+	<string id="zat_b29_simple_find_title_23">
+		<text>アーティファクトの注文：スノーフレークを見つける</text>
+	</string>
+	<string id="zat_b30_compass_to_barmen_task_find_name">
+		<text>コンパス：ノアのところで、どこで珍しいアーティファクトを得られるかを知る</text>
+	</string>
+	<string id="zat_b30_compass_to_barmen_task_find_text">
+		<text>古いはしけ舟のノアのところで、どこで珍しいアーティファクトを得られるかを知らなくてはならない。ビアードはそのアーティファクトを長い間探しているので、喜んでその代価を払う。</text>
+	</string>
+	<string id="zat_b30_compass_to_barmen_task_give_name">
+		<text>コンパス：ビアードにアーティファクトを持っていく</text>
+	</string>
+	<string id="zat_b30_compass_to_sultan_task_find_name">
+		<text>コンパス：どこで珍しいアーティファクトを得られるかを知る</text>
+	</string>
+	<string id="zat_b30_compass_to_sultan_task_find_text">
+		<text>サルタンは、ビアードが探しているアーティファクトを奪いたい。古いはしけ舟のノアのところで、どこで珍しいアーティファクトを得られるかを知らなくてはならない。</text>
+	</string>
+	<string id="zat_b30_compass_to_sultan_task_give_name">
+		<text>コンパス：サルタンにアーティファクトを持っていく</text>
+	</string>
+	<string id="zat_b30_compass_to_sultan_task_give_text">
+		<text>ノアがくれたアーティファクトは、サルタンが探しているコンパスだ。</text>
+	</string>
+	<string id="zat_b30_percent_task_name">
+		<text>怪しいビジネス：ビアードから分け前を得る</text>
+	</string>
+	<string id="zat_b30_percent_task_text">
+		<text>ビアードから、彼の収入の分け前を得なくてはならない。</text>
+	</string>
+	<string id="zat_b30_sultan_task_1_name">
+		<text>誘惑的なビジネス：サルタンと話す</text>
+	</string>
+	<string id="zat_b30_sultan_task_1_text">
+		<text>トレーダーのアウルは、ビアードは約束を守らないと考えている。また、地元の犯罪者のボスのサルタンと連絡をとるように助言している。</text>
+	</string>
+	<string id="zat_b30_sultan_task_2_name">
+		<text>怪しいビジネス：ストーカーたちから検出器を奪う</text>
+	</string>
+	<string id="zat_b30_sultan_task_2_text">
+		<text>ビアードのためにアーティファクトを探しているストーカーたちから検出器のプロトタイプを奪うために、できることをすべてを行わなければならない。ビアードが検出器を持っていなければ、彼はサルタンの条件に同意しなければならなくなる。</text>
+	</string>
+	<string id="zat_b30_sultan_task_3_name">
+		<text>怪しいビジネス：サルタンと話す</text>
+	</string>
+	<string id="zat_b30_sultan_task_3_text">
+		<text>ビアードは検出器を持っていない。なので、サルタンがビアードの他の供給者との問題を解決したかを知るために、サルタンと話をしなくてはならない。</text>
+	</string>
+	<string id="zat_b30_sultan_task_4_name">
+		<text>怪しいビジネス：ビアードがサルタンのために働くように強いる</text>
+	</string>
+	<string id="zat_b30_sultan_task_4_text">
+		<text>今、もはやビアードは供給者も検出器も持たないので、独りでは何もできない。サルタンのために働くことを彼に強いる。</text>
+	</string>
+	<string id="zat_b30_sultan_task_6_name">
+		<text>怪しいビジネス：ビアードの現在のビジネスについて知る</text>
+	</string>
+	<string id="zat_b30_sultan_task_6_text">
+		<text>ビアードが今、どんなビジネスで忙しいのかを知る必要がある。それは、彼の供給チャンネルを切断する助けになる。</text>
+	</string>
+	<string id="zat_b30_sultan_task_7_name">
+		<text>怪しいビジネス：ストーカーたちから2番目の検出器を奪う</text>
+	</string>
+	<string id="zat_b30_sultan_task_7_text">
+		<text>ビアードのためにアーティファクトを探しているストーカーたちから検出器のプロトタイプを奪うために、できることをすべてを行わなければならない。ビアードが検出器を持っていなければ、彼はサルタンの条件に同意しなければならなくなる。</text>
+	</string>
+	<string id="zat_b30_task_1_name">
+		<text>誘惑的なビジネス：ノビコフに3つのベルズ検出器を持っていく</text>
+	</string>
+	<string id="zat_b30_task_1_text">
+		<text>トレーダーのアウルは金になるベンチャーに参加するように言っている。仕事は、3つのベルズ検出器を見つけて、科学者のトーチカのノビコフにそれらを持っていくことだ。</text>
+	</string>
+	<string id="zat_b30_task_2_name">
+		<text>誘惑的なビジネス：アウルが検出器を得るまで待つ</text>
+	</string>
+	<string id="zat_b30_task_2_text">
+		<text>ノビコフは検出器を受け取り、ノビコフ自身がアウルにそれらを送ると約束した。検出器の作業を終えるのを待ち、そして、アウルからの結果について知る必要がある。</text>
+	</string>
+	<string id="zat_b30_task_3_name">
+		<text>誘惑的なビジネス：アウルと話す</text>
+	</string>
+	<string id="zat_b30_task_3_text">
+		<text>アウルが無線で連絡を取ってきた。そして、彼が問題を持っており、会いたいと伝えてきた。</text>
+	</string>
+	<string id="zat_b30_task_4_name">
+		<text>誘惑的なビジネス：合意を守るようにビアードに説得する</text>
+	</string>
+	<string id="zat_b30_task_4_text">
+		<text>トレーダーのアウルは、ビアードは約束を守らないと考えている。彼と話し、合意を破ることはしないように納得させなくてはならない。</text>
+	</string>
+	<string id="zat_b30_task_5_name">
+		<text>誘惑的なビジネス：アウルから分け前を要求する</text>
+	</string>
+	<string id="zat_b30_task_5_text">
+		<text>ビアードは、アウルに何も借りはないと考えている。誰が正しいのかを知り、その男に分け前を要求しなくてはならない。</text>
+	</string>
+	<string id="zat_b33_zaporojec_text_01">
+		<text>スナグに、彼のコンテナを持って来るように依頼された。彼は古いザポロージェツ車にそれを隠したが、地震で割れ目に落ち込んだ。そこはスノークでいっぱいで、スナグは下りて行くのを恐れている。</text>
+	</string>
+	<string id="zat_b33_zaporojec_text_02">
+		<text>スナグのコンテナを持っている。今、その中身を適正に分けるために、所有者に戻さなくてはならない。</text>
+	</string>
+	<string id="zat_b38_den_of_the_bloodsucker_inform_stalkers_name">
+		<text>ブラッドサッカーの巣：ストーカーたちと話す</text>
+	</string>
+	<string id="zat_b38_den_of_the_bloodsucker_inform_stalkers_text">
+		<text>クリュッグアンテナ複合施設の下のブラッドサッカーの巣のことを、ストーカーたちに通知しなくてはならない。</text>
+	</string>
+	<string id="zat_b38_den_of_the_bloodsucker_tell_barman_about_all_name">
+		<text>ブラッドサッカーの巣：ビアードと話す</text>
+	</string>
+	<string id="zat_b38_den_of_the_bloodsucker_tell_barman_about_all_text">
+		<text>クリュッグアンテナ複合施設の下のブラッドサッカーの巣のことをビアードに伝え、彼がストーカーたちを保護する方法を決められるようにする。</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_clean_den_of_the_bloodsucker_name">
+		<text>行方不明のストーカーたち：グロースに従う</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_clean_den_of_the_bloodsucker_text">
+		<text>グロースに、彼と一緒に放置されたアンテナ複合施設の建物を調査してくれるように依頼された。彼はブラッドサッカーを見つけて、そのハンターがそこにいるかどうかを調べたい。</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_deal_with_medic_name">
+		<text>行方不明のストーカーたち：何が起こったのかを知る</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_deal_with_medic_text">
+		<text>トレモールが無実のようには思えない。何が起こったかを知らなくてはならない。</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_find_cop_near_port_krans_name">
+		<text>行方不明のストーカーたち：グロースを見つける</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_find_cop_near_port_krans_text">
+		<text>グロースはある理由で、ドック・クレーンの方へ出かけた。おそらく、彼は行方不明のストーカーに関して何かを見つけたのだ。彼をそこで捜さなくてはならない。</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_find_out_where_is_cop_name">
+		<text>行方不明のストーカーたち：グロースがどこにいるか見つける</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_find_out_where_is_cop_text">
+		<text>グロースがいつもの場所にいない。彼がどこに行ったのか、ビアードに尋ねなくてはならない。</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_find_to_be_missing_hunter_name">
+		<text>行方不明のストーカーたち：行方不明のハンターを見つける</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_find_to_be_missing_hunter_text">
+		<text>グロースに、行方不明のハンターを探すのを手伝ってくれるように依頼された。ハンターはブラッドサッカーの巣を見つけようとしていた。現在の情報によれば、最近のストーカー失踪はブラッドサッカーの仕業のようだ。</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_get_out_from_den_of_the_bloodsucker_name">
+		<text>行方不明のストーカーたち：ブラッドサッカーの巣から出る</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_get_out_from_den_of_the_bloodsucker_text">
+		<text>地下でブラッドサッカーの巣を見つけ、その居住者たちはある種の錯綜状態になっている。ここから出て、静かにさせなくてはならない。</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_meet_cop_24h_past_name">
+		<text>行方不明のストーカーたち：グロースと会う</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_meet_cop_24h_past_text">
+		<text>グロースに会い、行方不明のハンターの捜索に関して話さなくてはならない。</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_meet_cop_later_name">
+		<text>行方不明のストーカーたち：後でグロースに会う</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_meet_cop_later_text">
+		<text>アンテナ複合施設には、ハンターのダニラの痕跡はなかった。しかし、グロースは中で見つけたものに当惑しているようだ。そして、この問題についてより詳細に話そうと、後で彼に会ってくれるように依頼された。</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_meet_ment_name">
+		<text>行方不明のストーカーたち：グロースに会う</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_meet_ment_text">
+		<text>グロースは、死んだブラッドサッカーとダニラの痕跡のないことを指摘した。しかし、グロースは興味深いものを見つけたようだ。そして、彼に加わるように依頼された。</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_tell_barmen_about_medic_text">
+		<text>結局のところ、ブラッドサッカーはストーカー失踪とはまったく関係がなかった。それはスカドフスクの医者のトレモールが犯人だった。</text>
+	</string>
+	<string id="zat_b3_get_tools_1_2_name">
+		<text>ツール：カルダンにツールを持っていく</text>
+	</string>
+	<string id="zat_b3_get_tools_1_2_text">
+		<text>カルダンに、2セットのツールを得るように依頼された：基本作業用1セットと上級作業用1セット。この技術者はその報酬を支払ってくれて、もっと高度な武器とアーマーの改造ができるようになる。</text>
+	</string>
+	<string id="zat_b3_get_tools_1_3_name">
+		<text>ツール：カルダンにツールを持っていく</text>
+	</string>
+	<string id="zat_b3_get_tools_1_3_text">
+		<text>カルダンに、2セットのツールを得るように依頼された：基本作業用1セットと測定作業用1セット。この技術者はその報酬を支払ってくれて、もっと高度な武器とアーマーの改造ができるようになる。</text>
+	</string>
+	<string id="zat_b3_get_tools_1_name">
+		<text>ツール：カルダンにツールを持っていく</text>
+	</string>
+	<string id="zat_b3_get_tools_1_text">
+		<text>カルダンに、基本作業用ツールの1セットを得るように依頼された。この技術者はその報酬を支払ってくれて、もっと高度な武器とアーマーの改造ができるようになる。</text>
+	</string>
+	<string id="zat_b3_get_tools_2_3_name">
+		<text>ツール：カルダンにツールを持っていく</text>
+	</string>
+	<string id="zat_b3_get_tools_2_3_text">
+		<text>カルダンに、2セットのツールを得るように依頼された：上級作業用1セットと測定作業用1セット。この技術者はその報酬を支払ってくれて、もっと高度な武器とアーマーの改造ができるようになる。</text>
+	</string>
+	<string id="zat_b3_get_tools_2_name">
+		<text>ツール：カルダンにツールを持っていく</text>
+	</string>
+	<string id="zat_b3_get_tools_2_text">
+		<text>カルダンに、上級作業用ツールの1セットを得るように依頼された。この技術者はその報酬を支払ってくれて、もっと高度な武器とアーマーの改造ができるようになる。</text>
+	</string>
+	<string id="zat_b3_get_tools_3_name">
+		<text>ツール：カルダンにツールを持っていく</text>
+	</string>
+	<string id="zat_b3_get_tools_3_text">
+		<text>カルダンに、測定作業用ツールの1セットを得るように依頼された。この技術者はその報酬を支払ってくれて、もっと高度な武器とアーマーの改造ができるようになる。</text>
+	</string>
+	<string id="zat_b3_mechanic_toolkit_search_name">
+		<text>ツール：カルダンにツールを持っていく</text>
+	</string>
+	<string id="zat_b3_mechanic_toolkit_search_text">
+		<text>カルダンに、3セットのツールを得るように依頼された：基本作業用1セット、上級作業用1セット、測定作業用1セット。この技術者はその報酬を支払ってくれて、もっと高度な武器とアーマーの改造ができるようになる。</text>
+	</string>
+	<string id="zat_b40_reconnoitre_merc_camp_01_name">
+		<text>傭兵キャンプ：見つけられるすべての情報を得る</text>
+	</string>
+	<string id="zat_b40_reconnoitre_merc_camp_01_text">
+		<text>トレーダーのアウルは、廃棄物処理ステーションの傭兵キャンプで見つけられるすべてのメディアに対して、良い報酬を出すと約束した。彼は傭兵の計画に興味を持っている。</text>
+	</string>
+	<string id="zat_b40_reconnoitre_merc_camp_02_name">
+		<text>傭兵キャンプ：見つけられるすべての情報を得る</text>
+	</string>
+	<string id="zat_b40_reconnoitre_merc_camp_02_text">
+		<text>トレーダーのアウルは、廃棄物処理ステーションの傭兵キャンプで見つけられるすべてのメディアに対して、良い報酬を出すと約束した。彼は傭兵の計画に興味を持っている。</text>
+	</string>
+	<string id="zat_b44_tech_buddies_barge_name">
+		<text>3人の仲間：バルジの運命について知る</text>
+	</string>
+	<string id="zat_b44_tech_buddies_barge_text">
+		<text>カルダンに、彼の仲間のバルジと呼ばれるストーカーに、彼の謝罪をしてくれるように依頼された。彼らは口論し、バルジはどこかわからない方向に去った。</text>
+	</string>
+	<string id="zat_b44_tech_buddies_both_name">
+		<text>3人の仲間：バルジとジョーカーの運命について知る</text>
+	</string>
+	<string id="zat_b44_tech_buddies_both_text">
+		<text>カルダンに、彼の仲間のバルジとジョーカーと呼ばれるストーカーたちに、彼の謝罪をしてくれるように依頼された。彼らは口論し、仲間たちはどこかわからない方向に去った。</text>
+	</string>
+	<string id="zat_b44_tech_buddies_joker_name">
+		<text>3人の仲間：ジョーカーの運命について知る</text>
+	</string>
+	<string id="zat_b44_tech_buddies_joker_text">
+		<text>カルダンに、彼の仲間のジョーカーと呼ばれるストーカーに、彼の謝罪をしてくれるように依頼された。彼らは口論し、ジョーカーはどこかわからない方向に去った。</text>
+	</string>
+	<string id="zat_b51_nimble_items_get_order_name">
+		<text>特別注文：アイテムを得る</text>
+	</string>
+	<string id="zat_b51_nimble_items_get_order_text">
+		<text>アイテムが配送された。それらをニンブルから得る時間だ。</text>
+	</string>
+	<string id="zat_b51_nimble_items_wait_order_name">
+		<text>特別注文：配送を待つ</text>
+	</string>
+	<string id="zat_b51_nimble_items_wait_order_text">
+		<text>注文がされたので、今はニンブルがアイテムを受け取るのを待たなくてはならない。</text>
+	</string>
+	<string id="zat_b52_reputation_find_snag_name">
+		<text>評判：スナグを見つける</text>
+	</string>
+	<string id="zat_b52_reputation_find_snag_text">
+		<text>スナグを見つけて、彼の口を閉じておくように強いる必要がある。ニンブルは盗品を扱ったことはなく、スナグはよく不正をしているようだ。彼はドックのクレーンのそばで見られたのが最後だったので、まだそこにいるかもしれない。</text>
+	</string>
+	<string id="zat_b52_reputation_find_snag_text_2">
+		<text>スナグを見つけて、彼の口を閉じておくように強いる必要がある。スナグはドックのクレーンのそばにおらず、バンディットは彼がどこにいるか知っているようだ。</text>
+	</string>
+	<string id="zat_b52_reputation_find_snag_text_3">
+		<text>スナグを見つけて、彼の口を閉じておくように強いる必要がある。バンディットがこれに関係しているようで、どこを捜せばいいか知っているはずだ。</text>
+	</string>
+	<string id="zat_b52_reputation_find_snag_text_4">
+		<text>スナグを見つけて、彼の口を閉じておくように強いる必要がある。今のところ、彼の行方の手掛かりはない。</text>
+	</string>
+	<string id="zat_b52_reputation_find_snag_text_5">
+		<text>スナグを見つけて、彼の口を閉じておくように強いる必要がある。バンディットのひとりから見つかったPDAで判断すると、サルタンの手下がスナグを捜している。不運にも、彼をどこで見つけられるかの手掛かりは何もない。</text>
+	</string>
+	<string id="zat_b52_reputation_know_there_snog_name">
+		<text>評判：スナグがどこへ消えたか知る</text>
+	</string>
+	<string id="zat_b52_reputation_know_there_snog_text">
+		<text>スナグは、いつもいた場所にはいない。地元の者たちに、彼がどこかに行くのを見ていないか、尋ねる。</text>
+	</string>
+	<string id="zat_b52_reputation_know_there_snog_text_2">
+		<text>スナグを見つけて、彼の口を閉じておくように強いる必要がある。彼は、いつもいた場所にはいない。おそらく、サルタンはスナグがどこにいるかを知っている。</text>
+	</string>
+	<string id="zat_b52_reputation_know_there_snog_text_3">
+		<text>スナグを見つけて、彼の口を閉じておくように強いる必要がある。彼は、いつもいた場所にはいない。おそらく、ビアードはスナグがどこにいるかを知っている。</text>
+	</string>
+	<string id="zat_b52_reputation_tell_snag_name">
+		<text>評判：スナグと話す</text>
+	</string>
+	<string id="zat_b52_reputation_tell_snag_text">
+		<text>スナグを見つけて、彼の口を閉じておくように強いる必要がある。ニンブルは盗品は扱ったことはなく、スナグはよく不正をしているようだ。</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_destroy_lair_name">
+		<text>ブラッドサッカーの巣：換気シャフトを見つける</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_destroy_lair_text">
+		<text>ブラッドサッカーの巣を有毒ガスで満たすために、換気シャフトを見つける。</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_find_gas_name">
+		<text>ブラッドサッカーの巣：有毒ガスを見つける</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_find_gas_text">
+		<text>ブラッドサッカーの巣を破壊するために、有毒ガスが必要。アウルが、どこでそれが手に入るかを知っているはずだ。</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_find_gas_text_2">
+		<text>ブラッドサッカーの巣を破壊するために、有毒ガスが必要。アウルは、荒れ果てた軍の輸送船でガスボンベを見つけられると言っている。</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_get_gas_name">
+		<text>ブラッドサッカーの巣：コンテナの鍵を見つける</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_get_gas_text">
+		<text>見つけた書類に、ガスボンベのコンテナの鍵について書かれていた。それらを見つけなくてはならない。</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_open_gas_box_name">
+		<text>ブラッドサッカーの巣：ガスボンベのコンテナを開く方法を見つける</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_open_gas_box_text">
+		<text>ガスボンベが入ったコンテナがロックされている。それを開く方法を見つけなくてはならない。</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_place_gas_name">
+		<text>ブラッドサッカーの巣：ガスボンベを設置する</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_place_gas_text">
+		<text>アンテナ複合施設の地下の換気システムに、ガスボンベを設置する。ガスは換気シャフトを通って中に入って地下に満ち、ブラッドサッカーを殺す。</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_tell_stalkers_about_destroy_lair_name">
+		<text>ブラッドサッカーの巣：ビアードに巣を破壊したことを伝える</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_tell_stalkers_about_destroy_lair_text">
+		<text>スカドフスクのストーカーたちを安全に救出し、巣を破壊したことをビアードに伝える。</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_twist_vintil_name">
+		<text>ブラッドサッカーの巣：バルブを回す</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_twist_vintil_text">
+		<text>有毒ガスが換気シャフトを通ってブラッドサッカーの巣がある地下を満たせるよう、バルブを回す。</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_wait_destroy_name">
+		<text>ブラッドサッカーの巣：ガスの効果が出るまで待つ</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_wait_destroy_text">
+		<text>ガスが巣を満たし、ブラッドサッカーが死んだたことを確かめる必要がある。</text>
+	</string>
+	<string id="zat_b5_come_to_bandits_name">
+		<text>取り引き：レンジャー・ステーションのそばでバンディットに会う</text>
+	</string>
+	<string id="zat_b5_come_to_bandits_text">
+		<text>サルタンから、トレーダーとの取り引きに参加してくれるように依頼された。彼の部下に随行し、何かが起こった場合、彼らを援護しなくてはならない。</text>
+	</string>
+	<string id="zat_b5_come_to_dealer_name">
+		<text>取り引き：トレーダーに会う</text>
+	</string>
+	<string id="zat_b5_come_to_dealer_text">
+		<text>アウルから、取り引きの間にトレーダーを警護する仕事を提供された。明らかにその取り引きは疑わしく、それはうまくいかないかもしれない。</text>
+	</string>
+	<string id="zat_b5_come_to_stalkers_name">
+		<text>取り引き：レンジャー・ステーションのそばでストーカーに会う</text>
+	</string>
+	<string id="zat_b5_come_to_stalkers_text">
+		<text>レンジャー・ステーションのそばでストーカーたちに会って、彼らがバンディットと武器トレーダーの取り引きを分裂させるのを支援する。</text>
+	</string>
+	<string id="zat_b5_cover_dealer_name">
+		<text>取り引き：トレーダーを守る</text>
+	</string>
+	<string id="zat_b5_cover_dealer_text">
+		<text>トレーダーは、取り引きの間に彼を警護する仕事について説明した。</text>
+	</string>
+	<string id="zat_b5_intercept_talking_name">
+		<text>取り引き：会話を盗聴する</text>
+	</string>
+	<string id="zat_b5_intercept_talking_text">
+		<text>ストーカーたちは、バンディットと武器トレーダーの間の会話を盗み聞きしたい。</text>
+	</string>
+	<string id="zat_b5_kill_dealer_name">
+		<text>取り引き：武器取り引きを分裂させる</text>
+	</string>
+	<string id="zat_b5_kill_dealer_text">
+		<text>バンディットと武器トレーダーの取り引きを分裂させるために、何でもする。</text>
+	</string>
+	<string id="zat_b5_kill_stalkers_name">
+		<text>取り引き：目撃者を倒す</text>
+	</string>
+	<string id="zat_b5_kill_stalkers_text">
+		<text>トレーダーの取り引きはうまくいかなかった。目撃者をすべて始末しなくてはならない。</text>
+	</string>
+	<string id="zat_b5_protect_dealer_name">
+		<text>取り引き：トレーダーを守る</text>
+	</string>
+	<string id="zat_b5_protect_dealer_text">
+		<text>トレーダーを守らなくてはならない。さらに、彼は、彼のクライアントを含む、取り引きの目撃者をすべて始末するように命じている。</text>
+	</string>
+	<string id="zat_b5_search_body_name">
+		<text>取り引き：トレーダーを捜す</text>
+	</string>
+	<string id="zat_b5_search_body_text">
+		<text>トレーダーは、後で役に立つ重要な情報を持っているようだ。それを得なくてはならない。</text>
+	</string>
+	<string id="zat_b5_secure_bandits_name">
+		<text>取り引き：取り引きの間、バンディットを警護する</text>
+	</string>
+	<string id="zat_b5_secure_bandits_text">
+		<text>バンディットがトレーダーと交渉している間、彼らを注意して警護する。</text>
+	</string>
+	<string id="zat_b5_speak_dealer_name">
+		<text>取り引き：トレーダーと話す</text>
+	</string>
+	<string id="zat_b5_speak_dealer_text">
+		<text>バンディットとの取り引きが完了した。報酬を得なくてはならない。</text>
+	</string>
+	<string id="zat_b5_talk_barmen_name">
+		<text>取り引き：ビアードから報酬を得る</text>
+	</string>
+	<string id="zat_b5_talk_barmen_text">
+		<text>ビアードは、バンディットとトレーダーの取り引きを分裂させれば、報酬を与えると約束した。取り引きが失敗したので、報酬を得ることができる。</text>
+	</string>
+	<string id="zat_b5_talk_to_sultan_name">
+		<text>取り引き：バンディットのリーダーと話す</text>
+	</string>
+	<string id="zat_b5_talk_to_sultan_text">
+		<text>バンディットのリーダーに、取り引きに参加する準備ができたことを通知しなくてはならない。</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_name">
+		<text>襲撃：何を行うか決める</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_raiders_name">
+		<text>襲撃：ストーカを攻撃する</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_stalkers_reward_name">
+		<text>襲撃：報酬を得る</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_stalkers_reward_text">
+		<text>キャンプに対する襲撃は撃退された。報酬を得るためにストーカーと話すことができる。もし襲撃の警告がされていなければ、おそらく彼らは窮地に陥ったことだろう。</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_text">
+		<text>ストーカーのあるグループが、自分の仲間たちから奪おうとする強盗に変わった。その襲撃に参加するか、ストーカーに警告するかどうかを決めなくてはならない。</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_wait_name">
+		<text>襲撃：合意した時間を待つ</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_time_name">
+		<text>襲撃：その時を待つ</text>
+	</string>
+	<string id="zat_b33_zaporojec_name">
+		<text>手が届かない隠し場所：スナグにコンテナを持っていく</text>
+	</string>
+	<string id="zat_b5_talk_stalkers_name">
+		<text>取り引き：ストーカー部隊のリーダーと話す</text>
+	</string>
+	<string id="zat_b5_talk_stalkers_text">
+		<text>取り引きは駄目になった。武器トレーダーは死んだ。ストーカー部隊のリーダーと話す。</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_tell_barmen_about_medic_name">
+		<text>行方不明のストーカーたち：何が起こったのかをスカドフスクの人々に伝える</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_open_container_text">
+		<text>見つけたキーを使用してコンテナを開け、毒ガスタンクを取らなくてはならない。</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_open_container_name">
+		<text>ブラッドサッカーの巣：コンテナからガスタンクを取り出す</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_backstab_name">
+		<text>襲撃：強盗たちを攻撃する</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_backstab_text">
+		<text>強盗を後ろから攻撃すれば、ストーカーたちがその攻撃を撃退するのを助けられる。</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_meet_name">
+		<text>襲撃：強盗たちに会う</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_raiders_text">
+		<text>強盗たちのストーカー・キャンプへの攻撃に参加する。</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_stalkers_name">
+		<text>襲撃：強盗たちに加わる</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_stalkers_text">
+		<text>ストーカーたちから、強盗の攻撃を撃退するのを支援してくれるように依頼された。強盗に加われば、攻撃が始まったら、後ろから攻撃できる。</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_meet_text">
+		<text>強盗たちはシェフチェンコで待っているはずだ。ストーカーに対する攻撃に加わるために、強盗たちに会う必要がある。</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_wait_text">
+		<text>強盗との会うのを待つ。暗い真夜中過ぎに、彼らはストーカー・キャンプを攻撃したい。会う約束をした場所はシェフチェンコだ。</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_raiders_reward_name">
+		<text>襲撃：自分の報酬を得る</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_raiders_reward_text">
+		<text>ストーカーたちに対する攻撃は成功した。埋蔵品の分け前をもらわなくてはならない。</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_time_text">
+		<text>強盗たちが攻撃で慌てるだろう。その瞬間を待て。そして、シェフチェンコのストーカーたちを助けるために、後ろから奴らに飛びかかるんだ。</text>
+	</string>
+	<string id="zat_b30_sultan_task_8_name">
+		<text>怪しいビジネス：ビアードのために働き始める</text>
+	</string>
+	<string id="zat_b30_sultan_task_8_text">
+		<text>検出器のプロトタイプをビアードのところで働くストーカーから奪うには、彼らの仲間に入る必要がある。それにより、競争者たちがどこにいるか見つけ出すことができる。</text>
+	</string>
+	<string id="zat_b33_zaporojec_text_03">
+		<text>コンテナーを取り、その所有者に届けなくてはならない。</text>
+	</string>
+	<string id="zat_b100_guide_maps_01_text">
+		<text>スティングレイ2号機に搭載されたコンピューターに、ザトンとジュピターの間のエリアの地図があった。それを使用することができる人間を見つけなくてはならない。</text>
+	</string>
+	<string id="zat_b20_ask_a_stalkers_name">
+		<text>台地へ到達：ストーカーたちと話す</text>
+	</string>
+	<string id="zat_b20_ask_a_stalkers_text">
+		<text>台地への直接のルートはないようだ。そこにたどり着く他の方法を、地元のストーカーに尋ねる。</text>
+	</string>
+	<string id="zat_b30_compass_to_barmen_task_give_text">
+		<text>ノアから得たアーティファクトは、ビアードが望むコンパスだ。</text>
+	</string>
+</string_table>

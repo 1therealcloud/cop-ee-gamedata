@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ui_map_desc_mp_military_1_large">
+		<text>버려진 군사 기지입니다. 기동력을 잃은 트럭과 장갑차, 폐허가 된 사령부와 병영이 존재합니다. 다만 겉모습에 속아서는 안 됩니다. 이곳은 사실상 아티팩트가 널린 노다지이므로 어디서든 적을 만날 수 있습니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_military_2_large">
+		<text>불길한 분위기를 풍기는 오래된 마을입니다. 씩씩하게 용기를 내어 여기까지 왔다고 해도 머리로 날아오는 총알이 여러분을 환영할 것입니다. 안전한 장소는 존재하지 않습니다. 조준경과 소음기에 의지해 자기 몸을 지키는 데 집중하세요!</text>
+	</string>
+
+	<string id="ui_map_desc_mp_military_2_short">
+		<text>불길한 분위기를 풍기는 오래된 마을입니다. 여기에 도착했다고 하더라도, 긴장을 풀 여유는 존재하지 않습니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_military_1_short">
+		<text>버려진 군사 기지입니다. 기동력을 잃은 트럭과 장갑차, 폐허가 된 사령부와 병영이 존재합니다.</text>
+	</string>
+
+	<string id="mp_autostation">
+		<text>버려진 차고</text>
+	</string>
+
+	<string id="ui_map_desc_mp_agroprom_large">
+		<text>이상한 장소입니다. 고요한 건물 곳곳에 비밀이 숨겨져 있지만, 스토커들이 이곳으로 몰리는 이유는 조금 다릅니다. 상당히 많은 아티팩트가 발견되며 위험한 만큼 높은 수익을 보장하는 지역이 된 것입니다. 재빨리 생각하고 서둘러 행동하면 행운이 따를지도 모릅니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_agroprom_short">
+		<text>이상한 장소입니다. 고요한 건물 곳곳에 비밀이 숨겨져 있지만, 스토커들이 이곳으로 몰리는 이유는 조금 다릅니다. 바로 상당히 많은 아티팩트가 발견된 것입니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_atp_large">
+		<text>존의 입구에 위치한 차고입니다. 트랙터와 버스, 트럭들이 이곳을 영원한 종착지로 삼았습니다. 아티팩트가 발견되지 않은 장소임에도 언제나 약탈자들을 볼 수 있습니다. 이들은 신입을 노려 죽이고 전리품을 털어갑니다. 건물과 다양한 차량 뒤에 엄폐하고 옥상에 있을지 모르는 적을 조심하세요!</text>
+	</string>
+
+	<string id="ui_map_desc_mp_atp_short">
+		<text>존의 입구에 위치한 차고입니다. 트랙터와 버스, 트럭들이 이곳을 영원한 종착지로 삼았습니다...</text>
+	</string>
+
+	<string id="ui_map_desc_mp_autostation_large">
+		<text>버려진 차고 건물 및 인접 지역입니다. 수색에 열중하면 일부 장비와 물자를 찾을 수 있습니다. 대신 강력한 이상 현상과 차고 옥상에 있는 저격수들을 조심하세요. 옥상은 거의 모든 접근 경로를 내려다볼 수 있는 훌륭한 전망대 역할을 합니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_autostation_short">
+		<text>버려진 차고 건물 및 인접 지역입니다. 강력한 이상 현상과 적 저격수들을 조심하세요.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_bath_large">
+		<text>수수께끼로 가득한 매혹적인 장소입니다. 무엇인지 모를 대상을 실험할 목적으로 건설되었지만, 시설의 정확한 목적은 영원히 미궁으로 남을 것입니다. 아티팩트라고 할 만한 것은 존재하지 않으며, 대신 이상한 기계와 장치의 잔해만이 스토커들을 끌어들일 뿐입니다. 항상 옥상을 조심하고 방사능 수치가 굉장히 높은 지역이라는 점을 잊지 마세요.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_bath_short">
+		<text>수수께끼로 가득한 매혹적인 장소입니다. 무엇인지 모를 대상을 실험할 목적으로 건설되었지만, 시설의 정확한 목적은 영원히 미궁으로 남을 것입니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_darkvalley_large">
+		<text>검은 계곡에서도 유독 위험한 구역입니다. 길게 이어진 거리와 버려진 교육 기관으로 구성되어 있습니다. 무엇을 가르치는 곳이었는지는 아무도 모릅니다. 지금 여기서 배울 수 있는 것은 생존법뿐입니다. 그리고 늘 그렇듯... 옥상을 항상 경계해야 합니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_darkvalley_short">
+		<text>검은 계곡에서도 유독 위험한 구역입니다. 길게 이어진 거리와 버려진 교육 기관으로 구성되어 있습니다...</text>
+	</string>
+
+	<string id="ui_map_desc_mp_factory_large">
+		<text>음울한 폐공장입니다. 수많은 스토커가 이곳에서 목숨을 잃었습니다. 걸을 때마다 다양한 이상 현상이 방문자를 맞이하지만, 귀한 아티팩트 때문에 스토커들이 자석에 이끌리듯 이곳을 찾습니다. 방사능 수치를 꾸준히 확인하세요!</text>
+	</string>
+
+	<string id="ui_map_desc_mp_factory_short">
+		<text>음울한 폐공장입니다. 수많은 스토커가 이곳에서 목숨을 잃었습니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_firestation_large">
+		<text>1986년 초르노빌 원자력 발전소를 구조하기 위해 모든 인원을 파견했던 소방서입니다. 높이 솟은 탑은 주변과 먼 거리를 전부 내려다볼 수 있는 훌륭한 전망대 역할을 합니다. 건물 상층과 지하실은 인적이 끊긴 수준이지만, 나름대로 이유가 있어서 이 상태가 유지되는 것일지도 모릅니다. 최근 존의 여러 파벌이 이 전략적 위치를 차지하기 위해 이 지역에서 분쟁을 벌이고 있습니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_firestation_short">
+		<text>1986년 초르노빌 원자력 발전소를 구조하기 위해 모든 인원을 파견했던 소방서입니다. 소방서 자체가 훌륭한 전략적 위치가 되어줍니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_garbage_large">
+		<text>거대한 매립지의 일부입니다. 1986년 벌어진 대재앙 이후, 방사성 폐기물이 산더미처럼 쌓여 있습니다. 지금도 낡은 크레인과 각종 기기가 남아 있습니다. 오래된 시설들의 잔해와 거대한 격납고 또한 명소 역할을 톡톡히 합니다. 이 모든 것이 저지선 구역 부근에 있으며, 아티팩트도 비교적 많이 숨어 있습니다. 덕분에 손쉬운 소득을 노리는 스토커들이 몰려드는 중입니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_garbage_short">
+		<text>거대한 매립지의 일부입니다. 1986년 벌어진 대재앙 이후, 방사성 폐기물과 각종 기기가 산더미처럼 쌓여 있습니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_limansk_large">
+		<text>수수께끼로 가득한 리만스크의 작은 지역입니다. 버려진 아파트 블록과 반쯤 짓다 만 건물 하나를 만날 수 있습니다. 값비싼 아티팩트가 여럿 발견되면서 존 전체에 소문이 빠르게 퍼졌습니다. 결국 리만스크로 이어지는 도로가 몇 군데 열렸고, 그때부터 단 한 순간도 총성이 멈추지 않는 장소가 되었습니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_limansk_short">
+		<text>수수께끼로 가득한 리만스크의 작은 지역입니다. 버려진 아파트 블록과 반쯤 짓다 만 건물 하나를 만날 수 있습니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_lost_village_large">
+		<text>버려져 인적이 끊긴 마을입니다. 존 안으로 한참 들어가야 만날 수 있습니다. 작고 얕으며 녹빛을 띤 호수에는 폐기된 차량이 가득합니다. 이 호수는 존에 대한 무의식적 두려움을 일으킵니다. 저격수를 조심하시되, 존은 용감한 사람을 아낀다는 사실을 잊지 마시길 바랍니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_lost_village_short">
+		<text>버려져 인적이 끊긴 마을입니다. 존 안으로 한참 들어가야 만날 수 있습니다. 작고 얕으며 녹빛을 띤 호수에는 폐기된 차량이 가득합니다. 이 호수는 존에 대한 무의식적 두려움을 일으킵니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_pool_large">
+		<text>수영장이라기보단 핏물을 받은 욕조에 가까운 장소입니다. 총성과 폭발음, 죽음의 비명이 타일로 덮인 복도에 메아리치고 있습니다. 여기까지 오는 스토커는 드물지만, 나가는 길까지 아는 스토커는 더 적습니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_pool_short">
+		<text>수영장이라기보단 핏물을 받은 욕조에 가까운 장소입니다. 총성과 폭발음이 타일로 덮인 복도에 메아리치고 있습니다...</text>
+	</string>
+
+	<string id="ui_map_desc_mp_railraod_short">
+		<text>로스토크 공장 근처에 위치한 작은 철도역입니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_railroad_large">
+		<text>로스토크 공장 근처에 위치한 작은 철도역입니다. 녹슨 객차와 기관차들이 선로에 영원히 장식으로 남아 있습니다. 수많은 아티팩트가 두려움을 모르는 존 전역의 스토커들을 끌어들이고 있습니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_rembasa_large">
+		<text>작은 마을 인근에 위치한 수리 기지입니다. 정상적으로 움직이는 전 차량이 초르노빌 사고의 여파를 수습하기 위해 동원되었습니다. 시간이 흐르면서 남은 장치들은 예비 부품을 수급하기 위해 해체되었습니다. 지금은 겉보기와 달리 늪지와 오염된 갈대밭 등의 위험 요소가 가득합니다. 다만 행운이 따른다면 진정으로 값진 무언가를 찾아낼 수 있을지도 모릅니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_rembasa_short">
+		<text>작은 마을 인근에 위치한 수리 기지입니다. 겉보기와 달리 늪지와 오염된 갈대밭 등의 위험 요소가 가득합니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_rostok_large">
+		<text>콘크리트 벽 뒤에 녹슨 금속 더미가 쌓여 있습니다. 지난 세기에는 확성기에서 사회주의적 구호가 울리는 가운데 꾸준히 가동되던 공장이었지만, 지금은 폐허가 된 지 한참 지난 건물일 따름입니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_rostok_short">
+		<text>낡고 버려진 공장입니다. 콘크리트 벽 뒤에는 금속 더미만이 적막하게 남아 있습니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_sport_center_large">
+		<text>프리피야티에 속한 스포츠 센터입니다. 버려진 학교 근처에 있습니다. 그러나 1986년 이후 여기서 진행되는 스포츠의 종류와 참여 희망자의 수가 크게 달라졌습니다. 스토커들은 수상한 이름값과 전리품, 아티팩트에 매혹되어 이곳으로 향합니다. 그리고... 가끔은 영원히 떠나지 못하는 몸이 됩니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_sport_center_short">
+		<text>프리피야티에 속한 스포츠 센터입니다. 버려진 학교 근처에 있습니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_training_camp_large">
+		<text>굉장히 이상한 장소입니다. 여길 봤다고 말하는 스토커들은 비웃음의 대상이 되지만, 이곳은 실제로 존재합니다. 중력 이상 현상이 땅을 찢는 바람에 이세계에 가까운 광경이 탄생했습니다. 세 개의 거대한 탑, 군사 장비의 잔해, 땅에서 뜯겨 나간 부유섬들이 강렬한 인상을 남길 것입니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_training_camp_short">
+		<text>굉장히 이상한 장소입니다. 중력 이상 현상이 땅을 찢는 바람에 이세계에 가까운 광경이 탄생했습니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_workshop_large">
+		<text>듀티가 자리 잡기 전에는 로스토크 공장의 외곽이었던 곳입니다. 으스스한 분위기가 짙은 가운데 아티팩트가 여럿 잠들어 있는 장소입니다. 빈 격납고나 창고에 온갖 치명적인 위험이 넘쳐납니다. 긴장을 늦추지 마세요. 특히 흰색 탑을 주의 깊게 살펴보시기를...</text>
+	</string>
+
+	<string id="ui_map_desc_mp_workshop_short">
+		<text>듀티가 자리 잡기 전에는 로스토크 공장의 외곽이었던 곳입니다. 으스스한 분위기가 짙은 가운데 아티팩트가 여럿 잠들어 있는 장소입니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_pripyat_large">
+		<text>프리피야티 시는 과거 초르노빌 원자력 발전소 직원들의 거주지였습니다. 하지만 이제는 모험을 감행하는 사람들만 극히 드물게 보일 따름입니다. 그런데 최근 프로메테우스 영화관과 부두, 쿠르츠하토바 거리 사이의 작은 주거 지역에서 격렬한 총격전이 벌어져 거리가 소란스러워졌습니다.</text>
+	</string>
+
+	<string id="ui_map_desc_mp_pripyat_short">
+		<text>프로메테우스 영화관과 부두, 쿠르츠하토바 거리 사이의 작은 프리피야티 지역에서 극소수의 생존자들이 격렬한 총격전을 벌였습니다.</text>
+	</string>
+
+</string_table>

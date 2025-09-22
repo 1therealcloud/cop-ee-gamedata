@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ls_c_tip_82">
+		<text>Alcuni luoghi non sono accessibili neanche quando ti accovacci. Per accovacciarti il piщ possibile, premi $$ACTION_CROUCH$$ e poi $$ACTION_RUN_OR_LIE_DOWN$$.</text>
+	</string>
+	<string id="legend_ui_talk_reply">
+		<text>$$ACTION_UI_ACCEPT$$ Parla</text>
+	</string>
+</string_table>

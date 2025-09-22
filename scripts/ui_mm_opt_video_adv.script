@@ -1,0 +1,546 @@
+--[[
+r1		= 0
+r2a		= 1
+r2		= 2
+r2.5	= 3
+r3		= 4
+r4		= 5
+Команда називається r2_ssao. Для DX10 і DX11 потрібно додати нову опцію - st_opt_ultra, але лише коли r2_ssao_mode==hdao.
+]]
+
+
+class "opt_video_adv" (CUIWindow)
+
+local ColorDisabled = {[0] = 255, [1] = 75, [2] = 75, [3] = 75}
+local ColorEnabled = nil
+local bOldState = 1
+local bOldStateSSGI = true
+local bOldStateSSAO = true
+local bOldFSRSharpnessState = true
+
+function opt_video_adv:__init() super()
+	self.mm_is_controller = main_menu.in_controller_mode()
+end
+
+function opt_video_adv:__finalize()
+end
+
+function all_modes(render_id)
+	return true
+end
+
+function mode_1(render_id)
+	return render_id==0
+end
+
+function mode_ge_2a(render_id)
+	return render_id>=1
+end
+
+function mode_ge_2(render_id)
+	return render_id>=2
+end
+
+function mode_ge_25(render_id)
+	return render_id>=3
+end
+
+function mode_less_3(render_id)
+	return render_id<4
+end
+
+function mode_ge_3(render_id)
+	return render_id>=4
+end
+
+function mode_4(render_id)
+	return render_id==5
+end
+
+-- //MTB_Jakub_Jurek [JUD-72] multiline main menu scaling
+function adjust_to_offset(obj, offset)
+	local width = obj:GetWidth()
+	local height = obj:GetHeight() + offset
+	obj:SetWndSize(vector2():set(width,height))
+end 
+
+function opt_video_adv:adjust_position(offsetIncrement)
+	for index, elem in ipairs(self.focusList) do
+		adjust_to_offset(elem[1]:GetParent(),offsetIncrement)
+	end
+	self.scroll_v:ForceUpdate()
+end 
+-- //end MTB_Jakub_Jurek [JUD-72] multiline main menu scaling
+
+function opt_video_adv:InitControls(x, y, xml, handler)
+
+	self.forceUpdate = false
+	local ctl
+    local _st
+	local caption
+	
+	self.focusList = {}
+	
+
+	self:SetWndPos(vector2():set(x,y))
+	self:SetWndSize(vector2():set(738,416))
+	self:SetAutoDelete(true)
+	self.handler = handler
+
+	self.scroll_v = xml:InitScrollView("video_adv:scroll_v", self)
+    handler.scroll_v = self.scroll_v
+
+	-- MTB-Damian.Romanik [JP2-444] Start: Hidden motion blur on NX64
+	if get_platform_id() ~= platform_ids.PLATFORM_NX64 then
+		_st = xml:InitStatic("video_adv:templ_item", nil)
+		caption = xml:InitStatic("video_adv:cap_mblur_pwr", _st)
+		ctl = xml:InitTrackBar("video_adv:track_mblur_pwr", _st)
+		table.insert(handler.m_preconditions, {func=all_modes, control=_st})
+		table.insert(self.focusList, {caption, ctl} )
+	end
+	-- MTB-Damian.Romanik [JP2-444] End: Hidden motion blur on NX64
+
+	_st = xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_vis_dist", _st)
+	ctl = xml:InitTrackBar("video_adv:track_vis_dist", _st)
+	table.insert(handler.m_preconditions, {func=all_modes, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+
+	_st	= xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_geometry_lod", _st)
+	ctl = xml:InitTrackBar("video_adv:track_geometry_lod", _st)
+	table.insert(handler.m_preconditions, {func=all_modes, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+
+	_st	= xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_texture_lod",	_st)
+	ctl = xml:InitTrackBar("video_adv:track_texture_lod", _st)
+	handler.texture_lod_track = ctl
+	table.insert(handler.m_preconditions, {func=all_modes, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+
+	_st = xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_aniso", _st)
+	ctl = xml:InitTrackBar("video_adv:track_aniso", _st)
+	table.insert(handler.m_preconditions, {func=all_modes, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+
+	_st = xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_detail_density", _st)
+	ctl = xml:InitTrackBar("video_adv:track_detail_density", _st)
+	table.insert(handler.m_preconditions, {func=all_modes, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+
+
+	_st = xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_r2_sun", _st)
+	ctl = xml:InitCheck("video_adv:check_r2_sun", _st)
+	table.insert(handler.m_preconditions, {func=mode_ge_2, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+
+	-- @MTB-bartlomiej.kumor: grass shadows
+	_st	= xml:InitStatic("video_adv:templ_item", nil)
+	caption	= xml:InitStatic("video_adv:cap_r2_sun_details", _st)
+	ctl	= xml:InitCheck("video_adv:check_r2_sun_details", _st)
+	table.insert(handler.m_preconditions, {func=mode_ge_2, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+
+	_st = xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_light_distance", _st)
+	ctl = xml:InitTrackBar("video_adv:track_light_distance", _st)
+	table.insert(handler.m_preconditions, {func=mode_ge_2a, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+
+	_st = xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_particles_distance", _st)
+	ctl = xml:InitTrackBar("video_adv:track_particles_distance", _st)
+	table.insert(handler.m_preconditions, {func=mode_ge_2a, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+	
+	_st = xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_grass_distance", _st)
+	ctl = xml:InitTrackBar("video_adv:track_grass_distance", _st)
+	table.insert(handler.m_preconditions, {func=mode_ge_2a, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+
+	_st = xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_npc_torch", _st)
+	ctl = xml:InitCheck("video_adv:check_npc_torch", _st)
+	table.insert(handler.m_preconditions, {func=all_modes, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+
+-- r1_detail_textures	r1 only
+	_st = xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_r1_detail_textures", _st)
+	ctl = xml:InitCheck("video_adv:check_r1_detail_textures", _st)
+	table.insert(handler.m_preconditions, {func=mode_1, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+
+-- r2_detail_bump			=>r2
+	_st = xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_r2_detail_bump", _st)
+	ctl = xml:InitCheck("video_adv:check_r2_detail_bump", _st)
+	table.insert(handler.m_preconditions, {func=mode_ge_2, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+
+-- r2_steep_parallax		>r2
+	_st = xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_r2_steep_parallax", _st)
+	ctl = xml:InitCheck("video_adv:check_r2_steep_parallax", _st)
+	table.insert(handler.m_preconditions, {func=mode_ge_25, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+
+	_st = xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_r2_sun_quality", _st)
+	ctl = xml:InitComboBox("video_adv:list_r2_sun_quality", _st)
+	table.insert(handler.m_preconditions, {func=mode_ge_25, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+
+	_st = xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_sun_shafts", _st)
+	ctl = xml:InitComboBox("video_adv:combo_sun_shafts", _st)
+	table.insert(handler.m_preconditions, {func=mode_ge_25, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+
+	if get_platform_id() == platform_ids.PLATFORM_WIN64 then
+		_st = xml:InitStatic("video_adv:templ_item", nil)
+		caption = xml:InitStatic("video_adv:cap_r4_sss", _st)
+		ctl = xml:InitCheck("video_adv:check_r4_sss", _st)
+		table.insert(handler.m_preconditions, {func=all_modes, control=_st})
+		table.insert(self.focusList, {caption,ctl,caption})
+		
+		_st = xml:InitStatic("video_adv:templ_item", nil)
+		caption = xml:InitStatic("video_adv:cap_r4_ssr", _st)
+		ctl = xml:InitCheck("video_adv:check_r4_ssr", _st)
+		table.insert(handler.m_preconditions, {func=all_modes, control=_st})
+		table.insert(self.focusList, {caption,ctl,caption} )
+		
+        _st = xml:InitStatic("video_adv:templ_item", nil)
+        caption = xml:InitStatic("video_adv:cap_async_compute", _st)
+        ctl = xml:InitCheck("video_adv:check_async_compute", _st)
+        table.insert(handler.m_preconditions, {func=all_modes, control=_st})
+        table.insert(self.focusList, {caption,ctl,caption} )
+		
+		_st = xml:InitStatic("video_adv:templ_item", nil)
+		caption = xml:InitStatic("video_adv:cap_ssgi", _st)
+		ctl = xml:InitCheck("video_adv:check_ssgi", _st)
+		table.insert(handler.m_preconditions, {func=mode_ge_25, control=_st})
+		self.ssgi_enable = {caption,ctl,caption}
+		table.insert(self.focusList, self.ssgi_enable )
+	end
+
+	_st = xml:InitStatic("video_adv:templ_item", nil)
+if not self.mm_is_controller then
+	-- option group box in kbdmouse
+	_st:SetWndSize(vector2():set(_st:GetWidth(), 106))
+	caption = xml:InitStatic("video_adv:cap_ao", _st)
+	ctl = xml:InitTab("video_adv:radio_tab_ao_options", _st)
+	handler.tab_ao_opt = ctl
+	handler:Register(ctl, "tab_ao_opt")
+elseif not is_gaming_console() then
+	caption = xml:InitStatic("video_adv:cap_ao_c", _st)
+	ctl = xml:InitComboBox("video_adv:combo_ao_options", _st)
+	handler.tab_ao_opt = ctl
+	handler:Register(ctl, "tab_ao_opt")
+end
+	table.insert(handler.m_preconditions, {func=mode_ge_25, control=_st})
+	self.ssao_enable = {caption,ctl,caption}
+	table.insert(self.focusList, self.ssao_enable )
+
+	_st = xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_ssao", _st)
+	ctl = xml:InitComboBox("video_adv:combo_ssao", _st)
+	handler.combo_ssao = ctl
+	handler.combo_ssao:disable_id(0)
+	table.insert(handler.m_preconditions, {func=mode_ge_25, control=_st})
+	self.ssao_quality = {caption,ctl,caption}
+	table.insert(self.focusList, self.ssao_quality )
+
+	_st = xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_soft_water", _st)
+	ctl = xml:InitCheck("video_adv:check_soft_water", _st)
+	table.insert(handler.m_preconditions, {func=mode_ge_25, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+
+	-- mtb_atena.bogusz Begin: [JP2-1910] soft particles always on
+--	_st = xml:InitStatic("video_adv:templ_item", nil)
+--	caption = xml:InitStatic("video_adv:cap_soft_particles", _st)
+--	ctl = xml:InitCheck("video_adv:check_soft_particles", _st)
+--	table.insert(handler.m_preconditions, {func=mode_ge_25, control=_st})
+--	table.insert(self.focusList, {caption, ctl} )
+	-- mtb_atena.bogusz End: 
+
+	_st = xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_dof", _st)
+	ctl = xml:InitCheck("video_adv:check_dof", _st)
+	table.insert(handler.m_preconditions, {func=mode_ge_25, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+
+	_st = xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_volumetric_light", _st)
+	ctl = xml:InitCheck("video_adv:check_volumetric_light", _st)
+	table.insert(handler.m_preconditions, {func=mode_ge_25, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+
+-- r3_dynamic_wet_surfaces	>r25
+	_st = xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_r3_dynamic_wet_surfaces", _st)
+	ctl = xml:InitCheck ("video_adv:check_r3_dynamic_wet_surfaces", _st)
+	table.insert(handler.m_preconditions, {func=mode_ge_3, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+
+-- r3_volumetric_smoke		>r25
+	_st = xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_r3_volumetric_smoke", _st)
+	ctl = xml:InitCheck("video_adv:check_r3_volumetric_smoke", _st)
+	table.insert(handler.m_preconditions, {func=mode_ge_3, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+
+-- r4_enable_tessellation		only r4
+	_st = xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_r4_tessellation", _st)
+	ctl = xml:InitCheck("video_adv:check_r4_tessellation", _st)
+	table.insert(handler.m_preconditions, {func=mode_4, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+
+	_st = xml:InitStatic("video_adv:templ_item", nil)
+	caption = xml:InitStatic("video_adv:cap_ssample", _st)
+	ctl = xml:InitComboBox("video_adv:combo_aa_method", _st)
+	self.aaMethodInfo = {}
+	self.aaMethodInfo.caption = caption
+	self.aaMethodInfo.ctl = ctl
+	table.insert(handler.m_preconditions, {func=all_modes, control=_st})
+	table.insert(self.focusList, {caption, ctl} )
+
+	if get_platform_id() == platform_ids.PLATFORM_WIN64 then
+
+		_st	= xml:InitStatic("video_adv:templ_item", nil)
+		caption	= xml:InitStatic("video_adv:cap_texture_bias",	_st)
+		ctl	= xml:InitTrackBar("video_adv:track_texture_bias", _st)
+		handler.texture_bias_track = ctl
+		table.insert(handler.m_preconditions, {func=all_modes, control=_st})
+		table.insert(self.focusList, {caption, ctl} )
+
+		_st	= xml:InitStatic("video_adv:templ_item", nil)
+		caption	= xml:InitStatic("video_adv:cap_texture_bias_note",	_st)
+		table.insert(handler.m_preconditions, {func=all_modes, control=_st})
+		table.insert(self.focusList, {caption} )
+
+		_st = xml:InitStatic("video_adv:templ_item", nil)
+		caption = xml:InitStatic("video_adv:cap_r4_fsr", _st)
+		ctl = xml:InitComboBox("video_adv:combo_r4_fsr", _st)
+		table.insert(handler.m_preconditions, {func=all_modes, control=_st})
+		self.fsrInfo = {}
+		self.fsrInfo.caption = caption
+		self.fsrInfo.ctl = ctl
+		self.fsr_enable = {caption,ctl,caption}
+		table.insert(self.focusList, self.fsr_enable )
+		
+		ColorEnabled = caption:GetTextColor()
+		
+		_st = xml:InitStatic("video_adv:templ_item", nil)
+		caption = xml:InitStatic("video_adv:cap_r4_upscale_quality", _st)
+		ctl = xml:InitComboBox("video_adv:combo_r4_upscale_quality", _st)
+		table.insert(handler.m_preconditions, {func=all_modes, control=_st})
+		self.upscale_quality = {caption,ctl,caption}
+		table.insert(self.focusList, self.upscale_quality)
+		
+		_st = xml:InitStatic("video_adv:templ_item", nil)
+		caption = xml:InitStatic("video_adv:cap_r4_fsr_sharpen", _st)
+		ctl = xml:InitCheck("video_adv:check_r4_fsr_sharpen", _st)
+		table.insert(handler.m_preconditions, {func=all_modes, control=_st})
+		self.fsr_sharpen = {caption,ctl,caption}
+		table.insert(self.focusList, self.fsr_sharpen)
+		
+		_st = xml:InitStatic("video_adv:templ_item", nil)
+		caption = xml:InitStatic("video_adv:cap_r4_fsr_sharpness", _st)
+		ctl = xml:InitTrackBar("video_adv:track_r4_frs_sharpness", _st)
+		table.insert(handler.m_preconditions, {func=all_modes, control=_st})
+		self.fsr_sharpness = {caption,ctl,caption}
+		table.insert(self.focusList, self.fsr_sharpness )
+		
+		_st = xml:InitStatic("video_adv:templ_item", nil)
+		caption = xml:InitStatic("video_adv:cap_r4_fsr_frame_generation", _st)
+		ctl = xml:InitCheck("video_adv:check_r4_fsr_frame_generation", _st)
+		table.insert(handler.m_preconditions, {func=all_modes, control=_st})
+		self.fsr_generation = {caption,ctl,caption}
+		table.insert(self.focusList, self.fsr_generation )
+	
+	end
+---------
+
+	if not self.mm_is_controller then
+		btn = xml:Init3tButton("video_adv:btn_to_simply", self)
+		handler:Register(btn, "btn_simply_graphic")
+	end
+end
+
+function opt_video_adv:update_fsr_aa_conflicts()
+	if self.aaMethodInfo ~= nil and self.fsrInfo ~= nil then
+		self:enable_fsr_aa(self.fsrInfo, self.aaMethodInfo.ctl:GetItemIDX() == 0)
+		self:enable_fsr_aa(self.aaMethodInfo, self.fsrInfo.ctl:GetItemIDX() == 0)
+	end
+end
+
+function opt_video_adv:enable_fsr_aa(info, enable)
+	if info.enabled == nil or enable ~= info.enabled then
+		info.enabled = enable
+		if enable then
+			info.caption:SetTextColorN(ColorEnabled)
+		else
+			info.ctl:SetItemIDX(0)
+			info.caption:SetTextColor(ColorDisabled[0], ColorDisabled[1], ColorDisabled[2], ColorDisabled[3])
+		end
+		info.ctl:Enable(enable)
+	end
+end
+
+function opt_video_adv:is_fsr_generation_enabled()
+	if self.fsrInfo ~= nil and self.fsr_generation ~= nil then
+		return self.fsrInfo.ctl:GetItemIDX() ~= 0 and self.fsr_generation[2]:GetCheck()
+	end
+
+	return false
+end
+
+function opt_video_adv:update_fsr_sharpness(state)
+	if state ~= bOldFSRSharpnessState or self.forceUpdate then
+		self.fsr_sharpness[2]:Enable(state)
+		if state then
+			self.fsr_sharpness[1]:SetTextColorN(ColorEnabled)
+		else
+			self.fsr_sharpness[1]:SetTextColor(ColorDisabled[0], ColorDisabled[1], ColorDisabled[2], ColorDisabled[3])
+		end
+		bOldFSRSharpnessState = state
+	end
+end
+
+function opt_video_adv:update_fsr_settings(vsync_enabled)
+	if get_platform_id() == platform_ids.PLATFORM_WIN64 then
+		local state = self.fsr_enable[2]:CurrentID()
+		local upscaleEnabled = state > 0
+		local fsrEnabled = self.fsr_enable[2]:CurrentID() == 1
+		local dlssEnabled = self.fsr_enable[2]:CurrentID() == 2
+
+		if ColorEnabled == nil then
+			ColorEnabled = self.fsr_enable[1]:GetTextColor()
+		end
+
+		self:update_fsr_aa_conflicts()
+		
+		if state == bOldState and not self.forceUpdate then
+			if fsrEnabled then
+				self:update_fsr_sharpness(self.fsr_sharpen[2]:GetCheck())
+			end
+			return
+		end
+
+		local console			= get_console()	
+
+		local isOver60fps = false
+		if self.handler.dlg_video.frame_limit ~= nil then
+			text = self.handler.dlg_video.frame_limit.element:GetText()
+			text = text:gsub('%D','')
+			fps = tonumber(text) == nil and 0 or tonumber(text)
+			isOver60fps = fps >= 60 or #text == 0 --check if fps >= 60 or is text without numbers (unlimited option)
+		end
+
+		self.fsr_sharpen[2]:SetVisible(fsrEnabled)
+		self.fsr_sharpen[3].hidden = not fsrEnabled
+		self.fsr_sharpness[2]:SetVisible(fsrEnabled)
+		self.fsr_sharpness[3].hidden = not fsrEnabled
+
+		local fsr_generation_enable = fsrEnabled and isOver60fps and not vsync_enabled
+		self.fsr_generation[2]:SetVisible(fsr_generation_enable)
+		self.fsr_generation[3].hidden = not fsr_generation_enable
+		if fsr_generation_enable then
+			self.fsr_generation[1]:SetTextColorN(ColorEnabled)
+		else
+			if upscaleEnabled and isOver60fps and vsync_enabled then
+				self.fsr_generation[2]:SetCheck(false)
+			end
+			console:execute("mtb_fsr_frame_generation off")
+			self.fsr_generation[1]:SetTextColor(ColorDisabled[0], ColorDisabled[1], ColorDisabled[2], ColorDisabled[3])
+		end
+
+		self.upscale_quality[2]:SetVisible(upscaleEnabled)
+		self.upscale_quality[3].hidden = not upscaleEnabled
+
+		if upscaleEnabled then
+			console:execute			("mtb_render_jitter on")
+			console:execute			("mtb_render_velocity on")
+			
+			self.upscale_quality[1]:SetTextColorN(ColorEnabled)
+			if fsrEnabled then
+				self.fsr_sharpen[1]:SetTextColorN(ColorEnabled)
+				self:update_fsr_sharpness(self.fsr_sharpen[2]:GetCheck())
+			else
+				self.fsr_sharpen[1]:SetTextColor(ColorDisabled[0], ColorDisabled[1], ColorDisabled[2], ColorDisabled[3])
+				self:update_fsr_sharpness(false)
+			end
+		else
+			console:execute			("mtb_render_jitter off")
+			console:execute			("mtb_render_velocity off")
+			
+			self.fsr_sharpen[1]:SetTextColor(ColorDisabled[0], ColorDisabled[1], ColorDisabled[2], ColorDisabled[3])
+			self.upscale_quality[1]:SetTextColor(ColorDisabled[0], ColorDisabled[1], ColorDisabled[2], ColorDisabled[3])
+			
+			self:update_fsr_sharpness(false)
+		end
+
+		bOldState = state
+		self.scroll_v:ForceUpdate()
+	end
+end
+
+function opt_video_adv:update_ssgi_ssao_settings()
+	if get_platform_id() == platform_ids.PLATFORM_WIN64 then
+		local ssgi_state = self.ssgi_enable[2]:GetCheck()
+		local ssao_state = false
+		if not self.mm_is_controller then
+			ssao_state = self.ssao_enable[2]:GetActiveId() ~= "st_opt_off"
+		else
+			ssao_state = self.ssao_enable[2]:CurrentID() > 0
+		end
+
+		if bOldStateSSGI == ssgi_state and bOldStateSSAO == ssao_state and not self.forceUpdate then
+			return
+		end
+
+		if ColorEnabled == nil then
+			ColorEnabled = self.ssgi_enable[1]:GetTextColor()
+		end
+
+		bOldStateSSGI = ssgi_state
+		bOldStateSSAO = ssao_state
+
+		self.ssgi_enable[2]:SetVisible(not ssao_state)
+		self.ssao_enable[2]:SetVisible(not ssgi_state)
+		self.ssao_quality[2]:SetVisible((not ssgi_state) and ssao_state)
+
+		self.ssgi_enable[3].hidden = ssao_state
+		self.ssao_enable[3].hidden = ssgi_state
+		self.ssao_quality[3].hidden = (ssgi_state or (not ssao_state))
+
+		if not ssgi_state then
+			self.ssao_enable[1]:SetTextColorN(ColorEnabled)
+			if ssao_state then
+				self.ssao_quality[1]:SetTextColorN(ColorEnabled)
+			else
+				self.ssao_quality[1]:SetTextColor(ColorDisabled[0], ColorDisabled[1], ColorDisabled[2], ColorDisabled[3])
+			end
+		else
+			self.ssao_enable[1]:SetTextColor(ColorDisabled[0], ColorDisabled[1], ColorDisabled[2], ColorDisabled[3])
+			self.ssao_quality[1]:SetTextColor(ColorDisabled[0], ColorDisabled[1], ColorDisabled[2], ColorDisabled[3])
+		end
+
+		if not ssao_state then
+			self.ssgi_enable[1]:SetTextColorN(ColorEnabled)
+		else
+			self.ssgi_enable[1]:SetTextColor(ColorDisabled[0], ColorDisabled[1], ColorDisabled[2], ColorDisabled[3])
+		end
+
+		self.forceUpdate = false
+		self.scroll_v:ForceUpdate()
+	end
+end

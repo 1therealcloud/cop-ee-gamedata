@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_af_baloon_descr">
+		<text>속이 빈 유기 물질로 이루어진 이 아티팩트는 체내 방사능 입자를 중화하는 가스를 방출합니다. 이 가스는 신체에는 아무 악영향도 끼치지 않습니다. 효율성이 높아 수요가 매우 많은 아티팩트입니다.</text>
+	</string>
+
+	<string id="st_af_baloon_name">
+		<text>버블</text>
+	</string>
+
+	<string id="st_af_blood_descr">
+		<text>식물 부스러기와 흙, 뼈가 화석화된 상태로 압축되어 만들어지는 붉은색 물질입니다. 화학적으로 생성된 독성 물질을 중화하는 성질이 있습니다. 방사능을 방출합니다.</text>
+	</string>
+
+	<string id="st_af_blood_name">
+		<text>스톤 블러드</text>
+	</string>
+
+	<string id="st_af_cristall_descr">
+		<text>극한의 고온을 방출하는 존의 이상 현상 안에서 생성되는 아티팩트입니다. 대량의 열을 흡수하는데도 불구하고 표면이 차갑게 유지됩니다. 방사능을 방출합니다.</text>
+	</string>
+
+	<string id="st_af_cristall_flower_descr">
+		<text>강력한 중력의 영향으로 변형된 돌로, 화강암과 유사한 형태를 띠고 있습니다. 이 아티팩트의 결정화된 형태는 아직 현대 과학으로는 설명할 수 없습니다. 정신파 에미션을 어느 정도 막아주는 효과가 있습니다. 방사능을 방출합니다.</text>
+	</string>
+
+	<string id="st_af_cristall_flower_name">
+		<text>스톤 플라워</text>
+	</string>
+
+	<string id="st_af_cristall_name">
+		<text>크리스털</text>
+	</string>
+
+	<string id="st_af_dummy_battery_descr">
+		<text>이 아티팩트 안에 유전체 성분이 들어있다는 사실은 밝혀졌지만, 어떤 물리적 환경에서 형성될 수 있는지는 수수께끼로 남아 있습니다. 이 아티팩트는 소지자의 에너지를 높이는 효과가 있어, 존 거주자들이나 방문객들 사이에서 인기가 많습니다. 그러나 오래 사용하면 신체 피로가 증가한다는 단점이 있습니다. 방사능을 방출합니다.</text>
+	</string>
+
+	<string id="st_af_dummy_battery_name">
+		<text>배터리</text>
+	</string>
+
+	<string id="st_af_dummy_dummy_descr">
+		<text>한때 이 아티팩트는 유용한 특성이 없어서 쓰레기 취급을 받았습니다. 하지만 최근에 과학자들이 이 물질에도 유용한 점이 있다는 사실을 밝혀냈습니다. 이 아티팩트를 몸에 계속 지니고 있으면, 소지자의 신경계를 활성화하는 효과가 있습니다. 방사능을 방출합니다.</text>
+	</string>
+
+	<string id="st_af_dummy_dummy_name">
+		<text>셸</text>
+	</string>
+
+	<string id="st_af_dummy_glassbeads_descr">
+		<text>과학자들에게는 미스터리 그 자체인 아티팩트입니다. 이 아티팩트의 두꺼운 부분은 끊임없이 진동하며 파장을 생성하는데, 이 파장은 상처 부위의 혈액 응고 속도를 높여 딱지가 빨리 앉게 하는 효과가 있습니다. 따라서 소지자의 상처 회복 속도가 눈에 띄게 빨라집니다. 방사능을 방출합니다.</text>
+	</string>
+
+	<string id="st_af_dummy_glassbeads_name">
+		<text>어머니의 묵주</text>
+	</string>
+
+	<string id="st_af_electra_flash_descr">
+		<text>정전기를 일으키는 이 아티팩트는 전하를 흡수하는 성질을 갖고 있으며, 흡수된 전하는 나중에 다시 방출됩니다. 플래시는 최대 5,000볼트까지의 전기 충격을 차단할 수 있습니다. 방사능을 방출합니다.</text>
+	</string>
+
+	<string id="st_af_electra_flash_name">
+		<text>플래시</text>
+	</string>
+
+	<string id="st_af_electra_moonlight_descr">
+		<text>정전기를 발생시키는 이 독특한 아티팩트는 Psi 파장의 영향을 받으면 공진을 일으킵니다. 이 아티팩트를 잘 조정하면 Psi 파장과 반대되는 진동수를 만들어 Psi 에미션의 강도를 크게 낮출 수 있습니다. 방사능을 방출합니다.</text>
+	</string>
+
+	<string id="st_af_electra_moonlight_name">
+		<text>문라이트</text>
+	</string>
+
+	<string id="st_af_electra_sparkler_descr">
+		<text>정전기 계열 아티팩트를 대표하는 빛나는 물질입니다. 이 아티팩트는 전기장의 밀도를 안정시키는 효과가 있습니다. 방사능을 방출합니다.</text>
+	</string>
+
+	<string id="st_af_electra_sparkler_name">
+		<text>스파클러</text>
+	</string>
+
+	<string id="st_af_eye_descr">
+		<text>인간의 눈을 닮은 아티팩트입니다. 신진대사를 크게 촉진해 상처 회복 속도를 증가시킵니다. 경험 많은 스토커들은 이 "눈"이 행운을 불러온다고 믿기도 합니다. 방사능을 방출합니다.</text>
+	</string>
+
+	<string id="st_af_eye_name">
+		<text>눈</text>
+	</string>
+
+	<string id="st_af_fire_descr">
+		<text>고열이 발생하는 지역에서 생성되는 아티팩트입니다. 이 아티팩트는 강력한 적외선 파장을 생성하는데, 이 파장은 소지자의 신진대사를 극대화하여 눈 깜짝할 사이에 상처를 치유합니다. 굉장히 희귀한 만큼 가격 또한 매우 높습니다. 방사능을 방출합니다.</text>
+	</string>
+
+	<string id="st_af_fire_name">
+		<text>플레임</text>
+	</string>
+
+	<string id="st_af_fireball_descr">
+		<text>파이어볼은 열 계열의 아티팩트인데도 그렇게 뜨겁지는 않습니다. 맨손으로 만질 수 있을 정도입니다. 이 아티팩트는 어떠한 상황에서도 효과 반경 안의 온도를 24도로 유지해 줍니다. 방사능을 방출합니다.</text>
+	</string>
+
+	<string id="st_af_fireball_name">
+		<text>파이어볼</text>
+	</string>
+
+	<string id="st_af_fuzz_kolobok_descr">
+		<text>꽤나 희귀한 아티팩트로, 화학 물질로 오염된 지역에서 형성됩니다. 콜로복은 어떤 상처든 몇 분 안에 치유하는 능력을 갖고 있어 가치가 상당히 높습니다. 이유는 알 수 없지만, 과학자들은 이 아티팩트가 소지자의 유전자 코드와 상호작용한다는 소문을 스토커들 사이에 퍼뜨리고 있습니다. 방사능을 방출합니다.</text>
+	</string>
+
+	<string id="st_af_fuzz_kolobok_name">
+		<text>콜로복</text>
+	</string>
+
+	<string id="st_af_glass_name">
+		<text>파이어플라이</text>
+	</string>
+
+	<string id="st_af_gold_fish_descr">
+		<text>여러 중력장 간의 상호작용을 통해 탄생한 아티팩트 골드피쉬는 자체적인 방향성을 지닌 강력한 중력장을 만들어 냅니다. 이 중력장의 반경 안에 있는 물건을 들면 무게를 거의 느낄 수 없습니다. 이 아티팩트는 운반 능력을 크게 향상시키는 효과가 있어 늘 수요가 많습니다. 방사능을 방출합니다.</text>
+	</string>
+
+	<string id="st_af_gold_fish_name">
+		<text>골드피쉬</text>
+	</string>
+
+	<string id="st_af_gravi_descr">
+		<text>금속이 장기간 강력한 중력의 영향을 받으면 그래비라는 아티팩트로 변형됩니다. 스토커들은 이 물질이 만들어 내는 역중력장을 이용해 배낭의 무게를 줄입니다. 방사능을 방출합니다.</text>
+	</string>
+
+	<string id="st_af_gravi_name">
+		<text>그래비</text>
+	</string>
+
+	<string id="st_af_ice_descr">
+		<text>외견상으로는 아티팩트 "콜로복"과 유사한 물질입니다. 콜로복이 강력한 전기장에 노출되어 그 특성이 강화되면 이 아티팩트가 생성된다는 주장도 있습니다. 독특한 성질을 가진 이 아티팩트는 소지자의 근력을 크게 향상시킵니다. 방사능을 방출합니다.</text>
+	</string>
+
+	<string id="st_af_ice_name">
+		<text>스노우플레이크</text>
+	</string>
+
+	<string id="st_af_medusa_descr">
+		<text>중력의 영향으로 형성된 아티팩트입니다. 방사성 입자를 흡수하여, 신체에 미치는 방사능의 영향을 줄이는 효과가 있습니다. 존 안에서는 매우 흔한 물질이지만, 존 바깥에서는 암암리에 급성 방사선 질병 치료에 사용됩니다.</text>
+	</string>
+
+	<string id="st_af_medusa_name">
+		<text>젤리피쉬</text>
+	</string>
+
+	<string id="st_af_mincer_meat_descr">
+		<text>이 유기성 아티팩트는 변형 및 변이된 동물 조직으로 이루어져 있습니다. 화학 물질에 오염된 지역에서 진가를 발휘하는 물질로, 공기 중의 독소를 점액질 액체로 변형시키는 효과가 있습니다. 방사능을 방출합니다.</text>
+	</string>
+
+	<string id="st_af_mincer_meat_name">
+		<text>미트 청크</text>
+	</string>
+
+	<string id="st_af_night_star_descr">
+		<text>이 빛나는 아티팩트의 주변에는 방향성을 지닌 저중력 환경이 형성됩니다. 그래비와 마찬가지로 소지자의 최대 운반량을 높이는 효과가 있어 스토커 사이에서 인기가 많습니다. 방사능을 방출합니다.</text>
+	</string>
+
+	<string id="st_af_night_star_name">
+		<text>나이트 스타</text>
+	</string>
+
+	<string id="st_af_soul_descr">
+		<text>유기물로 이루어진 독특한 아티팩트로, 그 특성 또한 매우 독특합니다. 이유는 알 수 없지만, 이 아티팩트는 체내 독소 축적을 가속하지 않으면서도 신체의 전반적인 회복력을 크게 향상시킵니다. 우수한 성능과 아름다운 외관 덕분에, 수집가들에게도 인기 있는 아티팩트입니다. 방사능을 방출합니다.</text>
+	</string>
+
+	<string id="st_af_soul_name">
+		<text>소울</text>
+	</string>
+
+	<string id="st_af_vyvert_descr">
+		<text>기괴한 형태를 띤 이 아티팩트는 강한 중력이 작용하는 지역에서 주로 발견됩니다. 방사능 원소를 스펀지처럼 빨아들이는 특징이 있습니다. 따라서 이 아티팩트를 소지하고 있으면, 이미 체내에 쌓인 방사능 입자뿐 아니라 외부의 방사능으로부터도 보호받을 수 있습니다.</text>
+	</string>
+
+	<string id="st_af_vyvert_name">
+		<text>랜치드</text>
+	</string>
+
+	<string id="st_compass">
+		<text>나침반</text>
+	</string>
+
+	<string id="st_compass_descr">
+		<text>희귀한 아티팩트로 몇 년 전에 하나가 발견된 후로는 지금까지 모습을 드러낸 적이 없습니다. 이 아티팩트는 이상 현상 구역의 틈을 발견할 수 있어서 나침반으로 활용할 수 있습니다. 이 아티팩트만 있으면 가장 복잡한 이상 현상 구역도 안전하게 통과할 수 있다고 합니다. 하지만 이걸 제대로 사용할 줄 아는 사람은 매우 적습니다.</text>
+	</string>
+
+	<string id="st_oasis_heart">
+		<text>오아시스의 심장</text>
+	</string>
+
+	<string id="st_oasis_heart_descr">
+		<text>이 아티팩트는 존의 전설적인 지역인 오아시스의 중심부에서 발견되었습니다. 이 심장은 결정화된 식물로 추정되며, 오아시스와 마찬가지로 치유 효과가 있습니다. 그러나 오아시스와는 달리 이 아티팩트는 엄청난 양의 방사능을 방출합니다.</text>
+	</string>
+
+	<string id="st_af_glass_descr">
+		<text>파이어플라이는 현대 과학으로 정체를 알 수 없는 특정 파장에 반응해 생명체의 신진대사를 정상화하고, 세포와 장기의 재생 속도를 크게 상승시킵니다. 이 아티팩트는 심각한 상처를 입은 스토커조차 몇 초 안에 멀쩡한 상태로 만들어 버립니다. 성능이 뛰어난 만큼 극도로 희귀합니다. 방사능을 방출합니다.</text>
+	</string>
+
+</string_table>

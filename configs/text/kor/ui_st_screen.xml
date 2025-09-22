@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_ach_balance_advocate">
+		<text>균형의 달인 도전과제를 달성했습니다.</text>
+	</string>
+
+	<string id="st_ach_battle_systems_master">
+		<text>병기 전문가 도전과제를 달성했습니다.</text>
+	</string>
+
+	<string id="st_ach_detective">
+		<text>탐정 도전과제를 달성했습니다.</text>
+	</string>
+
+	<string id="st_ach_diplomat">
+		<text>외교관 도전과제를 달성했습니다.</text>
+	</string>
+
+	<string id="st_ach_friend_of_duty">
+		<text>듀티의 친구 도전과제를 달성했습니다.</text>
+	</string>
+
+	<string id="st_ach_friend_of_freedom">
+		<text>프리덤의 친구 도전과제를 달성했습니다.</text>
+	</string>
+
+	<string id="st_ach_friend_of_stalkers">
+		<text>스토커의 친구 도전과제를 달성했습니다.</text>
+	</string>
+
+	<string id="st_ach_herald_of_justice">
+		<text>정의의 배달부 도전과제를 달성했습니다.</text>
+	</string>
+
+	<string id="st_ach_high_tech_master">
+		<text>첨단 기술 전문가 도전과제를 달성했습니다.</text>
+	</string>
+
+	<string id="st_ach_information_dealer">
+		<text>정보 거래상 도전과제를 달성했습니다.</text>
+	</string>
+
+	<string id="st_ach_keeper_of_secrets">
+		<text>비밀 관리자 도전과제를 달성했습니다.</text>
+	</string>
+
+	<string id="st_ach_kingpin">
+		<text>두목 도전과제를 달성했습니다.</text>
+	</string>
+
+	<string id="st_ach_leader">
+		<text>지도자 도전과제를 달성했습니다.</text>
+	</string>
+
+	<string id="st_ach_mutant_hunter">
+		<text>돌연변이 사냥꾼 도전과제를 달성했습니다.</text>
+	</string>
+
+	<string id="st_ach_one_of_the_lads">
+		<text>우리의 일원 도전과제를 달성했습니다.</text>
+	</string>
+
+	<string id="st_ach_pioneer">
+		<text>개척자 도전과제를 달성했습니다.</text>
+	</string>
+
+	<string id="st_ach_research_man">
+		<text>연구 조수 도전과제를 달성했습니다.</text>
+	</string>
+
+	<string id="st_ach_seeker">
+		<text>아티팩트 사냥꾼 도전과제를 달성했습니다.</text>
+	</string>
+
+	<string id="st_ach_skilled_stalker">
+		<text>노련한 스토커 도전과제를 달성했습니다.</text>
+	</string>
+
+	<string id="st_ach_wealthy">
+		<text>부유한 손님 도전과제를 달성했습니다.</text>
+	</string>
+
+	<string id="st_press_any_key">
+		<text>진행하려면 아무 키나 누르세요.</text>
+		<text_ps4>플레이하려면 아무 버튼이나 누르십시오</text_ps4>
+		<text_nx64>계속하기</text_nx64>
+	</string>
+
+	<string id="actor_inventory_box_use">
+		<text>개인 상자 열기 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="cant_walk">
+		<text>너무 지쳐서 움직일 수 없습니다</text>
+	</string>
+
+	<string id="cant_walk_weight">
+		<text>너무 무거워서 움직일 수 없습니다</text>
+	</string>
+
+	<string id="car_character_use">
+		<text>문 열기 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="character_use">
+		<text>대화하기 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="dead_character_use">
+		<text>시체 수색 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="dead_character_use_or_drag">
+		<text>시체 수색 ($$ACTION_USE$$)\n시체 옮기기 (SHIFT+$$ACTION_USE$$)</text>
+	</string>
+
+	<string id="general_complete_task">
+		<text>임무 완료:</text>
+	</string>
+
+	<string id="general_fail_task">
+		<text>임무 실패:</text>
+	</string>
+
+	<string id="general_in_item">
+		<text>아이템 획득:</text>
+	</string>
+
+	<string id="general_in_money">
+		<text>자금 획득:</text>
+	</string>
+
+	<string id="general_new_task">
+		<text>신규 임무:</text>
+	</string>
+
+	<string id="general_out_item">
+		<text>아이템 상실:</text>
+	</string>
+
+	<string id="general_out_money">
+		<text>자금 상실:</text>
+	</string>
+
+	<string id="general_reverse_task">
+		<text>임무 취소:</text>
+	</string>
+
+	<string id="general_update_task">
+		<text>임무 갱신:</text>
+	</string>
+
+	<string id="gun_jammed">
+		<text>탄 걸림 현상 발생. 재장전하세요.</text>
+	</string>
+
+	<string id="inventory_box_use">
+		<text>상자 수색 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="inventory_item_use">
+		<text>아이템 습득 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="jup_b10_ufo_searching_tips">
+		<text>항공기 수색 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="jup_b1_bar_door">
+		<text>문 막힘</text>
+	</string>
+
+	<string id="jup_b1_door_is_closed">
+		<text>문이 안에서 잠겼습니다.</text>
+	</string>
+
+	<string id="jup_b202_treasures_closed">
+		<text>금고 잠김</text>
+	</string>
+
+	<string id="jup_b205_tip_door_closed">
+		<text>암호 필요</text>
+	</string>
+
+	<string id="jup_b205_tip_door_decode">
+		<text>암호 입력 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="jup_b206_use_plant">
+		<text>식물 확보 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="jup_b209_scanner_place_tips">
+		<text>스캐너 설치 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="jup_b209_scanner_remove_tips">
+		<text>스캐너 확보 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="lx8_raduga">
+		<text>레인보우 공격성 억제기\n외부 에미션 단지 모형\n축적 1:20</text>
+	</string>
+
+	<string id="pas_b400_tip_switcher">
+		<text>스위치 작동하기 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="pri_a18_use_idol">
+		<text>장치 조사하기 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="pri_a25_blow_up_enter_door">
+		<text>폭발물 설치 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="pri_a28_talk_with_stupid_medic">
+		<text>회수하기 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="pri_b306_elevator_door_locked_used">
+		<text>엘리베이터에 전력이 없습니다.</text>
+	</string>
+
+	<string id="pri_b306_generator_use">
+		<text>발전기 작동하기 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="sleep_ok_button">
+		<text>수면</text>
+	</string>
+
+	<string id="sleep_warning_all_pleasures">
+		<text>출혈 및 방사능 노출이 심해 잠들 수 없습니다. 의약품을 사용하거나 의무병을 만나세요.</text>
+	</string>
+
+	<string id="sleep_warning_bleeding">
+		<text>출혈이 심해 잠들 수 없습니다. 의약품을 사용하거나 의무병을 만나세요.</text>
+	</string>
+
+	<string id="sleep_warning_radiation">
+		<text>방사능 노출이 심해 잠들 수 없습니다. 의약품을 사용하거나 의무병을 만나세요.</text>
+	</string>
+
+	<string id="sleep_zone_tip">
+		<text>수면 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="st_autosave">
+		<text>자동 저장 중...</text>
+	</string>
+
+	<string id="st_can_use_weapon_now">
+		<text>이제 무기를 꺼낼 수 있습니다.</text>
+	</string>
+
+	<string id="st_codelock">
+		<text>암호 잠김 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="st_detective_news">
+		<text>실종된 스토커들의 비밀을 푼 대가로 스카도프스크의 개인 상자에 의약용품이 배송되었습니다.</text>
+	</string>
+
+	<string id="st_duty_first_reward_news">
+		<text>듀티를 도운 대가로 야노우의 개인 상자에 PS5-M 표준 보호구가 배송되었습니다.</text>
+	</string>
+
+	<string id="st_duty_second_reward_news">
+		<text>듀티를 도운 대가로 야노우의 개인 상자에 PSZ-9d 듀티 방탄복이 배송되었습니다.</text>
+	</string>
+
+	<string id="st_freedom_first_reward_news">
+		<text>프리덤을 도운 대가로 야노우의 개인 상자에 자유의 바람 방탄복이 배송되었습니다.</text>
+	</string>
+
+	<string id="st_freedom_second_reward_news">
+		<text>프리덤을 도운 대가로 야노우의 개인 상자에 자유의 수호자 방탄복이 배송되었습니다.</text>
+	</string>
+
+	<string id="st_freeplay_text_ok">
+		<text>헬리콥터가 있는 곳에 도달하지 못했습니다. 구조대가 당신을 태우지 않고 존을 떠났습니다.</text>
+	</string>
+
+	<string id="st_freeplay_text_yes_no">
+		<text>존을 떠나시겠습니까? 한번 떠나면 다시 돌아올 수 없습니다.</text>
+	</string>
+
+	<string id="st_game_over">
+		<text>게임 오버</text>
+	</string>
+
+	<string id="st_game_over_press_jump">
+		<text>($$ACTION_JUMP$$) 버튼: 메인 메뉴로 나가기</text>
+	</string>
+
+	<string id="st_game_paused">
+		<text>일시 정지</text>
+	</string>
+
+	<string id="st_game_saved">
+		<text>게임 저장 완료</text>
+	</string>
+
+	<string id="st_herald_of_justice_news">
+		<text>맥파이의 정체를 드러낸 대가로 스카도프스크의 개인 상자에 아티팩트가 배송되었습니다.</text>
+	</string>
+
+	<string id="st_jup_b41_door_locked">
+		<text>출입구가 완전히 밀폐될 때까지 기다려야 합니다.</text>
+	</string>
+
+	<string id="st_lx8_button_press_true">
+		<text>접근 허가됨</text>
+	</string>
+
+	<string id="st_lx8_lift_button">
+		<text>엘리베이터 상승 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="st_pri_b306_go_down">
+		<text>엘리베이터 하강 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="st_psy_danger">
+		<text>Psi 에미션이 위험 수준입니다. 즉시 위험 구역을 떠나세요.</text>
+	</string>
+
+	<string id="st_radiation_danger">
+		<text>방사능이 위험 수준입니다. 진행하려면 보호 조치가 필요합니다.</text>
+	</string>
+
+	<string id="st_search_helicopter">
+		<text>헬리콥터 조사하기 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="st_search_treasure">
+		<text>은닉처 수색 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="st_sleep_hours">
+		<text>시</text>
+	</string>
+
+	<string id="st_tip">
+		<text>메시지</text>
+	</string>
+
+	<string id="tip_door_blocked">
+		<text>문 막힘</text>
+	</string>
+
+	<string id="tip_door_close">
+		<text>문 닫기 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="tip_door_closed_base_alarm">
+		<text>출입문 봉쇄 - 야영지에 경보가 작동했습니다.</text>
+	</string>
+
+	<string id="tip_door_closed_hide_weapon">
+		<text>출입문 봉쇄 - 무기를 집어넣어야 합니다.</text>
+	</string>
+
+	<string id="tip_door_locked">
+		<text>출입문 봉쇄</text>
+	</string>
+
+	<string id="tip_door_no_electricity">
+		<text>문에 전원이 공급되지 않고 있습니다.</text>
+	</string>
+
+	<string id="tip_door_open">
+		<text>문 열기 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="tip_gate_locked">
+		<text>문 막힘</text>
+	</string>
+
+	<string id="tip_need_access_card">
+		<text>출입 카드 사용 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="tip_no_access_card">
+		<text>출입 카드 필요</text>
+	</string>
+
+	<string id="tip_open_another_site">
+		<text>이 방향에서는 문을 열 수 없습니다.</text>
+	</string>
+
+	<string id="ui_st_mp_experience_grow">
+		<text>-</text>
+	</string>
+
+	<string id="zat_b12_conteiner_full_locked">
+		<text>보관함이 잠겨 있습니다. 열쇠 두 개로 열 수 있습니다.</text>
+	</string>
+
+	<string id="zat_b12_conteiner_has_one_key">
+		<text>열쇠 사용 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="zat_b12_conteiner_has_two_key">
+		<text>열쇠 사용 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="zat_b12_conteiner_locked">
+		<text>보관함이 잠겨 있습니다. 두 번째 열쇠가 필요합니다.</text>
+	</string>
+
+	<string id="zat_b12_conteiner_open">
+		<text>보관함 열기 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="zat_b14_door_locked_hint">
+		<text>문이 안에서 잠겼습니다.</text>
+	</string>
+
+	<string id="zat_b57_balon_use_hint">
+		<text>가스탱크 연결 ($$$$ACTION_USE$$)</text>
+	</string>
+
+	<string id="zat_b57_gas_warning">
+		<text>경고! 화학적 위험!</text>
+	</string>
+
+	<string id="zat_b57_vintil_press">
+		<text>밸브 회전 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="zat_b33_car_searching_tip">
+		<text>차량 수색 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="st_resupply_ready">
+		<text>로호베츠 중위와 키릴로프 중위를 방문하면 의약용품과 탄약을 보급받을 수 있습니다.</text>
+	</string>
+
+	<string id="st_surge_while_asleep">
+		<text>최근 존에서 에미션이 발생했습니다.</text>
+	</string>
+
+	<string id="st_ach_marked_by_zone">
+		<text>존의 표식 도전과제를 달성했습니다.</text>
+	</string>
+
+	<string id="st_mutant_hunter_news">
+		<text>위험한 돌연변이를 제거한 보상으로 야노우의 개인 상자에 탄약이 배송되었습니다.</text>
+	</string>
+
+	<string id="st_found_old_treasure">
+		<text>이미 발견한 은닉처의 좌표입니다.</text>
+	</string>
+
+	<string id="st_got_treasure">
+		<text>은닉처 발견</text>
+	</string>
+
+	<string id="st_found_new_treasure">
+		<text>은닉처 좌표 획득</text>
+	</string>
+
+</string_table>

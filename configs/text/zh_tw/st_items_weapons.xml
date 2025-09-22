@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ammo-11.43x23-fmj">
+		<text>.45ACP彈</text>
+	</string>
+
+	<string id="ammo-11.43x23-fmj_descr">
+		<text>.45口徑全金屬被甲彈因其為重型子彈和相對力度較小的推進填彈而風靡百年之餘。因此，這種子彈單發速度相對較慢，但精度很高，並能提供相當大的停止力。</text>
+	</string>
+
+	<string id="ammo-11.43x23-fmj_s">
+		<text>.45 ACP</text>
+	</string>
+
+	<string id="ammo-11.43x23-hydro">
+		<text>.45ACP 液壓衝擊彈</text>
+	</string>
+
+	<string id="ammo-11.43x23-hydro_descr">
+		<text>這種不尋常的 .45 ACP 口徑子彈由帶有膨脹空心的夾套軟尖子彈和鋼芯組成。它是夾套膨脹軟尖彈和穿甲彈的結合體，既受益於兩者的優點，也受到其缺點的影響。</text>
+	</string>
+
+	<string id="ammo-11.43x23-hydro_s">
+		<text>.45 液壓彈</text>
+	</string>
+
+	<string id="ammo-12x70-buck">
+		<text>12х70 散彈鎗彈</text>
+	</string>
+
+	<string id="ammo-12x70-buck_descr">
+		<text>標準 12 口徑子彈，裝填 6 公釐彈藥。近距離殺傷力極高。僅適用於滑膛武器。</text>
+	</string>
+
+	<string id="ammo-12x70-buck_s">
+		<text>12х70 子彈 </text>
+	</string>
+
+	<string id="ammo-12x76-zhekan">
+		<text>12x76 重彈散彈槍彈</text>
+	</string>
+
+	<string id="ammo-12x76-zhekan_descr">
+		<text>這種重型 12 口徑子彈通常用於狩獵大型動物，但也適合其他用途。與擊穿效果相比，這種巨大的子彈是穿透並擊碎了護甲。 </text>
+	</string>
+
+	<string id="ammo-12x76-zhekan_s">
+		<text>12x76 重彈散彈槍</text>
+	</string>
+
+	<string id="ammo-5.45x39-ap">
+		<text>5.45x39 mm AP彈</text>
+	</string>
+
+	<string id="ammo-5.45x39-ap_descr">
+		<text>軍用 5.45x39 7H22 口徑穿甲彈，華沙公約組織國家使用的自動步槍。子彈含有硬質合金穿甲彈頭。對防彈衣有效。</text>
+	</string>
+
+	<string id="ammo-5.45x39-ap_s">
+		<text>5.45x39 AP</text>
+	</string>
+
+	<string id="ammo-5.45x39-fmj">
+		<text>5.45x39 mm彈</text>
+	</string>
+
+	<string id="ammo-5.45x39-fmj_descr">
+		<text>軍用 5.45x39 7H10 口徑改良穿甲彈，華沙公約組織國家使用的的自動步槍。由於後座力降低且射程增加了 100 公尺，因此比 7.62 口徑子彈具有更高的精準度。</text>
+	</string>
+
+	<string id="ammo-5.45x39-fmj_s">
+		<text>5.45x39</text>
+	</string>
+
+	<string id="ammo-5.56x45-ap">
+		<text>5.56x45 mm AP穿甲槍彈</text>
+	</string>
+
+	<string id="ammo-5.56x45-ap_descr">
+		<text>一種常見的北約軍用 5.56x45 口徑穿甲彈，以其 SS190/M855 指數而聞名，被西方安全機構和特種部隊廣泛使用。對防彈衣有效。</text>
+	</string>
+
+	<string id="ammo-5.56x45-ap_s">
+		<text>5.56x45 mm AP</text>
+	</string>
+
+	<string id="ammo-5.56x45-ss190">
+		<text>5.56x45 mm彈</text>
+	</string>
+
+	<string id="ammo-5.56x45-ss190_descr">
+		<text>標準版北約 5.56x45 口徑子彈，專為精準自動射擊而設計。具有良好的彈道特性，是在狩獵彈的基礎上設計的。其 SS109 指數廣為人知。</text>
+	</string>
+
+	<string id="ammo-5.56x45-ss190_s">
+		<text>5.56x45</text>
+	</string>
+
+	<string id="ammo-7.62x54-7h14">
+		<text>7.62x54 mm 7H1彈</text>
+	</string>
+
+	<string id="ammo-7.62x54-7h14_descr">
+		<text>7.62口徑狙擊彈，搭配專為 SVD 設計的鋼製穿甲彈。與機槍彈不同，7H1有著緊密的子彈聚集性和出色的穿透特性。</text>
+	</string>
+
+	<string id="ammo-7.62x54-7h14_s">
+		<text>7.62x54 7H1</text>
+	</string>
+
+	<string id="ammo-7.62x54-ap">
+		<text>7.62x54 mm PP彈</text>
+	</string>
+
+	<string id="ammo-7.62x54-ap_descr">
+		<text>廉價的 7.62 口徑機槍彈。其設計不適合用在狙擊步槍上，所以只適用於 RP-74 機槍。</text>
+	</string>
+
+	<string id="ammo-7.62x54-ap_s">
+		<text>7.62x54 PP</text>
+	</string>
+
+	<string id="ammo-9x18-fmj">
+		<text>9х18 mm彈</text>
+	</string>
+
+	<string id="ammo-9x18-fmj_descr">
+		<text>全金屬被甲彈，裝有鋼穿甲彈和鉛芯。提供良好的停止力，但對防彈衣無效。</text>
+	</string>
+
+	<string id="ammo-9x18-fmj_s">
+		<text>9х18</text>
+	</string>
+
+	<string id="ammo-9x18-pmm">
+		<text>9х18 mm +P+彈</text>
+	</string>
+
+	<string id="ammo-9x18-pmm_descr">
+		<text>包含一顆具有增強停止力的子彈，其歐制單位+P+名稱表示「超壓彈藥」，槍口速度增加了30%。對防彈衣無效。</text>
+	</string>
+
+	<string id="ammo-9x18-pmm_s">
+		<text>9х18 +P+ </text>
+	</string>
+
+	<string id="ammo-9x19-fmj">
+		<text>9x19 mm FMJ彈</text>
+	</string>
+
+	<string id="ammo-9x19-fmj_descr">
+		<text>這種帶有被甲彈的基本 9x19 口徑子彈具有良好的特性，同時易於生產。由於國際公約禁止在戰鬥中使用膨脹彈藥，因此該彈藥很受歡迎。對防彈衣無效。</text>
+	</string>
+
+	<string id="ammo-9x19-fmj_s">
+		<text>9х19 FMJ</text>
+	</string>
+
+	<string id="ammo-9x19-pbp">
+		<text>9x19 mm JHP彈</text>
+	</string>
+
+	<string id="ammo-9x19-pbp_descr">
+		<text>這種 9x19 口徑的空心夾套子彈具備可擴展的空心，有著高停止力和低跳彈傾向。供警察使用和自衛用途。由於穿透潛力低，對防彈衣無效。</text>
+	</string>
+
+	<string id="ammo-9x19-pbp_s">
+		<text>9x19 JHP</text>
+	</string>
+
+	<string id="ammo-9x39-ap">
+		<text>9x39 mm SP-6彈</text>
+	</string>
+
+	<string id="ammo-9x39-ap_descr">
+		<text>SP-6 是一款亞音速突擊步槍彈，其子彈頭為帶夾套的軟尖子彈，硬鋼芯從外殼中凸起。需要消音器才能進行隱形射擊。由華沙公約組織國家的特殊部門使用。對防彈衣有效。</text>
+	</string>
+
+	<string id="ammo-9x39-ap_s">
+		<text>9x39 SP-6</text>
+	</string>
+
+	<string id="ammo-9x39-pab9">
+		<text>9x39 mm SP-5彈</text>
+	</string>
+
+	<string id="ammo-9x39-pab9_descr">
+		<text>SP-5 是一款帶雙金屬外殼的亞音速狙擊彈。該彈包含一個鋼芯，其後的間隙裡充滿了鉛。需要滅音器才能進行隱形射擊。由華沙公約組織國家的特殊部門使用。</text>
+	</string>
+
+	<string id="ammo-9x39-pab9_s">
+		<text>9х39 mm SP-5</text>
+	</string>
+
+	<string id="ammo-gauss">
+		<text>電池</text>
+	</string>
+
+	<string id="ammo-m209">
+		<text>M203 榴彈</text>
+	</string>
+
+	<string id="ammo-m209_descr">
+		<text>M203 下掛式榴彈發射器的 40 公釐榴彈。該子彈的殺傷范圍有 5 公尺。也適用於 FT-200M 一體式榴彈發射器。</text>
+	</string>
+
+	<string id="ammo-m209_s">
+		<text>M203</text>
+	</string>
+
+	<string id="ammo-og-7b">
+		<text>OG-7V 彈頭</text>
+	</string>
+
+	<string id="ammo-og-7b_descr">
+		<text>用於殺傷性戰鬥的破片彈頭，與 RPG-7u 榴彈發射器一起使用。使用彈頭的主要目的是藉助 RPG-7u 榴彈發射器殺死手榴彈射程外掩體中的敵人。</text>
+	</string>
+
+	<string id="ammo-og-7b_s">
+		<text>OG-7V</text>
+	</string>
+
+	<string id="ammo-vog-25">
+		<text>VOG-25手榴彈</text>
+	</string>
+
+	<string id="ammo-vog-25_descr">
+		<text>GP-25 Koster下掛式榴彈發射器的常規破片手榴彈。它的殺傷范圍有 5 公尺。VOG-25手榴彈也用於旱天雷 S14複合式和Bulldog 6左輪手槍式榴彈發射器。</text>
+	</string>
+
+	<string id="ammo-vog-25_s">
+		<text>VOG-25</text>
+	</string>
+
+	<string id="st_addon_scope">
+		<text>PSO-1m瞄準鏡</text>
+	</string>
+
+	<string id="st_addon_scope_descr">
+		<text>常見的蘇聯製 5.0 倍固定變焦光學瞄準鏡，帶有距離刻度。以燕尾導軌連接武器，是華沙公約組織國家使用的標準型。</text>
+	</string>
+
+	<string id="st_addon_scope_detector">
+		<text>PSS-2x瞄準鏡</text>
+	</string>
+
+	<string id="st_addon_scope_detector_descr">
+		<text>帶有內建隔熱罩的 5.0 倍固定變焦光學瞄準鏡，用於識別人體的典型熱源。專為特種部隊使用設計。以燕尾導軌連接武器。</text>
+	</string>
+
+	<string id="st_addon_scope_night_vision">
+		<text>NSPU-3瞄準鏡</text>
+	</string>
+
+	<string id="st_addon_scope_night_vision_descr">
+		<text>帶影像增強夜視功能的 5.0 倍固定變焦瞄準鏡，適合用於黑暗中的戰鬥。以燕尾導軌連接武器。</text>
+	</string>
+
+	<string id="st_addon_scope_susat">
+		<text>SUSAT 4倍瞄準鏡</text>
+	</string>
+
+	<string id="st_addon_scope_susat_custom_descr">
+		<text>可調式遠距離 1.6-4 倍變焦瞄準鏡，可使用自動調整來提供更高的射擊效率。以北約標準的皮卡汀尼導軌連接武器。</text>
+	</string>
+
+	<string id="st_addon_scope_susat_descr">
+		<text>主要產自西方國家的 4 倍固定變焦瞄準鏡。以北約標準的皮卡汀尼導軌連接武器。通常用於中遠距離的小型武器精準射擊。</text>
+	</string>
+
+	<string id="st_addon_scope_susat_dusk">
+		<text>SUSAT 黃昏 x1.6瞄準鏡</text>
+	</string>
+
+	<string id="st_addon_scope_susat_dusk_descr">
+		<text>光學 SUSAT 1.6 倍高對比瞄準鏡，適合用於照明條件較差的戰鬥中。以北約標準的皮卡汀尼導軌連接武器。</text>
+	</string>
+
+	<string id="st_addon_scope_susat_night_vision">
+		<text>SUSAT 黑夜 x4瞄準鏡</text>
+	</string>
+
+	<string id="st_addon_scope_susat_night_vision_descr">
+		<text>帶有夜視裝置的 4.0 倍固定變焦瞄準鏡，適合用於黑暗中進行的遠距離戰鬥。以北約標準的皮卡汀尼導軌連接武器。</text>
+	</string>
+
+	<string id="st_addon_scope_susat_x1.6">
+		<text>SUSAT 1.6倍瞄準鏡</text>
+	</string>
+
+	<string id="st_addon_scope_susat_x1.6_descr">
+		<text>適用於中短程戰鬥的光學SUSAT 1.6倍瞄準鏡。以北約標準的皮卡汀尼導軌連接武器。</text>
+	</string>
+
+	<string id="st_addon_scope_x2.7">
+		<text>PSU-1瞄準鏡</text>
+	</string>
+
+	<string id="st_addon_scope_x2.7_descr">
+		<text>適用於中距離城市作戰的 2.7 倍光學瞄準鏡。以燕尾導軌連接武器。</text>
+	</string>
+
+	<string id="st_addon_silencer">
+		<text>滅音器</text>
+	</string>
+
+	<string id="st_addon_silencer_descr">
+		<text>可以根據需要隨時進行改造的有效滅音器。槍管周圍的滅音器主體包含一卷細黃銅網，而前部由一組金屬隔膜組成，隔膜上有供子彈穿過的孔。該套件包括適用於大多數武器的適配器和密封劑。通常用於在不引起注意的情況下削弱敵人的隊伍力量。</text>
+	</string>
+
+	<string id="st_grenade_f1">
+		<text>F1榴彈</text>
+	</string>
+
+	<string id="st_grenade_f1_descr">
+		<text>一種防禦性手榴彈，其碎片能夠穿透中級防彈衣。手榴彈的殺傷半徑為 7 公尺。潛行者透過與軍方的交易獲得F1手榴彈，軍方將其視為用於對抗變異體。</text>
+	</string>
+
+	<string id="st_grenade_launcher">
+		<text>GP-25 Koster</text>
+	</string>
+
+	<string id="st_grenade_launcher_descr">
+		<text>一款單發、前裝、帶膛線的下掛式榴彈發射器，用於華沙公約組織國家製造的突擊步槍。擊發機構是自動擊發式的，配有手動安全鎖，如果未能正確安裝在步槍上，則會自動阻止射擊。使用VOG-25手榴彈。</text>
+	</string>
+
+	<string id="st_grenade_launcher_m203">
+		<text>M203</text>
+	</string>
+
+	<string id="st_grenade_launcher_m203_descr">
+		<text>改造後的 M203 榴彈發射器縮短了三英寸，並透過皮卡汀尼導軌連接到武器上。由於安裝方式的改變，這種榴彈發射器在世界各地得到了廣泛使用。</text>
+	</string>
+
+	<string id="st_grenade_rgd5">
+		<text>RGD-5榴彈</text>
+	</string>
+
+	<string id="st_grenade_rgd5_descr">
+		<text>殺傷範圍為 5 公尺的攻擊型手榴彈。由於成本相對較低，潛行者經常使用它來「熏出」變異體。</text>
+	</string>
+
+	<string id="st_grenade_smoke">
+		<text>煙霧彈</text>
+	</string>
+
+	<string id="st_grenade_smoke_descr">
+		<text>手持煙霧彈。用於佈置煙幕。投擲該手榴彈後，煙幕需要 10 秒才能擴大。</text>
+	</string>
+
+	<string id="st_knife">
+		<text>小刀</text>
+	</string>
+
+	<string id="st_wpn_abakan">
+		<text>AC-96/2</text>
+	</string>
+
+	<string id="st_wpn_ak74">
+		<text>AKM-74/2</text>
+	</string>
+
+	<string id="st_wpn_ak74u">
+		<text>AKM-74/2U</text>
+	</string>
+
+	<string id="st_wpn_beretta">
+		<text>瑪莎手槍</text>
+	</string>
+
+	<string id="st_wpn_bm16">
+		<text>短管散彈槍</text>
+	</string>
+
+	<string id="st_wpn_bm16_descr">
+		<text>一款削短型狩獵散彈槍，有兩個並排的槍管，比完整的散彈槍更輕、更緊湊。由於其易於隱蔽且在近戰中極為有效，因此成為強盜中最受歡迎的武器之一。</text>
+	</string>
+
+	<string id="st_wpn_colt1911">
+		<text>Kora-919</text>
+	</string>
+
+	<string id="st_wpn_desert_eagle_nimble">
+		<text>草原之鷹手槍</text>
+	</string>
+
+	<string id="st_wpn_desert_eagle_nimble_descr">
+		<text>基於「黑鳶」設計的手作手槍。它的組件經過精心調校，以實現此類手槍驚人的精準度。</text>
+	</string>
+
+	<string id="st_wpn_eagle">
+		<text>黑鳶手槍</text>
+	</string>
+
+	<string id="st_wpn_fn2000">
+		<text>FT-200M</text>
+	</string>
+
+	<string id="st_wpn_fort">
+		<text>Fora-12</text>
+	</string>
+
+	<string id="st_wpn_g36">
+		<text>GP37</text>
+	</string>
+
+	<string id="st_wpn_gauss">
+		<text>高斯來福槍</text>
+	</string>
+
+	<string id="st_wpn_groza">
+		<text>旱天雷 S14</text>
+	</string>
+
+	<string id="st_wpn_groza_descr">
+		<text>這款突擊步槍結合了AKM系列類似的榴彈發射器，專門為快速反應部隊而開發。主要區別在於其 9x39 口徑的彈藥、犢牛式設計和廣泛的配置選項。這款武器在城市戰鬥中能夠遠距離殺死穿著防彈衣、躲在臨時掩體後的敵人，再加上它出色的停止力，受到了軍方潛行者的高度重視。</text>
+	</string>
+
+	<string id="st_wpn_groza_nimble">
+		<text>風暴</text>
+	</string>
+
+	<string id="st_wpn_groza_nimble_descr">
+		<text>該武器是突擊步槍和榴彈發射器系統的實驗版本，是標準旱天雷 S14 的俄羅斯改造款，專為在特異區作戰的部隊而設計。它以擴增的彈匣容量而知名。</text>
+	</string>
+
+	<string id="st_wpn_hpsa">
+		<text>HPSS-1m</text>
+	</string>
+
+	<string id="st_wpn_hpsa_descr">
+		<text>20世紀上半葉手槍的改良型號，與原版手槍一樣可靠、威力強大且精準。該系列手槍當之無愧地被譽為20世紀最好的手槍之一，並且在特異區需求量很大。</text>
+	</string>
+
+	<string id="st_wpn_l85">
+		<text>IL 86</text>
+	</string>
+
+	<string id="st_wpn_lr300">
+		<text>TRs 301</text>
+	</string>
+
+	<string id="st_wpn_mp5">
+		<text>Viper 5</text>
+	</string>
+
+	<string id="st_wpn_mp5_descr">
+		<text>這款衝鋒槍因其可靠性、易用性和精準性在世界各地廣受歡迎。在過去的幾十年裡，Viper 5 被世界各地的特種部隊和警察部隊使用。毫不為怪，在湧入全球黑市後，它最終進入了特異區。</text>
+	</string>
+
+	<string id="st_wpn_mp5_nimble">
+		<text>Frasier</text>
+	</string>
+
+	<string id="st_wpn_mp5_nimble_descr">
+		<text>基於出色的 Viper 5 型號的衝鋒槍原型機。它被設計為下一代近距離戰鬥武器，具有更大的口徑、更快的射速和更高的精準度。</text>
+	</string>
+
+	<string id="st_wpn_pb">
+		<text>PB-1s</text>
+	</string>
+
+	<string id="st_wpn_pkm_zulus">
+		<text>祖魯的RP-74</text>
+	</string>
+
+	<string id="st_wpn_pkm_zulus_descr">
+		<text>這把武器以前為祖魯所擁有。其特點包括擴大的彈藥盒和特別可靠的縮回機構設計。這些改造意味著武器重量的增加，但這對上一個擁有者來說不成問題。</text>
+	</string>
+
+	<string id="st_wpn_pm">
+		<text>PMm</text>
+	</string>
+
+	<string id="st_wpn_pm_actor">
+		<text>榮耀PMm</text>
+	</string>
+
+	<string id="st_wpn_pm_actor_descr">
+		<text>捷格加列夫因「成功執行高度危險的國家命令，以及在履行職責時表現出的英勇和勇氣」而被獎勵了一件年代久遠的 PMm。</text>
+	</string>
+
+	<string id="st_wpn_protecta">
+		<text>滅絕者</text>
+	</string>
+
+	<string id="st_wpn_rg6">
+		<text>Bulldog 6</text>
+	</string>
+
+	<string id="st_wpn_rg6_descr">
+		<text>這款左輪手槍式榴彈發射器使用六個帶膛線的前裝槍管，與下掛式發射器配備了相同的附件。其彈鼓也是前裝式的。廣泛用於快速壓制敵方火力陣地，並在無遮蔽時攻擊正在防禦的固定目標或對抗特別頑強的怪物。</text>
+	</string>
+
+	<string id="st_wpn_rp">
+		<text>RP-74</text>
+	</string>
+
+	<string id="st_wpn_rp_descr">
+		<text>這款彈帶供彈機槍是一種便攜式改良型機槍，具有複雜的兩級供彈系統。雖然重量較重、精準度低，但特異區內仍有這把輕機槍的愛好者。主要用於在派閥鬥爭中抵禦敵軍優勢兵力或清除變異體的巢穴。</text>
+	</string>
+
+	<string id="st_wpn_rpg7">
+		<text>RPG-7u</text>
+	</string>
+
+	<string id="st_wpn_sig220">
+		<text>SIP-t M200</text>
+	</string>
+
+	<string id="st_wpn_sig220_nimble">
+		<text>阿爾卑手槍</text>
+	</string>
+
+	<string id="st_wpn_sig220_nimble_descr">
+		<text>一款SIP-t M200手槍的獨特型號。屬於為身份不明的特種部隊製作的小型限量版本。此型號的優勢在於其增加的彈匣容量、高耐用鋼製槍管和超耐用聚合物機匣。</text>
+	</string>
+
+	<string id="st_wpn_sig550">
+		<text>SGI-5k</text>
+	</string>
+
+	<string id="st_wpn_sig550_descr">
+		<text>一款相對較新的突擊步槍，儘管缺乏「時尚」的設計，但很快就俘獲了來自世界各地的愛好者。該系列的武器是同類中最好的武器之一，以其可靠性、精準性和易用性而聞名。儘管在特異區內相對不容易獲得這款突擊步槍，但經驗豐富的潛行者通常會花大價錢去訂購它。</text>
+	</string>
+
+	<string id="st_wpn_sig550_strelok">
+		<text>史特列洛克的SGI-5k</text>
+	</string>
+
+	<string id="st_wpn_sig550_strelok_descr">
+		<text>瑞士製造的 SGI-5k 突擊步槍。雖然不再光亮如新，但很明顯前任主人對它保養得很好：這件武器被拆開後又裝回去過，每個部件都經過微調，以獲得最佳性能並增加停止力。槍托上刻有字母「S」以及 16 個小凹口。</text>
+	</string>
+
+	<string id="st_wpn_spas12">
+		<text>SPSA-14 </text>
+	</string>
+
+	<string id="st_wpn_spas12_m2">
+		<text>SPSA-AUT</text>
+	</string>
+
+	<string id="st_wpn_spas12_m2_descr">
+		<text>SPSA-AUT 自動擊發散彈槍僅在紀律團車間製造。這件武器旨在對抗大群變異體。其改良的供彈機構確保了高射速，彈匣容量已增加至 10 發。使用 12x70 口徑子彈。</text>
+	</string>
+
+	<string id="st_wpn_spas12_nimble">
+		<text>卡拉賓</text>
+	</string>
+
+	<string id="st_wpn_spas12_nimble_descr">
+		<text>一把在SPSA-14的基礎上專為突擊部隊設計的軍用散彈槍。能夠像其前身一樣自動射擊，但由於平衡的無震系統而具有更好的後座力補償。</text>
+	</string>
+
+	<string id="st_wpn_svd">
+		<text>SVDm-2</text>
+	</string>
+
+	<string id="st_wpn_svd_descr">
+		<text>這款軍用狙擊步槍已上市五十多年，因其卓越的可靠性和易用性而享有盛譽。SVDm-2通常被軍隊用來提高其部隊的有效射程，但潛行者更欣賞其穿甲特性——能夠穿透變異體皮膚和軍隊防彈衣。</text>
+	</string>
+
+	<string id="st_wpn_svd_nimble">
+		<text>猞猁</text>
+	</string>
+
+	<string id="st_wpn_svd_nimble_descr">
+		<text>SVDm-2狙擊步槍的手工組裝版本。外觀沒有什麼不同，但它完美結合了精準性和停止力。</text>
+	</string>
+
+	<string id="st_wpn_svu">
+		<text>SVUmk-2</text>
+	</string>
+
+	<string id="st_wpn_svu_nimble">
+		<text>SVU2-A</text>
+	</string>
+
+	<string id="st_wpn_svu_nimble_descr">
+		<text>這款狙擊步槍的槍身變短了，但射速加快了，是 SVUmk-2 狙擊步槍進化的下一階段。這把武器曾經屬於傳說中的自由團衛士麥斯。</text>
+	</string>
+
+	<string id="st_wpn_toz34">
+		<text>獵槍</text>
+	</string>
+
+	<string id="st_wpn_toz34_descr">
+		<text>這款極為常見的上下排列式獵槍由於其精準度和停止力，可以在對抗變異體時提供比手槍更好的保護。主要由特異區郊區的新手使用。</text>
+	</string>
+
+	<string id="st_wpn_umirotvoritel">
+		<text>不知名武器</text>
+	</string>
+
+	<string id="st_wpn_umirotvoritel_descr">
+		<text>一件不知名的武器，其發射機制尚未確定。該武器似乎有故障——扣動扳機沒有任何作用。</text>
+	</string>
+
+	<string id="st_wpn_usp">
+		<text>緊湊型UDP</text>
+	</string>
+
+	<string id="st_wpn_usp_descr">
+		<text>無可挑剔的可靠性、耐用性以及出色的精準度是該武器的顯著特點。它的小缺點包括尺寸較大、重心相對較高以及槍機較大，這使得它難以隱藏，但瑕不掩瑜。該武器特別受到特異區老兵的歡迎。</text>
+	</string>
+
+	<string id="st_wpn_usp_nimble">
+		<text>馬奇手槍</text>
+	</string>
+
+	<string id="st_wpn_usp_nimble_descr">
+		<text>小型大口徑手槍，槍機行程短，槍機組件輕。曾經屬於一個名叫狼狗的僱傭兵。似乎是經過改裝的緊湊型UDP手槍。</text>
+	</string>
+
+	<string id="st_wpn_val">
+		<text>SA Avalanche</text>
+	</string>
+
+	<string id="st_wpn_vintorez">
+		<text>Vintar BC </text>
+	</string>
+
+	<string id="st_wpn_vintorez_descr">
+		<text>一款特殊的軍用狙擊步槍，專為在特殊行動中進行無聲、無火光的狙擊而設計——在那種情況下，盡早發現狙擊手可能至關重要。Vintar BC具有較高的穿甲能力和停止力，並配備了一體式狙擊鏡和光學瞄準鏡。儘管彈匣很小，但仍收穫了許多潛行者的好評。</text>
+	</string>
+
+	<string id="st_wpn_vintorez_nimble">
+		<text>怒潮</text>
+	</string>
+
+	<string id="st_wpn_vintorez_nimble_descr">
+		<text>在無聲狙擊步槍的基礎上為軍隊製造的武器。這把步槍比其前身Vintar BC擁有更高的停止力，但因此犧牲了射速，使得射擊者能夠在不暴露位置的情況下一一消滅敵軍。</text>
+	</string>
+
+	<string id="st_wpn_walther">
+		<text>Walker P9m</text>
+	</string>
+
+	<string id="st_wpn_wincheaster1300">
+		<text>Chaser 13</text>
+	</string>
+
+	<string id="st_wpn_wincheaster1300_descr">
+		<text>一款西式滑膛散彈槍，以其驚人的可靠性和更快的裝彈速度而在世界各地廣受歡迎。特異區獵人因其功能性而對它青眼相看。它的所有部件均塗有防腐化合物。</text>
+	</string>
+
+	<string id="st_wpn_wincheaster1300_trapper">
+		<text>掠食者</text>
+	</string>
+
+	<string id="st_wpn_wincheaster1300_trapper_descr">
+		<text>一把特製的泵動散彈槍，曾經屬於特拉帕。獵人對武器的唯一要求就是必須一槍殺死掠食者。這種理念基於這樣的信念：無論動物殺死了多少人，牠仍然只是動物，因此不該受苦。</text>
+	</string>
+
+	<string id="ammo-gauss_cardan">
+		<text>自製電池</text>
+	</string>
+
+	<string id="st_addon_scope_susat_custom">
+		<text>SUSAT Mera瞄準鏡</text>
+	</string>
+
+	<string id="st_wpn_abakan_descr">
+		<text>一款現代突擊步槍，旨在取代老化的AKM 74/2。主要差異在於其高速 2 發點射模式，可以讓兩顆子彈向 100 公尺外目標的同一位置射擊。與 1 發射擊模式相比，這顯著增加了擊中目標的可能性，從而大大提高了殺傷力、停止力和穿甲能力。</text>
+	</string>
+
+	<string id="st_wpn_ak74_descr">
+		<text>這款武器於 1974 年設計，標誌著華沙公約組織國家正式採用小口徑、低衝量彈藥的武器。作為世界上最受歡迎的突擊步槍的後代，AKM-74/2具有更大的槍口制退器，從而減少了原本可控的後座力。這有助於提高射擊精準度和子彈聚集性，特別是在快速單發或連發時。和以前一樣，該步槍非常簡單且可靠。</text>
+	</string>
+
+	<string id="st_wpn_ak74u_descr">
+		<text>儘管這款武器在尺寸、重量和戰術用途上與衝鋒槍相似，但由於其內部機構與AKM 74/2相同，因此被歸類為突擊步槍。該武器以其近距離機動性和高裝甲穿透能力而著稱，但缺點是雖然子彈射程相對較長，但有效射程較短、容易過熱且跳彈傾向較高。</text>
+	</string>
+
+	<string id="st_wpn_colt1911_descr">
+		<text>經典自動手槍的改良版，在 20 世紀所有重大武裝衝突中表現出色，在新千年開始後風采不減。由世界各地數十家甚至數百家武器製造商以標準配置和改造配置生產。該武器唯一的缺點是彈匣容量平庸，但它使用的彈藥威力強大，在很大程度上彌補了這點。</text>
+	</string>
+
+	<string id="st_wpn_eagle_descr">
+		<text>終極手持火砲——體積大、重量重且殺傷力極強。專為狩獵中型和大型動物，以及 50 公尺以上的鋼體目標射擊比賽而開發。因其價格、尺寸和重量都是其他手槍的兩倍，它在特異區被使用的不多。</text>
+	</string>
+
+	<string id="st_wpn_fn2000_descr">
+		<text>這款極具未來感的犢牛式設計武器實際上是一個被大規模生產的模組化系統，包括步槍和榴彈複合體、電腦火控系統和 40 公釐榴彈發射器。儘管外觀笨重，但該武器非常符合人體工學，易於使用，具有良好的技術特性。</text>
+	</string>
+
+	<string id="st_wpn_fort_descr">
+		<text>烏克蘭製造的手槍，主要供執法組織使用。與PMm相比，精準度更高，人體工學設計更好，彈匣更大。這些武器在早期設計模型中存在技術錯誤計算，但被大量銷售而得以進入特異區。儘管如此，其良好的戰鬥特性仍然受到潛行者的青睞。</text>
+	</string>
+
+	<string id="st_wpn_g36_descr">
+		<text>作為西方製造的突擊步槍家族的新成員，它與該系列中以往的型號有很大不同。在自動化的半開式槍機組件基礎上，這款武器更像是短管的美國自動氣動突擊步槍，帶有衝程氣體活塞系統。這些變化使得該步槍成為現代武器的一流典範——輕巧、可靠且符合人體工學。</text>
+	</string>
+
+	<string id="st_wpn_l85_descr">
+		<text>這款步槍的大量缺陷導致大多數都進行了現代化改造，退役的庫存經由黑市進入了特異區。該步槍的主要優點是內建4倍瞄準鏡、單發精準度高以及可靠的升級技術。當武器連發射擊時，其精準度會顯著下降，且基本內部機制會變得有些不穩定。</text>
+	</string>
+
+	<string id="st_wpn_lr300_descr">
+		<text>這個著名的武器家族又有了新的發展。其鋼結構的上半部進行了改造，包括槍管、導氣管和槍機組件，減輕了武器的重量，並改善了人體工學及其導氣系統。該武器非常精準，但容易被弄髒，因而在特異區的困難條件下不是一個好選擇。</text>
+	</string>
+
+	<string id="st_wpn_pb_descr">
+		<text>這款手槍是 20 世紀下半葉在PMm的基礎上研發的，供特種部隊和偵察部隊使用。手槍槍管的前部帶有一體式滅音器，而槍機機構很短，這可以防止後移彈簧進入槍管內部，而非位於武器的手柄中。這款武器在道德上已經過時了，但在合適的人手中依然能發揮效用。</text>
+	</string>
+
+	<string id="st_wpn_pm_descr">
+		<text>這把蘇聯時期遺留物是特異區最常見的手槍，也是最好的緊湊型自衛手槍之一。體積小、可靠性高、正常運作下易於使用和維護。它也有一些缺點，包括射程短、射擊精準度低和停止力差，同時在重量和彈匣尺寸方面也遜於同類現代手槍。</text>
+	</string>
+
+	<string id="st_wpn_protecta_descr">
+		<text>一款滑膛戰鬥型左輪散彈槍，旨在為軍隊提供極致火力。該武器具有大型彈匣和高有效射速的優點，但與之相對的是其笨重外觀、較大重量和較長的裝填時間。在特異區很罕見，主要用於清除有變異體存在的封閉空間。</text>
+	</string>
+
+	<string id="st_wpn_rpg7_descr">
+		<text>這款 20 世紀 60 年代的榴彈發射器從軍隊倉庫流入了特異區。帶有開放式後管的滑膛單發無後座力擊發系統，配備PGO-7 x2.7光學瞄準鏡。雖然其巨大的尺寸和重量使其不太可能為潛行者所喜愛，但特異區內仍有人對它巨大的破壞力和易用性青眼相看。</text>
+	</string>
+
+	<string id="st_wpn_sig220_descr">
+		<text>這是全球知名手槍僅存的量產型號，因其出色的人體工學設計和精準度而享有盛譽。雖然其彈匣相對較小，但它的優勢在於威力強大的彈藥和像瑞士手錶一樣運作的機制。有人認為SIP-t M200是目前量產最好的 .45ACP 口徑手槍，經驗豐富的潛行者和僱傭兵非常喜愛它。</text>
+	</string>
+
+	<string id="st_wpn_spas12_descr">
+		<text>這款特殊用途的滑膛自動散彈槍設計於 20 世紀下半葉，具有泵動式和自動擊發模式。是警察和突擊部隊的通用武器。以其可靠性和戰術靈活性而聞名。儘管重量大、機制複雜且成本高昂，但由於其對抗變異體的效果驚人，因此在特異區仍然有需求。</text>
+	</string>
+
+	<string id="st_wpn_svu_descr">
+		<text>SVDm-2狙擊步槍的現代化版本，採用緊湊型犢牛式結構設計，專為快速反應部隊打造。它可以實現更快的精準射擊，並且重量相當輕，中短距離的單發射擊精準度與其前身相似。這些特質讓它贏得了無數潛行者的喜愛。</text>
+	</string>
+
+	<string id="st_wpn_val_descr">
+		<text>這款突擊步槍是Vintar BC無聲狙擊步槍的改良版，專為特種部隊設計。該步槍旨在不洩露狙擊手位置的情況下，對使用現代個人防護裝備的敵人進行有效射擊。由於其配備一體式滅音器以及使用帶重型亞音速彈頭的 9x39 口徑子彈，該武器的噪音和槍口火焰已降至最低。</text>
+	</string>
+
+	<string id="st_wpn_gauss_descr">
+		<text>一款被稱為 62 號物品的超精準高科技武器，是在位於特異區內的秘密實驗室中研發的。該武器透過電磁系統將子彈速度提升到超高速，從而產生驚人的停止力，且幾乎沒有後座力。它使用電池中封裝的神器碎片作為動力來源。</text>
+	</string>
+
+	<string id="st_wpn_beretta_descr">
+		<text>瑪莎手槍因其相對可靠但有些笨重而聞名於世界各地。大洋彼岸的武裝部隊、警察以及世界各地的各種軍事和執法組織都會使用它。由於其強力的子彈和彈匣容量，該手槍同樣受到黑社會成員的歡迎。在特異區能找到的瑪莎手槍通常都年代久遠，可能來自退役的庫存。</text>
+	</string>
+
+	<string id="st_wpn_walther_descr">
+		<text>這是一枝優秀的西式手槍，以其可靠性、大容量彈匣和良好的精準度而聞名，屬於同類型中最符合人體工學的手槍之一。它也是特異區使用最廣的手槍之一，無論是專業人士還是新手都能玩轉。</text>
+	</string>
+
+	<string id="ammo-gauss_descr">
+		<text>使用閃光神器的封裝碎片作為能量來源的電池。採用高科技設備製造。</text>
+	</string>
+
+	<string id="ammo-gauss_cardan_descr">
+		<text>這些低容量電池使用閃光神器的封裝碎片作為能量來源。它們的低容量是因為生產條件不佳和缺乏專業設備。</text>
+	</string>
+
+</string_table>

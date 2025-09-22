@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="not_enough_money_actor">
+		<text>金錢不足</text>
+	</string>
+
+	<string id="not_enough_money_partner">
+		<text>角色金錢不足</text>
+	</string>
+
+	<string id="quick_use_str_1">
+		<text>$$ACTION_QUICK_USE_1$$</text>
+	</string>
+
+	<string id="quick_use_str_2">
+		<text>$$ACTION_QUICK_USE_2$$</text>
+	</string>
+
+	<string id="quick_use_str_3">
+		<text>$$ACTION_QUICK_USE_3$$</text>
+	</string>
+
+	<string id="quick_use_str_4">
+		<text>$$ACTION_QUICK_USE_4$$</text>
+	</string>
+
+	<string id="st_activate_artefact">
+		<text>活化的神器</text>
+	</string>
+
+	<string id="st_attach_gl_to_rifle">
+		<text>將榴彈發射器裝在</text>
+	</string>
+
+	<string id="st_attach_scope_to_pistol">
+		<text>將瞄準鏡裝在</text>
+	</string>
+
+	<string id="st_attach_silencer_to_pistol">
+		<text>將滅音器裝在</text>
+	</string>
+
+	<string id="st_base_cost">
+		<text>價格</text>
+	</string>
+
+	<string id="st_community">
+		<text>組織：</text>
+	</string>
+
+	<string id="st_condition">
+		<text>狀態</text>
+	</string>
+
+	<string id="st_detach_gl">
+		<text>卸下榴彈發射器</text>
+	</string>
+
+	<string id="st_detach_scope">
+		<text>卸下瞄準鏡</text>
+	</string>
+
+	<string id="st_detach_silencer">
+		<text>卸下滅音器</text>
+	</string>
+
+	<string id="st_dress_outfit">
+		<text>穿上服裝</text>
+	</string>
+
+	<string id="st_drop">
+		<text>丟棄</text>
+	</string>
+
+	<string id="st_drop_all">
+		<text>全部丟棄</text>
+	</string>
+
+	<string id="st_eat">
+		<text>進食</text>
+	</string>
+
+	<string id="st_kg">
+		<text>公斤</text>
+	</string>
+
+	<string id="st_move_on_belt">
+		<text>裝在腰帶上</text>
+	</string>
+
+	<string id="st_move_to_bag">
+		<text>移到背包裡</text>
+	</string>
+
+	<string id="st_move_to_slot">
+		<text>移到欄位中</text>
+	</string>
+
+	<string id="st_no_trade_tip_1">
+		<text>貿易商人對這種東西沒有興趣。</text>
+	</string>
+
+	<string id="st_no_trade_tip_2">
+		<text>這件物品損壞嚴重，無法交易。</text>
+	</string>
+
+	<string id="st_play">
+		<text>遊玩</text>
+	</string>
+
+	<string id="st_sell_item">
+		<text>販賣物件</text>
+	</string>
+
+	<string id="st_ui_armor_static">
+		<text>護甲狀態</text>
+	</string>
+
+	<string id="st_ui_main_sensor">
+		<text>放射性污染</text>
+	</string>
+
+	<string id="st_undress_outfit">
+		<text>卸下服裝</text>
+	</string>
+
+	<string id="st_unload_magazine">
+		<text>上膛</text>
+	</string>
+
+	<string id="st_use">
+		<text>使用</text>
+	</string>
+
+	<string id="st_weight">
+		<text>總重量</text>
+	</string>
+
+	<string id="ui_ammo_count">
+		<text>彈匣尺寸</text>
+	</string>
+
+	<string id="ui_inv_accuracy">
+		<text>正確</text>
+	</string>
+
+	<string id="ui_inv_ammo_pistol">
+		<text>購買手槍用的基本子彈(Q)</text>
+	</string>
+
+	<string id="ui_inv_ammo_rifle">
+		<text>購買步槍彈藥（W）</text>
+	</string>
+
+	<string id="ui_inv_bleeding">
+		<text>傷口治療</text>
+	</string>
+
+	<string id="ui_inv_cancel">
+		<text>取消</text>
+	</string>
+
+	<string id="ui_inv_cant_buy_item">
+		<text>無法購買武器</text>
+	</string>
+
+	<string id="ui_inv_count_restr">
+		<text>數量限制</text>
+	</string>
+
+	<string id="ui_inv_damage">
+		<text>傷害</text>
+	</string>
+
+	<string id="ui_inv_default(F5)">
+		<text>預設(F5)</text>
+	</string>
+
+	<string id="ui_inv_exit">
+		<text>返回</text>
+	</string>
+
+	<string id="ui_inv_granadelauncher_rifle">
+		<text>購買步槍用的下掛式榴彈發射器 (D)</text>
+	</string>
+
+	<string id="ui_inv_granades_rifle">
+		<text>購買下掛式榴彈發射器用的榴彈 (E)</text>
+	</string>
+
+	<string id="ui_inv_handling">
+		<text>操作</text>
+	</string>
+
+	<string id="ui_inv_has">
+		<text>現在</text>
+	</string>
+
+	<string id="ui_inv_health">
+		<text>健康恢復</text>
+	</string>
+
+	<string id="ui_inv_heavy_weapons">
+		<text>重</text>
+	</string>
+
+	<string id="ui_inv_last_buy">
+		<text>購買上一次的裝備配置</text>
+	</string>
+
+	<string id="ui_inv_last_buy(F4)">
+		<text>上一個（F4）</text>
+	</string>
+
+	<string id="ui_inv_money">
+		<text>金錢</text>
+	</string>
+
+	<string id="ui_inv_need">
+		<text>需要</text>
+	</string>
+
+	<string id="ui_inv_not_enought_money">
+		<text>金錢不足</text>
+	</string>
+
+	<string id="ui_inv_ok">
+		<text>OK</text>
+	</string>
+
+	<string id="ui_inv_outfit_additional_weight">
+		<text>穿戴重量</text>
+	</string>
+
+	<string id="ui_inv_outfit_burn_protection">
+		<text>熱保護</text>
+	</string>
+
+	<string id="ui_inv_outfit_chemical_burn_protection">
+		<text>化學保護</text>
+	</string>
+
+	<string id="ui_inv_outfit_fire_wound_protection">
+		<text>護甲</text>
+	</string>
+
+	<string id="ui_inv_outfit_radiation_protection">
+		<text>輻射保護</text>
+	</string>
+
+	<string id="ui_inv_outfit_shock_protection">
+		<text>電保護</text>
+	</string>
+
+	<string id="ui_inv_outfit_telepatic_protection">
+		<text>心靈保護</text>
+	</string>
+
+	<string id="ui_inv_outfit_wound_protection">
+		<text>負面影響</text>
+	</string>
+
+	<string id="ui_inv_power">
+		<text>體力恢復</text>
+	</string>
+
+	<string id="ui_inv_preset1(F1)">
+		<text>裝備配置1(F1)</text>
+	</string>
+
+	<string id="ui_inv_preset2(F2)">
+		<text>裝備配置2(F2)</text>
+	</string>
+
+	<string id="ui_inv_preset3(F3)">
+		<text>裝備配置3(F3)</text>
+	</string>
+
+	<string id="ui_inv_radiation">
+		<text>輻射</text>
+	</string>
+
+	<string id="ui_inv_rank_restr">
+		<text>排名限制</text>
+	</string>
+
+	<string id="ui_inv_rate_of_fire">
+		<text>射速</text>
+	</string>
+
+	<string id="ui_inv_reset_items(C)">
+		<text>清空(C)</text>
+	</string>
+
+	<string id="ui_inv_rifles">
+		<text>步槍</text>
+	</string>
+
+	<string id="ui_inv_satiety">
+		<text>消滅饑餓</text>
+	</string>
+
+	<string id="ui_inv_scope_rifle">
+		<text>購買步槍用的瞄準鏡(S)</text>
+	</string>
+
+	<string id="ui_inv_sell_items(X)">
+		<text>賣掉背包內所有物品（X）</text>
+	</string>
+
+	<string id="ui_inv_shotguns">
+		<text>步槍</text>
+	</string>
+
+	<string id="ui_inv_silencer_pistol">
+		<text>購買手槍(A)用的滅音器</text>
+	</string>
+
+	<string id="ui_inv_silencer_rifle">
+		<text>購買步槍(F)用的滅音器</text>
+	</string>
+
+	<string id="ui_inv_sniper_rifles">
+		<text>狙擊手</text>
+	</string>
+
+	<string id="ui_inv_time">
+		<text>時間</text>
+	</string>
+
+	<string id="ui_inv_you_already_have">
+		<text>已經有了</text>
+	</string>
+
+	<string id="ui_st_err_gs_not_available">
+		<text>無法線上使用S.T.A.L.K.E.R.服務。</text>
+	</string>
+
+	<string id="ui_st_err_sb_master_server_conn_fail">
+		<text>無法連接主伺服器</text>
+	</string>
+
+	<string id="ui_st_outfit_protect">
+		<text>防護：</text>
+	</string>
+
+	<string id="ui_st_preset_def">
+		<text>預設</text>
+	</string>
+
+	<string id="ui_st_preset_stored_to">
+		<text>將購買的裝備設置儲存為</text>
+	</string>
+
+	<string id="ui_total_weight">
+		<text>總重量：</text>
+	</string>
+
+	<string id="st_drink">
+		<text>飲料</text>
+	</string>
+
+	<string id="ui_inv_outfit_power_restore">
+		<text>體力恢復</text>
+	</string>
+
+	<string id="st_ui_bleeding_sensor">
+		<text>流血</text>
+	</string>
+
+	<string id="ui_inv_weight">
+		<text>最大重量</text>
+	</string>
+
+	<string id="st_ui_health_sensor">
+		<text>健康</text>
+	</string>
+
+	<string id="ui_ammo_types">
+		<text>彈藥</text>
+	</string>
+
+	<string id="ui_inv_effect_time">
+		<text>時限</text>
+	</string>
+
+	<string id="ui_inv_seconds_short">
+		<text>秒鐘</text>
+	</string>
+
+	<string id="ui_inv_survive_surge">
+		<text>讓你在排放中存活</text>
+	</string>
+
+	<string id="st_undress_helmet">
+		<text>穿戴頭盔</text>
+	</string>
+
+	<string id="st_dress_helmet">
+		<text>卸下頭盔</text>
+	</string>
+
+	<string id="st_detach_quickslot">
+		<text>從快捷欄中移除</text>
+	</string>
+
+	<string id="st_drop_amount">
+		<text>丟棄多個</text>
+	</string>
+
+	<string id="st_move_to_quickslot">
+		<text>裝到快捷欄</text>
+	</string>
+
+</string_table>

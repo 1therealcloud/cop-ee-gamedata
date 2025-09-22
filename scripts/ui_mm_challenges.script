@@ -1,0 +1,374 @@
+local ColorFocused = GetARGB(255, 255, 255, 255)
+local ColorUnfocused = GetARGB(255, 166, 166, 166)
+local ColorUnlocked = GetARGB(255, 51, 204, 51)
+local ColorLocked = GetARGB(255, 255, 51, 0)
+local ColorStarted = GetARGB(255, 153, 204, 255)
+
+local HiddenImage = "challenges\\Secret"
+
+local challenges_names = {
+	"pripyat_expert",
+	"pioneer",
+	"mutant_hunter",
+	"detective",
+	"one_of_the_lads",
+	"kingpin",
+	"herald_of_justice",
+	"seeker",
+	"battle_systems_master",
+	"high_tech_master",
+	"skilled_stalker",
+	"leader",
+	"diplomat",
+	"research_man",
+	"friend_of_duty",
+	"friend_of_freedom",
+	"balance_advocate",
+	"wealthy",
+	"keeper_of_secrets",
+	"marked_by_zone",
+	"information_dealer",
+	"friend_of_stalkers",
+	"gifts_of_nature",
+	"alpha_predator",
+	"coffee_reactor",
+	"pinocchio",
+	"detectortive",
+	"welltimed_backup",
+	"under_every_rock",
+	"ghostbuster",
+	"unsinkable",
+	"arkless",
+	"train_to_yanov",
+	"imperfect_plans",
+	"forgotten_paths",
+	"purgatory",
+	"item_62",
+	"librarian",
+	"evacuation",
+	"stalker_by_blood",
+	"mirone_is_it_you",
+	"old_acquaintance",
+	"agent_f1",
+	"natural_disaster",
+	"its_all_fake",
+	"intelligence_agent",
+	"the_zone_will_remember_us",
+	"irresistable_call"
+}
+
+class "challenges_dialog" (CUIScriptWnd)
+
+function challenges_dialog:__init() super()
+	self.mm_is_controller = main_menu.in_controller_mode()
+    self:InitControls()
+    self:InitCallBacks()
+	
+	self.focusIndex = 1
+	
+	if self.mm_is_controller then
+	 action_repeaters():Register(self, key_bindings.kUI_UP, 0, 0)
+	 action_repeaters():Register(self, key_bindings.kUI_DOWN, 0, 0)
+	end
+end
+
+function challenges_dialog:__finalize()
+	if self.mm_is_controller then
+	action_repeaters():UnregisterOwner(self)
+	end
+end
+
+function challenges_dialog:add_element(xml, id_name)
+	local _st = xml:InitStatic("challenges:item", self.challenges_list)
+
+	local picture_element = xml:InitStatic("challenges:picture", _st)
+	local pictureX = picture_element:GetWndPos().x
+	picture_element:SetWndPos(vector2():set(pictureX,3))
+	picture_element:SetStretchTexture(true)
+	
+	local caption_element = xml:InitTextWnd("challenges:name", _st)
+	local capX = caption_element:GetWndPos().x
+	caption_element:SetWndPos(vector2():set(capX,3))
+
+	local description_element = xml:InitTextWnd("challenges:desc", _st)
+	local descX = description_element:GetWndPos().x
+	local descY = description_element:GetWndPos().y
+	description_element:SetWndPos(vector2():set(descX,descY))
+
+	local state_element = xml:InitTextWnd("challenges:state", _st)
+	local stateX = state_element:GetWndPos().x
+	local stateY = state_element:GetWndPos().y
+	state_element:SetWndPos(vector2():set(stateX,stateY))
+	
+	table.insert(self.focusList, id_name )
+	self.challenges_elements[id_name] = {[0] = caption_element, [1] = description_element, [2] = state_element, [3] = picture_element, [4] = _st}
+
+	self:ActualizeElement(id_name)
+end 
+
+function challenges_dialog:ActualizeElement(id_name)
+	local data = self.challenges_elements[id_name]
+		
+	if data == nil then
+		self:add_element(self.xml, id_name)
+	else
+		local caption_element = data[0]
+		local description_element = data[1]
+		local state_element = data[2]
+		local picture_element = data[3]
+
+		local unlocked = check_achievement_unlocked(id_name)
+		local name = get_achievement_name(id_name)
+		local desc = get_achievement_description(id_name)
+		local state = get_achievement_state(id_name)
+		local type = get_achievement_type(id_name)
+		local state_translated = game.translate_string("st_sp_achievement_state")
+		local state_string = ""
+
+		local Color
+		local icon = get_achievement_icon(id_name)
+
+		if type == 0 or unlocked then
+			if unlocked then
+				state_string = state_translated .. game.translate_string("st_sp_achievement_unlocked")
+				Color = ColorUnlocked
+			else
+				state_string = state_translated .. game.translate_string("st_sp_achievement_locked")
+				Color = ColorLocked
+			end
+		elseif type == 1 or type == 2 then
+			state_string = state_translated .. state
+			Color = ColorStarted
+		end
+
+		if get_achievement_visible(id_name) == false then
+			name = game.translate_string("st_sp_achievement_hidden")
+			desc = ""
+			state_string = ""
+			icon = HiddenImage
+		end
+		
+		picture_element:InitTexture(icon)
+		state_element:SetTextColor(Color)
+		caption_element:SetTextColor(ColorUnfocused)
+		description_element:SetTextColor(ColorUnfocused)
+
+		caption_element:SetText(game.translate_string(name))
+		description_element:SetText(game.translate_string(desc))
+		state_element:SetText(state_string)
+	end
+end
+
+function challenges_dialog:InitControls()
+
+	self.focusList = {}
+	self.challenges_elements = {}
+
+	self:SetWndRect				(Frect():set(0,0,1024,768))
+	self:Enable					(true)
+
+	local xml					= CScriptXmlInit()
+	xml:ParseFile				("ui_mm_challenges.xml")
+
+	self.xml = xml
+	
+	if self.mm_is_controller then
+		self.sndSwitch	= sound_object("interface\\console\\menu_switch")
+		self.sndSelect	= sound_object("interface\\console\\menu_select")
+		self.sndDecline	= sound_object("interface\\console\\menu_decline")
+	end
+	
+	--MTB_Jakub_Jurek [JUD-589]
+	local platform = get_platform_id()
+	if is_using_4k_movies() then -- MTB-anna.galach
+		xml:InitStatic("background_4k", self)
+	elseif platform == platform_ids.PLATFORM_ORBIS or platform == platform_ids.PLATFORM_PROSPERO or platform == platform_ids.PLATFORM_GDK then
+		xml:InitStatic("background_orbis", self)
+	elseif platform == platform_ids.PLATFORM_GDK_1440 then
+		xml:InitStatic("background_orbis", self)
+	elseif platform == platform_ids.PLATFORM_GDK_4K then
+		xml:InitStatic("background_orbis", self) 
+	elseif platform == platform_ids.PLATFORM_NX64 then
+	-- MTB-Damian.Romanik [JP2-102] Start: NX64 textures
+		xml:InitStatic("background_nx64", self)
+	-- MTB-Damian.Romanik [JP2-102] End: NX64 textures
+	--MTB_Jakub_Jurek [JUD-589] end	
+	else
+		xml:InitStatic			("background",self)	
+	end
+	
+	self.dialog				= xml:InitStatic("main_dialog:dialog", self)
+
+	self.challenges_list	= xml:InitScrollView("challenges:scroll_v", self.dialog	)
+
+	self:UpdateList()
+
+	if not self.mm_is_controller or (get_platform_id() == platform_ids.PLATFORM_NX64) then
+		self.btn = xml:Init3tButton		("main_dialog:btn_cancel", self.dialog)
+		self:Register				(self.btn, "btn_cancel")
+
+		if get_platform_id() == platform_ids.PLATFORM_NX64 then
+			self.input_legend = xml:InitInputLegend("input_legend", self)
+		end
+	else
+		self.input_legend = xml:InitInputLegend("input_legend", self)
+	end
+	
+	if self.mm_is_controller then
+		self:UpdateInputLegend()
+	end
+end
+
+function challenges_dialog:InitCallBacks()
+	self:AddCallback("btn_cancel",			ui_events.BUTTON_CLICKED,	self.OnBtnCancel,			self)
+end
+
+
+function challenges_dialog:OnBtnCancel()
+	if self.mm_is_controller then
+		self.sndDecline:play(nil, 0.0, sound_object.s2d)
+	end
+	
+	self.owner:ShowDialog(true)
+	self:HideDialog()
+	self.owner:Show(true)
+end
+
+function challenges_dialog:OnKeyboard(dik, keyboard_action)
+
+	if keyboard_action == ui_events.WINDOW_KEY_PRESSED then
+		if not self.mm_is_controller then
+			if dik == DIK_keys.DIK_ESCAPE then
+				self:OnBtnCancel() 
+				return true
+			end
+		else
+			if is_binded(key_bindings.kUI_BACK, dik) then
+				self:OnBtnCancel() 
+				return true
+			elseif is_binded(key_bindings.kUI_DOWN, dik) then
+				if not any_binded_key_for_action_pressed_c(key_bindings.kUI_UP) then
+					self:OnElementChangeSelection(1, true)
+				end
+				action_repeaters():SetActionStarted(self, key_bindings.kUI_DOWN)
+				return true
+			
+			elseif is_binded(key_bindings.kUI_UP, dik) then
+				if not any_binded_key_for_action_pressed_c(key_bindings.kUI_DOWN) then
+					self:OnElementChangeSelection(-1, true)
+				end
+				action_repeaters():SetActionStarted(self, key_bindings.kUI_UP)
+				return true
+			end
+		end
+	end
+
+	return CUIScriptWnd.OnKeyboard(self,dik,keyboard_action)
+end
+
+function challenges_dialog:OnKeyboardHold(dik)
+
+	if self.mm_is_controller then 	
+		if is_binded(key_bindings.kUI_DOWN, dik) then
+			if action_repeaters():CanRepeatActionNow(self, key_bindings.kUI_DOWN) 
+			and not any_binded_key_for_action_pressed_c(key_bindings.kUI_UP) then
+				self:OnElementChangeSelection(1, false)
+			end
+			return true
+			
+		elseif is_binded(key_bindings.kUI_UP, dik) then
+			if action_repeaters():CanRepeatActionNow(self, key_bindings.kUI_UP) 
+			and not any_binded_key_for_action_pressed_c(key_bindings.kUI_DOWN) then
+				self:OnElementChangeSelection(-1, false) 
+			end
+			return true
+		end
+	end
+
+	return CUIScriptWnd.OnKeyboardHold(self,dik)
+end
+
+function challenges_dialog:OnElementChangeSelection(offset, loop)
+
+	local eltCount = #self.focusList
+	local newFocusIndex = self.focusIndex + offset
+
+	if newFocusIndex > eltCount then
+		if loop then
+			newFocusIndex = 1
+		else
+			return false
+		end
+	elseif newFocusIndex < 1 then
+		if loop then
+			newFocusIndex = eltCount
+		else
+			return false
+		end
+	end
+	
+	self.sndSwitch:play(nil, 0.0, sound_object.s2d)
+	
+	self:OnElementSetSelected(self.focusIndex, false)
+	self.focusIndex = newFocusIndex	
+	self:OnElementSetSelected(self.focusIndex, true)
+	return true
+end
+
+function challenges_dialog:OnElementSetSelected(eltIndex, on)
+
+	local eltCount = #self.focusList
+	
+	if eltIndex < 1 or eltIndex > eltCount then
+		return
+	end
+
+	local focusRecord = self.challenges_elements[self.focusList[eltIndex]]
+
+	local caption = focusRecord[0]
+	local description = focusRecord[1]
+	local state = focusRecord[2]
+
+	local Color
+
+	if on then
+		Color = ColorFocused
+
+		local elementParent = focusRecord[4]
+	
+		local scroll = self.challenges_list
+		local lpos = scroll:GetMinScrollPos()
+		local rpos = scroll:GetMaxScrollPos()
+		local lrdif = (rpos - lpos)
+		
+		local ratio = elementParent:GetWndPos().y / scroll:GetPadSize().y
+		
+		local spos = lpos + lrdif * ratio - lrdif * (1.2 / eltCount)
+		scroll:SetScrollPos(spos)
+	else
+		Color = ColorUnfocused
+	end
+
+	caption:SetTextColor(Color)
+	description:SetTextColor(Color)
+end
+
+function challenges_dialog:UpdateInputLegend()
+	self.input_legend:ClearAll()
+	self.input_legend:AddItem('legend_ui_back', true)
+	self.input_legend:UpdateText()
+end
+
+function challenges_dialog:UpdateList()
+	for i, name in ipairs(challenges_names) do
+		self:ActualizeElement(name)
+	end
+
+	self:OnElementSetSelected(1, true)
+end
+
+function challenges_dialog:OnTouchpadButtons()
+	local shouldShow = not is_switch_in_TV()
+
+	self.btn:Show(shouldShow)
+end

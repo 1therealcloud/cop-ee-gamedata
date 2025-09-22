@@ -1,0 +1,936 @@
+class "opt_controller_layout" (CUIScriptWnd)
+
+local captions = {
+{--Old default
+	--General Movements
+	{{
+	cap_touch_pad = "ui_pad_layout_PDA",
+	cap_L1 = "ui_pad_layout_wheel",
+	cap_L2 = "ui_pad_layout_aim",
+	cap_dpadu = "ui_pad_layout_quckslot0",
+	cap_dpadl = "ui_pad_layout_quckslot1",
+	cap_dpadr = "ui_pad_layout_quckslot2",
+	cap_dpadd = "ui_pad_layout_quckslot3",
+	cap_lsh = "ui_pad_layout_strafe",
+	cap_lsv = "ui_pad_layout_move",
+	cap_lsclick = "ui_pad_layout_sprint_crouch_old",
+	},
+	{
+	cap_rmenu = "ui_pad_layout_menu" , 
+	cap_R1 = "ui_pad_layout_jump", 
+	cap_R2 = "ui_pad_layout_shoot", 
+	cap_y = "ui_pad_layout_inventory", 
+	cap_b = "ui_pad_layout_crouch", 
+	cap_x = "ui_pad_layout_reload", 
+	cap_a = "ui_pad_layout_action", 
+	cap_rsh = "ui_pad_layout_lookx", 
+	cap_rsv = "ui_pad_layout_Looky", 
+	cap_rsclick = "ui_pad_layout_torch"
+	}},
+	--While Zooming
+	{{
+	cap_touch_pad = "ui_pad_layout_PDA",
+	cap_L1 = "ui_pad_layout_lean_left",
+	cap_L2 = " -",
+	cap_dpadu = "ui_pad_layout_weapon_zoom_in",
+	cap_dpadl = "ui_pad_layout_quckslot1",
+	cap_dpadr = "ui_pad_layout_quckslot2",
+	cap_dpadd = "ui_pad_layout_weapon_zoom_out",
+	cap_lsh = "ui_pad_layout_strafe",
+	cap_lsv = "ui_pad_layout_move",
+	cap_lsclick = "ui_pad_layout_crouch_old",
+	},
+	{
+	cap_rmenu = "ui_pad_layout_menu" , 
+	cap_R1 = "ui_pad_layout_lean_right", 
+	cap_R2 = "ui_pad_layout_shoot", 
+	cap_y = "ui_pad_layout_fire_rate", 
+	cap_b = "ui_pad_layout_crouch", 
+	cap_x = "ui_pad_layout_reload", 
+	cap_a = "ui_pad_layout_action", 
+	cap_rsh = "ui_pad_layout_lookx", 
+	cap_rsv = "ui_pad_layout_Looky", 
+	cap_rsclick = "ui_pad_layout_torch"
+	}},
+	--Wheel Menu
+	{{
+	cap_touch_pad = " -",
+	cap_L1 = "ui_pad_layout_wheel",
+	cap_L2 = " -",
+	cap_dpadu = " -",
+	cap_dpadl = " -",
+	cap_dpadr = " -",
+	cap_dpadd = " -",
+	cap_lsh = "ui_pad_layout_strafe",
+	cap_lsv = "ui_pad_layout_move",
+	cap_lsclick = " -",
+	},
+	{
+	cap_rmenu = " -" , 
+	cap_R1 = " -", 
+	cap_R2 = "ui_pad_layout_shoot", 
+	cap_y = "ui_pad_layout_fire_rate", 
+	cap_b = "ui_pad_layout_drop", 
+	cap_x = "ui_pad_layout_grande_luncher", 
+	cap_a = "ui_pad_layout_ammo_type", 
+	cap_rsh = "ui_pad_layout_wheelmenu_select", 
+	cap_rsv = "ui_pad_layout_wheelmenu_select", 
+	cap_rsclick = "ui_pad_layout_night_vision"
+	}},
+	--Talk UI
+	{{
+	cap_touch_pad = " -",
+	cap_L1 = " -",
+	cap_L2 = " -",
+	cap_dpadu = "ui_pad_layout_select",
+	cap_dpadl = " -",
+	cap_dpadr = " -",
+	cap_dpadd = "ui_pad_layout_select",
+	cap_lsh = " -",
+	cap_lsv = "ui_pad_layout_select",
+	cap_lsclick = " -",
+	},
+	{
+	cap_rmenu = "ui_pad_layout_back" , 
+	cap_R1 = " -", 
+	cap_R2 = " -", 
+	cap_y = " -", 
+	cap_b = "ui_pad_layout_back", 
+	cap_x = "ui_pad_layout_trade_upgrade", 
+	cap_a = "ui_pad_layout_talk", 
+	cap_rsh = " -", 
+	cap_rsv = "ui_pad_layout_scroll_info", 
+	cap_rsclick = " -"
+	}},
+	-- Trade UI
+	{{
+	cap_touch_pad = " -",
+	cap_L1 = " -",
+	cap_L2 = "ui_pad_layout_scroll_info",
+	cap_dpadu = "ui_pad_layout_select",
+	cap_dpadl = "ui_pad_layout_select",
+	cap_dpadr = "ui_pad_layout_select",
+	cap_dpadd = "ui_pad_layout_select",
+	cap_lsh = "ui_pad_layout_select",
+	cap_lsv = "ui_pad_layout_select",
+	cap_lsclick = "ui_pad_layout_trade_upgrade",
+	},
+	{
+	cap_rmenu = "ui_pad_layout_back" , 
+	cap_R1 = " -", 
+	cap_R2 = "ui_pad_layout_scroll_info", 
+	cap_y = " -", 
+	cap_b = "ui_pad_layout_back", 
+	cap_x = "ui_pad_layout_actions", 
+	cap_a = "ui_pad_layout_action", 
+	cap_rsh = "ui_pad_layout_switch_area", 
+	cap_rsv = "ui_pad_layout_switch_area", 
+	cap_rsclick = "ui_pad_layout_inventory_info"
+	}},
+	--Inventory
+	{{
+	cap_touch_pad = " -",
+	cap_L1 = " -",
+	cap_L2 = "ui_pad_layout_scroll_info",
+	cap_dpadu = "ui_pad_layout_select",
+	cap_dpadl = "ui_pad_layout_select",
+	cap_dpadr = "ui_pad_layout_select",
+	cap_dpadd = "ui_pad_layout_select",
+	cap_lsh = "ui_pad_layout_select",
+	cap_lsv = "ui_pad_layout_select",
+	cap_lsclick = " -",
+	},
+	{
+	cap_rmenu = "ui_pad_layout_back" , 
+	cap_R1 = " -", 
+	cap_R2 = "ui_pad_layout_scroll_info", 
+	cap_y = "ui_pad_layout_back", 
+	cap_b = "ui_pad_layout_back", 
+	cap_x = "ui_pad_layout_actions", 
+	cap_a = "ui_pad_layout_action", 
+	cap_rsh = "ui_pad_layout_switch_area", 
+	cap_rsv = "ui_pad_layout_switch_area", 
+	cap_rsclick = "ui_pad_layout_inventory_info"
+	}},
+},
+{	--COD Like
+	--General Movements
+	{{
+	cap_touch_pad = "ui_pad_layout_PDA",
+	cap_L1 = "ui_pad_layout_wheel",
+	cap_L2 = "ui_pad_layout_aim",
+	cap_dpadu = "ui_pad_layout_quckslot0",
+	cap_dpadl = "ui_pad_layout_quckslot1",
+	cap_dpadr = "ui_pad_layout_quckslot2",
+	cap_dpadd = "ui_pad_layout_quckslot3",
+	cap_lsh = "ui_pad_layout_strafe",
+	cap_lsv = "ui_pad_layout_move",
+	cap_lsclick = "ui_pad_layout_sprint",
+	},
+	{
+	cap_rmenu = "ui_pad_layout_menu" , 
+	cap_R1 = "ui_pad_layout_reload", 
+	cap_R2 = "ui_pad_layout_shoot", 
+	cap_y = "ui_pad_layout_inventory", 
+	cap_b = "ui_pad_layout_crouch_cod", 
+	cap_x = "ui_pad_layout_reload_interact", 
+	cap_a = "ui_pad_layout_jump", 
+	cap_rsh = "ui_pad_layout_lookx", 
+	cap_rsv = "ui_pad_layout_Looky", 
+	cap_rsclick = "ui_pad_layout_torch"
+	}},
+	--While Zooming
+	{{
+	cap_touch_pad = "ui_pad_layout_PDA",
+	cap_L1 = "ui_pad_layout_lean_left",
+	cap_L2 = " -",
+	cap_dpadu = "ui_pad_layout_weapon_zoom_in",
+	cap_dpadl = "ui_pad_layout_quckslot1",
+	cap_dpadr = "ui_pad_layout_quckslot2",
+	cap_dpadd = "ui_pad_layout_weapon_zoom_out",
+	cap_lsh = "ui_pad_layout_strafe",
+	cap_lsv = "ui_pad_layout_move",
+	cap_lsclick = " -",
+	},
+	{
+	cap_rmenu = "ui_pad_layout_menu" , 
+	cap_R1 = "ui_pad_layout_lean_right", 
+	cap_R2 = "ui_pad_layout_shoot", 
+	cap_y = "ui_pad_layout_fire_rate", 
+	cap_b = "ui_pad_layout_crouch_cod", 
+	cap_x = "ui_pad_layout_reload_interact", 
+	cap_a = " -", 
+	cap_rsh = "ui_pad_layout_lookx", 
+	cap_rsv = "ui_pad_layout_Looky", 
+	cap_rsclick = "ui_pad_layout_torch"
+	}},
+	--Wheel Menu
+	{{
+	cap_touch_pad = " -",
+	cap_L1 = "ui_pad_layout_wheel",
+	cap_L2 = " -",
+	cap_dpadu = " -",
+	cap_dpadl = " -",
+	cap_dpadr = " -",
+	cap_dpadd = " -",
+	cap_lsh = "ui_pad_layout_strafe",
+	cap_lsv = "ui_pad_layout_move",
+	cap_lsclick = " -",
+	},
+	{
+	cap_rmenu = " -" , 
+	cap_R1 = " -", 
+	cap_R2 = "ui_pad_layout_shoot", 
+	cap_y = "ui_pad_layout_fire_rate", 
+	cap_b = "ui_pad_layout_drop", 
+	cap_x = "ui_pad_layout_grande_luncher", 
+	cap_a = "ui_pad_layout_ammo_type", 
+	cap_rsh = "ui_pad_layout_wheelmenu_select", 
+	cap_rsv = "ui_pad_layout_wheelmenu_select", 
+	cap_rsclick = "ui_pad_layout_night_vision"
+	}},
+	--Talk UI
+	{{
+	cap_touch_pad = " -",
+	cap_L1 = " -",
+	cap_L2 = " -",
+	cap_dpadu = "ui_pad_layout_select",
+	cap_dpadl = " -",
+	cap_dpadr = " -",
+	cap_dpadd = "ui_pad_layout_select",
+	cap_lsh = " -",
+	cap_lsv = "ui_pad_layout_select",
+	cap_lsclick = " -",
+	},
+	{
+	cap_rmenu = "ui_pad_layout_back" , 
+	cap_R1 = " -", 
+	cap_R2 = " -", 
+	cap_y = "ui_pad_layout_trade_upgrade", 
+	cap_b = "ui_pad_layout_back", 
+	cap_x = "ui_pad_layout_talk", 
+	cap_a = "ui_pad_layout_talk", 
+	cap_rsh = " -", 
+	cap_rsv = "ui_pad_layout_scroll_info", 
+	cap_rsclick = " -"
+	}},
+	-- Trade UI
+	{{
+	cap_touch_pad = " -",
+	cap_L1 = " -",
+	cap_L2 = "ui_pad_layout_scroll_info",
+	cap_dpadu = "ui_pad_layout_select",
+	cap_dpadl = "ui_pad_layout_select",
+	cap_dpadr = "ui_pad_layout_select",
+	cap_dpadd = "ui_pad_layout_select",
+	cap_lsh = "ui_pad_layout_select",
+	cap_lsv = "ui_pad_layout_select",
+	cap_lsclick = "ui_pad_layout_trade_upgrade",
+	},
+	{
+	cap_rmenu = "ui_pad_layout_back" , 
+	cap_R1 = " -", 
+	cap_R2 = "ui_pad_layout_scroll_info", 
+	cap_y = " -", 
+	cap_b = "ui_pad_layout_back", 
+	cap_x = "ui_pad_layout_actions", 
+	cap_a = "ui_pad_layout_action", 
+	cap_rsh = "ui_pad_layout_switch_area", 
+	cap_rsv = "ui_pad_layout_switch_area", 
+	cap_rsclick = "ui_pad_layout_inventory_info"
+	}},
+	--Inventory
+	{{
+	cap_touch_pad = " -",
+	cap_L1 = " -",
+	cap_L2 = "ui_pad_layout_scroll_info",
+	cap_dpadu = "ui_pad_layout_select",
+	cap_dpadl = "ui_pad_layout_select",
+	cap_dpadr = "ui_pad_layout_select",
+	cap_dpadd = "ui_pad_layout_select",
+	cap_lsh = "ui_pad_layout_select",
+	cap_lsv = "ui_pad_layout_select",
+	cap_lsclick = " -",
+	},
+	{
+	cap_rmenu = "ui_pad_layout_back" , 
+	cap_R1 = " -", 
+	cap_R2 = "ui_pad_layout_scroll_info", 
+	cap_y = "ui_pad_layout_back", 
+	cap_b = "ui_pad_layout_back", 
+	cap_x = "ui_pad_layout_actions", 
+	cap_a = "ui_pad_layout_action", 
+	cap_rsh = "ui_pad_layout_switch_area", 
+	cap_rsv = "ui_pad_layout_switch_area", 
+	cap_rsclick = "ui_pad_layout_inventory_info"
+	}},
+},
+{--Old default NX64
+	--General Movements
+	{{
+	cap_touch_pad = "ui_pad_layout_PDA",
+	cap_L1 = "ui_pad_layout_wheel",
+	cap_L2 = "ui_pad_layout_aim",
+	cap_dpadu = "ui_pad_layout_quckslot0",
+	cap_dpadl = "ui_pad_layout_quckslot1",
+	cap_dpadr = "ui_pad_layout_quckslot2",
+	cap_dpadd = "ui_pad_layout_quckslot3",
+	cap_lsh = "ui_pad_layout_strafe",
+	cap_lsv = "ui_pad_layout_move",
+	cap_lsclick = "ui_pad_layout_sprint_crouch_old",
+	},
+	{
+	cap_rmenu = "ui_pad_layout_menu" , 
+	cap_R1 = "ui_pad_layout_jump", 
+	cap_R2 = "ui_pad_layout_shoot", 
+	cap_y = "ui_pad_layout_reload", 
+	cap_b = "ui_pad_layout_action", 
+	cap_x = "ui_pad_layout_inventory", 
+	cap_a = "ui_pad_layout_crouch", 
+	cap_rsh = "ui_pad_layout_lookx", 
+	cap_rsv = "ui_pad_layout_Looky", 
+	cap_rsclick = "ui_pad_layout_torch"
+	}},
+	--While Zooming
+	{{
+	cap_touch_pad = "ui_pad_layout_PDA",
+	cap_L1 = "ui_pad_layout_lean_left",
+	cap_L2 = " -",
+	cap_dpadu = "ui_pad_layout_weapon_zoom_in",
+	cap_dpadl = "ui_pad_layout_quckslot1",
+	cap_dpadr = "ui_pad_layout_quckslot2",
+	cap_dpadd = "ui_pad_layout_weapon_zoom_out",
+	cap_lsh = "ui_pad_layout_strafe",
+	cap_lsv = "ui_pad_layout_move",
+	cap_lsclick = "ui_pad_layout_crouch_old",
+	},
+	{
+	cap_rmenu = "ui_pad_layout_menu" , 
+	cap_R1 = "ui_pad_layout_lean_right", 
+	cap_R2 = "ui_pad_layout_shoot", 
+	cap_y = "ui_pad_layout_reload", 
+	cap_b = "ui_pad_layout_action", 
+	cap_x = "ui_pad_layout_fire_rate", 
+	cap_a = "ui_pad_layout_crouch", 
+	cap_rsh = "ui_pad_layout_lookx", 
+	cap_rsv = "ui_pad_layout_Looky", 
+	cap_rsclick = "ui_pad_layout_torch"
+	}},
+	--Wheel Menu
+	{{
+	cap_touch_pad = " -",
+	cap_L1 = "ui_pad_layout_wheel",
+	cap_L2 = " -",
+	cap_dpadu = " -",
+	cap_dpadl = " -",
+	cap_dpadr = " -",
+	cap_dpadd = " -",
+	cap_lsh = "ui_pad_layout_strafe",
+	cap_lsv = "ui_pad_layout_move",
+	cap_lsclick = " -",
+	},
+	{
+	cap_rmenu = " -" , 
+	cap_R1 = " -", 
+	cap_R2 = "ui_pad_layout_shoot", 
+	cap_y = "ui_pad_layout_grande_luncher", 
+	cap_b = "ui_pad_layout_ammo_type", 
+	cap_x = "ui_pad_layout_fire_rate", 
+	cap_a = "ui_pad_layout_drop", 
+	cap_rsh = "ui_pad_layout_wheelmenu_select", 
+	cap_rsv = "ui_pad_layout_wheelmenu_select", 
+	cap_rsclick = "ui_pad_layout_night_vision"
+	}},
+	--Talk UI
+	{{
+	cap_touch_pad = " -",
+	cap_L1 = " -",
+	cap_L2 = " -",
+	cap_dpadu = "ui_pad_layout_select",
+	cap_dpadl = " -",
+	cap_dpadr = " -",
+	cap_dpadd = "ui_pad_layout_select",
+	cap_lsh = " -",
+	cap_lsv = "ui_pad_layout_select",
+	cap_lsclick = " -",
+	},
+	{
+	cap_rmenu = "ui_pad_layout_back" , 
+	cap_R1 = " -", 
+	cap_R2 = " -", 
+	cap_y = "ui_pad_layout_trade_upgrade", 
+	cap_b = "ui_pad_layout_back", 
+	cap_x = " -", 
+	cap_a = "ui_pad_layout_talk", 
+	cap_rsh = " -", 
+	cap_rsv = "ui_pad_layout_scroll_info", 
+	cap_rsclick = " -"
+	}},
+	-- Trade UI
+	{{
+	cap_touch_pad = " -",
+	cap_L1 = " -",
+	cap_L2 = "ui_pad_layout_scroll_info",
+	cap_dpadu = "ui_pad_layout_select",
+	cap_dpadl = "ui_pad_layout_select",
+	cap_dpadr = "ui_pad_layout_select",
+	cap_dpadd = "ui_pad_layout_select",
+	cap_lsh = "ui_pad_layout_select",
+	cap_lsv = "ui_pad_layout_select",
+	cap_lsclick = "ui_pad_layout_trade_upgrade",
+	},
+	{
+	cap_rmenu = "ui_pad_layout_back" , 
+	cap_R1 = " -", 
+	cap_R2 = "ui_pad_layout_scroll_info", 
+	cap_y = "ui_pad_layout_actions", 
+	cap_b = "ui_pad_layout_back", 
+	cap_x = " -", 
+	cap_a = "ui_pad_layout_action", 
+	cap_rsh = "ui_pad_layout_switch_area", 
+	cap_rsv = "ui_pad_layout_switch_area", 
+	cap_rsclick = "ui_pad_layout_inventory_info"
+	}},
+	--Inventory
+	{{
+	cap_touch_pad = " -",
+	cap_L1 = " -",
+	cap_L2 = "ui_pad_layout_scroll_info",
+	cap_dpadu = "ui_pad_layout_select",
+	cap_dpadl = "ui_pad_layout_select",
+	cap_dpadr = "ui_pad_layout_select",
+	cap_dpadd = "ui_pad_layout_select",
+	cap_lsh = "ui_pad_layout_select",
+	cap_lsv = "ui_pad_layout_select",
+	cap_lsclick = " -",
+	},
+	{
+	cap_rmenu = "ui_pad_layout_back" , 
+	cap_R1 = " -", 
+	cap_R2 = "ui_pad_layout_scroll_info", 
+	cap_y = "ui_pad_layout_actions", 
+	cap_b = "ui_pad_layout_back", 
+	cap_x = "ui_pad_layout_back", 
+	cap_a = "ui_pad_layout_action", 
+	cap_rsh = "ui_pad_layout_switch_area", 
+	cap_rsv = "ui_pad_layout_switch_area", 
+	cap_rsclick = "ui_pad_layout_inventory_info"
+	}},
+},
+{	--COD Like NX64
+	--General Movements
+	{{
+	cap_touch_pad = "ui_pad_layout_PDA",
+	cap_L1 = "ui_pad_layout_wheel",
+	cap_L2 = "ui_pad_layout_aim",
+	cap_dpadu = "ui_pad_layout_quckslot0",
+	cap_dpadl = "ui_pad_layout_quckslot1",
+	cap_dpadr = "ui_pad_layout_quckslot2",
+	cap_dpadd = "ui_pad_layout_quckslot3",
+	cap_lsh = "ui_pad_layout_strafe",
+	cap_lsv = "ui_pad_layout_move",
+	cap_lsclick = "ui_pad_layout_sprint",
+	},
+	{
+	cap_rmenu = "ui_pad_layout_menu" , 
+	cap_R1 = " -", 
+	cap_R2 = "ui_pad_layout_shoot", 
+	cap_y = "ui_pad_layout_reload_interact", 
+	cap_b = "ui_pad_layout_jump", 
+	cap_x = "ui_pad_layout_inventory", 
+	cap_a = "ui_pad_layout_crouch_cod", 
+	cap_rsh = "ui_pad_layout_lookx", 
+	cap_rsv = "ui_pad_layout_Looky", 
+	cap_rsclick = "ui_pad_layout_torch"
+	}},
+	--While Zooming
+	{{
+	cap_touch_pad = "ui_pad_layout_PDA",
+	cap_L1 = "ui_pad_layout_lean_left",
+	cap_L2 = " -",
+	cap_dpadu = "ui_pad_layout_weapon_zoom_in",
+	cap_dpadl = "ui_pad_layout_quckslot1",
+	cap_dpadr = "ui_pad_layout_quckslot2",
+	cap_dpadd = "ui_pad_layout_weapon_zoom_out",
+	cap_lsh = "ui_pad_layout_strafe",
+	cap_lsv = "ui_pad_layout_move",
+	cap_lsclick = " -",
+	},
+	{
+	cap_rmenu = "ui_pad_layout_menu" , 
+	cap_R1 = "ui_pad_layout_lean_right", 
+	cap_R2 = "ui_pad_layout_shoot", 
+	cap_y = "ui_pad_layout_reload_interact", 
+	cap_b = " -", 
+	cap_x = "ui_pad_layout_fire_rate", 
+	cap_a = "ui_pad_layout_crouch_cod", 
+	cap_rsh = "ui_pad_layout_lookx", 
+	cap_rsv = "ui_pad_layout_Looky", 
+	cap_rsclick = "ui_pad_layout_torch"
+	}},
+	--Wheel Menu
+	{{
+	cap_touch_pad = " -",
+	cap_L1 = "ui_pad_layout_wheel",
+	cap_L2 = " -",
+	cap_dpadu = " -",
+	cap_dpadl = " -",
+	cap_dpadr = " -",
+	cap_dpadd = " -",
+	cap_lsh = "ui_pad_layout_strafe",
+	cap_lsv = "ui_pad_layout_move",
+	cap_lsclick = " -",
+	},
+	{
+	cap_rmenu = " -" , 
+	cap_R1 = " -", 
+	cap_R2 = "ui_pad_layout_shoot", 
+	cap_y = "ui_pad_layout_grande_luncher", 
+	cap_b = "ui_pad_layout_ammo_type", 
+	cap_x = "ui_pad_layout_fire_rate", 
+	cap_a = "ui_pad_layout_drop", 
+	cap_rsh = "ui_pad_layout_wheelmenu_select", 
+	cap_rsv = "ui_pad_layout_wheelmenu_select", 
+	cap_rsclick = "ui_pad_layout_night_vision"
+	}},
+	--Talk UI
+	{{
+	cap_touch_pad = " -",
+	cap_L1 = " -",
+	cap_L2 = " -",
+	cap_dpadu = "ui_pad_layout_select",
+	cap_dpadl = " -",
+	cap_dpadr = " -",
+	cap_dpadd = "ui_pad_layout_select",
+	cap_lsh = " -",
+	cap_lsv = "ui_pad_layout_select",
+	cap_lsclick = " -",
+	},
+	{
+	cap_rmenu = "ui_pad_layout_back" , 
+	cap_R1 = " -", 
+	cap_R2 = " -", 
+	cap_y = "ui_pad_layout_talk", 
+	cap_b = "ui_pad_layout_back", 
+	cap_x = "ui_pad_layout_trade_upgrade", 
+	cap_a = "ui_pad_layout_talk", 
+	cap_rsh = " -", 
+	cap_rsv = "ui_pad_layout_scroll_info", 
+	cap_rsclick = " -"
+	}},
+	-- Trade UI
+	{{
+	cap_touch_pad = " -",
+	cap_L1 = " -",
+	cap_L2 = "ui_pad_layout_scroll_info",
+	cap_dpadu = "ui_pad_layout_select",
+	cap_dpadl = "ui_pad_layout_select",
+	cap_dpadr = "ui_pad_layout_select",
+	cap_dpadd = "ui_pad_layout_select",
+	cap_lsh = "ui_pad_layout_select",
+	cap_lsv = "ui_pad_layout_select",
+	cap_lsclick = "ui_pad_layout_trade_upgrade",
+	},
+	{
+	cap_rmenu = "ui_pad_layout_back" , 
+	cap_R1 = " -", 
+	cap_R2 = "ui_pad_layout_scroll_info", 
+	cap_y = "ui_pad_layout_actions", 
+	cap_b = "ui_pad_layout_back", 
+	cap_x = " -", 
+	cap_a = "ui_pad_layout_action", 
+	cap_rsh = "ui_pad_layout_switch_area", 
+	cap_rsv = "ui_pad_layout_switch_area", 
+	cap_rsclick = "ui_pad_layout_inventory_info"
+	}},
+	--Inventory
+	{{
+	cap_touch_pad = " -",
+	cap_L1 = " -",
+	cap_L2 = "ui_pad_layout_scroll_info",
+	cap_dpadu = "ui_pad_layout_select",
+	cap_dpadl = "ui_pad_layout_select",
+	cap_dpadr = "ui_pad_layout_select",
+	cap_dpadd = "ui_pad_layout_select",
+	cap_lsh = "ui_pad_layout_select",
+	cap_lsv = "ui_pad_layout_select",
+	cap_lsclick = " -",
+	},
+	{
+	cap_rmenu = "ui_pad_layout_back" , 
+	cap_R1 = " -", 
+	cap_R2 = "ui_pad_layout_scroll_info", 
+	cap_y = "ui_pad_layout_actions", 
+	cap_b = "ui_pad_layout_back", 
+	cap_x = "ui_pad_layout_back", 
+	cap_a = "ui_pad_layout_action", 
+	cap_rsh = "ui_pad_layout_switch_area", 
+	cap_rsv = "ui_pad_layout_switch_area", 
+	cap_rsclick = "ui_pad_layout_inventory_info"
+	}},
+}
+}
+
+
+function opt_controller_layout:__init() super()
+	self.mm_is_controller = main_menu.in_controller_mode()
+	self.focusIndex = 1
+	
+	action_repeaters():Register(self, key_bindings.kUI_UP, 0, 0)
+	action_repeaters():Register(self, key_bindings.kUI_DOWN, 0, 0)
+end
+
+function opt_controller_layout:__finalize()
+	action_repeaters():UnregisterOwner(self)
+end
+
+function opt_controller_layout:UpdateStrings()
+	local presetIdx = self.focusList[1][2]:GetItemIDX() + 1 
+	local typeIdx = self.focusList[2][2]:GetItemIDX() + 1
+
+	if get_platform_id() == platform_ids.PLATFORM_NX64 then
+        presetIdx = presetIdx + 2
+	end
+
+	for k,v in pairs(captions[presetIdx][typeIdx][1]) do
+		self.capElements[k]:TextControl():SetText(game.translate_string(v))
+	end
+	
+	for k,v in pairs(captions[presetIdx][typeIdx][2]) do
+		self.capElements[k]:TextControl():SetText(game.translate_string(v))
+	end
+end 
+
+function opt_controller_layout:InitCallbacks()
+	if IsTouchpadEnabled() then
+		self:AddCallback("btn_accept",			ui_events.BUTTON_CLICKED,	self.OnAccept,			self)
+		self:Register(self.btnAccept, "btn_accept")
+	end
+end
+
+function opt_controller_layout:InitControls() 
+	
+	self.focusList = {}
+	self.capElements = {}
+	local caption, element
+	
+	self:SetWndRect				(Frect():set(0,0,1024,768))
+	self:Enable					(true)
+	self:SetAutoDelete(true)
+	local xml					= CScriptXmlInit()
+	xml:ParseFile				("ui_mm_opt_controller_layout.xml")
+
+	self.dialog	= xml:InitStatic("main_dialog:dialog", self)
+	self.input_legend = xml:InitInputLegend("input_legend", self)
+	self:UpdateInputLegend()
+	
+	if self.mm_is_controller then
+		self.sndSwitch	= sound_object("interface\\console\\menu_switch")
+		self.sndAccept	= sound_object("interface\\console\\menu_accept")
+		self.sndDecline	= sound_object("interface\\console\\menu_decline")
+	end
+	
+	caption = xml:InitStatic("main_dialog:cap_controlls_preset",self.dialog)
+	element = xml:InitComboBox("main_dialog:list_controlls_preset",self.dialog)	
+	table.insert(self.focusList, {caption, element} )
+	
+	caption = xml:InitStatic("main_dialog:cap_controlls_type",self.dialog)
+	element = xml:InitComboBox("main_dialog:list_controlls_type",self.dialog)
+	table.insert(self.focusList, {caption, element} )
+	
+	-- MTB-Damian.Romanik [JP2-254] Start
+	local platform_get = get_controller_type()
+
+	platform = "xbox_layout"
+	if platform_get == controller_types.EControllerType_PS4_DUALSHOCK then
+        platform = "ps_layout"
+	end
+
+	if platform_get == controller_types.EControllerType_PS5_DUALSENSE then
+        platform = "ps5_layout"
+	end
+	-- MTB-Damian.Romanik [JP2-254] End
+
+	if platform_get == controller_types.EControllerType_NX64_Joy or platform_get == controller_types.EControllerType_NX64_Pro or platform_get == controller_types.EControllerType_NX64 then
+        platform = "nx64_layout"
+	end
+	
+	self.controls	= xml:InitStatic(platform, self)
+	if is_next_gen() and get_platform_id() ~= platform_ids.PLATFORM_WIN64 and get_platform_id() ~= platform_ids.PLATFORM_ORBIS and get_platform_id() ~= platform_ids.PLATFORM_PROSPERO then
+		self.bg		= xml:InitStatic(platform..":background_controller_xsx", self.controls)
+	else
+		self.bg		= xml:InitStatic(platform..":background_controller", self.controls)
+	end
+	
+	local leftcap = xml:InitStatic(platform..":left_cap", self.controls)
+	local right_cap = xml:InitStatic(platform..":right_cap", self.controls)
+
+	local cap 
+	for k,v in pairs(captions[1][1][1]) do
+		cap = xml:InitStatic(platform..":left_cap:"..k, leftcap)
+		cap:TextControl():SetText(game.translate_string(v))
+		self.capElements[k] = cap 
+	end
+	
+	for k,v in pairs(captions[1][1][2]) do
+		cap = xml:InitStatic(platform..":right_cap:"..k, right_cap)
+		cap:TextControl():SetText(game.translate_string(v))
+		self.capElements[k] = cap 
+	end
+	
+	-- MTB-Damian.Romanik [JP2-104] Start
+	if IsTouchpadEnabled() then
+		self.btnAccept = xml:Init3tButton("main_dialog:btn_accept_nx64", self.controls)
+		self:Register(self.btnAccept, "btn_accept")
+	end
+	-- MTB-Damian.Romanik [JP2-104] End
+	
+	self:OnElementSetSelected(self.focusIndex, true)
+	self:Reset()
+	self.xml = xml
+end
+
+
+function opt_controller_layout:Reset()
+	local element = self.focusList[2][2]
+	if element ~= nil then
+		if element:GetSize() == 0 then return end
+		self.focusList[2][2]:SetItemIDX(0)
+		self:UpdateStrings()
+	end
+end
+
+function opt_controller_layout:OnKeyboard(dik, keyboard_action)
+
+	if keyboard_action == ui_events.WINDOW_KEY_PRESSED then
+		
+		if is_binded(key_bindings.kUI_DOWN, dik) then
+			if not any_binded_key_for_action_pressed_c(key_bindings.kUI_UP) then
+				self:OnElementChangeSelection(1, true)
+			end
+			action_repeaters():SetActionStarted(self, key_bindings.kUI_DOWN)
+			return true
+		
+		elseif is_binded(key_bindings.kUI_UP, dik) then
+			if not any_binded_key_for_action_pressed_c(key_bindings.kUI_DOWN) then
+				self:OnElementChangeSelection(-1, true)
+			end
+			action_repeaters():SetActionStarted(self, key_bindings.kUI_UP)
+			return true
+		elseif is_binded(key_bindings.kUI_BACK, dik) then
+			self:OnAccept()
+			return true
+		elseif is_binded(key_bindings.kUI_LEFT, dik) then
+			if not any_binded_key_for_action_pressed_c(key_bindings.kUI_RIGHT) then
+				local element = self.focusList[self.focusIndex][2]
+				self:OnElementGpadPress(element, false)
+			end
+			return true					
+		elseif is_binded(key_bindings.kUI_RIGHT, dik) then	
+			if not any_binded_key_for_action_pressed_c(key_bindings.kUI_LEFT) then
+				local element = self.focusList[self.focusIndex][2]
+				self:OnElementGpadPress(element, true)
+			end
+			return true
+		end
+	end
+
+	return CUIScriptWnd.OnKeyboard(self,dik,keyboard_action)
+end
+
+function opt_controller_layout:OnKeyboardHold(dik)
+
+	if self.mm_is_controller then 	
+		if is_binded(key_bindings.kUI_DOWN, dik) then
+			if action_repeaters():CanRepeatActionNow(self, key_bindings.kUI_DOWN) 
+			and not any_binded_key_for_action_pressed_c(key_bindings.kUI_UP) then
+				self:OnElementChangeSelection(1, false)
+			end
+			return true
+			
+		elseif is_binded(key_bindings.kUI_UP, dik) then
+			if action_repeaters():CanRepeatActionNow(self, key_bindings.kUI_UP) 
+			and not any_binded_key_for_action_pressed_c(key_bindings.kUI_DOWN) then
+				self:OnElementChangeSelection(-1, false) 
+			end
+			return true
+		end
+	end
+
+	return CUIScriptWnd.OnKeyboardHold(self,dik)
+end
+
+function opt_controller_layout:OnElementChangeSelection(offset, loop)
+
+	XR_LOG("TEST")
+
+	local eltCount = #self.focusList
+	local newFocusIndex = self.focusIndex + offset
+
+	if newFocusIndex > eltCount then
+		if loop then
+			newFocusIndex = 1
+		else
+			return false
+		end
+	elseif newFocusIndex < 1 then
+		if loop then
+			newFocusIndex = eltCount
+		else
+			return false
+		end
+	end
+	
+	self.sndSwitch:play(nil, 0.0, sound_object.s2d)
+	
+	self:OnElementSetSelected(self.focusIndex, false)
+	self.focusIndex = newFocusIndex	
+	self:OnElementSetSelected(self.focusIndex, true)
+	return true
+end
+
+function opt_controller_layout:OnElementSetSelected(eltIndex, on)
+
+	local eltCount = #self.focusList
+	if eltIndex < 1 or eltIndex > eltCount then
+		return
+	end
+
+	local focusRecord = self.focusList[eltIndex]
+	local caption = focusRecord[1]
+	local element = focusRecord[2]
+	
+	element:SetSelected(on)
+
+	if on then
+		caption:SetTextColor(255, 255, 255, 255)
+	else
+		caption:SetTextColor(255, 240, 217, 182)
+	end
+end
+
+
+function opt_controller_layout:OnElementGpadPress(element, right)
+	local elementInfo = class_info(element)
+	local elementClass = elementInfo.name
+	
+	if elementClass == 'CUIComboBox' then
+
+		local comboCnt = element:GetSize()
+		if comboCnt == 0 then return end
+		
+		local idx = element:GetItemIDX()
+		if idx == index_for_not_found then idx = 0
+		elseif right then
+			idx = idx + 1
+			if idx >= comboCnt then
+				idx = 0
+			end
+			self.sndDecline:play(nil, 0.0, sound_object.s2d)
+		else
+			idx = idx - 1
+			if idx < 0 then
+				idx = comboCnt-1
+			end
+			self.sndDecline:play(nil, 0.0, sound_object.s2d)
+		end
+		
+		element:SetItemIDX(idx)
+		
+		self:UpdateStrings()
+		
+	end
+end
+
+function opt_controller_layout:OnAccept()
+	local opt = COptionsManager()
+	local console = get_console()
+	
+	opt:SaveValues("mm_opt_controls")  
+	self.sndAccept:play(nil, 0.0, sound_object.s2d)
+	
+	opt:OptionsPostAccept()
+	console:execute("cfg_save")	
+
+	self.owner:OnBtnExitKeyBinding()
+end
+
+
+function opt_controller_layout:UpdateInputLegend()
+	self.input_legend:ClearAll()
+	--self.input_legend:AddItem('legend_ui_options_save', true)
+	self.input_legend:AddItem('legend_ui_back', true)
+	self.input_legend:UpdateText()
+end
+
+-- MTB-Damian.Romanik [JP2-254] Start
+function opt_controller_layout:NX64_SetControllerTexture()
+	local ControllerType = get_controller_type()
+
+	local textureName = "ui\\ui_switch_controller_button_layout"
+
+	if (ControllerType == controller_types.EControllerType_NX64_Joy) then
+		textureName = "ui\\ui_switch_controller_button_layout_joy"
+	end
+	if (ControllerType == controller_types.EControllerType_NX64_Pro) then
+		textureName = "ui\\ui_switch_controller_button_layout_pro"
+	end
+
+	self.bg:InitTexture(textureName)
+end
+-- MTB-Damian.Romanik [JP2-254] End
+
+function opt_controller_layout:OnTouchpadButtons()
+	local shouldShow = not is_switch_in_TV()
+
+	self.btnAccept:Show(shouldShow)
+end
+
+function opt_controller_layout:OnTouchpad(dik, keyboard_action, x, y)
+	CUIScriptWnd.OnTouchpad(self,dik,keyboard_action,x,y)
+	if keyboard_action == ui_events.WINDOW_TOUCH_RELEASE then
+		self:UpdateStrings()
+	end
+
+	return false
+end

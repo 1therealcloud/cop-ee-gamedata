@@ -1,0 +1,1270 @@
+class "options_dialog" (CUIScriptWnd)
+
+function options_dialog:__init() super()
+	self.mm_is_controller = main_menu.in_controller_mode()
+
+	self.m_preconditions	= {}
+	self.focusIndex = 1 --MTB_Jakub_Jurek [JP-165] reset index value
+     self:InitControls()
+     self:InitCallBacks()
+	self.tab:SetActiveTab			("video")
+	--mtb_larry lets move this over here to update the advanced video options legend
+	if self.mm_is_controller then
+		self:UpdateInputLegend()
+	end
+
+	if self.mm_is_controller then
+	--highlight current element in focusIndex
+	self.focusIndex = 1
+	self:OnElementSetSelected(self:GetCurTabWnd(), self.focusIndex, true)
+	
+	 action_repeaters():Register(self, key_bindings.kUI_TAB_LEFT, 250, 250)
+	 action_repeaters():Register(self, key_bindings.kUI_TAB_RIGHT, 250, 250)
+	 action_repeaters():Register(self, key_bindings.kUI_UP, 0, 0)
+	 action_repeaters():Register(self, key_bindings.kUI_DOWN, 0, 0)
+	 action_repeaters():Register(self, key_bindings.kUI_LEFT, 0, 0)
+	 action_repeaters():Register(self, key_bindings.kUI_RIGHT, 0, 0)
+	end
+end
+
+function options_dialog:__finalize()
+	if self.mm_is_controller then
+	action_repeaters():UnregisterOwner(self)
+	end
+end
+
+function options_dialog:InitControls()
+	self:SetWndRect				(Frect():set(0,0,1024,768))
+	self:Enable					(true)
+
+	local xml					= CScriptXmlInit()
+	-- MTB_Jakub_Jurek unified console verion of xml 
+	xml:ParseFile				("ui_mm_opt.xml")
+	self.xml = xml --MTB_Jakub_Jurek
+	
+	if self.mm_is_controller then
+		self.sndSwitch	= sound_object("interface\\console\\menu_switch")
+		self.sndSelect	= sound_object("interface\\console\\menu_select")
+		self.sndAccept	= sound_object("interface\\console\\menu_accept")
+		self.sndDecline	= sound_object("interface\\console\\menu_decline")
+	end
+
+	
+	-- MTB-michal.chudzik Start: Added one background video to GDK platforms
+	 local platform = get_platform_id()
+	 if is_using_4k_movies() then -- MTB-anna.galach
+		xml:InitStatic("background_4k", self)
+    -- mtb-bartlomiej.kunikowski Start: On PS4 we have one background video
+	elseif platform == platform_ids.PLATFORM_ORBIS or platform == platform_ids.PLATFORM_PROSPERO or platform == platform_ids.PLATFORM_GDK then
+		xml:InitStatic("background_orbis", self)
+	elseif platform == platform_ids.PLATFORM_GDK_1440 then
+		xml:InitStatic("background_orbis", self)
+	elseif platform == platform_ids.PLATFORM_GDK_4K then
+		xml:InitStatic("background_orbis", self) --replace with 4k and 1440p videos when ready
+	elseif platform == platform_ids.PLATFORM_NX64 then
+	-- MTB-Damian.Romanik [JP2-102] Start: NX64 textures
+		xml:InitStatic("background_nx64", self)
+	-- MTB-Damian.Romanik [JP2-102] End: NX64 textures
+    -- MTB-michal.chudzik End
+	else
+		xml:InitStatic			("background",self)	
+	end
+	-- mtb-bartlomiej.kunikowski End
+
+	self.dialog				= xml:InitStatic("main_dialog:dialog", self)
+
+--	xml:InitStatic				("main_dialog:cap_options", self.dialog)
+
+	self.dlg_video				= ui_mm_opt_video.opt_video()
+	self.dlg_video:InitControls	(0,0, xml, self)
+	self.dlg_video:Show			(false)
+	self.dialog:AttachChild		(self.dlg_video)
+	xml:InitWindow				("tab_size", 0, self.dlg_video)
+	self.dlg_video:SetWindowName("dlg_video")
+
+	self.dlg_sound				= ui_mm_opt_sound.opt_sound()
+	self.dlg_sound:InitControls	(0,0, xml, self)
+	self.dlg_sound:Show			(false)
+	self.dialog:AttachChild		(self.dlg_sound)
+	xml:InitWindow				("tab_size", 0, self.dlg_sound)
+	self.dlg_sound:SetWindowName("dlg_sound")
+
+	self.dlg_gameplay			= ui_mm_opt_gameplay.opt_gameplay()
+	self.dlg_gameplay:InitControls(0,0, xml, self)
+	self.dlg_gameplay:Show		(false)
+	self.dialog:AttachChild		(self.dlg_gameplay)
+	xml:InitWindow				("tab_size", 0, self.dlg_gameplay)
+	self.dlg_gameplay:SetWindowName("dlg_gameplay")
+	
+	self.dlg_controls			= ui_mm_opt_controls.opt_controls()
+	self.dlg_controls:InitControls(0,0, xml, self)
+	self.dlg_controls:Show		(false)
+	self.dialog:AttachChild		(self.dlg_controls)
+	xml:InitWindow				("tab_size", 0, self.dlg_controls)
+	self.dlg_controls:SetWindowName("dlg_controls")
+--[[
+	self.dlg_con_cmd			= ui_mm_opt_con_cmd.opt_con_cmd()
+	self.dlg_con_cmd:InitControls(0,0, xml, self)
+	self.dlg_con_cmd:Show		(false)
+	self.dialog:AttachChild		(self.dlg_con_cmd)
+	xml:InitWindow				("tab_size", 0, self.dlg_con_cmd)
+]]
+	self.dlg_video_adv			= ui_mm_opt_video_adv.opt_video_adv()
+	self.dlg_video_adv:InitControls(0,0, xml, self)
+	self.dlg_video_adv:Show		(false)
+	self.dialog:AttachChild		(self.dlg_video_adv)
+	xml:InitWindow				("tab_size", 0, self.dlg_video_adv)
+	self.dlg_video_adv:SetWindowName("dlg_video_adv")
+
+	local btn
+	if not self.mm_is_controller or (get_platform_id() == platform_ids.PLATFORM_NX64) then
+		self.btn_accept = xml:Init3tButton		("main_dialog:btn_accept", self.dialog)
+		self:Register				(self.btn_accept, "btn_accept")
+		self.btn_cancel = xml:Init3tButton		("main_dialog:btn_cancel", self.dialog)
+		self:Register				(self.btn_cancel, "btn_cancel")
+
+		if get_platform_id() == platform_ids.PLATFORM_NX64 then
+			self.input_legend = xml:InitInputLegend("input_legend", self)
+		end
+	else
+		self.input_legend = xml:InitInputLegend("input_legend", self)
+	end
+
+	self.tab					= xml:InitTab("main_dialog:tab", self.dialog)
+	self:Register				(self.tab, "tab")
+
+
+	self.message_box			= CUIMessageBoxEx()
+	self:Register				(self.message_box, "mb")
+
+	self.b_restart_system_shown	= false
+	self.timer					= nil
+
+	self.cap_download			= xml:InitStatic		("download_static",self)
+	self.text_download			= xml:InitStatic		("download_text",self)
+	self.download_progress		= xml:InitProgressBar	("progress_download", self)
+	self.btn_cancel_download	= xml:Init3tButton		("btn_cancel_download", self)
+	self:Register				(self.btn_cancel_download, "btn_cancel_download")
+	
+	-- MTB_Jakub_Jurek [JUD-283]
+	if self.mm_is_controller then
+		self.dlg_controller_layout = ui_mm_opt_controller_layout.opt_controller_layout()
+		self.dlg_controller_layout:InitControls	()
+		self.dlg_controller_layout:InitCallbacks()
+		self.dlg_controller_layout.owner = self
+		self.dlg_controller_layout:Show			(false)
+		self:AttachChild	(self.dlg_controller_layout)
+		self.dlg_controller_layout:SetWindowName("dlg_controller_layout")
+	else	
+		self.dlg_controller_layout= ui_mm_opt_key_binding.opt_key_binding()
+		self.dlg_controller_layout:InitControls	(self)
+		self.dlg_controller_layout:Show			(false)
+		self:AttachChild	(self.dlg_controller_layout)
+		self.dlg_controller_layout:SetWindowName("dlg_key_binding")
+	end
+	-- end MTB_Jakub_Jurek [JUD-283]
+	
+	-- //MTB_Jakub_Jurek [JUD-72] multiline main menu scaling
+	linesCount = math.max(self.dlg_video:max_lines_count(), self.dlg_sound:max_lines_count(), self.dlg_gameplay:max_lines_count(), self.dlg_controls:max_lines_count())
+	
+	if linesCount > 1 then
+		local offsetIncrement = xml:ReadAttribFlt("main_dialog", "ui_scale_y_offset", 5) 
+		self.dlg_video:adjust_position(offsetIncrement * linesCount)
+		self.dlg_sound:adjust_position(offsetIncrement * linesCount)
+		self.dlg_gameplay:adjust_position(offsetIncrement * linesCount)
+		self.dlg_controls:adjust_position(offsetIncrement * linesCount)
+		self.dlg_video_adv:adjust_position(offsetIncrement * linesCount)
+	end
+	-- //end MTB_Jakub_Jurek [JUD-72] multiline main menu scaling
+end
+
+function options_dialog:SetCurrentValues()
+	local opt = COptionsManager()
+
+	if not is_gaming_console() then
+		opt:SetCurrentValues("mm_opt_video_preset")
+		opt:SaveBackupValues("mm_opt_video_preset")
+	end
+	
+	opt:SetCurrentValues("mm_opt_video")
+	opt:SaveBackupValues("mm_opt_video")
+	
+	if not is_gaming_console() then
+		opt:SetCurrentValues("mm_opt_video_adv")
+		opt:SaveBackupValues("mm_opt_video_adv")
+	end
+	
+
+	self.dlg_gameplay:updateControls(self.xml) --MTB_Jakub_Jurek
+	opt:SetCurrentValues("mm_opt_gameplay")
+	opt:SaveBackupValues("mm_opt_gameplay")
+	
+	opt:SetCurrentValues("mm_opt_sound")
+	opt:SaveBackupValues("mm_opt_sound")
+
+	opt:SetCurrentValues("mm_opt_controls")
+	opt:SaveBackupValues("mm_opt_controls")
+
+	if not self.mm_is_controller then
+	opt:SetCurrentValues("key_binding")
+	opt:SaveBackupValues("key_binding")
+	end
+
+	if not is_gaming_console() then
+		self:UpdateDependControls()
+	end
+
+	-- MTB_larry detect keyboard and the controller	
+	if get_platform_id() == platform_ids.PLATFORM_WIN64 or
+		get_platform_id() == platform_ids.PLATFORM_GDK or 
+		get_platform_id() == platform_ids.PLATFORM_GDK_1440 or 
+		get_platform_id() == platform_ids.PLATFORM_GDK_4K or
+		get_platform_id() == platform_ids.PLATFORM_PROSPERO then	-- MTB-Damian.Romanik [JP2-25]
+		if detectKeyboard() and detectController() then
+			self.list_controllers:Enable(true)
+		else
+			self.list_controllers:Enable(false)
+		end
+	end
+
+	self.dlg_video:enable_vsync_settings(not self.dlg_video_adv:is_fsr_generation_enabled())
+end
+
+function options_dialog:UpdateDependControls()
+	if self.mm_is_controller then
+		self.sndAccept:play(nil, 0.0, sound_object.s2d)
+	end
+	self.scroll_v:Clear()
+	local _current_id = 5 -- mtb-dawid.markiewicz: Hardcoded renderer r4 with ID - 5
+
+	for i,j in pairs(self.m_preconditions) do
+		if(j.func(_current_id)) then
+			self.scroll_v:AddWindow(j.control, true)
+			j.control:SetAutoDelete(false)
+		end
+	end
+
+	local max_texture_lod = 4
+	local min_texture_lod = 0
+
+	if _current_id ~= 0 then
+		if not is_enough_address_space_available()	then
+			min_texture_lod = 1
+		end
+	end
+
+	self.texture_lod_track:SetOptIBounds(min_texture_lod, max_texture_lod)
+	self:OnAOOptionChange()
+end
+
+-- mtb-tomasz.tkaczuk gyro/auto aim settings
+function options_dialog:OnGyroEnableChange()
+	if self.dlg_controls.gyro_enabled.element:GetCheck() then
+		self.dlg_controls.autoaim_enabled.element:SetCheck(false)
+		local console = get_console()
+		console:execute("autoaim_enabled off")
+	end
+	self.dlg_controls.forceUpdate = true -- mtb-anna.galach
+end
+
+function options_dialog:OnAutoAimEnableChange()
+	if self.dlg_controls.autoaim_enabled.element:GetCheck() then
+		self.dlg_controls.gyro_enabled.element:SetCheck(false)
+		local console = get_console()
+		console:execute("g_GyroState_Enabled off")
+	end
+	self.dlg_controls.forceUpdate = true -- mtb-anna.galach
+end
+-- mtb-tomasz.tkaczuk
+
+function options_dialog:InitCallBacks()
+	self:AddCallback("tab",					ui_events.TAB_CHANGED,		self.OnTabChange,			self)
+	self:AddCallback("btn_advanced_graphic",ui_events.BUTTON_CLICKED,	self.OnBtnAdvGraphic,		self)
+	if not self.mm_is_controller or (get_platform_id() == platform_ids.PLATFORM_NX64) then
+		self:AddCallback("btn_accept",			ui_events.BUTTON_CLICKED,	self.OnBtnAccept,			self)
+		self:AddCallback("btn_cancel",			ui_events.BUTTON_CLICKED,	self.OnBtnCancel,			self)
+	end
+	self:AddCallback("btn_default_graphic",	ui_events.BUTTON_CLICKED,	self.OnBtnDefGraph,			self)
+	self:AddCallback("btn_default_sound",	ui_events.BUTTON_CLICKED,	self.OnBtnDefSound,			self)
+	self:AddCallback("combo_preset",		ui_events.LIST_ITEM_SELECT,	self.OnPresetChanged,		self)
+	self:AddCallback("btn_simply_graphic",	ui_events.BUTTON_CLICKED,	self.OnSimplyGraphic,		self)
+	self:AddCallback("btn_keyb_default",	ui_events.BUTTON_CLICKED,	self.OnBtnKeybDefault,		self)
+	self:AddCallback("btn_keyb_apply",		ui_events.BUTTON_CLICKED,	self.OnBtnApplyKeyBinding,	self) -- MTB_Jakub_Jurek [JUD-475]
+	self:AddCallback("btn_keyb_exit",		ui_events.BUTTON_CLICKED,	self.OnBtnExitKeyBinding,	self) -- MTB_Jakub_Jurek [JUD-475]
+	self:AddCallback("btn_show_controlls",	ui_events.BUTTON_CLICKED,	self.OnBtnShowControlls,	self) -- MTB_Jakub_Jurek [JUD-283]
+	self:AddCallback("btn_check_updates",	ui_events.BUTTON_CLICKED,	self.OnBtnCheckUpdates,		self)
+	self:AddCallback("btn_cancel_download",	ui_events.BUTTON_CLICKED,	self.OnBtn_CancelDownload,	self)
+	if not self.mm_is_controller then
+		self:AddCallback("tab_ao_opt",			ui_events.TAB_CHANGED,		self.OnAOOptionChange,		self)
+	elseif not is_gaming_console() then
+		self:AddCallback("tab_ao_opt",		ui_events.LIST_ITEM_SELECT,		self.OnAOOptionChange,		self)
+	end
+	
+	-- mtb-tomasz.tkaczuk gyro-autoaim interaction
+	self:AddCallback("gyro_enable_clicked",	ui_events.BUTTON_CLICKED,	self.OnGyroEnableChange,	self)
+	self:AddCallback("autoaim_enable_clicked",	ui_events.BUTTON_CLICKED,	self.OnAutoAimEnableChange,	self)
+	-- gyro-autoaim interaction end
+
+	self:AddCallback("mb",					ui_events.MESSAGE_BOX_YES_CLICKED, self.OnMsgYes, self)
+	self:AddCallback("mb",					ui_events.MESSAGE_BOX_NO_CLICKED, self.OnMsgNo,self)
+--	self:AddCallback("trb_ssample",			ui_events.BUTTON_CLICKED,	self.UpdateDependControls,	self)
+--	self:AddCallback("cb_ssample",			ui_events.LIST_ITEM_SELECT,	self.UpdateDependControls,	self)
+
+end
+
+function options_dialog:OnBtnCheckUpdates()
+	local console			= get_console()
+	console:execute			("check_for_updates 1")
+end
+
+function options_dialog:OnBtnKeybDefault()
+	--MTB_Jakub_Jurek [JUD-309]
+	self.message_box_type = MessageBox.restoreDefault
+	self.message_box:InitMessageBox("message_box_restore_default_settings")
+	self.message_box:ShowDialog(true)
+	
+	--end MTB_Jakub_Jurek [JUD-309] behaviour moved to onMsgYes 
+end
+
+-- MTB_Jakub_Jurek [JUD-283]
+function options_dialog:OnBtnShowControlls()
+	-- MTB-Damian.Romanik [JP2-254] Start
+	if get_platform_id() == platform_ids.PLATFORM_NX64 then
+		self.dlg_controller_layout:NX64_SetControllerTexture()
+	end
+	-- MTB-Damian.Romanik [JP2-254] End
+	self.dlg_controller_layout:ShowDialog(true)
+	self.dlg_controller_layout:Reset()
+	if self.mm_is_controller then
+		self.input_legend:Show(false)
+	end
+	self.dlg_controller_layout:Enable(true)
+	self.dialog:Enable(false)
+	self.dlg_controls:SetEnable(false)
+	self.tab:Enable(false)
+end
+-- end MTB_Jakub_Jurek [JUD-283]
+
+-- MTB_Jakub_Jurek [JUD-475]
+function options_dialog:OnBtnExitKeyBinding()
+	self.dlg_controller_layout:HideDialog()
+	self.dialog:Enable(true)
+	self.dlg_controls:SetEnable(true)
+	self.tab:Enable(true)
+	if self.mm_is_controller then
+		self.input_legend:Show(true)
+		self:UpdateInputLegend()
+	end
+end
+
+function options_dialog:OnBtnApplyKeyBinding()
+	local opt = COptionsManager()
+	local console = get_console()
+	opt:SaveValues("key_binding")
+	opt:OptionsPostAccept()	
+	console:execute("cfg_save")
+	opt:ReloadAllUI()
+	self:OnBtnExitKeyBinding()
+end
+-- end MTB_Jakub_Jurek [JUD-475]
+
+function options_dialog:OnPresetChanged()
+	self.combo_ssao:disable_id(0)
+	self.combo_ssao:enable_id(1)
+	self.combo_ssao:enable_id(2)
+	self.combo_ssao:enable_id(3)
+	self.combo_ssao:enable_id(4)
+
+	local preset_opt_id
+	preset_opt_id = self.combo_preset:GetItemIDX()
+
+	local console = get_console()
+	if ( preset_opt_id == 0 ) then
+		console:execute("_preset Minimum")
+	elseif ( preset_opt_id == 1 ) then
+		console:execute("_preset Low")
+	elseif ( preset_opt_id == 2 ) then
+		console:execute("_preset Default")
+	elseif ( preset_opt_id == 3 ) then
+		console:execute("_preset High")
+	else
+		console:execute("_preset Extreme")
+	end
+
+	local opt					= COptionsManager()
+	opt:SetCurrentValues		("mm_opt_video")
+	opt:SetCurrentValues		("mm_opt_video_adv")
+end
+
+
+function options_dialog:OnBtnDefGraph()
+	local opt = COptionsManager()
+	opt:SendMessage2Group("mm_opt_video","set_default_value")
+end
+
+function options_dialog:OnBtnDefSound()
+	local opt = COptionsManager()
+	opt:SendMessage2Group("mm_opt_sound","set_default_value")
+end
+
+function options_dialog:OnBtnAccept()
+
+	local opt		= COptionsManager()
+	local console	= get_console()
+	if not is_gaming_console() then
+		opt:SaveValues("mm_opt_video_preset")
+	end
+	
+	
+	opt:SaveValues("mm_opt_video")
+	
+	if not is_gaming_console() then
+		opt:SaveValues("mm_opt_video_adv")
+	end
+	
+	opt:SaveValues("mm_opt_gameplay")
+	opt:SaveValues("mm_opt_sound")
+
+	--mtb jakub jurek temporary comment out  jud-1276
+	-- if opt:NeedVidRestart() then 
+		
+		-- _G.b_discard_settings_shown = true
+		-- self.message_box_type = MessageBox.confirmChanges
+		-- self.message_box:InitMessageBox("message_box_yes_no")
+		-- self.message_box:SetText(string.format("%s %d% s", game.translate_string("ui_mm_confirm_changes"), 15, game.translate_string("mp_si_sec")))
+		-- self.message_box:ShowDialog(true)
+	-- else
+		self:OnApplyChanges()
+	-- end
+
+	-- MTB_Jakub_Jurek [JUD-227]
+	local past_value_is_controller = self.mm_is_controller
+	opt:SaveValues("mm_opt_controls")  --this can change self.mm_is_controller
+	
+	if past_value_is_controller ~= main_menu.conroller_mode_value() then -- input type was changed
+		opt:OnInputTypeChanged() -- MTB_Jakub_Jurek [JUD-249] in ui\UIOptionsManager.cpp
+	end
+	
+	if not self.mm_is_controller then -- override default if input changed and binded new keys
+		opt:SaveValues("key_binding")
+	else
+		self.sndAccept:play(nil, 0.0, sound_object.s2d)
+	end
+	-- //end MTB_Jakub_Jurek [JUD-227] 
+	
+	opt:OptionsPostAccept()
+	console:execute("cfg_save")	-- //MTB-marcin.lawski Save settings will save proper file
+end 
+
+function options_dialog:OnBtnCancel()
+	local opt				= COptionsManager()
+	
+	if self.mm_is_controller then
+		self.sndDecline:play(nil, 0.0, sound_object.s2d)
+	end
+	
+	if not is_gaming_console() then 
+		opt:UndoGroup			("mm_opt_video_preset")
+	end
+	
+	opt:UndoGroup			("mm_opt_video")
+	
+	if not is_gaming_console() then
+		opt:UndoGroup			("mm_opt_video_adv")
+	end
+	
+	opt:UndoGroup			("mm_opt_sound")
+	--opt:OptionsPostAccept	() -- MTB_Jakub_Jurek [JUD-227] this is not accept, no need to check if settings require restart
+
+	self.owner:ShowDialog(true)
+	self:HideDialog()
+	self.owner:Show(true)
+end
+
+function options_dialog:OnTabChange()
+	self.dlg_video:Show		(false)
+	self.dlg_sound:Show		(false)
+	self.dlg_gameplay:Show	(false)
+	self.dlg_controls:Show	(false)
+	self.dlg_video_adv:Show	(false)
+
+	local ids = self.tab:GetActiveId()
+if not self.mm_is_controller then
+	if ids == "video" then
+		self.dlg_video:enable_vsync_settings(not self.dlg_video_adv:is_fsr_generation_enabled())
+		self.dlg_video:Show(true)
+	elseif ids == "sound" then
+		self.dlg_sound:Show(true)
+	elseif ids == "gameplay" then
+		self.dlg_gameplay:Show(true)
+	elseif ids == "controls" then
+		self.dlg_controls:Show(true)
+	end
+else
+	local curTab = self:GetTabFromId(ids)
+	if curTab ~= nil then
+		curTab:Show(true)
+	end
+end
+
+if not is_gaming_console() and self.mm_is_controller then
+	self:UpdateInputLegend()
+end
+
+end
+
+function options_dialog:OnAOOptionChange()
+
+	local ao_opt_id
+	if not self.mm_is_controller then
+		local ssao_idx = self.combo_ssao:GetItemIDX()
+		if (ssao_idx  == 4294967294) then return end-- if combo_ssao has no selected item (it returns u32(-2) == max value - 1)
+		ao_opt_id = self.tab_ao_opt:GetActiveId()
+	else
+		ao_opt_id = self.tab_ao_opt:GetItemIDX()
+	end
+
+	if (ao_opt_id=="ui_mm_hbao" or ao_opt_id == 3) then
+		self.combo_ssao:disable_id(4)
+		self.combo_ssao:SetCurrentOptValue() --updates diabled list
+		local idx = self.combo_ssao:GetItemIDX()
+		self.combo_ssao:SetItemIDX(math.min(idx,2)) -- indexed are ui options not tokens
+	elseif (ao_opt_id=="ui_mm_hdao" or ao_opt_id == 2) then
+		self.combo_ssao:enable_id(4)
+		self.combo_ssao:SetCurrentOptValue() --updates diabled list
+		local idx = self.combo_ssao:GetItemIDX()
+		self.combo_ssao:SetItemIDX(math.min(idx,3)) -- indexed are ui options not tokens
+	elseif (ao_opt_id=="ui_mm_default" or ao_opt_id == 1) then
+		self.combo_ssao:disable_id(4)
+		self.combo_ssao:SetCurrentOptValue() --updates diabled list
+		local idx = self.combo_ssao:GetItemIDX()
+		self.combo_ssao:SetItemIDX(math.min(idx,2)) -- indexed are ui options not tokens
+	end
+end
+
+function options_dialog:OnBtnAdvGraphic()
+	self.dlg_video_adv.forceUpdate = true
+	self.dlg_video:Show		(false)
+	self.dlg_video_adv:Show	(true)
+	
+	if self.mm_is_controller then
+		self.focusIndex = 1
+		self:DeselectAllTabElements(self.dlg_video_adv)
+		self:OnElementSetSelected(self.dlg_video_adv, self.focusIndex, true)
+	end
+end
+
+function options_dialog:OnSimplyGraphic()
+	self.dlg_video:enable_vsync_settings(not self.dlg_video_adv:is_fsr_generation_enabled())
+	self.dlg_video:Show		(true)
+	self.dlg_video_adv:Show	(false)
+	if self.mm_is_controller then
+		self.focusIndex = 1
+		self:DeselectAllTabElements(self.dlg_video)
+		self:OnElementSetSelected(self.dlg_video, self.focusIndex, true)
+	end
+end
+
+--MTB_Jakub_Jurek [JUD-309]
+function options_dialog:OnMsgYes()
+	if self.mm_is_controller then
+		self.sndAccept:play_no_feedback(nil, sound_object.s2d, 0.0, vector(), 1.0)
+	end
+		
+	if self.message_box_type == MessageBox.restoreDefault then
+		local console			= get_console()	
+		if self.mm_is_controller then
+			console:execute			("default_controls_c")
+		else
+			console:execute			("default_controls")
+		end
+
+		local opt				= COptionsManager()
+		opt:SetCurrentValues	("mm_opt_controls")
+		if not self.mm_is_controller then
+			opt:SetCurrentValues	("key_binding")
+		end
+		
+		opt:SaveValues("mm_opt_controls")
+		opt:SaveBackupValues("mm_opt_controls")
+		console:execute("cfg_save")
+	elseif self.message_box_type == MessageBox.confirmChanges then
+		self:OnApplyChanges()
+	elseif self.message_box_type == MessageBox.info then
+		self:OnApplyChanges()
+	end
+	
+end
+
+function options_dialog:OnMsgNo()
+	if self.mm_is_controller then
+		self.sndDecline:play(nil, 0.0, sound_object.s2d)
+	end
+	if self.message_box_type == MessageBox.restoreDefault then
+		-- pass
+	elseif self.message_box_type == MessageBox.confirmChanges then
+		self:OnDiscardChanges()
+	elseif self.message_box_type == MessageBox.info then
+		self:OnDiscardChanges()
+	end
+end
+--end MTB_Jakub_Jurek [JUD-309]
+
+function main_menu:OnTouchpad(dik, keyboard_action, x, y)
+	return CUIScriptWnd.OnTouchpad(self,dik,keyboard_action,x,y)
+end
+
+function options_dialog:OnKeyboard(dik, keyboard_action)
+	if keyboard_action == ui_events.WINDOW_KEY_PRESSED then
+		if not self.mm_is_controller then
+			if dik == DIK_keys.DIK_ESCAPE then
+				if self.dlg_video_adv:IsShown() then
+					self.dlg_video_adv:Show	(false)
+					self.dlg_video:enable_vsync_settings(not self.dlg_video_adv:is_fsr_generation_enabled())
+					self.dlg_video:Show		(true)
+				--MTB_Jakub_Jurek [JUD-475]
+				elseif self.dlg_controller_layout:IsShown() then
+					if CUIScriptWnd.OnKeyboard(self,dik,keyboard_action) then 
+						return 
+					end 
+					self.dlg_controller_layout:Show(false)
+					self.dialog:Enable(true)
+					self.dlg_controls:SetEnable(true)
+					self.tab:Enable(true)
+				else --end MTB_Jakub_Jurek [JUD-475]
+					self:OnBtnCancel() --MTB_Jakub_Jurek [JUD-268]
+				end
+				return true
+			end
+		else
+			-- MTB_Jakub_Jurek [JUD-283]
+			if self.dlg_controller_layout:IsShown() then
+				if is_binded(key_bindings.kUI_BACK, dik) then
+					self.dlg_controller_layout:Show(false)
+					self.dialog:Enable(true)
+					self.dlg_controls:SetEnable(true)
+					self.tab:Enable(true)
+					return true
+				end
+			else -- end MTB_Jakub_Jurek [JUD-283]
+				if is_binded(key_bindings.kUI_BACK, dik) then
+					self:GoBack()
+					return true
+				elseif is_binded(key_bindings.kUI_TAB_LEFT, dik) then
+					if not any_binded_key_for_action_pressed_c(key_bindings.kUI_TAB_RIGHT) then
+						self:OpenNextTab(-1, true)
+					end
+					action_repeaters():SetActionStarted(self, key_bindings.kUI_TAB_LEFT)
+					return true
+					
+				elseif is_binded(key_bindings.kUI_TAB_RIGHT, dik) then
+					if not any_binded_key_for_action_pressed_c(key_bindings.kUI_TAB_LEFT) then
+						self:OpenNextTab(1, true)
+					end
+					action_repeaters():SetActionStarted(self, key_bindings.kUI_TAB_RIGHT)
+					return true
+					
+				--MTB_Jakub_Jurek [JP-62] change opt menu controls
+				elseif is_binded(key_bindings.kUI_ACCEPT, dik) then
+					local curTab = self:GetCurTabWnd()
+					local element = curTab.focusList[self.focusIndex][2]
+					self:OnElementAbuttonPress(element)
+					return true
+				elseif is_binded(key_bindings.kUI_ACTION_1, dik) then
+					local tabId = self.tab:GetActiveId()
+					if not self.mm_is_controller then
+						if tabId == 'video' then
+							--open advanced video settings
+							if not self.dlg_video_adv:IsShown() then
+								self:OnBtnAdvGraphic()
+							else
+								self:OnSimplyGraphic()
+							end
+							
+						elseif tabId == 'gameplay' then
+							--gameupdates
+							--self:OnBtnCheckUpdates()
+						elseif tabId == 'controls' then
+							--default controls
+							self:OnBtnDefault()
+						end
+					else
+						-- self:OnBtnAccept()
+					end
+					return true
+				--end MTB_Jakub_Jurek
+
+				--larry_mtb support for the advanced gfx menu on PC
+				elseif is_binded(key_bindings.kUI_ACTION_2, dik) then
+					if not is_gaming_console() then
+						local tabId = self.tab:GetActiveId()
+						if tabId == 'video' then
+							if not self.dlg_video_adv:IsShown() then
+								self:OnBtnAdvGraphic()
+								self:UpdateInputLegend()
+							else
+								self:OnSimplyGraphic()
+								self:UpdateInputLegend()
+							end
+						end
+					end
+					return true
+				--larry_mtb	
+				
+				elseif is_binded(key_bindings.kUI_DOWN, dik) then
+					if not any_binded_key_for_action_pressed_c(key_bindings.kUI_UP) then
+						local curTab = self:GetCurTabWnd()
+						self:OnElementChangeSelection(curTab, 1, true)
+					end
+					action_repeaters():SetActionStarted(self, key_bindings.kUI_DOWN)
+					return true
+				
+				elseif is_binded(key_bindings.kUI_UP, dik) then
+					if not any_binded_key_for_action_pressed_c(key_bindings.kUI_DOWN) then
+						local curTab = self:GetCurTabWnd()
+						self:OnElementChangeSelection(curTab, -1, true)
+					end
+					action_repeaters():SetActionStarted(self, key_bindings.kUI_UP)
+					return true
+					
+				elseif is_binded(key_bindings.kUI_LEFT, dik) then
+					if not any_binded_key_for_action_pressed_c(key_bindings.kUI_RIGHT) then
+						local curTab = self:GetCurTabWnd()
+						local element = curTab.focusList[self.focusIndex][2]
+						self:OnElementGpadPress(element, false)
+					end
+					action_repeaters():SetActionStarted(self, key_bindings.kUI_LEFT)
+					CUIScriptWnd.OnKeyboard(self, dik, keyboard_action) -- //MTB_Jakub_Jurek [JUD-72] pass keyboard event 
+					return true
+					
+				elseif is_binded(key_bindings.kUI_RIGHT, dik) then	
+					if not any_binded_key_for_action_pressed_c(key_bindings.kUI_LEFT) then
+						local curTab = self:GetCurTabWnd()
+						local element = curTab.focusList[self.focusIndex][2]
+						self:OnElementGpadPress(element, true)
+					end
+					action_repeaters():SetActionStarted(self, key_bindings.kUI_RIGHT)
+					CUIScriptWnd.OnKeyboard(self, dik, keyboard_action) -- //MTB_Jakub_Jurek [JUD-72] pass keyboard event 
+					return true
+				end
+			end
+		end
+	end
+
+	self.dlg_sound:update_controller_speaker()
+	self.dlg_sound:update_dynamic_music()
+	self.dlg_video_adv:update_fsr_settings(self.dlg_video:is_vsync_enabled())
+	self.dlg_video_adv:update_ssgi_ssao_settings()
+	return CUIScriptWnd.OnKeyboard(self,dik,keyboard_action)
+end
+
+function options_dialog:OnKeyboardHold(dik)
+
+	if self.mm_is_controller and not self.dlg_controller_layout:IsShown() then -- MTB_Jakub_Jurek [JUD-283]
+		if is_binded(key_bindings.kUI_TAB_LEFT, dik) then
+			if action_repeaters():CanRepeatActionNow(self, key_bindings.kUI_TAB_LEFT) 
+			and not any_binded_key_for_action_pressed_c(key_bindings.kUI_TAB_RIGHT) then
+				self:OpenNextTab(-1, false)
+			end
+			return true
+		
+		elseif is_binded(key_bindings.kUI_TAB_RIGHT, dik) then
+			if action_repeaters():CanRepeatActionNow(self, key_bindings.kUI_TAB_RIGHT) 
+			and not any_binded_key_for_action_pressed_c(key_bindings.kUI_TAB_LEFT) then
+				self:OpenNextTab(1, false)
+			end
+			return true
+			
+		elseif is_binded(key_bindings.kUI_DOWN, dik) then
+			if action_repeaters():CanRepeatActionNow(self, key_bindings.kUI_DOWN) 
+			and not any_binded_key_for_action_pressed_c(key_bindings.kUI_UP) then
+				local curTab = self:GetCurTabWnd()
+				self:OnElementChangeSelection(curTab, 1, false)
+			end
+			return true
+			
+		elseif is_binded(key_bindings.kUI_UP, dik) then
+			if action_repeaters():CanRepeatActionNow(self, key_bindings.kUI_UP) 
+			and not any_binded_key_for_action_pressed_c(key_bindings.kUI_DOWN) then
+				local curTab = self:GetCurTabWnd()
+				self:OnElementChangeSelection(curTab, -1, false) 
+			end
+			return true
+			
+		elseif is_binded(key_bindings.kUI_LEFT, dik) then
+			if action_repeaters():CanRepeatActionNow(self, key_bindings.kUI_LEFT) 
+			and not any_binded_key_for_action_pressed_c(key_bindings.kUI_RIGHT) then
+				local curTab = self:GetCurTabWnd()
+				local element = curTab.focusList[self.focusIndex][2]
+				self:OnElementGpadHold(element, false)
+			end
+			return true
+			
+		elseif is_binded(key_bindings.kUI_RIGHT, dik) then	
+			if action_repeaters():CanRepeatActionNow(self, key_bindings.kUI_RIGHT) 
+			and not any_binded_key_for_action_pressed_c(key_bindings.kUI_LEFT) then
+				local curTab = self:GetCurTabWnd()
+				local element = curTab.focusList[self.focusIndex][2]
+				self:OnElementGpadHold(element, true)
+			end
+			return true
+		end
+	end
+
+	return CUIScriptWnd.OnKeyboardHold(self,dik)
+end
+
+function options_dialog:GoBack()
+	if self.dlg_video_adv:IsShown() then
+		self:OnSimplyGraphic()
+	else
+		--self:OnBtnCancel()
+		self:OnBtnAccept()
+	end
+end
+
+function options_dialog:Update()
+	CUIScriptWnd.Update(self)
+
+	local mm = main_menu.get_main_menu()
+	local sss = mm:GetPatchProgress()
+
+	if sss:GetInProgress() then
+		self.text_download:Show					(true)
+		self.cap_download:Show					(true)
+		self.download_progress:Show				(true)
+		local _progr							= sss:GetProgress()
+		self.download_progress:SetProgressPos	(_progr)
+		local str								= string.format("%.0f%%(%s)",_progr,sss:GetFlieName())
+		self.text_download:TextControl():SetText				(str)
+		self.btn_cancel_download:Show			(true)
+	else
+		self.text_download:Show					(false)
+		self.cap_download:Show					(false)
+		self.download_progress:Show				(false)
+		self.btn_cancel_download:Show			(false)
+	end
+
+	if(_G.b_discard_settings_shown) then
+		local tg = math.floor(time_global_async()/1000)
+		if(self.timer==nil) then
+			self.timer = tg
+		end
+		self.message_box:SetText(string.format("%s %d %s", game.translate_string("ui_mm_confirm_changes"), 15-(tg-self.timer), game.translate_string("mp_si_sec")))
+		if(tg-self.timer>=15) then
+			self.message_box:HideDialog()
+			self:OnDiscardChanges()
+		end
+	end
+	
+	if self.dlg_controls and self.mm_is_controller and self.dlg_controls:IsShown() then
+		self.dlg_controls:update_autoaim()
+		self.dlg_controls:update_gyroscope()
+		self.dlg_controls.forceUpdate = false -- mtb-anna.galach
+	end
+end
+
+function options_dialog:OnBtn_CancelDownload()
+	local mm = main_menu.get_main_menu()
+	mm:CancelDownload()
+end
+
+function options_dialog:OnApplyChanges()
+	if self.mm_is_controller then
+		self.sndAccept:play(nil, 0.0, sound_object.s2d)
+	end
+	self.timer = nil
+	_G.b_discard_settings_shown = false
+
+	self.owner:ShowDialog(true)
+	self:HideDialog()
+	self.owner:Show(true)
+
+	local opt = COptionsManager()
+	if opt:NeedSystemRestart() then
+		opt:SetSystemRestart(false)
+		self.message_box_type = MessageBox.info
+		self.message_box:InitMessageBox("message_box_restart_game")
+		self.message_box:ShowDialog(true)
+	end
+end
+
+function options_dialog:OnDiscardChanges()
+	if self.mm_is_controller then
+		self.sndDecline:play(nil, 0.0, sound_object.s2d)
+	end
+	self.timer = nil
+	_G.b_discard_settings_shown = false
+
+	local c = get_console()
+	c:execute("cfg_load tmp")
+
+	self:SetCurrentValues()
+
+	c:execute("vid_restart")
+	c:execute("cfg_save")
+end
+
+function options_dialog:OnMenuReloaded()
+	--mtb jakub jurek temporary comment out jud-1276
+	-- if(_G.b_discard_settings_shown) then
+		-- self.message_box_type = MessageBox.confirmChanges
+	    -- self.message_box:InitMessageBox("message_box_yes_no")
+	    -- self.message_box:SetText(string.format("%s %d% s", game.translate_string("ui_mm_confirm_changes"), 15, game.translate_string("mp_si_sec")))
+	    -- self.message_box:ShowDialog(true)
+	-- end
+end
+
+
+function options_dialog:GetTabFromId(tabId)
+	if tabId == "video" then
+		return self.dlg_video
+	elseif tabId == "sound" then
+		return self.dlg_sound
+	elseif tabId == "gameplay" then
+		return self.dlg_gameplay
+	elseif tabId == "controls" then
+		return self.dlg_controls
+	end
+	
+	return nil
+end
+
+--tab pages can contain subpages
+function options_dialog:GetCurTabWnd()
+	local curTabId = self.tab:GetActiveId()
+	if curTabId == "video" and self.dlg_video_adv:IsShown() then
+		return self.dlg_video_adv
+	end
+	
+	return self:GetTabFromId( curTabId )
+end
+
+--MTB_Jakub_Jurek [JP-62] change opt menu controls
+function options_dialog:OnElementAbuttonPress(element)
+	local elementInfo = class_info(element)
+	local elementClass = elementInfo.name
+	
+	if elementClass == 'CUICheckButton' then
+		-- element:SetCheck( not element:GetCheck() )
+		element:Toggle()
+		if element:GetCheck() then
+			self.sndAccept:play	(nil, 0.0, sound_object.s2d)
+		else
+			self.sndDecline:play(nil, 0.0, sound_object.s2d)
+		end
+	elseif elementClass == 'CUI3tButton' then -- MTB_Jakub_Jurek [JUD-283]
+		element:OnClick()
+	end
+end
+--end MTB_Jakub_Jurek
+
+function options_dialog:OnElementGpadPress(element, right)
+	local elementInfo = class_info(element)
+	local elementClass = elementInfo.name
+
+	-- MTB-Damian.Romanik [JP2-1565] Start
+	if not element:IsEnabled() then
+		return
+	end
+	-- MTB-Damian.Romanik [JP2-1565] End
+	
+	if elementClass == 'CUIComboBox' then
+
+		local comboCnt = element:GetSize()
+		if comboCnt == 0 then return end
+		
+		local idx = element:GetItemIDX()
+		if idx == index_for_not_found then idx = 0
+		elseif right then
+			idx = idx + 1
+			if idx >= comboCnt then
+				idx = 0
+			end
+			self.sndDecline:play(nil, 0.0, sound_object.s2d)
+		else
+			idx = idx - 1
+			if idx < 0 then
+				idx = comboCnt-1
+			end
+			self.sndDecline:play(nil, 0.0, sound_object.s2d)
+		end
+		
+		element:SetItemIDX(idx)
+		--also need to make sure that LIST_ITEM_SELECT event is risen
+		
+	elseif elementClass == 'CUITrackBar' then
+		self.sndDecline:play(nil, 0.0, sound_object.s2d)
+		if right then
+			element:StepRight()
+		else
+			element:StepLeft()
+		end
+		
+	elseif elementClass == 'CUITabControl' then
+		if right then
+			element:SetNextTabActive(false)
+		else
+			element:SetPrevTabActive(false)
+		end
+	end
+end
+
+function options_dialog:OnElementGpadHold(element, right)
+	local elementInfo = class_info(element)
+	local elementClass = elementInfo.name
+		
+	if elementClass == 'CUITrackBar' then
+		if right then
+			element:StepRight()
+		else
+			element:StepLeft()
+		end
+	end
+end
+
+-- MTB-Damian.Romanik [JUD-317] Start: Function for making sure that index didn't exit the range
+function options_dialog:check_range(newFocusIndex, curTab, offset, loop)
+	local eltCount = #curTab.focusList
+
+	if newFocusIndex > eltCount then
+		if loop then
+			return 1
+		else
+			return -1
+		end
+	elseif newFocusIndex < 1 then
+		if loop then
+			return eltCount
+		else
+			return -1
+		end
+	end
+
+	return newFocusIndex
+end
+-- MTB-Damian.Romanik [JUD-317] End: Function for making sure that index didn't exit the range
+
+function options_dialog:get_isHidden(curTab, newFocusIndex)
+	local Element = curTab.focusList[newFocusIndex][3]
+	local isHidden = false
+	if Element ~= nil then
+		isHidden = Element.hidden
+	end
+	
+	if isHidden == nil then
+		isHidden = false
+	end
+
+	return isHidden
+end
+
+function options_dialog:OnElementChangeSelection(curTab, offset, loop)
+
+	local eltCount = #curTab.focusList
+	local newFocusIndex = self.focusIndex + offset
+
+	-- MTB-Damian.Romanik [JUD-317] Start: Improvements of the selecting focusIndex logic
+	newFocusIndex = self:check_range(newFocusIndex, curTab, offset, loop)
+	if newFocusIndex == -1 then
+		return false
+	end
+
+	local isHidden = self:get_isHidden(curTab, newFocusIndex)
+	
+	--MTB_Jakub_Jurek
+	while (newFocusIndex > 0 and newFocusIndex <= eltCount) and (not curTab.focusList[newFocusIndex][1]:GetParent():IsEnabled() or isHidden or not curTab.focusList[newFocusIndex][2]) do
+		newFocusIndex = newFocusIndex + offset
+
+		newFocusIndex = self:check_range(newFocusIndex, curTab, offset, loop)
+		if newFocusIndex == -1 then
+			return false
+		end
+
+		isHidden = self:get_isHidden(curTab, newFocusIndex)
+	end
+	--end MTB_Jakub_Jurek
+	-- MTB-Damian.Romanik [JUD-317] Start: Improvements of the selecting focusIndex logic
+
+	if self.mm_is_controller then
+		self.sndSwitch:play(nil, 0.0, sound_object.s2d)
+	end
+	
+	self:OnElementSetSelected(curTab, self.focusIndex, false)
+	
+	self.focusIndex = newFocusIndex
+
+	--for advanced video settings, some options could be disabled for this type of renderer
+	--so try next element
+	if curTab:WindowName() == "dlg_video_adv" then
+		local _current_id = 5 -- mtb-dawid.markiewicz: Hardcoded renderer r4 with ID - 5
+		local focusRecord = curTab.focusList[self.focusIndex]
+		local elementParent = focusRecord[1]:GetParent()
+		
+		--find this 'groupbox' in preconditions, check condition, if not met - skip
+		for i,j in pairs(self.m_preconditions) do
+			if (i == self.focusIndex) then
+				if (not j.func(_current_id)) then
+					--skip this item
+					return self:OnElementChangeSelection(curTab, offset, loop)
+				end
+				break
+			end
+		end
+	end
+
+	self:OnElementSetSelected(curTab, self.focusIndex, true)
+	return true
+end
+
+function options_dialog:OnElementSetSelected(curTab, eltIndex, on)
+
+	if curTab["focusList"] == nil then
+		return 
+	end
+
+	local eltCount = #curTab.focusList
+	
+	if eltIndex < 1 or eltIndex > eltCount then
+		return
+	end
+	
+	local focusRecord = curTab.focusList[eltIndex]
+	local element = focusRecord[2]
+	local elementInfo = class_info(element)
+	local elementClass = elementInfo.name
+	
+	if elementClass == "CUI3tButton" then -- MTB_Jakub_Jurek [JUD-283]
+		element:SetHighlighted(on)
+	end
+	
+	local caption = focusRecord[1]:TextControl()
+	
+	if on then
+		caption:SetTextColor(GetARGB(255, 255, 255, 255))
+		
+		--for advanced video settings, make autoscroll
+		local name = curTab:WindowName()
+		if name == "dlg_video_adv" or name == "dlg_gameplay" or name == "dlg_video" or name == "dlg_controls" then
+		
+			local elementParent = focusRecord[1]:GetParent()
+		
+			local scroll = curTab.scroll_v
+			local lpos = scroll:GetMinScrollPos()
+			local rpos = scroll:GetMaxScrollPos()
+			local lrdif = (rpos - lpos)
+			
+			local ratio = elementParent:GetWndPos().y / curTab.scroll_v:GetPadSize().y
+			
+			local spos = lpos + lrdif * ratio - lrdif * (3 / eltCount)
+			
+			curTab.scroll_v:SetScrollPos(spos)
+		end
+	else
+		caption:SetTextColor(GetARGB(255, 170, 170, 170))
+	end
+	
+	-- //MTB_Jakub_Jurek [JUD-72] 
+	if self.mm_is_controller then
+
+		if elementClass == 'CUIComboBox' then
+			element:SetSelected(on)
+		end
+	end
+	-- //end MTB_Jakub_Jurek [JUD-72] 
+end
+
+function options_dialog:DeselectAllTabElements(tabObject)
+	if tabObject["focusList"] == nil then
+		return 
+	end
+
+	local eltCount = #tabObject.focusList
+	for i=1,eltCount,1 do
+		local focusRecord = tabObject.focusList[i]
+		local caption = focusRecord[1]:TextControl()
+		caption:SetTextColor(GetARGB(255, 170, 170, 170))
+	end
+end
+
+function options_dialog:OpenNextTab(offset, allowLoop)
+	self.dlg_controls.forceUpdate = true
+	self.dlg_video_adv.forceUpdate = true
+	self.dlg_sound.forceUpdateDynMusic = true
+	self.dlg_sound.forceUpdateCspk = true
+	if offset == 1 then
+		if not self.tab:SetNextTabActive(allowLoop) then
+			return false
+		end
+	elseif offset == -1 then
+		if not self.tab:SetPrevTabActive(allowLoop) then
+			return false
+		end
+	else
+		return false
+	end
+	
+	--select item in new tab
+	curTab = self:GetCurTabWnd()
+	self.focusIndex = 1
+	self:DeselectAllTabElements(curTab)
+	self:OnElementSetSelected(curTab, self.focusIndex, true)
+	
+	action_repeaters():Reset(key_bindings.kUI_UP)
+	action_repeaters():Reset(key_bindings.kUI_DOWN)
+
+	if self.mm_is_controller then
+		self.sndSwitch:play	(nil, 0.0, sound_object.s2d)
+	end
+	
+	-- mtb-bartlomiej.kunikowski : Update also when change tab (due to DeselectAllTabElements function)
+	self.dlg_sound:update_controller_speaker()
+	self.dlg_sound:update_dynamic_music()
+	self.dlg_video_adv:update_fsr_settings(self.dlg_video:is_vsync_enabled())
+	self.dlg_video_adv:update_ssgi_ssao_settings()
+
+	return true
+end
+
+function options_dialog:UpdateInputLegend()
+	self.input_legend:ClearAll()
+	self.input_legend:AddItem('legend_ui_tabs', true)
+	--self.input_legend:AddItem('legend_ui_navigation_v', true)
+	self.input_legend:AddItem('legend_ui_options_toggle', true) --MTB_Jakub_Jurek [JP-62]
+	self.input_legend:AddItem('legend_ui_options_tune_item', true)
+
+	-- mtb_larry added legend advanced/simple video options dialog tab
+	if not is_gaming_console() and self.mm_is_controller then
+		local tabId = self.tab:GetActiveId()
+		if tabId == 'video' then
+			if not self.dlg_video_adv:IsShown() then
+				log("legend_ui_advanced")
+				self.input_legend:AddItem('legend_ui_advanced', true)
+			else
+				log("legend_ui_basic")
+				self.input_legend:AddItem('legend_ui_basic', true)
+			end
+		end
+	end
+	-- mtb_larry
+
+	--self.input_legend:AddItem('legend_ui_options_save', true)
+	self.input_legend:AddItem('legend_ui_back', true)
+	
+	self.input_legend:UpdateText()
+end
+
+MessageBox = {
+	restoreDefault = 0,
+	confirmChanges = 1,
+	info = 2,
+}
+
+function options_dialog:OnTouchpadButtons()
+	local shouldShow = not is_switch_in_TV()
+
+	self.btn_accept:Show(shouldShow)
+	self.btn_cancel:Show(shouldShow)
+
+	self.dlg_controller_layout:OnTouchpadButtons()
+end

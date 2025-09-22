@@ -1,0 +1,39 @@
+<w>
+	<main_dialog ui_scale_y_offset="5">
+		<background x="0" y="0" width="1024" height="768">
+			<auto_static x="0" y="0" width="1024" height="768" stretch="1">
+				<texture>ui\ui_mm_options_back_nx64</texture>
+			</auto_static>
+		</background>
+
+		<dialog x="287" y="309" width="450" height="150" stretch="1">
+			<texture>ui_inGame2_opt_main_window</texture>
+
+			<cap_title x="0" y="10" width="450" height="4" stretch="1">
+				<text r="170" g="170" b="170" font="graffiti32" align="c">ui_mm_nx64_setlang</text>
+			</cap_title>
+
+			<cap_language x="15" y="100" width="135" height="24" complex_mode="1">
+				<text r="170" g="170" b="170" font="letterica16" align="c" vert_align="c">ui_mm_language</text>
+			</cap_language>
+
+			<list_language x="175" y="98" width="235" height="20">
+				<options_item entry="g_game_language" group="mm_opt_gameplay"/>
+				<list_font r="170" g="170" b="170" font="letterica18all"/>
+				<text_color>
+					<e r="170" g="170" b="170"/>
+					<d r="70" g="70" b="70"/>
+				</text_color>
+			</list_language>
+			
+			<btn_accept x="171" y="150" width="108" height="26" stretch="1">
+				<text font="letterica18" align="c" x="-8" y="0">ui_accept_eula</text>
+				<texture>ui_inGame2_button</texture>
+				<text_color>
+					<e r="170" g="170" b="170"/>
+				</text_color>
+				<input_icon x="0" y="3" width="15" height="19" stretch="1" spacing="-3" texture="controller_a"/>
+			</btn_accept>
+		</dialog>
+	</main_dialog>
+</w>

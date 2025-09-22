@@ -1,0 +1,4155 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="zat_a2_linker_b14_quest_done_0">
+		<text>我在挖泥船找到了个奇怪的超自然体，这就是。</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_done_1">
+		<text>半超自然体？有意思…只要活儿干得漂亮，报酬绝不是问题。看来你是受过正规训练的，想找活干的话就来我这儿吧，经常有订单指名要特定的超自然体，报酬也很可观。</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_init_0">
+		<text>有任务给我吗？</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_init_1">
+		<text>有个小任务…昨晚有些潜行者在挖泥船看到了诡异的亮光…即使在这种地方，这也算得上怪事一件了。你不妨去调查一下？</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_init_11">
+		<text>我会去的。</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_init_111">
+		<text>在那儿千万小心。告诉你，那里到处都是辐射。记得带点药品过去，你会谢我的。</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_init_12">
+		<text>暂时没空。</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_init_2">
+		<text>今天的任务派光了。</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_sell_artefact_0">
+		<text>喏，半超自然体。</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_sell_artefact_1">
+		<text>这是你的报酬，只要活儿干得漂亮，报酬绝不是问题。看来你是受过正规训练的，想找活干的话就来我这儿吧，经常有订单指名要特定的超自然体，报酬也很可观。</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_strange_item_0">
+		<text>我在挖泥船捡到了一个奇怪的超自然体，想看看吗？</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_strange_item_1">
+		<text>半超自然体？有意思…这东西我要了，出价 3000，怎么样？</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_wrong_0">
+		<text>我看到有人把我找到的超自然体带给你了。</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_wrong_1">
+		<text>抱歉，我不想趟这摊浑水。我的规矩很简单：谁拿来东西，我就给谁钱。你知道变异区这儿的生存法则，眼睛瞪大点，行动利索点，还有永远别相信你掌控不了的人。不过，要是你想找份稳定的工作，可以来找我。经常有订单指名要特定的超自然体，报酬也很可观。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_0">
+		<text>你需要哪个超自然体？</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_11">
+		<text>我会把飘浮带来的。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_112">
+		<text>好极了！动作真快，这是你的报酬。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_12">
+		<text>我会把人眼带来的。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_13">
+		<text>我会把空间泡带来的。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_14">
+		<text>我会把甲壳带来的。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_15">
+		<text>我会把金鱼带来的。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_16">
+		<text>我会把自燃火带来的。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_17">
+		<text>我会把萤火虫带来的。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_18">
+		<text>我会把雪花带来的。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_19">
+		<text>我可以卖给你飘浮。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_2">
+		<text>最近有些怪事发生。来我这儿领过任务的人都失踪了…我有种不祥的预感，看来得关门歇业了。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_20">
+		<text>我可以卖给你人眼。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_21">
+		<text>我可以卖给你空间泡。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_22">
+		<text>我可以卖给你甲壳。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_23">
+		<text>我可以卖给你金鱼。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_24">
+		<text>我可以卖给你自燃火。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_25">
+		<text>我可以卖给你萤火虫。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_26">
+		<text>我可以卖给你雪花。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_27">
+		<text>明白了，我过段时间再来。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_3">
+		<text>我手下的两支队伍全失踪了…我暂时不接订单了。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_give_adv_task_0">
+		<text>任务完成了。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_give_adv_task_1">
+		<text>好极了！这是你的报酬。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_give_adv_task_2">
+		<text>给。算不上很多，但也不少了。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_info_0">
+		<text>和我说说你的超自然体订单吧。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_about_sci_guards_0">
+		<text>我能雇佣什么人来保护科学家吗？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_about_sci_guards_1">
+		<text>斯巴达克斯和他的小队，都是我的人，他们平时就在附近。信不信由你，里面有人来变异区之前当过保镖，甚至在特警部队呆过，算得上对枪械略知一二了…要是他们有空，绝对能当一支合格的安保小队。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_about_sci_guards_2">
+		<text>换作平时，我肯定能给你点消息，但最近发生的事情你也知道…斯巴达克斯小队已经不在了，愿他们安息。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_about_sci_helpers_0">
+		<text>有什么人我可以雇来帮科学家执行测量任务的吗？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_about_sci_helpers_1">
+		<text>绑腿的人你认识不？只要不是狩猎季，他们，嗯…还挺乐意接点小活的，尤其是用不着开枪的小活。他们常说，打猎打太久，扣扳机的手指也是会麻的。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_about_sci_helpers_2">
+		<text>实在说不好。我本来想给你推荐绑腿小队的，可他们已经很久没消息了。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_0">
+		<text>和我说说这里的生活。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_1">
+		<text>这个话题太大了。问具体一点，我会知无不答的。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_1111">
+		<text>潜行者们平常都干些什么？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_11111">
+		<text>你觉得呢，老兄？这些人从斯卡多夫斯克号上岸，四处寻找超自然体，见到朝他们跑的东西就开枪，也不管是人是鬼。他们喜欢回斯卡多夫斯克号喝个烂醉，然后嘴里不干不净的…这就是他们在下一次任务前休养恢复的方式。不过，要是大喷发来了，这里就是另一番光景了。人们会正襟危坐，回忆那些没来得及躲进掩体的倒霉蛋…</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_1112">
+		<text>是什么驱使着潜行者进入变异区的核心地带？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_11121">
+		<text>这问题还真有意思。有些人是为了探索超自然体的下一座富矿，有些人是被绿洲的传闻吸引来的，而另一些人则是为了寻找许愿石。说到底，还是人类的底层欲望在作怪，也就是贪婪和好奇…每个人都有自己的理由，我相信你也有你的。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_1113">
+		<text>你怎么会在这里？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_11131">
+		<text>洗脑站被关掉之后，我就和松鸡来到了这里，不过我猜这个答案不是你想听的，对不对？我主要做超自然体买卖。这年头，普通小物件在外头已经不稀奇了，那些大客户想要更稀有的东西，所以我在这儿设了潜行者营地——这儿可以找到非常值钱的超自然体。你想，当一个潜行者带着战利品回来时，他真正想要的是什么？一杯美酒，外加热情的接待，就这两样。这就是斯卡多夫斯克号的一切。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_1114">
+		<text>你对强盗有什么看法？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_11141">
+		<text>嗯，这么说吧，只要他们没做啥出格的事儿，我并不反对他们来斯卡多夫斯克号。彻头彻尾的混蛋总是少数，有些强盗甚至以前就是当潜行者的。谁知道呢，说不定哪个可怜的小混蛋正要金盆洗手就吃了枪子儿…生活嘛，就是充满意外。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_1115">
+		<text>哎，算了，当我没问。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_11151">
+		<text>行吧。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_army_0">
+		<text>告诉我，这里有军方人员出现过吗？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_army_1">
+		<text>你自己想想，那些当兵的怎么可能想来这儿？他们躲都来不及。这里有不少人还记得在警戒区的烂泥地里爬的感觉呢，头顶子弹乱飞，开枪的就是这帮人…</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_compass_0">
+		<text>和我说说罗盘。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_compass_1">
+		<text>这个超自然体可是传说级的。据说罗盘没有任何有害的副作用，使用得当的话可以把人带出特异点，客户排着队想拿到它也不是没有道理。之前有人和我说有个叫诺亚的潜行者知道罗盘的事情，他住在南面。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_compass_11">
+		<text>好，我去找诺亚。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_compass_12">
+		<text>我再考虑一下。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_compass_2">
+		<text>我跟你说过，这是一个传奇的超自然体。据说有个叫诺亚的潜行者可能对它有些了解。他住在南边。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_halfart_jup_b1_0">
+		<text>我在离亚诺夫不远的地方捡到了一个奇特的超自然体。有兴趣吗？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_halfart_jup_b1_1">
+		<text>让我看看…确实是个奇怪的东西，但我不觉得能找到买家。我建议你回亚诺夫给科学家们看看，这种怪东西总能让他们大开眼界。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_new_detector_0">
+		<text>猫头鹰说你说话不算话。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_new_detector_1">
+		<text>我们之前说得很清楚了：我拿到探测器，实地使用，而他从收益里拿提成。我已经付给他两台探测器的钱了，完全是按说好的来的。这就是我和猫头鹰之间的协议。如果你是帮他干活的，那你把第三台探测器拿回去吧，反正我是不会买的。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_new_detector_11">
+		<text>那我该怎么和猫头鹰说？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_new_detector_2">
+		<text>那就这样吧。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_new_detector_3">
+		<text>如果我是你，就不会和猫头鹰打交道。要是你想赚大钱的话，我可以让你在搜寻超自然体的过程中抢占先机，有那么两三个小时的优势就足够打败其他人了。另外，如果你有兴趣的话，我有个特别订单。我急需一个叫罗盘的超自然体。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_compass_double_dialog_0">
+		<text>罗盘被苏丹截走了。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_compass_double_dialog_1">
+		<text>看来我真的惹怒那个混蛋了…好吧，没什么大不了的。去找诺亚再谈谈。根据最近的传言，找他应该有用。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_compass_give_dialog_0">
+		<text>我找到罗盘了。给你。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_compass_give_dialog_1">
+		<text>你真是我的救命恩人，伙计！现在这个大客户的生意可以说是稳了！据说苏丹想接手我的生意，看来他要失望了。来，拿着，这是你应得的。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_compass_revert_dialog_0">
+		<text>我不会帮你去找罗盘。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_compass_revert_dialog_1">
+		<text>太遗憾了。好吧。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_take_business_actor_dialog_0">
+		<text>苏丹向你问好。顺便，你所有的供应渠道都被掐断了。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_take_business_actor_dialog_1">
+		<text>看来幕后黑手已经很明显了…我是不会离开斯卡多夫斯克号的，看来我别无选择，只能为你和苏丹干活了。他会拿到他那份销售分红，你也可以每天来拿你那份。钱会给你准备好。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_take_money_actor_dialog_0">
+		<text>把我那份给我。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_take_money_actor_dialog_1">
+		<text>给你。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_take_money_actor_dialog_2">
+		<text>你来得太早了，我还没有钱。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b52_about_nimble_0">
+		<text>你觉得机灵鬼会不会在倒腾赃物？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b52_about_nimble_1">
+		<text>我不这么想…据我对他的了解，他更喜欢把不光彩的事留给别人去做，好的商人珍惜自己的招牌和声誉。总而言之，我从没听过有人说过机灵鬼的坏话。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b52_about_snag_0">
+		<text>我在找漂流木。你知道在哪儿能找到他吗？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b52_about_snag_1">
+		<text>上次见到他时他正从一家酒吧往外走。如果我没记错的话，他去了码头吊车那里。你可以去那里找他。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b7_actor_start_0">
+		<text>有人在计划干掉一伙潜行者，我们自己的人。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b7_actor_start_1">
+		<text>我靠。强盗已经像兔子一样杀不完了，现在我们还要打自己人？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b7_actor_start_11">
+		<text>有人拉我去夜袭舍甫琴科号附近的营地。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b7_actor_start_111">
+		<text>混蛋…不过如果你答应他们的话反而是好事，明白我的意思了吗？这样我就能给兄弟们通风报信，准备好热烈欢迎这帮客人了。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b7_actor_start_1111">
+		<text>我同意。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b7_actor_start_11111">
+		<text>好，你去见那帮王八蛋，我去跟兄弟们说。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b7_actor_start_1112">
+		<text>对不起，你只能靠自己了。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_oasis_art_sell_0">
+		<text>我有个从绿洲搞来的超自然体，你有兴趣吗？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_oasis_art_sell_1">
+		<text>绿洲之心？不，我还是算了吧。外面有各种各样的说法…哪怕只是迷信，我也宁可保持距离。我觉得你最好把它交给科学家们，让他们来研究它，这样我们可以更好地了解它对人的影响。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_start_dialog_11">
+		<text>你是新来的？没关系，你很快就会适应的…你知道，变异区是个严厉的老师。我是大胡子，这儿的酒保。有问题就来找我，听到没？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_start_dialog_21">
+		<text>继续说。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_start_dialog_31">
+		<text>想不想找找超自然体来赚钱？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_start_dialog_32">
+		<text>我的订单怎么样了？记住，一个潜行者行动越快，就赚得越多…</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_start_dialog_33">
+		<text>你来晚了，有人已经把那个超自然体送来了。不过，如果你完成了订单，我还是可以付你钱的，只是没那么多。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_start_dialog_41">
+		<text>有这么个事。据说有几个强盗打算买一批武器，我们的人想跟踪他们，破坏交易。希望你能帮忙。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_start_dialog_51">
+		<text>怎么说？</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_b40_about_merc_camp_0">
+		<text>雇佣兵在废物处理站做什么？</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_b40_about_merc_camp_1">
+		<text>你最好离远点。跟你无关。</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_bunker_guarding_0">
+		<text>你喜欢为科学家工作吗？</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_bunker_guarding_1">
+		<text>挺好的。很高兴你能来找我们，我们是科学家们最好的护卫。</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_come_with_me_0">
+		<text>我在组织一个小队前往普里皮亚季。你愿意加入我们吗？</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_come_with_me_1">
+		<text>不行，我得盯着那些科学家…你可以试着和索科洛夫谈谈，我记得他想去普里皮亚季。</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_come_with_me_2">
+		<text>不行，得盯着那些科学家…毕竟我们就是来保护他们的。</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_come_with_me_3">
+		<text>嗯…算了，我现在得待在这里。</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_0">
+		<text>你愿意为科学家工作吗？</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_1">
+		<text>这要看情况了，具体做什么？</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_11">
+		<text>看守他们的碉堡。</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_111">
+		<text>当然愿意，感谢你的邀请。</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_12">
+		<text>在特异点中进行测量。</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_121">
+		<text>这种工作不适合我们。去找潜行者吧。</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_2">
+		<text>听着，潜行者。我已经饿得要死了，你在这儿唠唠叨叨只会让我更难受…</text>
+	</string>
+
+	<string id="zat_b103_merc_dialog_about_supplies_0">
+		<text>我可以给你弄点食物。</text>
+	</string>
+
+	<string id="zat_b103_merc_dialog_about_supplies_1">
+		<text>哈！好，就交给你了。罐头肉，香肠和面包…每样都来六份。东西一定要弄够，我们快饿死了。</text>
+	</string>
+
+	<string id="zat_b103_merc_dialog_about_toolkit_0">
+		<text>我听说这附近可能有工具。</text>
+	</string>
+
+	<string id="zat_b103_merc_dialog_about_toolkit_1">
+		<text>谁他妈知道呢？但我求你到处乱晃了，我们要干的活太多，连个派出去买食物的人都没有。</text>
+	</string>
+
+	<string id="zat_b103_merc_dialog_about_toolkit_2">
+		<text>谁他妈知道呢？不过你在垃圾堆随便挖吧，也许能找到需要的东西。</text>
+	</string>
+
+	<string id="zat_b103_merc_dialog_find_supplies_0">
+		<text>给你食物。</text>
+	</string>
+
+	<string id="zat_b103_merc_dialog_find_supplies_1">
+		<text>哇，我之前都已经绝望了…谢谢，这下兄弟们能大吃一顿了。你想干嘛？翻垃圾？好吧，你翻吧，说不定能找到你需要的东西。就是别掏出枪到处晃了！</text>
+	</string>
+
+	<string id="zat_b103_merc_dialog_find_supplies_2">
+		<text>哇，我之前都已经绝望了…谢谢，这下兄弟们能大吃一顿了。你要是想在这里找东西就去吧，就是别掏出枪到处晃了！</text>
+	</string>
+
+	<string id="zat_b103_merc_dialog_start_11">
+		<text>这里不欢迎你。这是我们的营地，你不能到处乱跑。我的兄弟们已经饿得受不了了，而且精神绷得很紧…</text>
+	</string>
+
+	<string id="zat_b103_merc_dialog_start_12">
+		<text>滚开，我的人都饿得手抖了…</text>
+	</string>
+
+	<string id="zat_b103_merc_dialog_start_21">
+		<text>哦，潜行者…有什么重要的事吗？如果没事，我得回去干活了。</text>
+	</string>
+
+	<string id="zat_b106_hunt_himera_0">
+		<text>我准备好去打猎了。</text>
+	</string>
+
+	<string id="zat_b106_hunt_himera_1">
+		<text>好，咱们走吧。</text>
+	</string>
+
+	<string id="zat_b106_hunt_himera_11">
+		<text>我们走吧。</text>
+	</string>
+
+	<string id="zat_b106_hunt_himera_2">
+		<text>还没到时候。凌晨三点再来。</text>
+	</string>
+
+	<string id="zat_b106_hunt_himera_21">
+		<text>我知道了。</text>
+	</string>
+
+	<string id="zat_b106_hunt_himera_3">
+		<text>我们也是…除非有喷发，否则奇美拉肯定是睡不着了。看来今晚是没戏了…</text>
+	</string>
+
+	<string id="zat_b106_stalker_garmata_b106_after_hunt_11">
+		<text>绑腿死了。怎么会这样…你要去亚诺夫吗？绑腿的朋友捕兽师在那边，能把那奇美拉的死讯告诉他吗？…我可能要回家了。</text>
+	</string>
+
+	<string id="zat_b106_stalker_garmata_b106_after_hunt_111">
+		<text>保重。</text>
+	</string>
+
+	<string id="zat_b106_stalker_garmata_b106_after_hunt_12">
+		<text>给我滚。绑腿是因为你才死的…我们现在怎么办？…</text>
+	</string>
+
+	<string id="zat_b106_stalker_garmata_b106_after_hunt_121">
+		<text>保重。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_himself_0">
+		<text>跟我讲讲你自己。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_himself_1">
+		<text>我是绑腿，狩猎队的队长。我们消灭变异体来赚钱，如果有科学实验或者稀奇宠物的需求，也可以活捉它们…正如捕兽师常说的，“为每一头畜生送上枪子儿…”</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_0">
+		<text>跟我讲讲狩猎变异体的事。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_1">
+		<text>嗯，虽然我算不上最有经验的猎人，但也可以跟你讲讲那些群居动物的事儿。剥皮猪，野猪，盲犬，异化犬，呼吸管，仓鼠…连吸血怪我也懂点儿。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_1111">
+		<text>跟我讲讲野猪和剥皮猪。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_11111">
+		<text>行，剥皮猪是最无害的变异体，它们会尽量远离潜行者，但如果你攻击它们，它们也会反击。如果这些剥皮猪当中有野猪，那就麻烦了，三百公斤的野猪可不是好惹的。可千万别被它的冲锋撞个正着…你要利用它的冲撞势头，这么重的东西冲起来不可能急转弯，对吧？闪到一边，然后给它来一枪。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_1112">
+		<text>跟我讲讲盲犬和异化犬。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_11121">
+		<text>独行的犬类并不危险，但成群结队就很麻烦了。它们只有饥饿的时候才会攻击，但糟糕的是，它们几乎总是饿着肚子。如果你要对付整整一群，尽量从高处下手，否则它们撞都能把你撞死。尤其是它们当中有成熟的异化犬时最为棘手，它们体格并不比瞎的那种强多少，但更加狡猾和危险…如果你看到一只突然变成了一大群，那么请记住：这是幻影攻击，真正的异化犬会躲在后面，偶尔会咬你一口…试着把它找出来。真狗一死，幻影就会消失。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_1113">
+		<text>跟我讲讲呼吸管。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_11131">
+		<text>那是人类的残骸…对于老手猎人来说，一只落单的呼吸管并不是什么大问题，在它朝你扑过来时凌空一枪就能搞定。而如果有几只同时进攻的话…你就得一边躲避他们的飞扑，一边用最快的速度射击它们。它们也知道这一点，所以通常会一起攻击你。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_1114">
+		<text>跟我讲讲仓鼠。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_11141">
+		<text>猎人的噩梦…绝不要因为它们个头小就低估它们，它们速度惊人，行动敏捷，而且总是成群出没。当你感受到几十颗小獠牙在撕咬你的时候，你就不敢再低估它们了，而会开始射击…但这才是最可怕的地方：它们极难被击中。所以我总是告诉潜行者，带一把上膛的霰弹枪。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_1115">
+		<text>跟我讲讲吸血怪。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_11151">
+		<text>它们是狩猎高手，伪装能力极强。一旦伪装起来，你几乎看不到它们。如果你要猎杀吸血怪，就试试惊吓它，如果它吓得移动了，你就能看清楚…记住，吸血怪会偷偷溜到你身后，用触手缠住你的脖子，这可真够吓人的…如果你不幸碰到了吸血怪，一定要小心背后。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_1116">
+		<text>好吧，算了吧。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_soroka_actor_task_0">
+		<text>如果我看到喜鹊，一定会告诉你。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_soroka_actor_task_1">
+		<text>肯定不会让你白干…我会拔光这个鸟人的羽毛。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_soroka_dialog_0">
+		<text>喜鹊是怎么害过你的？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_soroka_dialog_1">
+		<text>好吧，有一次他跑来跟我说，因为有夺心鬼拦路，他没法把自己的战利品拿出来。当时我的小队少个人，我们的探路者丹尼拉去追踪吸血怪的巢穴了，所以我们决定帮喜鹊去拿战利品，带他一起去打猎。他要做的就只是在巢穴附近提防奇美拉而已…</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_soroka_dialog_11">
+		<text>然后怎么了？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_soroka_dialog_111">
+		<text>然后嘛，那个混蛋带着他的战利品跑了，还把我们的战利品也吞了。当奇美拉窜出来时，我们都大吃一惊，大炮根本来不及反应…谁能反应得过来呢？我顾不上杀猎物，只能忙着保护我的队员。最后我打伤了奇美拉，但它还是在螃蟹身上撕开了一个大口子，然后逃走了。我们失去了整整一周的准备时间。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_after_fight_11">
+		<text>你真是个天生的猎人，伙计！这是我个人送你的…正如捕兽师常说的，“技巧才是主武器”…对了，如果你要去亚诺夫的话，告诉捕兽师那只奇美拉死了就行。我会暂时留在斯卡多夫斯克号，等螃蟹好起来。你和我们一起来吗？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_after_fight_111">
+		<text>嗯。我们走吧。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_after_fight_112">
+		<text>不，我要在这里再呆一阵子。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_after_fight_12">
+		<text>我们成功了。这是我个人送你的小礼物…本来可以更顺利的，不过没关系，正如捕兽师常说的那样，“有了经验，谁还需要陷阱？”对了，如果你要去亚诺夫的话，告诉捕兽师那只奇美拉死了就行。我会暂时留在斯卡多夫斯克号，等螃蟹好起来。你和我们一起来吗？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_after_fight_13">
+		<text>大炮死了…这头奇美拉害得我们好惨。你要去亚诺夫吗？我们得让那边的捕兽师知道奇美拉已经死了。我会暂时留在斯卡多夫斯克号，等螃蟹好起来。你要一起来吗？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_b22_about_stalker_vampire_0">
+		<text>我找到了丹尼拉，他已经死了。是刚死的地震下的手。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_b22_about_stalker_vampire_1">
+		<text>天哪！为什么好人总是不长命？…天杀的地震！丹尼拉那么好的人他也下得了手…</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_b52_about_nimble_0">
+		<text>你觉得机灵鬼会不会在倒腾赃物？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_b52_about_nimble_1">
+		<text>赃物？你怎么会这么想？我认识机灵鬼很久了，经常向他订购武器，他的货真是物美价廉。我还是头一次听到你这种说法，估计是他的竞争对手急了，到处散播谣言什么的…</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_come_with_me_0">
+		<text>我在组织一个小队前往普里皮亚季。你愿意加入我们吗？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_come_with_me_1">
+		<text>我和科学家们约好了，必须得遵守承诺。另外，我真的不想去。你应该和索科洛夫谈谈，他一直跟我唠叨说很想去普里皮亚季，但又没勇气一个人去。他是个真正的战士。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_come_with_me_2">
+		<text>我和科学家们约好了，必须得遵守承诺。另外，我真的不想去。抱歉了，哥们。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_come_with_me_3">
+		<text>不，我不想去。这里不愁没有猎物，你比别人更清楚还有多少变异体在外面晃悠，足够一个好猎人打几辈子了。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_employ_stalkers_0">
+		<text>你愿意为科学家工作吗？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_employ_stalkers_1">
+		<text>什么活儿？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_employ_stalkers_11">
+		<text>看守他们的碉堡。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_employ_stalkers_111">
+		<text>不了，谢谢。我是个猎人，只和变异体打交道，而它们并不会威胁到碉堡。至于人类嘛，那就是另一回事了。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_employ_stalkers_12">
+		<text>在特异点中进行测量。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_employ_stalkers_121">
+		<text>有何不可呢？这任务我们可以接。我正式宣布狩猎季节结束！用这个任务来放松一下也挺好，你知道的，每次去那里都觉得头皮发麻…</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_employ_stalkers_2">
+		<text>不，现在不行。还要打猎呢，得先把奇美拉这事解决了。我们不能任由那头嗜血的变异体在变异区里横行霸道，四处捕猎潜行者。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_employ_stalkers_3">
+		<text>我现在一心只想紧紧扼住喜鹊的喉咙。在那之后我才能冷静下来跟你谈。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_employ_stalkers_4">
+		<text>晚点再说。我们的任务已经够多了，要除掉一只奇美拉，还要追踪喜鹊，没时间干别的。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_info_about_soroka_0">
+		<text>我找到喜鹊了。他在亚诺夫车站，自称“火石”。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_info_about_soroka_1">
+		<text>这个狗杂种还活着？好吧，也活不了多久了…请收下这个，感谢你的情报。我已经等不及会会那个杂种了。那么，火石是吧…</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_info_about_soroka_11">
+		<text>对。谢谢。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_info_about_soroka_start_11">
+		<text>伙计，你见过这个叫喜鹊的家伙吗？认识他吗？不认识？好吧，如果遇到那个人渣，你可以一枪打爆他的头，或者你告诉我在哪能找到他，我不会亏待你的。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_start_11">
+		<text>你好啊。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_start_12">
+		<text>等等！…我们已经找到了奇美拉，不能再耽误时间了。螃蟹还躺着，丹尼拉也没回来，我们两个人去追那只怪兽可不明智，还需要一个帮手。你倒是个强人，你找到了喜鹊。我们一起去猎杀那只臭奇美拉怎么样？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_start_13">
+		<text>等等！…我们已经找到了奇美拉，不能再耽误时间了。螃蟹还躺着，至于丹尼拉…嗯…两个人去狩猎绝非明智之举。需要再找个帮手。你看起来挺强的，要不要一起去猎杀那只臭奇美拉？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_start_131">
+		<text>我很乐意。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_start_1311">
+		<text>正如捕兽师常说的：“在一场狩猎中，猎杀只是工作的一半…”总之，你看，狩猎了一夜之后，奇美拉会在凌晨三点左右回到巢穴，关灯睡觉。我们就在那时候杀过去…等你准备好了，就在凌晨三点过来，大家出发。我们会在酒吧等你。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_start_132">
+		<text>我再考虑一下。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_start_1321">
+		<text>好吧，如果你决定好了，就在凌晨三点左右来酒吧。那时奇美拉会爬回巢穴睡个好觉。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_start_14">
+		<text>你好啊。状态如何？看你好像休息得很好。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_start_15">
+		<text>啊，厉害了，世界还真小啊，呵呵。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_start_16">
+		<text>怎么说？是时候去收拾奇美拉了…</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_start_17">
+		<text>狩猎之前会感到紧张吗？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_trapper_send_0">
+		<text>捕兽师让我来帮你猎杀奇美拉。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_trapper_send_1">
+		<text>我明白了，他的直觉还是很准的。我们终于找到了奇美拉。不幸的是，螃蟹还躺着，丹尼拉也没回来…所以就剩我们三个了。不过既然捕兽师选了你，那你一定是个好猎人。总之，你看，狩猎了一夜之后，奇美拉会在凌晨三点左右回到巢穴，关灯睡觉。我们就在那时候杀过去…等你准备好了，就在凌晨三点过来，大家出发。我们会在酒吧等你。</text>
+	</string>
+
+	<string id="zat_b14_stalker_at_bar_start_0">
+		<text>你拿我当傻子？</text>
+	</string>
+
+	<string id="zat_b14_stalker_at_bar_start_1">
+		<text>你本来就是傻子，我必须得教傻子做人。</text>
+	</string>
+
+	<string id="zat_b14_stalker_at_bar_start_11">
+		<text>没关系，世界很小，变异区更小，我们总会再见的。</text>
+	</string>
+
+	<string id="zat_b14_stalker_at_bar_start_111">
+		<text>滚…滚出去。斯卡多夫斯克号不允许打架斗殴。</text>
+	</string>
+
+	<string id="zat_b14_stalker_at_bar_start_1111">
+		<text>行，好吧。</text>
+	</string>
+
+	<string id="zat_b14_stalker_at_bar_start_12">
+		<text>我承认我是犯了错。但你违反了规矩。</text>
+	</string>
+
+	<string id="zat_b14_stalker_at_bar_start_121">
+		<text>变异区就是这样。好了，别啰嗦了。</text>
+	</string>
+
+	<string id="zat_b14_stalker_at_bar_start_13">
+		<text>如果眼睁睁让那个超自然体从手里溜走，他就是个十足的蠢材。</text>
+	</string>
+
+	<string id="zat_b14_stalker_at_bar_start_131">
+		<text>行了，别哭了。吃到教训了吧。我请你喝杯啤酒，振作起来。</text>
+	</string>
+
+	<string id="zat_b14_stalker_at_bar_start_1311">
+		<text>不喝白不喝。</text>
+	</string>
+
+	<string id="zat_b14_stalker_at_bar_start_1312">
+		<text>不了，谢谢。我自己喝得起酒。</text>
+	</string>
+
+	<string id="zat_b14_stalker_robbery_0">
+		<text>你是白痴还是怎么回事？闭嘴别动！把超自然体交出来，混账！</text>
+	</string>
+
+	<string id="zat_b14_stalker_robbery_1">
+		<text>混蛋。超自然体你拿去吧…怎么不噎死你。</text>
+	</string>
+
+	<string id="zat_b14_stalker_robbery_2">
+		<text>去你妈的。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_0">
+		<text>兄弟！听着，有这么个能治病的超自然体，我急需弄到手。有个朋友得了怪病快要死了，吃药也不管用…我试着找过那个超自然体，但被一个毒气特异点给搞惨了。你该不会碰巧见过它吧？</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_1">
+		<text>既然是这么大的事，我就给你吧。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_11">
+		<text>谢了，兄弟！我不会忘记的。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_111">
+		<text>保重。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_2">
+		<text>我有一个，但自己还要用。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_21">
+		<text>哥们，算我求你了…他真的快要死了！</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_211">
+		<text>在变异区里一切只能靠自己。保重吧。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_3">
+		<text>不，我没见过。保重吧。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_last_chance_0">
+		<text>那个超自然体不会给你带来好下场的。记住我的话。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_last_chance_1">
+		<text>既然你这么需要，那就拿着吧。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_last_chance_11">
+		<text>谢了，兄弟！我不会忘记的。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_last_chance_111">
+		<text>保重。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_last_chance_2">
+		<text>我们走着瞧。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_last_chance_end_0">
+		<text>我和你没什么可谈的。</text>
+	</string>
+
+	<string id="zat_b18_noah_arc_0">
+		<text>你为什么住在这个垃圾桶上？</text>
+	</string>
+
+	<string id="zat_b18_noah_arc_1">
+		<text>这是一艘方舟！记住这一点…如果你想活下去，就必须记住！怪物潮来的时候跟紧点，只有在这里你才有一线生机。没有什么变异体能闯进这里。</text>
+	</string>
+
+	<string id="zat_b18_noah_catastrophe_0">
+		<text>你说的怪物潮是…</text>
+	</string>
+
+	<string id="zat_b18_noah_catastrophe_1">
+		<text>那是无数变异体聚成的巨浪，它会席卷而来，把人们从变异区里驱逐出去！而那些幸存下来的可怜虫也会被巨大的喷发清扫一空！！！它会毁灭变异区里的一切生物！除了那些有准备的人。</text>
+	</string>
+
+	<string id="zat_b18_noah_dog_0">
+		<text>你是从哪儿搞到这条狗的？</text>
+	</string>
+
+	<string id="zat_b18_noah_dog_1">
+		<text>她叫莱西，一条可爱的小母狗…要不是她，我早就在睡梦中被吃掉了。该死的变异体…我恨它们，你一闭上眼睛，它们就开始用那些恶心的爪子、獠牙和触手接近你…</text>
+	</string>
+
+	<string id="zat_b18_noah_first_artefact_0">
+		<text>我需要一个超自然体“罗盘”。你知道哪儿能找到吗？</text>
+	</string>
+
+	<string id="zat_b18_noah_first_artefact_1">
+		<text>变异体破门而出的时候，那个破玩意儿也救不了你！拿走吧，快滚。</text>
+	</string>
+
+	<string id="zat_b18_noah_first_artefact_11">
+		<text>谢谢你。</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_0">
+		<text>你知道有关坠毁的直升机的事吗？</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_1">
+		<text>其中一架我知道一点…它在高地上，周围到处都是呼吸管。我每隔几天就会去杀它们…你那是什么眼神？它们的巢穴又不是一次就能解决的。</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_11">
+		<text>我要怎么去到高地？</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_111">
+		<text>你也想去杀呼吸管，哈？也许我可以带你去那儿。</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_1111">
+		<text>我们走吧。</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_1112">
+		<text>下次吧。</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_1121">
+		<text>一个潜行者。</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_11211">
+		<text>我知道了。你想做什么？</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_1122">
+		<text>不关你的事。</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_113">
+		<text>我会带你过去的。现在先呆在这儿。外面有喷发…听见了吗？喷发！！！</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_12">
+		<text>我去过巢穴。</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_121">
+		<text>是吗？没办法让它们平静下来…变异体只会越来越多，总有一天它们会发动攻击，怪物潮会把变异区里所有没有做好准备的人消灭干净！…</text>
+	</string>
+
+	<string id="zat_b18_noah_second_artefact_0">
+		<text>那个，呃，你身上会不会正好有个罗盘？</text>
+	</string>
+
+	<string id="zat_b18_noah_second_artefact_1">
+		<text>你以为那玩意儿就能让你挺过喷发？拿走吧，快滚！</text>
+	</string>
+
+	<string id="zat_b18_noah_second_artefact_11">
+		<text>谢谢你。</text>
+	</string>
+
+	<string id="zat_b18_noah_start_11">
+		<text>你是谁？</text>
+	</string>
+
+	<string id="zat_b18_noah_start_111">
+		<text>一个潜行者。我们以前见过面。</text>
+	</string>
+
+	<string id="zat_b18_noah_start_1111">
+		<text>我想不起来了…总之，你需要什么？</text>
+	</string>
+
+	<string id="zat_b18_noah_start_112">
+		<text>一个潜行者而已。</text>
+	</string>
+
+	<string id="zat_b18_noah_start_1121">
+		<text>我知道了。你是来方舟寻求庇护的吗？欢迎。</text>
+	</string>
+
+	<string id="zat_b18_noah_start_113">
+		<text>不关你的事。</text>
+	</string>
+
+	<string id="zat_b18_noah_start_21">
+		<text>啊，是你啊。你想要什么？</text>
+	</string>
+
+	<string id="zat_b18_noah_third_artefact_0">
+		<text>你有没有多余的罗盘能分给我？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_0">
+		<text>跟我讲讲特异点。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_1">
+		<text>当你接近特异点时，要记住，那里要么非常热，要么空气中充满有毒气体，要么就是辐射热点。也可能会有心灵干扰，但我先不谈这个。这取决于特异点的性质——是高温、毒气还是电子…又或者是引力，但我宁愿你永远不用面对这些东西。还有会移动的特异点，但那又是另一回事了。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_1111">
+		<text>跟我讲讲高温特异点。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_11111">
+		<text>如果你看到一团微光，像是炎炎夏日空气在路面上蒸腾的样子，那就是高温特异点。如果有东西落进那里，就会迸发出极热的火焰。起初人们以为那是天然气喷射，但这种说法后来就显得不怎么靠谱了。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_1112">
+		<text>跟我讲讲毒气特异点。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_11121">
+		<text>这种异常点会无休无止地发生奇怪的化学反应，并因此而得名。它们产生的酸性物质会在几秒钟内侵蚀你的皮肤，而有毒气体也会以同样快的速度侵蚀你的肺部…值得庆幸的是，毒气特异点在户外很容易被发现。但如果你在黑暗的隧道里撞上了一个，那就糟糕了。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_1113">
+		<text>跟我讲讲电子特异点。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_11131">
+		<text>这是一种非常有趣的特异点，会积累大量静电。它会对任何金属物品放电，潜行者可以利用这一特性，向它扔出一个螺栓，引它放电，在它再次充电之前冲过去。而我更喜欢绕过去，它充电的时间很短。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_1114">
+		<text>跟我讲讲引力特异点。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_11141">
+		<text>它们通常是静止的。如果你观察到某个特定地点后面的物体看起来是扭曲的，那里就是了。你最好与它们保持距离。现在已知的三种都会在接触到物体的瞬间做出反应。跳板会把它下面的所有东西抛出去，通常会扔得很远。涡流则恰恰相反，它会吸住物体，用可怕的压力将其压碎，几秒钟后再将碎片甩飞。陀螺则把受害者举到空中，旋转并撕成碎片…无论你遇到哪一种，结局都不会很好。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_1115">
+		<text>跟我讲讲移动的特异点。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_11151">
+		<text>我个人只遇到过彗星和特斯拉。前者是一个直径约一米的火球，但我保证，你大老远就能感受到它的热度…而后者嘛，除了“闪电球”就没有更好的形容了。它不管怎么看都是个球体，而且带电。这两种特异点一直在移动，但移动路径通常是一条闭环。细心的潜行者应该可以轻松绕过它们…但是必须集中精神。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_1116">
+		<text>好吧，算了吧。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_himself_0">
+		<text>跟我讲讲你自己。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_himself_1">
+		<text>我叫驾驶员，这名字可不是白起的。我只会走安全路线，毕竟我没有搜集超自然体或者跟强盗战斗的能力，所以…每个人都应该发挥自己的才能，让别人从中受益。当然，发挥才能是要收钱的。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_surge_0">
+		<text>跟我讲讲喷发。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_maps_0">
+		<text>我有几张死水湾和木星之间地区的地图。想看看吗？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_maps_1">
+		<text>让我看看…不错，细节很详尽。干我们这一行就是细节决定生死。好的，这些地图显示，在斯卡多夫斯克号和亚诺夫之间有一条安全的直通路线。如果你不介意的话，我要把数据拷贝到我的 PDA 上。现在我可以给你打个折。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_start_11">
+		<text>也许你需要一个向导？带你绕过所有的特异点，保证你的安全？本驾驶员为你服务。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_start_21">
+		<text>你需要向导帮忙吗？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_start_31">
+		<text>幸会。有什么是本驾驶员可以帮你的吗？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_start_41">
+		<text>又要上路了？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_start_51">
+		<text>日安。你还真是个待不住的人啊。我随时为你服务。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_start_61">
+		<text>你好。如果你需要向导，找我就行了。喷发一结束就可以出发。在此之前我们可以聊聊特异点的事打发时间…</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_start_71">
+		<text>恐怕我现在还没法当向导…喷发还在肆虐。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_jupiter_0">
+		<text>去亚诺夫车站要多少钱？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_jupiter_1">
+		<text>很不幸，那儿很远，所以要收 3000。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_jupiter_11">
+		<text>可以，咱们走吧。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_jupiter_12">
+		<text>我身上没那么多钱。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_jupiter_13">
+		<text>我暂时先不走。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_jupiter_2">
+		<text>有了你的地图，只收 1000 就行。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_jupiter_21">
+		<text>可以，咱们走吧。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_jupiter_22">
+		<text>我身上没那么多钱。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_jupiter_23">
+		<text>我暂时先不走。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_jupiter_3">
+		<text>那儿很远，所以要收 3000。喷发一平息就可以动身。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_jupiter_4">
+		<text>有了你的地图，只收 1000 就行。不过我们得先等喷发平息下来。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_0">
+		<text>你能带我去普里皮亚季吗？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_3">
+		<text>不行。每个人都有自己负责的路线。看到那边的加里克了吗？他可以帮你。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_4">
+		<text>我不能亲自带你去。但只要给我 6000，我就能带你去亚诺夫车站，跟加里克安排好一切，他会带你去普里皮亚季。你觉得怎么样？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_41">
+		<text>好了，走吧。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_42">
+		<text>我身上没那么多钱。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_43">
+		<text>我暂时先不走。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_5">
+		<text>我不能亲自带你去。但只要给我 4000，我就能带你去亚诺夫车站，跟加里克安排好一切，他会带你去普里皮亚季。你觉得怎么样？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_51">
+		<text>好了，走吧。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_52">
+		<text>我身上没那么多钱。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_53">
+		<text>我暂时先不走。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_6">
+		<text>不行。每个人都有自己负责的路线。看到那边的加里克了吗？等喷发结束之后可以找他帮你。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_7">
+		<text>我不能亲自带你去。但只要给我 6000，我就能带你去亚诺夫车站，跟加里克安排好一切，他会带你去普里皮亚季。当然，要先等喷发平息下来。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_8">
+		<text>我不能亲自带你去。但只要给我 4000，我就可以带你去亚诺夫车站，跟加里克安排好一切，他会带你去普里皮亚季。当然，要先等喷发平息下来。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_no_way_0">
+		<text>你能带我去普里皮亚季吗？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_no_way_1">
+		<text>普里皮亚季？免了。我现在走的这条路线的客源足够，没必要去开辟新路线。但我有个好兄弟以前在木星工厂干过。他跟我说工厂地下有几条能通往普里皮亚季的隧道。具体的情况他也不清楚，但他说他会从工厂的行政区域开始找起。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_no_way_2">
+		<text>不能。如果你想去那儿，去找找木星工厂地下的隧道吧。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_zaton_0">
+		<text>去斯卡多夫斯克号要多少钱？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_zaton_1">
+		<text>因为得绕路，所以收你 3000 吧。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_zaton_11">
+		<text>可以，咱们走吧。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_zaton_12">
+		<text>我现在钱不够。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_zaton_13">
+		<text>我暂时先不走。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_zaton_2">
+		<text>走新路线的话，只收 1000。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_zaton_21">
+		<text>可以，咱们走吧。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_zaton_22">
+		<text>我现在钱不够。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_zaton_23">
+		<text>我暂时先不走。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_zaton_3">
+		<text>去那儿的话咱们得绕路，所以就收你 3000 吧。一旦喷发减弱，我就可以立刻出发。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_zaton_4">
+		<text>走新路线的话只要 1000。只不过我们得等到喷发平息以后在动身。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_where_to_0">
+		<text>你能带我去哪些地方？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_where_to_1">
+		<text>可以去木星工厂附近的亚诺夫车站，然后再从那里返回斯卡多夫斯克号。我宁可把一条路线摸透，也不会骗人说知道很多条路。</text>
+	</string>
+
+	<string id="zat_b22_barmen_about_after_quest_b5_dealer_actor4_0">
+		<text>我破坏了强盗们的武器交易。</text>
+	</string>
+
+	<string id="zat_b22_barmen_about_after_quest_b5_dealer_actor4_1">
+		<text>谢谢你的帮忙。回想一下上世纪 90 年代那些拿着火箭筒四处横行的暴徒，真是让我不寒而栗…给你，拿着这个。现金总是个好东西。</text>
+	</string>
+
+	<string id="zat_b22_barmen_about_vampire_actor1_0">
+		<text>我在找松鸡。我们本来该在这里见面的。</text>
+	</string>
+
+	<string id="zat_b22_barmen_about_vampire_actor1_1">
+		<text>松鸡留了条口信给你。他说他要去码头吊车那里。还说关于失踪的潜行者，他有了新的发现。</text>
+	</string>
+
+	<string id="zat_b22_barmen_about_vampire_actor2_0">
+		<text>松鸡死了。地震杀了他，就像对待其他潜行者那样…地震也已经死了。</text>
+	</string>
+
+	<string id="zat_b22_barmen_about_vampire_actor2_1">
+		<text>地震？真该死。这个卑鄙小人原来一直就在咱们的眼皮子底下。我们之中的任何一个人都可能遭到他的毒手…他偏偏对松鸡下了手…谢谢你，朋友。你挽救了整个营地。这个给你。</text>
+	</string>
+
+	<string id="zat_b22_barmen_about_vampire_actor3_1">
+		<text>地震？！…我很抱歉，伙计，我不相信，除非有任何证据能够证明是他…可怜的松鸡。</text>
+	</string>
+
+	<string id="zat_b22_barmen_about_vampire_actor4_0">
+		<text>这是地震的 PDA，里头有证据能证明他和这事儿有牵连。</text>
+	</string>
+
+	<string id="zat_b22_barmen_about_vampire_actor4_1">
+		<text>该死。这个卑鄙小人原来一直就在咱们眼皮子底下。我们之中的任何一个人都可能遭到他的毒手…他偏偏对松鸡下了手…谢谢你，朋友。你挽救了整个营地。这个给你。</text>
+	</string>
+
+	<string id="zat_b22_barmen_b5_daring_quest_stalkers_0">
+		<text>我会帮你解决那帮强盗。</text>
+	</string>
+
+	<string id="zat_b22_barmen_b5_daring_quest_stalkers_1">
+		<text>太好了。快到护林站去吧，我们的人都在那儿。他们会告诉你具体的情况的。</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_b52_about_nimble_0">
+		<text>你了解机灵鬼吗？他会不会倒卖被偷的军火？</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_b52_about_nimble_1">
+		<text>我不太了解他，但我怀疑他有这个兴趣。而且一般买卖赃物的不会接受提前预订…</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_11">
+		<text>我知道我终究还是会暴露的，不过是时间问题…</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_111">
+		<text>地震？！…你能解释一下到底发生了什么事吗？</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_1111">
+		<text>我没什么好再隐瞒的了，已经没用了。现在你知道是我杀了松鸡…还有丹尼拉和其他失踪的潜行者。</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_11112">
+		<text>好了，我明白了。别废话了。</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_111121">
+		<text>你根本不明白，也没人会明白我的想法…</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_112">
+		<text>你为什么要那么做？</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_1121">
+		<text>血红蛋白成瘾…我不希望任何人沾上它…因为根本没法摆脱。有时候你会觉得自己可以整整一个月不用喝一滴血，这种状况也确实在我身上出现过，但随后…内心的欲望会彻底爆发，你会像疯了一样要把之前缺失的那些血液全都补上…</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_113">
+		<text>你是怎么做到不让人发现的？</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_1131">
+		<text>我在外科医师诊所工作的时候，要想瞒过别人很轻松。那儿有的是捐献来的血液可以喝。但是变异区却不一样…我以为这里的条件如此苛刻，应该可以让我的病情有所缓解。但我错了，我经历了有生以来最糟糕的一次发病，脑子里一片空白。我决定把这些屠杀伪装成遭到了吸血怪的袭击。我通常会挑选那些已经受伤的目标下手。</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_114">
+		<text>你是怎么杀害丹尼拉和松鸡的？</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_1141">
+		<text>被吸血怪袭击后，丹尼拉受了伤，来找我帮忙。当他和松鸡决定一起去狩猎吸血怪的时候，我就知道我隐瞒不了多久了。我仍然想要尽量守住自己的秘密，但我的决心却在动摇…然后松鸡找上了我。他弄清了事情的始末，并且想要杀掉我。这也导致了事情走到今天这个局面。我对所有被我杀害的人感到抱歉，但我的歉意也换不回他们的性命。</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_11411">
+		<text>好了，我明白了。别废话了。</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_114111">
+		<text>你根本不明白，也没人会明白我的想法…</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_21">
+		<text>我在听。</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_22">
+		<text>你好，需要帮助吗？</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_23">
+		<text>你好。</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_need_health_care_0">
+		<text>我需要医疗援助。</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_need_health_care_1">
+		<text>让我瞧瞧…</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_need_health_care_111">
+		<text>好了，这样就可以了。你可以走了。</text>
+	</string>
+
+	<string id="zat_b29_rivals_start_dialog_11">
+		<text>你好啊！你也在找超自然体吗？</text>
+	</string>
+
+	<string id="zat_b29_rivals_start_dialog_12">
+		<text>嘿！都是来找超自然体的是吧？别担心，人人都有份。</text>
+	</string>
+
+	<string id="zat_b29_rivals_start_dialog_13">
+		<text>噢，嘿！你也是来搜刮超自然体的吗？</text>
+	</string>
+
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_0">
+		<text>你好啊。你是要带着那个超自然体去找大胡子吗？</text>
+	</string>
+
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_1">
+		<text>可能是也可能不是。关你什么事？</text>
+	</string>
+
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_11">
+		<text>我需要这个。</text>
+	</string>
+
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_111">
+		<text>我也需要…但我可以拿一把非常好的新枪跟你换。</text>
+	</string>
+
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_1111">
+		<text>我这儿有件不错的武器，咱们来做个交易吧…</text>
+	</string>
+
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_11111">
+		<text>行。</text>
+	</string>
+
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_1112">
+		<text>不了，这行不通的。</text>
+	</string>
+
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_11121">
+		<text>那就快滚吧。</text>
+	</string>
+
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_111211">
+		<text>好的。</text>
+	</string>
+
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_12">
+		<text>其实没有。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_about_nimble_0">
+		<text>你对机灵鬼了解多少？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_about_nimble_1">
+		<text>不怎么了解…我们并没有合伙做生意。他在变异区里四处搜刮那些厉害的枪械的时候，我已经卖出了上百把普通的枪了。而且他这人还很固执，不愿意和当地的土匪打交道。所以他其实挺不会做生意的，但对我来这说这倒是件好事。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_b30_actor_after_barmen_0">
+		<text>大胡子跟我说你另有安排。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_b30_actor_after_barmen_1">
+		<text>“另有”个狗屁的安排！那个长胡子的蠢猪真是越来越自大了！看来得提醒他一下这里到底是谁说了算…听我说，在死水湾有个很有势力的家伙叫苏丹。你去找他一趟，他会告诉你要做些什么。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_b30_actor_after_barmen_11">
+		<text>我会去找苏丹聊聊的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_b30_actor_after_barmen_12">
+		<text>管你什么苏丹。现在就把我的那份交出来！</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_b30_actor_after_barmen_121">
+		<text>呃…好吧。钱在这儿…但是记住了，大胡子根本就是在骗你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_0">
+		<text>我需要信息。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1">
+		<text>你想知道什么？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_11">
+		<text>我需要一些毒气，听说你有这方面的门路。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_111">
+		<text>没错，2000 就能让我开口。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1111">
+		<text>给你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_11111">
+		<text>听好了，曾经有一支军用车队在这里运输毒气，但却没有成功。没人知道是怎么回事，但毒气罐应该还在那里。都听清楚了？那里可能还有些文件。如果你找到了，拿来给我，你花出去的钱还能有所回报。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1112">
+		<text>价格太贵了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_11121">
+		<text>随便你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_12">
+		<text>你知道有个叫做喜鹊的潜行者他人在哪儿吗？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_121">
+		<text>只要 1000…我就可以给你点儿提示。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1211">
+		<text>给你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_12111">
+		<text>在这儿是不可能找到他的，但我的线人告诉我，他应该在木星一带的亚诺夫车站附近出没。千万记住，一个人如果在某个地方惹了麻烦，到了另一个地方肯定会改名换姓…他应该早就想到有人想从潜行者里把他找出来，很可能已经换了一套伪装。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_13">
+		<text>我在找漂流木。你知道在哪儿能找到他吗？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_131">
+		<text>给我 1000，我就告诉你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1311">
+		<text>给你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_13111">
+		<text>漂流木就是个贪心的蠢货，招惹了一票危险人物，自断了后路，所以你应该可以在木星附近找到他，毕竟他也没地方可以去了，你不是唯一在找他的人。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_15">
+		<text>直升机坠毁的事你知道吗？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_151">
+		<text>嗯…这儿的所有人都知道飞机坠毁的地点。第一架坠落在南部高地上，第二架降落在沼泽地里，第三架落在变电站铁塔的顶端。你想找哪一个？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1511">
+		<text>南部高地那一架。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1512">
+		<text>变电站的那一架。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1513">
+		<text>沼泽地里的那一架。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1516">
+		<text>直升机的事就这样了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_152">
+		<text>快给钱吧，你还欠我 200。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1521">
+		<text>给你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_15211">
+		<text>这架直升机就降落在呼吸管老窝旁边。据我所知，军队的人还是活下来了一部分。并且清剿了那里的变异体，爬了下来。顺便一提，如果你要去那儿，我可以给你一支不错的霰弹枪和一些弹药，方便你对付那些野兽。唯一的问题在于，只有诺亚那个神经病知道要怎么爬上高地。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1522">
+		<text>价格太贵了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_15221">
+		<text>随便你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_153">
+		<text>给我 200 就告诉你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1531">
+		<text>给你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_154">
+		<text>给我 200 就告诉你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1541">
+		<text>给你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_99">
+		<text>暂时没什么事。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_0">
+		<text>有任务给我吗？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_111">
+		<text>第一，科学家们需要有人帮点小忙；第二，我们需要从佣兵营地获取情报；第三，商人仍然迫切需要安保人员。有很多事情要忙，你可以任意选择。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_1111">
+		<text>跟我讲讲科学家们的任务吧。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_11111">
+		<text>你需要找到三台维列斯探测器，然后送到木星附近的科学家碉堡去。到了那儿就去找诺维科夫，他说过他要去找他们喝酒…等你把那些探测器都换成钱了，咱俩平分。都明白了吗？那就出发吧。这种小事难不倒你的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_111111">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_111112">
+		<text>下次再说吧。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_1112">
+		<text>跟我说说佣兵营地的事吧。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_11121">
+		<text>有一帮来路不明的佣兵出现在了处理站附近，我很想知道他们到底有什么意图…你得悄悄溜进他们的营地里，尽可能收集和他们的计划有关的情报，PDA、纸质文件什么的，找到什么全部带回来给我。明白了吗？去吧。只要你保持低调，这事儿简直手到擒来。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_111211">
+		<text>我同意。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_111212">
+		<text>暂时没空。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_1113">
+		<text>跟我说说保护商人的事吧。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_11131">
+		<text>商人在进行交易的时候需要保镖提供保护。你几乎什么都不用做，只要站在那里，震住场面…没问题吧？商人会在护林站等你，详细情况他会告诉你的…</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_111311">
+		<text>好的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_111312">
+		<text>等等。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_1114">
+		<text>下次吧。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_112">
+		<text>首先，科学家们需要有人帮个小忙，其次，我需要有人帮忙从佣兵营地收集情报。你自己选吧…</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_113">
+		<text>首先，科学家们需要有人帮个小忙，其次，商人需要一名保镖。好了，你想选哪个。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_114">
+		<text>第一，我需要有人帮忙从佣兵营地收集情报。第二，商人仍然迫切需要一名保镖。你可以随便选一个。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_115">
+		<text>科学家们的小忙真的挺简单，无非就是我要这个，我还要那个…</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_117">
+		<text>商人仍然需要一名保镖在交易时提供保护。很简单的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_118">
+		<text>没有任务了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_0">
+		<text>我觉得你会有兴趣的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_1">
+		<text>你这儿有什么？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_11">
+		<text>诺亚的 PDA。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_111">
+		<text>那个驳船上的疯子？…要不我给你 1000 吧。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_1111">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_1112">
+		<text>不用了，谢谢。我还是先留着吧。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_11121">
+		<text>小心别让它在你的衣服上烧个洞…</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_12">
+		<text>这是一个外号叫钩子的雇佣兵的 PDA。我在废物处理站那儿找到的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_121">
+		<text>我出 1000 买了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_1211">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_12112">
+		<text>非常有趣…干得不错，潜行者。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_13">
+		<text>这是一个外号叫山头的佣兵的 PDA。我在废物处理站那儿找到的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_131">
+		<text>我出 1000 买了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_1311">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_14">
+		<text>装着秘碑藏货点线索的 PDA。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_141">
+		<text>我出 5000 买了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_1411">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_15">
+		<text>和雇佣兵的雇主有关的一个男子的 PDA。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_151">
+		<text>我出 4000 买了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_1511">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_16">
+		<text>责任组织创始人之一特卡琴科将军的 PDA。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_161">
+		<text>这个我可以开出个好价钱，2500。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_1611">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_17">
+		<text>一名雇佣兵的 PDA。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_171">
+		<text>我出 1000 买了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_1711">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_18">
+		<text>摩根的 PDA。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_182">
+		<text>和责任组织那个到处兜售武器的商人有关的情报。肯定能派上用场。我出价 4000。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_1821">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_19">
+		<text>在步枪手小队的储藏点发现的便条，写给幽灵的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_191">
+		<text>我出 500 买了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_1911">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_20">
+		<text>在步枪手小队的储藏点发现的便条，写给步枪手的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_201">
+		<text>我出 500 买了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_2011">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_21">
+		<text>在步枪手小队的储藏点发现的便条，写给獠牙的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_211">
+		<text>我出 500 买了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_2111">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_22">
+		<text>在木星工厂发现的文件，文件夹里装着全体疏散的命令。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_221">
+		<text>我出 750 买了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_2211">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_23">
+		<text>在木星工厂发现的文件，一份笔记。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_231">
+		<text>我出 750 买了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_2311">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_24">
+		<text>在木星工厂发现的文件，一份交付时间表。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_241">
+		<text>我出 750 买了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_2411">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_25">
+		<text>在木星工厂发现的文件，一封附有法令的信，要求只能通过地下通道运输 62 号物品。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_251">
+		<text>我出 750 买了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_2511">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_261">
+		<text>不了。有苏丹在，我还是不蹚这趟浑水了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_271">
+		<text>让我仔细瞧瞧…这确实是件好东西。你卖吗？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_2711">
+		<text>当然，我又用不着。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_30">
+		<text>从废物处理站的雇佣兵营地找到的笔记本。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_301">
+		<text>我出 2000 买了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_3011">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_311">
+		<text>呵…把这个带去给大胡子或者科学家们看看吧，我对可疑的商品没什么兴趣…大晚上的我可不想得急性辐射病。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_321">
+		<text>那就该让这玩意儿留在那儿。我不喜欢冒没必要的风险。这东西说不定半夜会在自身周围形成一个特异场，谁知道会出什么事…不如你把这个带给那些科学家们研究看看吧。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_331">
+		<text>我的橱柜里还放着一枚核弹头呢！不过你应该可以让那些科学家们开心一下，毕竟他们就喜欢这种东西。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_34">
+		<text>漂流木的 PDA。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_341">
+		<text>给我看看。嗯…没什么特别的。那个储藏点应该已经被你搜刮干净了吧，我出价 200。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_3411">
+		<text>我同意。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_35">
+		<text>苏丹某个手下的 PDA。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_351">
+		<text>有意思…可能用得着。我出价 1000。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_3511">
+		<text>我同意。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_36">
+		<text>无人驾驶飞行器的内存模块。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_361">
+		<text>很有意思的发现…不过也值不了几个钱。谁知道这上面的情报是不是已经被别人看过了？我出价 500。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_3611">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_99">
+		<text>暂时没什么事。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_stages_0">
+		<text>关于那些探测器…</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_stages_1">
+		<text>怎么了？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_stages_11">
+		<text>我应该去哪儿找？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_stages_111">
+		<text>我不知道，你只管去找就是了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_stages_12">
+		<text>我找到探测器了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_stages_121">
+		<text>那你怎么还在这儿？赶紧到木星附近的科学家碉堡去，把它们交给诺维科夫。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_stages_13">
+		<text>探测器已经交给诺维科夫了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_stages_131">
+		<text>非常好。现在咱们就等他把那些玩意儿修好吧。诺维科夫保证过一旦修好了，他就派值得信赖的人把探测器送过来。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_start_dialog_12">
+		<text>咱们有麻烦了。这个小生意这下可能悬了。诺维科夫在这些探测器上下了一番功夫，增加了有效范围、提高了敏感度以及其它一些调整…这些探测器能帮你胜过别的超自然体猎人一大截。我答应了大胡子会让他手下的那些潜行者使用这些探测器…</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_start_dialog_121">
+		<text>然后呢？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_start_dialog_1211">
+		<text>我们本来说好了是要平分这些战利品的，但是那些潜行者不愿意把我们那一半送过来。你得去找一趟大胡子，说服他务必信守诺言…你也想拿到你的那份吧，对不对？</text>
+	</string>
+
+	<string id="zat_b30_stalker_rival_1_about_detector_0">
+		<text>我需要你的新型探测器。</text>
+	</string>
+
+	<string id="zat_b30_stalker_rival_1_about_detector_1">
+		<text>哈。我需要一把火力十足的大枪。如果你有什么质量上乘又贵重的武器，可以跟我交易。</text>
+	</string>
+
+	<string id="zat_b30_stalker_rival_1_about_detector_11">
+		<text>那就说好了。</text>
+	</string>
+
+	<string id="zat_b30_stalker_rival_1_about_detector_12">
+		<text>不了，谢谢。</text>
+	</string>
+
+	<string id="zat_b30_stalker_rival_2_about_detector_0">
+		<text>我需要你的新型探测器。</text>
+	</string>
+
+	<string id="zat_b30_stalker_rival_2_about_detector_1">
+		<text>你是在威胁我吗？很显然我拿它也有用。</text>
+	</string>
+
+	<string id="zat_b30_stalker_rival_2_about_detector_11">
+		<text>你根本没搞明白是不是？你手上的就是最后一个了。其它的探测器早就已经卖光了…</text>
+	</string>
+
+	<string id="zat_b30_stalker_rival_2_about_detector_111">
+		<text>你干了什么？…你把他们都杀了？赶紧拿上东西滚吧。</text>
+	</string>
+
+	<string id="zat_b30_stalker_rival_2_about_detector_112">
+		<text>嘿，要不你滚远点？</text>
+	</string>
+
+	<string id="zat_b30_stalker_rival_2_about_detector_12">
+		<text>那件事可以改天再说。现在，我是在非常客气地请你交出探测器。</text>
+	</string>
+
+	<string id="zat_b30_stalker_rival_2_about_detector_123">
+		<text>我也是在很客气地请你滚蛋。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_11">
+		<text>潜行者，想挣点钱吗？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_111">
+		<text>什么活儿？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_1111">
+		<text>你看，我在一辆旧扎波罗热汽车里头藏了些战利品，但是后来发生了一场地震，车子掉进了地底下。我查看了一下，去车子那儿不难…只不过，呃，那地下有很多变异体，就是呼吸管。不管你信不信，我连夺心鬼都不怕，但是那些天杀的呼吸管真的是太吓人了，而且让我反胃。如果你能够拿回那个带锁的箱子，咱们可以公平地瓜分里头的战利品。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_11111">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_111111">
+		<text>谢谢你，潜行者。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_11112">
+		<text>这是你的箱子吗？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_111121">
+		<text>没错，就是！哇，你真是太厉害了！</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_11113">
+		<text>下次吧。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_111131">
+		<text>真遗憾。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_112">
+		<text>不了，我现在很忙。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_1121">
+		<text>没事，请自便。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_21">
+		<text>如何？有什么消息？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_31">
+		<text>你有什么事？看不到我在忙吗？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_0">
+		<text>嘿，那是我的枪！你从哪里偷的，小贼？我刚好就是前几天失窃的。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_1">
+		<text>你在胡说什么？这是我最近才买的。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_11">
+		<text>我不知道你是从哪里得到它的，又是怎样得到它的，但这是他们从我这儿偷走的。所以拜托了，你也不想看着我伤心吧，行行好把枪还给我，这样大家都开心。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_111">
+		<text>好吧，还给你。我也不想惹麻烦。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_1111">
+		<text>交出来。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_112">
+		<text>这把枪是我的。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_1121">
+		<text>看来你是吃软不吃硬啊？！…我警告你，我有的是关系！这儿没人不认识我！你以为要是名声臭了，还能在变异区混得下去吗，潜行者？这下看你怎么办？别指望这里有人会帮你，因为你绝对会倒大霉的！</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_11211">
+		<text>去你妈的！</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_2">
+		<text>你确定这是你的武器吗？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_21">
+		<text>确定以及肯定。这东西在变异区还算少见，不是吗？我很确定这就是我的。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_3">
+		<text>你看错了。现在赶紧退后，这样大家都没事。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_31">
+		<text>什么？我认错了？！讲话之前动动你的脑子思考一下吧，混蛋！如果你想把事情闹大，所有人都会站在我这边。把那把枪还给我，然后咱们就能各走各的。我甚至还可以大发善心不告诉别人你偷了我的枪。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_311">
+		<text>什么？！你有没有想过我现在就能端起这把枪在你的脑门儿上开个洞？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_3111">
+		<text>别啊，冷静点，老兄。刚才是我声音大了点儿，但是现在我想通了。别着急嘛，我这是无心之过。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_refuse_task_0">
+		<text>关于那个箱子…</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_refuse_task_1">
+		<text>你找到了吗？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_refuse_task_11">
+		<text>还在找。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_refuse_task_12">
+		<text>我决定还是不找了。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_refuse_task_121">
+		<text>真遗憾。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_refuse_task_2">
+		<text>好了，让我仔细瞧瞧…</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_refuse_task_21">
+		<text>当然，稍等…</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_refuse_task_22">
+		<text>我决定留下这个箱子。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_refuse_task_221">
+		<text>噢你这混…别妄想我会就此放过你！</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_0">
+		<text>给你箱子。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_1">
+		<text>很好，现在咱们来分了这些战利品吧。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11">
+		<text>干杯。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_111">
+		<text>看看这里面都有些什么…我那把破旧但是致命的领先。很久以前我叔叔亲手改装的它，几乎可以算是一件传家宝，真怀念啊…那么这个就我自己留着吧。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_1111">
+		<text>不行，给我！</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11111">
+		<text>呃，好吧，那行…</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_111111">
+		<text>看看接下来还有什么。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11112">
+		<text>不行，你拿的已经够多了。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_111121">
+		<text>看看接下来还有什么。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_1112">
+		<text>好啊，给你。还有些什么？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_112">
+		<text>好吧…继续看看。一个超棒的医疗包，足以治好一头熊或者甚至是夺心鬼造成的伤口。这个归我了…</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_1121">
+		<text>事实上，这个医疗包我能用得上。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11211">
+		<text>呃…好的。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_112111">
+		<text>看看接下来还有什么。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11212">
+		<text>不行，你拿的已经够多了。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_112121">
+		<text>看看接下来还有什么。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_1122">
+		<text>你可以留着。看看还有什么？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_113">
+		<text>好吧…哇。我敢说你肯定从来没有见过这把枪，一把强化过的 AKM-74/2U。我可是拿了好多医疗包才从一个责任的老兄手里换来这把小美人儿。恰好当时责任的小队遭到了自由的重创，他们又缺少药品。而且之后我靠着这件宝贝三次度过了危机…这我肯定得留着。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_1131">
+		<text>或许可以给我？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11311">
+		<text>呃…这可真是好伤人啊。不过咱们说好了的。拿去吧。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_113111">
+		<text>看看接下来还有什么。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11312">
+		<text>不行，你拿的已经够多了。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_113121">
+		<text>看看接下来还有什么。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_1132">
+		<text>好吧，你自己留着吧。还有什么？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_114">
+		<text>噢噢噢…一件美丽又贵重的物品。这个超自然体能换来一座金山！跟你说，我可是全凭一己之力从一个特异点里找到的它。我被吓得拉了一裤兜。它就是一座奖杯，象征着我的血泪。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_1141">
+		<text>我觉得我比你更需要它。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11411">
+		<text>你这是要了我的命啊，老兄…拿去吧，希望你能永远记得我的慷慨。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_114111">
+		<text>看看接下来还有什么。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11412">
+		<text>你拿的已经够多了。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_114121">
+		<text>看看接下来还有什么。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_1142">
+		<text>你留着吧。还有什么？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_115">
+		<text>最后但也是非常重量级的一件…一件手工制作的上乘头盔。不久前我们在警戒区找到了一个新的潜行者，他的手真的非常巧。他活着的时候制作了很多很酷的玩意儿，这个头盔就是其中一个，你在其它地方绝对找不到类似的头盔！…我要留着它。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_1151">
+		<text>看看我，我才是那个冒着生命危险对抗那群呼吸管的人…这个头盔应该归我。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11511">
+		<text>好吧…好吧，给你。好好用。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_115111">
+		<text>看看接下来还有什么。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11512">
+		<text>你拿的已经够多了。我也得留点东西给我自己吧！</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_115121">
+		<text>看看接下来还有什么。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_1152">
+		<text>好啊，你留着吧。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11611">
+		<text>我全部的战利品就这么多了，老兄。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_116111">
+		<text>好的，那再见了。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11621">
+		<text>就这么多了。但我也不能让你一无所获…拿去吧，我的手枪归你了。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_116211">
+		<text>祝你好运。</text>
+	</string>
+
+	<string id="zat_b38_cop_about_himself_dialog_0">
+		<text>你是干什么的？</text>
+	</string>
+
+	<string id="zat_b38_cop_about_himself_dialog_1">
+		<text>人民公仆。我以前是个警探，现在算是这里的警长吧。我和大胡子一起来的，他决定要在这里建立营地。既然没人知道普里皮亚季深处的状况，又何苦要去冒这个险呢对不对？这里也有很多超自然体。所以我们就在这里安居乐业了。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_about_sci_guards_0">
+		<text>我能雇佣什么人来保护科学家吗？</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_about_sci_guards_1">
+		<text>我们这儿是有几个好手，斯巴达克斯的小队就是其中一个，都是些真正的专业人士，很多人还有执法背景。如果他们有空的话，你绝对不可能再找到比他们更好的保镖小队了。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_about_sci_guards_2">
+		<text>要是以前的话我还能推荐几个人，但现在不行了，根本没有本地的潜行者愿意接这个活。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_about_sci_helpers_0">
+		<text>我可以雇谁来帮科学家们执行测量任务？</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_about_sci_helpers_1">
+		<text>有一帮由绑腿带头的潜行者，你可以和他聊聊，他应该会答应…老是打变异体也该休息一下，我觉得他们应该愿意。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_about_sci_helpers_2">
+		<text>要是绑腿的小队还在这儿的话，我会推荐他…但是自从他…反正我是没有什么合适的人选可以推荐的了。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_b52_about_nimble_0">
+		<text>你从机灵鬼那里买武器了吗？他做不做赃物交易？</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_b52_about_nimble_1">
+		<text>你以为他有那个能耐背着我偷偷摸摸搞这些勾当吗？…不可能，绝对不可能。直觉告诉我机灵鬼是不可能瞎搞这些的。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_b52_about_snag_0">
+		<text>我在找漂流木。你知道在哪儿能找到他吗？</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_b52_about_snag_1">
+		<text>漂流木，我当然认识，他就是个彻头彻尾的蠢材。前几天有人在码头吊车看到过他，那儿肯定是他的新家，去那里找找看吧。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_start_dialog_11">
+		<text>你好潜行者。你想不想做些既能挣钱又能帮助我们营地的工作？</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_start_dialog_12">
+		<text>你好潜行者。你还没走啊？你再继续这样下去，我们迟早会被吸血怪给灭掉。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_start_dialog_14">
+		<text>稍后再聊。我有些事情需要先确认一下。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_task_dialog_0">
+		<text>你这里有什么差事给我？</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_task_dialog_1">
+		<text>事情是这样的，有几个潜行者失踪了，没人知道他们的消息，但前几天有人找到了其中一人的尸体，没有搏斗的痕迹，但是浑身的血液都被吸干了。搜查尸体的是地震，详细情况可以问他…总之肯定是吸血怪干的！我和猎人丹尼拉谈过了，他已经出发去搜查这帮畜生的巢穴了，从那之后我就再也没有他的消息了。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_task_dialog_11">
+		<text>需要我做什么？</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_task_dialog_111">
+		<text>我需要你找到怪物的巢穴，最好还能找到丹尼拉的下落。这份差事不简单，但是报酬方面肯定不会亏待你的。可以吗？</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_task_dialog_1111">
+		<text>我同意。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_task_dialog_11111">
+		<text>太好了。我已经指定了两个需要检查的地点，其中一个的坐标已经上传到你的 PDA 了。我先去办点事，然后就去搜查另一个地点。有什么发现我再通知你。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_task_dialog_111111">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_task_dialog_1112">
+		<text>还是算了。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_task_dialog_11121">
+		<text>如果你改变心意了再来找我吧。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_task_dialog_12">
+		<text>我没有兴趣。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_task_dialog_2">
+		<text>还是那样…只要这附近还有吸血怪的巢穴，我们就一直处于危险之中。而且猎人丹尼拉还是下落不明。你能帮帮我们吗？</text>
+	</string>
+
+	<string id="zat_b38_stalker_medic_bloodsucker_dialog_0">
+		<text>松鸡跟我说你搜查过其中一个失踪潜行者的尸体了，你觉得是吸血怪杀了这个人吗？</text>
+	</string>
+
+	<string id="zat_b38_stalker_medic_bloodsucker_dialog_1">
+		<text>我认为就是这样…就跟其它尸体的状况一样…也没有别的生物能做到这样的事，吸光了这具尸体的所有血液，一滴不剩。所有的证据都指明了就是吸血怪干的…还能得出什么其它结论呢？</text>
+	</string>
+
+	<string id="zat_b38_stalker_medic_info_actor_dialog_0">
+		<text>跟我讲讲你自己。</text>
+	</string>
+
+	<string id="zat_b38_stalker_medic_info_actor_dialog_1">
+		<text>我是一名训练有素的脑外科医师，你还想知道些什么？我可以用激光精确地切除下丘脑，但目前为止在变异区里还没有必要做到这个地步。在这儿我只是众多普通医生中的一员，对自己的医术颇有些心得而已。</text>
+	</string>
+
+	<string id="zat_b38_stalker_medic_start_dialog_11">
+		<text>我在听。</text>
+	</string>
+
+	<string id="zat_b3_stalker_mechanic_b207_about_dealer_pda_0">
+		<text>你能破译一个黑匣子吗？</text>
+	</string>
+
+	<string id="zat_b3_stalker_mechanic_b207_about_dealer_pda_1">
+		<text>嗯…这就超出我的能力了。图表和算法什么的…我实在不是很精通。要是有医学相关的简单问题，我闭着眼睛都能解决掉…随便动动手就能弄好。</text>
+	</string>
+
+	<string id="zat_b3_stalker_mechanic_b52_about_nimble_0">
+		<text>你觉得机灵鬼会不会在倒腾赃物？</text>
+	</string>
+
+	<string id="zat_b3_stalker_mechanic_b52_about_nimble_1">
+		<text>哇哦哇哦…机灵鬼会捣腾赃物？不可能。在我建车间的时候，就是机灵鬼尽心尽力地帮了我，甚至连一个子儿都没收…不管别人怎么泼脏水，我始终相信机灵鬼是个好人。</text>
+	</string>
+
+	<string id="zat_b3_stalker_mechanic_electro_toolkit_dialog_0">
+		<text>有什么活可以给我干？</text>
+	</string>
+
+	<string id="zat_b3_stalker_mechanic_electro_toolkit_dialog_1">
+		<text>噢当然有。我有几件工具需要去取，但我这儿腾不出手。做五金工作就是这样，根本无暇顾及别的事情。如果你能帮我取来几件有用的工具，我可以好好给你的装备来个升级改造。顺便你也能挣点儿钱。</text>
+	</string>
+
+	<string id="zat_b3_stalker_mechanic_electro_toolkit_dialog_11">
+		<text>没问题，我会多加留意的。</text>
+	</string>
+
+	<string id="zat_b3_stalker_mechanic_electro_toolkit_dialog_12">
+		<text>没空，回头再说吧。</text>
+	</string>
+
+	<string id="zat_b3_stalker_mechanic_electro_toolkit_dialog_2">
+		<text>噢，没错，我需要工具你还记得吗？帮我点小忙，你也挣点小钱。</text>
+	</string>
+
+	<string id="zat_b3_stalker_mechanic_ufo_memory_repair_0">
+		<text>你能解除一个内存模块的屏蔽吗？</text>
+	</string>
+
+	<string id="zat_b3_stalker_mechanic_ufo_memory_repair_1">
+		<text>没办法伙计，帮不了你。这些什么现代电子设备、计算器什么的…我实在是弄不明白。最好去找些比我年轻的家伙们问问…年轻一代的人更容易接受这些东西，老兄。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_0">
+		<text>你能撬开一个钢铁容器吗？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_1">
+		<text>轻而易举，只要 500 你就能享受到顶级服务。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_11">
+		<text>给你。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_111">
+		<text>好的，那就交给我吧…把这个抬起来，按一下这里…嘣！搞定了！没有什么事情是我的撬棍和锤子搞不定的。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_12">
+		<text>我没那么多钱。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_121">
+		<text>有钱了再回来吧。我一直都在这儿。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_13">
+		<text>我再考虑一下。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_drink_1_0">
+		<text>这儿有好酒，来一杯吗？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_drink_1_2">
+		<text>不了，我戒酒了，兄弟。当我看见 62 号物品的时候，我就对自己说：“就这么着了，是时候做出些改变了”…酒精只会搞坏你的身体，一点儿也不健康。而且如果我不在了，还有谁能帮你的高斯步枪准备弹药呢？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_drink_2_0">
+		<text>再给你一瓶。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_drink_3_0">
+		<text>如果你还要的话，我这儿还有第三瓶。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_0">
+		<text>我带来了你的工具。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_1">
+		<text>很好。是哪一种？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_11">
+		<text>基础作业用的工具。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_111">
+		<text>太好了！这下我就只缺精细作业工具和校准作业工具了。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_12">
+		<text>精细作业用的工具。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_121">
+		<text>太好了！这下我就只缺基础作业工具和校准作业工具了。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_13">
+		<text>校准作业用的工具。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_131">
+		<text>太好了！这下我就只缺基础作业工具和校准作业工具了。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_14">
+		<text>暂时没有。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_141">
+		<text>太好了。这下只要再找到校准作业工具就完美了。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_151">
+		<text>太好了。这下只要再找到精细作业工具就完美了。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_161">
+		<text>太好了。这下只要再找到基础作业工具就完美了。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_171">
+		<text>太棒了！干得好！你有什么秘诀吗老兄？这下我就凑齐全套的改装工具了，哈哈！等我造出一把机枪来给你瞧瞧！</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_end_0">
+		<text>我带来了 62 号物品的设计图和文件。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_end_1">
+		<text>你成功了！太好了！我就知道那些混蛋不可能把所有东西都毁掉。快给我看看…嗯嗯…原来这就是那帮混蛋的目的。没问题！只用几个小时我就能彻底解决这个问题。高斯步枪就先放在我这儿吧，我会好好修理的。就在这儿等着，几分钟之后这件宝贝就会再次焕然一新！</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_make_battery_0">
+		<text>我需要高斯步枪的电池。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_make_battery_1">
+		<text>只给我最爱的客人的优惠价：2000。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_make_battery_11">
+		<text>拿去吧。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_make_battery_12">
+		<text>我再考虑一下。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_make_battery_13">
+		<text>我现在手头有点紧。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_repair_gauss_0">
+		<text>高斯步枪修好了吗？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_repair_gauss_1">
+		<text>小菜一碟。供电系统现在焕然一新。如果出现问题，就带回来给我调整一下。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_repair_gauss_2">
+		<text>还在进行。我喜欢慢工出细活…</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_show_0">
+		<text>我拿到了一个未知武器的型号。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_show_1">
+		<text>未知是什么意思？快拿出来给我看看…</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_show_2">
+		<text>看吧…你见过这种东西吗？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_start_0">
+		<text>啊哈，是你啊…之前和你相处得很愉快，呵。我还做了个梦，梦到你给我带来了一些以前的好玩意儿…是我从来没有见过的好东西…</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_start_1">
+		<text>你梦到的不是这件武器吧？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_start_11">
+		<text>我的天啊老兄…看来我不是在做梦。这是一把高斯步枪，或者说它的官方名称叫做 62 号物品。呼…在我还在木星工厂工作的时候就是负责设计武器的，要是我没记错的话，这件武器的设计理念是“基于电磁场的弹丸加速原理”。看见这些线圈了吗？是我做的…可惜他们在 2004 年就叫停了这个项目。我们一直没能找到足够小型化的能源。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_start_111">
+		<text>这把枪之前已经开过火了。会有什么影响吗？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_start_1111">
+		<text>谁知道呢？说实话，我甚至不敢用螺丝刀去捅它的电池。更何况供电系统也有一些机械损坏，这时候要是能有图纸就好办了。我工作过的测试车间负责处理所有的生产文件，也许这把高斯步枪的设计图和辅助文件还在那儿…有趣的是，我还留着车间的门卡…</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_start_11111">
+		<text>可以把门卡给我吗？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_start_111111">
+		<text>当然了…可以给你。千万别搞丢了。如果你能把那些文件带回来，或许我还能把这把枪修好。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_return_access_card_0">
+		<text>门禁卡还给你，连剐蹭都没有。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_return_access_card_1">
+		<text>谢了。这真的让我想起了过去那些美好的日子。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_1111">
+		<text>那么？…你，呃…随时都可以把坏了的枪或者破了的衣服拿给我…虽然我的手艺不如清醒的时候那么好，但我还是会尽力而为的…</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_1112">
+		<text>你去哪儿了？我真是担心死了，还到处找你来着，逢人就问你看见那个潜行者了吗？…来，干一杯？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_1113">
+		<text>你好啊。欢迎你的到来，请随意…你是有东西需要修理还是给我送好酒来了？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_1211">
+		<text>哇！太好了！我的手不发抖了，可脑子里在喊：“还想要”…小伙子，再给我来一杯！</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_1212">
+		<text>动作怎么这么慢？快把酒瓶打开，快啊！让我们为了共同的事业干杯。太好了。伏特加总是能够让我机械天才的那一部分觉醒，我可没逗你。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_1312">
+		<text>真希望小丑也在这儿，我们就可以一起为摆渡干杯了…算了，还是希望他可以安息吧。他是个好人，也是个硬汉，像石头那么硬。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_1313">
+		<text>真希望摆渡也在这儿，我们就可以一起为小丑干杯了…算了，还是希望他可以安息吧。他是个好人，总是愿意伸出援手，而且决不食言。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_1314">
+		<text>呃…摆渡…小丑…事情怎么会走到这一步呢…这就是命啊…</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_1315">
+		<text>嗯哼？…瞧瞧这是什么？我明天再处理这个装甲冲锋枪…别担心，没问题的。好酒还在等着呢…</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_14">
+		<text>那个 62 号…我真想看看它的电路设计图。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_15">
+		<text>明智的选择，我的朋友。必须随时保持枪支完好无损。要是你还能拿来一两瓶好酒什么的，我还能就地给它来个大升级。想在霰弹枪上再加一个降落伞吗？这我也能办到，哈哈。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_16">
+		<text>快看看这个！他们在电池里填充了一个带静电的超自然体！哈！我就知道这个现象很反常！这个原理非常简单，现在我也可以制作这种电池了。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_17">
+		<text>你的枪需要修一修吗？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_18">
+		<text>这玩意儿根本读不懂。我看我是太久没有读过什么技术文件了…</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_about_1">
+		<text>是的，我是跟着我的两个兄弟摆渡和小丑一起到变异区来的…那时我们都还很年轻，精力十足，心怀梦想！他们都渴望能够第一个找到堆积如山的超自然体，而且还得是最快的…而我看着他们眼睛里燃烧的欲望，默默地对自己说，这份激情可能会害死他们。能够得到战利品固然很好，但也不值得把命送在变异体的手里。</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_about_11">
+		<text>发生了什么事？</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_about_111">
+		<text>嗯…有一天晚上我们在外面喝酒闲逛，争论着接下来该继续前进，还是就这样安顿下来，如果要前进，又该去哪里。每个人都固执已见，不肯让步。当争论结束时场面已经一发不可收拾，我们三人分道扬镳。我对他们说，他们对生活根本一无所知…还有其它一些很过分的话。兄弟…要是我能再见他们一面就好了，我会为我之前说过的所有话道歉…我们会像以前那样再次聚在一起，回忆过去那些美好的时光…</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_apologies_barge_0">
+		<text>如果我能遇到摆渡的话，会帮你转达歉意的。</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_apologies_barge_1">
+		<text>那就太好了。</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_apologies_both_0">
+		<text>如果我能遇到你的兄弟的话，会帮你转达歉意的。</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_apologies_both_1">
+		<text>那就太好了。</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_apologies_joker_0">
+		<text>如果我能遇到小丑的话，会帮你转达歉意的。</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_apologies_joker_1">
+		<text>那就太好了。</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_pda_0">
+		<text>我找到了这个 PDA，你看看吧。</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_pda_1">
+		<text>我要 PDA 能干嘛？这是谁的？</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_pda_111">
+		<text>摆渡死了？！…我不能接受！…噢我的兄弟！他是那么坚强的一个人…噢，摆渡…安息吧。希望小丑能够平安无事。</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_pda_112">
+		<text>摆渡死了？！…我不能接受！…噢我的兄弟！他是那么坚强的一个人…就连小丑也…愿你俩能够安息。怎么会这样…</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_pda_131">
+		<text>他们都死了？！…我不能接受！…噢我的兄弟！摆渡是那么坚强的一个人…还有小丑…噢，小丑…我们再也没法被你的笑话逗笑了。愿你俩能够安息。怎么会这样…</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_about_0">
+		<text>你能回答我几个问题吗？</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_about_1">
+		<text>当然。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_about_1111">
+		<text>我的订单还要多久才能完成？</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_about_11111">
+		<text>这取决于情况有多复杂。通常得费上一整天，偶尔能够快一点。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_about_1114">
+		<text>跟我讲讲你自己。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_about_11141">
+		<text>没什么可说的。我和大多数人一样，有过好日子，也有过苦日子。去过几个特异点，也被强盗绑架过…到变异区来是很久前的事了，那时我还很年轻。一开始我在后勤打杂，准备抗辐射剂、穿甲弹这些物资。后来西多罗维奇救了我一命，我就开始帮他做事。替他办事可不容易，但也让我积累了些人脉，时机成熟后就开始拓展自己的业务，私底下送些订单。现在不管生活出什么岔子我都兜得住，但我感觉自己的运气也快到头了。而且，我不想再为一小点钱忙活了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_about_1116">
+		<text>谢谢，我明白了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_about_11161">
+		<text>很高兴能帮上忙。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_0">
+		<text>你卖我的武器是偷来的！</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_1">
+		<text>你在说什么？我做的是正经生意，不卖赃物。如果你不信，可以找基地的人问问，谁都知道我是个诚实商贩，从没骗过人。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_11">
+		<text>我遇到一个潜行者，他说这枪是他的。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_111">
+		<text>你叫什么名字？</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_1111">
+		<text>漂流木。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_1112">
+		<text>关你什么事？</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_11121">
+		<text>这很重要。你被人骗了，潜行者。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_12">
+		<text>我们等着瞧。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_121">
+		<text>你被人骗了，潜行者。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_0">
+		<text>我来取我的东西。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_111">
+		<text>你要的草原之鹰到了。事情比我想的更棘手，有个手枪发烧友对它相当感兴趣，我差点就没抢到，好在及时搞来了。自己瞧瞧吧，手工制作的枪，零部件全都精心调校过，准头挑不出半点毛病。想过完美的狙击手枪长什么样吗？就长这样。你还得付我 2800。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_1111">
+		<text>行，给你。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_11111">
+		<text>拿去吧，跟你做生意很愉快。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_1112">
+		<text>我身上没那么多钱。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_11121">
+		<text>行，那我就先给你留着，希望你赶紧把钱凑够。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_1113">
+		<text>我不想买这个。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_11131">
+		<text>拒绝收货说明你靠不住。下次再找我，风险预估后的订金就不止这点了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_111311">
+		<text>但我还是不想要了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_1113111">
+		<text>行，随便你。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_1114">
+		<text>我再考虑一下。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_11141">
+		<text>当然，你说了算。这把枪我就先给你留着。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_112">
+		<text>你的草原之鹰到了，精准度一流。你还得付我 2800。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_121">
+		<text>瞧这把高山，真是美极了。我敢拍胸脯保证，这枪整个变异区都找不出第二把。它原本是某个特种部队委托的武器，型号独特，限量生产。相当不好弄，我甚至找了一个海外朋友帮忙。大容量弹匣、超硬钢制枪管、高强度聚合物机闸。只要付完剩下的 2800，这个宝贝就是你的了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_122">
+		<text>你的大弹匣手枪高山到了，付清剩下的 2800，这宝贝就归你了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_131">
+		<text>瞧，这就是行军。这把枪以前的主人是一个叫狼犬的雇佣兵。枪栓轻、反冲短，一把小巧的好枪。狼犬是个彻头彻尾的人渣，但不得不说，他确实懂枪。据说他最喜欢的一招就是先打断对方的四肢，再爆头，人还没倒地就成了棍子。总之，价格是 2800。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_132">
+		<text>你的速射手枪行军到了。还得再付我 2800。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_211">
+		<text>看看吧，这是冲锋枪切割机。先说在前面，别太在意外形。这枪是是全新型号，还没投入批量生产。这一把是军械库崭新出厂的原型枪。当初设计的目标是做一把全新的短射程武器，兼具高射速、高准度和高质量。所以，还得付我 8000。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_212">
+		<text>没错，这就是速射冲锋枪切割机，还得再付我 8000。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_221">
+		<text>瞧瞧，这就是模范好枪卡宾，货真价实的军用霰弹枪。防震系统平稳均衡，可以在自动射击时大幅降低后坐力。再加 8000，它就归你了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_222">
+		<text>这是自动霰弹枪卡宾。再加 8000，它就归你了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_231">
+		<text>我觉得这把最新开发的防撞栏很适合你。原本整批货都是运往中非的，但我托朋友帮忙，搞到了一件“样品”。这么一把弹匣大、射速快的自动霰弹枪，只收你 8000。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_232">
+		<text>当然。大弹匣的自动霰弹枪防撞栏，8000 就能带走。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_311">
+		<text>当然。瞧瞧这把风暴，冲锋枪和榴弹发射器二合一。前身是变异区特种部队使用的常规武器，这把原型枪是斯拉夫兄弟做的改良版，也是他们最好的技术创新…再加 16000，枪就归你了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_312">
+		<text>当然，这是带扩容弹匣的风暴，冲锋枪带榴弹发射器。再付 16000，枪就归你。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_321">
+		<text>这是新一代的突击步枪 GP37。精准、可靠，自带的光学瞄准镜也特别好用。这把枪以前是联合国观察员的，他们的队伍来变异区做考察。不过，最后情况变得更糟了…只要 16000，这把步枪就归你了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_322">
+		<text>这把是新一代的突击步枪 GP37。价格是 16000。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_331">
+		<text>瞧瞧这把比利时枪械厂制造的模块化步枪 FT-200M。精准、全能，左撇子右撇子都能用得顺手，还配有光学瞄准镜和榴弹发射器。我从不走运的联合国观察员那里搞到的…你还得再付 16000。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_332">
+		<text>这把是模块化步枪 FT-200M，还得再加 16000。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_411">
+		<text>这把是浪潮。它以消音狙击枪为基础，专为军队设计，用来和僵尸作战。得益于其高射速，浪潮的停止力极强，使得狙击手可以在不暴露位置的情况下消灭僵尸。不过后来大家发现，潜行者就能拦截阻击防线的僵尸，所以这款步枪从未进行大规模生产。只要再付 16000，这个宝贝就是你的了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_412">
+		<text>这把是浪潮，停止力极佳的消音狙击枪。再加 16000 就能带走。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_421">
+		<text>这把是高射速的近距离狙击步枪 SVU2-A。我从自由组织的传奇守卫马克斯手里买来的。他发誓说整个变异区找不到第二把。它可是独一无二的，至少在这边是。你还得再给 16000。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_422">
+		<text>没错，高射速近距离狙击步枪 SVU2-A。还得再付我 16000。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_431">
+		<text>当然，看看这把山猫。本地行家手工打造，而制作者如今已不在人世，所以这把枪也不会有第二把。虽然外观和其它步枪没什么差别，但只要拿起来打打靶，你就知道哪里不一样了。这把枪是精准度和停止力的完美结合。再加 16000，这个宝贝就归你了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_432">
+		<text>没错，兼具火力和精准度的狙击步枪山猫，再加 16000 它就归你了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_511">
+		<text>瞧这里，我想办法搞到了一套带头盔的 CS-3a，你想要的功能都有。这顶头盔本身没什么特别的，但能安装多种机动战术部件，包括高质量的夜视系统和红外传感器。CS-3a 护甲不仅外观漂亮，防弹性能和特异点抗性也极为出色，甚至还相当轻便灵活。这一套卖你 32000。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_512">
+		<text>没错，一套 CS-3a 护甲带一顶战术头盔。总共是 32000。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_611">
+		<text>专为你准备的 SEVA 防护服。封闭循环呼吸模块、耐热保护电路和防腐外表面材料——你订的所有东西都有，而且还附送了内置的超自然体容器。这绝对是潜行者必备的防护服，只要按我们说好的再付 24000，它就归你了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_612">
+		<text>这是 SEVA 防护服。价格 24000，我们之前说好了的。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_711">
+		<text>瞧，一套货真价实的作战外骨骼。这是变异区里能找到的最好防护装备，不论是防抓、防弹，还是防手雷破片，除了装甲车都能防。但它本身就很像装甲车，毕竟减轻了你的负重，当然了，只能一定程度地减轻。只要 48000，不管东西好坏，全归你了…呃…我是说，电源和伺服电机也全归你了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_712">
+		<text>瞧，一套货真价实的作战外骨骼。只要 48000，它就归你了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_0">
+		<text>我想下个订单。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_1">
+		<text>没问题，你想要什么？</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_11">
+		<text>手枪。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_111">
+		<text>当然可以，价格是 3500，不过要先付 700 的订金。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_1111">
+		<text>行，给你。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_11111">
+		<text>等货到了我会立马联系你。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_1112">
+		<text>我身上没钱。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_11121">
+		<text>那就请之后带着现金来吧。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_1113">
+		<text>你看，我改主意了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_11131">
+		<text>行。如果你想下订单，随时来这里找我。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_112">
+		<text>你不是一个靠得住的顾客，所以手枪得收你 4200，预付的订金是 1400。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_113">
+		<text>最好的手枪已经卖完了，如果你想找寻常的货色，就去找猫头鹰。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_12">
+		<text>近距离武器。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_121">
+		<text>当然可以。总价 10000，我要先收 2000 订金。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_122">
+		<text>你上次拒绝收货…所以这个要算你 12000，我要先收 4000 订金。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_123">
+		<text>呃…我可能帮不了你，这个要求太高了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_13">
+		<text>突击武器。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_131">
+		<text>想要射速快的好枪，行…一般价格是 20000，要先付 4000 订金。你要吗？</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_132">
+		<text>你是个麻烦的顾客，这个算你 24000，要先付我 8000 订金。成交？</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_133">
+		<text>现在时机不对…警戒区的局势越来越紧张。前几天有人袭击了军队的前哨站，搞得他们更难对付了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_14">
+		<text>狙击枪。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_141">
+		<text>我能替你搞来最好的，只收 20000，不过得先付 4000 订金。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_142">
+		<text>和你做买卖有一定的风险…出 24000 的话，我可以给你安排，但你得先付 8000 订金。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_143">
+		<text>抱歉，这种武器现在不好弄。我这边搞狙击枪的联系人…呃，算是身体不舒服吧。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_15">
+		<text>装甲服。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_151">
+		<text>可以，我应该能弄来合适的。价格是 40000，不过得预付 8000 作为订金。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_152">
+		<text>可以，我应该能弄来合适的。你之前拒绝收货，所以价格是 48000，而且得预付 16000 作为订金。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_153">
+		<text>我搞不到更好的防护服了，之前卖你的那件可是独一份的好货。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_16">
+		<text>带有封闭式循环呼吸模块的防护服。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_161">
+		<text>有点棘手…这东西可不好弄到，相当不好搞。你出 30000 的话，我可以想想办法，不过得先收 6000 订金。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_162">
+		<text>你上次放了我鸽子，所以这会我得先掂量掂量。你出 36000 的话，我可以想办法搞一件来，不过你得先付 12000 订金。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_163">
+		<text>上次给你的那个就折了我半条命，别指望我还能再来一次。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_17">
+		<text>外骨骼。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_171">
+		<text>想必你是认真考虑过了，我可以弄到一套作战用的，但得花你 60000。贵是贵，但值这个价。别忘了，你现在就得预付 12000。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_172">
+		<text>上一个单子你对我不太厚道，所以这个得花你 72000。别忘了，你现在就得预付 24000。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_173">
+		<text>没门。自从制造厂关门以后，想要外骨骼基本只能去翻尸体…我可不做这种事。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_18">
+		<text>暂时没什么事。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_2">
+		<text>不好意思啊，这会还没开张。订单发货暂时遇到了些困难。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_start_11">
+		<text>你好啊，我叫机灵鬼，想要独特武器的人一般都会来找我。像是原型款、稀有型号、独特枪支等等。我还卖精品装备，最新款改进防护服和作战服。每件商品我都会亲自检查，质量绝对有保证。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_start_12">
+		<text>你好，要订货吗？</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_start_13">
+		<text>你好。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_start_14">
+		<text>你订的东西马上就到货。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_start_15">
+		<text>你的订单已完成，请过来收货。</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_0">
+		<text>嘿！你是漂流木的朋友？</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_1">
+		<text>嗯，我认识他。</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_11">
+		<text>他跟我说，你要给我们带战利品回来…</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_111">
+		<text>我不记得答应过。</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_111111">
+		<text>行，我们也不是对着漂流木摇尾巴的狗。</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_1111111">
+		<text>再见。</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_11112">
+		<text>办不到！</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_111121">
+		<text>动脑子想想，哪怕你用脚指头也想得明白，对方人多的时候就该老实点。</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_1111211">
+		<text>我说了不！</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_2">
+		<text>不，这人我不认识。</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_11">
+		<text>啊…妈的…我伤得很重…救我，兄弟，我需要医药箱…快撑不住了…</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_111">
+		<text>给你医药箱。</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_1111">
+		<text>啊！谢了，兄弟。差一点我就得死在沸腾里喂变异狗了…拿着，我的探测器给你，没准哪天你用得上…谢谢你救我一命，真的很感谢。我觉得我现在可以在基地喘口气了。</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_11111">
+		<text>祝你好运。</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_1112">
+		<text>啊！谢了，兄弟。差一点我就得喂变异狗了…拿着，这个超自然体给你，没准哪天你用得上…谢谢你救我一命，真的很感谢。我觉得我现在可以在基地喘口气了。</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_112">
+		<text>我给不了，我自己也需要。</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_113">
+		<text>我没有医药箱。</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_12">
+		<text>真的谢谢你了！要不是你，我早就没命了…</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_11">
+		<text>潜行者！快来救彼得鲁欣！就在那边，裂口边上！他快死在特异点里了！他那身防护服根本没用！但我没有防护服，彼得鲁欣和我花光积蓄才凑出买一件的钱…如果再往前一步，我就死定了！帮帮我们，求你了！</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_111">
+		<text>好的，待在原地别动。我会试试的。</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_112">
+		<text>你们自己解决。</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_12">
+		<text>谢谢你救了彼得鲁欣。早知道当初就再咬咬牙，买件更好的防护服了！</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_13">
+		<text>别让我看见你，你对彼得鲁欣见死不救…他的人品可要比你好得多！</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_131">
+		<text>回头见。</text>
+	</string>
+
+	<string id="zat_b57_barman_reward_dialog_0">
+		<text>我摧毁了吸血怪的巢穴。</text>
+	</string>
+
+	<string id="zat_b57_barman_reward_dialog_1">
+		<text>很好。你替我们死去的兄弟完成了复仇，上帝保佑他们的灵魂…这是你应得的报酬。</text>
+	</string>
+
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_0">
+		<text>我在广播综合楼下面找到一个吸血怪的巢穴。</text>
+	</string>
+
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_1">
+		<text>嗯，必须摧毁这个巢穴。让我想一下…谁知道那些隧道里面会有多少吸血怪。说不定可以用毒气解决它们，我记得猫头鹰提到过毒气罐的事。你去跟他聊聊，我跟他关系不大好…要是你拿到了毒气罐，就连上广播综合楼的通风系统，几分钟就能全部解决。</text>
+	</string>
+
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_11">
+		<text>行，我会照办。</text>
+	</string>
+
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_12">
+		<text>我再考虑一下。</text>
+	</string>
+
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_13">
+		<text>我已经拿到毒气罐了。</text>
+	</string>
+
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_131">
+		<text>哇哦。有两把刷子呀，兄弟。</text>
+	</string>
+
+	<string id="zat_b5_bandit_hide_dialog_11">
+		<text>啊，我们的潜行者来了，大家都在等你呢。</text>
+	</string>
+
+	<string id="zat_b5_bandit_hide_dialog_111">
+		<text>有什么打算？</text>
+	</string>
+
+	<string id="zat_b5_bandit_hide_dialog_1111">
+		<text>我们要去开个会。你不用做什么，我希望你就站在一旁，板着个脸就行。</text>
+	</string>
+
+	<string id="zat_b5_bandit_hide_dialog_11111">
+		<text>好的。</text>
+	</string>
+
+	<string id="zat_b5_bandit_hide_dialog_21">
+		<text>哈哈，他们肯定腿都软了。有两下子呀，潜行者。拿着吧。</text>
+	</string>
+
+	<string id="zat_b5_bandit_hide_dialog_211">
+		<text>祝你好运。</text>
+	</string>
+
+	<string id="zat_b5_bandit_hide_dialog_31">
+		<text>你个蠢蛋，到嘴边的鸭子都让你放跑了，赶紧滚。</text>
+	</string>
+
+	<string id="zat_b5_bandit_hide_dialog_311">
+		<text>再见。</text>
+	</string>
+
+	<string id="zat_b5_bandit_hide_dialog_41">
+		<text>你这么急要干什么？</text>
+	</string>
+
+	<string id="zat_b5_bandit_hide_dialog_411">
+		<text>没什么。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_11">
+		<text>猫头鹰派你来的？</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_111">
+		<text>没错，他告诉我你需要帮助。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_1111">
+		<text>确实需要，我觉得有你帮忙应该就没问题了。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_11111">
+		<text>行，要我做什么？</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_111111">
+		<text>在谈生意的时候保护我，仅此而已。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_1111111">
+		<text>我没问题。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_21">
+		<text>站在一旁掩护我。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_211">
+		<text>明白。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_31">
+		<text>我只跟老大谈。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_311">
+		<text>随便你。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_41">
+		<text>谢谢你，潜行者。你帮了我大忙。我就感觉那帮混球肯定要坏事，他们让人跟踪了一路！这是给你的辛苦费。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_411">
+		<text>祝你好运。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_42">
+		<text>你做保镖不行，磨洋工倒是在行。但既然之前说好了，我还是会付你钱的。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_421">
+		<text>祝你好运。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_43">
+		<text>你做保镖不行，磨洋工倒是在行。但既然之前说好了，我还是会付你钱的。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_431">
+		<text>祝你好运。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_44">
+		<text>你还想要什么？这件事没你半点功劳，差点就没成…滚开！</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_441">
+		<text>祝你好运。</text>
+	</string>
+
+	<string id="zat_b5_stalker_commander_dialog_11">
+		<text>太好了，谢谢你能来。我们想偷偷接近强盗，偷听他们谈话，看看会有什么发现。</text>
+	</string>
+
+	<string id="zat_b5_stalker_commander_dialog_111">
+		<text>我知道了。</text>
+	</string>
+
+	<string id="zat_b5_stalker_commander_dialog_21">
+		<text>谢谢你，潜行者。这个给你…报酬的大头已经让酒吧老板拿走了。</text>
+	</string>
+
+	<string id="zat_b5_stalker_commander_dialog_211">
+		<text>我知道了。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_0">
+		<text>跟我讲讲你们在这里的生活。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_1">
+		<text>在这里过日子，肯定不是什么轻松的事。你还想知道什么？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_1111">
+		<text>你们在这里干什么？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_11111">
+		<text>我们监视潜行者。你不得不承认，你们中有一大半不像成年人，更像小屁孩。有的是做白日梦做到变异区来了，有的是来逞英雄，还有的只是来逃避惨淡的人生。他们根本没意识到来这里会是什么下场，基本都是一个死字。我们盯着这种人，在废料场找到了就没收装备，送回警戒区，有些学聪明了就会回到外面去。至于那些有种又回来的，我们会把他们保护好，然后收税。告诉你吧，没人敢侵犯我们的领地，军队不敢，雇佣兵不敢，连变异体也不敢。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_1112">
+		<text>你怎么到变异区中心来了？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_11121">
+		<text>走来的。我们为了潜行者来的，还能为什么？要不是我们在维持秩序，这里不知道得乱成什么样。自己找到的战利品自己留着，当然没问题，但谁给我们缴税呢？你知道的，和平安全税。比如说你们有谁进特异点去搜刮，而我们在外头监视情况。如果他还能平安出来，我们就抽取一部分…用于维护秩序，你理解吧。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_1113">
+		<text>你是怎么当上老大的？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_11131">
+		<text>从哪里说起呢…我想大概得从高中说起。我有个好哥们儿，也是我最好的朋友，我俩经常一起在外面抽烟喝酒找乐子。可他玩得越来越大，开始吸毒找刺激。起初是大麻，接着是白粉，然后是可卡因，为了吸毒他开始四处凑钱。我告诉他：“托良，现在还不算晚，你必须把这些东西戒了。”可他没听进去。有一天，他买到了劣质货，人就这么没了。我找到了卖他东西的人，帮我兄弟报了仇…但我的脸被拍到了，一切都跟着乱了套。蹲号子、帮派火并、挨过刀子…出狱后开始做起生意，结果又被抓了…等再出狱的时候，我把一切都抛在脑后，来了变异区。熬了好几个月，最后熬出头升了职。所以我现在能站在这里当负责人，维护这里的秩序。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_1114">
+		<text>你对潜行者有什么看法？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_11141">
+		<text>他们不能一概而论。有些是混混，在这里待不了一周。有些是来挣钱的…还有一些算是好人，他们在警戒区两头的日子都不好过。对第一种人，我们敲竹杠；第二种人我们收税；至于最后一种，我们尽量做到井水不犯河水。只可惜，有时候没法立即区分这三种人。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_1115">
+		<text>哦，没事。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_11151">
+		<text>请自便。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_barmen_under_actor_dialog_0">
+		<text>以后大胡子会帮我们工作。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_barmen_under_actor_dialog_1">
+		<text>那句话怎么说的，有钱不赚王八蛋。没事就去找找他，免得他忘了交钱。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_actor_dialog_0">
+		<text>大胡子接到一份重要订单，要找叫做“罗盘”的超自然体。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_actor_dialog_1">
+		<text>这个超自然体我们必须截住。大胡子从来不会为鸡毛蒜皮的事闹出这么大动静。直觉告诉我，要是没这东西，他的麻烦就大了…也就是说，生意不保。一旦找到罗盘就给我带来。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_give_actor_dialog_0">
+		<text>我找到罗盘了，给你。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_revert_actor_dialog_0">
+		<text>我不会帮你去找罗盘。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_revert_actor_dialog_1">
+		<text>嘿，蠢驴，给我听好了。要是你答应了替我办事，结果把事办砸了的话，我就会看你不顺眼。而我看着不顺眼的人，一般不会有好日子过。听明白没有？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_revert_actor_dialog_11">
+		<text>我会记着的。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_detectors_actor_dialog_0">
+		<text>我会从潜行者那里拿到探测器。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_detectors_actor_dialog_1">
+		<text>很好，我们客户的其它渠道我会处理。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_refuse_af_dialog_0">
+		<text>我听说你给了大胡子一个罗盘。现在给我听好了，混球。要是你答应了替我办事，结果把事办砸了的话，我就会看你不顺眼。而我看着不顺眼的人，一般不会有好日子过。听明白没有？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_refuse_af_dialog_1">
+		<text>我会记着的。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_ruin_actor_dialog_0">
+		<text>大胡子已经没有升过级的探测器了。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_ruin_actor_dialog_1">
+		<text>非常好。你不在的时候，我一直忙着切断他别的渠道。现在这个客户彻底归我们了。去找大胡子聊聊，告诉他苏丹向他问好。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_0">
+		<text>大胡子欠我钱，猫头鹰说你能帮我。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_1">
+		<text>帮你应该没问题…这样，我们把大胡子搞破产，接手他的生意。你不仅能拿回钱，还能拿到分成。怎么样？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_11">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_111">
+		<text>现在你的任务是找出大胡子在忙什么，切断他的供应渠道应该就能搞清楚了。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_12">
+		<text>我再考虑一下。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_121">
+		<text>记住，胡思乱想的人活不长。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b52_about_nimble_0">
+		<text>你觉得机灵鬼会不会在倒腾赃物？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b52_about_nimble_1">
+		<text>机灵鬼？不，他没这个胆子。我们这里的烫手货都是猫头鹰在经手。不管你想卖什么，他都会收，而且不会打听半句。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b52_about_snag_0">
+		<text>我在找漂流木。你知道在哪儿能找到他吗？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b52_about_snag_1">
+		<text>知道。几天前，我的人在码头吊车那儿见过他。本来我该把这混混欠的钱全榨出来，可我老是忘事。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_11">
+		<text>我有个任务给你。我的手下需要见一个商人…生意上的事，你清楚吧。最近变异区不怎么太平，多一个握枪的总不是坏事。这事一定要顺顺当当地办妥了。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_111">
+		<text>好的。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_1111">
+		<text>好。我的人会在护林站附近和你碰头，坐标在你的 PDA 里。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_11111">
+		<text>我知道了。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_112">
+		<text>我没有兴趣。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_31">
+		<text>你还在这里晃悠什么？赶紧去护林站。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_311">
+		<text>嗯哼。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_41">
+		<text>你拿定主意没有？到底跟不跟我们去？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_411">
+		<text>我和你们一起去。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_412">
+		<text>我自己去。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_intro_0">
+		<text>记住，我是苏丹。这里的一切事情，就算不归我管，也迟早会归我管。如果你想过上好日子，那就得替我做事，不然你就只能做人下人。这就是这边的规矩，兄弟。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_start_dialog_11">
+		<text>你需要什么？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_start_dialog_21">
+		<text>你有什么事？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_start_dialog_31">
+		<text>怎么说？</text>
+	</string>
+
+	<string id="zat_b7_killed_self_actor_dialog_0">
+		<text>我一个人把潜行者全杀了。</text>
+	</string>
+
+	<string id="zat_b7_killed_self_actor_dialog_1">
+		<text>哇哦，老兄…我去，你可真猛啊你。把他们全做掉了，还讲得这么平静，操。我雇你究竟有什么用…你不是在给我们挣钱，是在给我们惹事…妈的，做事冷静点，你听见没…</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_bunker_guarding_0">
+		<text>你喜欢为科学家工作吗？</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_bunker_guarding_1">
+		<text>倒也不坏。目前没出问题，一切看着还行。这帮科学家给我们发了装备，所以我们做得很不错。</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_bunker_guarding_2">
+		<text>非常好！工作简单，报酬丰厚。自从我们来这里起，就没人来找过这帮科学家，连怪物都没来过。</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_come_with_me_0">
+		<text>我在组织一个小队前往普里皮亚季。你愿意加入我们吗？</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_come_with_me_1">
+		<text>不…我跟其他人不一样，对普里皮亚季没什么兴趣…而且我们还有工作要做，得保护这些科学家…要不你带那个当兵的兄弟跟你一起吧，他还能顺便找找他战友，我们也能松口气。他这人还算行，但不太适合这个地方…</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_come_with_me_2">
+		<text>不…我跟其他人不一样，对普里皮亚季没什么兴趣…而且我们还有工作要做，得保护这些科学家…</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_0">
+		<text>你愿意为科学家工作吗？</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_1">
+		<text>什么活儿？</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_11">
+		<text>看守他们的碉堡。</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_111">
+		<text>当守卫啊，呵呵…这个我们熟。行吧，我们准备好了就去碉堡。</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_12">
+		<text>在特异点中进行测量。</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_121">
+		<text>测量，呵。你觉得我像个实验室技术员吗？我可干不来这些事。</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_2">
+		<text>待会再聊这个。周围有太多东西在转悠，等全部收拾干净了我们再聊正事。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_actor_choose_dialog_1">
+		<text>好了，我们走。让他们看看我们的能耐！</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_actor_teleport_dialog_11">
+		<text>很好。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_actor_teleport_dialog_2">
+		<text>但我们最好找点掩护，该死的喷发来了！</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_15">
+		<text>我们走。让他们看看我们的能耐！冷静点，会没事的。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_16">
+		<text>他们全被打成了马蜂窝！钱拿着，兄弟。以后有“生意”我还会找你。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_18">
+		<text>哇哦，老兄…我去，你可真猛啊你。把他们全做掉了，还讲得这么平静，操。我雇你究竟有什么用…你不是在给我们挣钱，是在给我们惹事…妈的，做事冷静点，你听见没…</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_19">
+		<text>你还没搞清楚状况？！在找潜行者呢，嗯？！你在做什么梦？你给人通风报信了，是不是？不可能是其他人！这一次我的兄弟们都在我身边…马上你就跟那群潜行者一个下场！你他妈的在看什么，立马把身上的东西全掏出来，贱人！</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_20">
+		<text>我们该走了…去驳船。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_31">
+		<text>老大好。抱歉，我现在心情很糟不想聊天。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_actor_choose_dialog_0">
+		<text>我会帮你的。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_actor_choose_dialog_1">
+		<text>好。我们会按照之前的约定安排碰面。你先出去，等他们来了，我们就从四面八方朝他们扔炸弹。一定不要靠太近，免得被误伤。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_actor_choose_dialog_11">
+		<text>好的。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_actor_choose_dialog_12">
+		<text>不，我不想做这种事。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_dialog_11">
+		<text>你好，潜行者。我现在很忙，之后再说，行不？</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_dialog_12">
+		<text>感谢提醒。我们有个计划，也许你能帮帮忙？这么说吧，有个好机会，可以从背后朝那群人渣开枪。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_dialog_13">
+		<text>我们打算埋伏他们，到时候你就从背后朝那群混球开火。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_dialog_14">
+		<text>那群杂种已经死透了，多谢提醒。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_dialog_15">
+		<text>感谢你的帮助。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_dialog_31">
+		<text>你好啊。要是不急的话就待会再说，行不？</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_leader_start_dialog_11">
+		<text>你好。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_info_about_soroka_gone_0">
+		<text>我找到喜鹊了。他在亚诺夫车站冒充“火石”，我已经处理了。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_info_about_soroka_gone_1">
+		<text>处理了？真遗憾，我本来还挺想亲手碾死这只蟑螂的…哦，总之这是好消息。拿着，我是讲信用的人。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_info_about_soroka_gone_11">
+		<text>谢谢。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_leave_zone_0">
+		<text>我想离开变异区。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_leave_zone_1">
+		<text>确定？走了可就回不来了。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_leave_zone_11">
+		<text>确定，我们走吧。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_leave_zone_12">
+		<text>那我…暂时还是不走了。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_191">
+		<text>行，钱拿去。我不想惹事。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_1911">
+		<text>嗯？身上的东西全交出来，贱种！然后有多远滚多远！</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_19111">
+		<text>我要离开了。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_192">
+		<text>办不到！</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_need_health_care_2">
+		<text>让我们看看…你的身体状况吧？如果你这都算不太行的话，那我只能算是个死人了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_start_dialog_13">
+		<text>听着，有点紧急的事。我认识个商人想做笔买卖，但他的客户都不是什么省油的灯，所以他想雇个保镖以防万一。你有兴趣吗？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_start_dialog_131">
+		<text>是的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_start_dialog_1311">
+		<text>行，人在护林站等你，具体细节他会告诉你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_start_dialog_132">
+		<text>没有。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_start_dialog_1321">
+		<text>这事看你。要是你改主意的时间不算晚，这份差事还会给你留着。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_0">
+		<text>你这里有什么差事给我？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_1">
+		<text>赚大钱的那种。你想想，我为什么要找你？你虽然是个没有人脉关系的新人，但如果利用好自身条件，你很快就能赢得大家的尊重。想听听我的计划吗？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_11">
+		<text>嗯，当然。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_111">
+		<text>那好，听着。我们打算从大胡子的潜行者手里敲上一笔，绝对轻松顺利。等夜深了，你跟我们的人就到舍甫琴科号去，趁那群观光客还没反应过来，你先忽悠忽悠他们。事成之后，我们赚到了钱，你也有了靠山…懂我意思了吗？好了，瞧见站那边的指虎了吗？他会跟你讲清楚细节。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_12">
+		<text>没有。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_121">
+		<text>真可惜。你之后再想想吧…等想清楚什么事对自己有好处，你会回来的，兄弟。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_2">
+		<text>能出人头地的那种…想听听我的计划吗？</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_pda_11">
+		<text>摆渡的 PDA。我在一个洞穴里找到了他的尸体，就在焚毁农庄下面。</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_pda_12">
+		<text>我在离橡木松不远处的几根白骨旁找到了这个，小丑的 PDA。</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_pda_121">
+		<text>小丑的？！不可能！啊，怎么会…小丑死了…啊，小丑，再也听不到你讲笑话了…安息吧…我只希望至少摆渡没事…</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_pda_122">
+		<text>小丑的？！不可能！啊，怎么会…小丑也死了…啊，小丑，再也听不到你讲笑话了…安息吧…摆渡，你也是…怎么会变成这样…</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_pda_13">
+		<text>摆渡和小丑的 PDA。一个是在橡木松附近的骷髅旁发现的，另一个是从在洞穴里的尸体上找到的，就在焚毁农庄下面。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_surge_1">
+		<text>实话说吧，也没什么能讲的。喷发极其危险，基本上都能要人命。喷发来之前，你能感觉到天气慢慢变化，但到达最高峰以后消失得也很快。一旦有喷发的迹象，立马跑进最近的掩体里，比如洞穴，混凝土的、钢筋的、砖砌的建筑物…我和有些人一样，在喷发来之前腰背会发痛。至于喷发的本质，我没什么有用的情报能告诉你，因为我也不知道。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_start_dialog_11">
+		<text>想买东西？情报？还是说你想卖情报？</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_actor_choose_dialog_0">
+		<text>苏丹说你打算敲那群潜行者一笔，算我一个。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_actor_choose_dialog_2">
+		<text>很好。后半夜到舍甫琴科号去，我们会在那里等你，别等天亮了才到。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_13">
+		<text>哦，是你啊，兄弟。怎么样，跟苏丹谈拢了没？</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_14">
+		<text>所以…后半夜到驳船去，但得赶在天亮前，我们等你来。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_actor_teleport_dialog_0">
+		<text>我觉得我最好跟你们待在一起，等到后半夜，然后你们带我去舍甫琴科号。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_actor_teleport_dialog_1">
+		<text>没问题，你就待在附近吧。带你去驳船不成问题。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_actor_teleport_dialog_12">
+		<text>其实…我还有些其它事要办。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_info_1">
+		<text>我有些变异区外面的大客户，他们经常订购某些超自然体，东西必须在一定时间内送达。你把我要的东西带来，我会开你一个好价钱。记住，这些订单对我非常重要，所以我雇的人不止你一个…只有第一个把东西交给我，你才能拿到全部的费用。</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_112">
+		<text>从焚毁农庄来的。嗯…先说说你是谁？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_15311">
+		<text>他们也把这里叫做铁森林。直升机撞上了核电站的铁塔，那些当兵的全死了…就算有人还剩口气，也没命出来。骚灵就喜欢把人撵进电子特异点里…一点动静那群杂种就会杀出来，相信你已经知道了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_15411">
+		<text>听着…直升机失事后，现场发现有五个军人。显然他们成功地从沼泽爬了出来…去那边不是什么难事，只要远离水域，走结实稳当的路，然后还需要一些化学防护。所以，如果你想去那边的话，记得跟医生买点解毒剂。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_1311">
+		<text>可惜我兄弟小丑和摆渡不在这里…不然大家肯定能玩得很尽兴。我们就像是亲兄弟，一路上互相支撑…怎么会变成这样？我还在这里，他们却不知道去了哪里…</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_about_0">
+		<text>跟我讲讲小丑和摆渡。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_111213">
+		<text>我在那边找到了些东西。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_1112131">
+		<text>说吧…你给我找到了什么东西？</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_11111">
+		<text>嗯，难怪。我知道他，这人以前就是个骗子，但最近确实相当过分，敢这样骗潜行者…该让他知道知道自己的斤两了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_116">
+		<text>我需要雇佣兵营地的情报，这事没有听上去那么难。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_111">
+		<text>行，我会等着…记住，这个任务很紧迫，必须在两天内解决。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_28">
+		<text>苏丹信使的 PDA。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_281">
+		<text>这东西没什么意思，我出 500。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_2811">
+		<text>好的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_26">
+		<text>探测器原型机，你想买回去吗？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_27">
+		<text>机密文件，我在车队旁边的桥上找到的。想看看吗？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_31">
+		<text>一个奇怪的超自然体，我挖泥船找到的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_32">
+		<text>一个奇怪的超自然体，我亚诺夫车站找到的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_33">
+		<text>超自然体“绿洲之心”。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_151">
+		<text>开始狂欢吧。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_152">
+		<text>等等。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_actor_start_dialog_0">
+		<text>有一群潜行者想抢你，小心点。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_actor_start_dialog_1">
+		<text>他妈的…好，那就好好招待这群杂碎…听着，让他们以为你是自己人，这样你就能帮忙干掉他们…不会让你打白工的…</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_1111">
+		<text>你答应了什么关我屁事，东西交出来！</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_1111212">
+		<text>行，给你。</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_21">
+		<text>没听见？我们不关心你的鸟事，东西交出来，白痴！</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_11111">
+		<text>冷静，冷静…给你。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_actor_start_dialog_2">
+		<text>他妈的…好，那就好好招待这群杂碎…听着，如果可以，帮我们干掉他们…我不会让你打白工的…</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_21">
+		<text>他们全被打成了马蜂窝！你没参与，所以没有分成。以后有“生意”我还会找你。</text>
+	</string>
+
+	<string id="zat_b5_stalker_commander_dialog_31">
+		<text>你一点力都没出…别以为还有报酬。不过你至少来找我聊了会天，也算是做了点事。</text>
+	</string>
+
+	<string id="zat_b5_stalker_commander_dialog_311">
+		<text>回头见。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_give_actor_dialog_1">
+		<text>太好了，现在给我们的小客户一点颜色看看。我听说大胡子给自己的潜行者发了一些很厉害的探测器，专门用来找稀有的超自然体。你需要加入这帮潜行者，然后把探测器搞到手。懂我意思吗？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_2">
+		<text>跟他正面干没有胜算。我试过切断他的补给线，但那个大胡子人渣最后还是弄到了罗盘。他的小日子看起来过得真不错，暂时不错。</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_1111211">
+		<text>[继续…]</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_1141111">
+		<text>[继续…]</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_need_health_care_11">
+		<text>[继续…]</text>
+	</string>
+
+	<string id="zat_b22_barmen_about_vampire_actor3_0">
+		<text>松鸡死了，应该是被地震杀了…但地震也死了。</text>
+	</string>
+
+</string_table>

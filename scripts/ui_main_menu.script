@@ -1,0 +1,703 @@
+-- File:        UI_MAIN_MENU.SCRIPT
+-- Description: Load Dialog for STALKER
+-- Created:     28.10.2004
+-- Lasd edit:	18.01.2006
+-- Copyright:   2004 GSC Game World
+-- Author:      Serhiy Vynnychenko (narrator@gsc-game.kiev.ua)
+-- Version:     0.9
+
+-- when main menu is created we save the type of UI mode that is active at the moment of creation in C++ CMainMenu
+-- ui mode can be changed through console, but we want
+-- to know with what type the menu was initialized 
+
+
+class "main_menu" (CUIScriptWnd)
+
+function main_menu:__init() super()
+	self.mm_is_controller = _G.main_menu.in_controller_mode()
+	self.mbox_mode = 0
+    self:InitControls()
+    self:InitCallBacks()
+	if self.mm_is_controller then
+		self:UpdateInputLegend()
+	end
+    xr_s.on_main_menu_on()     						 --' Distemper 03.2008 --
+end
+
+function main_menu:__finalize()
+end
+
+function main_menu:InitControls()
+	self:SetWndRect					(Frect():set(0,0,1024,768))
+
+    local xml						= CScriptXmlInit()
+	if self.mm_is_controller then
+		xml:ParseFile					("ui_mm_main_c.xml")
+	else
+    	xml:ParseFile					("ui_mm_main.xml")
+	end
+
+     -- mtb-bartlomiej.kunikowski Start: On PS4 we have one background video
+	-- MTB_Jakub_Jurek [JUD-589] 
+	local platform = get_platform_id()
+	if is_using_4k_movies() then -- MTB-anna.galach
+		xml:InitStatic("background_4k", self)
+	elseif platform == platform_ids.PLATFORM_ORBIS or platform == platform_ids.PLATFORM_PROSPERO or platform == platform_ids.PLATFORM_GDK then
+		xml:InitStatic("background_orbis", self)
+	elseif platform == platform_ids.PLATFORM_GDK_1440 then
+		xml:InitStatic("background_orbis", self)
+	elseif platform == platform_ids.PLATFORM_GDK_4K then
+		xml:InitStatic("background_orbis", self) --replace with 4k and 1440p videos when ready
+	elseif platform == platform_ids.PLATFORM_NX64 then
+	-- MTB-Damian.Romanik [JP2-102] Start: NX64 textures
+		xml:InitStatic("background_nx64", self)
+	-- MTB-Damian.Romanik [JP2-102] End: NX64 textures
+	-- MTB_Jakub_Jurek [JUD-589] end
+	else
+		xml:InitStatic			("background",self)	
+	end
+	-- mtb-bartlomiej.kunikowski End
+     self.shniaga					= xml:InitMMShniaga("shniaga_wnd",self);
+
+	self.message_box				= CUIMessageBoxEx()
+	self:Register					(self.message_box, "msg_box")	
+
+	self.modio_userBG = xml:InitFrame("ModioStateUserBG", self)
+	--self.modio_avatar = xml:InitStatic("ModioStateAvatar", self.modio_userBG)
+	--self.modio_avatar:SetStretchTexture(true)
+	self.modio_user = xml:InitTextWnd("ModioStateUser", self.modio_userBG)
+
+	self.modio_BG = xml:InitFrame("ModioStateBG", self)
+	self.modio_statetext = xml:InitStatic("ModioStateText", self.modio_BG)
+	self.modio_state = xml:InitTextWnd("ModioStateOperation", self.modio_BG)
+	self.modio_modname = xml:InitTextWnd("ModioStateModName", self.modio_BG)
+	self.modio_memorytext = xml:InitStatic("ModioStateMemoryText", self.modio_BG)
+	self.modio_memory = xml:InitTextWnd("ModioStateMemory", self.modio_BG)
+
+	if not (checkModioActive() and (self.shniaga:CurrentPageId() == 3)) then
+		self.modio_BG:Show(false)
+		self.modio_userBG:Show(false)
+		self.modioVisible = false
+	else
+		self.modioVisible = true
+	end
+
+	self:ActualizeModIo(true)
+	
+
+	if self.mm_is_controller then
+		self.input_legend = xml:InitInputLegend("input_legend", self)
+	end
+
+	if not Is_EULA_accepted() and (platform ~= platform_ids.PLATFORM_NX64 or Is_Lang_Chosen()) then
+		self.eula_dialog = ui_eula.eula_dialog(self)
+		self:AttachChild		(self.eula_dialog)
+		self.eula_dialog.owner = self
+		self.eula_dialog:ShowDialog(true)
+		self.shniaga:SetVisibleMagnifier(false)
+	end
+	
+
+	-- MTB_Jakub_Jurek [JUD-250]
+	--local _ver = xml:InitStatic		("static_version",self)
+	--_ver:TextControl():SetText		("ver. " .. mm:GetGSVer())
+	local mm						= _G.main_menu.get_main_menu()
+
+	--MTB_Jakub_Jurek [JUD-17]
+	if platform ~= platform_ids.PLATFORM_WIN64 and platform ~= platform_ids.PLATFORM_ORBIS and platform ~= platform_ids.PLATFORM_PROSPERO and platform ~= platform_ids.PLATFORM_NX64 then
+		self.gamerTag = xml:InitStatic	("gamer_tag",	self)
+		local gamerTag = get_gamer_tag()
+		self.gamerTag:TextControl():SetText(gamerTag)
+	end
+	--end MTB_Jakub_Jurek [JUD-17]
+--[[
+--   self.l_mgr = mm:GetLoginMngr()
+--   self.acc_mgr = mm:GetAccountMngr()
+--   self.profile_store = mm:GetProfileStore()
+--   self.gs_profile = self.l_mgr:get_current_profile()
+
+    if (self.gs_profile and not(level.present())) then
+--		self.shniaga:ShowPage(CUIMMShniaga.epi_new_network_game) --fake
+--		self.shniaga:SetPage(CUIMMShniaga.epi_main, "ui_mm_main.xml", "menu_main_logout")
+--		self.shniaga:ShowPage(CUIMMShniaga.epi_main)
+    end
+]]--
+	
+
+end
+
+function main_menu:Show(f)
+	self.shniaga:SetVisibleMagnifier(f)
+end
+
+
+function main_menu:InitCallBacks()
+	-- new game
+	self:AddCallback("btn_novice",		ui_events.BUTTON_CLICKED,				self.OnButton_new_novice_game,		self)
+	self:AddCallback("btn_stalker",		ui_events.BUTTON_CLICKED,				self.OnButton_new_stalker_game,		self)
+	self:AddCallback("btn_veteran",		ui_events.BUTTON_CLICKED,				self.OnButton_new_veteran_game,		self)
+	self:AddCallback("btn_master",		ui_events.BUTTON_CLICKED,				self.OnButton_new_master_game,		self)
+	self:AddCallback("btn_spawn",		ui_events.BUTTON_CLICKED,				self.OnButton_load_spawn,			self)
+	-- options
+	self:AddCallback("btn_options",     ui_events.BUTTON_CLICKED,				self.OnButton_options_clicked,		self)
+	if get_platform_id() == platform_ids.PLATFORM_PROSPERO then
+		self:AddCallback("btn_transfer_saves", ui_events.BUTTON_CLICKED,		self.OnButton_transfer_saves_clicked,self)
+	end
+	self:AddCallback("btn_challenges",     ui_events.BUTTON_CLICKED,			self.OnButton_challenges_clicked,		self)
+	-- load
+	self:AddCallback("btn_load",        ui_events.BUTTON_CLICKED,				self.OnButton_load_clicked,			self)
+	-- save
+	self:AddCallback("btn_save",		ui_events.BUTTON_CLICKED,				self.OnButton_save_clicked,			self)
+
+
+--[[
+	-- We dont support multiplayer any longer
+	if not mm_is_controller then
+		self:AddCallback("btn_net_game",	ui_events.BUTTON_CLICKED,				self.OnButton_network_game_clicked,	self)
+		self:AddCallback("btn_internet",	ui_events.BUTTON_CLICKED,				self.OnButton_internet_clicked,		self)
+		self:AddCallback("btn_localnet",	ui_events.BUTTON_CLICKED,				self.OnButton_localnet_clicked,		self)
+		self:AddCallback("btn_multiplayer", ui_events.BUTTON_CLICKED,				self.OnButton_multiplayer_clicked,	self)
+		self:AddCallback("btn_logout",		ui_events.BUTTON_CLICKED,				self.OnButton_logout_clicked,		self)
+	end
+]]
+
+	-- quit
+	if get_platform_id() == platform_ids.PLATFORM_WIN64 then
+		self:AddCallback("btn_quit",		ui_events.BUTTON_CLICKED,				self.OnButton_quit_clicked,			self)
+	end
+	self:AddCallback("btn_quit_to_mm",	ui_events.BUTTON_CLICKED,				self.OnButton_disconnect_clicked,	self)
+	self:AddCallback("btn_ret",			ui_events.BUTTON_CLICKED,				self.OnButton_return_game,			self)
+	self:AddCallback("btn_lastsave",	ui_events.BUTTON_CLICKED,				self.OnButton_last_save,			self)
+	self:AddCallback("btn_credits",		ui_events.BUTTON_CLICKED,				self.OnButton_credits_clicked,		self)
+	-- mods
+	self:AddCallback("btn_mods",		ui_events.BUTTON_CLICKED,				self.OnButton_mods,		self)
+	self:AddCallback("btn_browser",		ui_events.BUTTON_CLICKED,				self.OnButton_mods_clicked,			self)
+	self:AddCallback("btn_loadorder",	ui_events.BUTTON_CLICKED,				self.OnButton_mods_loadorder,		self)
+	self:AddCallback("btn_report",		ui_events.BUTTON_CLICKED,				self.OnButton_mods_report,		self)
+	-- message box
+	self:AddCallback("msg_box",     ui_events.MESSAGE_BOX_OK_CLICKED,		self.OnMsgOk,						self)
+	self:AddCallback("msg_box",     ui_events.MESSAGE_BOX_CANCEL_CLICKED,	self.OnMsgCancel,					self)
+	self:AddCallback("msg_box",     ui_events.MESSAGE_BOX_YES_CLICKED,		self.OnMsgYes,						self)
+	self:AddCallback("msg_box",     ui_events.MESSAGE_BOX_NO_CLICKED,		self.OnMsgNo,						self)
+	self:AddCallback("msg_box",			ui_events.MESSAGE_BOX_QUIT_GAME_CLICKED,self.OnMessageQuitGame,				self)
+	self:AddCallback("msg_box",			ui_events.MESSAGE_BOX_QUIT_WIN_CLICKED,	self.OnMessageQuitWin,				self)
+
+	self:Register(self, "self")
+	self:AddCallback("self",	ui_events.MAIN_MENU_RELOADED, self.OnMenuReloaded, self)
+	self:AddCallback("shniaga", ui_events.SHNIAGA_ITEM_LIST_CHANGED, self.OnShnigaItemListChanged, self)
+end
+
+function main_menu:OnMsgOk()
+	self.mbox_mode = 0
+end
+
+function main_menu:OnMsgCancel()
+	self.mbox_mode = 0
+end
+
+function main_menu:OnMsgYes()
+
+	if 	self.mbox_mode == 1 then
+		self:LoadLastSave()
+	end
+
+	self.mbox_mode = 0
+end
+
+function main_menu:OnMsgNo()
+	self.mbox_mode = 0
+end
+
+function main_menu:LoadLastSave()
+	if disablemodmanager() then
+		local					console = get_console()
+		console:execute			("main_menu off")
+		console:execute			("load_last_save")
+	else
+		self.message_box:InitMessageBox("message_box_modio_managerbusy")
+		self.message_box:ShowDialog(true)
+	end
+end
+
+function main_menu:OnButton_last_save()
+	if ( alife() == nil) then
+		self:LoadLastSave	()
+		return
+	end
+
+	if ( (db.actor ~= nil) and (db.actor:alive() == false) ) then
+		self:LoadLastSave	()
+		return
+	end
+
+	self.mbox_mode			= 1
+	self.message_box:InitMessageBox	("message_box_confirm_load_save")
+	self.message_box:ShowDialog(true)
+end
+
+function main_menu:OnButton_credits_clicked()
+--	local console = get_console()
+--	console:execute("main_menu off")
+
+	
+
+	if get_platform_id() == platform_ids.PLATFORM_WIN64 then
+		game.start_tutorial("credits_seq")
+	elseif 
+		get_platform_id() == platform_ids.PLATFORM_ORBIS or 
+		get_platform_id() == platform_ids.PLATFORM_PROSPERO or
+		get_platform_id() == platform_ids.PLATFORM_GDK or
+		get_platform_id() == platform_ids.PLATFORM_GDK_1440 or 
+		get_platform_id() == platform_ids.PLATFORM_GDK_4K
+	then
+		if is_using_4k_movies() then -- MTB-anna.galach
+			game.start_tutorial("credits_seq_4k")
+		elseif is_next_gen() then
+			game.start_tutorial("credits_seq_jp2")
+		else
+			game.start_tutorial("credits_seq_orbis")
+		end
+		-- mtb-bartlomiej.kunikowski: Please do not render main menu when credits are playing
+		self:HideDialog()
+		self:Show(false)
+	elseif get_platform_id() == platform_ids.PLATFORM_NX64 then
+		game.start_tutorial("credits_seq_nx64")
+		self:HideDialog()
+		self:Show(false)
+	else
+		game.start_tutorial("credits_seq_video64")
+	end
+end
+
+function main_menu:OnButton_quit_clicked()
+	self.message_box:InitMessageBox("message_box_quit_windows")
+	self.message_box:ShowDialog(true)
+end
+
+
+function main_menu:OnButton_disconnect_clicked()
+	self.message_box:InitMessageBox("message_box_quit_game")
+
+	if (level.game_id() ~= 1) then
+		self.message_box:SetText("ui_mm_disconnect_message")	-- MultiPlayer
+	else
+		self.message_box:SetText("ui_mm_quit_game_message")		-- SinglePlayer
+	end
+	self.message_box:ShowDialog(true)
+end
+
+function main_menu:OnMessageQuitGame()
+	enablemodmanager()
+
+	local console = get_console()
+	console:execute("disconnect")
+end
+
+function main_menu:OnMessageQuitWin()
+	local console = get_console()
+	console:execute("quit")
+end
+
+function main_menu:OnButton_return_game()
+	local console = get_console()
+	console:execute("main_menu off")
+	xr_s.on_main_menu_off()      						--' Distemper 03.2008 --
+end
+
+function main_menu:OnButton_new_novice_game()
+	local console = get_console()
+	console:execute("g_game_difficulty gd_novice")
+	self:StartGame()
+end
+
+function main_menu:OnButton_new_stalker_game()
+	local console = get_console()
+	console:execute("g_game_difficulty gd_stalker")
+	self:StartGame()
+end
+
+function main_menu:OnButton_new_veteran_game()
+	local console = get_console()
+	console:execute("g_game_difficulty gd_veteran")
+	self:StartGame()
+end
+
+function main_menu:OnButton_new_master_game()
+	local console = get_console()
+	console:execute("g_game_difficulty gd_master")
+	self:StartGame()
+end
+
+function main_menu:StartGame()
+	local console = get_console()
+
+	if disablemodmanager() then
+		if (alife() ~= nil) then
+			console:execute	("disconnect")
+		end
+		device():pause(false)
+		console:execute("start server(all/single/alife/new) client(localhost)")
+		console:execute("main_menu off")
+	else
+		self.message_box:InitMessageBox("message_box_modio_managerbusy")
+		self.message_box:ShowDialog(true)
+	end
+end
+
+function main_menu:OnButton_load_spawn()
+	FetchModioData()
+
+	if self.spawn_dlg == nil then
+		self.spawn_dlg = ui_spawn_dialog.spawn_dialog()
+		self.spawn_dlg.owner = self
+	end
+
+	self.spawn_dlg:ShowDialog(true)
+	self:HideDialog()
+	self:Show(false)
+end
+
+function main_menu:OnButton_save_clicked()
+	if self.save_dlg == nil then
+		self.save_dlg = ui_save_dialog.save_dialog()
+		self.save_dlg.owner = self
+	end
+
+	self.save_dlg:FillList()
+	self.save_dlg:ResetFilenameInEditbox()
+	self.save_dlg:ShowDialog(true)
+	self:HideDialog()
+	self:Show(false)
+end
+
+function main_menu:OnButton_options_clicked()
+	if self.opt_dlg == nil then
+		self.opt_dlg = ui_mm_opt_main.options_dialog()
+		self.opt_dlg.owner = self
+	end
+
+	self.opt_dlg:SetCurrentValues()
+	self.opt_dlg:ShowDialog(true)
+	self:HideDialog()
+	self:Show(false)
+end
+
+function main_menu:OnButton_transfer_saves_clicked()
+	OpenTransferSavesDialog()
+end
+
+function main_menu:OnButton_challenges_clicked()
+	if self.challenges_dlg == nil then
+		self.challenges_dlg = ui_mm_challenges.challenges_dialog()
+		self.challenges_dlg.owner = self
+	else
+		self.challenges_dlg:UpdateList()
+	end
+	self.challenges_dlg:ShowDialog(true)
+	self:HideDialog()
+	self:Show(false)
+end
+
+
+function main_menu:OnButton_load_clicked()
+	FetchModioData()
+
+	if self.load_dlg ==nil then
+		self.load_dlg = ui_load_dialog.load_dialog()
+		self.load_dlg.owner = self
+	end
+
+	self.load_dlg:FillList()
+	self.load_dlg:ShowDialog(true)
+	self:HideDialog()
+	self:Show(false)
+end
+
+function main_menu:OnButton_mods()
+	if not HasUGCPrivilege() then
+		return
+	end
+
+	if not Is_ModIO_accepted() then
+		if self.terms_of_use ==nil then
+			self.terms_of_use = ui_terms_of_use.terms_of_use_dialog()
+			self.terms_of_use.owner = self
+		end
+		self.terms_of_use:ShowDialog(true)
+		self.shniaga:SetVisibleMagnifier(false)
+	end
+end
+--[[
+function main_menu:OnButton_network_game_clicked()
+	self.shniaga:ShowPage(CUIMMShniaga.epi_new_network_game)
+end
+
+function main_menu:OnButton_multiplayer_clicked()
+	-- assert(self.gs_profile)
+
+	if not(self.mp_dlg) then
+        self.mp_dlg = ui_mp_main.mp_main(self.gs_profile:online())
+        self.mp_dlg.owner = self
+		self.mp_dlg:OnRadio_NetChanged()
+		if (self.mp_dlg.online) then
+			self.mp_dlg.dlg_profile:InitBestScores()
+			self.mp_dlg.dlg_profile:FillRewardsTable()
+		end
+    end
+    self.mp_dlg:UpdateControls()
+    self.mp_dlg:ShowDialog(true)
+
+    self:HideDialog()
+	self:Show(false)
+
+	local console			= get_console()
+	console:execute			("check_for_updates 0")
+end
+
+function main_menu:OnButton_logout_clicked()
+	-- assert(self.gs_profile)
+	self.shniaga:ShowPage(CUIMMShniaga.epi_new_network_game) --fake
+	self.l_mgr:logout()
+	self.gs_profile = nil
+	self.mp_dlg		= nil
+	self.shniaga:SetPage(CUIMMShniaga.epi_main, "ui_mm_main.xml", "menu_main")
+	self.shniaga:ShowPage(CUIMMShniaga.epi_main)
+end
+
+function main_menu:OnButton_internet_clicked()
+    if not(self.gs_dlg) then
+        self.gs_dlg = ui_mm_mp_gamespy.gamespy_page()
+        self.gs_dlg.owner = self
+    end
+    self.gs_dlg:ShowLoginPage()
+    self.gs_dlg:ShowDialog(true)
+
+	self:HideDialog()
+	self:Show(false)
+
+	local console			= get_console()
+	console:execute			("check_for_updates 0")
+end
+
+function main_menu:OnButton_localnet_clicked()
+	if not(self.ln_dlg) then
+        self.ln_dlg = ui_mm_mp_localnet.localnet_page()
+        self.ln_dlg.owner = self
+        self.ln_dlg.lp_nickname:SetText(self.l_mgr:get_nick_from_registry())
+        self.ln_dlg.lp_check_remember_me:SetCheck(self.l_mgr:get_remember_me_from_registry())
+    end
+    self.ln_dlg:ShowDialog(true)
+
+	self:HideDialog()
+	self:Show(false)
+
+	local console			= get_console()
+	console:execute			("check_for_updates 0")
+end
+]]--
+function main_menu:Dispatch(cmd, param)  --virtual function
+	if cmd == 2 then
+		self:OnButton_multiplayer_clicked()
+	end
+	return true
+end
+
+function main_menu:CanReturnToGame()
+	if level.present() and
+						(	((db.actor ~= nil)and(db.actor:alive())) or
+							(false==IsGameTypeSingle())
+						) then
+		return true
+	end
+	
+	return false
+end
+
+function main_menu:OnTouchpad(dik, keyboard_action, x, y)
+	return CUIScriptWnd.OnTouchpad(self,dik,keyboard_action,x,y)
+end
+
+function main_menu:OnKeyboard(dik, keyboard_action)  --virtual function
+	
+	if keyboard_action == ui_events.WINDOW_KEY_PRESSED then
+	
+		if not self.mm_is_controller then
+
+			-- we check for ESC no matter what they have binded kQUIT to. right?
+			if dik == DIK_keys.DIK_ESCAPE then
+				if self:CanReturnToGame() then
+					self:OnButton_return_game()
+					return true
+				end
+			end
+
+	--		if dik == DIK_keys.DIK_S then
+	--			self:OnButton_load_spawn()
+	--			return true
+	--		else
+			if dik == DIK_keys.DIK_Q then
+				self:OnMessageQuitWin()
+				return true
+			end
+		else
+			if is_binded(key_bindings.kQUIT, dik) or is_binded(key_bindings.kUI_BACK, dik) then
+				if level.present() then
+					if 
+					(	((db.actor ~= nil)and(db.actor:alive())) or
+						(false==IsGameTypeSingle())
+					) then
+						self:OnButton_return_game()
+						return true
+					end
+				else
+					--check that credits sequence is running
+					if game.has_active_tutorial() then
+						game.stop_tutorial()
+						return true
+					end
+				end
+			end
+		end 
+
+	end
+
+	-- let shniaga process back button too
+	return CUIScriptWnd.OnKeyboard(self,dik,keyboard_action)
+end
+
+function main_menu:OnMenuReloaded()
+	self:OnButton_options_clicked()
+	self.opt_dlg:OnMenuReloaded()
+end
+
+function main_menu:OnShnigaItemListChanged()
+	if self.mm_is_controller then
+		self:UpdateInputLegend()
+	end
+end
+
+function main_menu:UpdateInputLegend()
+
+	self.input_legend:ClearAll()
+	--self.input_legend:AddItem('legend_ui_navigation_v', true)
+	
+	local shniagaPage = self.shniaga:CurrentPageId()
+	
+	if shniagaPage == 1 then
+		self.input_legend:AddItem('legend_ui_mmenu_select_difficulty', true)
+	else
+		self.input_legend:AddItem('legend_ui_mmenu_select', true)
+	end
+		
+	if shniagaPage == 1 or shniagaPage == 2 or self:CanReturnToGame() then
+		self.input_legend:AddItem('legend_ui_back', true)		
+	end
+	
+	self.input_legend:UpdateText()
+end
+
+function main_menu:ShowInputLegend(show)
+	if self.mm_is_controller then
+		if show then
+			self:UpdateInputLegend()
+		else
+			self.input_legend:ClearAll()
+			self.input_legend:UpdateText()
+		end
+	end
+end
+
+function main_menu:Update()
+	CUIScriptWnd.Update(self)
+	self:ActualizeModIo(false)
+end
+
+function main_menu:OnButton_mods_clicked()
+	--if modiologged() then
+	openmodiopage()
+	--else
+
+		--if self.mods_dialog == nil then
+		--	self.mods_dialog = ui_mm_mods.mods_dialog()
+		--	self.mods_dialog.owner = self
+		--end
+		--self:GetHolder():start_stop_menu(self.mods_dialog, true)
+		--self:GetHolder():start_stop_menu(self, true) --new
+		--self:Show(false)
+	--end
+end
+
+function main_menu:OnButton_mods_loadorder()
+	if self.mod_load_order ==nil then
+		self.mod_load_order = ui_modio_load_order.modio_load_order_dialog(self)
+	end
+	self.mod_load_order:ShowDialog(true)
+	self.mod_load_order:UpdateInputLegend()
+	self.mod_load_order:UpdateModList()
+	self.shniaga:SetVisibleMagnifier(false)
+end
+
+local ID_to_operation = {
+	[-1] = "ui_modio_state_ready",
+	[0] = "ui_modio_state_downloading",
+	[1] = "ui_modio_state_downloading",
+	[2] = "ui_modio_state_removing",
+	[3] = "ui_modio_state_updating"
+}
+
+function main_menu:ActualizeModIo(forced)
+	local state = false
+	if not level.present() then
+		state = checkModioActive() and (self.shniaga:CurrentPageId() == 3)
+	end
+
+	if self.modioVisible ~= state then
+		self.modio_BG:Show(state)
+		self.modio_userBG:Show(state)
+		self.modioVisible = state
+	end
+
+	if state then
+		if checkModioUserActualization() or checkModioOperationActualization() or forced then
+			local username = game.translate_string("ui_modio_notlogged")
+			if modiologged() then
+				username = getModioUserName()
+
+				if username == "" then
+					username = game.translate_string("ui_modio_notlogged")
+				end
+			end
+			XR_LOG("sets modio_username to " .. username)
+			self.modio_user:SetText(game.translate_string("ui_modio_user")..": "..tostring(username))
+
+			local OperationType = checkModioOperation()
+			local ModName = getModName()
+			local MemoryInfo = GetActualMemoryStats()
+			local OperationName = game.translate_string(ID_to_operation[OperationType])
+
+			if OperationType == 0 or OperationType == 1 or OperationType == 3 then
+				OperationName = OperationName .. " " .. GetActualStatePercentage()
+			end
+
+			XR_LOG("sets modio_modname to " .. ModName)
+			self.modio_modname:SetText(ModName)
+			XR_LOG("sets modio_state to " .. OperationName)
+			self.modio_state:SetText(OperationName)
+			XR_LOG("sets modio_memory to " .. MemoryInfo)
+			self.modio_memory:SetText(MemoryInfo)
+		end
+	end
+end
+
+function main_menu:OnButton_mods_report()
+	openbrowserwithurl("https://mod.io/report")
+end
+
+function openSetLangMenu()
+	XR_LOG("openSetLangMenu")
+
+	if platform == platform_ids.PLATFORM_NX64 then
+		local set_lang = ui_mm_nx64_set_lang.nx64_set_lang()
+		set_lang:ShowDialog(true)
+	end
+end

@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_press_any_key_PS4">
+		<text>Drьcken Sie zum Spielen einen beliebige Taste</text>
+	</string>
+
+	<string id="ui_mm_mblur_pwr">
+		<text>Bewegungsunschдrfe</text>
+	</string>
+
+	<string id="st_sp_achievement_1_desc_gdk">
+		<text>Sie sind bereit, sich ьber die neuesten Entwicklungen in der Zone zu informieren</text>
+	</string>
+
+	<string id="st_sp_achievement_2_desc_gdk">
+		<text>Sie versuchen nicht, gefдhrlichen Mutanten aus dem Weg zu gehen – Sie jagen sie</text>
+	</string>
+
+	<string id="st_sp_achievement_3_desc_gdk">
+		<text>Sie haben das Geheimnis um das Verschwinden von Stalkern in Skadovsk gelьftet</text>
+	</string>
+
+	<string id="st_sp_achievement_4_desc_gdk">
+		<text>Sie haben den Banditen und deren Anfьhrer gezeigt, wer hier der Boss ist</text>
+	</string>
+
+	<string id="st_sp_achievement_5_desc_gdk">
+		<text>Sie haben Sultan geholfen, die Stalker auszutricksen</text>
+	</string>
+
+	<string id="st_sp_achievement_6_desc_gdk">
+		<text>Sie haben den Drecksack zur Rechenschaft gezogen</text>
+	</string>
+
+	<string id="st_sp_achievement_7_desc_gdk">
+		<text>Sie haben alle Arten von Artefakten gefunden, die den Zonenforschern bekannt sind</text>
+	</string>
+
+	<string id="st_sp_achievement_8_desc_gdk">
+		<text>Jetzt hat Cardan alle Werkzeuge, die er jemals brauchen wird</text>
+	</string>
+
+	<string id="st_sp_achievement_9_desc_gdk">
+		<text>Azot hat jetzt alle Werkzeuge, die sich ein Zonentechniker nur wьnschen kann</text>
+	</string>
+
+	<string id="st_sp_achievement_10_desc_gdk">
+		<text>Es gibt keine Bereiche in der Zone mehr, in denen Sie noch nicht gewesen sind</text>
+	</string>
+
+	<string id="st_sp_achievement_11_desc_gdk">
+		<text>Sie haben eine tolle Truppe zusammengestellt und bewiesen, dass Sie ein Anfьhrer sind.</text>
+	</string>
+
+	<string id="st_sp_achievement_12_desc_gdk">
+		<text>Sie wissen, wie man ein Problem friedlich lцst</text>
+	</string>
+
+	<string id="st_sp_achievement_13_desc_gdk">
+		<text>Jeder im Bunker der Wissenschaftler betrachtet Sie als einen der ihren.</text>
+	</string>
+
+	<string id="st_sp_achievement_14_desc_gdk">
+		<text>Sie haben viel fьr den Dienst geleistet</text>
+	</string>
+
+	<string id="st_sp_achievement_15_desc_gdk">
+		<text>Sie haben viel fьr die Freiheit geleistet</text>
+	</string>
+
+	<string id="st_sp_achievement_16_desc_gdk">
+		<text>Sie haben sich auf keine Seite geschlagen und sich stets als freier Stalker betдtigt</text>
+	</string>
+
+	<string id="st_sp_achievement_17_desc_gdk">
+		<text>Im Moment geht es Ihnen nicht schlecht, Ihr Vermцgen ist betrдchtlich</text>
+	</string>
+
+	<string id="st_sp_achievement_18_desc_gdk">
+		<text>Ihre Weitsicht hat Ihnen gut getan</text>
+	</string>
+
+	<string id="st_sp_achievement_19_desc_gdk">
+		<text>Sie haben dank der anbiotischen Pillen eine Emission ьberlebt, ohne in Deckung zu gehen</text>
+	</string>
+
+	<string id="st_sp_achievement_20_desc_gdk">
+		<text>Wenn Sie an Informationen gelangen, finden Sie immer den richtigen Kдufer</text>
+	</string>
+
+	<string id="st_sp_achievement_21_desc_gdk">
+		<text>Sie haben schon immer Stalkern in Not geholfen</text>
+	</string>
+
+	<string id="ui_eula_ps_tech_req">
+		<text>Alle Inhalte, die in In-Game-Shops kдuflich erworben werden, werden von Sony Interactive Entertainment Network Europe Limited („SIENE“) erworben und unterliegen den Nutzungsbedingungen und der Endbenutzervereinbarung von PlayStation™Network, die ьber PlayStation®Store eingesehen werden kцnnen. Wir empfehlen, die Nutzungsrechte fьr jedes erworbene Produkt zu ьberprьfen, da sie sich von Fall zu Fall unterscheiden kцnnen. Sofern nicht anders angegeben, gilt fьr sдmtliche Inhalte, die in In-Game-Shops erhдltlich sind, dieselbe Altersfreigabe wie fьr das entsprechende Spiel.</text>
+		<text_US>Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America.</text_US>
+	</string>
+
+	<string id="ui_elua_disclamer">
+		<text>Dies ist die Konsolenversion von S.T.A.L.K.E.R.: Call of Prypiat.\n \n In der Welt der Zone ist die Zeit im Augenblick der Atomkatastrophe stehen geblieben. Zwar haben wir bestimmte Elemente ьberarbeitet, doch bleiben einige Aspekte, die uns heute kontrovers erscheinen mцgen, unverдndert, um die Authentizitдt und Atmosphдre des Spiels zu gewдhrleisten.\n Wir weisen darauf hin, dass es Facetten in diesem Spiel gibt, die nicht mit unseren aktuellen Werten und Ansichten ьbereinstimmen. Dennoch sind diese unverдnderten Elemente ein Teil des Erbes des Spiels und wir haben uns dazu entschieden, sie so beizubehalten, wie sie ursprьnglich entworfen wurden.\n \n Alle Referenzen in diesem Spiel dienen dazu, eine besondere Atmosphдre zu erschaffen und im kьnstlerischen Werk einen historischen Kontext zu vermitteln. Wir hoffen, dass ihr die Zone und all ihre Geheimnisse genauso schдtzen werdet wie viele Stalker zuvor.\n \nGute Jagd!\n Mit freundlichen GrьЯen\n Das GSC Game World-Team</text>
+		<text_ps5>Dies ist die PlayStation®5-Konsole Version von S.T.A.L.K.E.R.: Call of Prypiat. \n \n In der Welt der Zone ist die Zeit im Augenblick der Atomkatastrophe stehen geblieben. Zwar haben wir bestimmte Elemente ьberarbeitet, doch bleiben einige Aspekte, die uns heute kontrovers erscheinen mцgen, unverдndert, um die Authentizitдt und Atmosphдre des Spiels zu gewдhrleisten.\n Wir weisen darauf hin, dass es Facetten in diesem Spiel gibt, die nicht mit unseren aktuellen Werten und Ansichten ьbereinstimmen. Dennoch sind diese unverдnderten Elemente ein Teil des Erbes des Spiels und wir haben uns dazu entschieden, sie so beizubehalten, wie sie ursprьnglich entworfen wurden.\n \n Alle Referenzen in diesem Spiel dienen dazu, eine besondere Atmosphдre zu erschaffen und im kьnstlerischen Werk einen historischen Kontext zu vermitteln. Wir hoffen, dass ihr die Zone und all ihre Geheimnisse genauso schдtzen werdet wie viele Stalker zuvor.\n \nGute Jagd!\n Mit freundlichen GrьЯen\n Das GSC Game World-Team</text_ps5>
+	</string>
+
+	<string id="ui_pad_layout_lean_right">
+		<text>Nach rechts lehnen</text>
+	</string>
+
+	<string id="ui_pad_layout_lean_left">
+		<text>Nach links lehnen</text>
+	</string>
+
+	<string id="ui_pad_layout_crouch_cod">
+		<text>Kriechen / (Halten) Robben</text>
+	</string>
+
+	<string id="ui_pad_layout_sprint_crouch_old">
+		<text>Sprinten / Robben (beim Ducken)</text>
+	</string>
+	<string id="ui_pad_layout_crouch_old">
+		<text>Robben (beim Ducken)</text>
+	</string>
+
+	<string id="c_preset_default">
+		<text>Alternativ</text>
+	</string>
+
+	<string id="c_type_general">
+		<text>Allgemeine Bewegung</text>
+	</string>
+
+	<string id="c_type_zomming">
+		<text>Beim Zoomen</text>
+	</string>
+
+	<string id="c_type_wheel">
+		<text>Radmenь</text>
+	</string>
+
+	<string id="c_type_talk">
+		<text>Sprachmenь</text>
+	</string>
+
+	<string id="c_type_trade">
+		<text>Handelsmenь</text>
+	</string>
+
+	<string id="c_type_inventory">
+		<text>Inventarmenь</text>
+	</string>
+
+	<string id="ui_mm_controlls_preset">
+		<text>Konfiguration</text>
+	</string>
+
+	<string id="ui_mm_goto_store">
+		<text>$$ACTION_UI_ACTION_2$$ Zum Microsoft Store</text>
+		<text_ps4>$$ACTION_UI_ACTION_2$$ Zum PlayStation®Store</text_ps4>
+		<text_nx64>$$ACTION_UI_ACTION_2$$ Zum Nintendo eShop</text_nx64>
+	</string>
+
+	<string id="ui_mm_goto_store_pc">
+		<text>Zum Store</text>
+		<text_ps4>Zum PlayStation®Store</text_ps4>
+		<text_xbox>Zum Microsoft Store</text_xbox>
+	</string>
+
+	<string id="energy_drink_name">
+		<text>„NON STOP“-Energydrink</text>
+	</string>
+
+	<string id="energy_drink_short_name">
+		<text>„NON STOP“-Energydrink</text>
+	</string>
+
+	<string id="ui_modio_open">
+		<text>Browser цffnen</text>
+	</string>
+
+	<string id="ui_modio_loadorder">
+		<text>Mod-Ladereihenfolge</text>
+	</string>
+
+	<string id="ui_modio_logout">
+		<text>Abmelden</text>
+	</string>
+
+	<string id="ui_modio_email">
+		<text>Anmelden oder per E-Mail-Adresse registrieren</text>
+	</string>
+
+	<string id="ui_modio_sendcode">
+		<text>E-Mail-Code</text>
+	</string>
+
+	<string id="ui_modio_code">
+		<text>Bitte schau in deinen E-Mails deinen Code nach und gib ihn hier ein.</text>
+	</string>
+
+	<string id="ui_modio_state">
+		<text>Mod.io-Status</text>
+	</string>
+
+	<string id="ui_modio_state_ready">
+		<text>Bereit zum Spielen</text>
+	</string>
+
+	<string id="ui_modio_state_downloading">
+		<text>Mod herunterladen</text>
+	</string>
+
+	<string id="ui_modio_state_updating">
+		<text>Mod aktualisieren</text>
+	</string>
+
+	<string id="ui_modio_state_removing">
+		<text>Mod entfernen</text>
+	</string>
+
+	<string id="ui_modio_user">
+		<text>Benutzer</text>
+	</string>
+
+	<string id="ui_modio_notlogged">
+		<text>Nicht angemeldet</text>
+	</string>
+
+	<string id="ui_modio_loadorder_automatic">
+		<text>Automatisch</text>
+	</string>
+
+	<string id="ui_modio_loadorder_desc">
+		<text>Reihenfolge festlegen, in der Mods geladen werden, um das Ьberschreiben von Dateien zu verhindern</text>
+	</string>
+
+	<string id="ui_mm_modmenu">
+		<text>Mod.io</text>
+	</string>
+
+	<string id="ui_mm_sws_menu">
+		<text>STEAM Workshop</text>
+	</string>
+
+	<string id="ui_modio_managerbusy">
+		<text>Das Spiel kann jetzt nicht gestartet werden! Der mod.io-Manager ist ausgelastet, bitte warten</text>
+	</string>
+
+	<string id="ui_modio_nomemory">
+		<text>Mod kann nicht installiert werden! Nicht genug freier Speicherplatz</text>
+	</string>
+
+	<string id="ui_modio_report">
+		<text>Bericht</text>
+	</string>
+
+	<string id="ui_modio_memory">
+		<text>Belegter Speicher: </text>
+	</string>
+
+	<string id="ui_terms_of_use">
+		<text>Nutzungsbedingungen </text>
+	</string>
+
+	<string id="legend_ui_modio_edit_order">
+		<text>$$ACTION_UI_ACTION_2$$ Ladereihenfolge bearbeiten </text>
+	</string>
+
+	<string id="legend_ui_modio_edit_order_pc">
+		<text>Klicken Sie hier, um die Ladereihenfolge zu дndern </text>
+		<text_ps5>Drьcken, um Ladereihenfolge zu дndern</text_ps5>
+		<text_xbox>Drьcken, um Ladereihenfolge zu дndern</text_xbox>
+	</string>
+
+	<string id="ui_modio_mod_name">
+		<text>Mod-Name:</text>
+	</string>
+
+	<string id="ui_modio_mod_order">
+		<text>Henfolge:</text>
+	</string>
+
+	<string id="ui_mm_adaptive_trigger">
+		<text>Adaptive Trigger</text>
+	</string>
+
+	<string id="ui_mm_controller_speaker_enable">
+		<text>Controller-\nLautsprecher</text>
+		<text_ps4>Lautsprecher </text_ps4>
+	</string>
+
+	<string id="ui_mm_controller_speaker_volume">
+		<text>Controller-\nLautsprecherlautstдrke</text>
+		<text_ps4>Lautsprecherlautstдrke </text_ps4>
+	</string>
+
+	<string id="ui_mm_transfer_saves">
+		<text>Spielstдnde ьbertragen</text>
+	</string>
+
+	<string id="ui_mm_enable_fsr">
+		<text>Hochskalierungstyp</text>
+	</string>
+
+	<string id="ui_mm_enable_fsr_sharpen">
+		<text>FSR-Schдrfung</text>
+	</string>
+
+	<string id="ui_mm_fsr_sharpeness">
+		<text>FSR-Schдrfe</text>
+	</string>
+
+	<string id="ui_mm_enable_fsr_frame_generation">
+		<text>FSR-\nRahmengenerierung</text>
+	</string>
+
+	<string id="ui_mm_fsr_quality">
+		<text>Hochskalierungsmodus</text>
+	</string>
+
+	<string id="ui_mm_recommended_note">
+		<text>*Empfohlen fьr Bildschirme mit variabler Bildwiederholfrequenz. Andernfalls kann es zu Screen Tearing kommen.</text>
+	</string>
+
+	<string id="ui_grass_distance">
+		<text>Render-Distanz Gras</text>
+	</string>
+
+	<string id="ui_mm_enable_screen_space_shadows">
+		<text>Screen Space Shadows</text>
+	</string>
+
+	<string id="ui_mm_enable_screen_space_reflections">
+		<text>Screen Space Reflections</text>
+	</string>
+
+	<string id="ui_mm_input_method">
+		<text>Eingabemethode</text>
+	</string>
+
+	<string id="ui_mm_dynamic_music_volume">
+		<text>Lautstдrke dynamischer Musik</text>
+	</string>
+
+	<string id="ui_mm_enable_screen_space_global_ilumination">
+		<text>Screen Space Global Illumination</text>
+	</string>
+
+    <string id="ui_mm_enable_async_compute">
+        <text>Async Compute</text>
+    </string>
+
+	<string id="ui_mm_wireless_controller">
+		<text>Wireless Controller</text>
+	</string>
+
+	<string id="ui_mm_quality_modes">
+		<text>Qualitдtsmodi</text>
+	</string>
+
+	<string id="ui_opt_quality">
+		<text>Qualitдt</text>
+	</string>
+
+	<string id="ui_opt_balanced">
+		<text>Ausgewogen</text>
+	</string>
+
+	<string id="ui_opt_performance">
+		<text>Performance</text>
+	</string>
+
+	<string id="ui_controller_update_needed">
+		<text>DualSense® Wireless Controller benцtigt eine Aktualisierung</text>
+	</string>
+
+	<string id="ui_control_type_dualsense">
+		<text>DualSense® Wireless Controller</text>
+	</string>
+
+	<string id="ui_modio_mod_unsubscribed">
+		<text>ist auf dieser Plattform nicht verfьgbar! Der Mod wurde deaktiviert</text>
+	</string>
+
+	<string id="ui_opt_native">
+		<text>Native</text>
+	</string>
+
+	<string id="ui_opt_ultra_performance">
+		<text>Ultra performance</text>
+	</string>
+
+	<string id="kb_current_task">
+		<text>Aktuelle Aufgabe anzeigen</text>
+	</string>
+
+	<string id="30_mode">
+		<text>Qualitдt </text>
+	</string>
+
+	<string id="40_mode">
+		<text>Ausgewogen </text>
+	</string>
+
+	<string id="60_mode">
+		<text>Performance </text>
+	</string>
+
+	<string id="120_mode">
+		<text>Ultra performance </text>
+	</string>
+
+	<string id="120_mode*">
+		<text>Ultra performance*</text>
+	</string>
+
+	<string id="ui_mm_camera_bobbing">
+		<text>Kamerawackeln</text>
+	</string>
+
+</string_table>

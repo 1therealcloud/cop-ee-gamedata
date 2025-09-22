@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="legend_ui_pda_show_mission">
+		<text>$$ACTION_pda_tasks_toggle_list$$ 显示任务</text>
+	</string>
+
+	<string id="legend_ui_pda_hide_mission">
+		<text>$$ACTION_pda_tasks_toggle_list$$ 隐藏任务</text>
+	</string>
+
+	<string id="legend_ui_pda_toggle_legend">
+		<text>$$ACTION_pda_tasks_toggle_legend$$ 图例</text>
+	</string>
+
+	<string id="legend_ui_tasks_filter_next">
+		<text>$$ACTION_pda_tasks_subtab_right$$ 任务筛选</text>
+	</string>
+
+	<string id="legend_ui_tasks_filter_toggle">
+		<text>$$ACTION_pda_tasks_filter_toggle$$ 切换筛选条件</text>
+	</string>
+
+	<string id="legend_ui_info">
+		<text>$$ACTION_UI_HINT$$ 信息</text>
+	</string>
+
+	<string id="legend_ui_repair">
+		<text>$$ACTION_actormenu_action$$ 修理</text>
+	</string>
+
+	<string id="ui_mm_controller_type">
+		<text>控制器类型</text>
+		<text_ps5>输入方式</text_ps5>
+		<text_xbox>输入方式</text_xbox>
+	</string>
+
+	<string id="controller">
+		<text>控制器</text>
+		<text_ps5>DualSense®无线控制器</text_ps5>
+	</string>
+
+	<string id="kbdmouse">
+		<text>键盘和鼠标</text>
+	</string>
+
+	<string id="ui_pad_layout_PDA">
+		<text>打开PDA</text>
+	</string>
+
+	<string id="ui_pad_layout_wheel">
+		<text>武器轮盘</text>
+	</string>
+
+	<string id="ui_pad_layout_aim">
+		<text>瞄准</text>
+	</string>
+
+	<string id="ui_pad_layout_strafe">
+		<text>扫射</text>
+	</string>
+
+	<string id="ui_pad_layout_move">
+		<text>移动</text>
+	</string>
+
+	<string id="ui_pad_layout_sprint">
+		<text>冲刺</text>
+	</string>
+
+	<string id="ui_pad_layout_menu">
+		<text>菜单</text>
+	</string>
+
+	<string id="ui_pad_layout_jump">
+		<text>跳跃</text>
+	</string>
+
+	<string id="ui_pad_layout_shoot">
+		<text>射击</text>
+	</string>
+
+	<string id="ui_pad_layout_inventory">
+		<text>库存</text>
+	</string>
+
+	<string id="ui_pad_layout_crouch">
+		<text>蹲下</text>
+	</string>
+
+	<string id="ui_pad_layout_reload">
+		<text>重新装填</text>
+	</string>
+
+	<string id="ui_pad_layout_action">
+		<text>行动</text>
+	</string>
+
+	<string id="ui_pad_layout_lookx">
+		<text>视角X轴</text>
+	</string>
+
+	<string id="ui_pad_layout_Looky">
+		<text>视角Y轴</text>
+	</string>
+
+	<string id="ui_pad_layout_torch">
+		<text>手电筒</text>
+	</string>
+
+	<string id="ui_pad_layout_quckslot0">
+		<text>快捷栏的第一个物品</text>
+	</string>
+
+	<string id="ui_pad_layout_quckslot1">
+		<text>快捷栏的第二个物品</text>
+	</string>
+
+	<string id="ui_pad_layout_quckslot2">
+		<text>快捷栏的第三个物品</text>
+	</string>
+
+	<string id="ui_pad_layout_quckslot3">
+		<text>快捷栏的第四个物品</text>
+	</string>
+
+	<string id="legend_ui_talk_reply_PC">
+		<text>选择（$$ACTION_USE$$ ）</text>
+	</string>
+
+	<string id="legend_ui_talk_select">
+		<text>移动（$$ACTION_FORWARD$$）/（$$ACTION_BACK$$ ）</text>
+	</string>
+
+	<string id="ui_mm_controller_icon_type">
+		<text>控制器图标显示类型</text>
+	</string>
+
+	<string id="ui_slider_amount">
+		<text>数量：%d</text>
+	</string>
+
+	<string id="st_move_to_offer_amount">
+		<text>提供数量</text>
+	</string>
+
+	<string id="st_remove_from_offer_amount">
+		<text>移除数量</text>
+	</string>
+
+	<string id="st_move_to_cart_amount">
+		<text>选择数量</text>
+	</string>
+
+	<string id="st_remove_from_cart_amount">
+		<text>移除数量</text>
+	</string>
+
+	<string id="st_move_to_dead_body">
+		<text>揭露</text>
+	</string>
+
+	<string id="st_remove_from_offer_all">
+		<text>移除全部</text>
+	</string>
+
+	<string id="st_move_to_cart">
+		<text>选择</text>
+	</string>
+
+	<string id="legend_ui_area_selector">
+		<text>$$ICON$controller$rs$$ 切换区域</text>
+	</string>
+
+	<string id="st_repair">
+		<text>修理</text>
+	</string>
+
+	<string id="legend_ui_talk_open_trade">
+		<text>$$ACTION_talk_trade_upgrade$$ 交易</text>
+	</string>
+
+	<string id="legend_ui_use">
+		<text>$$ACTION_UI_ACCEPT$$ 使用</text>
+	</string>
+
+	<string id="legend_ui_actions">
+		<text>$$ACTION_UI_CONTEXT_MENU$$ 行动</text>
+	</string>
+
+	<string id="st_remove_from_offer">
+		<text>移除</text>
+	</string>
+
+	<string id="legend_ui_take_all">
+		<text>$$ACTION_actormenu_action$$ 拿走全部</text>
+	</string>
+
+	<string id="legend_ui_ammo_next">
+		<text>$$ACTION_wpn_next$$ 弹药类型</text>
+	</string>
+
+	<string id="legend_ui_tasks_map_zoom">
+		<text>$$ACTION_pda_tasks_map_zoom_out$$/$$ACTION_pda_tasks_map_zoom_in$$ 缩放比例</text>
+	</string>
+
+	<string id="legend_ui_talk_log">
+		<text>$$ICON$controller$rsv$$ 日志</text>
+	</string>
+
+	<string id="legend_ui_pda_scroll_info">
+		<text>$$ICON$controller$rsv$$ 滚动</text>
+	</string>
+
+	<string id="legend_ui_trade">
+		<text>$$ACTION_actormenu_action$$ 交易</text>
+	</string>
+
+	<string id="ui_mmenu_new_savegame">
+		<text>新存档</text>
+	</string>
+
+	<string id="legend_ui_options_save">
+		<text>$$ACTION_UI_ACCEPT$$ 接受</text>
+	</string>
+
+	<string id="legend_ui_selector">
+		<text>$$ICON$controller$ls$$/$$ICON$controller$dpad$$ 选择器</text>
+	</string>
+
+	<string id="legend_ui_fire_mode">
+		<text>$$ACTION_wpn_firemode_next$$ 射速</text>
+	</string>
+
+	<string id="legend_ui_tasks_show_on_map">
+		<text>$$ACTION_pda_tasks_show_on_map$$ 在地图显示</text>
+	</string>
+
+	<string id="st_upgrade">
+		<text>升级</text>
+	</string>
+
+	<string id="legend_ui_wheelmenu_select">
+		<text>$$ACTION_WHEELMENU_SELECT$$ 选择区域</text>
+	</string>
+
+	<string id="st_move_to_cart_all">
+		<text>选择全部</text>
+	</string>
+
+	<string id="legend_ui_mmenu_select_difficulty">
+		<text>$$ACTION_UI_ACCEPT$$ 选择难度</text>
+	</string>
+
+	<string id="st_remove_from_cart">
+		<text>移除</text>
+	</string>
+
+	<string id="st_move_to_offer_all">
+		<text>提供全部</text>
+	</string>
+
+	<string id="legend_ui_night_vision">
+		<text>$$ACTION_NIGHT_VISION$$ 夜视</text>
+	</string>
+
+	<string id="legend_ui_talk_replies">
+		<text>$$ICON$controller$lsv$$/$$ICON$controller$dpadv$$ 选择</text>
+	</string>
+
+	<string id="legend_ui_drop_weapon">
+		<text>$$ACTION_DROP$$ 丢下武器</text>
+	</string>
+
+	<string id="st_move_to_bag_all">
+		<text>全部移至背包</text>
+	</string>
+
+	<string id="legend_ui_navigation">
+		<text>$$ICON$controller$ls$$/$$ICON$controller$dpad$$ 导航</text>
+	</string>
+
+	<string id="legend_ui_back">
+		<text>$$ACTION_UI_BACK$$ 返回</text>
+	</string>
+
+	<string id="legend_ui_mmenu_select">
+		<text>$$ACTION_UI_ACCEPT$$ 选择菜单项</text>
+	</string>
+
+	<string id="legend_ui_tasks_track_on_map">
+		<text>$$ACTION_pda_tasks_track_on_map$$ 追踪</text>
+	</string>
+
+	<string id="st_remove_from_cart_all">
+		<text>移除全部</text>
+	</string>
+
+	<string id="legend_ui_propbox_select">
+		<text>$$ACTION_UI_ACCEPT$$ 选择</text>
+	</string>
+
+	<string id="ui_mm_vertical_sense">
+		<text>垂直灵敏度</text>
+	</string>
+
+	<string id="legend_ui_sign_back_in">
+		<text>$$ACTION_UI_ACCEPT$$ 重新登录</text>
+	</string>
+
+	<string id="st_move_to_dead_body_all">
+		<text>揭露全部</text>
+	</string>
+
+	<string id="legend_ui_savegame_delete">
+		<text>$$ACTION_UI_ACTION_1$$ 删除</text>
+	</string>
+
+	<string id="st_move_to_offer">
+		<text>提供</text>
+	</string>
+
+	<string id="legend_ui_tabs">
+		<text>$$ACTION_UI_TAB_LEFT$$/$$ACTION_UI_TAB_RIGHT$$ 选项卡</text>
+	</string>
+
+	<string id="legend_ui_tasks_map_show_me">
+		<text>$$ACTION_pda_tasks_map_show_me$$ 当前位置</text>
+	</string>
+
+	<string id="legend_ui_savegame_load">
+		<text>$$ACTION_UI_ACCEPT$$ 加载</text>
+	</string>
+
+	<string id="ui_mm_horizontal_sense">
+		<text>水平灵敏度</text>
+	</string>
+
+	<string id="legend_ui_title_screen">
+		<text>$$ACTION_UI_BACK$$ 标题画面</text>
+	</string>
+
+	<string id="legend_ui_scroll_info">
+		<text>$$ICON$controller$lt$$/$$ICON$controller$rt$$ 滚动信息</text>
+	</string>
+
+	<string id="legend_ui_options_tune_item">
+		<text>$$ICON$controller$lsh$$/$$ICON$controller$dpadh$$ 调整</text>
+	</string>
+
+	<string id="legend_ui_navigation_v">
+		<text>$$ICON$controller$lsv$$/$$ICON$controller$dpadv$$ 导航</text>
+	</string>
+
+	<string id="legend_ui_talk_reply">
+		<text>$$ACTION_UI_ACCEPT$$ 谈话</text>
+	</string>
+
+	<string id="ui_mmenu_no_savegames">
+		<text>没有存档</text>
+	</string>
+
+	<string id="legend_ui_savegame_save">
+		<text>$$ACTION_UI_ACCEPT$$ 保存</text>
+	</string>
+
+	<string id="legend_ui_wpn_func">
+		<text>$$ACTION_wpn_func$$ 额外武器</text>
+	</string>
+
+	<string id="legend_ui_numpad_press">
+		<text>$$ACTION_UI_ACCEPT$$ 按下按钮</text>
+	</string>
+
+	<string id="legend_ui_pda_log_to_start">
+		<text>$$ACTION_pda_log_to_start$$ 开头</text>
+	</string>
+
+	<string id="legend_ui_pda_log_to_end">
+		<text>$$ACTION_pda_log_to_end$$ 末尾</text>
+	</string>
+
+	<string id="legend_ui_pda_log_date_prev">
+		<text>$$ACTION_pda_log_date_prev$$ 上一日期</text>
+	</string>
+
+	<string id="legend_ui_pda_log_date_next">
+		<text>$$ACTION_pda_log_date_next$$ 下一日期</text>
+	</string>
+
+	<string id="legend_ui_pda_log_show_news">
+		<text>$$ACTION_pda_log_show_news$$ 切换消息</text>
+	</string>
+
+	<string id="legend_ui_pda_log_show_dialogs">
+		<text>$$ACTION_pda_log_show_dialogs$$ 切换对话</text>
+	</string>
+
+	<string id="legend_ui_tasks_map_move">
+		<text>$$ICON$controller$rs$$ 移动光标</text>
+	</string>
+
+	<string id="legend_ui_options_toggle">
+		<text>$$ACTION_UI_ACCEPT$$ 切换</text>
+	</string>
+
+	<string id="legend_ui_advanced">
+		<text>$$ACTION_UI_ACTION_2$$ 高级视频选项</text>
+	</string>
+
+	<string id="legend_ui_basic">
+		<text>$$ACTION_UI_ACTION_2$$ 基本视频选项</text>
+	</string>
+
+	<string id="legend_ui_upgrade">
+		<text>$$ACTION_UI_ACCEPT$$ 升级</text>
+	</string>
+
+	<string id="ui_mm_ads_sens">
+		<text>瞄准灵敏度</text>
+	</string>
+
+	<string id="ui_mm_ads_scope_sens">
+		<text>开镜瞄准灵敏度</text>
+	</string>
+
+	<string id="ui_mm_shoot_sens">
+		<text>后坐力控制</text>
+	</string>
+
+	<string id="ui_elua_licence0_type">
+	<text>__HEADER__</text>
+</string>
+	<string id="ui_elua_licence0">
+		<text>《潜行者：普里皮亚季的召唤》增强版 – 最终用户许可协议</text>
+	</string>
+	<string id="ui_elua_licence1_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence1">
+		<text>最近更新：2025年5月28日</text>
+	</string>
+	<string id="ui_elua_licence2">
+		<text>您可以打印本《最终用户许可协议》的任何部分，以供记录和后续参阅之用。</text>
+	</string>
+	<string id="ui_elua_licence3_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence3">
+		<text>1. 关于本协议</text>
+	</string>
+	<string id="ui_elua_licence4">
+		<text>1.1. 本《最终用户许可协议》（以下简称“协议”）是一份具有法律约束力的合同，规定了GSC Game World Global Ltd（以下简称“GSC”或“我们”）与您之间的关系。GSC注册地址为：Leontiou A, 159, MARYVONNE BUILDING, Floor 4 & 5, Office 402, 3022, Limassol, Cyprus。</text>
+	</string>
+	<string id="ui_elua_licence5">
+		<text>本协议涵盖了我们的游戏《潜行者：普里皮亚季的召唤》增强版（以下简称《潜行者》或“游戏”），适用于以任何方式购买/获取的游戏版本及内容，包括但不限于游戏密钥/游戏码。</text>
+	</string>
+	<string id="ui_elua_licence6">
+		<text>1.2. 一旦您下载、安装或实际使用《潜行者》（以最早发生的事件为准），本协议就对您和我们具有约束力。如果您不同意，请勿下载、安装或使用本游戏。</text>
+	</string>
+	<string id="ui_elua_licence7">
+		<text>1.3. 以下文件是本协议的必要组成部分，是接受、下载、安装或使用本游戏的强制性要求：(a)《粉丝内容创作指南》。(https://www.gsc-game.com/guidelines) –GSC始终欢迎各位玩家以我们的游戏世界为基础创作粉丝内容，此文件解释了您在创作此类内容时应遵守的规定；(b)《GSC隐私政策》。(www.gsc-game.com/privacy_policy) – 此文件详细说明了GSC将如何收集、使用和保护您的个人数据。上述文件是本协议的一部分，并且可能会不时更新，统称为“条款”。此外，根据游戏发布平台的要求，您可能还需要接受和遵守该平台的条款和条件。</text>
+	</string>
+	<string id="ui_elua_licence8_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence8">
+		<text>2. 关于健康、年龄、内容的警告和限制</text>
+	</string>
+	<string id="ui_elua_licence9">
+		<text>2.1. 光敏性/癫痫警告。极小部分人在看到特定视觉图像（包括但不限于光线图案或快速闪烁的光效）时可能会出现癫痫发作或昏厥的症状。如果您在游戏过程中出现以下症状，请立即停止游玩，并在咨询医生后再决定是否继续游玩：昏厥、癫痫发作、头晕、视觉改变、眼部或肌肉抽搐、手臂或腿部抽搐或颤抖、意识丧失、方向感缺失、精神错乱、出现任何不自主的动作或抽搐。</text>
+	</string>
+	<string id="ui_elua_licence10">
+		<text>2.2.《潜行者》已经过游戏年龄评级（例如，PEGI、ESRB），存在最低游戏年龄限制。该年龄限制具体取决于您所在的地区，并将在您购买《潜行者》时显示。只有当您的年龄超过规定的最低年龄时，您才可以游玩《潜行者》。</text>
+	</string>
+	<string id="ui_elua_licence11">
+		<text>如果您已达到或超过最低年龄，并且属于以下类别：</text>
+	</string>
+	<string id="ui_elua_licence12">
+		<text>i. 年满或超过18周岁（或您所在司法管辖区的法定成年年龄），则您可以在接受本协议的情况下自由使用本游戏；</text>
+	</string>
+	<string id="ui_elua_licence13">
+		<text>ii. 如果您的年龄介于17至18周岁（或您所在司法管辖区的法定成年年龄），则您的父母或监护人必须同意代您审查并接受本协议（因为部分司法管辖区限制未满一定年龄的个人签订与本协议类似的具有法律约束力的合同）。此外，他们有责任监管您对《潜行者》的使用；</text>
+	</string>
+	<string id="ui_elua_licence14">
+		<text>iii. 如果您未满17周岁或您所在司法管辖区规定的最低游戏年龄，则您不得下载、游玩或以其他方式使用《潜行者》。</text>
+	</string>
+	<string id="ui_elua_licence15">
+		<text>2.3.《潜行者》包含暴力、言语虐待、性、吸毒等内容，可能会令某些人感到不适。如果您对这些内容较为敏感，或者认为这些内容可能会对您产生诱导，请认真考虑这些因素后再开始游玩本游戏。</text>
+	</string>
+	<string id="ui_elua_licence16_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence16">
+		<text>3. 关于使用《潜行者》</text>
+	</string>
+	<string id="ui_elua_licence17">
+		<text>3.1. GSC向您授予有限的、可撤销、非独占、不可转让且不可分配的个人许可，用于在您获得GSC明确授权和用于购买本游戏的个人计算机、游戏主机和/或其他设备/平台上展示、查看、下载、安装、游玩和使用《潜行者》（包含模组内容，如适用）。此许可仅供您个人使用，不会向您提供任何形式的《潜行者》的所有权。您无权向任何第三者转授、出售、转让、赠送或以其他方式提供《潜行者》，或以商业方式使用《潜行者》。</text>
+	</string>
+	<string id="ui_elua_licence18_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence18">
+		<text>4. 系统配置最低要求及持续监控</text>
+	</string>
+	<string id="ui_elua_licence19">
+		<text>4.1.《潜行者》对系统配置有最低要求（具体取决于您的设备/系统/平台），您可以在购买游戏之前在《潜行者》网页上查看这些要求。在购买游戏之前，请务必确保您满足这些系统要求。</text>
+	</string>
+	<string id="ui_elua_licence20">
+		<text>4.2. 为了改善您的游戏体验，预防本协议禁止的行为，保护《潜行者》的完整性，以及在必要时强制执行本协议，我们可能会部署特定的软件，并在您使用《潜行者》期间在您系统或相关设备/外围设备的后台运行该软件。大多数此类软件属于可选项目，您可以允许或禁止我们部署这些软件。如果我们需要使用任何强制性软件工具，我们会事先通知您（通过游戏内方式或与《潜行者》相关的其他资源）。如需有关此类软件工具的其他信息，请参阅我们的隐私政策。</text>
+	</string>
+	<string id="ui_elua_licence21_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence21">
+		<text>5. 补丁、更新和更改</text>
+	</string>
+	<string id="ui_elua_licence22">
+		<text>5.1. 我们在“现有”和“可用”的基础上提供《潜行者》，这意味着游戏可能会包含错误和错误代码，这些问题可能会不时导致游戏崩溃。GSC已尽力避免这种情况，但没有任何软件是完美无暇的。游戏支持未必随时可用，并且可能会在某个时间点中断。</text>
+	</string>
+	<string id="ui_elua_licence23">
+		<text>5.2. GSC保留在今后对《潜行者》进行修复、更新或做出任何更改（添加或删除功能，调试软件错误或调整游戏平衡性）的权利（但没有这项义务）。此类补丁或更改将通过强制更新和/或自动更新进行部署。如果您未安装此类更新，则有可能导致过期版本在将来无法使用。</text>
+	</string>
+	<string id="ui_elua_licence24_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence24">
+		<text>6. 知识产权</text>
+	</string>
+	<string id="ui_elua_licence25">
+		<text>6.1.《潜行者》及其所有结构要素，包括但不限于其视觉元素、角色、情节、美工、动画、设计、素材、音乐、音效、对话、图像、计算机代码、用户界面、视觉和操作风格、游戏机制、玩法、视听元素、文本内容、布局、数据库、数据和所有其他材料，以及与之相关的任何知识产权（如下定义）和所有其他法律权利及与之相关的利用权，均属于GSC拥有的权利或者我们经第三方合法许可获得的权利。GSC保留关于《潜行者》的一切权利，除非本协议另有明确说明。您无权使用或利用《潜行者》任何方面的资源，除非本协议另有规定且此类行为遵守我们的《粉丝内容创作准则》。《潜行者》及其知识产权在全球范围内受到版权、商标和其他知识产权法律的保护。</text>
+	</string>
+	<string id="ui_elua_licence26">
+		<text>“知识产权”系指任何及所有的版权、商标、服务标志、徽标、商业外观、商誉、装饰、品牌名称、企业名或域名、设计权、装饰权、数据库权、角色权、专利、发明权、专有技术、商业秘密和机密信息、计算机软件权（包括源代码和目标代码）、道德权利、著作权、公开发表权、表演权、同步权、机械权、出版权、出租权、出借权、传输权以及其他现在或将来可能存在于世界各地的类似或具有相应性质的知识产权和利用权，无论是否已注册或可注册，包括所有已获批的申请，以及与前述任一项有关的所有注册、分割、延续、再发行、续展、延期、恢复和归还申请。</text>
+	</string>
+	<string id="ui_elua_licence27">
+		<text>在本协议终止后，本节规定依然有效。</text>
+	</string>
+	<string id="ui_elua_licence28_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence28">
+		<text>7. 使用条款</text>
+	</string>
+	<string id="ui_elua_licence29">
+		<text>7.1. 您未被授予《潜行者》的商业使用许可，只拥有个人使用许可，除非出于特定原因在本协议的任何部分中另有说明。</text>
+	</string>
+	<string id="ui_elua_licence30">
+		<text>7.2. 本协议明确禁止您复制、租赁、买卖、出借、分享、赠予、出租、转授、转让、分发、发布或公开展示《潜行者》或您在本协议下的拥有任何权利，除非在本协议中另有明确的授权说明。</text>
+	</string>
+	<string id="ui_elua_licence31">
+		<text>7.3. 本协议明确禁止您创建、使用、许可使用、转授、提供和/或分发可能应用于《潜行者》的作弊软件。作弊软件包括漏洞利用、自动化软件、机器人、黑客、爬虫、间谍软件、脚本、训练器、提取工具，或其他可能以未经GSC许可的方式与《潜行者》交互或对其产生影响的软件，包括在未经授权的情况下读取《潜行者》用于存储信息的内存区域以收集信息的第三方程序。</text>
+	</string>
+	<string id="ui_elua_licence32">
+		<text>7.4. 本协议禁止您修改、合并、分发、翻译或者尝试获取或使用《潜行者》的源代码，或者反编译或反汇编《潜行者》，或对其进行逆向工程，除非您拥有适用法律的特别许可。</text>
+	</string>
+	<string id="ui_elua_licence33">
+		<text>7.5. 本协议禁止您中断或干扰GSC的客户支持或技术支持服务，或者冒充其工作人员。</text>
+	</string>
+	<string id="ui_elua_licence34">
+		<text>7.6. 本协议禁止您从《潜行者》拦截、挖掘或以其他方式收集个人或任何机密数据或信息。</text>
+	</string>
+	<string id="ui_elua_licence35">
+		<text>7.7. 本协议禁止您通过隧道技术、代码注入或插入、拒绝服务、修改或更改软件，借助协议仿真将任何其他类似软件与我们的软件一起使用，或者通过创建或使用私人服务器或与GSC或本游戏相关的任何类似服务，来恶意干扰、破坏或访问我们或第三方网络软件或服务器的受限区域。</text>
+	</string>
+	<string id="ui_elua_licence36">
+		<text>7.8. 本协议禁止您执行任何可能侵犯GSC的版权、商标、专利、商业秘密、隐私权、宣传权或其他权利的操作。</text>
+	</string>
+	<string id="ui_elua_licence37">
+		<text>7.9. 本协议禁止您上传包含任何恶意代码的文件，包括病毒、间谍软件、特洛伊木马、蠕虫、定时炸弹、故意损坏的数据，以及任何其他包含恶意代码或以任何方式损害或干扰《潜行者》的文件。</text>
+	</string>
+	<string id="ui_elua_licence38">
+		<text>7.10. 本协议禁止您以可能会被视为种族主义、骚扰、排外、性别歧视、歧视、辱骂、诽谤或以其他形式冒犯他人或违法的方式，创建任何内容或使用《潜行者》。</text>
+	</string>
+	<string id="ui_elua_licence39">
+		<text>7.11. 本协议禁止您删除游戏上的任何专有声明或标签。</text>
+	</string>
+	<string id="ui_elua_licence40">
+		<text>7.12. 在使用《潜行者》时，您必须遵守所有适用的法律和法规。</text>
+	</string>
+	<string id="ui_elua_licence41">
+		<text>在本协议终止后，本节规定依然有效。</text>
+	</string>
+	<string id="ui_elua_licence42_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence42">
+		<text>8. 粉丝内容与模组</text>
+	</string>
+	<string id="ui_elua_licence43">
+		<text>8.1. “模组”一词指用户生成的内容及/或对游戏一个或多个组件的修改。这些修改旨在与游戏一起使用，从而带来定制化或变化的游戏体验，与GSC提供的原始版本有所不同。不同用户可能会从任一模组中获得不同的体验。</text>
+	</string>
+	<string id="ui_elua_licence44">
+		<text>8.2. 在适用法律允许的最大范围内，GSC对您或任何第三方上传、分享或传播的任何模组概不承担任何责任。尽管GSC保留监控、修改或移除其自行认定违反本条款的模组的权利（但并无义务）——例如违法、欺诈、误导性、攻击性、淫秽、威胁、诽谤、侵犯隐私、侵犯知识产权或包含病毒或其他恶意代码的内容——但GSC对于移除该类模组，未成功或未能及时移除该类模组不承担任何责任。</text>
+	</string>
+	<string id="ui_elua_licence45">
+		<text>8.3. 模组由第三方提供，包括独立于GSC的个人或实体（“第三方服务”）。GSC不对任何第三方服务承担监管责任，也不对其行为承担任何责任，包括但不限于第三方如何收集、使用或存储您的信息。您在使用模组及相关第三方服务时，可能会受到该第三方设定的额外费用、条款和/或政策，包括超出GSC控制范围的隐私政策的约束。使用任何模组或集成的第三方服务即表示您同意遵守适用的第三方服务条款、条件及政策。</text>
+	</string>
+	<string id="ui_elua_licence46">
+		<text>8.4. 您理解并同意，使用模组所产生的风险将完全由您自行承担。GSC不对任何模组或第三方服务的内容、准确性、完整性、可用性、时效性、有效性、版权合规性、合法性、适用性、质量，或其他任何方面承担评估或核实的责任。GSC既不对任何第三方服务提供担保，也不予以认可。此外，您同意GSC不对您因使用此类第三方服务而造成的任何问题、损失或损害承担责任。</text>
+	</string>
+	<string id="ui_elua_licence47">
+		<text>8.5. 版权侵权</text>
+	</string>
+	<string id="ui_elua_licence48">
+		<text>若您认为某个模组侵犯了您的版权，请向我们提供以下信息：</text>
+	</string>
+	<string id="ui_elua_licence49">
+		<text>a. 您的姓名、地址、电子邮箱；</text>
+	</string>
+	<string id="ui_elua_licence50">
+		<text>b. 您所称被侵权的版权作品的描述；</text>
+	</string>
+	<string id="ui_elua_licence51">
+		<text>c. 涉嫌侵权内容所在的确切网址，或每一处相关位置的描述；</text>
+	</string>
+	<string id="ui_elua_licence52">
+		<text>d. 一份由您出具的声明，表明您确信该擅自使用的行为未经您本人、您的代理人或法律授权；</text>
+	</string>
+	<string id="ui_elua_licence53">
+		<text>e. 您本人或经您授权代表您行事之人的电子签名或实体签名；以及</text>
+	</string>
+	<string id="ui_elua_licence54">
+		<text>f. 您的声明，确认您在通告中提供的信息准确无误，且在作伪证需承担法律责任的前提下，确认您已被授权代表声称专有权利被侵害的权利人行事。</text>
+	</string>
+	<string id="ui_elua_licence55">
+		<text>上述信息应提交至：</text>
+	</string>
+	<string id="ui_elua_licence56">
+		<text>注意：模组版权侵权</text>
+	</string>
+	<string id="ui_elua_licence57">
+		<text>邮箱：legal@gsc-game.com</text>
+	</string>
+	<string id="ui_elua_licence58">
+		<text>如果我们收到某模组侵犯第三方知识产权的通知，我们可能会根据请求移除该模组。</text>
+	</string>
+	<string id="ui_elua_licence59">
+		<text>请参阅我们的《粉丝内容创作指南》(https://www.gsc-game.com/guidelines)，了解您可以在何种程度上以《潜行者》为基础创作何种粉丝内容。</text>
+	</string>
+	<string id="ui_elua_licence60_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence60">
+		<text>9. 反馈和崩溃报告</text>
+	</string>
+	<string id="ui_elua_licence61">
+		<text>9.1. GSC重视社区反馈，如果您想提供建设性的意见，欢迎随时通过support@gsc-game.com/向我们发送消息。如果您的建议以任何方式被纳入游戏中，请恕我们无法提供任何（物质或其他方面的）报酬。</text>
+	</string>
+	<string id="ui_elua_licence62">
+		<text>9.2. 如果您的游戏会话因任何原因崩溃，GSC可能会要求您向我们提供崩溃日志，以便我们改进源代码，为您创造更愉快的游戏体验，并减少崩溃情况的发生。提供崩溃报告并非强制性要求，在某些情况下，该报告可能包含某些个人信息（您可以参阅我们的隐私政策，了解可以同此类崩溃报告一起传输的数据类型）。</text>
+	</string>
+	<string id="ui_elua_licence63_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence63">
+		<text>10. 第三方内容</text>
+	</string>
+	<string id="ui_elua_licence64">
+		<text>10.1. 我们可能会在《潜行者》中向您提供指向外部网站或第三方来源内容的超链接。此外，您可以选择通过各种设备、系统或平台访问《潜行者》。您可以自行决定是否使用这些设备、系统或平台，但我们无法保证它们的功能、质量或者收费情况。另外，不同设备、系统或平台的法律条款和条件可能会有所不同，我们强烈建议您在使用前查看这些条款和条件。</text>
+	</string>
+	<string id="ui_elua_licence65_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence65">
+		<text>11. 保证和声明</text>
+	</string>
+	<string id="ui_elua_licence66">
+		<text>11.1. GSC保证。GSC保证我们有权签订本协议，并将授予您出于个人娱乐目的使用《潜行者》的许可。</text>
+	</string>
+	<string id="ui_elua_licence67">
+		<text>11.2. 您的声明和保证。您声明并保证您具有完全的权力和能力来签订本协议，并将在所有方面遵守其条款。</text>
+	</string>
+	<string id="ui_elua_licence68_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence68">
+		<text>12. 责任</text>
+	</string>
+	<string id="ui_elua_licence69">
+		<text>12.1. 除非本协议另有明确规定，否则GSC及其附属公司、合作伙伴和许可方不作任何关于《潜行者》的暗示或明示的保证或声明。《潜行者》是在“现有”和“可用”的基础上向您提供，不带有任何明示或暗示的保证或声明，对于您因使用或无法使用本游戏而造成的任何损失、损害或伤害，我们概不负责。您需自行承担使用《潜行者》的风险。</text>
+	</string>
+	<string id="ui_elua_licence70">
+		<text>在适用法律允许的最大范围内，我们不作任何可能适用于《潜行者》的明示或暗示的保证，包括：所有权、无侵权、适销性、质量令人满意、适合特定用途的暗示性保证；任何可能在交易过程、履行过程或贸易使用过程中产生的保证；任何关于无病毒、无错误、无缺陷的保证；和/或对《潜行者》所包含的任何内容或信息的准确性、合法性、可靠性或质量的保证。</text>
+	</string>
+	<string id="ui_elua_licence71">
+		<text>GSC明确表示：不保证《潜行者》不会发生中断或不会发生错误，不保证纠正游戏缺陷，亦不保证游戏中不会出现病毒或其他有害组件。</text>
+	</string>
+	<string id="ui_elua_licence72">
+		<text>12.2. 在适用法律允许的最大范围内，GSC及其附属公司、合作伙伴和许可方在任何情况下，均不对任何利润损失、收费或费用、数据损失、任何信息损坏或损失、任何商业机会损失，或者任何特殊的、间接的、惩罚性的、惩戒性的或后果性的损失、损害或任何类型的中断承担责任，无论这是否由违约、侵权行为（包括疏忽、违反法定义务、违反合同、违反保证或严格责任）、虚假陈述、赔偿或其他原因导致，无论相关方是否已被告知发生此类损害的可能性。</text>
+	</string>
+	<string id="ui_elua_licence73">
+		<text>在适用法律允许的最大范围内，在任何情况下，就《潜行者》或本协议而言，GSC及其附属公司、合作伙伴和许可方对您负有的全部责任不会超过您就索赔事项已向我们实际支付的金额（如有）。上述内容是您可通过本协议获得的唯一专有补偿。</text>
+	</string>
+	<string id="ui_elua_licence74">
+		<text>12.3. 您同意根据需要保护和赔偿GSC及其附属公司、许可方和合作伙伴（使其免受）与以下情况有关的所有损害、责任、索赔和费用，包括法律费用：</text>
+	</string>
+	<string id="ui_elua_licence75_type">
+		<text>__OPTION__</text>
+	</string>
+	<string id="ui_elua_licence75">
+		<text>您被指控违反或实际违反本协议；</text>
+	</string>
+	<string id="ui_elua_licence76_type">
+		<text>__OPTION__</text>
+	</string>
+	<string id="ui_elua_licence76">
+		<text>您或任何人代表/代替您（有意或无意地）使用《潜行者》；以及</text>
+	</string>
+	<string id="ui_elua_licence77_type">
+		<text>__OPTION__</text>
+	</string>
+	<string id="ui_elua_licence77">
+		<text>侵犯GSC及其附属公司、许可方和合作伙伴的知识产权。</text>
+	</string>
+	<string id="ui_elua_licence78">
+		<text>如有针对我们提出的索赔，那么您应充分配合GSC，同时，我们有权接管并进行抗辩。未经我们事先书面同意，您不得擅自解决所有或部分此类索赔。</text>
+	</string>
+	<string id="ui_elua_licence79">
+		<text>12.4. 接受本协议即表明您确认您可能遭受的任何损失、损害或伤害是可以弥补的，且禁令救济或其他衡平法救济之外的补救是充足且充分的。您在此明确同意，您无权向GSC及其附属公司、许可方和合作伙伴寻求禁令救济或其他衡平法救济。</text>
+	</string>
+	<string id="ui_elua_licence80">
+		<text>在本协议终止后，本节规定依然有效。</text>
+	</string>
+	<string id="ui_elua_licence81_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence81">
+		<text>13. 终止</text>
+	</string>
+	<string id="ui_elua_licence82">
+		<text>13.1. 您有权随时通过停用《潜行者》来终止本协议。协议终止不会影响我们或您已经存在的权利或义务。</text>
+	</string>
+	<string id="ui_elua_licence83">
+		<text>13.2. 如果您严重违反本协议的任何条款，GSC可能会暂停或终止您访问《潜行者》和本协议的权限。如果我们决定根据本条规定暂停或终止您访问《潜行者》和本协议的权限，我们将不对您承担任何义务或责任。</text>
+	</string>
+	<string id="ui_elua_licence84">
+		<text>13.3. 如果GSC因任何原因决定永久停止提供《潜行者》的访问权限（全面停止提供或仅在特定平台停止提供），则GSC将通过合理可行的方式，至少提前九十(90)天通知您。在这种情况下停止服务时，我们无需对您承担任何义务和责任。</text>
+	</string>
+	<string id="ui_elua_licence85_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence85">
+		<text>14. 不可抗力</text>
+	</string>
+	<string id="ui_elua_licence86">
+		<text>对于因不可抗力导致的全部或部分履约、不履约或延迟履约，任一方均不对另一方承担责任。</text>
+	</string>
+	<string id="ui_elua_licence87">
+		<text>“不可抗力”系指阻止一方履行其任何或全部义务的任何原因，由该方合理控制范围以外的行为、事件、疏忽或事故造成，包括但不限于罢工、停工或其他劳资纠纷、核事故或天灾、战争或恐怖主义活动、暴动、骚乱、恶意破坏、遵从任何法律或政府命令/规则/法规或指示、任何电力或互联网连接供应商的员工开展劳工行动、技术设施故障、黑客攻击、拒绝服务或其他IT攻击、部署IT病毒恶意软件或类似技术、流行病（例如新冠肺炎）、火灾、洪水、风暴或供应商/分包商违约。</text>
+	</string>
+	<string id="ui_elua_licence88_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence88">
+		<text>15. 适用法律和争议解决方法</text>
+	</string>
+	<string id="ui_elua_licence89">
+		<text>15.1. 本协议以及由此产生的任何问题将根据塞浦路斯法律进行管辖和解释，不包括其法律选择和/或有关法律冲突的法规。塞浦路斯应作为与本协议和/或游戏有关的或由本协议和/或游戏引起的所有诉讼的唯一审判地，并且您同意接受塞浦路斯法院对任何此类索赔或诉讼的管辖。根据本协议赢得诉讼的一方有权获得对其法律费用和开支的补偿。</text>
+	</string>
+	<string id="ui_elua_licence90">
+		<text>15.2. 如果您对我们有任何意见，请通过support@gsc-game.com联系我们，我们相信这些分歧能够迅速得到解决。</text>
+	</string>
+	<string id="ui_elua_licence91">
+		<text>15.3. GSC和您均同意在没有第三方介入的情况下，以诚信的态度采取合理的措施来解决我们之间的任何争议。初始争议解决期限为三十(30)天，如果出现不可预知的情况，则该期限可延长至六十(60)天。</text>
+	</string>
+	<string id="ui_elua_licence92">
+		<text>如果您向GSC提起诉讼，您必须将纸质文件寄送至“Legal Team, GSC Game World Global Ltd, Leontiou A, 159, MARYVONNE BUILDING, Floor 4 & 5, Office 402, 3022, Limassol, Cyprus”，并将该文件的电子版发送到legal@gsc-game.com</text>
+	</string>
+	<string id="ui_elua_licence93">
+		<text>15.4. 集体诉讼弃权。在适用法律允许的最大范围内，您同意在任何情况下均不提起或参与集体诉讼或代表人诉讼、私人检察官诉讼或集体仲裁。这代表在法律允许的最大范围内：</text>
+	</string>
+	<string id="ui_elua_licence94">
+		<text>i. 不得将任何仲裁与任何其他仲裁合并；</text>
+	</string>
+	<string id="ui_elua_licence95">
+		<text>ii. 无权在集体诉讼的基础上对任何争议进行仲裁，无权使用集体诉讼程序；以及</text>
+	</string>
+	<string id="ui_elua_licence96">
+		<text>iii. 无权以所谓的代表身份，代表公众或其他人提出争议。</text>
+	</string>
+	<string id="ui_elua_licence97">
+		<text>如果本节中关于不提起或不参与集体诉讼/代表人诉讼、私人检察官诉讼或集体仲裁的协议被认定为非法或不可执行，则您和我们同意其内容不可分割：本节的所有内容将被视为不可执行，而索赔和争议将由法庭解决。</text>
+	</string>
+	<string id="ui_elua_licence98">
+		<text>在本协议终止后，本节规定依然有效。</text>
+	</string>
+	<string id="ui_elua_licence99">
+		<text>15.5. 如果您居住在欧盟成员国，则您可能有权通过欧盟委员会运营的在线争议解决平台提交投诉，请访问https://ec.europa.eu/consumers/odr/，了解相关详细信息。</text>
+	</string>
+	<string id="ui_elua_licence100_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence100">
+		<text>16. 一般条款</text>
+	</string>
+	<string id="ui_elua_licence101">
+		<text>16.1. 如果本协议的任何条款在法律上无法执行或变得无法执行，本协议的其余条款仍将完全有效。GSC可自行决定将该类不可执行的条款替换为与该类条款含义最接近的条款。</text>
+	</string>
+	<string id="ui_elua_licence102">
+		<text>16.2. 本协议仅管辖我们与您之间的关系（反之亦然），不会为任何人创造任何第三方权利，除非另有明确说明。</text>
+	</string>
+	<string id="ui_elua_licence103">
+		<text>16.3.《联合国国际货物销售合同公约》不适用于《潜行者》或本协议。</text>
+	</string>
+	<string id="ui_elua_licence104">
+		<text>16.4. GSC有权在任何时候自行决定将本协议分配、分包或转让给第三方或者本集团的其他成员。</text>
+	</string>
+	<string id="ui_elua_licence105">
+		<text>16.5. 除非本协议另有明确规定，否则GSC未能或延迟行使本协议或法律规定的任何权利/补救措施不构成对该权利/补救措施或任何其他权利/补救措施的弃权，也不会排除或限制GSC进一步行使该权利/补救措施或任何其他权利/补救措施。GSC单独或部分行使此类权利/补救措施不会排除或限制其进一步行使该权利/补救措施或任何其他权利/补救措施。</text>
+	</string>
+	<string id="ui_elua_licence106">
+		<text>16.6. 本协议及本协议中提及的其他文件，构成您与我们之间关于《潜行者》的完整协议，并取代之前的任何口头或书面协议。</text>
+	</string>
+	<string id="ui_elua_licence107_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence107">
+		<text>17. 本协议的修订</text>
+	</string>
+	<string id="ui_elua_licence108">
+		<text>17.1. GSC保留自行决定更改本协议的权利。您将在游戏中收到相关通知，或通过其他可用的通信方式收到相关通知。</text>
+	</string>
+	<string id="ui_elua_licence109">
+		<text>17.2. 本协议将在其更新版本推出后立即终止，您将有机会参阅更新版协议。在本协议修改后继续使用和游玩本游戏即代表您接受任何修改后的条款。</text>
+	</string>
+	<string id="ui_elua_licence110">
+		<text>如果您不同意我们对本协议作出的更改，您将无法使用《潜行者》。</text>
+	</string>
+	<string id="ui_elua_licence111">
+		<text>本人在此确认我已阅读并理解本协议中的所有条款和条件。点击“同意”即代表我承认并同意接受本协议所有条款和条件的约束，包括明确同意接受隐私政策和本协议的其他组成部分。</text>
+	</string>
+<string id="ui_accept_eula">
+		<text>接受</text>
+	</string>
+
+	<string id="ui_elua_name">
+		<text>最终用户许可协议</text>
+	</string>
+	<string id="ui_mm_nx64_setlang">
+		<text>选择语言</text>
+	</string>
+
+	<string id="ui_pad_layout_weapon_zoom_in">
+		<text>放大</text>
+	</string>
+
+	<string id="ui_pad_layout_weapon_zoom_out">
+		<text>缩小</text>
+	</string>
+
+</string_table>

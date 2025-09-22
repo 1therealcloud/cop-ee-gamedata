@@ -1,0 +1,117 @@
+<w>
+	<main_dialog ui_scale_y_offset="5">
+		<background x="0" y="0" width="1024" height="768">
+			<auto_static x="0" y="0" width="1024" height="768" stretch="1">
+				<texture>ui\gray_alfa</texture>
+			</auto_static>
+		</background>
+		<dialog x="0" y="0" width="515" height="350" stretch="1">
+			<texture>ui_menu_options_dlg</texture>
+			<frame x="50" y="47" width="445" height="270">
+				<texture>ui_tablist_textbox</texture>		
+			</frame>
+			<cap_title x="0" y="7" width="350" height="4" stretch="1">
+				<text r="170" g="170" b="170" font="graffiti32" align="c">ui_terms_of_use</text>
+			</cap_title>
+				
+			<scroll_v x="56" y="52" width="438" height="460" right_ident="0" left_ident="0" top_indent="0" bottom_indent="0" vert_interval="20" always_show_scroll="0"/>
+
+			
+			<text_header_template x="0" y="0" width="428" height="24" complex_mode="1">
+				<text r="170" g="170" b="170" font="graffiti22" align="l">Text Header</text>
+			</text_header_template>
+			
+			<text_header2_template x="0" y="0" width="428" height="24" complex_mode="1">
+				<text r="170" g="170" b="170" font="graffiti19" align="l">Text Header 2</text>
+			</text_header2_template>
+			
+			<text_template x="0" y="0" width="428" height="24" complex_mode="1">
+				<text r="170" g="170" b="170" font="letterica16" align="l">Text</text>
+			</text_template>
+			
+			<text_point_template  x="0" y="0" width="428" height="24">
+				<point x="20" y="0" width="10" height="10" stretch="1">
+					<texture>ui_radio_d</texture>
+				</point>
+				<text_wrap x="35" y="0" width="393" height="24" complex_mode="1">
+					<text r="170" g="170" b="170" font="letterica16" align="l">Text point</text>
+				</text_wrap>
+			</text_point_template>
+			
+			
+		<btn_accept x="84" y="312" width="158" height="44" stretch="1">
+				<text font="letterica18" align="c" vert_align="t" x="-8" y="0"></text>
+			<texture>ui_button_main02</texture>
+            <text_color>
+                <e r="170" g="170" b="170"/>
+            </text_color>
+			<input_icon x="0" y="11" width="18" height="23" stretch="1" spacing="-3" texture="controller_a"/>
+		</btn_accept>
+		
+		<btn_accept_pc x="84" y="312" width="158" height="44" stretch="1">
+			<text font="letterica18" align="c" vert_align="t"></text>
+			<texture>ui_button_main02</texture>
+            <text_color>
+                <e r="170" g="170" b="170"/>
+            </text_color>
+		</btn_accept_pc>
+		
+		<btn_decline x="284" y="312" width="158" height="44" stretch="1">
+				<text font="letterica18" align="c" vert_align="t" x="-8" y="0"></text>
+			<texture>ui_button_main02</texture>
+            <text_color>
+                <e r="170" g="170" b="170"/>
+            </text_color>
+			<input_icon x="0" y="11" width="18" height="23" stretch="1" spacing="-3" texture="controller_b"/>
+		</btn_decline>
+		
+		<btn_decline_pc x="284" y="312" width="158" height="44" stretch="1">
+			<text font="letterica18" align="c" vert_align="t"></text>
+			<texture>ui_button_main02</texture>
+            <text_color>
+                <e r="170" g="170" b="170"/>
+            </text_color>
+		</btn_decline_pc>	
+		
+
+		<btn_manage_account x="84" y="212" width="158" height="44" stretch="1">
+				<text font="letterica18" align="c" vert_align="t" x="-8" y="0">t</text>
+			<texture>ui_button_main02</texture>
+            <text_color>
+                <e r="170" g="170" b="170"/>
+            </text_color>
+			<input_icon x="0" y="11" width="18" height="23" stretch="1" spacing="-3" texture="controller_dpadl"/>
+		</btn_manage_account>	
+
+		<btn_privacy_policy x="284" y="212" width="158" height="44" stretch="1">
+				<text font="letterica18" align="c" vert_align="t" x="-8" y="0">t</text>
+			<texture>ui_button_main02</texture>
+            <text_color>
+                <e r="170" g="170" b="170"/>
+            </text_color>
+			<input_icon x="0" y="11" width="18" height="23" stretch="1" spacing="-3" texture="controller_dpadu"/>
+		</btn_privacy_policy>	
+
+		<btn_terms_of_use x="84" y="312" width="158" height="44" stretch="1">
+				<text font="letterica18" align="c" vert_align="t" x="-8" y="0">t</text>
+			<texture>ui_button_main02</texture>
+            <text_color>
+                <e r="170" g="170" b="170"/>
+            </text_color>
+			<input_icon x="0" y="11" width="18" height="23" stretch="1" spacing="-3" texture="controller_dpadr"/>
+		</btn_terms_of_use>	
+
+		<btn_mod_io x="284" y="312" width="158" height="44" stretch="1">
+				<text font="letterica18" align="c" vert_align="t" x="-8" y="0">t</text>
+			<texture>ui_button_main02</texture>
+            <text_color>
+                <e r="170" g="170" b="170"/>
+            </text_color>
+			<input_icon x="0" y="11" width="18" height="23" stretch="1" spacing="-3" texture="controller_dpadd"/>
+		</btn_mod_io>	
+
+		</dialog>
+
+
+	</main_dialog>
+</w>

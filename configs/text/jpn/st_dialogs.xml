@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="about_quests_dialog_bandit_0">
+		<text>聞いてくれ、質問がある…</text>
+	</string>
+	<string id="about_quests_dialog_bandit_1">
+		<text>いいぞ、言ってみろ。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_10">
+		<text>ニンブルについてどう思う？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_101">
+		<text>ニンブルだって？我々は近いうちに、そのウスノロを天国に送ってやる。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_11">
+		<text>オアシスについて何か聞いたか？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_111">
+		<text>そうだな、以前に面白い話を聞いた。ガーベジの兵士たちはオアシスのある場所の噂を始めたが、その噂が本当に信じられるようになった。その後、彼らはその場所へ行き、待ったんだ。さて、何と言えばいいのか？多くのだまされた負け犬たちは、その後すぐにゾーンからいなくなった。そして、いいかな？ひとりだけ後に残った。ヨガと呼ばれる奴だ…。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_112">
+		<text>それは、もしそこに行けば、あんたの問題がすべて解決されるということだ…。簡単にだ。二日酔いや痔疾もよくなるぜ！そこを見つけて、楽しく金儲けをするんだ。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_113">
+		<text>なんで俺がそんなくだらないことを聞かなくてはならないんだ？それは負け犬のつまらん話だ…。本物の男はそんなことは信じない。いいか、あんたは手の中に冷たい飲み物を持って酒場で座っている。そして周りのストーカーはオアシスがどこだか言い争って、騒がしい。また奴らは皆、その位置を知ってると言い張る…。それぞれに理由があって、言うことが皆違うがな。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_12">
+		<text>マグパイと呼ばれるストーカーに会ったことがあるか？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_121">
+		<text>会ったぞ…。奴を一目見て、まったく嫌な男だと思った。ストーカーたちが、奴は完全にクズだと言っているのも聞いた。しかし、奴がどこにいるのかは知らない…。もし奴を追うのなら、自分で探さなくてはならないだろう。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_122">
+		<text>いや…、俺がその名前を聞くのは初めてだ。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_13">
+		<text>誰がパーソナルボックスから物を盗むことができたか、知っているか？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_131">
+		<text>ネズミだな。ヤニフでボスに尋ねた方がいいと思う。彼らはネズミを追い詰めることで知られている。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_14">
+		<text>ここでは、誰に解読をやってもらえるんだ？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_141">
+		<text>うむ、ヤニフのニトロがいいと聞いてる。確か、彼がデューティーで働いてない時に、兵士らは彼にストーカーのPDAを何度か解読させた…。ああ、その頃は良い時代だったぜ…。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_143">
+		<text>チーフ、俺に科学的なことは何もさせないでくれよ。あんたは、その“糞”のためにハッカーを必要してる。俺がブタ箱にいた時、ひとりと会ったが、そいつしか知らない。俺が外に出た時、奴にはまだ5年残っていたがな…。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_15">
+		<text>俺はデューティーのトレーダーのPDAを持っている。それに興味を持つような奴を知らないか？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_151">
+		<text>スカドフスクにアウルと呼ばれるトレーダーがいる。高く買ってくれるので、兵士らは彼にストーカーのPDAを時々売っている。彼は多くの質問をしないし、悪くないぜ。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_152">
+		<text>誰かについてだけな。考えればわかることだ。彼自身の派閥は駄目な奴を生きたまま埋め、他の派閥は騒ぎを起こす。しかし、ザトンのアウルはPDAを本当にわからないように処分する。そのPDAが後でどこに出てくるかは、アウルだけが知っている…。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_16">
+		<text>この辺で、ツールを見つけることができるか？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_165">
+		<text>そう、外科用ツールを探している場合は、病院か救急ステーションの中を見る。建設ツールを必要とする場合は、ジュピターの採石場を調べるんだ。小さなツールなら、古い工場を探せ。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_166">
+		<text>どうして俺が知ってるんだ？俺はストーカーに金を出させるように説得するツールを必要としてない、見てのとおりだ…。ハハッ、気にするな、冗談だよ。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_17">
+		<text>誰がメモリ・モジュールの障害を取り除くことができる？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_171">
+		<text>いい質問だ！つまり、それは俺が専門とするものだ。ハハッ！言葉が出ないのか？普通は技術者か科学者のところに行くんだろうが…、俺がその種のものを扱うとは思ってなかっただろ？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_172">
+		<text>正直に言うが、俺がメモリー・モジュールの障害を取り除いた最後の時は学校でだった。そして、メモリー・モジュールは、なんとフロッピーディスクだった。専門家と話しに行くんだな。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_18">
+		<text>誰がスチール・コンテナを壊すことができる？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_181">
+		<text>スカドフスクから来たカルダンを知ってるか？そう、彼は先日、金梃子でその辺を追い回されてた。俺は、カルダンならその金梃子をより役立つ目的に使用すると思うし、もし必要ならそれを壊せるだろう。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_182">
+		<text>そう、正しいツールでなら、俺でさえそれをできるだろう。しかし、誰がそれと装備をゾーンに持ち込むんだ？技術者を訪ねてみろ。彼らはその種のものに長けている。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_19">
+		<text>俺はスナグと呼ばれるストーカーを捜している。どこで奴を見つけられるか知っているか？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_191">
+		<text>さあ？スカドフスクでサルタンに尋ねてみろ。ボスは普通、カモがどこにいるか知っているぜ。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_193">
+		<text>ああ、俺はその負け犬のことを耳にした。奴はたいていザトンの辺りをうろついている。ここでは見つからない。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_2">
+		<text>墜落したヘリに関して、何かを知っているか？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_20">
+		<text>デューティーの創設者に関する情報に興味がある奴はいないか？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_201">
+		<text>興味を持たない奴は誰もいない！それは危険な情報だ。したがって、最良の策はスカドフスクのアウルを通すことだ。その方法なら、敵を作らずに現金を得られるだろう。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_22">
+		<text>いや、見てない。考えればわかるだろ。デューティーが左側に、フリーダムが右側に、そしてストーカーが後側にいるんだ。あんたは俺に、空から目を離すなと言うのか？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_23">
+		<text>さて、兵士たちはアイアン・フォレストのケーブル上でひとつ揺れているのを見つけたと言った。しかし、あんたはその外でもっと多くを見るだろう…。ま、アノマリーに入り込むか、あるいはポルターガイストに頭を砕かれるだろうがな。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_24">
+		<text>そうだ、何人かが台地の上の墜落を見た。しかし、そこへの道はない…。彼らは、それが非常に不思議だったので、パイロットが爆弾か何かを落としたように思ったと言っていた。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_26">
+		<text>俺は、ヘリが降りるのを聞いた。まっすぐ沼地の中にな。そこの水は毒や化学薬品だったが、その中で勢いよく転がったんだ。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_3">
+		<text>この周りでどこかの部隊を見たか？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_30">
+		<text>誰がザトンとジュピターの間のエリアの地図に興味を持ってるんだ？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_301">
+		<text>パイロットだと俺は思う。彼はその辺りの一番のガイドだ。彼は星を使って方向を知るのではなく、いくつか地図を持てばいいのにな…。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_31">
+		<text>部下たちは、軍の1部隊が南の台地を真っ直ぐ下って傭兵キャンプへ向かったと言っていた。部下たちは連中は追い出しにかかると考え、急いで去った。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_32">
+		<text>俺は、沼地に墜落したヘリの連中を、軍の虫けら共がどのように捕まえようとしたかの話を聞いた。5人の制服の軍が沼の周りで濡れないように飛び回るのを想像してくれ…。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_33">
+		<text>ひとりの奴が俺に、銃声を聞いた時に、ストーカーの埋蔵物を得るために、どのようにストーカーを追ったかを話してくれた。軍が傭兵と戦っていたのを見たそうだ。彼は隠れて銃撃戦の終わるのを待ったが、その時までにストーカーは逃げていた。運があるよなあ？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_34">
+		<text>さて、仲間が俺に、かなり奇妙な場面を目撃したことを話してくれた。上に水車が付いたはしけ舟とそのそばで怒鳴るノア、そしてノアの犬からできるだけ逃げようとする10名の軍人。さて、仲間は大笑いし、ばか騒ぎから去ったんだ。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_35">
+		<text>いや、ここはかなり危険な場所だ、パワーアップした銃などを持った奴でいっぱいだ…。どいつが軍でどれがデューティーか、俺には確認する時間はない。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_4">
+		<text>プリピャチへの行き方を知っているか？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_40">
+		<text>科学者たちを警護するために、誰を雇うことができる？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_403">
+		<text>ハハッ、俺か兵士たちがその仕事をする！彼らが発見されないように、警護してやる！この近くではストーカーとミュータントがそこら中にいるが、俺を信頼しろ！毎週、支払ってくれれば、俺たちはあんたに従う。クリスマス手当を忘れないでくれ！</text>
+	</string>
+	<string id="about_quests_dialog_bandit_41">
+		<text>歩いて行くんだな。ジュピターを越えて、そこで尋ねるんだ。なぜなら、ザトンからプリピャチへ直接行くルートはないという、科学的真実なのさ。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_43">
+		<text>なあ、俺がガイドのように見えるのか？俺の額か何かの上に、「ここで愚かな質問をしてください」というタトゥーが入ってるのか？パイロットに尋ねに行け。その“糞”についての疑問に答えてくれる。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_44">
+		<text>いや…。いったい、そこで俺は何をするんだ？そこを離れるストーカーはいない！</text>
+	</string>
+	<string id="about_quests_dialog_bandit_5">
+		<text>誰かプリピャチに喜んで行こうという暇な奴がいないか、教えてくれないか？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_51">
+		<text>プリピャチは俺たちのような男に合う場所ではない。考えればわかる。ミュータントとアノマリーでいっぱいだ…、ゾーンの他の場所ようにな…、だが、ストーカーと彼らの埋蔵物はない。ストーカーがプリピャチに現われたら、俺たちに叫んでくれ。そうすれば、自然な秩序を維持するためにそこに向かおう。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_57">
+		<text>すまんが、何も思い付かない。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_6">
+		<text>尋常でない銃を見つけた。それに関して何かを知っている奴を知らないか？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_62">
+		<text>さて、技術者に尋ねてみよう。つまり、この武器を知ってるのが彼らのビジネスだろ？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_63">
+		<text>わからない。しかし、スカドフスクから来たストーカーは、カルダンが技術的な天才だろうと信じている。望むなら、彼に話しかけてくれ…。彼は歳とった酔っぱらいだが…。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_7">
+		<text>科学者のために調査をするのに、誰を雇える？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_73">
+		<text>それは簡単だ。俺たちの兵士たちがそれをする。奴らは学校へ行ったりはしなかったが、あんたが望む人間は誰でも捕まえて、そいつらをよく調べる。一度調べたら、すべての奴らに必要なのは良い墓で、それは何も問題ではない！</text>
+	</string>
+	<string id="about_quests_dialog_bandit_8">
+		<text>すごく奇妙なアーティファクトを見つけた。バイヤーを教えてくれないか？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_81">
+		<text>奇妙なアーティファクトだって？見せてくれ…。よく見ることができるように、それを俺に渡してくれ…。ハハ、気にするな、冗談だ。俺があんたなら、それを見せないでしまっておくさ。他の奴らは、ユーモアのセンスを持たないからな。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_83">
+		<text>あんたはこの辺りのアーティファクトを輝かすボールを得たんだ。尊敬するよ。さて、それを見てもらう男は、スカドフスクのビアードだ。彼がゾーンからどのようにアーティファクトを得ているかは知らない。そして、それを問題なく売ることができる。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_9">
+		<text>俺はこの近くでブラッドサッカーの巣を見つけた。我々はこれからどうしたらいい？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_91">
+		<text>えー、何をするって？走って逃げるんだ。それがすることだ！</text>
+	</string>
+	<string id="about_quests_dialog_bandit_98">
+		<text>よし、それはもういい。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_0">
+		<text>聞いてくれ、質問がある…</text>
+	</string>
+	<string id="about_quests_dialog_dolg_1">
+		<text>言ってみな。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_10">
+		<text>ニンブルについてどう思う？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_101">
+		<text>ニンブルだって？奴のことは聞かないなあ。おそらく、別の部隊かどこかにいるのでは？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_11">
+		<text>オアシスについて何か聞いたか？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_111">
+		<text>それはストーカーのお伽噺だ。ストーカーが行うことは、真実ではない“糞”を作ることだ。そうすれば皆が集まり、それを探す！俺がもしあんたなら、それを無視する。それはまるで神話の入口に似ている。それを信じ、そしてやがて願望機が存在すると信じるのさ。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_112">
+		<text>ああ、その場所は傷がひとりでに治り、エネルギーが不思議と補充されるんだろ？俺はあんたのために、それは存在しないというニュースを得たよ。ストーカーは、ゾーンがそれほど危険でないと思わせるものを発明する。しかし、不快な現実では、ゾーンに安全な場所はないということだ。またその現実を、ここではしっかりと把握して保っていなくてはならない。空想家タイプは、ゾーンで長く続きしない。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_113">
+		<text>そこのすべてのアーティファクトに金と同じ重さの価値があり、また足を擦り減らすほど、銀の大皿が与えられるんだ…。もちろん、俺は冗談を言っている。俺がそれを行えばいいことだろうが、それが存在するかどうかも疑わしい。さらにそこに、治療する医者がいらない病院を建てることができるだろう。くそっ、なんて妄想だ。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_12">
+		<text>マグパイと呼ばれるストーカーに会ったことがあるか？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_121">
+		<text>俺がデューティーのすべての人間を覚えているので、それで俺にストーカーについて尋ねてるのか？奴らはスカドフスクに基地を持っている。そこへ行って尋ねるんだな。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_122">
+		<text>いや、ないなあ。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_13">
+		<text>誰がパーソナルボックスから物を盗むことができたか、知っているか？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_131">
+		<text>さあ行こう！デューティーの基地でそれが起こったことはない。しかし、この場所はフリーダムの奴らでいっぱいで、俺なら最初に見てみる場所だ。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_14">
+		<text>ここでは、誰が解読することができるんだ？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_141">
+		<text>ヤニフ駅にニトロと呼ばれる技術者がいる。エレクトロニクスの扱いがかなり上手だ。以前、俺はPDAのパスワードを忘れたが、彼は5秒でそれを解決した！</text>
+	</string>
+	<string id="about_quests_dialog_dolg_143">
+		<text>ヤニフは、あんたが行く必要のある場所だ。ニトロを捜すんだな。彼はこれが得意だ。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_15">
+		<text>俺はデューティーのトレーダーのPDAを持っている。それに興味を持つような奴を知らないか？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_151">
+		<text>デューティーのトレーダーだって？それは不可能だ！だが、何か情報を持っているなら、シュルガ中佐に渡すのが一番良いだろう。彼と取り引きをするんだ。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_16">
+		<text>この辺りで、ツールを見つけることができるか？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_163">
+		<text>近くに大きなプラントがある。もちろん、そこは今ごろはすでに略奪されたかもしれない。だが俺があんたなら、まだプラント倉庫を調べてみる。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_165">
+		<text>俺があんたなら、古い工場の中を見るだろう。さらに、店でも何かを見つけられるかもしれない。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_166">
+		<text>この周辺にはミュータントかアノマリーしかない。ハッ！ブーラーもコントローラーも、あんたを手伝わないだろうがな。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_169">
+		<text>本当に、この辺の橋の下に列車がある。俺は以前に見たことがあるが、それらは技術要員を輸送するために通常使用されていた。なので、そこでいくつかのツールを見つけられるかもしれない。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_17">
+		<text>誰がメモリ・モジュールの障害を取り除くことができる？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_171">
+		<text>ニトロだ。彼は、その種のものに関して何でも知っている、ヤニフ駅でただひとりの男だ。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_172">
+		<text>それについては技術者に会わなくてはならない。この辺で唯一の技術者はヤニフのニトロだ。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_18">
+		<text>誰がスチール・コンテナを壊すことができる？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_181">
+		<text>ストーカーの中に技術者がいると言われている。奴は酔っ払っているが、自分のしていることはわかっている。奴と話すんだ。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_182">
+		<text>ハハッ、あんたは周りの金庫を運んだ方がいいだろう。俺は、ニトロはあんたのそれを手伝うことができないと確信してる…。もし電子ロックを持っていた場合は別だがな…。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_19">
+		<text>俺はスナグと呼ばれるストーカーを捜している。どこで奴を見つけられるか知っているか？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_191">
+		<text>ストーカーに尋ねたほうがいいだろう。奴らは自分たちのことは知っている。スナグという名前は一度も聞いたことはない。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_2">
+		<text>墜落したヘリに関して、何かを知っているか？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_20">
+		<text>デューティーの創設者に関する情報に興味がある奴はいないか？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_201">
+		<text>それは我々の指揮官だ。知っているすべてをシュルガに報告してくれ。そうすれば、間違いなくデューティーの謝礼を得られる。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_22">
+		<text>そう、俺たちの偵察兵は、軍用ヘリがジュピターのそばの予備パッドの方へ降りるのを見た。彼らはコースを変更するように信号し続けたと言っているが、俺はパイロットが何か他のものを心配していたと推測している。軍兵士らは地雷原から出られたのだろうか。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_23">
+		<text>この辺ではない。ここでの我々の滞在は制限されている…。ヤニフの近くの我々の兵士に尋ねてみてくれ。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_25">
+		<text>我々のパトロールは、軍用ヘリがジュピター・プラントの近くに不時着を試みたと報告した。不運にも、ヘリはちょうど工場の屋根に墜落した。おそらく生存者はいない。そのパトロールは、墜落の後に遭難信号を受け取っていないしな。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_3">
+		<text>この周りでどこかの部隊を見たか？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_30">
+		<text>誰がザトンとジュピターの間のエリアの地図に興味を持ってるんだ？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_301">
+		<text>誰かそれを使うことのある人間だな。つまり、俺はパイロットのことを言っている。彼はヤニフとスカドフスクの間のルートのガイドだ。なので、彼にはそれらの地図が役立つ。それは確かだ。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_31">
+		<text>軍？俺はこの辺で、何も見ていない。だが、我々はこのエリアにはそれほどいない。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_35">
+		<text>最近、兵士の死体が地雷原で発見された。おそらく彼はそのヘリで飛んでいたひとりだ。ヘリは乗組員を加えて8人を運ぶ。したがって、彼らは出口を見つけたに違いない。だが、どこに行ったかは誰も知らない。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_36">
+		<text>軍の奴が科学者のトーチカで目撃されている。また、奴はそこについ最近来た。俺は詳細は知らない。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_37">
+		<text>先日、軍服を着た男がボルホフ対空複合施設のそばの建物に入るのが見られた。しかし単に、兵士と誤られたゾンビだったことはありえる。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_38">
+		<text>ストーカーは、ジュピター・プラントの近くで軍を見つけた。記録でそれを判断すると特殊部隊だった。彼らは未確認のストーカーを同伴し、プリピャチの方へ向かった。これは信頼できそうに思えるが、しかし経験では通常そのような情報は信用できない。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_4">
+		<text>プリピャチへの行き方を知っているか？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_40">
+		<text>科学者たちを警護するために、誰を雇うことができる？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_401">
+		<text>奴らは、デューティーが提供するよりも良い警護を見つけられないだろう。ヤニフへ、シュルガ中佐に会いに行くんだ。あんたたちが、何かをやるだろうと信じてるぞ。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_402">
+		<text>いや。奴らが自分たちのためにフリーダムを働かせている間に、我々はその場所をうまく離れるだろう。馬鹿共が一日中不快なジョークを飛ばすのを聞くことは、死よりも悪い運命だ。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_42">
+		<text>デューティーはプリピャチへの道を今すぐ探す理由を持っていないが、我々は情報収集をしている。ジュピター・プラントの下のトンネルが、プリピャチに通じるという未確認報告がある。この情報の調査のためには、プラント・エリアのすべてを徹底的に探索する必要がある。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_43">
+		<text>いや。その種の情報が必要ならば、民間のガイドと話をすることだ。我々の偵察兵は自分の仕事で目いっぱいになっている。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_44">
+		<text>我々の偵察兵は定期的に、プリピャチへの安全な通路があるか、そのエリアをチェックしている。しかし、まだ結果を出していない。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_5">
+		<text>誰かプリピャチに喜んで行こうという暇な奴がいないか、教えてくれないか？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_51">
+		<text>デューティーのこのエリアでの存在は制限されている。ヤニフで我々の人間と話をしてくれ。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_52">
+		<text>科学者たちはトーチカの中に軍の人間を持っている、という噂がある。しかし、奴には行き場がまったくない。知っての通り、科学者は12〜18か月の間ずっとそこにいる。なので、奴はゾーンの端へ徒歩でも、ひとりでも行けない。それを考えれば、奴は興味を持つだろう。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_53">
+		<text>俺は、ミッションをした後の人々を見て回ることを提案する。たとえば、ヤニフ駅にヴァノと呼ばれるストーカーがいる。彼は彼自身がどこに属すか気にしないし、役に立つ。彼は目を閉じて、アノマリーを通り抜ける道を見つけられるんだ。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_54">
+		<text>さあな、神経科病院でなら新兵募集キャンペーンを始めるかもな…。冗談だ、良い代案を持っている。モノリサーだ。奴らの部隊は対空複合施設の近くで目撃された。また連中は、おそらくプリピャチへの道も知っている…。なあ、俺とは気楽につきあってくれ…。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_56">
+		<text>デューティーでボランティアを捜すんだ。たとえばストライダーだ。彼は任務をまだ持っていない。なので、俺は中佐が彼をあんたと一緒に行かせると考えている。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_57">
+		<text>誰でも、デューティーが最良の戦士を得たのを知っている…。しかし今は、我々は他の目的を持っている。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_6">
+		<text>尋常でない銃を見つけた。それに関して何かを知っている奴を知らないか？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_62">
+		<text>それは何かの大砲だ！それを自分で作ったのか、それとも本当に見つけたのか？俺はそのようなものを見たことがない…。技術者に尋ねるんだな。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_7">
+		<text>科学者のために調査をするのに、誰を雇えるか？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_71">
+		<text>それは愚かな質問だ。もちろんデューティーだ。我々は、経験のある多くの人間を持っている。また、科学者と以前に仕事をしたこともある。シュルガ中佐に会いに行ってくれ。俺は彼がその仕事のための部隊を用意すると思う。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_72">
+		<text>トーチカがフリーダムによって警護されれば、誰がそこで働きたいと思うんだ？平和主義者の奴らは何度もやられているので、互いに敵のようの撃ち合うだろう。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_8">
+		<text>すごく奇妙なアーティファクトを見つけた。バイヤーを教えてくれないか？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_81">
+		<text>アーティファクトはすべて奇妙だし、あんたがそれを持つことを勧めない。専門家に渡して、それで止めることだ。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_83">
+		<text>ストーカーにそれを見せるべきだ。彼らはその種の“糞”の専門家だ。さらに良いのは、アーティファクトを売る人間に見せることだな。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_9">
+		<text>俺はこの近くでブラッドサッカーの巣を見つけた。我々はこれからどうしたらいい？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_91">
+		<text>デューティーの部隊は今、このエリアでの掃討作戦には従事していない。なので、巣はそのままにしておかなくては。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_98">
+		<text>よし、それはもういい。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_0">
+		<text>聞いてくれ、質問がある…</text>
+	</string>
+	<string id="about_quests_dialog_freedom_1">
+		<text>言ってみろ。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_10">
+		<text>ニンブルについてどう思う？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_101">
+		<text>奴に関しては、あまり聞いていないが…。ストーカーに尋ねるのが一番良いだろう。奴はそのひとりだろ？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_11">
+		<text>オアシスについて何か聞いたか？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_111">
+		<text>戯言だ…。良い物語なので、あんたに話そう。砂の宮殿、霧の中の島、空の城、理想郷、エデン…、それがオアシス。すべての暇な人間が夢見る。俺はそれを馬鹿にしないがな。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_112">
+		<text>さて、俺はひとりのストーカーから面白い物語を聞いた。奴は俺にオアシスを伝えた最初の者だったと思う。奴はそれは伝説によるもので、そこではすべての傷が癒され、落ち着いてリラックスできて、あたかも自分がゾーンにはいないように思えるのだと言った。俺はそれ以来、奴には会っていない…。奴が去った後に奴のことで思い出したのは、奴が足を引き摺って歩いていたことだ。だが、去る時には真っ直ぐに歩き、ものすごく若く見えたんだ。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_113">
+		<text>そう、単独ストーカーたちが座標をくれた…。座標の異なる10のセットだ。それらを一緒にすると、ヤニフのバーも含み、スコーチャーからCNPPへのエリアの中心近くのどこかを示す。我々は今ちょうど、オアシスの中にいることは本当にありえるぞ！</text>
+	</string>
+	<string id="about_quests_dialog_freedom_12">
+		<text>マグパイと呼ばれるストーカーに会ったことがあるか？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_121">
+		<text>いや、俺はこの辺の単独ストーカーたちを多くは知らない。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_122">
+		<text>マグパイ？知らないなあ。だが、いい名前だ。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_13">
+		<text>誰がパーソナルボックスから物を盗むことができたか、知っているか？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_131">
+		<text>いや、そんな奴は誰もここにはいない。見ていないと、あんたのパンの一片を取ったり、ドリンクを飲む奴はいるかもしれないが、本当の泥棒はいない…。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_14">
+		<text>ここでは、誰が解読することができるんだ？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_141">
+		<text>ヤニフのニトロは、コンビネーションとアルゴリズムの趣味があると聞いた。実際に彼と話したことはないので確かではないが、奴はデューティーで働いている。なので、奴には俺たちと話す時間があまりないんだ。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_143">
+		<text>俺は地方の専門家の中でもたいした専門家ではない…。あんたがヤニフに行った時に、そこの俺たちの仲間に尋ねてくれ。彼らなら知ってるはずだ。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_15">
+		<text>俺はデューティーのトレーダーのPDAを持っている。それに興味を持つような奴を知らないか？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_151">
+		<text>それは面白そうだ！俺ならそれをヤニフにいるリーダーのロキに渡す。デューティーがどんな種類の人間を徴兵するのか、単独ストーカーたちがそれを知っているどうか、彼が確かめるだろう。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_16">
+		<text>この辺で、ツールを見つけることができるか？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_163">
+		<text>プラントとかだな？正確ではないが、倉庫に良いものがあるかもしれない。少しは安全だし、それなりのツールをいくつか見つけられるだろう。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_165">
+		<text>それはいい質問だ。では考えてみてくれ。ゾーンの外側なら、どこでツールを見つける？そう、脳みそを少し使えば、店で買えるな…。あるいは、工場の中でツールを探すだろう。正しいだろ？それはゾーンでも同じさ。同じその場所の中を見るんだ。単純さ、ストーカー！</text>
+	</string>
+	<string id="about_quests_dialog_freedom_166">
+		<text>ツールだって？なあ、それは何かのためのコードかな？ここにはブタも何もいないから自由に話せる…。ああ、あんたは真面目に尋ねてるのか？そのことは俺は何も知らないぜ。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_169">
+		<text>そう、俺たちの兵士のひとりがツールを探していたことを聞いた。奴は橋の下の列車に入ったんだ。どうやら、テスラがいた…。とにかく、奴はそこはひどいと言ってた…。えっと、なんで俺はあんたにこれを話してるんだっけ？そうだ、奴は散らかっているツールを見たと言ったが、奴は安全な状況ではなかったので、それをそのままにしたんだ。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_17">
+		<text>誰がメモリ・モジュールの障害を取り除くことができる？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_171">
+		<text>そう、科学者のトーチカのノビコフがそれをできる。奴は速くて、上手く、丁寧だ。ヤニフにもニトロがいる。奴は安いが、嫌な男だ。しかし、おそらくちゃんとした仕事をする。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_172">
+		<text>それは熟練した専門家だろうな。この辺の者は機械的な仕事をやっている。なので、あんたがメモリー・モジュールのバレルに旋条を施す必要がなければ…、いや、冗談だ。ジュピターで尋ねてみることを勧める。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_18">
+		<text>誰がスチール・コンテナを壊すことができる？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_181">
+		<text>さて、スカドフスクのカルダンが適当だと思う。奴は酔っていても自分が何をやっているかはわかっている、と皆が言ってる。奴がそのコンテナを砕くのを助けることができるかもしれない。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_182">
+		<text>生活用のスチール・コンテナを壊す誰かかい？地元のニトロは役立たないだろうな。奴は他人の電気製品を壊す方が多いと聞いてる。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_19">
+		<text>俺はスナグと呼ばれるストーカーを捜している。どこで奴を見つけられるか知っているか？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_191">
+		<text>そいつのことは聞いたことがない…。俺なら、他の単独ストーカーに尋ねるだろう。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_2">
+		<text>墜落したヘリに関して、何かを知っているか？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_20">
+		<text>デューティーの創設者に関する情報に興味がある奴はいないか？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_201">
+		<text>疑いなく、ロキだな。彼はここのヤニフのリーダーだ。もし彼がその情報で何を行うべきか知らなくても、大事なことは、デューティーがそれを手に入れないということだ。それをどんなに大きく宣伝するか、想像できるかな？それを考えると、頭が変になるぜ。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_22">
+		<text>そう、あんたは地雷原のヘリの話を聞いたな？仲間の兵士らが6年前に敷設した予備パッドの上に墜落した、という話だ。さて、何人かの人間は彼らが愚かなことをしたと言ってる。しかし俺は、さらに多くのことがそれにあると考えている。見てくれ、誰もそこに行かない。普通は兵士がミッションを終えたらヘリに戻り、ちょっと修理して去れるはずだ。俺は連中のミッションが何だったかを知りたい…。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_23">
+		<text>俺は地元の者ではないし、何も知らない。ヤニフで仲間たちと会ってくれ。我々の兵士が、あんたが知りたいものをすべて話すだろう。すべてが役に立つとは限らないがな。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_25">
+		<text>そう、何人かの兵士がヘリがメチャクチャに飛ぶのを目撃した。それらしい場所には着陸せず、ジュピターの屋根の上にだった。ぶつかって、すべての残骸を引き摺り、屋根から建物に突っ込んだそうだ。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_3">
+		<text>この周りでどこかの部隊を見たか？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_30">
+		<text>誰がザトンとジュピターの間のエリアの地図に興味を持ってるんだ？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_301">
+		<text>間違いなく、パイロットだ。彼はこの辺りで一番の、単独ストーカー・ガイドだ。地図のことなら、彼があんたの望む者だ。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_31">
+		<text>いいぞ。この辺りには警察の連中も、軍隊の奴らもいない。ゾーンにいるのと同じくらい安全だ。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_35">
+		<text>いいや。だが何人かは俺に、軍隊がヘリパッドから地雷原を通ってゆっくり進むのを見たと伝えた。そいつ等は奴らの支援も考えたが、それをしないことに決めた。兵士らは予測不能の種類で、いつ後ろから倒されるか撃たれるかわからないからな。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_36">
+		<text>俺自身は見ていないが、科学者のトーチカに兵士がいる噂がある。生物学者のオゼルスキーは、そいつはプラントに墜落したそのヘリから来たと言ってる…。オタクがペットの兵士を得たという冗談が流行ってるぜ。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_37">
+		<text>個人的ではなく、俺はいくつかのことを単独ストーカーたちから聞いた。彼らは、兵士がボルホフ対空複合施設で目撃されたと言った。ゴーストかゾンビかも知れないがな…、どう思う？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_38">
+		<text>いや。ひとりの奴が言ってるのは、プリピャチに向かって無線プラントを通り、7人の兵士がある単独ストーカーに従っているのを見たということだ。そこはゾーンで雑草も生えてない開けた場所だ。なので、それは嘘の話ではなく、まったく本当のことだと思う。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_4">
+		<text>プリピャチへの行き方を知っているか？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_40">
+		<text>科学者たちを警護するために、誰を雇うことができる？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_401">
+		<text>フリーダムだ。言い換えれば俺たちさ。俺たちは終始、科学者と仕事をしている。なので、その警護は我々に容易な仕事だろう。ヤニフで我々のボスのロキと話してくれ。彼はきっと同意する。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_402">
+		<text>確かではないが、インテリたちが奴らと働くデューティー部隊を雇っていると聞いた…。俺たちは科学者を警護したいが、糞詰まりのデューティーと毎日顔を合わすのは面白くない。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_42">
+		<text>彼らはジュピターからそこへ行けると言っている…。惑星ではなくプラントだぞ…、ハハッ！面白い冗談だろ！</text>
+	</string>
+	<string id="about_quests_dialog_freedom_43">
+		<text>なあ、俺は手掛かりを得てない。そこに行く時間がないんだ…。キャンプのパイロットに尋ねたらどうだ？奴は単独ストーカーで、誰よりもよくエリアを知っている。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_44">
+		<text>もし俺がずっと前にそこに行って知っていたらなあ。デューティーや兵士、すべての戦いから逃げ、意味があったんだろうが…。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_5">
+		<text>誰かプリピャチに喜んで行こうという暇な奴がいないか、教えてくれないか？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_51">
+		<text>すまないな。俺はザトンでは誰も知らない…。俺のアドバイスは、ヤニフの我々の兵士たちに尋ねることだ。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_52">
+		<text>科学者のトーチカを知っているか？そう、彼らはそこで落ち着いている。最初のストーカーのゲーリーは、プリピャチに行くと決めた。今、トーチカに同じ考えの兵士がいる。ゲーリーは単独行動するのを誇りにしているが、その兵士はまさにあんたが捜している奴だ。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_53">
+		<text>ヤニフのヴァノはなかなか良い。奴はちょうど適当な男だ。もし望むならば、奴はいつでもフリーダムに入ることができるだろう。奴は俺たちのデューティーとの取り組みなどには関心がないように思う…。それが奴の考えで、我々はそれを尊重している！</text>
+	</string>
+	<string id="about_quests_dialog_freedom_54">
+		<text>確かなことだが、我々の仲間のひとりが干上がった湖で部隊を目撃した。彼らは誰のためにも働いているようには見えない。彼らはすごく勇敢だが、それは彼らがモノリサーだからだ！</text>
+	</string>
+	<string id="about_quests_dialog_freedom_55">
+		<text>そうだ。我々の新しい新兵のリーダー、ストライダーだ…。我々からは彼が不安を感じているように見える。彼の部下らはちゃんと適合しているが、彼はここには合わない。彼と話をしてくれ。俺は善人に会うのは嫌だ。彼の心は嘘をつかないんだ…。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_57">
+		<text>いや、何もわからない。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_6">
+		<text>尋常でない銃を見つけた。それに関して何かを知っている奴を知らないか？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_62">
+		<text>それに付いてるマニュアルを見つけたか？見つけてないのか？ではアイデアはない。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_7">
+		<text>科学者のために調査をするのに、誰を雇えるか？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_71">
+		<text>俺たちの兵士が、その仕事をできると思う。フリーダムは賢い人間を持っており、また何かわからないことがあればトーチカで尋ねる。我々は科学を支援する機会を持つのを好む！ヤニフでロキと話をしてくれ。彼も同じことを言うと確信している。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_72">
+		<text>俺と兵士たちはそれをしたいが、この頃はデューティーがトーチカを守っている。科学者を見てみると、問題があるようだ。そこに毎日いるのは健康的に悪いようだ。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_8">
+		<text>すごく奇妙なアーティファクトを見つけた。バイヤーを教えてくれないか？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_81">
+		<text>あんたはコレクターが必要だ。ヤニフにはひとりもいないだろう。何人かのストーカーはここに来ることさえ恐れているように見える。ザトンで尋ねるのが一番だ。そこはその辺ではいくらか落ち付いているしな。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_83">
+		<text>単独ストーカー・キャンプのビアードを知ってるか？彼はアーティファクトを買い取り、それほど多くは巻き上げない。いい奴にも見える。我々のために働いてくれないのが本当に残念だ。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_9">
+		<text>俺はこの近くでブラッドサッカーの巣を見つけた。我々はこれからどうしたらいい？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_91">
+		<text>あんたは単独ストーカーたちに注意しなくては。奴らはこの辺りにメイン・キャンプを持った。ゾーンの野生生物も価値があるが、俺はこの場所の人間にもっと関心を持っている。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_98">
+		<text>よし、それはもういい。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_0">
+		<text>聞いてくれ、質問がある…</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_1">
+		<text>言ってみろ。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_10">
+		<text>ニンブルについてどう思う？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_101">
+		<text>俺には興味はない…。スカドフスクの住人に尋ねるのが一番いいだろう。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_11">
+		<text>オアシスについて何か聞いたか？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_111">
+		<text>俺はオアシスについて、すべてを聞いた！それは伝説で神話だ…。すべてのストーカーはそれと異なるものを期待している。そして奴らの全員が正確な位置を知ってると主張している。それらの位置が一致しているのに、そこに着くのが大変なのがたったひとつの問題だ。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_112">
+		<text>そう、傷が即座に治り、エネルギーが数分で補充される、と言われてる…。オアシスでは疾病や病気も長引かず、放射線も毒はないと言う！俺が確実に知っているひとつのことはその在り処だ…。知りたいか？それはゾーンの中心にある！しかし、俺たちの秘密で、誰にも言えない！</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_113">
+		<text>そこで会うどんなミュータントも、あんたに見向きもせず歩くということだ。さらに、そこには“オアシスのハート”と呼ばれるアーティファクトがあると言う…。誰もそれが何をするものか正確に知らないが、ひとつ確かなのは、それに触れるべきではないんだ。それを取る者は誰も、ゾーンにはいられなくなる。位置か？なあ、誰もがそれがプリピャチの大観覧車の下にあることを知っている！が、いったいそれはどこにあるんだ？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_12">
+		<text>マグパイと呼ばれるストーカーに会ったことがあるか？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_121">
+		<text>会ったことはあるが…。奴が今どこにいるかはわからない。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_122">
+		<text>うむ…、彼のことは一度も聞いたことはないな…。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_13">
+		<text>誰がパーソナルボックスから物を盗むことができたか、知っているか？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_131">
+		<text>うむ、いいや。ヤニフで上官に尋ねてくれ。あんたを助けてくれるかもしれない。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_14">
+		<text>ここでは、誰が解読することができるんだ？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_141">
+		<text>ヤニフのニトロしかいないのでは？奴は複雑な技術が好きだ…。射撃手たちと取り引きをするよりもずっとだ。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_143">
+		<text>誰も知らないな。ヤニフで聞くんだな。そこにはある種の専門家がいる。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_15">
+		<text>俺はデューティーのトレーダーのPDAを持っている。それに興味を持つような奴を知らないか？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_151">
+		<text>スカドフスクのアウルを知ってるか？奴が喜んで引き受けると思う。機密の仕事に没頭するのが好きなんだ…。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_152">
+		<text>ザトンの向こうのスカドフスクに、アウルと呼ばれる奴がいた。彼は情報を扱う…。あんたのPDAは彼の興味を引くだろう。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_16">
+		<text>この辺で、ツールを見つけることができるか？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_161">
+		<text>あるストーカーが、奴の爺さんが86歳まで変電所工場で働いていたと話していた。そこにはすべての種類の装備があったそうだ。なので、ツールもあるだろうと思う。今ではもう、すべてボロボロに錆びてるだろうがな。しかし、一見の価値があるかもしれない。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_162">
+		<text>丘の上の森にある製材所を知っているかい？いくつかのツールがそこにあるに違いない。誰かに持ち去られていなければだ。そこに近づくと、恐ろしさで震えてパンツを汚して逃げ出すかもしれないがな。恐ろしい放射線はないようだ…。そんなとこだな。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_163">
+		<text>さて、ここがちょうどジュピター・プラントだ。いくつかのツールがある場所がある。個人的には、俺はプラント自体には近づかない…。この場所はぞっとするんだ。それはプラントの横のジュピター倉庫の中で見つかるだろう。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_164">
+		<text>プリピャチにはいくつかの、すべての種類の技術用ジャンク品を見つけることができる場所があると聞いた。そのひとつは古いソ連のデパートだと思われる。普段、便利なものが多く売られていた、ただひとつの場所だった。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_165">
+		<text>俺がどうして知ってるんだ？古い工場や店の中を探すんだな。使用可能なものがそこにあるかもしれない。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_166">
+		<text>正直に言うと、良いツールを見た最後の場所は、コルドンのシドロヴィッチの塹壕でだ。もちろん、その代価を払わなければならない。それらは新しいが、すべてが高価ではない。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_167">
+		<text>わかってるだろうが、俺はツールを捜索するためにゾーンへ来たのではない。ところで、放射性ハンマーはどう使われるんだ？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_168">
+		<text>古いサービス・センターで小物類を手に入れられるという噂を聞いた…。そこでツールも見つけることができるかもしれない。しかし大事なことは、良い物を得るただ一つの方法は、そこに最初に到着することだ。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_169">
+		<text>いい質問だな…。もし俺があんたなら、橋の下の古い列車を調べる。どうしてかは尋ねないでくれ…。あんたが何かを見つけそうな予感がするんだ。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_17">
+		<text>誰がメモリ・モジュールの障害を取り除くことができる？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_171">
+		<text>考えさせてくれ…。そう、ヤニフのニトロが確かそれをできる。他に、さらに科学者で技術者でプロのノビコフがいる。ニトロはぐっと安いので、どちらにするかは考えてなくてならないな。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_172">
+		<text>さて、あんたは技術者を必要としているが、この辺りではカルダンひとりだけだ。問題なのは、彼はエレクトロニクス施設の周りでは安全ではないので、長年の間隠れているんだ。もし俺があんたなら、ジュピターの辺りで尋ねるだろうな。適当な専門家がいる。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_18">
+		<text>誰がスチール・コンテナを壊すことができる？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_181">
+		<text>スカドフスクのカルダンだろうな。彼が南京錠を切り離すやり方は、見るのに値する。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_182">
+		<text>ある種の技術者だろうな。しかし、ニトロはおそらくそれをしない。彼はラフプレーに興味を持っていない。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_183">
+		<text>はあ、あんたはそれをプリピャチで尋ねてるのか？！俺のアドバイスに従って、ゾーンの中心から少し遠ざかってそいつを捜すんだ。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_19">
+		<text>俺はスナグと呼ばれるストーカーを捜している。どこで奴を見つけられるか知っているか？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_191">
+		<text>スカドフスクにいるバーテンダーのビアードに尋ねるのがいいだろう。たいてい、奴はストーカーたちがどこにいるかを知っている。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_193">
+		<text>スナグだって？なんで俺が知ってるんだ？ザトンで尋ねるのがいいだろう。奴はその辺りでぶらぶらしてる。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_2">
+		<text>墜落したヘリに関して、何かを知っているか？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_20">
+		<text>デューティーの創設者に関する情報に興味がある奴はいないか？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_201">
+		<text>俺はスカドフスクにいる情報トレーダーのアウルと話をしたことがある。彼はきっと、そのような信頼できる情報には興味を持っているだろう。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_21">
+		<text>俺自身が見た…。それは墜落するようには見えなかったが、ちゃんとは飛んでいなかった。ザトンの南の台地に降りるまで、それはふらふらと揺れていた…。誰かが生き残ったかどうかを確かめることには興味があったんだが…。もし我々がそこにたどり着ける道を知っていたらなあ…。そう、はしけ舟の変人のノアが知っているかもしれないと聞いた…。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_22">
+		<text>ここから遠くにない場所に墜落した、軍のヘリについて聞いたぞ…。皆は異なることを言っているが、明白に思い出すことがある。兵士らは、以前に設置した予備ヘリパッドに着陸したそうだ。あんたはそれが皮肉に聞こえないか？俺の爺さんが言っていたが、「他人のための穴は掘るな。お前がそこに落ちる」。真実だろ？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_23">
+		<text>俺の仲間がその話をしてくれた…。彼はいくつかのアーティファクトを手に入れようと、アイアン・フォレストに行った。そこに着くとすぐに、彼の後ろに墜落の音を聞いた。何だか確かめるために振り向くと、ヘリが鉄塔を壊しながら、彼の方へ全速で来るのを見た。彼はそこに立ちすくんだ…。俺が驚くのは、アノマリーの中に入り込まなかったことだ。アイアン・フォレストを見つけるのには、あまり苦労しないだろう。数マイルの場所から、それを見ることができる。そこはポルターガイストでいっぱいだから、十分気を付けるんだ。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_24">
+		<text>俺は南部の台地に着陸したのを聞いたが、そこに登るのは簡単ではない。俺が聞いた別のことは、誰かがその台地の端でノアを目撃したということだ。それは、“変人”がそこに行く道を知っていることを意味してる。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_25">
+		<text>俺自身は何も見ていないが、ちょうどプラントに墜落したという噂だ…。しかし、誰もそれを調べたくない。その場所は危険すぎる。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_26">
+		<text>ひとりのストーカーが俺に、いくつかの軍用ヘリにトラブルがあったと話してくれた…。彼はエンジンに火が点くのを見た。次に、それはアノマリーでいっぱいの沼地にまっすぐに降りた。あんたはそこに十分容易に着ける。しかし、沼地はそれ自身がひどい悪夢だ…。そこは人間のための場所ではない。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_3">
+		<text>この周りでどこかの部隊を見たか？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_30">
+		<text>誰がザトンとジュピターの間のエリアの地図に興味を持ってるんだ？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_301">
+		<text>パイロットしかいないな。彼はガイドだ。絶えずスカドフスクとヤニフの間を行き来してる。なので、彼はあんたの地図の使い道が十分にわかるだろう。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_302">
+		<text>ここはザトンでもジュピターでもない。なので、これらの地図はここでは役立たないだろ？その場所の辺りで尋ねてくれ。その方がもっといいぞ！</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_31">
+		<text>俺自身は見ていないが、下水工場側の南部の台地から下りてきた何人かの兵士の話を聞いた。最初はまったく普通にケーブルなどを使って下りようとしていたそうだ。しかし諦めて、ケツで滑り降りたんだ。ハハッ！ゾーンでボブスレーだ！</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_32">
+		<text>沼地のそばの排水トンネルから出て来たのを見たし、5人ほどの兵士についての会話をスカドフスクで聞いた。兵士たちはものすごく汚くて、そのひとりは泥で頭の先から爪先まで覆われ、沼地のブラッドサッカーと見分けがつかなかったと言っていた。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_33">
+		<text>俺ではないが、友人が処理ステーションのそばで、軍の部隊が傭兵グループと交戦するのを見た。しかし、ショーを楽しむための良い場所を見つけるまでに、兵士らが引き揚げて終わった。死傷者はどちらにもなかった…。よくあることだよな？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_34">
+		<text>10人ほどの兵士が、ノアの舟の周りをうろついているのが目撃された。さて、“変人”がこの時点で生きているとすれば、彼はおそらく奴らとある種の合意に達したんだろうな…。もちろん、誰も何が起こったかを、ノアに尋ねたくはなかった。その正気でない男に、何を期待できるかわからないしな。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_35">
+		<text>俺は夜に何かが、爆発するのを聞いた。そしてヤニフのある男が、古い地雷原で死んでいる兵士と、その後ろに放置されたヘリを見たと伝えてきた。暗闇で連中がどこに降りたのか、地雷原をまっすぐ横切ったのかわからなかったようだ。そこに何人いたのか誰も知らないが、俺はヘリを独力で着陸させられたかどうか疑っている。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_36">
+		<text>俺は実際に軍を見ていない…。しかし、ひとりの兵士が科学者たちとうろついている噂を聞いた。ある話だと、ゲーリーというストーカーが、彼の仲間を捜すのにミサイル施設に入り、彼を見つけたそうだ。施設には人間とは異なるゾンビがうごめいているが、ゲーリーは彼を死から救ったんだ。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_37">
+		<text>いや、だが俺は、ひとりの兵士がボルホフ対空複合施設で目撃されたと聞いた。しかし、俺は本当にはそれを信じていない…。それは嘘で、おそらく彼らはゾンビと兵士とを、まったく区別できなかったんだ。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_38">
+		<text>軍だって？そう、俺は「ストーカーによるすべての軍隊指導」をジュピター・プラントでやっていたという話を聞いた。しかし、俺はそのゴシップにあまり注意を払わなかった。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_4">
+		<text>プリピャチへの行き方を知っているか？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_40">
+		<text>科学者たちを警護するために、誰を雇うことができる？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_401">
+		<text>あんたはスパルタクスと彼の部隊を知っているか？ザトンのストーカーたちを知ってるかな？彼らは良い人間で立派な戦士だ。それなりの経験もある。俺は彼らが科学者を警護するのがアイデアだと思う。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_402">
+		<text>あんたはザトンで、変電所工場のそばのハチェットの部隊に出遭ったことはあるか？連中はすべての傭兵のように問題を持ってるが、少なくとも彼らはちゃんと最初に質問をし、後から撃つ。俺は、あんたがこの仕事を連中と契約すれば、科学者が喜び、ストーカーもまた少し気楽になれると思う。誰もが幸福になるのでは？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_403">
+		<text>うーむ…、何も思い付かない…。すまんな。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_41">
+		<text>俺がはっきり知っているのは、ザトンからそこに行く道はないということだ。プリピャチへ到達するのを望んでいたすべての者は、ジュピターに向かった。なので、あんたはそこの辺りで尋ねるべきだ。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_42">
+		<text>さて、プリピャチへの秘密トンネルがジュピター・プラントの真下にあるという噂だ…。ということは、つまり、噂はたいてい後から言われる。なので、ジュピターは誰もそこに近づけない、ひどい悪夢のような場所ということだ。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_43">
+		<text>俺が知るはずがないだろう？もっと簡単な質問をしてくれないか？俺が言えるのは、パイロットを見つけて奴と話せということだ。誰かがあんたを助けることができるなら、それは奴だ。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_44">
+		<text>ハハッ、もしプリピャチへの道を知っていれば、俺はここにいないだろう。なぜ俺がゾーンの中心の方へ行ったと思うんだ？プリピャチはアーティファクトでいっぱいだ！そこに最初に着く者は、誰でもセレブな生活を得られる！</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_5">
+		<text>誰かプリピャチに喜んで行こうという暇な奴がいないか、教えてくれないか？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_51">
+		<text>そういう奴は、この辺りにはいないと思う。ゾーンの中心に向かっていたすべての人間が、ジュピターへ去った。俺があんただったら、そこで尋ねるな。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_52">
+		<text>科学者と今一緒にいる兵士のことを聞いたか？奴があんたと行っても、何も損はしない。科学者たちはすぐにはそこを離れず、奴はひとりではコルドンに行けない。なので、きっと奴はあんたとプリピャチへ行くだろう！</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_53">
+		<text>ヤニフ駅のヴァノを知ってるか？奴は正直者で、良いストーカーで、そしてだまされやすい。今、アノマリーの周りで皆より金回りのいい“猫”がいる。奴をうまく利用する誰かが、いつもそこにいるのだろう。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_54">
+		<text>聞いてくれ。対空複合施設の南の干上がった湖のそばで、部隊が目撃されたと聞いた…。見たところ、連中は普通のストーカーやフリーダム、あるいはデューティーではない。奴らはモノリサーだ！なので、あんたがプリピャチへ行く誰かを必要とすれば、奴らがそのチケットだ。ハハッ、冗談だよ。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_55">
+		<text>あんたは新しいフリーダム部隊のリーダー、ストライダーを知っているか？もし奴の悲惨な顔を見れば、ヤニフが奴のための場所でないことを知るだろう。話をしてみるんだ。奴は本当にそこに出かけるかもしれない。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_56">
+		<text>あんたは新しいデューティー部隊のリーダー、ストライダーを知っているか？もし奴の悲惨な顔を見れば、ヤニフが奴のための場所でないことを知るだろう。話をしてみるんだ。奴は本当にそこに出かけるかもしれない。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_57">
+		<text>うーむ…、誰も思い付かない…。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_6">
+		<text>尋常でない銃を見つけた。それに関して何かを知っている奴を知らないか？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_62">
+		<text>さあ？俺は専門家に尋ねるがな…。技術者とかに…。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_63">
+		<text>スカドフスクで、カルダンに尋ねるのが間違いないと思う。武器を扱い、良い男だ…。大酒を飲むが、別の脳細胞を持ってる…。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_7">
+		<text>科学者のために調査をするのに、誰を雇えるか？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_71">
+		<text>ハンターのゴンタを知っているか？科学者のために働くことを、奴とその部下は拒否しないと思う。つまり、ミュータントが厄介になった場合、それを排除するのに連中が役立つ。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_72">
+		<text>ヤニフのストーカーのグリズリー、トルバ、ミタイらのことを聞いてるか？トリオで仕事をする、凄い奴らだ。その種の仕事には連中がちょうど良い…。ミタイがしばらくトラブルで不在だがな。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_73">
+		<text>何もないなあ。俺たちは、ここで自分たちの心配をするだけで十分だ。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_8">
+		<text>すごく奇妙なアーティファクトを見つけた。バイヤーを教えてくれないか？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_81">
+		<text>それは駄目だ。この辺りの人間は普通の連中だ。ザトンの周りで尋ねるんだな。ゾーンの端に近い辺りだ。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_83">
+		<text>俺なら、スカドフスクのバーテンダーのビアードにそれを見せる。奴は外部世界のコレクターたちと仕事をし、その“猫たち”はいつも奇妙な物に夢中になると言われてる。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_9">
+		<text>俺はこの近くでブラッドサッカーの巣を見つけた。我々はこれからどうしたらいい？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_91">
+		<text>ああ、それをスカドフスクのビアードに言うべきだ。俺たちが奴らをやるか、あるいは、奴らが俺たちを裂くかだぞ。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_98">
+		<text>よし、それはもういい。</text>
+	</string>
+	<string id="about_skadovsk_dialog_bandit_0">
+		<text>この辺りで、最も近いストーカー・キャンプはどこだ？</text>
+	</string>
+	<string id="about_skadovsk_dialog_bandit_1">
+		<text>あんたは何だ？俺はストーカー・キャンプのことは知らないが、この辺りの最寄りのキャンプはスカドフスクだ。あんたにその座標をあげよう。無料だぞ。いいかな？</text>
+	</string>
+	<string id="about_skadovsk_dialog_stalkers_0">
+		<text>この辺りで、最も近いストーカー・キャンプはどこだ？</text>
+	</string>
+	<string id="about_skadovsk_dialog_stalkers_1">
+		<text>あんたのPDAに座標をアップロードしよう…。スカドフスクは、この辺りの唯一の大きなキャンプだ。</text>
+	</string>
+	<string id="actor_break_dialog_2">
+		<text>また会おう。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_27">
+		<text>墜落に関して少しだけ聞いた…。詳細は知らない。ゴシップは持ってないんだ。すまないが、あんたの助けになれない。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_28">
+		<text>なあ、俺はヘリ以外のことを心配している。…つまり、俺はヘリの墜落には心が痛む。だがそれよりも、あんたに何と言ったらいいかわからないんだ。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_27">
+		<text>何のことを話しているんだ？この辺りのヘリを見て回るには、本当の敵を燻し出さなくてはならない。本当の敵は、ここでは何もしていないんだ。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_27">
+		<text>へえ？いや、俺はそんなのには関係ない。それは知識を広めようとしてる俺のミッションの助けにならない。俺が何を言いたいかわかるか？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_27">
+		<text>我々のパトロールは、ヘリが降下するのを見た。しかし、この詳細は中佐に個人的に報告されただけだ。情報は共有されなくてはならないが、実際には俺はそれを知る必要はない。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_50">
+		<text>どこで閉サイクル呼吸モジュール付きスーツを見つけることができる？</text>
+	</string>
+	<string id="about_quests_dialog_bandit_501">
+		<text>見つけられるかはわからないが、それなりの金を出せば、驚くべき効果を得られる。どこにそれを投資するかを知っていればだがな…。つまり、細かいことに同意すれば、ニンブルがそれをどこかに得に行くだろう。俺はそうしてくれることを望む。…このスカドフスクで、奴のいない数日を楽しめる…。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_502">
+		<text>なんで俺が知っているんだ？俺はここでは長くない。ザトンで尋ねるのがいいだろう。そこの俺たちの仲間がネットワークを持っている。</text>
+	</string>
+	<string id="about_quests_dialog_bandit_503">
+		<text>さっぱりわからない。どうして、あんたはアノマリーに入ろうとしたんだ？なあ、アーティファクトのことで来たのなら、俺たちに声をかけてくれよ。すぐそこに行く。…仕事がうまくいって良かった！</text>
+	</string>
+	<string id="about_quests_dialog_dolg_50">
+		<text>どこで閉サイクル呼吸モジュール付きスーツを見つけることができる？</text>
+	</string>
+	<string id="about_quests_dialog_dolg_501">
+		<text>どうして俺が知ってるんだ？…待ってくれ、スカドフスクにひとりいるぞ。彼は必要なものを何でも得てくれると言われている。船内に座っているニンブルという名の男さ。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_502">
+		<text>いや、誰もそんな特別のスーツのために、はるばるここまで来ない。…文明に近いザトンで尋ねた方がいいぞ。</text>
+	</string>
+	<string id="about_quests_dialog_dolg_503">
+		<text>どこを探したらいいのかわからないな…。そんなスーツはデューティー・メンバーの中でも珍しい。特別の場所での戦いか、あるいはアノマリーの多いエリアでの作戦でのみ使われる。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_50">
+		<text>どこで閉サイクル呼吸モジュール付きスーツを見つけることができる？</text>
+	</string>
+	<string id="about_quests_dialog_freedom_501">
+		<text>何人かのストーカーから、コネを持っている男のことを聞いた。ニンブルとかいつ奴だ。奴はほとんどのものを手に入れられる。ギアや銃や何でもだ。麻薬以外はな…。奴が必要なら、スカドフスクを探すんだ。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_502">
+		<text>いい質問だ…。このフリーダムではそれを常には着用しない。俺があんたなら、ザトンでストーカーたちに尋ねる。そこには、その種の“ビジネス”を営む男がいるかもしれない。</text>
+	</string>
+	<string id="about_quests_dialog_freedom_503">
+		<text>へえ？なんでそんなものが要るんだ？それは動きにくいぞ。そう、色々には使えるがな。より簡単に呼吸でき、太陽がそれほど眩しくない。ひとつ欲しいくらいだ。…そう、どこで手に入るか俺も知りたいんだが？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_50">
+		<text>どこで閉サイクル呼吸モジュール付きスーツを見つけることができる？</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_501">
+		<text>そう、きっとニンブルだろうな。スカドフスクの第3デッキにいる。奴は砂漠の雪でも取ってくることができる。…しかし、彼のサービスには金がかかることになる。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_502">
+		<text>考えさせてくれ。…ザトンにそのような奴がいたな。ニンブルとか言った。まだそこにいるのかどうか、確かめてみてくれ。奴はアイテムのスケール・アップが専門だと聞いた。</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_503">
+		<text>あんたはそれが事務用の消耗品か何かのように言ってる。…誰も確かなことを知らないが、それはすごく稀なものだ。もしそれを手に入れたら、自分が幸運だと思うんだな。</text>
+	</string>
+	<string id="actor_break_dialog_3">
+		<text>じゃあな。</text>
+	</string>
+	<string id="actor_break_dialog_1">
+		<text>またな。</text>
+	</string>
+	<string id="actor_break_dialog_0">
+		<text>今度にな。</text>
+	</string>
+</string_table>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_antirad">
+		<text>抗放射線薬</text>
+	</string>
+	<string id="st_antirad_descr">
+		<text>メクサミヌム被曝防護薬は、ゾーンでは一般的なもの。使用すると、末梢血管の収縮および酸素欠如を引き起こす。それは、放射線被曝を防ぐ役目をする。軽度の吐き気、目眩、痙攣および胃痛の部分的な事例は報告されたが、厳しい副作用は持っていない。</text>
+	</string>
+	<string id="st_bandage">
+		<text>包帯</text>
+	</string>
+	<string id="st_bandage_descr">
+		<text>通常の伸縮性の包帯は、出血を止め、傷の感染を防ぐのに使われる。普通の出血には、注意深く傷口に包帯を巻く。大きな出血には、影響を受けた周囲にしっかりと包帯を巻きつける。</text>
+	</string>
+	<string id="st_binocular_descr">
+		<text>最高7.5倍ズームの標準の軍用双眼鏡。ゾーンでの、長距離からの観察に役立つ。</text>
+	</string>
+	<string id="st_binocular_name">
+		<text>双眼鏡</text>
+	</string>
+	<string id="st_bread">
+		<text>パン</text>
+	</string>
+	<string id="st_bread_descr">
+		<text>パン屋はゾーンでは確認されていない。しかし、このパンは汚染も放射能もなく新鮮で、十分に食用になる。少なくとも苦情はこれまで報告されていない。</text>
+	</string>
+	<string id="st_conserva">
+		<text>ツーリストの朝食</text>
+	</string>
+	<string id="st_conserva_descr">
+		<text>軍の貯蔵施設からストーカーによって略奪された缶詰と思われる。ラベルに書かれたことが正確とは言えない。賞味期限を信じられれば、食べても構わない。</text>
+	</string>
+	<string id="st_detector1">
+		<text>エコー検出器</text>
+	</string>
+	<string id="st_detector1_descr">
+		<text>このアノマリー活動の検出器は、アノマリーに接近した時に警急信号を発する。さらに、アーティファクトの存在を記録し、最も近いものへの距離を測定できる。距離は、検出器が発する音の頻度によって示される。アーティファクト探索モードにするには、装置の本体前面カバー(アンテナ)を上げる。単純な設計のため、最も一般的なアーティファクトを見つけるためにだけ使用できる。</text>
+	</string>
+	<string id="st_detector2">
+		<text>ベアー検出器</text>
+	</string>
+	<string id="st_detector3">
+		<text>ベルズ検出器</text>
+	</string>
+	<string id="st_detector3_descr">
+		<text>次世代検出スキャナ。3つの近代化された検出部分により、アーティファクトの位置は特別のディスプレイ・スクリーンに示される。閉じられている場合、装置は単に放射線とアノマリーを記録する。アーティファクト探索モードに換えるには、正面のLEDディスプレイを開ける。探索モード中にいる場合、科学的にすでに知られているアーティファクトをすべて見つけることができる。</text>
+	</string>
+	<string id="st_detector4">
+		<text>スヴァログ検出器プロトタイプ</text>
+	</string>
+	<string id="st_detector4_descr">
+		<text>機能拡張されたプロトタイプで、アノマリーの周波数スキャナー。この装置はアーティファクトを見つける能力を持つが、データベースにアノマリー活動の静止領域を識別するために使用されるプログラムが付属している。アノマリーエリアおよびアーティファクトの位置は特別のスクリーンに表示される。アーティファクト探索モード（前面のLEDディスプレイを開けるとオン）は、現在の科学で知られていないアノマリー形成物を検出するために改良されている。</text>
+	</string>
+	<string id="st_device_torch_descr">
+		<text>標準のヘッド・マウント型懐中電灯。ストーカーが日没後に使用するのに便利だが、無分別に使用されれば問題が起きることがある。</text>
+	</string>
+	<string id="st_device_torch_name">
+		<text>懐中電灯</text>
+	</string>
+	<string id="st_drug_anabiotic">
+		<text>蘇生薬</text>
+	</string>
+	<string id="st_drug_antidot">
+		<text>解毒薬</text>
+	</string>
+	<string id="st_drug_antidot_descr">
+		<text>IP2抗毒素は、メトクロプラミド、ピリドキシン、チアミン、リボキシンおよび他の調合薬などの解毒薬を含む合成薬。薬は血流に、合成毒吸収剤と一緒に、自然な毒を中和するための抗生物質として注入する。ほとんどのストーカーが防毒マスクおよび保護スーツに頼るため、IP2はゾーンでは特に一般的ではなく、この解毒薬をしまっておく者たちがまだいる。薬の効果は持続する。</text>
+	</string>
+	<string id="st_drug_booster">
+		<text>ヘラクレス</text>
+	</string>
+	<string id="st_drug_coagulant">
+		<text>ヴィンカ</text>
+	</string>
+	<string id="st_drug_coagulant_descr">
+		<text>ウクライナのヴィカソルムは、ビタミンKの人工相当物。この薬の主な目的は血液の凝固速度を増加させること。ミュータントにやられた傷や裂傷を治すのを望むストーカーに大きな需要がある。薬の効果は持続する。</text>
+	</string>
+	<string id="st_drug_psy_blockade">
+		<text>プサイ防護薬</text>
+	</string>
+	<string id="st_drug_psy_blockade_descr">
+		<text>神経衝撃などの突発性のものを防ぐ薬。使用すると、すべての感情の短期間の損失を引き起こす。プサイフィールドのアノマリーの影響を打ち消すために、よくゾーンの中で使用される。薬の効果は持続する。</text>
+	</string>
+	<string id="st_drug_radioprotector">
+		<text>放射能防護薬</text>
+	</string>
+	<string id="st_energy_drink">
+		<text>NON STOPエナジードリンク</text>
+	</string>
+	<string id="st_energy_drink_descr">
+		<text>長い旅で休めない場合に、しばしばストーカーによって使用される。ドリンクには、血液の中へのアドレナリン分泌を刺激する薬と、消化を容易にするための炭水化物が含まれている。</text>
+	</string>
+	<string id="st_guitar_descr">
+		<text>信頼できるギター。</text>
+	</string>
+	<string id="st_guitar_name">
+		<text>ギター</text>
+	</string>
+	<string id="st_kolbasa">
+		<text>ダイエット・ソーセージ</text>
+	</string>
+	<string id="st_kolbasa_descr">
+		<text>良きにつけ悪しきにつけ、この鶏肉と大豆代用品がミックスされたソーセージは、ストーカーの朝食、昼食および夕食となる。防腐剤が多く含まれ、長期間の保存ができる。</text>
+	</string>
+	<string id="st_medkit">
+		<text>回復キット</text>
+	</string>
+	<string id="st_medkit_army">
+		<text>軍用回復キット</text>
+	</string>
+	<string id="st_medkit_army_descr">
+		<text>戦闘の負傷者に緊急に提供するための専門医療用品キット。身体から弾丸と破片を取り除くためのキットと、メナジオンの血液凝固剤、鎮痛剤、抗生物質および免疫賦活薬が入っている。軍の標準品であり、デューティーにも時々使用されている。</text>
+	</string>
+	<string id="st_medkit_descr">
+		<text>多目的の使い捨ての医療用品キット。ハンディで様々な傷に使用。外傷、打撲傷、普通火傷、化学的火傷、および様々なタイプの中毒など。ストーカーの必需品。</text>
+	</string>
+	<string id="st_medkit_science">
+		<text>科学的回復キット</text>
+	</string>
+	<string id="st_medkit_science_descr">
+		<text>この回復キットは特にゾーンで使用するためのもの。キットには身体から放射性核種を出すものや、傷を治療する製品を含んでいる。放射線病を防ぎ、既存の放射線量を低下させる。他の回復キットと異なり、ヴィカソルム、バティロルムおよびナファゾリンが入っている。</text>
+	</string>
+	<string id="st_pda_descr">
+		<text>データーなし。</text>
+	</string>
+	<string id="st_pda_name">
+		<text>PDA</text>
+	</string>
+	<string id="st_vodka">
+		<text>コサックスのウォッカ</text>
+	</string>
+	<string id="st_vodka_descr">
+		<text>GSCによって作られた。簡単に飲めて、またかなり放射能効果を低下させる。適度にたしなむべき。</text>
+	</string>
+	<string id="st_detector2_descr">
+		<text>アノマリーの活動検出器の最新ジェネレーションのものは、アノマリー形成物を見つけるのに使える。カラー・ダイオード・パネルがあり、アーティファクトの方向を示すだけでなく、その距離を測定する。アーティファクト探索モードに変えるには、装置の本体前面カバーを開く。残念なことは、装置は多少時代遅れの検出可能アーティファクト・リストでプログラムされている。</text>
+	</string>
+	<string id="st_drug_anabiotic_descr">
+		<text>ゾーンで働く科学調査チームのために、オゼルスキー教授によって開発された実験的薬剤。その薬は、名高い“ゾンビ・パウダー”と言われるテトロドトキシンを含んでいる。それは身体の中枢神経系の全面的休止を引き起こし、防御地の外の光熱放射に生き残ることを可能にする。薬は臨床試験や実地試験をしていないので、有効性に疑問があり、副作用の可能性がある。</text>
+	</string>
+	<string id="st_bolt">
+		<text>ボルト</text>
+	</string>
+	<string id="st_drug_booster_descr">
+		<text>この製品の主成分は筋肉増強アンドロゲン、つまり人工ステロイドで、その化学合成はテストステロンに似ている。筋肉疲労を縮小するために、長い襲撃の間にストーカーによってしばしば使用された。著しく運搬重量を増加させる。薬の効果は持続する。</text>
+	</string>
+	<string id="st_drug_radioprotector_descr">
+		<text>B190インドラリン放射能予防薬、医療キットに含まれ原子力発電所の人員に使われる。過度に有毒のPC1シスタミン塩酸の代わりにゾーンの中で使用され、しばしば死の原因となる使用があった。生きた組織に対するガンマ線の影響を弱める。効果はすぐに出ないため、被曝前の使用がベスト。薬の効果は持続する。</text>
+	</string>
+	<string id="st_harmonica_name">
+		<text>調和</text>
+	</string>
+	<string id="st_harmonica_descr">
+		<text>ブルースと監獄ロマンス愛好者のために。</text>
+	</string>
+</string_table>

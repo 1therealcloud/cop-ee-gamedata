@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="mp_autostation">
+		<text>車両置き場</text>
+	</string>
+	<string id="ui_map_desc_mp_agroprom_large">
+		<text>不思議な場所。この静かな建物には秘密が隠されているようだ。しかし、ストーカーは別の理由でここに引き寄せられる。このハイリスク・ハイリターンのエリアでは、多くのアーティファクトが見つけられるのだ。素早く考え、素早く動けば、確実に運が自分のものになるだろう。</text>
+	</string>
+	<string id="ui_map_desc_mp_agroprom_short">
+		<text>不思議な場所。この静かな建物には秘密が隠されているようだ。しかし、ストーカーは別の理由でここに引き寄せられる。このハイリスク・ハイリターンのエリアでは、多くのアーティファクトが見つけられる。</text>
+	</string>
+	<string id="ui_map_desc_mp_atp_large">
+		<text>ゾーンの入口にあるバス停留所。長い間、そこのトラクター、バスおよびトラックは動いていない。ここではアーティファクトは見つかっていない。しかし、この場所は経験を積んだストーカーに人気がある。彼らはルーキーを捕まえ、所持品をすべて奪う。建物や車両の後ろを警戒し、屋上の敵に注意しろ！</text>
+	</string>
+	<string id="ui_map_desc_mp_atp_short">
+		<text>ゾーンの入口にあるバス停留所。長い間、そこのトラクター、バスおよびトラックは動いていない…。</text>
+	</string>
+	<string id="ui_map_desc_mp_autostation_large">
+		<text>荒廃した貯蔵施設の建物と、それに隣接した領域。いくつかの装備や供給品はここで見つけることができるが、よく探す必要がある。貯蔵施設の屋上の強力なアノマリーや狙撃兵に注意。そこはそのエリアへのすべての道を監視するのに、非常に有利な位置である。</text>
+	</string>
+	<string id="ui_map_desc_mp_autostation_short">
+		<text>荒廃した貯蔵施設の建物および隣接した領域。強力なアノマリーや敵の狙撃兵に注意。</text>
+	</string>
+	<string id="ui_map_desc_mp_bath_large">
+		<text>得体が知れないが魅惑的な場所。このプールは誰かが何かの実験を行なうために建設された。しかし、その正確な目的は永久に謎のままだろう。ここには話すようなアーティファクトはない。なので、ストーカーは単に奇妙な機械や装置の残骸に引き寄せられるのだろう。屋上に注意することと、そのエリアが非常に高い放射能レベルということを覚えておくこと。</text>
+	</string>
+	<string id="ui_map_desc_mp_bath_short">
+		<text>得体が知れないが魅惑的な場所。このプールは誰かが何かの実験を行なうために建設された。しかし、その正確な目的は永久に謎のままだろう。</text>
+	</string>
+	<string id="ui_map_desc_mp_darkvalley_large">
+		<text>ダークバレーのこの危険な場所には、長い通りと荒れ果てた研究所がある。大学で何が教えられたかは、まったく知られていない。今、ここで学習できることは、生き残る方法だけだ。それと、屋上に十分に注意しろ。</text>
+	</string>
+	<string id="ui_map_desc_mp_darkvalley_short">
+		<text>ダークバレーのこの危険な場所には、長い通りと荒れ果てた研究所がある。</text>
+	</string>
+	<string id="ui_map_desc_mp_factory_large">
+		<text>この陰気で荒廃した工場は、数多くのストーカーの休息所だ。多数のアノマリーが待ち受けているが、その価値のあるアーティファクトに、磁石に引きつけられるように訪問者が殺到している。放射線に注意！</text>
+	</string>
+	<string id="ui_map_desc_mp_factory_short">
+		<text>この陰気で荒廃した工場は、数多くのストーカーの休息所だ。</text>
+	</string>
+	<string id="ui_map_desc_mp_firestation_large">
+		<text>1986年にチョルノービリ原子力発電所を救うために、その全力が送られた消防署。塔は近くや遠くを監視するのに非常に有利な位置だ。建物の上階と地下に行く者はほとんどないが、良い場所。暫くの間、ゾーンの各派閥はこの最良の戦略位置を得るために戦った。</text>
+	</string>
+	<string id="ui_map_desc_mp_firestation_short">
+		<text>1986年にチョルノービリ原子力発電所を救うために、その全力が送られた消防署。塔は近くや遠くを監視するのに非常に有利な位置だ。</text>
+	</string>
+	<string id="ui_map_desc_mp_garbage_large">
+		<text>巨大なガラクタ置場。1986年の災害の後に、多くの放射性廃棄物がここに捨てられた。老朽化したクレーンや様々な設備でいっぱい。このあたりで他に興味を引くものは、古い荒廃した建物と巨大な工場。コルドンに近く、アーティファクトが豊富なため、容易な分け前を好むストーカーを引きつける。</text>
+	</string>
+	<string id="ui_map_desc_mp_garbage_short">
+		<text>巨大なガラクタ置場。1986年の災害の後に、多くの放射性廃棄物がここに捨てられた。</text>
+	</string>
+	<string id="ui_map_desc_mp_limansk_large">
+		<text>得体の知れない町のリマンスクの小地区には、廃棄された団地や半分建設された建物がある。いくつかの高価なアーティファクトがここで見つかったときは、そのニュースはゾーンの至る所に素早く広がった。ほんの少しの道だけがリマンスクへと開かれたが、その時以来、銃撃が少しの間も止まない。</text>
+	</string>
+	<string id="ui_map_desc_mp_limansk_short">
+		<text>得体の知れない町のリマンスクの小地区には、廃棄された団地や半分建設された建物がある。</text>
+	</string>
+	<string id="ui_map_desc_mp_lost_village_large">
+		<text>ゾーンの奥深くの、放棄され神に見捨てられた村。小さくて浅い乾いた湖は、多くの破壊された車両が捨てられ、ゾーンの現実が潜在意識下から恐れの感情を呼び覚ます。狙撃兵に用心しなくてはならないが、ゾーンは勇士を好むことを覚えておくこと。</text>
+	</string>
+	<string id="ui_map_desc_mp_lost_village_short">
+		<text>ゾーンの奥深くの、放棄され神に見捨てられた村。小さくて浅い乾いた湖は、多くの破壊された車両が捨てられ、ゾーンの現実が潜在意識下から恐れの感情を呼び覚ます。</text>
+	</string>
+	<string id="ui_map_desc_mp_military_1_large">
+		<text>永久に動かないトラックや装甲車が置いてある、放棄された軍の基地。荒れ果てた司令部と兵舎がある。しかし、荒れ果てた外観は偽りだ。ここは本当のアーティファクトのドル箱だが、それは敵がどこかの角に潜伏していることも意味する。</text>
+	</string>
+	<string id="ui_map_desc_mp_military_1_short">
+		<text>永久に動かないトラックや装甲車が置いてある、放棄された軍の基地。荒れ果てた司令部と兵舎がある。</text>
+	</string>
+	<string id="ui_map_desc_mp_military_2_large">
+		<text>この古い村は本当に不吉な場所だ。ここに来る勇気があるのなら、頭への弾丸の歓迎を避ける用意をしろ。ここには安全な場所はないので、スコープとサイレンサーを持った方がよい！</text>
+	</string>
+	<string id="ui_map_desc_mp_military_2_short">
+		<text>この古い村は本当に不吉な場所だ。仕事をすることはできるが、休む暇はない。</text>
+	</string>
+	<string id="ui_map_desc_mp_pool_large">
+		<text>ここはプールではなく、血の浴場だ。弾丸、爆発、そして死の悲鳴が、そのタイルが貼られた廊下に反響する。ほんの少しのストーカーがそこへの道を知っているが、その出口を知るストーカーはさらに少ない。</text>
+	</string>
+	<string id="ui_map_desc_mp_pool_short">
+		<text>ここはプールではなく、血の浴場だ。弾丸、爆発が、そのタイルが貼られた廊下に反響する。</text>
+	</string>
+	<string id="ui_map_desc_mp_railraod_short">
+		<text>ロストク工場の近くの小さな駅。</text>
+	</string>
+	<string id="ui_map_desc_mp_railroad_large">
+		<text>ロストク工場の近くの小さな駅。永久に動かない錆びた貨車や機関車が多くある。豊富なアーティファクトが、ゾーンのあちこちから恐れを知らないストーカーを引き寄せる。</text>
+	</string>
+	<string id="ui_map_desc_mp_rembasa_large">
+		<text>小さな村の近くの修理基地。すべての車両はチョルノービリ災害の後で押収されたものだ。時間が過ぎ、部品を求めて、残った機械は徹底的に調べられた。そのエリアは荒れた湿原や汚染された葦原のような危険でいっぱいだが、幸運ならば、本当に価値のある物が見つかるかもしれない。</text>
+	</string>
+	<string id="ui_map_desc_mp_rembasa_short">
+		<text>小さな村の近くの修理基地。そのエリアは荒れた湿原や汚染された葦原のような危険でいっぱいだ。</text>
+	</string>
+	<string id="ui_map_desc_mp_rostok_large">
+		<text>多くの錆びた金属が、無造作にコンクリート壁の後ろに積まれている。世紀の変わり目の前、プラントでは拡声器から社会主義のスローガンが流されて、常に作業が行われていた。しかし、建物はかなり以前に放棄された。</text>
+	</string>
+	<string id="ui_map_desc_mp_rostok_short">
+		<text>古い寂しいプラント：コンクリート壁の後ろに積まれた金属の静けさだけが、残ったもののすべてだ。</text>
+	</string>
+	<string id="ui_map_desc_mp_sport_center_large">
+		<text>荒廃した学校から遠くない場所にある、プリピャチのスポーツセンター。ここで行われたスポーツのタイプは、喜んで参加する熱狂者の数と同様に、1986年以来大きく変った。ストーカーたちは、疑わしい評判や埋蔵物、そしてアーティファクトによってここへ引き寄せられるが…、しばしば、ここに永久に残ることになる。</text>
+	</string>
+	<string id="ui_map_desc_mp_sport_center_short">
+		<text>荒廃した学校から遠くない場所にある、プリピャチのスポーツセンター。</text>
+	</string>
+	<string id="ui_map_desc_mp_training_camp_large">
+		<text>すごく奇妙な場所。それを見たことを主張するストーカーは皆に笑われるが、それは実在する。重力のアノマリーが、異国風の景観の土地を引き剥がしたのだ。そのエリアは地面から剥ぎ取られて、3つの巨大な塔、軍用品の残り、および地球の浮島によってできている。</text>
+	</string>
+	<string id="ui_map_desc_mp_training_camp_short">
+		<text>すごく奇妙な場所。重力のアノマリーが、異国風の景観の土地を引き剥がしたのだ。</text>
+	</string>
+	<string id="ui_map_desc_mp_workshop_large">
+		<text>デューティーがここに落ちつく前、このあたりはロストク工場の外縁だった。不気味な場所だが、アーティファクトに富んでいる。空の工場や倉庫のすべてには致死的な危険がいっぱいだ。十分に注意深くして、白い塔を警戒して見張ること…。</text>
+	</string>
+	<string id="ui_map_desc_mp_workshop_short">
+		<text>デューティーがここに落ちつく前、このあたりはロストク工場の外縁だった。不気味な場所だが、アーティファクトに富んでいる。</text>
+	</string>
+	<string id="ui_map_desc_mp_pripyat_large">
+		<text>以前はチョルノービリで働いた労働者のホームだった、プリピャチの荒廃した町の中へ行こうという者はほとんどいない。だが最近、死の街の小さな区域、プロメセウス映画館、桟橋およびクルチャトバ街辺りでは、通りで激しく撃ち合うトラブルがある。</text>
+	</string>
+	<string id="ui_map_desc_mp_pripyat_short">
+		<text>死の街の小さな区域、プロメセウス映画館、桟橋およびクルチャトバ街辺りでは、通りで激しく撃ち合うトラブルがある。</text>
+	</string>
+</string_table>

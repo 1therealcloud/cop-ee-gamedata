@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="Btn_Cancel">
+		<text>Anuluj</text>
+	</string>
+	<string id="Btn_No">
+		<text>Nie</text>
+	</string>
+	<string id="Btn_OK">
+		<text>OK</text>
+	</string>
+	<string id="Btn_Yes">
+		<text>Tak</text>
+	</string>
+	<string id="bad">
+		<text>Џle</text>
+	</string>
+	<string id="enemy">
+		<text>Wrуg</text>
+	</string>
+	<string id="excellent">
+		<text>Њwietnie</text>
+	</string>
+	<string id="experienced">
+		<text>Ma doњwiadczenie</text>
+	</string>
+	<string id="friendly">
+		<text>Przyjaciel</text>
+	</string>
+	<string id="global_map">
+		<text>Mapa Zony</text>
+	</string>
+	<string id="good">
+		<text>Dobrze</text>
+	</string>
+	<string id="indifferent">
+		<text>Obojкtnie</text>
+	</string>
+	<string id="master">
+		<text>Mistrz</text>
+	</string>
+	<string id="mm_mp_pda_hunt">
+		<text>Bonus za zdobyte PDA</text>
+	</string>
+	<string id="mp_only_one_voting">
+		<text>Dozwolone jest tylko jedno aktywne gіosowanie.</text>
+	</string>
+	<string id="neutral">
+		<text>Neutralny stosunek</text>
+	</string>
+	<string id="novice">
+		<text>Nowicjusz</text>
+	</string>
+	<string id="st_game">
+		<text>Gra</text>
+	</string>
+	<string id="st_item_used">
+		<text>Uїywane</text>
+	</string>
+	<string id="st_level">
+		<text>Poziom</text>
+	</string>
+	<string id="st_loading_ai_objects">
+		<text>Wczytywanie obiektуw SI</text>
+	</string>
+	<string id="st_loading_alife_simulator">
+		<text>Serwer: wczytywanie symulatora їycia</text>
+	</string>
+	<string id="st_loading_cform">
+		<text>Wczytywanie CFORM</text>
+	</string>
+	<string id="st_loading_details">
+		<text>Wczytywanie detali</text>
+	</string>
+	<string id="st_loading_geometry">
+		<text>Wczytywanie danych geometrycznych</text>
+	</string>
+	<string id="st_loading_saved_game">
+		<text>Wczytywanie zapisanej gry</text>
+	</string>
+	<string id="st_loading_sectors_portals">
+		<text>Wczytywanie stref i portali</text>
+	</string>
+	<string id="st_loading_shaders">
+		<text>Wczytywanie cieniowania</text>
+	</string>
+	<string id="st_loading_spatial_db">
+		<text>Wczytywanie przestrzennej bazy danych</text>
+	</string>
+	<string id="st_loading_textures">
+		<text>Wczytywanie tekstur</text>
+	</string>
+	<string id="st_mp_direct_ip">
+		<text>Bezpoњr. adres IP</text>
+	</string>
+	<string id="st_no_active_task">
+		<text>Brak aktywnego zadania</text>
+	</string>
+	<string id="st_not_enough_money">
+		<text>Za maіo pieniкdzy</text>
+	</string>
+	<string id="st_not_enough_money_npc">
+		<text>BN ma za maіo pieniкdzy</text>
+	</string>
+	<string id="st_opening_stream">
+		<text>Otwieranie strumienia</text>
+	</string>
+	<string id="st_prefetching_objects">
+		<text>Buforowanie obiektуw</text>
+	</string>
+	<string id="st_rubles">
+		<text>SR.</text>
+	</string>
+	<string id="st_server_connecting">
+		<text>SERWER: і№czenie</text>
+	</string>
+	<string id="st_server_starting">
+		<text>SERWER: rozpoczynanie</text>
+	</string>
+	<string id="st_validating_cdkey">
+		<text>Sprawdzanie klucza CD</text>
+	</string>
+	<string id="st_video">
+		<text>Grafika</text>
+	</string>
+	<string id="terrible">
+		<text>Strasznie</text>
+	</string>
+	<string id="ui_inv_repair">
+		<text>Naprawiж</text>
+	</string>
+	<string id="ui_st_cant_run_r2">
+		<text>Nie moїna uruchomiж funkcji Render 2 na tym komputerze</text>
+	</string>
+	<string id="ui_st_community">
+		<text>Frakcja</text>
+	</string>
+	<string id="ui_st_conn_cdkey_disabled">
+		<text>Bі№d poі№czenia: klucz CD jest nieaktywny. Skontaktuj siк z dziaіem pomocy technicznej.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_in_use">
+		<text>Bі№d poі№czenia: klucz CD jest juї w uїyciu.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_invalid">
+		<text>Bі№d poі№czenia: niewіaњciwy klucz CD.</text>
+	</string>
+	<string id="ui_st_conn_invalid_host">
+		<text>Bі№d poі№czenia: nieprawidіowy host.</text>
+	</string>
+	<string id="ui_st_conn_invalid_pass">
+		<text>Bі№d poі№czenia: nieprawidіowe hasіo.</text>
+	</string>
+	<string id="ui_st_conn_new_patch">
+		<text>Dostкpna jest nowa poprawka.\n Wersja: %s\n Lokalizacja: %s\nCzy chcesz j№ teraz pobraж?</text>
+	</string>
+	<string id="ui_st_conn_no_new_patch">
+		<text>Brak nowych poprawek</text>
+	</string>
+	<string id="ui_st_conn_rejected_server">
+		<text>Bі№d poі№czenia: poі№czenie odrzucone przez serwer.</text>
+	</string>
+	<string id="ui_st_conn_sess_full">
+		<text>Bі№d poі№czenia: serwer jest peіny.</text>
+	</string>
+	<string id="ui_st_conn_version_differs">
+		<text>Bі№d poі№czenia: inna wersja.</text>
+	</string>
+	<string id="ui_st_connecting_to_masterserver">
+		<text>Ј№czenie z serwerem gіуwnym</text>
+	</string>
+	<string id="ui_st_days">
+		<text>dn.</text>
+	</string>
+	<string id="ui_st_error">
+		<text>Bі№d</text>
+	</string>
+	<string id="ui_st_error_loading">
+		<text>Bі№d wczytywania</text>
+	</string>
+	<string id="ui_st_file_exist_owerwrite_q">
+		<text>Plik o tej nazwie juї istnieje. Czy chcesz go zast№piж?</text>
+	</string>
+	<string id="ui_st_file_name_is_empty">
+		<text>Nazwa pliku jest pusta</text>
+	</string>
+	<string id="ui_st_hours">
+		<text>godz.</text>
+	</string>
+	<string id="ui_st_kicked_by_battleye">
+		<text>Uїytkownik zostaі odі№czony przez system ochrony BattleEye:</text>
+	</string>
+	<string id="ui_st_kicked_by_server">
+		<text>Odі№czono. Powуd:</text>
+	</string>
+	<string id="ui_st_leave">
+		<text>Wyjdџ</text>
+	</string>
+	<string id="ui_st_load_game_confirm">
+		<text>Wczytanie tej gry spowoduje utratк niezapisanych danych. Czy chcesz kontynuowaж?</text>
+	</string>
+	<string id="ui_st_mins">
+		<text>min</text>
+	</string>
+	<string id="ui_st_months">
+		<text>mies.</text>
+	</string>
+	<string id="ui_st_opponent_items">
+		<text>Plecak</text>
+	</string>
+	<string id="ui_st_params">
+		<text>Parametry</text>
+	</string>
+	<string id="ui_st_patch_download_error">
+		<text>Nie udaіo siк pobraж poprawki.</text>
+	</string>
+	<string id="ui_st_patch_download_success">
+		<text>Udaіo siк pobraж poprawkк. Czy chcesz j№ zainstalowaж?</text>
+	</string>
+	<string id="ui_st_price">
+		<text>Cena</text>
+	</string>
+	<string id="ui_st_rank">
+		<text>Ranga</text>
+	</string>
+	<string id="ui_st_relation">
+		<text>Przychylnoњж</text>
+	</string>
+	<string id="ui_st_reputation">
+		<text>Reputacja</text>
+	</string>
+	<string id="ui_st_secs">
+		<text>s</text>
+	</string>
+	<string id="ui_st_select_one_map">
+		<text>Wybierz przynajmniej jedn№ mapк</text>
+	</string>
+	<string id="ui_st_take_all">
+		<text>Weџ wszystko</text>
+	</string>
+	<string id="ui_st_time_remains">
+		<text>Pozostaіo</text>
+	</string>
+	<string id="ui_st_voting_disabled">
+		<text>Gіosowanie nieudane</text>
+	</string>
+	<string id="ui_st_want_to_leave_game_q">
+		<text>Czy na pewno chcesz wyjњж z gry?</text>
+	</string>
+	<string id="ui_total_price">
+		<text>Ј№cznie</text>
+	</string>
+	<string id="very_bad">
+		<text>bardzo џle</text>
+	</string>
+	<string id="very_good">
+		<text>bardzo dobrze</text>
+	</string>
+	<string id="veteran">
+		<text>Weteran</text>
+	</string>
+	<string id="ui_st_inv_repair">
+		<text>Naprawa</text>
+	</string>
+	<string id="ui_repair_button_hint">
+		<text>Napraw wybrany przedmiot ($$ACTION_ACTORMENU_TAKE_ALL$$)</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ Napraw wybrany przedmiot </text_c>
+	</string>
+	<string id="st_key_notbinded">
+		<text>...</text>
+	</string>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<string id="ui_st_upgrade">
+		<text>Napraw/modyfikuj</text>
+	</string>
+	<string id="ui_st_upgrade_console">
+		<text>$$ACTION_talk_trade_upgrade$$ Napraw/modyfikuj</text>
+	</string>
+	<string id="ui_st_buy">
+		<text>Kup</text>
+	</string>
+	<string id="ui_st_sell">
+		<text>Sprzedaj</text>
+	</string>
+	<string id="ui_st_trade">
+		<text>Handel</text>
+	</string>
+	<string id="ui_st_exit_hint">
+		<text>Zamknij okno ($$ACTION_QUIT$$)</text>
+		<text_c>$$ACTION_QUIT$$ Zamknij okno </text_c>
+	</string>
+	<string id="ui_st_trade_hint">
+		<text>Otwуrz okno handlowania ($$ACTION_ACTORMENU_TAKE_ALL$$)</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ Otwуrz okno handlowania </text_c>
+	</string>
+	<string id="ui_st_upgrade_hint">
+		<text>Otwуrz okno naprawy i modyfikacji ($$ACTION_ACTORMENU_TAKE_ALL$$)</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ Otwуrz okno naprawy i modyfikacji </text_c>
+	</string>
+	<string id="ui_st_take_all_hint">
+		<text>Przenieњ wszystkie przedmioty do plecaka ($$ACTION_ACTORMENU_TAKE_ALL$$)</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ Przenieњ wszystkie przedmioty do plecaka </text_c>
+	</string>
+	<string id="ui_st_buy_hint">
+		<text>Kup wybrane przedmioty ($$ACTION_ACTORMENU_TAKE_ALL$$)</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ Kup wybrane przedmioty </text_c>
+	</string>
+	<string id="ui_st_sell_hint">
+		<text>Sprzedaj wybrane przedmioty ($$ACTION_ACTORMENU_TAKE_ALL$$)</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ Sprzedaj wybrane przedmioty </text_c>
+	</string>
+	
+</string_table>

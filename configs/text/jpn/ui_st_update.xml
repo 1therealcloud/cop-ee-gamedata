@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ui_mm_vertical_sense">
+		<text>垂直感度</text>
+	</string>
+	<string id="ui_mm_horizontal_sense">
+		<text>水平感度</text>
+	</string>
+	
+	<string id="st_move_to_bag_all">
+		<text>すべてリュックに移動</text>
+	</string>
+	<string id="st_move_to_dead_body">
+		<text>譲渡</text>
+	</string>
+	<string id="st_move_to_dead_body_all">
+		<text>すべて譲渡</text>
+	</string>
+
+	<string id="st_move_to_offer">
+		<text>提供</text>
+	</string>
+	<string id="st_move_to_offer_amount">
+		<text>数量を提供</text>
+	</string>
+	<string id="st_move_to_offer_all">
+		<text>すべて提供</text>
+	</string>
+	<string id="st_remove_from_offer">
+		<text>削除</text>
+	</string>
+	<string id="st_remove_from_offer_amount">
+		<text>数量を削除</text>
+	</string>
+	<string id="st_remove_from_offer_all">
+		<text>すべて削除</text>
+	</string>
+
+
+	<string id="st_move_to_cart">
+		<text>選択</text>
+	</string>
+	<string id="st_move_to_cart_amount">
+		<text>数量を選択</text>
+	</string>
+	<string id="st_move_to_cart_all">
+		<text>すべて選択</text>
+	</string>
+	<string id="st_remove_from_cart">
+		<text>削除</text>
+	</string>
+	<string id="st_remove_from_cart_amount">
+		<text>数量を削除</text>
+	</string>
+	<string id="st_remove_from_cart_all">
+		<text>すべて削除</text>
+	</string>
+	
+	<string id="st_upgrade">
+		<text>アップグレード</text>
+	</string>
+	<string id="st_repair">
+		<text>修理</text>
+	</string>
+	
+	<string id="ui_mmenu_no_savegames">
+		<text>セーブゲームはありません</text>
+	</string>
+	<string id="ui_mmenu_new_savegame">
+		<text>新規セーブゲーム</text>
+	</string>
+
+	<string id="ui_mm_controller_type">
+    	<text>コントローラーの種類</text>
+		<text_ps5>入力メソッド</text_ps5>
+		<text_xbox>入力メソッド</text_xbox>
+  	</string>
+	<string id="ui_mm_controller_icon_type">
+		<text>コントローラーアイコン表示タイプ</text>
+	</string>
+  	<string id="controller">
+    	<text>コントローラー</text>
+		<text_ps5>DualSense® ワイヤレスコントローラー</text_ps5>
+  	</string>
+  	<string id="kbdmouse">
+    	<text>キーボードとマウス</text>
+  	</string>
+	
+	<!-- INPUT LEGENDS -->
+	<!-- GENERAL -->
+	<string id="legend_ui_navigation_v">
+		<text>$$ICON$controller$lsv$$/$$ICON$controller$dpadv$$ナビゲーション</text>
+	</string>
+	<string id="legend_ui_navigation">
+		<text>$$ICON$controller$ls$$/$$ICON$controller$dpad$$ナビゲーション</text>
+	</string>
+	<string id="legend_ui_tabs">
+		<text>$$ACTION_UI_TAB_LEFT$$/$$ACTION_UI_TAB_RIGHT$$タブ</text>
+	</string>
+	<string id="legend_ui_back">
+		<text>$$ACTION_UI_BACK$$戻る</text>
+	</string>
+	<string id="legend_ui_advanced">
+		<text>$$ACTION_UI_ACTION_2$$ 高度な動画オプション</text>
+	</string>
+	<string id="legend_ui_basic">
+		<text>$$ACTION_UI_ACTION_2$$ 基本動画オプション</text>
+	</string>
+	
+	<!-- MAIN MENU -->
+	<string id="legend_ui_mmenu_select">
+		<text>$$ACTION_UI_ACCEPT$$メニューアイテムを選択</text>
+	</string>
+	<string id="legend_ui_mmenu_select_difficulty">
+		<text>$$ACTION_UI_ACCEPT$$難易度を選択</text>
+	</string>
+	
+	<string id="legend_ui_savegame_load">
+		<text>$$ACTION_UI_ACCEPT$$ロード</text>
+	</string>
+	<string id="legend_ui_savegame_delete">
+		<text>$$ACTION_UI_ACTION_1$$削除</text>
+	</string>
+	<string id="legend_ui_savegame_save">
+		<text>$$ACTION_UI_ACCEPT$$セーブ</text>
+	</string>
+	
+	<string id="legend_ui_options_save">
+		<text>$$ACTION_UI_ACTION_1$$受け取る</text>
+	</string>	
+	<string id="legend_ui_options_toggle">
+		<text>$$ACTION_UI_ACCEPT$$切り替え</text>
+	</string>
+	<string id="legend_ui_options_tune_item">
+		<text>$$ICON$controller$lsh$$/$$ICON$controller$dpadh$$調整</text>
+	</string>
+	
+	<!-- INGAME UIs -->
+	
+	<!-- INVENTORY -->
+	<string id="legend_ui_scroll_info">
+		<text>$$ICON$controller$lt$$/$$ICON$controller$rt$$情報をスクロール</text>
+	</string>
+	<string id="legend_ui_actions">
+		<text>$$ACTION_UI_CONTEXT_MENU$$アクション</text>
+	</string>
+	<string id="legend_ui_use">
+		<text>$$ACTION_UI_ACCEPT$$使用</text>
+	</string>
+	<string id="legend_ui_info">
+		<text>$$ACTION_UI_HINT$$情報</text>
+	</string>
+
+	<string id="legend_ui_add10">
+		<text>$$ACTION_UI_TAB_LEFT$$/$$ACTION_UI_TAB_RIGHT$$ +/- 10</text>
+	</string>
+
+	<string id="legend_ui_add100">
+		<text>$$ACTION_PDA_TASKS_MAP_ZOOM_IN$$/$$ACTION_PDA_TASKS_MAP_ZOOM_OUT$$ +/- 100</text>
+	</string>
+	
+	<string id="legend_ui_selector">
+		<text>$$ICON$controller$ls$$/$$ICON$controller$dpad$$セレクター</text>
+	</string>
+	<string id="legend_ui_area_selector">
+		<text>$$ICON$controller$rs$$エリアの切り替え</text>
+	</string>
+	
+	<string id="legend_ui_take_all">
+		<text>$$ACTION_actormenu_action$$全て取得</text>
+	</string>
+	<string id="legend_ui_trade">
+		<text>$$ACTION_actormenu_action$$取引</text>
+	</string>
+	<string id="legend_ui_propbox_select">
+		<text>$$ACTION_UI_ACCEPT$$選択</text>
+	</string>
+	<string id="legend_ui_repair">
+		<text>$$ACTION_actormenu_action$$修理</text>
+	</string>
+	<string id="legend_ui_upgrade">
+		<text>$$ACTION_UI_ACCEPT$$ アップグレード</text>
+	</string>
+	
+	<!-- wheel menu -->
+	<string id="legend_ui_wheelmenu_select">
+		<text>$$ICON$controller$lb$$ + $$ICON$controller$rs$$選択セクター</text>
+	</string>
+	<string id="legend_ui_drop_weapon">
+		<text>$$ACTION_DROP$$武器を落とす</text>
+	</string>
+	<string id="legend_ui_night_vision">
+		<text>$$ACTION_NIGHT_VISION$$ナイトビジョン</text>
+	</string>
+	<string id="legend_ui_wpn_func">
+		<text>$$ACTION_wpn_func$$追加の武器</text>
+	</string>
+	<string id="legend_ui_fire_mode">
+		<text>$$ACTION_wpn_firemode_next$$射撃速度</text>
+	</string>
+	<string id="legend_ui_ammo_next">
+		<text>$$ACTION_wpn_next$$弾薬の種類</text>
+	</string>
+	
+	<!-- talk dialog -->
+	<string id="legend_ui_talk_replies">
+		<text>$$ICON$controller$lsv$$/$$ICON$controller$dpadv$$選択</text>
+	</string>
+	<string id="legend_ui_talk_reply">
+		<text>$$ACTION_UI_ACCEPT$$会話</text>
+	</string>
+	<string id="legend_ui_talk_log">
+		<text>$$ICON$controller$rsv$$ログ</text>
+	</string>
+	<string id="legend_ui_talk_open_trade">
+		<text>$$ACTION_talk_trade_upgrade$$取引</text>
+	</string>
+
+	<string id="legend_ui_talk_reply_PC">
+		<text>（$$ACTION_USE$$）を選択</text>
+	</string>
+	<string id="legend_ui_talk_select">
+		<text>ナビゲート($$ACTION_FORWARD$$)/($$ACTION_BACK$$)</text>
+	</string>
+	
+	<!-- PDA -->
+	<string id="legend_ui_tasks_show_on_map">
+		<text>$$ACTION_pda_tasks_show_on_map$$マップに表示</text>
+	</string>
+	<string id="legend_ui_tasks_track_on_map">
+		<text>$$ACTION_pda_tasks_track_on_map$$追跡</text>
+	</string>
+	<string id="legend_ui_tasks_map_move">
+		<text>$$ICON$controller$rs$$カーソルの移動</text>
+	</string>
+	<string id="legend_ui_tasks_map_show_me">
+		<text>$$ACTION_pda_tasks_map_show_me$$現在地</text>
+	</string>
+	<string id="legend_ui_tasks_map_zoom">
+		<text>$$ACTION_pda_tasks_map_zoom_out$$/$$ACTION_pda_tasks_map_zoom_in$$ズームレベル</text>
+	</string>
+	<string id="legend_ui_tasks_filter_next">
+		<text>$$ICON$controller$dpadh$$タスクフィルター</text>
+	</string>
+	<string id="legend_ui_tasks_filter_toggle">
+		<text>$$ACTION_pda_tasks_filter_toggle$$フィルターの切り替え</text>
+	</string>
+	<string id="legend_ui_pda_scroll_info">
+		<text>$$ICON$controller$rsv$$スクロール</text>
+	</string>
+	<string id="legend_ui_pda_show_mission">
+		<text>$$ACTION_pda_tasks_toggle_list$$ミッションを表示</text>
+	</string>
+	<string id="legend_ui_pda_hide_mission">
+		<text>$$ACTION_pda_tasks_toggle_list$$ミッションを非表示</text>
+	</string>
+	<string id="legend_ui_pda_toggle_legend">
+		<text>$$ACTION_pda_tasks_toggle_legend$$説明文</text>
+	</string>
+	
+	<!-- PDA Logs -->
+	
+	<string id="legend_ui_pda_log_to_start">
+		<text>$$ACTION_pda_log_to_start$$最初</text>
+	</string>
+	<string id="legend_ui_pda_log_to_end">
+		<text>$$ACTION_pda_log_to_end$$最後</text>
+	</string>
+	<string id="legend_ui_pda_log_date_prev">
+		<text>$$ACTION_pda_log_date_prev$$前日</text>
+	</string>
+	<string id="legend_ui_pda_log_date_next">
+		<text>$$ACTION_pda_log_date_next$$次の日</text>
+	</string>
+	<string id="legend_ui_pda_log_show_news">
+		<text>$$ACTION_pda_log_show_news$$新着情報の切り替え</text>
+	</string>
+	<string id="legend_ui_pda_log_show_dialogs">
+		<text>$$ACTION_pda_log_show_dialogs$$会話の切り替え</text>
+	</string>
+	
+	<string id="legend_ui_numpad_press">
+		<text>$$ACTION_UI_ACCEPT$$ボタンを押す</text>
+	</string>
+	
+
+
+	<string id="legend_ui_sign_back_in">
+		<text>$$ACTION_UI_ACCEPT$$再度サインイン</text>
+	</string>
+	<string id="legend_ui_title_screen">
+		<text>$$ACTION_UI_BACK$$タイトル画面</text>
+	</string>
+	<!-- MTB-marcin.lawski Start: Remove duplication of text which crash debug>
+	<string id="st_change_user">
+		<text>The active user has disconnected the controller. Please reconnect or go back to the title screen to switch to a new user.</text>
+	</string>
+	<MTB-marcin.lawski Start: Remove duplication of text which crash debug -->
+
+	<!-- Controller Layout info -->
+
+	<string id="ui_pad_layout_PDA">
+		<text>PDAを開く</text>
+	</string>
+	<string id="ui_pad_layout_wheel">
+		<text>武器ホイール</text>
+	</string>
+	<string id="ui_pad_layout_aim">
+		<text>エイム</text>
+	</string>
+	<string id="ui_pad_layout_quckslot0">
+		<text>クイックスロットの最初のアイテム</text>
+	</string>
+	<string id="ui_pad_layout_quckslot1">
+		<text>クリックスロットの2番目のアイテム</text>
+	</string>
+	<string id="ui_pad_layout_quckslot2">
+		<text>クイックスロットの3番目のアイテム</text>
+	</string>
+	<string id="ui_pad_layout_quckslot3">
+		<text>クイックスロットの4番目のアイテム</text>
+	</string>
+	<string id="ui_pad_layout_strafe">
+		<text>機銃掃射</text>
+	</string>
+	<string id="ui_pad_layout_move">
+		<text>移動</text>
+	</string>
+	<string id="ui_pad_layout_sprint">
+		<text>ダッシュ</text>
+	</string>
+
+	<string id="ui_pad_layout_menu">
+		<text>メニュー</text>
+	</string>
+	<string id="ui_pad_layout_jump">
+		<text>ジャンプ</text>
+	</string>
+	<string id="ui_pad_layout_shoot">
+		<text>射撃</text>
+	</string>
+	<string id="ui_pad_layout_inventory">
+		<text>インベントリ</text>
+	</string>
+	<string id="ui_pad_layout_crouch">
+		<text>しゃがむ</text>
+	</string>
+	<string id="ui_pad_layout_reload">
+		<text>リロード</text>
+	</string>
+	<string id="ui_pad_layout_action">
+		<text>アクション</text>
+	</string>
+	<string id="ui_pad_layout_lookx">
+		<text>ルック X</text>
+	</string>
+	<string id="ui_pad_layout_Looky">
+		<text>ルック Y</text>
+	</string>
+	<string id="ui_pad_layout_torch">
+		<text>フラッシュライト</text>
+	</string>
+	<string id="ui_slider_amount">
+		<text>数量：%d</text>
+	</string>
+	<string id="ui_mm_ads_sens">
+		<text>エイム感度</text>
+	</string>
+	<string id="ui_mm_ads_scope_sens">
+		<text>スコープエイム感度</text>
+	</string>
+	<string id="ui_mm_shoot_sens">
+		<text>リコイルコントロール</text>
+	</string>
+	<string id="ui_accept_eula">
+		<text>受け取る</text>
+	</string>
+	<string id="ui_elua_name">
+		<text>エンドユーザー使用許諾契約（EULA）</text>
+	</string>
+	<string id="ui_mm_nx64_setlang">
+		<text>言語を選択してください</text>
+	</string>
+	<string id="ui_elua_licence0_type">
+	<text>__HEADER__</text>
+</string>
+	<string id="ui_elua_licence0">
+		<text>『S.T.A.L.K.E.R.: Call of Prypiat』強化版 – エンドユーザー使用許諾契約（EULA）</text>
+	</string>
+	<string id="ui_elua_licence1_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence1">
+		<text>最終更新：2025年5月28日</text>
+	</string>
+	<string id="ui_elua_licence2">
+		<text>本エンドユーザー使用許諾契約（EULA）は、いずれの項も記録および将来の参照目的で印刷することができます。</text>
+	</string>
+	<string id="ui_elua_licence3_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence3">
+		<text>1. 本EULAについて</text>
+	</string>
+	<string id="ui_elua_licence4">
+		<text>1.1. 本エンドユーザー使用許諾契約（以下「EULA」）は、登記住所をLeontiou A, 159, MARYVONNE BUILDING, Floor 4 & 5, Office 402, 3022, Limassol, Cyprusに有するGSC Game World Global Ltd（以下「GSC」または「当社」）とお客様の関係を規定する法的拘束力のある契約です。</text>
+	</string>
+	<string id="ui_elua_licence5">
+		<text>本EULAは、購入／取得の形態にかかわらず、ゲームキー／コードを含むがこれに限定されない、当社のゲーム作品『S.T.A.L.K.E.R.: Call of Prypiat』強化版 （以下「S.T.A.L.K.E.R.」または「本ゲーム」）を対象とするものです。</text>
+	</string>
+	<string id="ui_elua_licence6">
+		<text>1.2. 本EULAは、S.T.A.L.K.E.R.のダウンロード、インストール、または実際の使用（いずれか早い時点）をもって、お客様および当社を拘束するものとします。同意いただけない場合は、本ゲームのダウンロード、インストール、使用のいずれも行わないでください。</text>
+	</string>
+	<string id="ui_elua_licence7">
+		<text>1.3. 以下の文書は、本EULAの不可欠な部分であり、ゲームを受け入れ、ダウンロード、インストール、または使用するために必須です。(a) ファンコンテンツ作成ガイドライン (https://www.gsc-game.com/guidelines) – GSCは常に当社作品の世界観に基づいたファンコンテンツを歓迎しており、この文書はそれらの作成における制限について説明しています。(b)GSCプライバシーポリシー(www.gsc-game.com/privacy_policy) – GSCによるお客様の個人情報の収集、使用および保護についての文書です。これらの文書は本EULAの一部であり、時折更新される可能性があります。また、ゲームの配信先プラットフォームによっては、そのプラットフォームの利用規約にも同意し、従う必要があります。</text>
+	</string>
+	<string id="ui_elua_licence8_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence8">
+		<text>2. 健康への影響、年齢制限、ゲーム内容に関する警告および制限</text>
+	</string>
+	<string id="ui_elua_licence9">
+		<text>2.1. 光過敏症／発作に関する警告。ごく一部の人は、光のパターンや光の急速な点滅などを含むがこれらに限定されない、特定の光刺激にさらされた時に、てんかん発作や失神を起こすことがあります。本ゲームを遊んでいる最中に失神、てんかん発作、めまい、視界の変化、眼球や筋肉の痙攣、手足の痙攣や震え、意識の喪失、見当識障害、錯乱、不随意運動、痙攣などの症状が出た場合、直ちにプレイを中止し、再開前に主治医の診察を受けてください。</text>
+	</string>
+	<string id="ui_elua_licence10">
+		<text>2.2. S.T.A.L.K.E.R. は年齢レーティング（例：PEGI、ESRB）を受けています。これはお客様の居住地によって異なる場合があり、S.T.A.L.K.E.R.の購入時に表示されます。お客様が指定された最低年齢に達している場合にのみ、S.T.A.L.K.E.R. をプレイすることができます。</text>
+	</string>
+	<string id="ui_elua_licence11">
+		<text>最低年齢要件を満たし、以下のいずれかに該当する場合：</text>
+	</string>
+	<string id="ui_elua_licence12">
+		<text>i. お客様が18歳（またはお客様の司法管轄区における法定成人年齢）以上である場合、本EULAへの同意を条件として、自由に本ゲームを使用することができます。</text>
+	</string>
+	<string id="ui_elua_licence13">
+		<text>ii. お客様の年齢が17歳から18歳（またはお客様の司法管轄区における法定成人年齢）の間である場合、親または後見人がお客様の代理で本EULAを確認し、承認することに同意する必要があります（司法管轄区によっては、一定の年齢未満の個人が本EULAのような拘束力のある契約を締結することが制限されているため）。さらに、お客様によるS.T.A.L.K.E.R.の利用は、お客様の親または後見人により監督される必要があります。</text>
+	</string>
+	<string id="ui_elua_licence14">
+		<text>iii. お客様が17歳未満、またはお客様の司法管轄区において指定された最低年齢未満の場合、S.T.A.L.K.E.R.のダウンロード、プレイ、またはその他の利用は禁止されています。</text>
+	</string>
+	<string id="ui_elua_licence15">
+		<text>2.3. S.T.A.L.K.E.R.には、暴力、暴言、性的なコンテンツ、薬物の使用など、一部の人に不安を与える可能性のある描写が含まれます。このような描写に敏感な方、または発作が誘発される可能性のある方は、ゲームプレイを始める前にこれらの要素を考慮してください。</text>
+	</string>
+	<string id="ui_elua_licence16_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence16">
+		<text>3. S.T.A.L.K.E.R.の使用</text>
+	</string>
+	<string id="ui_elua_licence17">
+		<text>3.1. GSCは、お客様のパソコン、ゲーム機、および／またはGSCによって明示的に許可され、かつ購入した本ゲームに対応するその他のデバイス／プラットフォーム上でS.T.A.L.K.E.R.（およびそれらのMOD）を表示、閲覧、ダウンロード、インストール、プレイ、および使用するための、個人的、限定的、取消可能、非独占的、譲渡不能なライセンスを付与します。本ライセンスは個人的な使用のみを目的としたものであり、S.T.A.L.K.E.R.の所有権を与えるものではありません。お客様がS.T.A.L.K.E.R.を第三者にサブライセンス、販売、譲渡、贈与、その他の方法で譲渡すること、またはS.T.A.L.K.E.R.を商業的に利用することは許可されていません。</text>
+	</string>
+	<string id="ui_elua_licence18_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence18">
+		<text>4. 最小システム要件および継続的なモニタリング</text>
+	</string>
+	<string id="ui_elua_licence19">
+		<text>4.1. S.T.A.L.K.E.R.には、お使いのデバイス／システム／プラットフォームに応じた最小システム要件があり、ご購入前にS.T.A.L.K.E.R.のウェブサイトでご確認いただけます。本ゲームをご購入いただく前に、これらのシステム要件を満たしていることをご確認ください。</text>
+	</string>
+	<string id="ui_elua_licence20">
+		<text>4.2. お客様のゲーム体験を向上させ、本EULAで禁止されている事項を防止し、S.T.A.L.K.E.R.の完全性を保護し、必要に応じて本EULAを施行する目的で、当社は、お客様がS.T.A.L.K.E.R.を使用する間、お客様のシステムまたは関連デバイス／周辺機器のバックグラウンドで実行される特定のソフトウェアを展開する場合があります。このようなソフトウェアのほとんどは使用が任意で、お客様は当社がこれらのソフトウェアを導入することを許可または拒否することができます。万が一、当社によるソフトウェアツールの使用が必須の場合は、（ゲーム内での掲示、またはS.T.A.L.K.E.R.に関連するその他のリソースを通じて）先にお知らせします。このようなソフトウェアツールに関する追加情報は、当社のプライバシーポリシーに記載されています。</text>
+	</string>
+	<string id="ui_elua_licence21_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence21">
+		<text>5. パッチ、アップデート、変更</text>
+	</string>
+	<string id="ui_elua_licence22">
+		<text>5.1. S.T.A.L.K.E.R.は「現状有姿」および「提供可能な限度で」提供されます。つまり、バグやエラーコードが含まれている可能性があり、結果としてゲームがクラッシュすることもあり得ます。GSCはそのような事態を避けるために合理的な努力を行ってきましたが、ソフトウェアに欠陥が全くないという保証はありません。本ゲームのサポートは常に継続するとは限らず、将来的に終了する可能性もあります。</text>
+	</string>
+	<string id="ui_elua_licence23">
+		<text>5.2. GSCは、将来的にS.T.A.L.K.E.R.にパッチ、アップデート、変更（機能の追加や削除、ソフトウェアのバグの修正、ゲームバランスの微調整）を行う権利を有します（ただし、義務は負いません）。このようなパッチや変更は、強制アップデートおよび／または自動アップデートによって展開されます。このようなアップデートをインストールしなかった場合、将来的にアップデートされていないバージョンは利用できなくなる可能性があります。</text>
+	</string>
+	<string id="ui_elua_licence24_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence24">
+		<text>6. 知的財産権</text>
+	</string>
+	<string id="ui_elua_licence25">
+		<text>6.1. S.T.A.L.K.E.R.のビジュアル要素、キャラクター、ストーリー、アートワーク、アニメーション、デザイン、アセット、音楽、効果音、会話、グラフィック、コンピューターコード、ユーザーインターフェース、ビジュアルおよび操作のスタイル、ゲームメカニズム、ゲームプレイ、オーディオビジュアル要素、テキストコンテンツ、レイアウト、データベース、データ、およびその他すべての素材を含むがこれらに限定されない、構造的要素のすべてと、それらに関連する知的財産権（以下に定義する）およびその他すべての法的権利および利用権は、GSCが所有するか、当社が第三者から正式にライセンスを受けたものです。S.T.A.L.K.E.R.に関するすべての権利は、本EULAに明示的に規定されている場合を除き、GSCに帰属します。利用者は、本規約に規定され、かつ当社のファンコンテンツ作成ガイドラインに従う場合を除き、S.T.A.L.K.E.R.のいかなる要素も使用または利用することはできません。S.T.A.L.K.E.R.およびその知的財産権は、世界中の著作権、商標権、およびその他の知的財産権に関する法令により保護されています。</text>
+	</string>
+	<string id="ui_elua_licence26">
+		<text>「知的財産権」とは、すべての著作権、商標、サービスマーク、ロゴ、トレードドレス、営業権、表装、ブランド名、商号またはドメイン名、意匠権、外観の特徴に関する権利、データベース権、キャラクターに関する権利、特許権、発明に関する権利、ノウハウ、企業秘密および機密情報、コンピュータソフトウェア（ソースコードおよびオブジェクトコードを含む）に関する権利、著作者人格権、版権、パブリシティ権、上演権、同期権、録音権、出版権、貸与権、送信権、および類似または対応する性質を有するその他の知的財産権および利用権を意味し、現在または将来、世界のあらゆる地域において存続する可能性のあるものについては、登録または登録可能であるか否かを問わず、付与されたすべての申請、およびこれらに関する登録、分割、継続、再発行、更新、延長、回復および復帰のためのすべての申請を含む、あらゆる申請が含まれます。</text>
+	</string>
+	<string id="ui_elua_licence27">
+		<text>本条項は本EULAの契約終了後も存続します。</text>
+	</string>
+	<string id="ui_elua_licence28_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence28">
+		<text>7. 利用規約</text>
+	</string>
+	<string id="ui_elua_licence29">
+		<text>7.1. 特定の目的のために、本EULAのいかなる部分にも別段の記載がない限り、S.T.A.L.K.E.R.の商用利用ライセンスは付与されず、個人利用ライセンスのみが付与されます。</text>
+	</string>
+	<string id="ui_elua_licence30">
+		<text>7.2. 本EULAで明示的に許可されている場合を除き、S.T.A.L.K.E.R.または本EULAに基づくお客様の権利をコピー、レンタル、購入、販売、貸与、共有、贈与、リース、サブライセンス、譲渡、頒布、公開、または公に表示することは明示的に禁止されています。</text>
+	</string>
+	<string id="ui_elua_licence31">
+		<text>7.3. S.T.A.L.K.E.R.に適用される可能性のあるチートを作成、使用、ライセンス、サブライセンス、利用可能にすること、および／または配布することは明示的に禁止されています。チートとは、エクスプロイト、自動化ソフトウェア、ロボット、ボット、ハック、スパイダー、スパイウェア、スクリプト、トレーナー、抽出ツール、その他GSCが意図していない方法でS.T.A.L.K.E.R.と相互作用したり、S.T.A.L.K.E.R.に影響を与えたりする可能性のあるソフトウェアのことで、S.T.A.L.K.E.R.が情報を保存するために使用するメモリ領域を読み取ることで情報を収集する無許可のサードパーティプログラムを含みます。</text>
+	</string>
+	<string id="ui_elua_licence32">
+		<text>7.4. 適用される法律で明確に許可されていない限り、S.T.A.L.K.E.R.の変更、マージ、頒布、翻訳、リバースエンジニアリング、またはソースコードの取得もしくは使用の試み、逆コンパイルもしくは逆アセンブルを行うことは禁止されています。</text>
+	</string>
+	<string id="ui_elua_licence33">
+		<text>7.5. GSCのカスタマーサポートまたはテクニカルサポートに対する妨害や干渉、またGSCのスタッフへのなりすまし行為は禁止されています。</text>
+	</string>
+	<string id="ui_elua_licence34">
+		<text>7.6. S.T.A.L.K.E.R.から個人情報または機密データもしくは情報を傍受、マイニング、またはその他の方法で収集することは禁止されています。</text>
+	</string>
+	<string id="ui_elua_licence35">
+		<text>7.7. トンネリング、コードインジェクション、コード挿入、サービス拒否（DoS）、ソフトウェアの修正または変更、当社ソフトウェアと他の類似ソフトウェアの併用、プロトコルエミュレーション、プライベートサーバーやGSCまたは本ゲームに関する類似サービスの作成または使用など、当社または第三者のネットワークソフトウェアまたはサーバーの制限された領域に悪意を持って干渉、妨害、またはアクセスすることは禁止されています。</text>
+	</string>
+	<string id="ui_elua_licence36">
+		<text>7.8. GSCの著作権、商標権、特許権、企業秘密、プライバシー権、パブリシティ権、その他の権利を侵害するおそれのある行為を行うことは禁止されています。</text>
+	</string>
+	<string id="ui_elua_licence37">
+		<text>7.9. ウイルス、スパイウェア、トロイの木馬、ワーム、時限爆弾、意図的に破損させたデータ、その他悪意のあるコードを含むファイル、または何らかの方法でS.T.A.L.K.E.R.に損害を与えたり妨害したりする可能性のあるファイルをアップロードすることは禁止されています。</text>
+	</string>
+	<string id="ui_elua_licence38">
+		<text>7.10. 人種差別、嫌がらせ、外国人嫌悪、性差別、差別、虐待、中傷、もしくは不快または違法な、あるいはそのようにみなされる可能性のある形でのコンテンツの作成やS.T.A.L.K.E.R.の使用は禁止されています。</text>
+	</string>
+	<string id="ui_elua_licence39">
+		<text>7.11. 本ゲームの財産権表示またはラベルを削除することは禁止されています。</text>
+	</string>
+	<string id="ui_elua_licence40">
+		<text>7.12. お客様は、S.T.A.L.K.E.R.を使用するにあたり、適用されるすべての法律および規制を遵守しなければなりません。</text>
+	</string>
+	<string id="ui_elua_licence41">
+		<text>本条項は本EULAの契約終了後も存続します。</text>
+	</string>
+	<string id="ui_elua_licence42_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence42">
+		<text>8. ファンコンテンツおよびMOD</text>
+	</string>
+	<string id="ui_elua_licence43">
+		<text>8.1. 「MOD」という用語は、ゲームの1つ以上のコンポーネントに対してユーザーが生成したコンテンツおよび/または変更を指します。これらの変更は、ゲームと一緒に使用することを目的としており、GSCが元々提供したバージョンから逸脱したカスタマイズされたまたは変更されたゲームプレイ体験をもたらします。特定のMODから得られる体験は、ユーザー間で異なる場合があります。</text>
+	</string>
+	<string id="ui_elua_licence44">
+		<text>8.2. 適用可能な法律が許す最大限度まで、GSCは、あなたまたは第三者がアップロード、共有、または配布したすべてのMODに対する責任と責任を免除します。GSCは、監視、修正、または削除する権利を保有していますが、これは義務ではありません。その単独の裁量により、利用規約に違反すると判断したMOD – 例えば、違法、詐欺的、誤解を招く、攻撃的、わいせつ、脅迫的、名誉毀損的、プライバシー侵害的、知的財産権を侵害する、またはウイルスやその他の悪意のあるコードを含むコンテンツ – を削除するため、そのようなMODの削除またはそのような削除の実行における遅延または失敗については一切の責任を負いません。</text>
+	</string>
+	<string id="ui_elua_licence45">
+		<text>8.3. MODは、GSC（「第三者サービス」）とは独立した個人やエンティティを含む第三者によって提供されます。GSCは、第三者サービスについて、その第三者があなたの情報を収集、利用、または保存する方法を含む、いかなる責任も監督も受け入れません。MODの使用、そしてそれに伴う任意の関連する第三者サービスは、GSCの管理を超えたプライバシーポリシーを含む、それらの第三者によって設定された追加の料金、条件、および/またはポリシーにあなたを従わせる可能性があります。MODまたは統合された第三者サービスのいずれかを利用することにより、あなたはそれらの第三者サービスによって課される適用可能な条件、条件、およびポリシーを遵守することに同意します。</text>
+	</string>
+	<string id="ui_elua_licence46">
+		<text>8.4. あなたは、MODの使用はあなた自身のリスクであることを認識し、同意します。GSCは、MODまたは第三者サービスの内容、正確性、完全性、可用性、タイムリー性、有効性、著作権遵守、合法性、適切性、品質、またはその他の特性を評価または検証する責任を一切負いません。GSCは、第三者サービスを保証も推奨もしません。さらに、あなたは、そのような第三者サービスを使用する結果として発生する可能性のある問題、損失、または損害について、GSCは一切の責任を負わないことに同意します。</text>
+	</string>
+	<string id="ui_elua_licence47">
+		<text>8.5. 著作権侵害</text>
+	</string>
+	<string id="ui_elua_licence48">
+		<text>特定のMODがあなたの著作権を侵害していると信じるなら、以下のデータを提供してください：</text>
+	</string>
+	<string id="ui_elua_licence49">
+		<text>a. あなたの名前、住所、メールアドレス;</text>
+	</string>
+	<string id="ui_elua_licence50">
+		<text>b. あなたが侵害されたと主張する著作権のある作品の説明;</text>
+	</string>
+	<string id="ui_elua_licence51">
+		<text>c. 主張される侵害材料が存在する各場所の正確なURLまたは説明;</text>
+	</string>
+	<string id="ui_elua_licence52">
+		<text>d. あなたが、紛争のある使用があなた自身、あなたの代理人、または法律によって許可されていないという、あなたの誠実な信念を示す声明;</text>
+	</string>
+	<string id="ui_elua_licence53">
+		<text>e. あなたの電子署名または物理的な署名、またはあなたを代理として行動する権限を持つ人物の電子署名または物理的な署名;そして</text>
+	</string>
+	<string id="ui_elua_licence54">
+		<text>f. あなたが提出した通知の情報が正確であり、偽証罪のリスクを負いつつ、主張される侵害の被害者である独占的権利の所有者を代表して行動する権限があるというあなたの声明。</text>
+	</string>
+	<string id="ui_elua_licence55">
+		<text>上記の情報は以下にご提出ください。</text>
+	</string>
+	<string id="ui_elua_licence56">
+		<text>件名：MODの著作権侵害について</text>
+	</string>
+	<string id="ui_elua_licence57">
+		<text>メールアドレス：legal@gsc-game.com</text>
+	</string>
+	<string id="ui_elua_licence58">
+		<text>当社が第三者の知的財産権を侵害するMODに関する通知を受け取った際は、要求に従って該当MODを削除することがあります。</text>
+	</string>
+	<string id="ui_elua_licence59">
+		<text>S.T.A.L.K.E.R.に基づくコンテンツとして許可される創作内容と範囲については、ファンコンテンツ作成ガイドライン(https://www.gsc-game.com/guidelines)をご確認ください。</text>
+	</string>
+	<string id="ui_elua_licence60_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence60">
+		<text>9. フィードバックとクラッシュレポート</text>
+	</string>
+	<string id="ui_elua_licence61">
+		<text>9.1. GSCはコミュニティからのフィードバックを大切にしています。何か有益なご意見がありましたら、お気軽に support@gsc-game.com/までご連絡ください。お客様の提案が何らかの形でゲームに取り入れられた場合でも、GSCはお客様に（物質的であるか否かを問わず）いかなる補償も提供する義務はありません。</text>
+	</string>
+	<string id="ui_elua_licence62">
+		<text>9.2. 何らかの理由でゲームセッションがクラッシュした場合、GSCはソースコードを改善し、クラッシュを減らし、より楽しいゲーム体験を提供する目的で、クラッシュログの提供をお願いする可能性があります。クラッシュレポートの提出は必須ではありませんが、場合によっては個人情報が含まれることがあります （クラッシュレポートと共に転送される可能性のあるデータの種類については、当社のプライバシーポリシーをご参照ください）。</text>
+	</string>
+	<string id="ui_elua_licence63_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence63">
+		<text>10. 第三者のコンテンツ</text>
+	</string>
+	<string id="ui_elua_licence64">
+		<text>10.1. 当社は、S.T.A.L.K.E.R.内において、外部ウェブサイトへのハイパーリンクまたは第三者のソースからのコンテンツを提供する場合があります。また、お客様は様々なデバイス、システム、またはプラットフォームを通じてS.T.A.L.K.E.R.にアクセスすることができます。これらを利用するか否かは、すべて利用者の判断に委ねられるものであり、当社はその機能、品質、または無償で利用可能かどうかを保証するものではありません。さらに、さまざまなデバイス、システム、またはプラットフォームには、独自の法的規約が存在する場合がありますので、利用前に一度ご確認いただくことを強く推奨します。</text>
+	</string>
+	<string id="ui_elua_licence65_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence65">
+		<text>11. 保証および表明</text>
+	</string>
+	<string id="ui_elua_licence66">
+		<text>11.1. GSCの保証。GSCは、当社が本EULAを締結し、個人的な娯楽目的でS.T.A.L.K.E.R.を使用するライセンスをお客様に付与する権利を有することを保証します。</text>
+	</string>
+	<string id="ui_elua_licence67">
+		<text>11.2. お客様の表明および保証。お客様は、本EULAを締結する完全な権限と能力を有し、本EULAのすべての条項に従うことを表明し保証するものとします。</text>
+	</string>
+	<string id="ui_elua_licence68_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence68">
+		<text>12. 義務</text>
+	</string>
+	<string id="ui_elua_licence69">
+		<text>12.1. 本EULAに別段の記載がない限り、GSCとその関連会社、パートナーおよびライセンサーは、S.T.A.L.K.E.R.に関する黙示的または明示的な保証または表明を否認します。S.T.A.L.K.E.R.は、明示または黙示を問わず、いかなる種類の保証または表明も伴うことなく「現状有姿」および「提供可能な限度で」という条件下で提供されています。当社はその使用または使用不能から生じるいかなる種類の損失、損害、または危害に対しても責任を負いません。S.T.A.L.K.E.R.のご利用は、ご自身の責任において行ってください。</text>
+	</string>
+	<string id="ui_elua_licence70">
+		<text>適用される法律が許容する最大限の範囲において、当社は、明示または黙示を問わず、S.T.A.L.K.E.R.に適用される可能性のあるすべての保証を否認します。これには、権原、非侵害、市販性、満足のいく品質、特定目的への適合性に関する黙示的な保証、取引の過程、履行過程、取引慣行から生じる可能性のあるあらゆる保証、ウイルスやエラーまたは欠陥がないこと、および／またはS.T.A.L.K.E.R.に含まれるコンテンツまたは情報の正確性、合法性、信頼性、または品質に関するあらゆる保証が含まれます。</text>
+	</string>
+	<string id="ui_elua_licence71">
+		<text>GSCは、S.T.A.L.K.E.R.の使用中に動作の中断またはエラーが生じないこと、欠陥が修正されること、または本ゲームにウイルスやその他の有害な要素がないことを明示的に保証しません。</text>
+	</string>
+	<string id="ui_elua_licence72">
+		<text>12.2. 適用される法律が許容する最大限の範囲において、GSCとその関連会社、パートナーおよびライセンサーは、利益、料金、費用の損失やデータの損失、情報の破損または損失、ビジネス機会の損失、特別、間接的、懲罰的、結果的な損失もしくは損害、または中断について、契約違反、不法行為（過失、法的義務違反、契約違反、保証違反、違反行為を含む）に基づくか否かにかかわらず、いかなる場合においても、お客様に対して責任を負わないものとし、契約違反、不法行為（過失、法定義務違反、契約違反、保証違反、厳格責任を含む）、不実表示、賠償、その他に基づくあらゆる種類の懲罰的、間接的、結果的な損失もしくは損害、または混乱に対して、関連当事者がかかる損害の可能性を知らされていたか否かを問わず、いかなる場合においても責任を負いません。</text>
+	</string>
+	<string id="ui_elua_licence73">
+		<text>適用される法律が許容する最大限の範囲において、いかなる場合においても、S.T.A.L.K.E.R.または本EULAに関連して、GSCとその関連会社、パートナーおよびライセンサーがお客様に対して負う責任の総額は、請求の基礎となる事項に関連してお客様が実際に当社に支払った金額（もしあれば）を超えることはありません。上記は、本EULAに関連するお客様の唯一かつ排他的な救済手段です。</text>
+	</string>
+	<string id="ui_elua_licence74">
+		<text>12.3. お客様は、GSCとその関連会社、パートナーおよびライセンサーに対し、以下の事項に関連するすべての損害、責任、請求、および費用（弁護士費用を含む）について、要求に応じて免責し、かつ防御する（またその状態を維持する）ことに同意するものとします。</text>
+	</string>
+	<string id="ui_elua_licence75_type">
+		<text>__OPTION__</text>
+	</string>
+	<string id="ui_elua_licence75">
+		<text>・お客様による、本EULAに対する申し立てられた違反、あるいは実際の違反。</text>
+	</string>
+	<string id="ui_elua_licence76_type">
+		<text>__OPTION__</text>
+	</string>
+	<string id="ui_elua_licence76">
+		<text>・お客様自身によって、あるいはお客様の代理で行われたS.T.A.L.K.E.R.の利用（故意または過失にかかわらず）。</text>
+	</string>
+	<string id="ui_elua_licence77_type">
+		<text>__OPTION__</text>
+	</string>
+	<string id="ui_elua_licence77">
+		<text>・GSC、その関連会社、ライセンサー、およびパートナーの知的財産権を侵害する行為。</text>
+	</string>
+	<string id="ui_elua_licence78">
+		<text>当社に対して何らかの請求がなされた場合、お客様はGSCに全面的に協力するものとし、GSCは弁護を引き受ける権利を留保します。お客様は、かかる請求の全部または一部を、当社の事前の書面による同意なしに解決してはならないものとします。</text>
+	</string>
+	<string id="ui_elua_licence79">
+		<text>12.4. お客様は、本EULAに同意することにより、お客様が被る可能性のある損失、損害または危害が回復不能なものではなく、差止命令による救済またはその他の衡平法上の救済以外の救済が適切かつ十分なものであることを確認するものとします。お客様は、GSC、その関連会社、ライセンサー、およびパートナーに対して、差止命令による救済またはその他の衡平法上の救済を受ける権利がないことについて、ここに明示的に同意するものとします。</text>
+	</string>
+	<string id="ui_elua_licence80">
+		<text>本条項は本EULAの契約終了後も存続します。</text>
+	</string>
+	<string id="ui_elua_licence81_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence81">
+		<text>13. 契約の終了</text>
+	</string>
+	<string id="ui_elua_licence82">
+		<text>13.1. お客様は、S.T.A.L.K.E.R.の利用を停止することにより、いつでも本EULAによる契約を終了する権利を有します。このような終了は、当社またはお客様の既存の権利または義務に影響を与えることはありません。</text>
+	</string>
+	<string id="ui_elua_licence83">
+		<text>13.2. GSCは、お客様が本EULAのいずれかの条件に著しく違反した場合、S.T.A.L.K.E.R.および本EULAへのアクセスを停止または終了することができます。本条項に基づき、当社がお客様のS.T.A.L.K.E.R.および本EULAへのアクセスを停止または終了することを決定した場合、当社はお客様に対していかなる義務または責任も負わないものとします。</text>
+	</string>
+	<string id="ui_elua_licence84">
+		<text>13.3. GSCが何らかの理由でS.T.A.L.K.E.R.全体または特定のプラットフォームにおけるアクセスを恒久的に停止することを決定した場合、GSCは合理的に利用可能な手段により、少なくとも90日前までに利用者に通知することができるものとします。このようなサービスの停止は、お客様に対するいかなる義務および責任も生じさせないものとします。</text>
+	</string>
+	<string id="ui_elua_licence85_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence85">
+		<text>14. 不可抗力条項</text>
+	</string>
+	<string id="ui_elua_licence86">
+		<text>不可抗力による履行、不履行、または遅延の全部または一部について、お客様または当社のいずれも他方に対して責任を負いません。</text>
+	</string>
+	<string id="ui_elua_licence87">
+		<text>「不可抗力」とは、ストライキ、ロックアウト、その他の労働争議、原子力事故、天災、戦争、テロ活動、暴動、内乱、悪意ある損害、法律または政府の命令、規則、規制または指示の遵守、電力供給会社またはインターネット接続会社の従業員による労働争議、技術設備の障害、ハッキング、サービス妨害またはその他のIT攻撃、ITウイルス・マルウェアまたは類似技術の展開、パンデミック（例：COVID-19）、火災、洪水、暴風雨、または供給業者もしくは下請け業者の不履行などを含むがこれらに限定されない、妨げられた当事者の合理的な支配を超える行為、出来事、不作為、または事故から生じる、またはそれらに起因する、当事者がその義務の一部または全部を履行することを妨げる原因を意味します。</text>
+	</string>
+	<string id="ui_elua_licence88_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence88">
+		<text>15. 準拠法および紛争解決</text>
+	</string>
+	<string id="ui_elua_licence89">
+		<text>15.1. 本EULA、およびそれから生じる問題は、法の選択および／または法の抵触に関する規制を除き、キプロスの法律に準拠し、それに従って解釈されます。本EULAおよび／または本ゲームに関連する、あるいは起因するすべての訴訟の専属裁判管轄はキプロスとし、そのような請求または訴訟についてはキプロスの裁判所の管轄権に服することに同意するものとします。本EULAに基づく紛争に勝利した当事者は、その弁護士費用および経費を回収する権利を有するものとします。</text>
+	</string>
+	<string id="ui_elua_licence90">
+		<text>15.2. 当社に関して問題がある場合、迅速に解決することが可能だと考えています。 support@gsc-game.comまでご連絡ください。</text>
+	</string>
+	<string id="ui_elua_licence91">
+		<text>15.3. GSCとお客様双方は、両者間の紛争を解決するために、第三者を介さずに合理的かつ誠実な努力をすることに同意するものとします。初期の紛争解決期間は、予期せぬ事情により60日間まで延長される場合を除き、30日間とします。</text>
+	</string>
+	<string id="ui_elua_licence92">
+		<text>GSCに対して損害賠償を請求する場合、「Legal Team, GSC Game World Global Ltd, Leontiou A, 159, MARYVONNE BUILDING, Floor 4 & 5, Office 402, 3022, Limassol, Cyprus」宛に物理的なコピーを、またlegal@gsc-game.com宛にデジタルコピーを送付する必要があります。</text>
+	</string>
+	<string id="ui_elua_licence93">
+		<text>15.4. 集団訴訟の放棄。適用法が許容する最大限の範囲において、お客様は、いかなる状況においても、集団訴訟または代表訴訟、私選弁護人訴訟、または集団仲裁を提起しないこと、または集団仲裁に参加しないことに同意するものとします。つまり、法律で認められる最大限の範囲において：</text>
+	</string>
+	<string id="ui_elua_licence94">
+		<text>i. いかなる仲裁も他の仲裁と統一してはなりません。</text>
+	</string>
+	<string id="ui_elua_licence95">
+		<text>ii. いかなる紛争も、集団訴訟ベースでの仲裁や、集団訴訟手続きの利用権利または権限はありません。</text>
+	</string>
+	<string id="ui_elua_licence96">
+		<text>iii. いかなる紛争も、一般市民やその他の人物を代表して代表者の資格と称して提起される権利や権限はありません。</text>
+	</string>
+	<string id="ui_elua_licence97">
+		<text>集団訴訟、代表訴訟、私選弁護人訴訟、または集団仲裁を提起しない、またはこれに参加しないという本条項の合意が違法または法的強制力がないと判断された場合、利用者および当社は、本条項全体が法的強制力がないものとみなされ、そのため請求または紛争は法廷で解決されることに同意するものとします。</text>
+	</string>
+	<string id="ui_elua_licence98">
+		<text>本条項は本EULAの契約終了後も存続します。</text>
+	</string>
+	<string id="ui_elua_licence99">
+		<text>15.5. 欧州連合加盟国については、欧州委員会が運営するオンライン紛争解決プラットフォームを通じて苦情を提出する権利を有する場合があります。詳細についてはhttps://ec.europa.eu/consumers/odr/をご参照ください。</text>
+	</string>
+	<string id="ui_elua_licence100_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence100">
+		<text>16. 一般条項</text>
+	</string>
+	<string id="ui_elua_licence101">
+		<text>16.1. 本EULAのいずれかの条項が法的に執行不能である、または執行不能となった場合でも、本EULAの残りの条項は完全に効力を有するものとします。GSCは、その単独の裁量により、かかる法的強制力のない条項を、元の条項の意味に最も近いものと置き換えることができるものとします。</text>
+	</string>
+	<string id="ui_elua_licence102">
+		<text>16.2. 本EULAは、当社のお客様との関係（およびお客様の当社との関係）のみを規定するものであり、明示的に別段の定めがない限り、いかなる第三者の権利も創出するものではありません。</text>
+	</string>
+	<string id="ui_elua_licence103">
+		<text>16.3. 国際物品売買契約に関する国連条約は、S.T.A.L.K.E.R.および本EULAには適用されません。</text>
+	</string>
+	<string id="ui_elua_licence104">
+		<text>16.4. GSCは、単独の裁量により、いつでも本EULAを第三者または当社のグループ会社に譲渡、再委託、または移譲する権利を有します。</text>
+	</string>
+	<string id="ui_elua_licence105">
+		<text>16.5. 本EULAに明示的に別段の定めがない限り、GSCが本EULAまたは法律で規定された権利または救済措置の不行使または行使遅延は、当該権利または救済措置の放棄を意味するものではなく、当該権利または救済措置の更なる行使を妨げまたは制限するものでもありません。GSCによる当該権利または救済措置の単独または部分的な行使は、当該権利またはその他の権利または救済措置の更なる行使を排除または制限するものではありません。</text>
+	</string>
+	<string id="ui_elua_licence106">
+		<text>16.6. 本EULA、およびその中で言及されている他の文書は、S.T.A.L.K.E.R.および本EULAに関するお客様と当社との間の完全な合意を構成し、それ以前の口頭または書面による合意に優先します。</text>
+	</string>
+	<string id="ui_elua_licence107_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence107">
+		<text>17. 本EULAの修正</text>
+	</string>
+	<string id="ui_elua_licence108">
+		<text>17.1. GSCは、単独の裁量で本EULAを修正する権利を留保します。その場合、本ゲーム内または他の利用可能な通信手段で通知を行います。</text>
+	</string>
+	<string id="ui_elua_licence109">
+		<text>17.2. 本EULAは、更新版が導入された時点で直ちに終了し、お客様にはその内容を確認する機会が与えられます。お客様は、本EULAが変更された後に本ゲームを継続して使用およびプレイすることにより、変更後のEULAに同意したものとみなされます。</text>
+	</string>
+	<string id="ui_elua_licence110">
+		<text>変更に同意いただけない場合は、S.T.A.L.K.E.R.をご利用いただけません。</text>
+	</string>
+	<string id="ui_elua_licence111">
+		<text>私は、本EULAのすべての条件を読み、理解したことをここに認めます。「同意する」をクリックすることにより、私は、プライバシーポリシーおよび本EULAのその他の不可欠な部分への明示的な同意を含む、本EULAのすべての条件に拘束されることを認め、同意します。</text>
+	</string>
+<string id="ui_pad_layout_weapon_zoom_in">
+		<text>ズームイン</text>
+	</string>
+
+	<string id="ui_pad_layout_weapon_zoom_out">
+		<text>ズームアウト</text>
+	</string>
+
+</string_table>

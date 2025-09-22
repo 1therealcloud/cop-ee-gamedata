@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="speech_attack">
+		<text>所有人，攻擊！</text>
+	</string>
+
+	<string id="speech_covermeartifact">
+		<text>我要去拿神器！掩護我！</text>
+	</string>
+
+	<string id="speech_followme">
+		<text>跟著我！</text>
+	</string>
+
+	<string id="speech_guardartifact">
+		<text>暫時守著神器，先別拿走！</text>
+	</string>
+
+	<string id="speech_holdingpos">
+		<text>我守在這！</text>
+	</string>
+
+	<string id="speech_holdpos">
+		<text>守住你們的位置！</text>
+	</string>
+
+	<string id="speech_icoverartifact">
+		<text>去拿神器！我會掩護你！</text>
+	</string>
+
+	<string id="speech_needhelp">
+		<text>我需要幫助！</text>
+	</string>
+
+	<string id="speech_needmoney">
+		<text>沒錢了——給我買裝備！</text>
+	</string>
+
+	<string id="speech_no">
+		<text>不了。</text>
+	</string>
+
+	<string id="speech_noenemy">
+		<text>沒看到任何人！</text>
+	</string>
+
+	<string id="speech_report">
+		<text>立刻回報！</text>
+	</string>
+
+	<string id="speech_retreat">
+		<text>撤退！</text>
+	</string>
+
+	<string id="speech_returntheartefact">
+		<text>歸還神器！</text>
+	</string>
+
+	<string id="speech_roger">
+		<text>收到。</text>
+	</string>
+
+	<string id="speech_silence">
+		<text>閉嘴！</text>
+	</string>
+
+	<string id="speech_sticktogether">
+		<text>待在一起。</text>
+	</string>
+
+	<string id="speech_takeartifact">
+		<text>快去拿神器！</text>
+	</string>
+
+</string_table>

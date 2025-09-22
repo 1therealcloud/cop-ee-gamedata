@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_press_any_key_PS4">
+		<text>Hraj stiskem libovolnйho tlaинtka</text>
+	</string>
+
+	<string id="ui_mm_mblur_pwr">
+		<text>Rozmazбnн pohybu</text>
+	</string>
+
+	<string id="st_sp_achievement_1_desc_gdk">
+		<text>Jsi ochoten zkoumat ten nejnovмjљн vэvoj v Zуnм.</text>
+	</string>
+
+	<string id="st_sp_achievement_2_desc_gdk">
+		<text>Nesnaћнљ se vyhэbat nebezpeиnэm mutantщm – ty je rovnou lovнљ.</text>
+	</string>
+
+	<string id="st_sp_achievement_3_desc_gdk">
+		<text>Objevil jsi tajemstvн zmizelэch stalkerщ ve Skadovsku.</text>
+	</string>
+
+	<string id="st_sp_achievement_4_desc_gdk">
+		<text>Ukбzal jsi banditщm a jejich vщdci, kdo je tady љйf.</text>
+	</string>
+
+	<string id="st_sp_achievement_5_desc_gdk">
+		<text>Pomohl jsi Sultбnovi pшechytraиit stalkery.</text>
+	</string>
+
+	<string id="st_sp_achievement_6_desc_gdk">
+		<text>Postavil jsi toho љmejda pшed spravedlnost.</text>
+	</string>
+
+	<string id="st_sp_achievement_7_desc_gdk">
+		<text>Naљel jsi artefakt od kaћdйho druhu, kterэ vэzkumnнci Zуny znajн.</text>
+	</string>
+
+	<string id="st_sp_achievement_8_desc_gdk">
+		<text>Kardan mб teп vљechny nбstroje, kterй bude kdy potшebovat.</text>
+	</string>
+
+	<string id="st_sp_achievement_9_desc_gdk">
+		<text>Azot mб teп vљechny nбstroje, jakй si mщћe technik v Zуnм pшбt.</text>
+	</string>
+
+	<string id="st_sp_achievement_10_desc_gdk">
+		<text>V Zуnм neexistuje ћбdnб oblast, kde jsi jeљtм nebyl.</text>
+	</string>
+
+	<string id="st_sp_achievement_11_desc_gdk">
+		<text>Dal jsi dohromady skvмlou иetu a prokбzal ses jako velitel.</text>
+	</string>
+
+	<string id="st_sp_achievement_12_desc_gdk">
+		<text>Umнљ шeљit problйmy mнrovou cestou.</text>
+	</string>
+
+	<string id="st_sp_achievement_13_desc_gdk">
+		<text>Vљichni v bunkru vмdcщ tм povaћujн za jednoho z nich.</text>
+	</string>
+
+	<string id="st_sp_achievement_14_desc_gdk">
+		<text>Velmi jsi pomohl Povinnosti.</text>
+	</string>
+
+	<string id="st_sp_achievement_15_desc_gdk">
+		<text>Velmi jsi pomohl Svobodм.</text>
+	</string>
+
+	<string id="st_sp_achievement_16_desc_gdk">
+		<text>Nepostavil ses na stranu ћбdnй frakce a vћdy jsi jednal jako svobodnэ stalker.</text>
+	</string>
+
+	<string id="st_sp_achievement_17_desc_gdk">
+		<text>Pokud jde o bohatstvн, momentбlnм si nevedeљ nijak zle.</text>
+	</string>
+
+	<string id="st_sp_achievement_18_desc_gdk">
+		<text>Pшedvнdavost ti dobшe poslouћila.</text>
+	</string>
+
+	<string id="st_sp_achievement_19_desc_gdk">
+		<text>Dнky anabiotickэm pilulkбm se ti podaшilo pшeћнt emisi, aniћ by ses schoval do krytu.</text>
+	</string>
+
+	<string id="st_sp_achievement_20_desc_gdk">
+		<text>Kdyћ se dostaneљ k zajнmavй informaci, vћdycky najdeљ toho sprбvnйho kupce.</text>
+	</string>
+
+	<string id="st_sp_achievement_21_desc_gdk">
+		<text>Vћdy jsi pomohl stalkerщm v nouzi.</text>
+	</string>
+
+	<string id="ui_eula_ps_tech_req">
+		<text>Any content purchased in an in-game store will be purchased from Sony Interactive Entertainment Network Europe Limited (“SIENE”) and be subject to PlayStation™Network Terms of Service and User Agreement which is available on the PlayStation®Store. Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game.</text>
+		<text_US>Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America.</text_US>
+	</string>
+
+	<string id="ui_elua_disclamer">
+		<text>Toto je konzolovб verze hry S.T.A.L.K.E.R.: Call of Prypiat.\n \n Ve svмtм Zуny se иas zastavil a zamrzl v okamћiku katastrofy иernobylskй jadernй elektrбrny. Pшestoћe jsme jistй prvky aktualizovali, nмkterй aspekty, kterб nбm dnes mohou pшipadat kontroverznн, zщstбvajн beze zmмn kvщli zachovбnн autentiиnosti a atmosfйry hry.\n Je dщleћitй podotknout, ћe ve hшe jsou urиitй vмci, kterй se nemusн shodovat s naљimi aktuбlnнmi nбzory иi hodnotami. Tyto nezmмnмnй prvky jsou vљak souибstн odkazu hry, a tudнћ jsme se rozhodli je ponechat v pщvodnн podobм.\n \n Veљkerй odkazy obsaћenй ve hшe slouћн k posнlenн atmosfйry a poskytnutн historickйho kontextu v rбmci umмleckйho dнla. Doufбme, ћe Zуnu a jejн zбhady pшijmeљ stejnм jako tolik stalkerщ pшed tebou.\n \nЉќastnэ lov!\n S ъctou\n Tэm GSC Game World</text>
+		<text_ps5>Toto je verze S.T.A.L.K.E.R.: Call of Prypiat pro konzole PlayStation®5.\n \n Ve svмtм Zуny se иas zastavil a zamrzl v okamћiku katastrofy иernobylskй jadernй elektrбrny. Pшestoћe jsme jistй prvky aktualizovali, nмkterй aspekty, kterб nбm dnes mohou pшipadat kontroverznн, zщstбvajн beze zmмn kvщli zachovбnн autentiиnosti a atmosfйry hry.\n Je dщleћitй podotknout, ћe ve hшe jsou urиitй vмci, kterй se nemusн shodovat s naљimi aktuбlnнmi nбzory иi hodnotami. Tyto nezmмnмnй prvky jsou vљak souибstн odkazu hry, a tudнћ jsme se rozhodli je ponechat v pщvodnн podobм.\n \n Veљkerй odkazy obsaћenй ve hшe slouћн k posнlenн atmosfйry a poskytnutн historickйho kontextu v rбmci umмleckйho dнla. Doufбme, ћe Zуnu a jejн zбhady pшijmeљ stejnм jako tolik stalkerщ pшed tebou.\n \nЉќastnэ lov!\n S ъctou\n Tэm GSC Game World</text_ps5>
+	</string>
+
+	<string id="ui_pad_layout_lean_right">
+		<text>Vyklonмnн doprava</text>
+	</string>
+
+	<string id="ui_pad_layout_lean_left">
+		<text>Vyklonмnн doleva</text>
+	</string>
+
+	<string id="ui_pad_layout_crouch_cod">
+		<text>Skrиenн / (podrћ) Nнzkэ poklek</text>
+	</string>
+	
+	<string id="ui_pad_layout_sprint_crouch_old">
+		<text>Sprint / Nнzkэ poklek (pшi pokleku)</text>
+	</string>
+	<string id="ui_pad_layout_crouch_old">
+		<text>Nнzkэ poklek (pшi pokleku)</text>
+	</string>
+
+	<string id="c_preset_default">
+		<text>Alternativa</text>
+	</string>
+
+	<string id="c_type_general">
+		<text>Obecnэ pohyb</text>
+	</string>
+
+	<string id="c_type_zomming">
+		<text>Bмhem pшiblнћenн</text>
+	</string>
+
+	<string id="c_type_wheel">
+		<text>Kruhovб nabнdka</text>
+	</string>
+
+	<string id="c_type_talk">
+		<text>Nabнdka rozhovoru</text>
+	</string>
+
+	<string id="c_type_trade">
+		<text>Nabнdka obchodu</text>
+	</string>
+
+	<string id="c_type_inventory">
+		<text>Nabнdka inventбшe</text>
+	</string>
+
+	<string id="ui_mm_controlls_preset">
+		<text>Nastavenн</text>
+	</string>
+
+	<string id="ui_mm_goto_store">
+		<text>$$ACTION_UI_ACTION_2$$ Do Microsoft Store</text>
+		<text_ps4>$$ACTION_UI_ACTION_2$$ Do obchod PlayStation®Store</text_ps4>
+		<text_nx64>$$ACTION_UI_ACTION_2$$ Do obchod Nintendo eShop</text_nx64>
+	</string>
+
+	<string id="ui_mm_goto_store_pc">
+		<text>Do Obchodu</text>
+		<text_ps4>Do obchod PlayStation®Store</text_ps4>
+		<text_xbox>Do Microsoft Store</text_xbox>
+	</string>
+
+	<string id="energy_drink_name">
+		<text>Energetickэ nбpoj NON STOP</text>
+	</string>
+
+	<string id="energy_drink_short_name">
+		<text>Energetickэ nбpoj NON STOP</text>
+	</string>
+
+	<string id="ui_modio_open">
+		<text>Otevшнt prohlнћeи</text>
+	</string>
+
+	<string id="ui_modio_loadorder">
+		<text>Poшadн naиtenн modщ</text>
+	</string>
+
+	<string id="ui_modio_logout">
+		<text>Odhlбsit se</text>
+	</string>
+
+	<string id="ui_modio_email">
+		<text>Pшihlas se nebo zaregistruj pomocн e-mailu</text>
+	</string>
+
+	<string id="ui_modio_sendcode">
+		<text>Kуd z e-mailu</text>
+	</string>
+
+	<string id="ui_modio_code">
+		<text>Podнvej se na e-mail, kde najdeљ kуd, kterэ zadej sem.</text>
+	</string>
+
+	<string id="ui_modio_state">
+		<text>Stav Mod.io</text>
+	</string>
+
+	<string id="ui_modio_state_ready">
+		<text>Pшipraveno</text>
+	</string>
+
+	<string id="ui_modio_state_downloading">
+		<text>Stahovбnн modu</text>
+	</string>
+
+	<string id="ui_modio_state_updating">
+		<text>Aktualizace modu</text>
+	</string>
+
+	<string id="ui_modio_state_removing">
+		<text>Odstraтovбnн modu</text>
+	</string>
+
+	<string id="ui_modio_user">
+		<text>Uћivatel</text>
+	</string>
+
+	<string id="ui_modio_notlogged">
+		<text>Nepшihlбљen</text>
+	</string>
+
+	<string id="ui_modio_loadorder_automatic">
+		<text>automaticky</text>
+	</string>
+
+	<string id="ui_modio_loadorder_desc">
+		<text>Nastav si poшadн naинtбnн modifikacн, aby se nepшepisovaly soubory</text>
+	</string>
+
+	<string id="ui_mm_modmenu">
+		<text>Mod.io</text>
+	</string>
+
+	<string id="ui_mm_sws_menu">
+		<text>Steam Workshop</text>
+	</string>
+
+	<string id="ui_modio_managerbusy">
+		<text>Teп nenн moћnй spustit hru! Manaћer Mod.io je zaneprбzdnмnэ. Poиkej prosнm.</text>
+	</string>
+
+	<string id="ui_modio_nomemory">
+		<text>Modifikaci nelze nainstalovat! Nemбљ dost volnйho mнsta</text>
+	</string>
+
+	<string id="ui_modio_report">
+		<text>Nahlбsit</text>
+	</string>
+
+	<string id="ui_modio_memory">
+		<text>Vyuћitб pamмќ: </text>
+	</string>
+
+	<string id="ui_terms_of_use">
+		<text>Podmнnky pouћitн </text>
+	</string>
+
+	<string id="legend_ui_modio_edit_order">
+		<text>$$ACTION_UI_ACTION_2$$ Upravit poшadн naklбdky</text>
+	</string>
+
+	<string id="legend_ui_modio_edit_order_pc">
+		<text>Kliknutнm vymмnнte poшadн naиtenн</text>
+		<text_ps5>Stiskem prohodнљ poшadн naинtбnн</text_ps5>
+		<text_xbox>Stiskem prohodнљ poшadн naинtбnн</text_xbox>
+	</string>
+
+	<string id="ui_modio_mod_name">
+		<text>Nбzev modu:</text>
+	</string>
+
+	<string id="ui_modio_mod_order">
+		<text>Poшadн:</text>
+	</string>
+
+	<string id="ui_mm_adaptive_trigger">
+		<text>Adaptivnн spouљtм</text>
+	</string>
+
+	<string id="ui_mm_controller_speaker_enable">
+		<text>Reproduktor ovladaиe</text>
+		<text_ps4>Reproduktor </text_ps4>
+	</string>
+
+	<string id="ui_mm_controller_speaker_volume">
+		<text>Hlasitost reproduktoru ovladaиe</text>
+		<text_ps4>Hlasitost reproduktoru </text_ps4>
+	</string>
+
+	<string id="ui_mm_transfer_saves">
+		<text>Pшevйst uloћenй pozice</text>
+	</string>
+
+	<string id="ui_mm_enable_fsr">
+		<text>Typ upscalingu</text>
+	</string>
+
+	<string id="ui_mm_enable_fsr_sharpen">
+		<text>Vyostшovбnн FSR</text>
+	</string>
+
+	<string id="ui_mm_fsr_sharpeness">
+		<text>Ostrost FSR</text>
+	</string>
+
+	<string id="ui_mm_enable_fsr_frame_generation">
+		<text>Generovбnн snнmkщ FSR</text>
+	</string>
+
+	<string id="ui_mm_fsr_quality">
+		<text>Reћim upscalingu</text>
+	</string>
+
+	<string id="ui_mm_recommended_note">
+		<text>*Doporuиeno pro obrazovky s promмnlivou obnovovacн frekvencн. Jinak mщћe zpщsobit trhбnн obrazu.</text>
+	</string>
+
+	<string id="ui_grass_distance">
+		<text>Vykreslovacн vzdбlenost trбvy</text>
+	</string>
+
+	<string id="ui_mm_enable_screen_space_shadows">
+		<text>Screen Space Shadows</text>
+	</string>
+
+	<string id="ui_mm_enable_screen_space_reflections">
+		<text>Screen Space Reflections</text>
+	</string>
+
+	<string id="ui_mm_input_method">
+		<text>Metoda vstupu</text>
+	</string>
+
+	<string id="ui_mm_dynamic_music_volume">
+		<text>Hlasitost dynamickй hudby</text>
+	</string>
+
+	<string id="ui_mm_enable_screen_space_global_ilumination">
+		<text>Screen Space Global Illumination</text>
+	</string>
+
+    <string id="ui_mm_enable_async_compute">
+        <text>Async Compute</text>
+    </string>
+
+	<string id="ui_mm_wireless_controller">
+		<text>bezdrбtovэ ovladaи</text>
+	</string>
+
+	<string id="ui_mm_quality_modes">
+		<text>Reћimy kvality</text>
+	</string>
+
+	<string id="ui_opt_quality">
+		<text>Kvalita</text>
+	</string>
+
+	<string id="ui_opt_balanced">
+		<text>Vyvбћenб</text>
+	</string>
+
+	<string id="ui_opt_performance">
+		<text>Vэkon</text>
+	</string>
+
+	<string id="ui_controller_update_needed">
+		<text>Bezdrбtovэ ovladaи DualSense® potшebuje aktualizovat</text>
+	</string>
+
+	<string id="ui_control_type_dualsense">
+		<text>Bezdrбtovэ ovladaи DualSense®</text>
+	</string>
+
+	<string id="ui_modio_mod_unsubscribed">
+		<text>nenн dostupnй na tйto platformм! Odbмr modu byl zruљen</text>
+	</string>
+
+	<string id="ui_opt_native">
+		<text>Nativnн</text>
+	</string>
+
+	<string id="ui_opt_ultra_performance">
+		<text>Ultra vэkon</text>
+	</string>
+
+	<string id="kb_current_task">
+		<text>Zobrazit aktuбlnн ъkol</text>
+	</string>
+
+	<string id="30_mode">
+		<text>Kvalita </text>
+	</string>
+
+	<string id="40_mode">
+		<text>Vyvбћenб </text>
+	</string>
+
+	<string id="60_mode">
+		<text>Vэkon </text>
+	</string>
+
+	<string id="120_mode">
+		<text>Ultra vэkon </text>
+	</string>
+
+	<string id="120_mode*">
+		<text>Ultra vэkon*</text>
+	</string>
+
+	<string id="ui_mm_camera_bobbing">
+		<text>Tшesenн kamery</text>
+	</string>
+
+</string_table>

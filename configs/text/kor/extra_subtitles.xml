@@ -1,0 +1,3571 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="zat_b14_scene_1_stalker_offended">
+		<text>그럼 가던 길 가셔... 평생 후회나 하고 살아라...</text>
+	</string>
+
+	<string id="zat_b14_scene_1_give_item">
+		<text>어이, 비어드. 낡은 통에서 이런 걸 찾았어. 이거면 되겠어?</text>
+	</string>
+
+	<string id="zat_b14_scene_1_linker_reply">
+		<text>호오... 희한하군. 처음 보는 물건인데! 자, 받아.</text>
+	</string>
+
+	<string id="zat_b14_scene_1_stalker_bye">
+		<text>고맙군. 계속 여기 있을 테니까 또 일 생기면 찾아와.</text>
+	</string>
+
+	<string id="zat_b14_scene_1_stalker_teach_actor">
+		<text>아, 너였나. 나도 너처럼 돈이 필요해서 말이야.</text>
+	</string>
+
+	<string id="zat_b14_robbery_stop_snd">
+		<text>꼼짝 마! 무기 집어넣고 움직이지 마!</text>
+	</string>
+
+	<string id="zat_b14_robbery_stand_still_snd">
+		<text>꼼짝 말고 있어, 개새끼야! 한 발짝이라도 움직이면 네 목숨은 없는 거야!</text>
+	</string>
+
+	<string id="zat_b14_robbery_after_pay_snd_1">
+		<text>좋아, 이제 천천히 뒤로 돌아서 왔던 길로 당장 꺼져!</text>
+	</string>
+
+	<string id="zat_b14_robbery_after_pay_snd_2">
+		<text>너 이 새끼 바보냐?! 당장 나가!</text>
+	</string>
+
+	<string id="zat_b14_robbery_after_pay_snd_3">
+		<text>야, 이 등신아, 뇌 없어? 죽기 싫으면 당장 꺼져!</text>
+	</string>
+
+	<string id="zat_b14_robbery_kill_actor_snd_1">
+		<text>아주 탈탈 털리고 싶어서 환장했구나, 새끼야!</text>
+	</string>
+
+	<string id="zat_b14_robbery_kill_actor_snd_2">
+		<text>넌 나한테 죽었어, 새끼야!</text>
+	</string>
+
+	<string id="zat_b14_robbery_kill_actor_snd_3">
+		<text>아티팩트 내놔, 등신아!</text>
+	</string>
+
+	<string id="zat_b14_robbery_punch">
+		<text>이 새끼가!</text>
+	</string>
+
+	<string id="pri_a17_recon_squad_talk_with_commander">
+		<text>대위에게 물어보게.</text>
+	</string>
+
+	<string id="pri_a17_recon_squad_commander_order_hide1">
+		<text>아이스, 옥상으로 이동하라. 나머지는 날 따라오도록.</text>
+	</string>
+
+	<string id="pri_a17_recon_squad_commander_order_hide2">
+		<text>각자 위치로!</text>
+	</string>
+
+	<string id="pri_a17_recon_squad_commander_ready_to_fire">
+		<text>명령하시면 공격 시작하겠습니다.</text>
+	</string>
+
+	<string id="pri_a17_recon_squad_actor_dont_hide">
+		<text>그래선 적한테 들킬 겁니다, 소령님.</text>
+	</string>
+
+	<string id="pri_a17_recon_squad_attack_now_1">
+		<text>적이 안뜰 한복판에 닿을 때까지 기다려...</text>
+	</string>
+
+	<string id="pri_a17_recon_squad_attack_now_2">
+		<text>목표물 위치 확인.</text>
+	</string>
+
+	<string id="pri_a17_recon_squad_attack_now_3">
+		<text>놈들이 빠져나간다.</text>
+	</string>
+
+	<string id="pri_a17_recon_squad_attack_now_4">
+		<text>발각되기 전에 움직여야 한다. 사격 개시!</text>
+	</string>
+
+	<string id="pri_a17_recon_squad_nice_shoot">
+		<text>훌륭하셨습니다, 소령님.</text>
+	</string>
+
+	<string id="pri_a17_recon_squad_order_to_check">
+		<text>적들을 확인해야겠군. 아이스, 엄호해.</text>
+	</string>
+
+	<string id="pri_a17_recon_squad_monolith_ambush">
+		<text>매복이다! 엄폐해!</text>
+	</string>
+
+	<string id="pri_a17_recon_squad_sniper_out">
+		<text>아이스, 당장 일어나!</text>
+	</string>
+
+	<string id="pri_a17_monolith_preacher">
+		<text>오, 모노리스시여, 적의 간계를 저희에게 드러내 주셔서 감사드리나이다. 당신의 의지를 행하려 목숨 바친 용감한 병사의 영혼에 빛을 비추소서. 모노리스와의 영원한 합일에 축복이 있기를! 전진하라, 모노리스의 전사들이여! 먼저 간 형제들의 복수를 하라. 모노리스와의 영원한 합일에 축복이 있기를! 모노리스의 신성한 힘을 거부하는 자들에게 죽음을!</text>
+	</string>
+
+	<string id="pri_a17_recon_squad_after_monolith_clear">
+		<text>이상 무. 전진한다.</text>
+	</string>
+
+	<string id="pri_a17_recon_squad_prapor_to_commander">
+		<text>저 미치광이들 우리가 올 걸 알고 있었나 봅니다!</text>
+	</string>
+
+	<string id="pri_a17_recon_squad_commander_to_prapor">
+		<text>이상하군. 누군가 우리 계획을 누설했다는 말인가? 코발스키 대령님께 보고해야겠어.</text>
+	</string>
+
+	<string id="jup_a10_vano_need_help">
+		<text>어떻게 한다지? 가면 내 돈이 날아가고... 그렇다고 안 가면 죽을 텐데...</text>
+	</string>
+
+	<string id="jup_a10_bandit_leader_hello">
+		<text>저거 봐라! 본인이 친히 납시셨네!</text>
+	</string>
+
+	<string id="zat_b5_stalkers_watch_out_sentry">
+		<text>파수꾼들한테 들켜선 안 돼.</text>
+	</string>
+
+	<string id="zat_b5_bandits_see_actor">
+		<text>어이! 거기 누구야?</text>
+	</string>
+
+	<string id="zat_b5_dealer_who_there">
+		<text>무슨 일이지?</text>
+	</string>
+
+	<string id="zat_b5_sultan_angry">
+		<text>스토커?! 이게 대체...?</text>
+	</string>
+
+	<string id="zat_b5_dealer_to_actor_fire">
+		<text>없애 버려!</text>
+	</string>
+
+	<string id="zat_b5_dealer_bandit_speak_1">
+		<text>어디 가진 거 보여줘 봐.</text>
+	</string>
+
+	<string id="zat_b5_bandit_dealer_speak_1">
+		<text>이봐, 우린 아티팩트가 넘쳐나는 데다 더 구해올 수도 있거든? 대신 무기랑 괜찮은 장비가 필요해.</text>
+	</string>
+
+	<string id="zat_b5_dealer_bandit_speak_2">
+		<text>듀티한테 있는 물건은 나한테 다 있어. 무기든 장비든 말만 하라고. 난 최상품만 취급하니까 혹시라도 걱정하지 말고.</text>
+	</string>
+
+	<string id="zat_b5_dealer_want_speak_with_actor">
+		<text>잠깐 둘이 대화 좀 할까?</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_find_lair_pda">
+		<text>녀석들 소굴을 찾은 것 같다. 최대한 빨리 이쪽으로 와.</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_about_lair_bloodsucker">
+		<text>건물로 블러드서커 한 마리가 들어가는 걸 봤어. 거기가 놈들 소굴인 모양인데, 어디 맞는지 확인해 보자고.</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_notice">
+		<text>그림자를 주시해. 놈들이 어디서 튀어나올지 몰라.</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_appear">
+		<text>방금 들었어? 아니, 됐어. 잘못 들었나 보군.</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_see_bloodsucker">
+		<text>뭔가 있다... 엄호해 줘.</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_another_one">
+		<text>조심해, 한 놈 더 있다!</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_come_here_1">
+		<text>여기 좀 봐. 지하로 들어가는 길은 이것뿐인 것 같군.</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_jump_down_1">
+		<text>흠, 뛰어내리는 수밖에 없겠네! 날 따라와!</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_down_floor">
+		<text>발은 괜찮나? 그럼 지하실을 확인하도록 하지.</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_try">
+		<text>이건 내 전문이야. 평생 자물쇠를 따 왔지.</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_come_here_2">
+		<text>손뼉까진 칠 거 없어. 그럼 들어가 볼까.</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_bloodsuckers_sleep">
+		<text>쉿! 잠든 블러드서커가 사방에 깔렸어! 조용히 지나가자고.</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_fear_end">
+		<text>휴... 하마터면 낮잠 시간을 방해할 뻔했군.</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_bloodsuckers_no_sleep">
+		<text>놈들이 깼다! 도망쳐!</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_jump_down_2">
+		<text>출구인가 봐! 뛰어!</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_tell_stalker_about_lair">
+		<text>이건 비어드에게 보고해야겠는걸... 비어드한테 이놈들 처리할 방법이 있어야 할 텐데.</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_tell_about_quest">
+		<text>사냥꾼은 못 찾았지만 어디 있는지는 대충 알 것 같아. 내가 확인해 보고 연락하지. 그동안 스토커들한테 피 빨아먹는 괴물들에 대해서 알려 줘. 뭐라도 수를 써야 할 테니.</text>
+	</string>
+
+	<string id="jup_a10_bandits_warn">
+		<text>총 집어넣어, 스토커. 안 그럼 이 자리에서 죽여 버린다!</text>
+	</string>
+
+	<string id="jup_b19_freedom_yar_zombie_hit">
+		<text>대체 왜 그런 짓을 한 거야? 건들지도 않았는데? 제기랄!</text>
+	</string>
+
+	<string id="jup_b19_freedom_yar_come_here_1">
+		<text>이리로 와! 쇼가 곧 시작된다고!</text>
+	</string>
+
+	<string id="jup_b19_freedom_yar_come_here_2">
+		<text>어이, 뭘 꾸물대고 있어?! 그러다 재밌는 구경 다 놓친다!</text>
+	</string>
+
+	<string id="jup_b19_freedom_yar_come_here_3">
+		<text>뭐 하는 거야? 빨리 와, 막 재밌어지려는 참이라고!</text>
+	</string>
+
+	<string id="jup_b19_freedom_yar_suspense">
+		<text>내 생각이 맞았나 확인해 볼까?</text>
+	</string>
+
+	<string id="jup_b19_freedom_yar_guessed_long">
+		<text>역시 내가 옳았어... 이제 좀비 녀석들이 우릴 덮칠 거야. 남김없이 처리해!</text>
+	</string>
+
+	<string id="jup_b19_freedom_yar_guessed_short">
+		<text>결국 내가 옳았군... 새끼들 싹 다 처리해버려!</text>
+	</string>
+
+	<string id="jup_b19_freedom_yar_explanations">
+		<text>그래... 궁금한 게 많아 보이는군. 잠시 이야기라도 할까?</text>
+	</string>
+
+	<string id="zat_b106_gonta_story_ask">
+		<text>그래서 맥파이에 관해서 찾은 거 있어?</text>
+	</string>
+
+	<string id="zat_b106_gonta_story_angry">
+		<text>그 개새끼, 도망친 걸 반드시 후회하게 될 거야.</text>
+	</string>
+
+	<string id="zat_b106_gonta_story_calm">
+		<text>기다려, 친구. 의사가 걸어 다니려면 며칠 더 있어야 한댔어. 이렇게 된 김에 느긋하게 푹 쉬는 게 어때...</text>
+	</string>
+
+	<string id="zat_b106_gonta_hunt_plan">
+		<text>잘 들어. 키메라는 밤에 사냥하고 아침에 제 은신처로 돌아와서 잠을 청해. 그러니 우린 놈이 쉬는 새벽에 빈틈을 노리는 거야. 잠들어 있는 동안 다가가서 죽이기만 하면 되니 간단하지. 대신 좀 일찍 일어나야 해. 새벽 3시에 술집에서 만나는 걸로 하자고.</text>
+	</string>
+
+	<string id="zat_b106_gonta_hunt_sneak">
+		<text>조심해... 절대 소리 내면 안 돼. 그랬다간 들켜.</text>
+	</string>
+
+	<string id="zat_b106_gonta_hunt_kill">
+		<text>다 왔다. 놈이 바로 이 근처에 있는 게 느껴져. 보이는 즉시 머리를 노려. 너무 가까이 가선 안 돼. 키메라는 잘 때도 1킬로미터 밖의 냄새까지 맡을 수 있으니까.</text>
+	</string>
+
+	<string id="zat_b106_gonta_hunt_great">
+		<text>잘했어! 아예 전업 키메라 사냥꾼이 되는 것도 나쁘지 않겠는데?</text>
+	</string>
+
+	<string id="zat_b106_gonta_hunt_complete">
+		<text>끝이다. 이제 할 일 끝났어. 돌아가자. 야노우 가서 트래퍼 만나는 거 잊지 마. 상처 입은 키메라는 처리했으니 네 몫을 달라고 해.</text>
+	</string>
+
+	<string id="zat_b106_garmata_story_reply">
+		<text>열심히 수소문했지만 헛수고였어. 무슨 폴터가이스트도 아니고 어떻게 아는 사람이 이리도 없는지.</text>
+	</string>
+
+	<string id="zat_b106_garmata_refuse_talk">
+		<text>이야기는 대장이랑 해. 총 쏘는 거면 모를까, 입 터는 건 내 취향이 아냐.</text>
+	</string>
+
+	<string id="pri_a20_communication_with_recon_squad">
+		<text>정찰대에서 메시지가 왔다.</text>
+	</string>
+
+	<string id="pri_a20_recon_squad_attacked">
+		<text>안 돼... 대체 이게 뭐야?!... 기다려! 우린 전부 끝장이야!... 아아악!... 살려줘!... 누가 좀 도와줘!... 저것 좀 떼어 달라고!... 안 돼애애애!</text>
+	</string>
+
+	<string id="pri_a20_colonel_talk_in_radio">
+		<text>정찰대, 응답하라! 대체 무슨 일인가?</text>
+	</string>
+
+	<string id="pri_a20_colonel_ask_check_recon_squad">
+		<text>정찰대를 찾아야 해 소령, 무슨 일이 있었는지 알아내게... 이게 대체... 흠... 모쪼록 조심해, 알았나? 그리고 보고 꾸준히 하도록 하고.</text>
+	</string>
+
+	<string id="pri_a20_actor_report_about_squad">
+		<text>정찰대를 찾았습니다만, 전원 사망했습니다. 총에 맞은 것 같은데 적의 흔적이 전혀 보이지 않습니다.</text>
+	</string>
+
+	<string id="pri_a20_colonel_give_next_task_1">
+		<text>그 광신도들 짓이야! 놈들을 쓸어 버려야 해.</text>
+	</string>
+
+	<string id="pri_a20_colonel_give_next_task_1_a21_sentry_task">
+		<text>그 광신도들 짓이야! 그 새끼들은 쉬지도 않는군... 보초 한 명도 사라져서 응답이 없다. 놈의 흔적도 찾아볼 수가 없어...놈들을 아주 끝장내 버리겠어!</text>
+	</string>
+
+	<string id="pri_a20_actor_about_next_task">
+		<text>정찰대는 모노리스 세력의 위치를 알고 있었습니다. 쪽지에 서점이라고 나와 있습니다.</text>
+	</string>
+
+	<string id="pri_a20_colonel_send_reinforcement">
+		<text>알았다, 그쪽으로 둘을 보내지. 목표물 근처에서 합류할 거다. 교신 종료.</text>
+	</string>
+
+	<string id="pri_a20_colonel_send_reinforcement_a21_about_sentry">
+		<text>알았다, 그쪽으로 둘을 보내지. 목표물 근처에서 합류할 거다... 그리고 방금 막 보초의 신호를 포착했다. 좌표에 따르면 식료품점 근처 어디에 있는 모양이니까, 여력이 되면 확인하고 와... 널 믿는다, 소령. 교신 종료.</text>
+	</string>
+
+	<string id="zat_b103_merc_hide_weapon_1">
+		<text>총 집어넣어!</text>
+	</string>
+
+	<string id="zat_b103_merc_hide_weapon_2">
+		<text>총 집어넣으라고 했지! 셋 셀 동안 안 넣으면 대가리를 날려 버리겠다!</text>
+	</string>
+
+	<string id="zat_b103_merc_come_here_now">
+		<text>좋아, 그래야지... 이제 이리 와서 이야기를 해도 좋다.</text>
+	</string>
+
+	<string id="zat_b103_merc_count_1">
+		<text>하나!</text>
+	</string>
+
+	<string id="zat_b103_merc_count_2">
+		<text>둘!</text>
+	</string>
+
+	<string id="zat_b103_merc_count_3">
+		<text>셋!</text>
+	</string>
+
+	<string id="pri_a21_colonel_give_sentry_task">
+		<text>소령, 부탁할 게 있다. 보초가 응답을 하지 않는다... 식료품점이 있던 자리를 알고 있나? 신호가 거기서 수신되고 있다. 여력이 된다면 조사하도록 해... 그리고 한 가지 더. 몸조심해. 교신 종료.</text>
+	</string>
+
+	<string id="pri_a21_colonel_base_about_sentry">
+		<text>소령, 여기는 코발스키다. 긴급 상황이 하나 더 발생했다. 자세한 설명은 일단 여기로 오면 해 주겠다.</text>
+	</string>
+
+	<string id="pri_a21_colonel_lets_talk">
+		<text>아, 소령... 응답하라.</text>
+	</string>
+
+	<string id="pri_a21_actor_to_base_find_and_terminate_controller">
+		<text>기지, 보초는 사망했습니다. 이상 행동을 보이며 절 공격했습니다. 또 근방에서 컨트롤러를 발견해 제거했습니다.</text>
+	</string>
+
+	<string id="pri_a21_base_to_actor_find_and_terminate_controller">
+		<text>알겠다, 소령. 컨트롤러가 보초 녀석을 사로잡은 게 분명하군... 좋은 놈이었는데... 정찰대도 똑같이 당했던 거로군. 컨트롤러한테 조종당해서 서로 공격하다가... 아무튼... 교신 종료.</text>
+	</string>
+
+	<string id="pri_a21_actor_to_base_find_controller">
+		<text>기지, 보초는 사망했습니다. 이상 행동을 보이며 절 공격했습니다. 또 근방에서 컨트롤러를 발견해 후퇴했습니다.</text>
+	</string>
+
+	<string id="pri_a21_base_to_actor_terminate_controller">
+		<text>알겠다, 소령. 컨트롤러가 보초 녀석을 사로잡은 게 분명하군... 당장 놈을 죽여! 컨트롤러를 살려 두면 우리는 심각한 위협에 놓이게 된다.</text>
+	</string>
+
+	<string id="pri_a21_actor_to_base_terminate_controller">
+		<text>기지, 컨트롤러를 제거했습니다.</text>
+	</string>
+
+	<string id="pri_a22_colonel_to_actor_need_talk">
+		<text>소령, 할 이야기가 있다... 둘이서만.</text>
+	</string>
+
+	<string id="pri_a22_colonel_about_situation">
+		<text>소령, 심각한 문제가 발생했다... 헬리콥터가 추락한 뒤부터 작전이 점점 오리무중에 빠지고 있다. 하늘에서 사람이 파리처럼 우수수 추락하고, 본부와 교신까지 끊기는 등 사태가 악화될 대로 악화됐어... 피난용 헬리콥터도 감감무소식이야. 이대로라면 상황은 통제 불능 상태가 된다. 지금 당장 본부와 교신을 회복해야 해!</text>
+	</string>
+
+	<string id="pri_a22_colonel_about_rfi_and_lost_suad">
+		<text>통신 전문가들에 의하면 신호가 이 근처에서 교란되고 있다는 모양이야. 지금 이 순간에도 좌표 추적을 시도하고 있다. 전파 방해의 근원지로 추정되는 곳을 확인하려고 부하 몇을 보냈는데, 전부 사라져서 개인 신호도 잡히지 않는군.</text>
+	</string>
+
+	<string id="pri_a22_colonel_give_task">
+		<text>소령, 우리 목표 중 하나는 본부와의 교신을 회복하는 것이다. 지금 처한 상황에 비춰 볼 때 이것이 급선무다... 그리고 개인적으로 부탁하건대, 내 부하들을 찾아주게.</text>
+	</string>
+
+	<string id="pri_a22_actor_to_base_find_squad_member">
+		<text>기지, 부하 한 명을 찾았습니다. 수류탄으로 자폭한 것으로 보입니다. 총격전이 벌어졌거나 공격을 받은 흔적은 없습니다.</text>
+	</string>
+
+	<string id="pri_a22_base_to_actor_has_rfi_coordinates">
+		<text>여기는 코발스키. 알았다, 소령... 아, 좋은 소식이 있어. 드디어 교란을 일으킨 곳의 정확한 좌표를 획득했다. 신호가 나오는 곳은 유치원 건물이야.</text>
+	</string>
+
+	<string id="zat_b18_noah_greetings_1">
+		<text>지옥에나 가라, 망할 돌연변이!</text>
+	</string>
+
+	<string id="zat_b18_noah_greetings_2">
+		<text>죽기 싫으면 당장 여기서 나가, 새끼들아!</text>
+	</string>
+
+	<string id="zat_b18_noah_greetings_3">
+		<text>이 돌연변이 새끼들! 꺼져!</text>
+	</string>
+
+	<string id="zat_b18_noah_go_away">
+		<text>꺼져 버려, 새끼야!</text>
+	</string>
+
+	<string id="zat_b18_noah_gave_first_artefact">
+		<text>숲에서 돌연변이 새끼들이 튀어나오기 시작하면 이까짓 게 네 목숨을 지켜주진 못할 거야... 자, 받아 가. 이제 꺼지라고.</text>
+	</string>
+
+	<string id="zat_b18_noah_gave_second_artefact">
+		<text>하, 고작 그걸로 에미션을 피할 수 있겠어? 이거 받아. 목숨 건지려면 어서 뛰어.</text>
+	</string>
+
+	<string id="zat_b18_noah_breakdown">
+		<text>악!... 끝이야, 이제 끝이야!... 여기! 돌연변이! 돌연변이가 사방에!... 아악!</text>
+	</string>
+
+	<string id="zat_b18_noah_no_talk_1">
+		<text>건드리지 마.</text>
+	</string>
+
+	<string id="zat_b18_noah_no_talk_2">
+		<text>네 갈 길 가.</text>
+	</string>
+
+	<string id="zat_b18_noah_no_talk_3">
+		<text>떨어져.</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_diary">
+		<text>녹음 번호 12. 연구를 곧 끝내야 할 것 같다... 야영지의 사람들이 뭔가 의심하기 시작했기 때문이다. 그리고 그로우스와 다닐라가 블러드서커를 잡을 생각인가 보다... 언제 발각될지 모르겠다... 일단 오염된 혈액이 담긴 병을 따로 분류하고 나머지는 숨겨둬야겠다... 누가 오고 있군. 녹음 번호 13... 이번이 마지막 녹음이 될 것 같다. 오지랖 넓은 사냥꾼부터 해서 이제는 그로우스까지 날 의심하는 것 같다... 아무 일도 없이 빠져나가기는 글렀다. 젠장, 놈들이 날 찾아올 거야. 뭐, 상관없다. 어차피 난 헤모글로빈 의존증으로 죽을 테니까... 그래도 병으로 죽느니 총에 맞아 죽는 게 나을 거 같다...</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_hello">
+		<text>언젠가는 발각될 줄 알았지... 물어 보고 싶은 게 산더미겠군...</text>
+	</string>
+
+	<string id="jup_a12_bandits_warning_actor">
+		<text>어이! 여기서 뭘 하는 거야?! 다리 두 짝 멀쩡할 때 왔던 길로 돌아가!</text>
+	</string>
+
+	<string id="jup_a12_bandits_bodyguard_warning_actor">
+		<text>총 치워, 빨리!</text>
+	</string>
+
+	<string id="jup_a12_bandit_threat_to_prisoner">
+		<text>한 발짝만 더 움직이면 죽인다!</text>
+	</string>
+
+	<string id="jup_a12_bandit_say_jump">
+		<text>어라, 주머니에서 동전 짤랑거리는 소리가 나는 것 같은데? 맞냐?</text>
+	</string>
+
+	<string id="jup_a12_stalker_prisoner_thanks_actor">
+		<text>구해 줘서 고마워...</text>
+	</string>
+
+	<string id="jup_a12_stalker_prisoner_says_we_can_run_from_here">
+		<text>뛰어! 아직 안 늦었어!</text>
+	</string>
+
+	<string id="jup_a12_merc_lets_go">
+		<text>이동한다.</text>
+	</string>
+
+	<string id="jup_a12_merc_cover_us">
+		<text>내가 엄호하겠다.</text>
+	</string>
+
+	<string id="jup_a12_merc_ready">
+		<text>위치에 도착했다.</text>
+	</string>
+
+	<string id="jup_a12_merc_attack_started">
+		<text>시작하자!</text>
+	</string>
+
+	<string id="jup_a12_stalkers_to_actor_meet_on_base">
+		<text>오래된 기차역에서 보자고.</text>
+	</string>
+
+	<string id="jup_a12_stalkers_to_actor_came_back">
+		<text>어이, 어디 가는 거냐? 멈춰, 당장 돌아와!</text>
+	</string>
+
+	<string id="jup_a12_stalker_assaulter_1_argue">
+		<text>아티팩트를 팔아서 사람들 모집해야 해. 그리고 다 같이 밴디트를 공격하는 거야.</text>
+	</string>
+
+	<string id="jup_a12_stalker_diplomat_1_argue">
+		<text>어림도 없는 소리... 차라리 몸값으로 아티팩트를 넘기는 게 훨씬 낫지.</text>
+	</string>
+
+	<string id="jup_a12_stalker_assaulter_2_argue">
+		<text>아티팩트를 넘기면 녀석을 쏴 죽일 게 뻔한데도?</text>
+	</string>
+
+	<string id="jup_a12_stalker_diplomat_2_argue">
+		<text>우리가 덤벼들면 안 죽이고 살려 줄 것 같냐?</text>
+	</string>
+
+	<string id="jup_a12_stalker_assaulter_3_argue">
+		<text>그놈들한테 굴복해선 안 돼! 아티팩트를 갖다 바치면 더 내놓으라고 할 거라고!</text>
+	</string>
+
+	<string id="jup_a12_stalker_diplomat_3_argue">
+		<text>굴복하는 게 아니야. 우리로선 놈들의 조건을 따르는 수밖에 없어!</text>
+	</string>
+
+	<string id="zat_b5_stalkers_all_clear_go">
+		<text>뭐, 그럼 얘기 끝났네. 없애 버려.</text>
+	</string>
+
+	<string id="jup_b15_zulus_greeting">
+		<text>무슨 일이지?</text>
+	</string>
+
+	<string id="jup_b15_zulus_ready">
+		<text>좋다, 그렇게 하지. 함께 가겠다. 전투원을 발견하는 대로 내 쪽으로 보내면 팀을 꾸리지. 준비가 완료되면 말하라고. 니트로를 데리고 주피터로 갈 테니까.</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_kill_1">
+		<text>한 놈 없애고 한 놈 남았어. 조심해!</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_kill_2">
+		<text>끝이군. 놈이 마지막이야.</text>
+	</string>
+
+	<string id="jup_b25_story_controller">
+		<text>좋아, 컨트롤러 죽이는 법을 알려 줄게... 지난번에 아티팩트를 잔뜩 발견했는데, 계속 지고 가다간 허리 나가겠다 싶어서 중간에 숨겨 놓기로 했어. 바로 그 은닉처로 물건을 찾으러 갔는데 위에 컨트롤러 한 마리가 쉬고 있는 거야. 난 "컨트롤러고 뭐고 내 물건은 되찾아야 해!"라고 생각했어. 그때 뭔가로 몸을 보호하면 놈의 세뇌가 안 통할 거라는 생각이 팍 들더군. 그래서 곧장 근처에 놓여 있던 쇠창살을 방패 삼아 놈한테 몰래 다가갔지. 그러고 놈이 눈뜨기 전에 탄창의 반을 그놈 대가리에 쏴버렸어. 놈은 그제야 정신을 차리더니, 나를 조종하려고 하더라고. 그래서 내가 개머리판으로 놈을 찍어버렸지. 그러더니 픽하고 죽더라.</text>
+	</string>
+
+	<string id="jup_b25_story_oasis">
+		<text>오아시스 얘기 들어 본 적 있나? 물론 있겠지? 나로 말할 것 같으면 오아시스에 직접 갔다 오기까지 했단 말씀이야. 내가 최초로 거기로 가는 길을 알아냈으니, 말하자면 개척자인 셈이지. 오아시스에 가면 말이야, 돌연변이도 망할 이상 현상도 없어. 묘지처럼 고요하고 아티팩트가 그득해. 바로 며칠 전에도 갔었어... 일광욕도 하고... 뭐, 너도 데려가 달라고? 하! 미안한데 사람이 몰리면 나만 손해라서 말야. 기분 나쁘게 생각 말라고.</text>
+	</string>
+
+	<string id="jup_b25_story_bloodsucker">
+		<text>블러드서커에 대한 모든 걸 알려주지... 내가 자톤에 있었을 때 일이야. 당시에 블러드서커 때문에 그 동네 사람들이 무척 고생하고 있었지. 그 괴물 잡겠다고 다들 개고생을 했지만, 아무 소용도 없었어... 불쌍한 놈들. 그래서 내가 나서기로 했지. 산탄총 꺼내서 블러드서커 소굴로 곧장 쳐들어갔어. 많게는 한 번에 두세 마리씩 상대하면서 장장 사흘 동안 그 개자식들하고 치고받았다니까. 헤헤... 그렇게 오붓한 시간을 보낸 뒤부터 내내 녀석들은 촉수를 사렸고 자톤에서 블러드서커가 말썽을 피우는 일은 거의 사라졌지.</text>
+	</string>
+
+	<string id="jup_b25_story_guide">
+		<text>뭐, 너도 자톤에서 주피터까지 오는 길은 잘 알겠지... 모른다고? 음, 전부터 가이드 녀석은 빙 돌아서 가더라고. 나는 그냥 직진하기로 했지. 기발한 생각이었어. 이곳저곳 돌아다니다 보니, 꽤 빠르게 이상 현상을 피해 가는 방법을 터득했거든. 그렇게 지름길을 찾아서 길잡이한테 정보를 팔았어. 이제 그 친구도 매번 내가 찾은 길로만 다니더라.</text>
+	</string>
+
+	<string id="jup_b25_story_scientist">
+		<text>흠, 들려줄 만한 얘기가 몇 개 있지... 과학자들한테 의뢰받은 이야기 해 줬었나? 한번은 방공호에 불쑥 찾아가 봤지. 거기서 뭣들 하는 건지 궁금해서 참을 수가 없었거든. 처음에는 다들 놀라더니 "마침 필요할 때 와 줬네"라면서 반기더라. 알고 보니 그 녀석들이 이상 현상 아래에다 과학 장비를 설치하고 싶었던 모양이야. 헤헤... 자기들이 직접 하기는 싫었는지, 돈하고 다른 물건을 보상으로 걸더군. 그래서 "알았어, 그런데 보상은 두둑이 해" 그랬지. 이상 현상을 찾아서 사방을 기어다녀야 했지만, 그 찐따 새끼들한테 답례 받아내는 게 두 배는 힘들었어.</text>
+	</string>
+
+	<string id="jup_b25_story_artefact">
+		<text>저번에 아티팩트 찾았을 때가 진짜 장난 아니었는데 말이야. 채석장엔 가 봤으려나? 뭐, 거기 뭐가 있었든 사라진 지 오래야. 이 플린트 님이 다녀간 이상 현상에 아티팩트가 버젓이 남아있다는 게 말이 돼? 그건 동네 개들도 아는 얘기라고.</text>
+	</string>
+
+	<string id="jup_b25_story_zaton">
+		<text>개중에는 이 플린트가 거짓말을 한다고 생각하는 사람이 있을지도 모르지... 흥, 그럼 기지에 가서 아무나 붙잡고 물어보라지... 저번에 만난 프로 사냥꾼 무리도 날 보자마자 "도와줘, 플린트. 너 없이는 안 돼!"라고 했다고... 키메라를 잡으러 간다길래 "프로"들한테 내 또 한 수 가르쳐 줬지. 내 방식은 사실 엄청 간단해. 그냥 무작정 놈의 소굴로 뛰어 들어가는 거야. 그 녀석들이 감시하라고 신입을 문가에 세워 놨다더라고. 물론, 아침에 키메라를 보고 놀라서 튄 바람에 나 혼자 상대해야 했지만... 결과는 보다시피, 나의 승리였지. 헤헤...</text>
+	</string>
+
+	<string id="jup_b25_story_first_reac_1">
+		<text>햐, 그거 엄청난 모험담인데, 플린트...</text>
+	</string>
+
+	<string id="jup_b25_story_first_reac_2">
+		<text>상남자가 따로 없군.</text>
+	</string>
+
+	<string id="jup_b25_story_first_reac_3">
+		<text>그래... 제법이네...</text>
+	</string>
+
+	<string id="jup_b25_story_second_reac_1">
+		<text>재밌는 얘기네...</text>
+	</string>
+
+	<string id="jup_b25_story_second_reac_2">
+		<text>그랬군...</text>
+	</string>
+
+	<string id="jup_b25_story_second_reac_3">
+		<text>와!</text>
+	</string>
+
+	<string id="zat_b100_heli_2_maps">
+		<text>승무원이 공중에서 사망하는 바람에, 조종할 사람이 없어진 헬리콥터가 추락한 모양이다. 다행히 내장 컴퓨터는 좀 더 운이 좋았다. 뭔가 건질 만한 게 있으려나... 아, 뭔가 있다. 이 일대의 지도에 특정 위치가 표시되어 있다. 도움이 될 것 같다.</text>
+	</string>
+
+	<string id="zat_b7_raiders_ready_to_go">
+		<text>그래서? 기다린 지도 꽤 됐는데...</text>
+	</string>
+
+	<string id="zat_b7_raider_sneak_comments_1">
+		<text>제대로 보여주는 거야!</text>
+	</string>
+
+	<string id="zat_b7_raider_sneak_comments_2">
+		<text>이봐, 무슨 일이지?</text>
+	</string>
+
+	<string id="zat_b7_raider_sneak_comments_3">
+		<text>진정해, 금방 해치울 수 있을 거야!</text>
+	</string>
+
+	<string id="zat_b7_raiders_sneak_confuse">
+		<text>뭐야...?! 숨기라도 한 건가?</text>
+	</string>
+
+	<string id="zat_b7_raiders_attack">
+		<text>해 보자고!</text>
+	</string>
+
+	<string id="zat_b7_stalkers_attack">
+		<text>다 죽여!</text>
+	</string>
+
+	<string id="zat_b5_dealer_angry">
+		<text>멍청이들아, 꼬리를 달고 오면 어떡해!</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_not_a_hunter_1">
+		<text>이 발톱 자국 좀 봐... 기묘하군...</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_not_a_hunter_2">
+		<text>우리가 찾은 시체에는 없었는데...</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_not_a_hunter_3">
+		<text>사냥꾼은 여기 없다... 가자.</text>
+	</string>
+
+	<string id="zat_b103_merc_warning">
+		<text>이 새끼가 미쳤나?! 대가리 구멍 내기 전에 돌아가!</text>
+	</string>
+
+	<string id="jup_a9_actor_conservation_info">
+		<text>그러니까... 지하통로는 봉쇄된 뒤로 가스로 가득 차 있다는 말이지...</text>
+	</string>
+
+	<string id="jup_a9_actor_power_info">
+		<text>여기가 지하통로로 통하는 입구다... 발전기를 작동하면 자물쇠를 열 수 있을 거야.</text>
+	</string>
+
+	<string id="jup_a9_actor_way_info">
+		<text>프리피야티 제1 지하도 도면이다... 프리피야티로 가는 지하 통로가 있다는 증거야.</text>
+	</string>
+
+	<string id="zat_b101_one_heli_info">
+		<text>안에 있던 전자기기가 전부 불탔다. 송전선 피복마저도 녹아내렸군...</text>
+	</string>
+
+	<string id="zat_b101_both_heli_info">
+		<text>이곳의 전자기기도 마찬가지야. 그런데 에미션 보호 시스템은 멀쩡해... 누가 이런 짓을 했을까?</text>
+	</string>
+
+	<string id="zat_b7_raider_after_ok">
+		<text>좋아, 끝이군... 실력 잘 봤어.</text>
+	</string>
+
+	<string id="zat_b7_raider_after_bad">
+		<text>좋아, 끝이군... 넌 대체 뭘 하고 있었던 거지? 경치 감상?</text>
+	</string>
+
+	<string id="zat_b7_stalker_after_ok">
+		<text>놈들을 해치웠다! 도와줘서 고마워.</text>
+	</string>
+
+	<string id="zat_b7_stalker_after_bad">
+		<text>놈들을 해치웠다! 실전 실력은 떨어지는 것 같군 그래.</text>
+	</string>
+
+	<string id="zat_b5_sultan_kill_stalkers">
+		<text>없애 버려라, 얘들아!</text>
+	</string>
+
+	<string id="zat_b5_dealer_kill_bandits">
+		<text>목격자는 다 처형해!</text>
+	</string>
+
+	<string id="zat_b5_dealer_wait_clients">
+		<text>여기서 기다리지. 고객들이 곧 올 거야.</text>
+	</string>
+
+	<string id="zat_b5_dealer_see_clients">
+		<text>왔군.</text>
+	</string>
+
+	<string id="jup_b1_actor_dont_come">
+		<text>이봐, 시간은 금이라는 말 몰라? 더는 못 기다려. 분대는 이만 돌아갈 거다.</text>
+	</string>
+
+	<string id="jup_b1_stalkers_greeting">
+		<text>아, 네가 구멍 전문가인가? 하하... 걱정 붙들어 매. 돌연변이는 애들이 눈 깜짝할 새 해치워 줄 테니까.</text>
+	</string>
+
+	<string id="jup_b1_stalkers_lair_check">
+		<text>흠... 조용하네. 앞으로 가지.</text>
+	</string>
+
+	<string id="jup_b1_stalkers_see_zombied">
+		<text>좀비다!</text>
+	</string>
+
+	<string id="jup_b1_stalkers_monsters_out">
+		<text>방금이 마지막 놈이었던 것 같군.</text>
+	</string>
+
+	<string id="jup_b1_stalkers_first_stay">
+		<text>여기서 기다릴게. 무슨 일 있으면 우리한테 맡겨.</text>
+	</string>
+
+	<string id="jup_b1_stalkers_second_stay">
+		<text>어서 가, 입구는 우리가 맡을게.</text>
+	</string>
+
+	<string id="jup_b1_stalkers_monsters_beat_off">
+		<text>문제없어... 햄스터 몇 마리가 있어서 처치했다...</text>
+	</string>
+
+	<string id="jup_b1_stalker_warning">
+		<text>컨트... 컨트롤... 컨트롤... 러... 조... 조심해... 으윽...</text>
+	</string>
+
+	<string id="jup_b1_stalkers_psy_wound_1">
+		<text>아악!... 놈이 내 머릿속에!... 안 돼!...</text>
+	</string>
+
+	<string id="zat_b7_raiders_to_boss">
+		<text>잘 들어. 술탄이 널 보자고 한다...</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_take_order">
+		<text>좋아. 여기 돈 받아.</text>
+	</string>
+
+	<string id="zat_b29_stalker_rival_1_order_ready">
+		<text>일 끝났어. 여기 아티팩트 받아.</text>
+	</string>
+
+	<string id="zat_b29_stalker_rival_2_order_ready">
+		<text>다 했어. 여기, 아티팩트.</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_greeting_gun">
+		<text>와, 총 한번 멋지네. 좀 봐도 되지?</text>
+	</string>
+
+	<string id="zat_b52_port_bandits_see_actor">
+		<text>저놈 총 죽이네. 어이, 기다려 봐!</text>
+	</string>
+
+	<string id="zat_b52_port_bandits_stand_still_snd">
+		<text>지금 갈 테니까 거기 가만히 있어!</text>
+	</string>
+
+	<string id="zat_b52_port_bandits_after_pay_snd_1">
+		<text>좋아, 이제 맘 바뀌기 전에 썩 꺼져.</text>
+	</string>
+
+	<string id="zat_b52_port_bandits_after_pay_snd_2">
+		<text>뭘 얼쩡거리고 있어? 지금 누구 간 보냐?</text>
+	</string>
+
+	<string id="zat_b52_port_bandits_after_pay_snd_3">
+		<text>거기까지다. 넌 죽었어!</text>
+	</string>
+
+	<string id="zat_b52_port_bandits_kill_actor_snd_1">
+		<text>뒈져, 새끼야!</text>
+	</string>
+
+	<string id="zat_b52_port_bandits_kill_actor_snd_2">
+		<text>얘들아, 이 새낀 안 되겠다. 없애 버려!</text>
+	</string>
+
+	<string id="zat_b52_port_bandits_kill_actor_snd_3">
+		<text>얘들아, 이 새끼가 치사하게 구는데?</text>
+	</string>
+
+	<string id="jup_b9_heli_1_blackbox">
+		<text>시신이 둘... 추락할 때 사망했나 보군. 쓸모 있는 건 전부 털린 데다 내장 컴퓨터에 든 정보까지 지워졌어... 하지만 블랙박스는 무사하다... 재미있군. 실력 있는 기술자라면 블랙박스 속 정보를 추출해서 해독할 수 있을지 몰라...</text>
+	</string>
+
+	<string id="jup_b9_blackbox_records">
+		<text>...스팅레이 4, 응답하라. 응답하라! 젠장! 스팅레이 4, 들리나?... 스팅레이 그룹은 잘 들어라. 여기는 스팅레이 1. 긴급 피난 장소는 B28 지점이다. 반복한다. B28 지점이다.</text>
+	</string>
+
+	<string id="jup_b1_stalkers_get_out">
+		<text>젠장, 어서 여길 빠져나가야 해. 서둘러.</text>
+	</string>
+
+	<string id="jup_b1_stalkers_aftershock_1">
+		<text>흠... 미친... 대체... 이게... 무슨... 또...</text>
+	</string>
+
+	<string id="jup_b1_stalkers_aftershock_2">
+		<text>아악... 불가... 능... 끔찍해... 젠장, 머리 아파 죽겠어...</text>
+	</string>
+
+	<string id="zat_b28_heli_3_evacuation_points">
+		<text>내장 컴퓨터에 들어 있던 정보다... 좋아, 스팅레이 3의 엔진 두 개가 모두 고장 나고 말았던 거군... 흠... 그리고 또 뭐가 있지?... 대피 장소로 보이는 곳이 표시된 지도다. B2, B28, 그리고 B205 지점이라. 재미있는데...</text>
+	</string>
+
+	<string id="zat_b30_owl_about_trouble">
+		<text>여기는 아울이다... 이리로 와라. 일에 대해서 할 이야기가 있다.</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_order">
+		<text>일은 완료했어. 물건 가져가.</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_greeting_1">
+		<text>안녕, 스토커. 주문할 거 있어?</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_greeting_2">
+		<text>웬일이야? 뭐 주문하려고?</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_greeting_3">
+		<text>안녕. 필요한 거 없나?</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_greeting_order_ready_1">
+		<text>주문한 거 준비됐어. 물건 받아 가.</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_greeting_order_ready_2">
+		<text>물건 준비됐어! 가져가.</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_greeting_order_ready_3">
+		<text>물건 가져가, 스토커! 봤지? 나한테 신뢰는 기본이라고.</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_greeting_order_not_ready_1">
+		<text>걱정할 거 없어. 물건은 곧 준비될 거야.</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_greeting_order_not_ready_2">
+		<text>나중에 다시 와. 지금은 물건이 없어.</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_greeting_order_not_ready_3">
+		<text>나중에 찾으러 와. 그때까진 준비해 놓을게!</text>
+	</string>
+
+	<string id="jup_b202_bandit_pda">
+		<text>두목, 그 버러지 자식, 제대로 손봐줬어요! 앞으로는 까불지 않을 겁니다!</text>
+	</string>
+
+	<string id="jup_b202_bandit_to_snag">
+		<text>술탄이 안부 전해주란다. 입 크게 벌려, 새끼야!</text>
+	</string>
+
+	<string id="jup_b25_revage_senya">
+		<text>기다려... 놈을 찾아... 최악의 상황은 아직 오... 으윽.</text>
+	</string>
+
+	<string id="jup_b6_stalker_1_first_measurement_done">
+		<text>알파, 베타, 감마 방사선 수치 측정!</text>
+	</string>
+
+	<string id="jup_b6_stalker_1_second_measurement_done">
+		<text>전자기장 스캔 완료!</text>
+	</string>
+
+	<string id="jup_b6_stalker_1_third_measurement_done">
+		<text>전 범위 음향 데이터 확보 완료!</text>
+	</string>
+
+	<string id="jup_b6_stalker_1_fourth_measurement_done">
+		<text>토션장 스캔 완료.</text>
+	</string>
+
+	<string id="jup_b6_stalker_1_monsters_coming_1">
+		<text>이봐, 엄호할 거야 말 거야?</text>
+	</string>
+
+	<string id="jup_b6_stalker_1_monsters_coming_2">
+		<text>스토커, 빨리! 엄호해 줘!</text>
+	</string>
+
+	<string id="jup_b6_stalker_1_monsters_coming_3">
+		<text>이봐! 뭐 해?</text>
+	</string>
+
+	<string id="jup_b6_stalker_1_monsters_coming_4">
+		<text>스토커, 놈들이 나타났어! 도와줘!</text>
+	</string>
+
+	<string id="jup_b6_stalker_1_monsters_coming_5">
+		<text>스토커!... 대체 뭐 하고 자빠졌어?</text>
+	</string>
+
+	<string id="jup_b6_stalker_1_monsters_coming_6">
+		<text>놈들이 공격한다!... 스토커!... 무슨...?</text>
+	</string>
+
+	<string id="jup_b6_stalker_1_measurements_done">
+		<text>여기 볼일은 끝이야, 스토커. 이제 빨리 나가자고...</text>
+	</string>
+
+	<string id="jup_b6_stalker_1_first_measurement_begin">
+		<text>좋아, 여기서부터 시작할까. 빨리 끝낼수록 생존 확률이 높아질 거야.</text>
+	</string>
+
+	<string id="jup_b19_freedom_yar_about_zombie_1">
+		<text>조용한 동네네... 어디까지나 주민들을 안 건드렸을 때 얘기지만.</text>
+	</string>
+
+	<string id="jup_b19_freedom_yar_about_zombie_2">
+		<text>평화롭군... 휴양지라 해도 믿겠어.</text>
+	</string>
+
+	<string id="jup_b19_freedom_yar_about_zombie_3">
+		<text>거의 다 왔어.</text>
+	</string>
+
+	<string id="jup_b207_duty_leader_about_depot">
+		<text>하브릴렌코, 창고의 진상을 알아냈다! 프리덤 짓이야. 창고에 그놈들이 득실댈 테니 분대를 전부 끌고 가서 잽싸게 쓸어 버리자고!</text>
+	</string>
+
+	<string id="jup_b207_freedom_leader_about_depot">
+		<text>크레멘, 부하들 데리고 창고로 가서 가이두크한테 합류해. 듀티 새끼들이 언제 물건 가지러 들이닥칠지 몰라.</text>
+	</string>
+
+	<string id="jup_b207_duty_leader_about_depot_after">
+		<text>이게 사실이라면 창고에 들어갈 수 있을 거다.</text>
+	</string>
+
+	<string id="jup_b207_freedom_leader_about_depot_after">
+		<text>좋아, 이 정도면 대원들이 놈들을 물리칠 수 있겠지... 사례는 확실히 하겠네. 원할 때 언제든 은닉처를 이용하도록 해. 나머지한테도 말해 두지.</text>
+	</string>
+
+	<string id="jup_b207_duty_security_squad_to_freedom_leave">
+		<text>잘 들어라, 프리덤. 여긴 듀티 구역이다! 창고에서 당장 떨어져라!</text>
+	</string>
+
+	<string id="jup_b207_freedom_recon_squad_refuse">
+		<text>아, 그럼. 얼른 탄약 보충만 하고 나서 떠나 드리지.</text>
+	</string>
+
+	<string id="jup_b207_duty_security_squad_to_freedom_start_attack">
+		<text>개자식들!... 좋은 말로는 안 되겠군... 다들 작전 개시해!</text>
+	</string>
+
+	<string id="jup_b207_freedom_guards_warning_actor">
+		<text>여긴 공원이 아냐. 딴 데로 가는 게 신상에 좋을 거다.</text>
+	</string>
+
+	<string id="jup_b207_duty_guards_warning_actor">
+		<text>어이, 당장 나가! 여긴 듀티 대원 외엔 출입 금지다!</text>
+	</string>
+
+	<string id="pri_b35_kovalski_calls_guide">
+		<text>키릴로프 중위, 여기는 코발스키다. 소령을 호위해 줘야겠다.</text>
+	</string>
+
+	<string id="pri_b35_rendevous_started">
+		<text>소령님, 용병들이 도착했습니다.</text>
+	</string>
+
+	<string id="pri_b35_merc_leader_sighted">
+		<text>정문 옆에 있는 게 우두머리 같습니다.</text>
+	</string>
+
+	<string id="pri_b35_envoy_sighted">
+		<text>아니, 한 무리가 더 있군요. 어느 쪽이 메신저인지 봐야 할 것 같습니다...</text>
+	</string>
+
+	<string id="pri_b35_rendevous_in_process">
+		<text>목표물이 정문 옆에 있습니다.</text>
+	</string>
+
+	<string id="pri_b35_rendevous_done">
+		<text>끝났습니다. 이제 처리하시죠.</text>
+	</string>
+
+	<string id="pri_b35_targets_lost_end">
+		<text>목표물이 둘 다 탈출했습니다. 임무를 중단하고 퇴각하세요.</text>
+	</string>
+
+	<string id="pri_b35_primary_target_down">
+		<text>첫 번째 목표물 사살.</text>
+	</string>
+
+	<string id="pri_b35_secondary_target_down">
+		<text>두 번째 목표물 사살.</text>
+	</string>
+
+	<string id="pri_b35_primary_target_lost_end">
+		<text>첫 번째 목표물이 탈출했습니다. 퇴각하세요.</text>
+	</string>
+
+	<string id="pri_b35_secondary_target_lost_end">
+		<text>두 번째 목표물이 탈출했습니다. 퇴각하세요.</text>
+	</string>
+
+	<string id="pri_b35_both_done_end">
+		<text>두 목표물 모두 사살했습니다. 잘하셨습니다. 임무 완수입니다. 퇴각하세요.</text>
+	</string>
+
+	<string id="jup_b46_spatial_bubble_sos_1">
+		<text>"...출구를 찾을 수 없다! 도와달라! 물자가 부족하..."</text>
+	</string>
+
+	<string id="jup_b46_spatial_bubble_sos_2">
+		<text>"...더는 힘들다! 이틀째 식수를 공급받지 못했다! 구조를 요청한다! 도와..."</text>
+	</string>
+
+	<string id="jup_b46_spatial_bubble_sos_3">
+		<text>"...당장 도움이 필요하다! 최대한 버틸 수 있는 시간은 겨우 3..."</text>
+	</string>
+
+	<string id="jup_b46_duty_founder_pda_diary">
+		<text>...어디를 가든 계속 같은 곳에 도달하고 있다. 이 안개는 도저히 적응이 안 되는군... 체푸르니가 흔적도 없이 사라진 점도 이상하다. 혹시 나가는 길을 찾았나...? 6일째다... 물이 떨어졌다... 대령은 총구를 돌려서 두 사람을 직사거리에 쏘고 본인도 쏴버렸다... 이젠 이 망할 이상 현상에서 나 혼자 살아남아야 한다... 그때 통신 장치를 고쳐서 아래로 내려간다고만 안 했어도 본부에서 우릴 구하러 왔을 텐데... 그러면 듀티도 존재하지 않았겠지. 내 인생이 어떻게 달라졌을지 궁금한데... 아, 엿이나 먹으라지. 타첸코 대위는 이미 죽은 지 오래야... 그런데 지금은 듀티의 타첸코 장군도 죽게 생겼군... 뭐, 정의가 구현된 건가...</text>
+	</string>
+
+	<string id="jup_b6_stalker_1_first_measurement_in_progress">
+		<text>데이터 추출 중...</text>
+	</string>
+
+	<string id="jup_b6_stalker_1_second_measurement_in_progress">
+		<text>전자기장 스캔 중.</text>
+	</string>
+
+	<string id="jup_b6_stalker_1_third_measurement_in_progress">
+		<text>현재 두 영역 음향 데이터 확보.</text>
+	</string>
+
+	<string id="jup_b6_stalker_1_fourth_measurement_in_progress">
+		<text>거의 다 됐다. 토션장 스캔이 거의 끝났어.</text>
+	</string>
+
+	<string id="jup_b4_duty_squad_leader_align">
+		<text>집합!</text>
+	</string>
+
+	<string id="jup_b4_duty_squad_leader_align_line">
+		<text>일렬로 서!</text>
+	</string>
+
+	<string id="jup_b4_duty_squad_leader_praise">
+		<text>거 봐, 하려고 하면 할 수 있잖아... 자, 그럼 선서해.</text>
+	</string>
+
+	<string id="jup_b4_duty_squad_leader_speech">
+		<text>그대들은 듀티로서 용감하고 진실하게 복무하며, 인류를 존의 위협으로부터 보호하고 항시 규율을 준수할 것을 맹세하는가?</text>
+	</string>
+
+	<string id="jup_b4_freedom_squad_leader_any_questions">
+		<text>그래, 질문 있나?</text>
+	</string>
+
+	<string id="jup_b4_freedom_squad_leader_lets_talk">
+		<text>뭘 그렇게 서 있어? 얘기할 거면 여기 앉게.</text>
+	</string>
+
+	<string id="jup_b4_freedom_squad_leader_reply">
+		<text>여긴 위계질서 같은 거 안 지켜도 돼. 다른 이들한테 존경받으면 따르는 사람들이 알아서 생길 거야... 단, 임무 수행 중에는 지휘관의 명령에 무조건 복종해야 하는 거 명심하고.</text>
+	</string>
+
+	<string id="jup_b4_freedom_squad_leader_speech">
+		<text>프리덤은 소속 대원과 그 외 스토커의 자유를 존중한다. 존은 인류에게 주어진 가장 큰 선물로서 모두가 누려야 한다는 것이 프리덤의 지론이다. 존은 지대한 발전을 이룩할 인류의 발판이 될 것이며, 이는 모두가 알아야 한다...</text>
+	</string>
+
+	<string id="jup_b4_freedom_squad_leader_welcome_to_freedom">
+		<text>프리덤에 온 걸 환영한다!</text>
+	</string>
+
+	<string id="jup_b4_monolith_1_ask_to_freedom">
+		<text>저희 지휘관은 누굽니까?</text>
+	</string>
+
+	<string id="jup_b4_monolith_squad_leader_meet">
+		<text>스토커, 이리 와 보게.</text>
+	</string>
+
+	<string id="jup_b4_monolith_talking_1_1">
+		<text>여기 하루 종일 앉아 있어 봤자 아무 득도 없어.</text>
+	</string>
+
+	<string id="jup_b4_monolith_talking_1_2">
+		<text>사방이 돌연변이야.</text>
+	</string>
+
+	<string id="jup_b4_monolith_talking_1_3">
+		<text>어디로 가야 하지?</text>
+	</string>
+
+	<string id="jup_b4_monolith_talking_5_3">
+		<text>이러나저러나 우린 끝장이야.</text>
+	</string>
+
+	<string id="jup_b4_monolith_talking_5_1">
+		<text>일단은 여기가 당최 어딘지를 알아내야 할 텐데.</text>
+	</string>
+
+	<string id="jup_b4_monolith_talking_5_2">
+		<text>사람을 찾아야 해.</text>
+	</string>
+
+	<string id="jup_b4_recruit_1_cool_freedom">
+		<text>나쁘지 않네.</text>
+	</string>
+
+	<string id="jup_b4_recruit_1_serve_duty">
+		<text>맹세합니다!</text>
+	</string>
+
+	<string id="jup_b4_recruit_2_serve_duty">
+		<text>맹세합니다!</text>
+	</string>
+
+	<string id="jup_b4_recruit_2_cool_freedom">
+		<text>좋아, 바로 그거야.</text>
+	</string>
+
+	<string id="zat_b3_tech_sober">
+		<text>안녕.</text>
+	</string>
+
+	<string id="zat_b3_tech_drunk_discount">
+		<text>음... 뭐 잊어 버렸나?</text>
+	</string>
+
+	<string id="zat_b3_tech_drunk">
+		<text>요... 용건이 뭐지?</text>
+	</string>
+
+	<string id="zat_b3_tech_realy_drunk_discount">
+		<text>아... 어... 누군가 했네... 들어와...</text>
+	</string>
+
+	<string id="zat_b3_tech_realy_drunk">
+		<text>뭐... 뭐 해줄까? 하!</text>
+	</string>
+
+	<string id="zat_b3_tech_drink_no_more">
+		<text>어떻게 지내나, 스토커?</text>
+	</string>
+
+	<string id="zat_b3_tech_take_first_dose">
+		<text>흔들리지 않는 손을 위하여 건배.</text>
+	</string>
+
+	<string id="zat_b3_tech_take_second_dose">
+		<text>중노동을 위하여 건배.</text>
+	</string>
+
+	<string id="zat_b3_tech_take_third_dose">
+		<text>공동의 목표를 위하여 건배.</text>
+	</string>
+
+	<string id="zat_b3_tech_see_produce_62">
+		<text>뭐어?!... 6... 62?... 말도 안 돼!</text>
+	</string>
+	
+	<string id="zat_b3_tech_sleep_2">
+		<text>...그 정도론 안 되지... 어림도 없어...</text>
+	</string>
+
+	<string id="zat_b3_tech_sleep_4">
+		<text>...어이, 너희 어디들 가는 거야... 아냐... 난... 난 여기 있을 거라고...</text>
+	</string>
+
+	<string id="zat_b3_tech_no_sleep_1">
+		<text>흠... 뭐야? 잠 좀 자자...</text>
+	</string>
+
+	<string id="zat_b3_tech_no_sleep_2">
+		<text>아, 사람 좀 냅둬...</text>
+	</string>
+
+	<string id="zat_b3_tech_no_sleep_3">
+		<text>저깄네... 마음껏 마시라고... </text>
+	</string>
+
+	<string id="zat_b44_stalker_barge_pda">
+		<text>카르단 그 늙은 주정뱅이 새끼. 그놈은 게으른 데다 술만 처마시면 "여기 있는 게 더 나아. 좀 쉬엄쉬엄하자고." 같은 소리나 지껄인다. 그래 놓고는 나하고 조커한테 우리가 어리고 아무것도 모른다는 식으로 말한다... 허... 물론 조커 녀석도 하는 짓이 아주 가관이었다. 열받았다고 배낭을 챙겨서 사라져 버린 것이다. 내가 카르단을 진정시키는 동안 조커 놈은 사라져서 코빼기도 안 비추고 있다. 아, 이제 어떻게 하지? 노망난 얼간이하고 같이 술이나 퍼마셔야 하나? 아니, 그건 사양하겠다. 그 인간이 마시는 보드카는 쓰레기니까... 으... 분명 처음에는 다 잘될 것만 같았는데...</text>
+	</string>
+
+	<string id="pri_b301_zulus_surrounded_1">
+		<text>이거나 먹어라!</text>
+	</string>
+
+	<string id="pri_b301_zulus_surrounded_2">
+		<text>내가 쉽게 당할 줄 알고?</text>
+	</string>
+
+	<string id="pri_b301_zulus_surrounded_3">
+		<text>이거나 받아!</text>
+	</string>
+
+	<string id="pri_b301_zulus_hello_in_combat">
+		<text>벽에 붙어! 놈들이 사방에서 몰려온다!</text>
+	</string>
+
+	<string id="pri_b301_zulus_after_fight">
+		<text>흠, 재밌네.</text>
+	</string>
+
+	<string id="jup_b217_stalker_guide_welcome">
+		<text>도착했다. 야노우 역이 주피터 근처에선 그래도 비교적 안전한 곳이야... 여기서 갈라지자고. 혹시나 필요한 일 생기면 술집으로 찾아오고.</text>
+	</string>
+
+	<string id="jup_b217_stalker_tech_welcome">
+		<text>처음 왔나 본데?... 나도 온 지 얼마 안 됐어. 니트로라고 해. 장비를 다루지... 필요한 건 뭐든 수리해 줄 수 있지만, 이 근방에선 쓸 만한 도구 찾기가 하늘의 별 따기란 게 문제야. 그러니까 뭐라도 눈에 띄면 바로 나한테 좀 갖다줘. 그리고 기술적인 도움이 필요할 때도 찾아와. 최선을 다해 도와줄게.</text>
+	</string>
+
+	<string id="pri_b305_kirilov_glad">
+		<text>아니, 이게 누구야? 놀랍군! 우리 의사 선생을 다시 못 볼 줄 알았는데!...</text>
+	</string>
+
+	<string id="pri_b305_kirilov_what_happen">
+		<text>무슨 일이 있었나?</text>
+	</string>
+
+	<string id="pri_b305_medik_talk_later">
+		<text>그게, 얘기하자면 깁니다... 다음에 말씀드리죠...</text>
+	</string>
+
+	<string id="pri_b305_kirilov_ok">
+		<text>알겠네...</text>
+	</string>
+
+	<string id="pri_b305_kirilov_about_strelok_1">
+		<text>도와주셔서 감사합니다... 그나저나 대령님께서 보자고 하시던데요.</text>
+	</string>
+
+	<string id="pri_b305_actor_go">
+		<text>알겠네. 고마워.</text>
+	</string>
+
+	<string id="pri_b305_kirilov_about_garik_vano">
+		<text>그리고, 바노가 게리하고 야노우 역으로 갔다고 전해 달라고 했습니다. 기념품 가지고 돌아오겠다나요... </text>
+	</string>
+
+	<string id="pri_b305_actor_understand">
+		<text>그래.</text>
+	</string>
+
+	<string id="pri_b305_kirilov_about_garik">
+		<text>그리고 게리는 야노우 역에 보급하러 갔습니다. 며칠 뒤에나 복귀한다고 전해 달라고 했습니다.</text>
+	</string>
+
+	<string id="pri_b305_kirilov_where_you_been">
+		<text>그래서 그동안 어디 있었나?</text>
+	</string>
+
+	<string id="pri_b305_medik_in_freezer">
+		<text>말씀드려도 못 믿으실 것 같습니다만... 냉장고 안에요...</text>
+	</string>
+
+	<string id="pri_b305_army_what_freezer">
+		<text>듣도 보도 못한 소리군... 냉장고라니...</text>
+	</string>
+
+	<string id="pri_b305_kirilov_what_freezer">
+		<text>웬 냉장고? 어디서 찾았는데?</text>
+	</string>
+
+	<string id="pri_b305_medik_excuse">
+		<text>어디서 찾았냐니... 중위님이라도 저 같은 상황이었다면 뭘 찾고 자시고 할 수 없었을걸요.</text>
+	</string>
+
+	<string id="pri_b305_kirilov_what_next">
+		<text>어떤 상황이었길래?</text>
+	</string>
+
+	<string id="pri_b305_medik_dont_know_what_say">
+		<text>흐음... 그게 뭐라고 설명을 해드려야 할지...</text>
+	</string>
+
+	<string id="jup_b4_duty_squad_leader_final">
+		<text>듀티에 가입한 걸 환영한다!... 따라와! 왼발, 오른발, 왼발, 오른발!</text>
+	</string>
+
+	<string id="zat_b40_merc_go_away_1">
+		<text>돌아가, 스토커. 여긴 네가 올 곳 아냐.</text>
+	</string>
+
+	<string id="zat_b40_merc_go_away_2">
+		<text>스토커, 두 다리 멀쩡할 때 걸어서 나가.</text>
+	</string>
+
+	<string id="zat_b40_merc_combat">
+		<text>됐어, 저 모자란 새끼 처리해!</text>
+	</string>
+
+	<string id="zat_b20_noah_pda">
+		<text>그러니까, 저기에 망할 돌연변이 새끼들이 있다는 거구만!... 야비한 놈들이 고원 위로 올라가서는 이 노아 님이 못 올 거로 생각하고 있겠지... ...북쪽 농장 옆에 나만의 비밀 경로가 있다는 건 꿈에도 모를 테니까... 아주 재밌게 놀아주마, 이 개자식들아!</text>
+	</string>
+
+	<string id="jup_b212_trapper_found_chimera">
+		<text>어이, 트래퍼다. 방금 어젯밤 키메라를 봤다는 샤냥꾼을 만났어. 설명을 들어 보니 우리가 노리는 놈하고 똑같더군. 가능하면 이리로 와... 중요한 일이야.</text>
+	</string>
+
+	<string id="zat_b106_gonta_to_actor">
+		<text>어이, 스토커... 이리 와 봐. 물어 볼 게 있다.</text>
+	</string>
+
+	<string id="pas_b400_zulus_wait_for_me_1">
+		<text>돌아와, 친구. 이번 임무에 정찰은 필요 없다고.</text>
+	</string>
+
+	<string id="pas_b400_sokolov_wait_for_me_1">
+		<text>이봐, 돌아와. 위험해.</text>
+	</string>
+
+	<string id="pas_b400_wanderer_wait_for_me_1">
+		<text>서두르지 마. 이 근처에 뭉쳐 있는 게 최선이야.</text>
+	</string>
+
+	<string id="pas_b400_vano_wait_for_me_1">
+		<text>어이, 지금 어디 가? 우리 할 일 있잖아!</text>
+	</string>
+
+	<string id="pas_b400_zulus_come_back_1">
+		<text>한눈팔지 마, 친구. 가던 길 마저 가야지.</text>
+	</string>
+
+	<string id="pas_b400_sokolov_come_back_1">
+		<text>소령님, 저희 이동하는 겁니까?</text>
+	</string>
+
+	<string id="pas_b400_wanderer_come_back_1">
+		<text>지금 미적거릴 때가 아냐. 가자고.</text>
+	</string>
+
+	<string id="pas_b400_vano_come_back_1">
+		<text>이봐, 시간 낭비하지 마. 꾸물대다간 우리 목숨이 날아간다고.</text>
+	</string>
+
+	<string id="pas_b400_zulus_no_meet_1">
+		<text>농담 따먹을 시간 없어, 친구.</text>
+	</string>
+
+	<string id="pas_b400_zulus_no_meet_2">
+		<text>끝나고 얘기하지.</text>
+	</string>
+
+	<string id="pas_b400_zulus_no_meet_3">
+		<text>잡담 그만하고 집중해!</text>
+	</string>
+
+	<string id="pas_b400_sokolov_no_meet_1">
+		<text>쉿... 조용히 하세요...</text>
+	</string>
+
+	<string id="pas_b400_sokolov_no_meet_2">
+		<text>여기서 빠져나가면 그때 말씀하시죠.</text>
+	</string>
+
+	<string id="pas_b400_sokolov_no_meet_3">
+		<text>얘기나 할 때가 아닙니다...</text>
+	</string>
+
+	<string id="pas_b400_wanderer_no_meet_1">
+		<text>조용히 좀 해 줄래?</text>
+	</string>
+
+	<string id="pas_b400_wanderer_no_meet_2">
+		<text>조용히 해, 친구.</text>
+	</string>
+
+	<string id="pas_b400_wanderer_no_meet_3">
+		<text>지... 지금은 대화하기 싫어.</text>
+	</string>
+
+	<string id="pas_b400_vano_no_meet_1">
+		<text>얘기는 나중에 해, 친구.</text>
+	</string>
+
+	<string id="pas_b400_vano_no_meet_2">
+		<text>이것 봐, 지금은 얘기할 때가 아냐.</text>
+	</string>
+
+	<string id="pas_b400_vano_no_meet_3">
+		<text>툭 까놓고 말할게. 대화에도 때와 장소라는 게 있어.</text>
+	</string>
+
+	<string id="pas_b400_zulus_on_actor_hit_1">
+		<text>대체 무슨 짓이야?</text>
+	</string>
+
+	<string id="pas_b400_zulus_on_actor_hit_2">
+		<text>이봐, 멈춰!</text>
+	</string>
+
+	<string id="pas_b400_zulus_on_actor_hit_3">
+		<text>이 자식, 그냥 안 넘어갈 줄 알아!</text>
+	</string>
+
+	<string id="pas_b400_sokolov_on_actor_hit_1">
+		<text>뭐 하는 겁니까, 씨발!</text>
+	</string>
+
+	<string id="pas_b400_sokolov_on_actor_hit_2">
+		<text>그만, 이러다 죽겠습니다!</text>
+	</string>
+
+	<string id="pas_b400_sokolov_on_actor_hit_3">
+		<text>이런 미친 사이코 같으니!</text>
+	</string>
+
+	<string id="pas_b400_wanderer_on_actor_hit_1">
+		<text>뭐냐... 갑자기.</text>
+	</string>
+
+	<string id="pas_b400_wanderer_on_actor_hit_2">
+		<text>당장 그만둬.</text>
+	</string>
+
+	<string id="pas_b400_wanderer_on_actor_hit_3">
+		<text>경고하는데...</text>
+	</string>
+
+	<string id="pas_b400_vano_on_actor_hit_1">
+		<text>뭐야, 대체 왜 이래?!</text>
+	</string>
+
+	<string id="pas_b400_vano_on_actor_hit_2">
+		<text>난 적이 아니라고!</text>
+	</string>
+
+	<string id="pas_b400_vano_on_actor_hit_3">
+		<text>죽여 버릴 거야!</text>
+	</string>
+
+	<string id="pas_b400_zulus_on_actor_assault_1">
+		<text>내 친구한테 무슨 짓을...</text>
+	</string>
+
+	<string id="pas_b400_sokolov_on_actor_assault_1">
+		<text>제정신입니까?!</text>
+	</string>
+
+	<string id="pas_b400_wanderer_on_actor_assault_1">
+		<text>이 배신자!</text>
+	</string>
+
+	<string id="pas_b400_vano_on_actor_assault_1">
+		<text>대체 무슨... 이 미친 새끼!</text>
+	</string>
+
+	<string id="pas_b400_sokolov_about_elevator_1">
+		<text>아주 좋네요!</text>
+	</string>
+
+	<string id="pas_b400_zulus_about_outfits_1">
+		<text>음, 방호복이 쓸모가 있어서 다행이군.</text>
+	</string>
+
+	<string id="pas_b400_vano_about_anomaly_first_1">
+		<text>워! 이상 현상이다!</text>
+	</string>
+
+	<string id="pas_b400_vano_about_anomaly_first_2">
+		<text>통과할 구멍이 있나 볼까.</text>
+	</string>
+
+	<string id="pas_b400_vano_about_anomaly_first_3">
+		<text>이리 와, 지나갈 방법을 찾았어.</text>
+	</string>
+
+	<string id="pas_b400_zulus_about_obstacle_1">
+		<text>흠, 우회로를 이용해야겠는걸.</text>
+	</string>
+
+	<string id="pas_b400_zulus_about_obstacle_2">
+		<text>문제없어. 진정한 남자는 가끔 편법을 쓰지.</text>
+	</string>
+
+	<string id="pas_b400_sokolov_about_train_1">
+		<text>흠, 뭔가 마음에 걸리는데...</text>
+	</string>
+
+	<string id="pas_b400_zulus_about_snorks_1">
+		<text>침착해... 사격 개시!</text>
+	</string>
+
+	<string id="pas_b400_wanderer_about_snorks_1">
+		<text>이 자식들은 내가 처리할게.</text>
+	</string>
+
+	<string id="pas_b400_vano_about_snorks_1">
+		<text>좋았어, 다 해치웠다!</text>
+	</string>
+
+	<string id="pas_b400_sokolov_about_train_gates_1">
+		<text>흠... 여기도 어딘가 이상한데요...</text>
+	</string>
+
+	<string id="pas_b400_zulus_about_train_gates_1">
+		<text>자, 그럼... 시작할까?</text>
+	</string>
+
+	<string id="pas_b400_zulus_about_train_gates_2">
+		<text>일류한테 덤비면 다 죽는 거다!</text>
+	</string>
+
+	<string id="pas_b400_vano_about_dome_1">
+		<text>우와, 세상에... 아름답다!</text>
+	</string>
+
+	<string id="pas_b400_sokolov_about_dome_1">
+		<text>젠장, 여기 오는 게 아니었는데.</text>
+	</string>
+
+	<string id="pas_b400_zulus_about_monolith_1">
+		<text>등을 맞대고 서, 빨리!</text>
+	</string>
+
+	<string id="pas_b400_zulus_about_monolith_2">
+		<text>젠장...</text>
+	</string>
+
+	<string id="pas_b400_wanderer_about_monolith_1">
+		<text>여긴 너무 뻥 뚫려 있어... 이동하지.</text>
+	</string>
+
+	<string id="pas_b400_vano_about_anomaly_second_1">
+		<text>또 이상 현상인가. 어디 보자...</text>
+	</string>
+
+	<string id="pas_b400_vano_about_anomaly_second_2">
+		<text>흠, 이쪽으로 갔다간 목숨이 달아날 거야.</text>
+	</string>
+
+	<string id="pas_b400_vano_about_anomaly_second_3">
+		<text>좋아, 여기로 지나가면 되겠다... 좀 덜 위험한 곳이 나오면 좋으련만.</text>
+	</string>
+
+	<string id="pas_b400_zulus_about_control_gates_1">
+		<text>게이트가 차단됐어. 버튼은 안 보이는군. 누가 제어실로 가서 손쓸 방법 없나 보고 오겠나?</text>
+	</string>
+
+	<string id="pas_b400_sokolov_about_control_gates_1">
+		<text>게이트는 차단된 상태고 버튼도 없습니다. 누가 제어실로 가야 해결될 것 같아요.</text>
+	</string>
+
+	<string id="pas_b400_vano_about_control_gates_1">
+		<text>게이트가 닫혔네? 흠, 어쩐다... 제어실에선 열 수 있으려나?</text>
+	</string>
+
+	<string id="pas_b400_wanderer_about_control_gates_1">
+		<text>게이트가 차단됐다. 내가 너라면 제어실을 살펴보겠어.</text>
+	</string>
+
+	<string id="pas_b400_sokolov_about_sniper_first_1">
+		<text>조심하세요! 심상치 않습니다...</text>
+	</string>
+
+	<string id="pas_b400_zulus_about_sniper_first_1">
+		<text>저격수다!</text>
+	</string>
+
+	<string id="pas_b400_vano_about_sniper_first_1">
+		<text>오른쪽에 총구 섬광이야! 아, 아니 왼쪽!</text>
+	</string>
+
+	<string id="pas_b400_wanderer_about_sniper_first_1">
+		<text>내가 처리하지.</text>
+	</string>
+
+	<string id="pas_b400_wanderer_about_sniper_first_2">
+		<text>놈들은 끝났어.</text>
+	</string>
+
+	<string id="pas_b400_vano_about_anomaly_third_1">
+		<text>좋아, 이동하자.</text>
+	</string>
+
+	<string id="pas_b400_sokolov_about_tushkano_1">
+		<text>이상한 기분이 듭니다... 느낌이 안 좋아요.</text>
+	</string>
+
+	<string id="pri_a15_army_hide_weapon">
+		<text>무기 내려놔, 당장!</text>
+	</string>
+
+	<string id="pri_a15_sokolov_introduce">
+		<text>쏘지 마세요! 전 스팅레이 4의 부조종사 소콜로프 중위입니다. 긴급 피난 장소인 B28 지점으로 가고 있습니다.</text>
+	</string>
+
+	<string id="pri_a15_actor_need_talk_with_commander">
+		<text>코발스키에게 전달할 정보가 있다. 안내해라.</text>
+	</string>
+
+	<string id="pri_a15_sokolov_wonder">
+		<text>코발스키를 안다고요?</text>
+	</string>
+
+	<string id="pri_a15_army_who_a_you">
+		<text>넌 누구냐? 지휘관님한테 무슨 볼일이지?!</text>
+	</string>
+
+	<string id="pri_a15_actor_introduce">
+		<text>우크라이나 보안국 덱탸레프 소령이다. 페어웨이 작전이 실패한 원인을 조사하러 왔다.</text>
+	</string>
+
+	<string id="pri_a15_actor_introduce_squad">
+		<text>스토커들 도움을 받아 프리피야티로 왔다.</text>
+	</string>
+
+	<string id="pri_a15_zulus_wonder">
+		<text>우크라이나 보안국?! 그게 대체...?</text>
+	</string>
+
+	<string id="pri_a15_sokolov_conjecture">
+		<text>어쩐지!</text>
+	</string>
+
+	<string id="pri_a15_army_joke">
+		<text>이거 아주 유쾌한 친구들이구먼.</text>
+	</string>
+
+	<string id="pri_a15_vano_speech_one">
+		<text>우리가 여기 놀러 온 줄 알아? 왜 그리 못 싸워서 안달이야? 여긴 다들 동지라고, 동지. 나하고 여기 요원... ...은 이미 갖은 고생을 하면서 여기까지 왔어. 믿어 줘!</text>
+	</string>
+
+	<string id="pri_a15_army_go_with_me">
+		<text>좋다, 따라와.</text>
+	</string>
+
+	<string id="pri_a15_zulus_not_me">
+		<text>난 안 가겠어.</text>
+	</string>
+
+	<string id="pri_a15_zulus_no_business_with_army">
+		<text>군대하고는 볼일 없어...</text>
+	</string>
+
+	<string id="pri_a15_zulus_go">
+		<text>...우크라이나 보안국도 마찬가지고.</text>
+	</string>
+
+	<string id="pri_a15_army_stop">
+		<text>멈춰!</text>
+	</string>
+
+	<string id="pri_a15_actor_leave_him">
+		<text>놔 줘, 대위.</text>
+	</string>
+
+	<string id="pri_a15_army_leave">
+		<text>좋아, 저까짓 놈.</text>
+	</string>
+
+	<string id="pri_a15_army_go">
+		<text>따라와.</text>
+	</string>
+
+	<string id="pri_a15_wanderer_about_actor">
+		<text>누가 누구 밑에서 일하는지는 내 알 바 아니야.</text>
+	</string>
+
+	<string id="jup_b219_tech_damn">
+		<text>악! 진짜...</text>
+	</string>
+
+	<string id="jup_b219_tech_success">
+		<text>이렇게 하면... 훨씬 더 낫네...</text>
+	</string>
+
+	<string id="jup_b219_tech_ready">
+		<text>준비됐나?</text>
+	</string>
+
+	<string id="jup_b219_duty_ready">
+		<text>준비 완료. 분대, 상황은?</text>
+	</string>
+
+	<string id="jup_b219_stalker_ready">
+		<text>준비야 언제든 돼 있지!</text>
+	</string>
+
+	<string id="jup_b219_monolith_ready">
+		<text>... 나도... 준비됐어.</text>
+	</string>
+
+	<string id="jup_b219_soldier_ready">
+		<text>이거 느낌이 안 좋은데...</text>
+	</string>
+
+	<string id="jup_b219_actor_ready">
+		<text>전원 준비 완료! 시작하자.</text>
+	</string>
+
+	<string id="jup_b219_tech_opening">
+		<text>알았어... 놀아볼까.</text>
+	</string>
+
+	<string id="jup_b219_duty_to_tech">
+		<text>알겠다.</text>
+	</string>
+
+	<string id="jup_b219_tech_to_duty">
+		<text>행운을 빌어...</text>
+	</string>
+
+	<string id="jup_b219_actor_go">
+		<text>좋아. 출발한다.</text>
+	</string>
+
+	<string id="jup_b202_snag_pda">
+		<text>이제 이 쓰레기들한테서 빨리 벗어나야 해. 내가 지하철역 근처 하수구에 숨겨 둔 물건들은 한동안은 충분할 거야… 이제 이 짓도 그만둬야 해, 분명 날 찾고 있을 거야… 괜찮아, 우린 누가 누굴 이기는지 봐야지…</text>
+	</string>
+
+	<string id="zat_b106_gonta_see_chimera">
+		<text>자고 있다 이거지... 크랩이 안부 전하라더군... 발사!</text>
+	</string>
+
+	<string id="pri_b305_kovalskiy_news">
+		<text>본부 사령관에게 말씀을 전했다. 현재 상황과 지금까지 수집한 모든 정보를 보고했다... 헬리콥터 지원은 당분간 없다고 한다. 위치를 고수하며 명령을 기다리라는 얘기를 들었다... 우크라이나 보안국 참관인이 본부에 있다. 조만간 상급자와 연결될 것이다.</text>
+	</string>
+
+	<string id="pri_b305_kirilov_strange_signal">
+		<text>대령님, 무전을 감지했습니다! 발신지가 기지에서 멀지 않은 곳입니다! 암호화되어 있어서 아직은 신호를 해독하지 못했습니다.</text>
+	</string>
+
+	<string id="pri_b305_kovalskiy_ask_coordinates">
+		<text>좌표는 땄나?</text>
+	</string>
+
+	<string id="pri_b305_kirilov_give_coordinates">
+		<text>예, 확인은 했습니다만... 신호가 간헐적이고... 계속 위치가 움직이고 있습니다.</text>
+	</string>
+
+	<string id="pri_b305_kovalskiy_think_of_attack">
+		<text>또 모노리스 놈들인가?!</text>
+	</string>
+
+	<string id="pri_b305_actor_check_signal">
+		<text>제가 확인하겠습니다.</text>
+	</string>
+
+	<string id="pri_b305_kirilov_give_new_coordinates">
+		<text>신호 감지! 좌표 전달 중...</text>
+	</string>
+
+	<string id="pri_b305_kirilov_signal_lost">
+		<text>신호 소실됐습니다.</text>
+	</string>
+
+	<string id="pri_b305_kirilov_signal_next_to_actor">
+		<text>다시 보입니다! ... 소령님 바로 옆입니다!</text>
+	</string>
+
+	<string id="pri_b305_actor_dont_see_anyone">
+		<text>아무도 안 보이는데.</text>
+	</string>
+
+	<string id="pri_b305_kirilov_source_is_near">
+		<text>신호가 가깝습니다! 아군 기지로 접근 중!</text>
+	</string>
+
+	<string id="pri_b305_actor_it_is_underground">
+		<text>지하인가...</text>
+	</string>
+
+	<string id="pri_b305_kovalskiy_attack_case_prepare">
+		<text>소령, 코발스키다. 즉시 복귀하라. 공격이 예상되어 대비해야 한다. 그 개새끼들, 이번에는 얌전히 당해주지 않을 거다!</text>
+	</string>
+
+	<string id="pri_b305_strelok_give_up">
+		<text>쏘지 마! 정문으로 가겠다.</text>
+	</string>
+
+	<string id="pri_b305_kovalskiy_who_are_you">
+		<text>자넨 누구지?!</text>
+	</string>
+
+	<string id="pri_b305_strelok_introduse">
+		<text>스트렐록.</text>
+	</string>
+
+	<string id="pri_b305_actor_ask_about_burning_antenn">
+		<text>스코처를 처리한 그 스토커?</text>
+	</string>
+
+	<string id="pri_b305_strelok_about_zone_destroying">
+		<text>그렇다... 하지만 계획이 제대로 통하지 않았어. 당신들 사령관을 만나러 왔다. 군대가 존을 장악하고 파괴하는 데 필요한 정보가 있다.</text>
+	</string>
+
+	<string id="pri_b305_actor_emission_starts">
+		<text>에미션이 곧 시작될 텐데!</text>
+	</string>
+
+	<string id="pri_b305_kovalskiy_talk_in_safe_place">
+		<text>자, 안에서 얘기 좀 하지.</text>
+	</string>
+
+	<string id="pri_b305_actor_we_have_problems">
+		<text>문제가 생겼습니다... 아군 헬기들이 추락하고 있습니다. 원인은 아직 파악하지 못했습니다.</text>
+	</string>
+
+	<string id="pri_b305_kovalskiy_about_deal">
+		<text>해결책이 나오기 전까진 헬기 지원은 없어... 존 경계로 가려면 걸어서 가는 수밖에 없을 거다...</text>
+	</string>
+
+	<string id="pri_b305_strelok_about_heli">
+		<text>이유는 명백해. 이상 현상이 너무 많은 거지. 존 중심부는 특히 더 그럴 테고.</text>
+	</string>
+
+	<string id="pri_b305_kovalskiy_about_anomaly_map">
+		<text>이상 현상을 피할 수 있는 항공 루트 지도가 있어! 헬기에는 에미션 방호 시스템이 탑재되어 있다.</text>
+	</string>
+
+	<string id="pri_b305_strelok_about_anomaly_randomize">
+		<text>이상한데... 에미션 이후에 이상 현상 위치가 바뀐단 사실을 몰랐단 거잖아... 아예 사라지는 현상도 있고, 다른 곳에 새롭게 나타나는 현상도 있어... 그래서 이상 현상 지도 같은 건 아무짝에도 쓸모가 없거든...</text>
+	</string>
+
+	<string id="pri_b305_actor_wondered">
+		<text>그게 문제였나...</text>
+	</string>
+
+	<string id="pri_b305_kovalskiy_wondered">
+		<text>뭐라고?!</text>
+	</string>
+
+	<string id="pri_b305_strelok_how_to_get_away">
+		<text>에미션은 연달아 일어나는 법이 없어. 지역을 스캔해서 이상 현상을 전부 식별할 수만 있으면, 에미션 직후에는 헬기로 안전하게 이동할 수 있단 얘기야.</text>
+	</string>
+
+	<string id="pri_b305_actor_need_center_to_know">
+		<text>이 사실을 최대한 빨리 본부에 알려야 합니다.</text>
+	</string>
+
+	<string id="pri_b305_kovalskiy_let_center_know">
+		<text>에미션이 끝나자마자 사령관에게 연락하지.</text>
+	</string>
+
+	<string id="pri_b305_kovalskiy_order_kirilov">
+		<text>중위, 통신이 연결되는 즉시 보고를 올리도록.</text>
+	</string>
+
+	<string id="pri_b305_kirilov_order_agree">
+		<text>예, 대령님!</text>
+	</string>
+
+	<string id="pri_a16_base_megaphone_1">
+		<text>소령, 그 무기는 그냥 넣는 게 어떻까...</text>
+	</string>
+
+	<string id="pri_a16_base_megaphone_2">
+		<text>소령, 무기 집어넣어... 내 장담하지. 우리가 공격할 일은 없어.</text>
+	</string>
+
+	<string id="pri_a16_base_megaphone_3">
+		<text>이봐, 소령. 부탁이니까 무기 좀 치워. 안 그래도 다들 잔뜩 긴장하고 있다고.</text>
+	</string>
+
+	<string id="zat_a2_base_megaphone_1">
+		<text>스토커, 우리 배에선 무기 꺼내서 들고 다니면 안 돼. 네 무기도 얌전히 넣어주면 고맙겠는데.</text>
+	</string>
+
+	<string id="zat_a2_base_megaphone_2">
+		<text>스카도프스크는 안전한 곳이야. 무기 집어넣어.</text>
+	</string>
+
+	<string id="zat_a2_base_megaphone_3">
+		<text>스토커, 배에 타고 싶으면 무기는 치워야 할 거다.</text>
+	</string>
+
+	<string id="zat_a2_base_guard_1">
+		<text>이봐, 그 총 저리 치워. 여긴 우리 야영지야. 그런 거 없어도 돼.</text>
+	</string>
+
+	<string id="zat_a2_base_guard_2">
+		<text>있잖아. 여긴 아주 조용한 곳이야. 그러니까 총 집어넣고 소란 피우지 마.</text>
+	</string>
+
+	<string id="zat_a2_base_guard_3">
+		<text>무기는 돌연변이 죽일 때나 쓰는 물건일 텐데. 여긴 돌연변이 같은 거 없어. 그러니까 그 흉물 저리 치워.</text>
+	</string>
+
+	<string id="jup_a6_base_megaphone_1">
+		<text>자, 진정하고... 우선 그 총부터 치울까...</text>
+	</string>
+
+	<string id="jup_a6_base_megaphone_2">
+		<text>총 그렇게 들고 있으면 우리도 안으로 못 들이겠는데.</text>
+	</string>
+
+	<string id="jup_a6_base_megaphone_3">
+		<text>스토커, 들어오고 싶으면 무기 집어넣어.</text>
+	</string>
+
+	<string id="jup_a6_base_guard_1">
+		<text>그 총 저리 치워. 여긴 중립 지대야.</text>
+	</string>
+
+	<string id="jup_a6_base_guard_2">
+		<text>너 오기 전에도 총기 사고가 있었어, 스토커. 문제 일으킬 거 아니면 그 총 치워.</text>
+	</string>
+
+	<string id="jup_a6_base_guard_3">
+		<text>총 계속 들고 있을 거면 안에는 못 들어가. 알아들었어?</text>
+	</string>
+
+	<string id="jup_b41_bunker_megaphone_1">
+		<text>스토커, 분명히 경고하겠다. 무기를 휴대하고 방공호에 출입하는 건 엄격히 금지된 행위다.</text>
+	</string>
+
+	<string id="jup_b41_bunker_megaphone_2">
+		<text>스토커, 연구 시설 입구에선 무기 집어넣어야 해.</text>
+	</string>
+
+	<string id="jup_b41_bunker_megaphone_3">
+		<text>내 말 들었나? 무기 집어넣으라고.</text>
+	</string>
+
+	<string id="zat_b106_dont_receipt_reward">
+		<text>전원, 복귀할 시간이다... 당신 영 쓸모가 없군. 보상은 없는 줄 알아.</text>
+	</string>
+
+	<string id="jup_b47_merc_leader_regret">
+		<text>애초에 여기 오질 말았어야지, 스토커. 넌 이제 벌레 먹잇감이 될 거다.</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_hit_1">
+		<text>제대로 보고 쏴!</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_hit_2">
+		<text>대체 무슨 짓이야? 내가 맞았잖아!</text>
+	</string>
+
+	<string id="jup_b10_ufo_memory_repaired_nitro">
+		<text>반가워, 난 니트로야. 메모리 모듈 준비했으니까 들러서 가져가.</text>
+	</string>
+
+	<string id="jup_b10_stalker_drunk_no_meet_1">
+		<text>어... 그게...</text>
+	</string>
+
+	<string id="jup_b10_stalker_drunk_no_meet_2">
+		<text>으... 뭐야...</text>
+	</string>
+
+	<string id="jup_b10_stalker_drunk_no_meet_3">
+		<text>으음... 어...</text>
+	</string>
+
+	<string id="zat_b20_noah_jumped">
+		<text>잘했어! 필요한 게 있으면 언제든 찾아와.</text>
+	</string>
+
+	<string id="zat_b20_noah_instructions">
+		<text>잘 보고 똑같이 따라와.</text>
+	</string>
+
+	<string id="zat_b5_stalkers_refuse_talk">
+		<text>대장한테 물어봐.</text>
+	</string>
+
+	<string id="pri_a28_army_about_surge_1">
+		<text>얘기는 나중에 하지... 에미션 때문에 턱이 상했어.</text>
+	</string>
+
+	<string id="pri_a28_army_about_surge_2">
+		<text>또 에미션인가... 지긋지긋하네...</text>
+	</string>
+
+	<string id="pri_a28_army_about_surge_3">
+		<text>망할... 탱크가 굴러다니는데 참호에 갇힌 기분이야.</text>
+	</string>
+
+	<string id="pri_a28_army_surge_talk_1_first">
+		<text>이런, 여기 산성비가 이렇게 심할 줄은 몰랐어...</text>
+	</string>
+
+	<string id="pri_a28_army_surge_talk_1_second">
+		<text>됐어... 비만 안 맞을 수 있으면 뭐든 하겠어. 일요일엔 두 번씩 내리는 지경이니...</text>
+	</string>
+
+	<string id="pri_a28_army_surge_talk_2_first">
+		<text>망할, 귀 아파! 아직도 고막이 윙윙 울리네... 이러다가 귀가 멀겠어!</text>
+	</string>
+
+	<string id="pri_a28_army_surge_talk_2_second">
+		<text>뭐라고? 그냥 장난친 거야!</text>
+	</string>
+
+	<string id="pri_a28_army_surge_talk_3_first">
+		<text>아... 에미션이 올 때마다 머리가 쪼개질 것 같아...</text>
+	</string>
+
+	<string id="pri_a28_army_surge_talk_3_second">
+		<text>에미션 때문에 죽지만 않는다면야, 뭐 괜찮지 않나...</text>
+	</string>
+
+	<string id="pri_a28_colonel_after_surge">
+		<text>에미션이 끝난 모양이군. 키릴로프, 본부에 연락해!</text>
+	</string>
+
+	<string id="pri_a28_signaller_after_surge_1">
+		<text>알겠습니다!</text>
+	</string>
+
+	<string id="pri_a28_signaller_after_surge_2">
+		<text>본부에 연결됐습니다.</text>
+	</string>
+
+	<string id="pri_a28_center_to_colonel_1">
+		<text>대령, 통신이 왜 끊겼지?</text>
+	</string>
+
+	<string id="pri_a28_colonel_to_center_1">
+		<text>에미션이 발생했습니다. 에미션 중에는 통신을 유지할 수 없습니다.</text>
+	</string>
+
+	<string id="pri_a28_center_to_colonel_2">
+		<text>그런가... 알겠다. 잘 들어라. 페어웨이 작전은 우크라이나 보안국에 넘어갔다. 덱탸레프 소령은 같이 있나?</text>
+	</string>
+
+	<string id="pri_a28_colonel_to_center_2">
+		<text>예.</text>
+	</string>
+
+	<string id="pri_a28_center_to_colonel_3">
+		<text>좋아. 지금부터 작전은 소령이 지휘한다. 곧 상급자가 연락할 테니 일단 대기하라고 전하도록.</text>
+	</string>
+
+	<string id="pri_a28_colonel_to_center_3">
+		<text>알겠습니다.</text>
+	</string>
+
+	<string id="pri_a28_ssu_to_actor_1">
+		<text>소령, 들리나?</text>
+	</string>
+
+	<string id="pri_a28_actor_to_ssu_1">
+		<text>덱탸레프 소령입니다. 수신 양호합니다.</text>
+	</string>
+
+	<string id="pri_a28_ssu_to_actor_2">
+		<text>좋아. 지금 이 순간부터 페어웨이 작전은 자네가 책임지고 완수해야 한다. 코발스키와 스팅레이 분대가 지원할 거다. 이제 보고하라.</text>
+	</string>
+
+	<string id="pri_a28_actor_to_ssu_2">
+		<text>존에서 벌어진 실험 관련 문서를 입수했습니다. 초르노빌 원자력 발전소에 들어갔던 스트렐록이란 스토커가 제게 접촉했습니다. 스트렐록은 우리와 협력하고 싶다고 제안했습니다.</text>
+	</string>
+
+	<string id="pri_a28_ssu_to_actor_3">
+		<text>... 알겠다. 제안은 받아들여라. 아군 헬기가 추락한 원인은 파악했나?</text>
+	</string>
+
+	<string id="pri_a28_actor_to_ssu_with_heli_info">
+		<text>예, 데이터를 확인했고, 스트렐록의 정보로 검증했습니다. 이상 현상 때문인데, 에미션이 발생할 때 이상 현상 위치가 변한다고 합니다. 파일럿이 갖고 있던 이상 현상 지도는 쓸모가 없었습니다.</text>
+	</string>
+
+	<string id="pri_a28_actor_to_ssu_without_heli_info">
+		<text>스트렐록의 의견으로는 헬기가 이상 현상 때문에 추락했다고 합니다. 에미션이 발생할 때마다 이상 현상 위치가 바뀌는데, 페어웨이 작전 지도를 만들 때 이 사실을 놓쳤습니다.</text>
+	</string>
+
+	<string id="pri_a28_ssu_to_actor_5">
+		<text>좋아, 다음 에미션까진 시간이 조금 있겠군... B28 지점에서 모이게 될 거다. 스팅레이 분대도 자네와 함께 빠져나간다. 헬기는 이미 출발했다. 교신 종료.</text>
+	</string>
+
+	<string id="pri_a28_colonel_instructions">
+		<text>자, 다들 잘 들었겠지? 똘똘 뭉쳐서 스토커 살려서 보내면 된다. 질문 있나? 없으면 출동 준비해.</text>
+	</string>
+
+	<string id="pri_a28_army_about_evacuation_1">
+		<text>얘기는 헬기에 타고 나서 하자.</text>
+	</string>
+
+	<string id="pri_a28_army_about_evacuation_2">
+		<text>얘기는 나중에 해도 돼. 지금은 탄약이 충분한지 확인하는 게 먼저야.</text>
+	</string>
+
+	<string id="pri_a28_army_about_evacuation_3">
+		<text>여긴 꽤 괜찮은 기지였어. 목숨을 건졌으니 여기서 뭘 더 바라겠어. 그래도 이젠 하늘을 훨훨 날아서 집으로 돌아가야 해.</text>
+	</string>
+
+	<string id="pri_a28_colonel_actor_talk">
+		<text>소령, 잠깐 시간 괜찮나?</text>
+	</string>
+
+	<string id="pri_a28_colonel_cannot_wait">
+		<text>소령, 더는 못 기다려.</text>
+	</string>
+
+	<string id="pri_a28_colonel_evacuation">
+		<text>분대, 출발하라.</text>
+	</string>
+
+	<string id="pri_a28_colonel_about_heli">
+		<text>저기 봐. 그 새끼들이 해냈어. 스트렐록, 자네 말이 맞았어.</text>
+	</string>
+
+	<string id="pri_a28_army_zombied_first">
+		<text>좀비다!</text>
+	</string>
+
+	<string id="pri_a28_colonel_zombied_first">
+		<text>건물을 따라 오른쪽으로 이동한다! 서둘러!</text>
+	</string>
+
+	<string id="pri_a28_army_zombied_in_building">
+		<text>건물 안에 좀비가 열 마리는 넘게 있습니다.</text>
+	</string>
+
+	<string id="pri_a28_colonel_go_left">
+		<text>서로 엄호하면서 왼쪽으로 이동해.</text>
+	</string>
+
+	<string id="pri_a28_colonel_zombied_attack">
+		<text>이러다가 프리피야티에 있는 좀비란 좀비들은 모조리 몰려오겠군! 더 빨리 움직여! 뛰어!</text>
+	</string>
+
+	<string id="pri_a28_strelok_go_over_anomaly">
+		<text>전방에 좀비!</text>
+	</string>
+
+	<string id="pri_a28_colonel_ok_go_here">
+		<text>아치를 지나간다!</text>
+	</string>
+
+	<string id="pri_a28_evac_com_where_you">
+		<text>스팅레이, 지금 어디지?</text>
+	</string>
+
+	<string id="pri_a28_colonel_we_close">
+		<text>가는 중이다.</text>
+	</string>
+
+	<string id="pri_a28_evac_com_cant_wait">
+		<text>공격을 받으면 이륙하라는 명령을 듣고 왔다. 서둘러라.</text>
+	</string>
+
+	<string id="pri_a28_colonel_will_time">
+		<text>알겠다. 금방 가겠다.</text>
+	</string>
+
+	<string id="pri_a28_colonel_ready_to_go">
+		<text>정신 똑바로 차리고 명령대로 해! 조금만 더 가면 대피 지점이다. 어서 가자.</text>
+	</string>
+
+	<string id="pri_a28_colonel_clear_the_deck">
+		<text>전 병력 준비...</text>
+	</string>
+
+	<string id="pri_a28_colonel_fire_will">
+		<text>자유 사격 개시!</text>
+	</string>
+
+	<string id="pri_a28_army_what_is_that">
+		<text>뭐였지?!</text>
+	</string>
+
+	<string id="pri_a28_strelok_dont_stop">
+		<text>멈추지 마! 계속 가!</text>
+	</string>
+
+	<string id="pri_a28_army_its_here">
+		<text>여기다!</text>
+	</string>
+
+	<string id="pri_a28_strelok_run">
+		<text>뛰어!</text>
+	</string>
+
+	<string id="pri_a28_army_confusion">
+		<text>허... 그래... 뛰어!</text>
+	</string>
+
+	<string id="pri_a28_evac_com_to_helicopter">
+		<text>여기로 와! 빨리!</text>
+	</string>
+
+	<string id="pri_a28_colonel_close_by">
+		<text>자, 마지막으로 밀어붙여!</text>
+	</string>
+
+	<string id="pri_a28_actor_to_strelok">
+		<text>헬기 안으로 들어가. 이럴 가치가 있었길 바라지.</text>
+	</string>
+
+	<string id="pri_a28_evac_com_ready">
+		<text>덱탸레프 소령, 출발 준비 완료했습니다.</text>
+	</string>
+
+	<string id="pri_a28_continuation">
+		<text>여기 계속 있으려고? 필요한 게 있으면 기지에 들러. 난 돌아왔어. 이번엔 스토커도 같이 왔고.</text>
+	</string>
+
+	<string id="pri_a28_colonel_strelok_out">
+		<text>빌어먹을! 스트렐록이 쓰러졌다... 그래도 우린 여길 떠야 해! 어서!</text>
+	</string>
+
+	<string id="pri_a28_evac_com_helicopter_run_time">
+		<text>더는 못 기다린다! 60초 후 탈출하겠다!</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_2_come_on">
+		<text>긴장 풀고 계속 가.</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_2_come_on_continue">
+		<text>그 복장이라면 버텨줄 거야. 계속 가.</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_help">
+		<text>스토커, 도와줘!</text>
+	</string>
+
+	<string id="jup_a12_stalker_diplomat_no_talk">
+		<text>널 어떻게 믿으라고...</text>
+	</string>
+
+	<string id="pri_a20_sokolov_with_garick_new_way_to_pripyat_1">
+		<text>세상에, 진짜로 프리피야티까지 무사히 왔군. 대체 어떻게 이 경로를 찾은 건지 감도 안 잡혀...</text>
+	</string>
+
+	<string id="pri_a20_sokolov_with_garick_new_way_to_pripyat_2">
+		<text>어렵진 않았어요. 기본적인 실력에 운만 조금 있으면 되는데, 마침 우린 둘 다 있었나 보죠. 아니면 지금까지 버틴 보상을 존이 준 걸 수도 있고요. 과학자들하고 일하면서 보통 힘든 게 아니었던지라.</text>
+	</string>
+
+	<string id="pri_a20_sokolov_with_garick_new_way_to_pripyat_3">
+		<text>하긴... 나도 헤르만은 질릴 만큼 겪어봤어...</text>
+	</string>
+
+	<string id="pri_a21_sentr_crazy_1">
+		<text>날 내버려둬! 저리 가!</text>
+	</string>
+
+	<string id="pri_a21_sentr_crazy_2">
+		<text>안 돼! 안 돼!</text>
+	</string>
+
+	<string id="pri_a18_vano_hello">
+		<text>도움이 필요하단 소식을 듣자마자 가입했어. 어떻게 되든 끝까지 같이 가자!</text>
+	</string>
+
+	<string id="pri_a18_vano_fight">
+		<text>놈들이 기운 차리기 전에 쓸어버려!</text>
+	</string>
+
+	<string id="pri_a18_kovalskiy_guard">
+		<text>이거 너무 수상한데... 누군가가 이 광신도들을 조종하고 있어... 흠, 나중에 마저 얘기하지.</text>
+	</string>
+
+	<string id="pri_a18_kovalskiy_squad">
+		<text>이거 너무 수상한데... 누군가가 이 광신도들을 조종하고 있어... 흠, 나중에 마저 얘기하지. 보초가 아직 실종 상태다. 찾게 되면 즉시 보고하도록. 교신 종료.</text>
+	</string>
+
+	<string id="pri_a18_sokolov_hello">
+		<text>저기, 소령님하고 같이 있는 게 더 안전할 것 같아서...</text>
+	</string>
+
+	<string id="pri_a18_shelly_hello">
+		<text>스켈랴 중위입니다. 잘 부탁드립니다.</text>
+	</string>
+
+	<string id="pri_a18_sokolov_on_place">
+		<text>여깁니다...</text>
+	</string>
+
+	<string id="pri_a18_sokolov_fight">
+		<text>빌어먹을... 놈들이 바글거리네요.</text>
+	</string>
+
+	<string id="pri_a18_actor_report">
+		<text>대령님, 이상한 일이 벌어지고 있습니다. 건물 안에 모노리스 병사들이 무더기로 있습니다. 다들 무아지경에 빠져서... 쓰레기 더미에 말을 걸고 있더군요. 자세히 살펴봤는데 원시적인 안테나처럼 생겼습니다. 누군가가 이 안테나로 놈들과 소통하는 모양입니다. 이 광신도들은 그걸 신의 말씀으로 받아들이는 것 같습니다.</text>
+	</string>
+
+	<string id="pri_a18_monolith_pray_1">
+		<text>오, 모노리스여... 말씀이 들리지 않습니다...</text>
+	</string>
+
+	<string id="pri_a18_monolith_pray_2">
+		<text>왜 우리를 남겨 두신 겁니까, 모노리스여?</text>
+	</string>
+
+	<string id="pri_a18_monolith_pray_3">
+		<text>당신의 말씀을 기다리고 있습니다, 모노리스여...</text>
+	</string>
+
+	<string id="pri_a25_actor_all_doors_locked">
+		<text>건물 가까이 왔습니다. 입구가 전부 막혀 있습니다.</text>
+	</string>
+
+	<string id="pri_a25_kovalski_take_explosive">
+		<text>전파 방해의 원인을 찾던 분대가 폭발물을 가지고 있었다. 폭발물을 쓰면 입구 안으로 들어갈 수 있을 거다.</text>
+	</string>
+
+	<string id="pas_b400_sokolov_about_snorks_1">
+		<text>으앗!</text>
+	</string>
+
+	<string id="pas_b400_sokolov_about_snorks_2">
+		<text>젠장!</text>
+	</string>
+
+	<string id="pas_b400_sokolov_about_snorks_3">
+		<text>이런, 진짜 포기를 모르는 놈들이네?!</text>
+	</string>
+
+	<string id="pas_b400_zulus_on_enemy_assault_sokolov_1">
+		<text>소콜로프가 쓰러졌다!</text>
+	</string>
+
+	<string id="pas_b400_zulus_on_enemy_assault_wanderer_1">
+		<text>스트라이더가 쓰러졌다!</text>
+	</string>
+
+	<string id="pas_b400_zulus_on_enemy_assault_vano_1">
+		<text>바노가 쓰러졌다!</text>
+	</string>
+
+	<string id="pas_b400_sokolov_on_enemy_assault_zulus_1">
+		<text>줄루가 쓰러졌다!</text>
+	</string>
+
+	<string id="pas_b400_sokolov_on_enemy_assault_wanderer_1">
+		<text>스트라이더가 사망했다!</text>
+	</string>
+
+	<string id="pas_b400_sokolov_on_enemy_assault_vano_1">
+		<text>바노가 죽었다!</text>
+	</string>
+
+	<string id="pas_b400_wanderer_on_enemy_assault_zulus_1">
+		<text>줄루가 사망했다!</text>
+	</string>
+
+	<string id="pas_b400_wanderer_on_enemy_assault_sokolov_1">
+		<text>소콜로프가 죽었다!</text>
+	</string>
+
+	<string id="pas_b400_wanderer_on_enemy_assault_vano_1">
+		<text>바노를 잃었다!</text>
+	</string>
+
+	<string id="pas_b400_vano_on_enemy_assault_zulus_1">
+		<text>줄루가... 죽었다!</text>
+	</string>
+
+	<string id="pas_b400_vano_on_enemy_assault_sokolov_1">
+		<text>아군이 죽었어...</text>
+	</string>
+
+	<string id="pas_b400_vano_on_enemy_assault_wanderer_1">
+		<text>모노리스 동지가 사망했다!</text>
+	</string>
+
+	<string id="pas_b400_zulus_about_railway_1">
+		<text>좋아, 게이트 전력이 차단됐군.</text>
+	</string>
+
+	<string id="pas_b400_sokolov_about_railway_1">
+		<text>훌륭해, 게이트에 전력이 끊겼다!</text>
+	</string>
+
+	<string id="pas_b400_wanderer_about_railway_1">
+		<text>게이트에 전력 공급이 끊긴 것 같아!</text>
+	</string>
+
+	<string id="pas_b400_vano_about_railway_1">
+		<text>전력이 끊겼어, 하하.</text>
+	</string>
+
+	<string id="pas_b400_zulus_about_transformer_1">
+		<text>이거 변압기 같은데. 전선이 전부 살아있는 건가.</text>
+	</string>
+
+	<string id="pas_b400_wanderer_about_transformer_1">
+		<text>변압기야. 어릴 때 본 적이 있어...</text>
+	</string>
+
+	<string id="pas_b400_vano_about_transformer_1">
+		<text>잘 들어. 이걸 작동하는 쓰는 레버가 어딘가에 있을 거야...</text>
+	</string>
+
+	<string id="pas_b400_sokolov_about_transformer_1">
+		<text>저기... 조심해서 다루셔야 합니다.</text>
+	</string>
+
+	<string id="pas_b400_vano_about_room_closed">
+		<text>거긴 가지 마. 어차피 폐쇄됐어!</text>
+	</string>
+
+	<string id="pas_b400_vano_about_room_open">
+		<text>저기 봐! 열렸다!</text>
+	</string>
+
+	<string id="pas_b400_zulus_about_cover_1">
+		<text>계속 움직여! 내가 뒤를 봐줄게!</text>
+	</string>
+
+	<string id="pas_b400_vano_about_cover_1">
+		<text>계속 움직여, 친구. 후방에서 엄호해 줄 테니까 걱정하지 마.</text>
+	</string>
+
+	<string id="pas_b400_sokolov_about_cover_1">
+		<text>전 여기서 뒤를 지키겠습니다.</text>
+	</string>
+
+	<string id="pas_b400_wanderer_about_cover_1">
+		<text>난 여기 남아서 다가오는 놈들 처리할게.</text>
+	</string>
+
+	<string id="pas_b400_zulus_about_door_1">
+		<text>진입로를 확보했어. 같이 갈까?</text>
+	</string>
+
+	<string id="pas_b400_vano_about_door_1">
+		<text>저기 문 열렸어. 저기로 가면 되겠지?</text>
+	</string>
+
+	<string id="pas_b400_wanderer_about_door_1">
+		<text>문이 열렸어. 들어가 볼까?</text>
+	</string>
+
+	<string id="pas_b400_sokolov_about_door_1">
+		<text>여기서 꾸물거릴 필요는 없어요.</text>
+	</string>
+
+	<string id="pas_b400_zulus_about_exit_1">
+		<text>프리피야티 아래로 내려온 것 같아.</text>
+	</string>
+
+	<string id="pas_b400_sokolov_about_exit_1">
+		<text>이거 예감이 그리 나쁘지 않은데요...</text>
+	</string>
+
+	<string id="pri_a20_actor_no_data">
+		<text>정찰 부대는 모노리스 순찰대만 확인했습니다. 대규모 부대나 병력은 확인하지 못했습니다...</text>
+	</string>
+
+	<string id="pri_a20_colonel_about_sentry">
+		<text>이해가 안 되는군. 대체 어떻게 아무런 증거도 없이 기습한 건지... 정말 이상해... 그리고 방금 막 보초의 신호를 포착했다. 좌표에 따르면 식료품점 근처 어디에 있는 모양이니까, 여력이 되면 확인하고 와라... 널 믿는다, 소령. 교신 종료.</text>
+	</string>
+
+	<string id="pri_a20_colonel_task_done">
+		<text>이해가 안 되는군. 대체 어떻게 아무런 증거도 없이 기습한 건지... 정말 이상해... 조금 더 생각해 봐야겠다. 나중에 다시 얘기하지.</text>
+	</string>
+
+	<string id="pri_a28_actor_scene_end_when_strelok_dead">
+		<text>그 스토커 빼고 전원 무사하다. 스트렐록은... 사망했어. 이륙 준비해.</text>
+	</string>
+
+	<string id="pri_a28_evac_com_scene_end_when_strelok_dead">
+		<text>알겠습니다.</text>
+	</string>
+
+	<string id="pri_a28_actor_scene_end">
+		<text>... 그 스토커와 스팅레이 분대가 사망했다... 이륙 준비해.</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_greeting_1">
+		<text>반갑군. 이 누추한 곳에는 어쩐 일이지?</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_greeting_2">
+		<text>늪지 쇄빙선에 승선한 걸 환영하네! 하!</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_greeting_angry_1">
+		<text>배는 진작 이렇게 됐는데 아직도 쥐가 가득하다니... 뭘 그리 수상하게 웃고 있나?</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_greeting_angry_2">
+		<text>여긴 무슨 일이야?</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_farewell_1">
+		<text>재밌는 소식이 생기면 또 들러... 스카도프스크는 어차피 어디에도 못 가는 신세니까...</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_farewell_2">
+		<text>혹시 아티팩트 찾으면 와 봐. 도울 방법이 있는지 알아볼 테니까.</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_farewell_angry_1">
+		<text>용건은 끝났나? 그래? 좋아. 출구는 저기야.</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_farewell_angry_2">
+		<text>그래, 슬슬 가 주면 고맙겠는데... 거머리 다루는 건 내 특기가 아니라서...</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_greeting_1">
+		<text>새로운 소식이라도 있나?</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_greeting_2">
+		<text>자네 뭐 조각상 같은 건가? 아는 게 있으면 털어놓고, 없으면 저리 가.</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_farewell_1">
+		<text>그래, 이제 가 봐.</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_farewell_2">
+		<text>문에 안 부딪히게 조심해.</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_greeting_1">
+		<text>반가워.</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_greeting_2">
+		<text>어, 스토커. 안녕하신가?</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_farewell_1">
+		<text>음, 행운을 빌게.</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_farewell_2">
+		<text>조심해서 가.</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_greeting_1">
+		<text>무슨 일이야? 어디 다쳤나? 아니면 방사선 피폭?</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_greeting_2">
+		<text>아니, 지금은 좀... 음?</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_farewell_1">
+		<text>아, 그래... 잘 가...</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_farewell_2">
+		<text>잘 가...</text>
+	</string>
+
+	<string id="jup_b6_scientist_biochemist_greeting_1">
+		<text>안녕하신가. 방공호에서 겪는 새로운 만남은 언제나 즐겁지.</text>
+	</string>
+
+	<string id="jup_b6_scientist_biochemist_greeting_2">
+		<text>어... 반갑네...</text>
+	</string>
+
+	<string id="jup_b6_scientist_biochemist_farewell_1">
+		<text>다음에 보세.</text>
+	</string>
+
+	<string id="jup_b6_scientist_biochemist_farewell_2">
+		<text>또 들르게.</text>
+	</string>
+
+	<string id="jup_b6_scientist_nuclear_physicist_greeting_1">
+		<text>어... 그래, 어서 와. 무슨 일이지?</text>
+	</string>
+
+	<string id="jup_b6_scientist_nuclear_physicist_greeting_2">
+		<text>그래, 듣고 있다네...</text>
+	</string>
+
+	<string id="jup_b6_scientist_nuclear_physicist_farewell_1">
+		<text>시간 내줘서 고마워.</text>
+	</string>
+
+	<string id="jup_b6_scientist_nuclear_physicist_farewell_2">
+		<text>용건은 끝났나? 잘 가게.</text>
+	</string>
+
+	<string id="jup_b6_scientist_medic_greeting_1">
+		<text>안녕.</text>
+	</string>
+
+	<string id="jup_b6_scientist_medic_greeting_2">
+		<text>이봐.</text>
+	</string>
+
+	<string id="jup_b6_scientist_medic_farewell_1">
+		<text>행운을 빌어.</text>
+	</string>
+
+	<string id="jup_b6_scientist_medic_farewell_2">
+		<text>잘 가.</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_greeting_1">
+		<text>그 친구로군.</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_greeting_2">
+		<text>그래, 여기까지 오느라 힘들었겠군.</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_farewell_1">
+		<text>또 보자고... 그때까지 멀쩡히 살아있다면 말이야...</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_farewell_2">
+		<text>언제 또 들러서 얘기 나누지.</text>
+	</string>
+
+	<string id="jup_b220_trapper_greeting_1">
+		<text>안녕.</text>
+	</string>
+
+	<string id="jup_b220_trapper_greeting_2">
+		<text>잘 지내고 있나?</text>
+	</string>
+
+	<string id="jup_b220_trapper_farewell_1">
+		<text>잘 가...</text>
+	</string>
+
+	<string id="jup_b220_trapper_farewell_2">
+		<text>행운이 따르길!</text>
+	</string>
+
+	<string id="jup_b217_stalker_tech_greeting_1">
+		<text>어이.</text>
+	</string>
+
+	<string id="jup_b217_stalker_tech_greeting_2">
+		<text>안녕.</text>
+	</string>
+
+	<string id="jup_b217_stalker_tech_farewell_1">
+		<text>나중에 봐...</text>
+	</string>
+
+	<string id="jup_b217_stalker_tech_farewell_2">
+		<text>또 보자고.</text>
+	</string>
+
+	<string id="jup_a6_stalker_barmen_greeting_1">
+		<text>이리 와, 친구. 필요한 거라면 여기 전부 다 있지.</text>
+	</string>
+
+	<string id="jup_a6_stalker_barmen_greeting_2">
+		<text>알로하!</text>
+	</string>
+
+	<string id="jup_a6_stalker_barmen_farewell_1">
+		<text>언제 또 들러. 그때도 재밌을 거야.</text>
+	</string>
+
+	<string id="jup_a6_stalker_barmen_farewell_2">
+		<text>잘 가!</text>
+	</string>
+
+	<string id="jup_a6_stalker_medik_greeting_1">
+		<text>얼굴이 창백해 보이는데. 주사라도 놔 줄까?</text>
+	</string>
+
+	<string id="jup_a6_stalker_medik_greeting_2">
+		<text>또 다쳤나? 괜히 시간 낭비하고 다니는 건 아니지?</text>
+	</string>
+
+	<string id="jup_a6_stalker_medik_farewell_1">
+		<text>다음에... 아니, 몸조심하고 아프지 마.</text>
+	</string>
+
+	<string id="jup_a6_stalker_medik_farewell_2">
+		<text>말썽 일으키지 마.</text>
+	</string>
+
+	<string id="jup_a6_duty_leader_greeting_1">
+		<text>안녕, 스토커.</text>
+	</string>
+
+	<string id="jup_a6_duty_leader_greeting_2">
+		<text>여긴 무슨 일이지?</text>
+	</string>
+
+	<string id="jup_a6_duty_leader_farewell_1">
+		<text>나중에 또 보자고, 스토커.</text>
+	</string>
+
+	<string id="jup_a6_duty_leader_farewell_2">
+		<text>여기까지군. 잘 가.</text>
+	</string>
+
+	<string id="jup_a6_freedom_leader_greeting_1">
+		<text>이봐, 무슨 일이지?</text>
+	</string>
+
+	<string id="jup_a6_freedom_leader_greeting_2">
+		<text>이리 와. 긴장 풀고 쉬어도 돼.</text>
+	</string>
+
+	<string id="jup_a6_freedom_leader_farewell_1">
+		<text>행운을 빌어.</text>
+	</string>
+
+	<string id="jup_a6_freedom_leader_farewell_2">
+		<text>몸조심해!</text>
+	</string>
+
+	<string id="jup_b221_duty_main_1">
+		<text>저 녹색 쓰레기들을 처단하러 최전선으로 파견된 용감한 듀티 분대를 위하여 잔을 들어라!</text>
+	</string>
+
+	<string id="jup_b221_duty_main_2">
+		<text>내가 플린트 얘기 들려줬던가? 처음에는 스토커 사냥꾼들을 함정에 빠뜨려 키메라의 공격을 받게 하더니, 다음에는 파트너를 이상 현상에서 죽게 내버려뒀다더군... 그리고 프리덤에 가입했어. 정말이지 논리적으로 딱 맞는 결말 아닌가. 모든 프리덤 녀석들이 놈의 뒤를 따르길 바라면서 건배하자고. 누가 됐든 우리가 모조리 처리해 버리는 거야.</text>
+	</string>
+
+	<string id="jup_b221_duty_main_3">
+		<text>존의 중심부에도 듀티의 대의에 헌신하려는 사람들이 있다는 사실에 건배하세. 우리의 새로운 분대를 위하여!</text>
+	</string>
+
+	<string id="jup_b221_duty_main_4">
+		<text>듀티가 이 연구 단지를 완벽하게 보호하게 되었다는 사실을 축하하며 잔을 들고 싶군. 돌연변이, 무정부주의자, 그 외 온갖 쓰레기들로부터 말이야.</text>
+	</string>
+
+	<string id="jup_b221_duty_main_5">
+		<text>병사들이여! 우리의 과학적 진보를 위해 존의 가장 위험한 곳까지 들어가는 사람들이 있다! 직접 그렇게 수치를 계측하는 용감한 지원자들의 명예를 드높이며 원껏 마시자!</text>
+	</string>
+
+	<string id="jup_b221_duty_main_6">
+		<text>듀티 대원들을 위해 건배를 제안하지. 저 더러운 양아치들의 비겁한 공격을 용감하게 막아낸 병사들을 위하여!</text>
+	</string>
+
+	<string id="jup_b221_freedom_main_1">
+		<text>듀티가 자기네 전통을 어떻게 고수하고 있는지 들어봤나? 모건 준위를 예로 들어보지. 그자는 듀티의 명성을 유지해야 한다는 강박에 빠졌다. 그런데 그 의무감을 해소한답시고 창고 물자의 절반을 몰래 팔아치웠어!</text>
+	</string>
+
+	<string id="jup_b221_freedom_main_2">
+		<text>정렬! 명심해라! 듀티의 확고한 전통은 타첸코 장군이란 놈이 직접 수립했다. 타첸코가 어떤 사람인지는 다들 알겠지. 전우들을 속이고 본부를 잘못된 길로 이끌었다. 결국 "용감하게" 공간 거품에서 죽었어. 모든 듀티 종자들이 저 위대한 장군의 모범을 따르기를!</text>
+	</string>
+
+	<string id="jup_b221_freedom_main_3">
+		<text>새로운 부대를 처음 만났을 때 이렇게 물어봤다. "제군, 듀티에 들어갈 생각은 없었나? 선택은 어차피 자네들의 몫인데." 그때 들은 대답이 아직도 기억에 남는군. "아닙니다. 거기서 받는 명령은 결국 살인 행위가 대부분입니다. 눈을 보면 텅 비어있고... 그게 좀비와 다를 게 뭐가 있겠습니까..."</text>
+	</string>
+
+	<string id="jup_b221_freedom_main_4">
+		<text>듀티 병사 하나가 방공호를 지키는 우리 대원을 찾아와서 이렇게 물어봤다. "교수님, 멧돼지와 싸울 때 어떤 아티팩트가 가장 좋습니까? 방사선을 막아주는 랜치드? 아니면 상처 회복을 도와주는 눈?" 어떤 대답이 돌아갔는지 알겠나? "그때 필요한 건 셸이다. 멧돼지를 만나면 기지로 최대한 빨리 달아날 생각부터 해야지!"</text>
+	</string>
+
+	<string id="jup_b221_freedom_main_5">
+		<text>주목, 과학자들이 이상 현상을 측정하겠다고 왜 우리를 찾아왔는지 아나? 사실 그 친구들은 듀티의 슐가 중령을 먼저 만났다. "과학의 발전을 위해 해야만 하는 일이 있습니다." 그런데 슐가가 이렇게 말했다더군. "좋다, 누구를 쏘면 되는지만 말해라."</text>
+	</string>
+
+	<string id="jup_b221_freedom_main_6">
+		<text>날이 갈수록 듀티가 존재감을 뽐내고 있다. 무기와 탄약을 창고에 가득 모아서 프리덤에 기부하다니, 듀티가 아니면 생각도 못 할 일 아닌가? 마음씨가 얼마나 착하면 물자를 갖다 바치는 거지?</text>
+	</string>
+
+	<string id="jup_b221_duty_reply_1">
+		<text>모건은 이미 죽었다. 마음 같아서는 네놈들 전부 그 뒤를 따르게 만들고 싶은데... 욕심에 눈이 멀어 존의 물건을 유출하는 짓은 그만둬야 한다는 건 배울 수 있을 테니까.</text>
+	</string>
+
+	<string id="jup_b221_duty_reply_2">
+		<text>실제로 무슨 일이 있었는지는 아무도 몰라. 누가 그 자리에서 직접 본 건 아니니까.</text>
+	</string>
+
+	<string id="jup_b221_duty_reply_3">
+		<text>그거 모노리스 광신도로 이뤄진 분대인가? 네놈들은 조만간 블러드서커 분대나 되길 바라지. 차라리 그렇게 되면 중령이 위험한 돌연변이 목록을 새롭게 채우기라도 할 텐데.</text>
+	</string>
+
+	<string id="jup_b221_duty_reply_4">
+		<text>하, 그쪽 경비대가 뭐 그렇게 능력이 있다고. 고작 1년 전에 용병들 피하느라 꼬리를 말고 검은 계곡을 정신없이 돌아다녔던 주제에. 설마 벌써 잊은 건 아니겠지?</text>
+	</string>
+
+	<string id="jup_b221_duty_reply_5">
+		<text>그래, 과학자들이 어떤 결과를 얻었을지 안 봐도 알겠어. 공기 표본은 연기 100%에, 물 표본은 보드카 100%로 나왔겠지. 소리 주파수는 죄다 멍청한 웃음으로 채워져 있었을 테고.</text>
+	</string>
+
+	<string id="jup_b221_duty_reply_6">
+		<text>괜찮아. 무기는 회수하면 되니까. 자네들은 우리 병력을 만날 때마다 무기와 아티팩트를 떨어뜨리는 멋진 습관이 생겼더군. 하긴, 뭐 어쩌겠나. 바지에 변을 지리면서 도망치는 게 쉽지는 않을 테니...</text>
+	</string>
+
+	<string id="jup_b221_freedom_reply_1">
+		<text>그래? 자네들의 그 "용감한 분대"가 에미션을 앞두고 야노우에 들어가고 싶어서 무릎 꿇고 애원하는 모습이 아직도 기억나는데...</text>
+	</string>
+
+	<string id="jup_b221_freedom_reply_2">
+		<text>우리는 아무리 살펴도 플린트 하나뿐이지만, 오히려 듀티가 위선자들이 바글거리는 안식처일 텐데. "우리가 존으로부터 세상을 지킬 것이다. 다만 아티팩트 몇 개만 더 모으고 나서..."</text>
+	</string>
+
+	<string id="jup_b221_freedom_reply_3">
+		<text>대단하군, 역시 광신도끼리는 통하는 게 있나 봐. 모노리스 제복이라도 입지 그래. 그러면 스토커가 네놈들을 인간으로 착각하진 않을 테니까.</text>
+	</string>
+
+	<string id="jup_b221_freedom_reply_4">
+		<text>돌연변이로부터? 돌연변이가 몰려올 때 방공호에 자리가 남아나긴 하겠나? 100 라드 술집도 아니고! 그냥 머리 박고 숨는다고 해결될 건 하나도 없어!</text>
+	</string>
+
+	<string id="jup_b221_freedom_reply_5">
+		<text>지원자들이 너희들만큼 술을 마셔대면 그 수치란 게 어떻게 나올지 알 만하군!</text>
+	</string>
+
+	<string id="jup_b221_freedom_reply_6">
+		<text>그래, 맞아. 경비를 최대한 모으는 게 좋을 거다. 이제 존에 있는 사람들 절반이 그쪽 창고를 알고 있으니까. 손님 맞이할 준비나 해라!</text>
+	</string>
+
+	<string id="jup_b221_duty_reaction_1">
+		<text>바로 그거지!</text>
+	</string>
+
+	<string id="jup_b221_duty_reaction_2">
+		<text>내 말이!</text>
+	</string>
+
+	<string id="jup_b221_duty_reaction_3">
+		<text>말 잘했다!</text>
+	</string>
+
+	<string id="jup_b221_duty_reaction_4">
+		<text>옳소!</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_surge_phase_1">
+		<text>스토커들, 주목! 에미션이 다가온다! 반복한다, 에미션이 다가온다! 즉시 엄폐하라!</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_surge_phase_2">
+		<text>스토커들, 주목! 곧 에미션이 발생한다! 살고 싶으면 엄폐물 찾아서 숨어!</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_after_surge">
+		<text>스토커 친구들, 드디어 에미션이 끝났어. 다들 무사히 넘겼길 바라지...</text>
+	</string>
+
+	<string id="jup_a6_stalker_medik_phase_1">
+		<text>주목! 주목! 에미션이 다가온다! 즉시 엄폐해!</text>
+	</string>
+
+	<string id="jup_a6_stalker_medik_phase_2">
+		<text>주목! 주목! 곧 에미션이 들이닥친다! 당장 엄폐해!</text>
+	</string>
+
+	<string id="jup_a6_stalker_medik_after_surge">
+		<text>에미션이 끝났어. 다들 무사하나? 혹시 다쳤다면 야노우로 와라. 구멍 난 건 메워줄 테니까.</text>
+	</string>
+
+	<string id="pri_a17_kovalsky_surge_phase_1">
+		<text>모든 대원에게 알린다. 나는 코발스키 대령이다. 에미션이 접근 중임을 확인했다. 에미션이 접근하고 있다. 즉시 엄폐하라.</text>
+	</string>
+
+	<string id="pri_a17_kovalsky_surge_phase_2">
+		<text>모든 대원에게 알린다. 나는 코발스키 대령이다. 에미션 발생 경보! 반복한다, 에미션 발생 경보! 즉시 엄폐하라.</text>
+	</string>
+
+	<string id="pri_a17_kovalsky_after_surge">
+		<text>모든 대원에게 알린다. 나는 코발스키 대령이다. 에미션 사태가 종료됐다.</text>
+	</string>
+
+	<string id="zat_a2_base_alarm">
+		<text>스토커들은 주목하라! 스카도프스크가 공격받고 있다. 상황이 진정될 때까지 모든 출입구를 봉쇄하겠다.</text>
+	</string>
+
+	<string id="zat_a2_base_relax">
+		<text>스토커들은 주목하라! 스카도프스크 출입구를 다시 개방했다.</text>
+	</string>
+
+	<string id="jup_a6_base_alarm">
+		<text>모든 스토커와 그 외 사람들에게 알린다. 야노우 역이 공격받았다. 당분간 모든 출입구는 봉쇄된다.</text>
+	</string>
+
+	<string id="jup_a6_base_relax">
+		<text>모든 스토커와 그 외 사람들에게 알린다. 야노우가 다시 안전해졌다. 방문객은 언제든 환영이다.</text>
+	</string>
+
+	<string id="jup_b41_base_alarm">
+		<text>주목하라. 여기는 헤르만이다. 연구소가 공격받고 있다. 당분간 스토커의 출입을 금지한다.</text>
+	</string>
+
+	<string id="jup_b41_base_relax">
+		<text>주목하라. 여기는 헤르만이다. 스토커들은 이제 다시 이동형 연구소를 이용해도 좋다.</text>
+	</string>
+
+	<string id="pri_a16_base_alarm">
+		<text>모든 대원에게 알린다. 나는 코발스키 대령이다. 기지가 공격받고 있다. 위협 요소를 제거할 때까지 출입구는 봉쇄될 것이다.</text>
+	</string>
+
+	<string id="pri_a16_base_relax">
+		<text>모든 대원에게 알린다. 나는 코발스키 대령이다. 위협 요소를 제거했다.</text>
+	</string>
+
+	<string id="zat_b39_joker_pda_record">
+		<text>아티팩트가 나무 위에 있는 게 분명하다. 언덕을 통하면 나무로 올라갈 수 있을 것 같다. 제발 언덕에 돌연변이가 없으면 좋겠다. 카르단과 바지하고 싸우고 혼자 와서 좀 아쉽기는 하다. 그래도 아티팩트를 들고 돌아가면 전부 내가 옳았다는 걸 알게 되겠지...</text>
+	</string>
+
+	<string id="pri_a28_evac_come_close">
+		<text>덱탸레프 소령님, 정체불명의 적이 화력을 쏟아붓고 있습니다. 오래는 못 버팁니다.</text>
+	</string>
+
+	<string id="pri_a28_colonel_see_helicopter">
+		<text>미친! 모노리스 잡것들이잖아. 사격을 유지하면서 헬기로 이동해!</text>
+	</string>
+
+	<string id="pri_a28_medic_about_snork">
+		<text>또 저 개새끼들이라니! 건물 한 바퀴 잠깐 돌아보는 건 어떻습니까?</text>
+	</string>
+
+	<string id="pri_a28_colonel_about_snork">
+		<text>그럴 시간 없다. 무기 확인하고 각개 사격해!</text>
+	</string>
+
+	<string id="pri_a28_colonel_wait_actor">
+		<text>소령, 어디지? 스트렐록을 대피 지점으로 데려가야 해!</text>
+	</string>
+
+	<string id="pri_a28_colonel_wait_actor_long">
+		<text>소령, 오래는 못 기다린다!</text>
+	</string>
+
+	<string id="pri_a28_colonel_wait_actor_go">
+		<text>소령, 계속 움직여야 해!</text>
+	</string>
+
+	<string id="pri_a28_colonel_wait_actor_return">
+		<text>좋아, 계속 이동하자.</text>
+	</string>
+
+	<string id="pas_b400_vano_about_underpass">
+		<text>어... 출발할까?</text>
+	</string>
+
+	<string id="pas_b400_wanderer_about_underpass">
+		<text>이동하지.</text>
+	</string>
+
+	<string id="pas_b400_zulus_about_underpass">
+		<text>전진할까?</text>
+	</string>
+
+	<string id="pas_b400_sokolov_about_gates">
+		<text>버튼 눌러보면 될까요?</text>
+	</string>
+
+	<string id="pas_b400_vano_about_gates">
+		<text>이봐, 거기 버튼 같은 거 눌러 봐.</text>
+	</string>
+
+	<string id="pas_b400_wanderer_about_gates">
+		<text>그 버튼 눌러야 하는 것 같은데.</text>
+	</string>
+
+	<string id="pas_b400_zulus_about_gates">
+		<text>버튼 그냥 눌러.</text>
+	</string>
+
+	<string id="pas_b400_sokolov_idle_1">
+		<text>내가 어쩌다가 이렇게 됐나...</text>
+	</string>
+
+	<string id="pas_b400_sokolov_idle_2">
+		<text>여긴 지옥입니다! 대체 언제 나갈 수 있을지...</text>
+	</string>
+
+	<string id="pas_b400_sokolov_idle_3">
+		<text>그 똥덩어리들 말이 얼마나 헛소리였는지... "걱정하지 마, 조종하는 거 되게 쉬워"... 쉽기는 개뿔...</text>
+	</string>
+
+	<string id="pas_b400_vano_idle_1">
+		<text>이봐, 여기 그렇게까지 나쁘진 않아 보이는데...</text>
+	</string>
+
+	<string id="pas_b400_vano_idle_2">
+		<text>충직한 친구들이 같이 있으면 이런 곳이라도 있을 만해져.</text>
+	</string>
+
+	<string id="pas_b400_vano_idle_3">
+		<text>너 따라오길 진짜 잘했지... 아니면 살면서 이런 곳을 볼 일이나 있었을까?</text>
+	</string>
+
+	<string id="pas_b400_wanderer_idle_1">
+		<text>조용해... 너무 조용해...</text>
+	</string>
+
+	<string id="pas_b400_wanderer_idle_2">
+		<text>여기 와 봤던 기분이 드는데... 잘은 모르겠지만...</text>
+	</string>
+
+	<string id="pas_b400_wanderer_idle_3">
+		<text>이상해... 여기의 모든 게 다 이상해.</text>
+	</string>
+
+	<string id="pas_b400_zulus_idle_1">
+		<text>이게 뭐야...</text>
+	</string>
+
+	<string id="pas_b400_zulus_idle_2">
+		<text>진짜 엉망이잖아! 기지에서 이랬다간 쫓겨나도 할 말이 없을 텐데...</text>
+	</string>
+
+	<string id="pas_b400_zulus_idle_3">
+		<text>그래, 모래사장 해변은 아닐 줄 알았지...</text>
+	</string>
+
+	<string id="zat_b42_controller_warning_1">
+		<text>여길 떠나라.</text>
+	</string>
+
+	<string id="zat_b42_controller_warning_2">
+		<text>가라... 늦기 전에 나가라.</text>
+	</string>
+
+	<string id="pri_a16_army_1_talk_to_commander_1">
+		<text>소령님, 필요한 게 있으면 대령님께 말씀하시죠.</text>
+	</string>
+
+	<string id="pri_a16_army_1_talk_to_commander_2">
+		<text>대령님을 만나보셔야 할 겁니다, 소령님.</text>
+	</string>
+
+	<string id="pri_a16_army_2_talk_to_commander_1">
+		<text>코발스키 대령님께 문의하시면 됩니다!</text>
+	</string>
+
+	<string id="pri_a16_army_2_talk_to_commander_2">
+		<text>코발스키 대령님과 말씀 나누십시오, 소령님.</text>
+	</string>
+
+	<string id="pri_a16_army_3_talk_to_commander_1">
+		<text>코발스키 대령님이 얘기 들어주실 겁니다.</text>
+	</string>
+
+	<string id="pri_a16_army_3_talk_to_commander_2">
+		<text>필요한 게 있으면 코발스키 대령님을 만나보십시오.</text>
+	</string>
+
+	<string id="zat_b103_merc_talk_to_commander_1">
+		<text>수다 떨 기분 아냐... 지휘관한테 얘기해.</text>
+	</string>
+
+	<string id="zat_b103_merc_talk_to_commander_2">
+		<text>문제가 있으면 지휘관 찾아가 봐.</text>
+	</string>
+
+	<string id="jup_b4_monolith_talk_to_commander_1">
+		<text>스트라이더 님을 만나보는 게 좋을 거다.</text>
+	</string>
+
+	<string id="jup_b4_monolith_talk_to_commander_2">
+		<text>얘기가 고프면 스트라이더 님이라도 찾아가 봐.</text>
+	</string>
+
+	<string id="zat_a23_about_x8">
+		<text>문서에 따르면 X8이라는 중앙 연구소가 있다고 한다. 이 연구소에, 존에서 진행한 비밀 실험에 관한 정보가 있을 수도 있다. 이쪽 분석가들이 예전부터 이 문제에 관심을 보여 왔다...</text>
+	</string>
+
+	<string id="stalker_states_meet_meet_hide_weapon_1">
+		<text>이봐, 무기 치워.</text>
+	</string>
+
+	<string id="stalker_states_meet_meet_hide_weapon_2">
+		<text>장난은 그만해. 무기 집어넣어.</text>
+	</string>
+
+	<string id="stalker_states_meet_meet_hide_weapon_3">
+		<text>이봐, 거기 무기 좀 치우지 그래.</text>
+	</string>
+
+	<string id="stalker_states_meet_meet_hello_1">
+		<text>잘 지냈나.</text>
+	</string>
+
+	<string id="stalker_states_meet_meet_hello_2">
+		<text>어서 와.</text>
+	</string>
+
+	<string id="stalker_states_meet_meet_hello_3">
+		<text>듣고 있어.</text>
+	</string>
+
+	<string id="stalker_states_meet_meet_use_no_fight_1">
+		<text>지금 수다나 떨 때가 아냐.</text>
+	</string>
+
+	<string id="stalker_states_meet_meet_use_no_fight_2">
+		<text>미쳤어? 얘기는 나중에 해.</text>
+	</string>
+
+	<string id="stalker_states_meet_meet_use_no_fight_3">
+		<text>상황이 이 꼴인데 꼭 잡담을 해야겠나?</text>
+	</string>
+
+	<string id="stalker_states_meet_meet_use_no_weapon_1">
+		<text>그 총부터 치워. 얘기는 그다음이야.</text>
+	</string>
+
+	<string id="stalker_states_meet_meet_use_no_weapon_2">
+		<text>내 앞에서 그렇게 총을 흔들거리면서 무슨 말을 하라는 거지?</text>
+	</string>
+
+	<string id="stalker_states_meet_meet_use_no_weapon_3">
+		<text>총구가 이쪽을 향하는데 말할 기분이 들 리가 없잖아.</text>
+	</string>
+
+	<string id="stalker_states_meet_meet_use_no_default_1">
+		<text>할 얘기 없어.</text>
+	</string>
+
+	<string id="stalker_states_meet_meet_use_no_default_2">
+		<text>얘기할 기분 아냐.</text>
+	</string>
+
+	<string id="stalker_states_meet_meet_use_no_default_3">
+		<text>수다 떨 분위기 아냐.</text>
+	</string>
+
+	<string id="stalker_states_meet_meet_use_no_talk_leader_1">
+		<text>필요한 게 있으면 저 위에 얘기해.</text>
+	</string>
+
+	<string id="stalker_states_meet_meet_use_no_talk_leader_2">
+		<text>얘기할 게 있으면 대장한테 가.</text>
+	</string>
+
+	<string id="stalker_states_meet_meet_use_no_talk_leader_3">
+		<text>대장은 저기 있어. 가서 말이나 걸어보든가.</text>
+	</string>
+
+	<string id="bandit_states_meet_meet_hide_weapon_1">
+		<text>그거 그만 좀 흔들거려.</text>
+	</string>
+
+	<string id="bandit_states_meet_meet_hide_weapon_2">
+		<text>그 흉물 내 앞에서 치워.</text>
+	</string>
+
+	<string id="bandit_states_meet_meet_hide_weapon_3">
+		<text>그러면 되게 강해진 것 같나? 그 총 집어넣어!</text>
+	</string>
+
+	<string id="bandit_states_meet_meet_hello_1">
+		<text>무슨 일이지?</text>
+	</string>
+
+	<string id="bandit_states_meet_meet_hello_2">
+		<text>듣고 있어.</text>
+	</string>
+
+	<string id="bandit_states_meet_meet_hello_3">
+		<text>아, 왔나.</text>
+	</string>
+
+	<string id="bandit_states_meet_meet_use_no_fight_1">
+		<text>이 새낀 뭘 잘못 먹고 이래?</text>
+	</string>
+
+	<string id="bandit_states_meet_meet_use_no_fight_2">
+		<text>입 다물고 총이나 더 쏴!</text>
+	</string>
+
+	<string id="bandit_states_meet_meet_use_no_fight_3">
+		<text>말할 타이밍 참 잘도 고르는군!</text>
+	</string>
+
+	<string id="bandit_states_meet_meet_use_no_weapon_1">
+		<text>그거 내 얼굴에 들이대고 있으면 내가 입을 열 것 같나?</text>
+	</string>
+
+	<string id="bandit_states_meet_meet_use_no_weapon_2">
+		<text>그 총부터 치워. 얘기는 그다음이야.</text>
+	</string>
+
+	<string id="bandit_states_meet_meet_use_no_weapon_3">
+		<text>총 집어넣어. 싫으면 저리 꺼지든지!</text>
+	</string>
+
+	<string id="bandit_states_meet_meet_use_no_default_1">
+		<text>시비 걸고 싶은 기분이면 다른 놈 찾아봐.</text>
+	</string>
+
+	<string id="bandit_states_meet_meet_use_no_default_2">
+		<text>지금 얘기할 기분 아냐.</text>
+	</string>
+
+	<string id="bandit_states_meet_meet_use_no_default_3">
+		<text>꺼져.</text>
+	</string>
+
+	<string id="bandit_states_meet_meet_use_no_talk_leader_1">
+		<text>얘기는 대장한테나 가서 해.</text>
+	</string>
+
+	<string id="bandit_states_meet_meet_use_no_talk_leader_2">
+		<text>네 헛소리 들어줄 사람은 내가 아냐. 대장한테 가 봐.</text>
+	</string>
+
+	<string id="bandit_states_meet_meet_use_no_talk_leader_3">
+		<text>필요한 게 있나? 대장은 저쪽에 있어.</text>
+	</string>
+
+	<string id="dolg_states_meet_meet_hide_weapon_1">
+		<text>무기 집어넣어, 친구.</text>
+	</string>
+
+	<string id="dolg_states_meet_meet_hide_weapon_2">
+		<text>당장 무기 집어넣어.</text>
+	</string>
+
+	<string id="dolg_states_meet_meet_hide_weapon_3">
+		<text>무기는 치우지 그래.</text>
+	</string>
+
+	<string id="dolg_states_meet_meet_hello_1">
+		<text>무슨 일이지?</text>
+	</string>
+
+	<string id="dolg_states_meet_meet_hello_2">
+		<text>만나서 반가워!</text>
+	</string>
+
+	<string id="dolg_states_meet_meet_hello_3">
+		<text>시간은 돈이야. 얼른 얘기해.</text>
+	</string>
+
+	<string id="dolg_states_meet_meet_use_no_fight_1">
+		<text>얘기는 나중에 하자.</text>
+	</string>
+
+	<string id="dolg_states_meet_meet_use_no_fight_2">
+		<text>나중에. 지금은 곤란해.</text>
+	</string>
+
+	<string id="dolg_states_meet_meet_use_no_fight_3">
+		<text>수다나 떨 때가 아냐!</text>
+	</string>
+
+	<string id="dolg_states_meet_meet_use_no_weapon_1">
+		<text>얘기 나누고 싶으면 그 무기부터 치워.</text>
+	</string>
+
+	<string id="dolg_states_meet_meet_use_no_weapon_2">
+		<text>그 총 치우든지, 아니면 저리 꺼지든지.</text>
+	</string>
+
+	<string id="dolg_states_meet_meet_use_no_weapon_3">
+		<text>무기 집어넣어. 얘기는 그다음이야.</text>
+	</string>
+
+	<string id="dolg_states_meet_meet_use_no_default_1">
+		<text>아니, 얘기할 기분 아냐.</text>
+	</string>
+
+	<string id="dolg_states_meet_meet_use_no_default_2">
+		<text>미안한데 지금 말 섞을 상황 아냐.</text>
+	</string>
+
+	<string id="dolg_states_meet_meet_use_no_default_3">
+		<text>지금 얘기할 시간 없어.</text>
+	</string>
+
+	<string id="dolg_states_meet_meet_use_no_talk_leader_1">
+		<text>용건이 있으면 지휘관한테 가서 얘기해.</text>
+	</string>
+
+	<string id="dolg_states_meet_meet_use_no_talk_leader_2">
+		<text>스토커, 질문은 지휘관한테 해.</text>
+	</string>
+
+	<string id="dolg_states_meet_meet_use_no_talk_leader_3">
+		<text>지휘관부터 보러 가지 그래.</text>
+	</string>
+
+	<string id="freedom_states_meet_meet_hide_weapon_1">
+		<text>영웅 놀이 그만하고 총 집어넣어.</text>
+	</string>
+
+	<string id="freedom_states_meet_meet_hide_weapon_2">
+		<text>적당히 하고 총 좀 집어넣어!</text>
+	</string>
+
+	<string id="freedom_states_meet_meet_hide_weapon_3">
+		<text>저리 꺼져. 총은 좀 집어넣고.</text>
+	</string>
+
+	<string id="freedom_states_meet_meet_hello_1">
+		<text>그래. 말해 봐.</text>
+	</string>
+
+	<string id="freedom_states_meet_meet_hello_2">
+		<text>듣고 있어.</text>
+	</string>
+
+	<string id="freedom_states_meet_meet_hello_3">
+		<text>무슨 일이지?</text>
+	</string>
+
+	<string id="freedom_states_meet_meet_use_no_fight_1">
+		<text>이봐, 제정신이야?</text>
+	</string>
+
+	<string id="freedom_states_meet_meet_use_no_fight_2">
+		<text>총질은 할 줄 아는 거지?</text>
+	</string>
+
+	<string id="freedom_states_meet_meet_use_no_fight_3">
+		<text>얘기나 할 때가 아냐!</text>
+	</string>
+
+	<string id="freedom_states_meet_meet_use_no_weapon_1">
+		<text>총 쏘러 왔나? 얘기하러 온 게 아니라? 그거 집어넣어.</text>
+	</string>
+
+	<string id="freedom_states_meet_meet_use_no_weapon_2">
+		<text>나한테 총구 겨누는 사람하고 할 얘기 없어.</text>
+	</string>
+
+	<string id="freedom_states_meet_meet_use_no_weapon_3">
+		<text>총부터 집어넣어. 대화는 그다음이야.</text>
+	</string>
+
+	<string id="freedom_states_meet_meet_use_no_default_1">
+		<text>꺼져!</text>
+	</string>
+
+	<string id="freedom_states_meet_meet_use_no_default_2">
+		<text>이 대화는 여기서 끝이야.</text>
+	</string>
+
+	<string id="freedom_states_meet_meet_use_no_default_3">
+		<text>시비 받아줄 생각 없어.</text>
+	</string>
+
+	<string id="freedom_states_meet_meet_use_no_talk_leader_1">
+		<text>이야기는 대장이랑 해.</text>
+	</string>
+
+	<string id="freedom_states_meet_meet_use_no_talk_leader_2">
+		<text>어차피 난 아는 것도 없으니... 대장한테 가 봐.</text>
+	</string>
+
+	<string id="freedom_states_meet_meet_use_no_talk_leader_3">
+		<text>나 건드리지 마. 대장 저기 있으니까 가 보든가.</text>
+	</string>
+
+	<string id="military_states_meet_meet_hide_weapon_1">
+		<text>무기 내려.</text>
+	</string>
+
+	<string id="military_states_meet_meet_hide_weapon_2">
+		<text>이봐, 무기 치워.</text>
+	</string>
+
+	<string id="military_states_meet_meet_hide_weapon_3">
+		<text>당장 무기 집어넣어.</text>
+	</string>
+
+	<string id="military_states_meet_meet_hello_1">
+		<text>안녕.</text>
+	</string>
+
+	<string id="military_states_meet_meet_hello_2">
+		<text>여긴 무슨 일이야?</text>
+	</string>
+
+	<string id="military_states_meet_meet_hello_3">
+		<text>뭔데? 말해 봐.</text>
+	</string>
+
+	<string id="military_states_meet_meet_use_no_fight_1">
+		<text>얘기는 싸움 끝나면 하자고!</text>
+	</string>
+
+	<string id="military_states_meet_meet_use_no_fight_2">
+		<text>잡담 그만하고 집중해!</text>
+	</string>
+
+	<string id="military_states_meet_meet_use_no_fight_3">
+		<text>얘기할 틈 없어!</text>
+	</string>
+
+	<string id="military_states_meet_meet_use_no_weapon_1">
+		<text>얘기하고 싶으면 무기나 집어넣지 그래!</text>
+	</string>
+
+	<string id="military_states_meet_meet_use_no_weapon_2">
+		<text>그걸 나한테 겨누면서 무슨 얘기를 하란 거야!</text>
+	</string>
+
+	<string id="military_states_meet_meet_use_no_weapon_3">
+		<text>대화하고 싶은 거면 무기는 집어넣어.</text>
+	</string>
+
+	<string id="military_states_meet_meet_use_no_default_1">
+		<text>얘기할 시간 없어.</text>
+	</string>
+
+	<string id="military_states_meet_meet_use_no_default_2">
+		<text>난 없는 셈 쳐.</text>
+	</string>
+
+	<string id="military_states_meet_meet_use_no_default_3">
+		<text>말 걸지 마.</text>
+	</string>
+
+	<string id="military_states_meet_meet_use_no_talk_leader_1">
+		<text>지휘관부터 보러 가지 그래.</text>
+	</string>
+
+	<string id="military_states_meet_meet_use_no_talk_leader_2">
+		<text>궁금한 게 있으면 지휘관께 여쭤봐.</text>
+	</string>
+
+	<string id="military_states_meet_meet_use_no_talk_leader_3">
+		<text>난 총이나 쏘는 놈이야. 질문은 지휘관께 해.</text>
+	</string>
+
+	<string id="st_char_mugger_name">
+		<text>강도</text>
+	</string>
+
+	<string id="st_char_preacher_name">
+		<text>설교사</text>
+	</string>
+
+	<string id="st_char_bandits_name">
+		<text>밴디트</text>
+	</string>
+
+	<string id="st_char_main_character_name">
+		<text>주요 캐릭터</text>
+	</string>
+
+	<string id="st_char_bandit_name">
+		<text>밴디트</text>
+	</string>
+
+	<string id="st_char_stalker_name">
+		<text>스토커</text>
+	</string>
+
+	<string id="st_char_1st_loiterer_name">
+		<text>로이터 1</text>
+	</string>
+
+	<string id="st_char_2nd_loiterer_name">
+		<text>로이터 2</text>
+	</string>
+
+	<string id="st_char_1st_bandit_name">
+		<text>밴디트 1</text>
+	</string>
+
+	<string id="st_char_2nd_bandit_name">
+		<text>밴디트 2</text>
+	</string>
+
+	<string id="st_char_3rd_bandit_name">
+		<text>밴디트 3</text>
+	</string>
+
+	<string id="st_char_sneaky_name">
+		<text>스니키</text>
+	</string>
+
+	<string id="st_char_bandit_sent_for_snag_name">
+		<text>스낵에게 파견된 밴디트</text>
+	</string>
+
+	<string id="st_char_freedom_guard_of_duty_s_stash_name">
+		<text>듀티의 은닉처 프리덤 경비</text>
+	</string>
+
+	<string id="st_char_duty_guard_of_duty_s_stash_name">
+		<text>듀티의 은닉처 듀티 경비</text>
+	</string>
+
+	<string id="st_char_duty_recruiter_name">
+		<text>듀티 모병관</text>
+	</string>
+
+	<string id="st_char_freedom_recruiter_name">
+		<text>프리덤 모병관</text>
+	</string>
+
+	<string id="st_char_mercenary_name">
+		<text>용병</text>
+	</string>
+
+	<string id="st_char_skadovsk_stalker_guard_name">
+		<text>스카도프스크 스토커 경비</text>
+	</string>
+
+	<string id="st_char_yanov_stalker_guard_name">
+		<text>야노우 스토커 경비</text>
+	</string>
+
+	<string id="st_char_military_commander_name">
+		<text>군 사령관</text>
+	</string>
+
+	<string id="st_char_uss_commander_name">
+		<text>우크라이나 보안국 지휘관</text>
+	</string>
+
+	<string id="st_char_monolith_members_near_the_disabled_antenna_name">
+		<text>정지한 안테나 근처 모노리스 대원</text>
+	</string>
+
+	<string id="st_char_1st_duty_member_in_the_bar_name">
+		<text>술집 듀티 1</text>
+	</string>
+
+	<string id="st_char_1st_freedom_member_in_the_bar_name">
+		<text>술집 프리덤 1</text>
+	</string>
+
+	<string id="st_char_2nd_duty_member_in_the_bar_name">
+		<text>술집 듀티 2</text>
+	</string>
+
+	<string id="st_char_2nd_freedom_member_in_the_bar_name">
+		<text>술집 프리덤 2</text>
+	</string>
+
+	<string id="st_char_joker_name">
+		<text>조커</text>
+	</string>
+
+	<string id="st_char_controller_name">
+		<text>컨트롤러</text>
+	</string>
+
+	<string id="st_char_duty_name">
+		<text>듀티</text>
+	</string>
+
+	<string id="st_char_freedom_name">
+		<text>프리덤</text>
+	</string>
+
+	<string id="st_char_military_name">
+		<text>군대</text>
+	</string>
+
+</string_table>

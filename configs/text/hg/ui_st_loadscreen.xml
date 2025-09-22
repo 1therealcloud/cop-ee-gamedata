@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ls_c_tip_90">
+		<text>A PDA-n talбlhatу egy tйrkйp, az aktuбlis kьldetйsekrхl szуlу informбciуk, a szemйlyes statisztikбk йs egy ьzenetnaplу. A PDA megnyitбsбhoz nyomd meg a $$ACTION_ACTIVE_JOBS$$ gombot.</text>
+	</string>
+
+	<string id="ls_c_tip_24">
+		<text>A kйpernyх jobb alsу sarkбban lйvх vйrcsepp szimbуlum figyelmeztet a vйrzйsre йs annak megбllнtбsбnak a szьksйgessйgйre. A szimbуlum szнne jelzi, hogy mennyire sъlyos a vйrzйs.</text>
+	</string>
+
+	<string id="ls_c_tip_46">
+		<text>A $$ACTION_WPN_ZOOM$$ gomb nyomva tartбsбval beбllнthatod, hogy milyen messzire dobj egy grбnбtot.</text>
+	</string>
+
+	<string id="ls_c_tip_71">
+		<text>Ha el szeretnйl dobni egy elemet a hбtizsбkbуl, nyomd meg a $$ACTION_UI_CONTEXT_MENU$$ gombot, йs vбlaszd ki a megfelelх mыveletet a helyi menьbхl.</text>
+	</string>
+
+	<string id="ls_c_tip_74">
+		<text>A jбtйk nehйzsйgi fokбt a jбtйkbeбllнtбsok menьben bбrmikor mуdosнthatod.</text>
+	</string>
+
+	<string id="ls_c_tip_31">
+		<text>A legtцbb tбrgy lбthatatlan marad, mikцzben az anomбlis terьleten mozogsz, amнg a detektor nem azonosнtja хket.</text>
+	</string>
+
+	<string id="ls_c_tip_18">
+		<text>Az energiaitalok бtmenetileg javнtjбk az бllуkйpessйg helyreбllнtбsбt, ami nцveli a potenciбlis mobilitбst.</text>
+	</string>
+
+	<string id="ls_c_tip_21">
+		<text>Az elrejtйs бllapotбt a kйpernyх bal felsх sarkбban talбlhatу zaj- йs ellensйgйszlelйsi jelzхkkel kцvetheted nyomon.</text>
+	</string>
+
+	<string id="ls_c_tip_25">
+		<text>A kйpernyх jobb alsу sarkбban talбlhatу sugбrzбsveszйly szimbуlum figyelmeztet arra, hogy sugбrzбsnak voltбl kitйve. Ha ez megtцrtйnik, hasznбlj sugбrzбs elleni gyуgyszereket. A szimbуlum szнne azt jelzi, hogy milyen mйrtйkы sugбrzбs йrt.</text>
+	</string>
+
+	<string id="ls_c_tip_62">
+		<text>Ha sebesьlten vagy sugбrmйrgezйssel kerьlsz egy orvvadбsz tбborba, igйnybe veheted a helyi orvos ingyenes segнtsйgйt.</text>
+	</string>
+
+	<string id="ls_c_tip_95">
+		<text>A cйlzбs kцzbeni lцvйs sokkal pontosabb, mint a csнpхbхl leadott. A cйlzбshoz nyomd meg a $$ACTION_WPN_ZOOM$$ gombot.</text>
+	</string>
+
+	<string id="ls_c_tip_86">
+		<text>A zseblбmpa be- vagy kikapcsolбsбhoz nyomd meg a $$ACTION_TORCH$$ gombot.</text>
+	</string>
+
+	<string id="ls_c_tip_17">
+		<text>Amellett, hogy csillapнtja az йhsйget, az йtel nйmileg javнtja az egйszsйgedet is.</text>
+	</string>
+
+	<string id="ls_c_tip_65">
+		<text>A sisakodban lйvх йjjellбtу eszkцz frissнthetх a kцvetkezх generбciуs verziуra. Ez jelentхsen kibхvнti a lefedettsйget.</text>
+	</string>
+
+	<string id="ls_c_tip_35">
+		<text>A tбrgyak eladбsa nem az egyetlen mуdja annak, hogy pйnzt keress: a szьksйgtelen berendezйsek kirakodбsa is nyeresйges ьzlet lehet. Ne feledd, hogy a kereskedхket бltalбban nem йrdeklik a sъlyosan sйrьlt tбrgyak.</text>
+	</string>
+
+	<string id="ls_c_tip_15">
+		<text>Az anomбlia szйleit csavarok eldobбsбval talбlhatod meg.</text>
+	</string>
+
+	<string id="ls_c_tip_23">
+		<text>Egyes gyуgyбszati termйkek nцvelik a szervezet ellenбllу kйpessйgйt a kбros hatбsokkal szemben. Az ilyen termйkek hasznбlata megmentheti az йleted az anomбlis terьletekre irбnyulу kьldetйsek sorбn.</text>
+	</string>
+
+	<string id="ls_c_tip_1">
+		<text>A vodka, az antirad gyуgyszerek olcsу alternatнvбja a legegyszerыbb mуdja a sugбrzбs testre gyakorolt hatбsбnak csцkkentйsйnek.</text>
+	</string>
+
+	<string id="ls_c_tip_78">
+		<text>A tбrgyak nem csak йrtйkes zsбkmбnyok: amellett, hogy kцnnyыek йs drбgбk, gyakran rendkнvьl hasznos hatбsuk is van.</text>
+	</string>
+
+	<string id="ls_c_tip_34">
+		<text>A legtцbb orvvadбsz elvihet a kцzeli helyekre, de csak egy tapasztalt vezetх tud biztonsбgosan йs gyorsan elvezetni a tбvoli terьletekre. Ennek ellenйre mindannyian egy karral йs egy lбbbal fizetnek a szolgбltatбsйrt.</text>
+	</string>
+
+	<string id="ls_c_tip_26">
+		<text>Az emberekkel fennбllу kapcsolataid kцzvetlenьl befolyбsoljбk az esetlegesen megvбsбrolni kнvбnt бruk йs szolgбltatбsok бrбt. Ha megromlott a kapcsolatod, ne szбmнts kedvezmйnyre. Ha jуl kijцssz vele, a kereskedх akбr valami kьlцnlegeset is ajбnlhat neked.</text>
+	</string>
+
+	<string id="ls_tip_90">
+		<text>A PDA-n talбlhatу egy tйrkйp, az aktuбlis kьldetйsekrхl szуlу informбciуk, a szemйlyes statisztikбk йs egy ьzenetnaplу. A PDA megnyitбsбhoz nyomd meg a $$ACTION_ACTIVE_JOBS$$ gombot.</text>
+	</string>
+
+	<string id="ls_c_tip_48">
+		<text>Az ugrбs elхtti gyorsнtбs lehetхvй teszi a nagy szakadйkok йs repedйsek бtugrбsбt.</text>
+	</string>
+
+	<string id="ls_c_tip_20">
+		<text>Az alacsony бllуkйpessйg mozdulatlannб йs sebezhetхvй tehet az ellensйges tбmadбsokkal szemben a dцntх pillanatokban.</text>
+	</string>
+
+	<string id="ls_c_tip_44">
+		<text>A fejlцvйsek kritikus sebet okoznak, йs a legtцbb ellensйg szбmбra vйgzetesek.</text>
+	</string>
+
+	<string id="ls_c_tip_51">
+		<text>A tьzelйsi pontossбg jelentхsen csцkken, ha mozgбsban vagy. Бllj egy helyben vagy guggolj le, hogy javнtsd.</text>
+	</string>
+
+	<string id="ls_c_tip_37">
+		<text>Az AC-96/2 egyedьlбllу kйt kцrцs sorozatlцvйs mуddal rendelkezik. Ebben a mуdban a sorozatban lйvх mindkйt golyу ugyanazt a pontot йri.</text>
+	</string>
+
+	<string id="ls_c_tip_84">
+		<text>Annak йrdekйben, hogy csцkkentsd annak esйlyйt, hogy eltalбljon az ellensйges tыz, a sarkok mцgьl behajolva viszonozd a tьzet. Ehhez tartsd lenyomva a $$ACTION_WPN_ZOOM$$, йs nyomd meg a $$ACTION_UI_TAB_LEFT$$/$$ACTION_UI_TAB_LEFT$$ gombot.</text>
+	</string>
+
+	<string id="ls_c_tip_33">
+		<text>Ha sъlyos sugбrterhelйst szenvedtйl, hasznбlj sugбrzбs elleni gyуgyszereket. Ha nincs ilyen, hasznбlj gyуgyszerkйszletet a kezdeti tьnetek kezelйsйre, amнg el nem jutsz orvoshoz.</text>
+	</string>
+
+	<string id="ls_c_tip_16">
+		<text>A zуnбban az egyik leggyakoribb fenyegetйs a sugбrzбs. A sъlyos kitettsйg kбrosнtja az egйszsйged, йs ha nem megfelelхen kezelik, vйgzetes lehet.</text>
+	</string>
+
+	<string id="ls_c_tip_96">
+		<text>Ha van csцvezхs grбnбtvetхd, akkor a $$ACTION_WPN_FUNC$$ gomb megnyomбsбval vбlthatsz ez йs a normбl tьzelйsi mуd kцzцtt.</text>
+	</string>
+
+	<string id="ls_c_tip_76">
+		<text>Mindegyik fegyver egyedi pontossбggal, kezelйssel, sebzйsi йs tыzsebessйg-jellemzхkkel rendelkezik, нgy a szйles vбlasztйkbуl kivбlaszthatod a neked megfelelхt.</text>
+	</string>
+
+	<string id="ls_c_tip_69">
+		<text>A kбbнtуszerek megfelelх hasznбlatakor segнt, ha tudjuk, mit okoznak. Nйzd meg a gyуgyszerleнrбsokat, hogy megismerd bizonyos gyуgyszerek hatбsбt.</text>
+	</string>
+
+	<string id="ls_c_tip_82">
+		<text>Egyes helyeken mйg guggolva sem lehet бtmenni. A lehetх legalacsonyabb guggolбshoz nyomd meg a $$ACTION_CROUCH$$, majd a $$ACTION_RUN_OR_LIE_DOWN$$ gombot.</text>
+	</string>
+
+	<string id="ls_c_tip_94">
+		<text>A futбs a leggyorsabb mozgбsforma, de egyben a legfбrasztуbb is. Futбshoz nyomd meg a $$ACTION_run_or_lie_down$$ gombot.</text>
+	</string>
+
+	<string id="ls_tip_93">
+		<text>A gyorsmentйshez nyomd meg a "$$ACTION_QUICK_SAVE$$" gombot. Nyomd meg a "$$ACTION_QUICK_LOAD$$" gombot az utolsу gyorsmentйs gyors betцltйsйhez.</text>
+	</string>
+
+	<string id="ls_c_tip_91">
+		<text>Elх kell hoznod az йrzйkelхt, hogy tбrgyakat keress.</text>
+	</string>
+
+	<string id="ls_c_tip_40">
+		<text>Ha minimбlis zajjal szeretnйl mozogni, enyhйn dцntsd meg a bal stick-et a sйtбhoz, vagy nyomd meg a $$ACTION_CROUCH$$ gombot a gцrnyedйshez.</text>
+	</string>
+
+	<string id="ls_c_tip_100">
+		<text>Ha bele szeretnйl nйzni a hбtizsбkodba, nyomd meg a $$ACTION_INVENTORY$$ gombot.</text>
+	</string>
+
+	<string id="ls_c_tip_13">
+		<text>A tбrgyak keresйsйhez detektorra van szьksйged. A legjobb detektorok megkцnnyнtik a keresйst, йs akбr йrtйkesebb tбrgyakat is йszlelhetnek.</text>
+	</string>
+
+	<string id="ls_c_tip_77">
+		<text>A fegyvereken йs a lхszeren kнvьl az ellensйg testйn йrtйkes tбrgyak is lehetnek, pйldбul PDA-k, amelyeken informбciуk talбlhatуk.</text>
+	</string>
+
+	<string id="ls_c_tip_59">
+		<text>Ъj tбrgyak jelenhetnek meg azokon az anomбlis terьleteken, amelyeket mбr felfedeztйl egy kibocsбtбs utбn.</text>
+	</string>
+
+	<string id="ls_c_tip_41">
+		<text>A sцrйtes fegyverek kцzelharci fegyverek. Minйl tбvolabb van az ellensйg tхled, annбl kevйsbй hatйkonyak.</text>
+	</string>
+
+	<string id="ls_c_tip_50">
+		<text>A mesterlцvйsz puskбk ideбlisak az ellensйgek tбvolrуl valу megsemmisнtйsйre, lapossбguknak йs pontossбguknak kцszцnhetхen. Kцzelrхl kevйsbй hatйkonyak.</text>
+	</string>
+
+	<string id="ls_c_tip_19">
+		<text>Vigyйl magaddal йlelmet, ha hosszъ razziбra indulsz. Ha nagyon megйhezel, az бllуkйpessйg helyreбllнtбsa nagymйrtйkben megsйrьl.</text>
+	</string>
+
+	<string id="ls_c_tip_54">
+		<text>Maradj йber a zуnбban, йs ne hagyatkozz a rйgi informбciуkra. Amikor visszatйrsz egy anomбlis terьletre, amelyet mбr felfedeztйl, elхfordulhat, hogy a rйgi tesztelt ъtvonal mбr nem йrhetх el.</text>
+	</string>
+
+	<string id="ls_c_tip_98">
+		<text>Ha ъjra szeretnйd tцlteni fegyvered, mielхtt a tбr kiьrьlne, nyomd meg a $$ACTION_WPN_RELOAD$$ gombot.</text>
+	</string>
+
+	<string id="ls_c_tip_7">
+		<text>A fegyver lapossбga befolyбsolja a golyу rцppбlyбjбt, mнg a kezelйs azt hatбrozza meg, hogy mennyi idх alatt tйr vissza a cйlzу az eredeti helyzetйbe a lцvйs utбn.</text>
+	</string>
+
+	<string id="ls_c_tip_85">
+		<text>A beйpнtett cйlpont-helymeghatбrozу mechanizmusnak kцszцnhetхen tбvcsцveddel nemcsak a tбvoli tбrgyakat lбthatod jуl, hanem az ellensйgeket is megkeresheted.</text>
+	</string>
+
+	<string id="ls_c_tip_28">
+		<text>Hasznos hatбsaik mellett a legtцbb tбrgy radioaktнv is. Ezt a sugбrzбst elnyelх tбrgyak hasznбlatбval lehet kompenzбlni.</text>
+	</string>
+
+	<string id="ls_c_tip_58">
+		<text>A tapasztalt orvvadбszokkal valу beszйlgetйs hasznos informбciуkkal szolgбlhat az ъj terьletekrхl vagy a kцzelmъlt esemйnyeirхl.</text>
+	</string>
+
+	<string id="ls_c_tip_39">
+		<text>A kйtcsцvы sцrйtes puskбk mindkйt csцve szinte egyidejы tьzelйsйre alkalmas.</text>
+	</string>
+
+	<string id="ls_c_tip_68">
+		<text>Ne felejtsd el rendszeresen menteni a jбtйkot – ez megakadбlyozza, hogy ugyanazokat a rйszeket jбtszd ъjra йs ъjra.</text>
+	</string>
+
+	<string id="ls_c_tip_4">
+		<text>Szыrхk segнtsйgйvel elrejtheted йs megjelenнtheted a kьlцnbцzх jelцlхket a PDA-tйrkйpeden. A szыrхgombok a tйrkйp felett, az aktuбlis kьldetйsvonal alatt talбlhatуk.</text>
+	</string>
+
+	<string id="ls_c_tip_97">
+		<text>Ha tцbbfйle lхszered van az aktuбlis fegyveredhez, a $$ACTION_WPN_NEXT$$ megnyomбsбval vбlthatsz kцzцttьk.</text>
+	</string>
+
+	<string id="ls_c_tip_99">
+		<text>A jelenlegi fegyvered eldobбsбhoz nyomd meg a $$ACTION_DROP$$ gombot.</text>
+	</string>
+
+	<string id="ls_c_tip_45">
+		<text>A zуnбban minden mutбns tнpusnak megvannak a maga harci tulajdonsбgai. Ha ezeket figyelembe veszed, sokkal nagyobb esйlyed lesz a tъlйlйsre.</text>
+	</string>
+
+	<string id="ls_c_tip_2">
+		<text>Az orvvadбsz tбborokban dolgozу technikusok fejleszthetik a fegyvereidet, ruhбidat йs sisakjaidat.</text>
+	</string>
+
+	<string id="ls_c_tip_47">
+		<text>Az ellensйgek hasznбlhatnak йs fognak is grбnбtot hasznбlni. Ha lбtod a grбnбtjelzхt, azonnal hagyd el a gyilkos zуnбt.</text>
+	</string>
+
+	<string id="ls_c_tip_53">
+		<text>A Zуnбnak megvan a maga йlete, ami azt jelenti, hogy mindig van esйly mutбnsokba vagy ellensйges tбmadуkba futni azokon a terьleteken, amelyeket mбr megtisztнtottбl.</text>
+	</string>
+
+	<string id="ls_c_tip_72">
+		<text>Hasznбlhatod az opciуk menь speciбlis beбllнtбsбt, hogy a jбtйk automatikusan mentse az elхrehaladбst a legfontosabb pontokon.</text>
+	</string>
+
+	<string id="ls_c_tip_29">
+		<text>A kйsed hatбstalan a lхfegyverrel felfegyverzett ellensйgekkel szemben. Hasznбld kцzelharcban vagy lopakodу цlйshez.</text>
+	</string>
+
+	<string id="ls_c_tip_49">
+		<text>A kйpernyх jobb alsу sarkбban talбlhatуk az egйszsйgi бllapotodat йs бllуkйpessйgedet mutatу fхbb mutatуk.</text>
+	</string>
+
+	<string id="ls_c_tip_30">
+		<text>A detektor az egyetlen megbнzhatу mуdszer a tбrgyak keresйsйre anomбlis terьleteken.</text>
+	</string>
+
+	<string id="ls_c_tip_9">
+		<text>A gyуgyszerek nem fejtik ki azonnal a hatбsukat, йs vannak olyanok, amelyek hosszъ ideig tartanak.</text>
+	</string>
+
+	<string id="ls_c_tip_32">
+		<text>A mutбnsok йjszaka aktнvabbak, ami megmagyarбzza, hogy az orvvadбszok miйrt vбrjбk meg inkбbb a napfйnyt, mielхtt bemerйszkednйnek a Zуnбba.</text>
+	</string>
+
+	<string id="ls_c_tip_88">
+		<text>Ha a sisakodban beйpнtett йjjellбtу kйszьlйk van, a $$ACTION_NIGHT_VISION$$ megnyomбsбval aktivбlhatod йs deaktivбlhatod.</text>
+	</string>
+
+	<string id="ls_c_tip_55">
+		<text>A tбrgyak бltalбban nem statikusak: hajlamosak egy rendellenes terьleten belьl mozogni. A fegyveres kнsйrletek egy-egy tбrgy lelцvйsйre rцvid idхn belьl anomбliбba vezetnek.</text>
+	</string>
+
+	<string id="ls_c_tip_5">
+		<text>Egyes ruhбk beйpнtett sisakokkal rendelkeznek. Ilyen ruhбkkal nem lehet mбs sisakot hasznбlni.</text>
+	</string>
+
+	<string id="ls_c_tip_42">
+		<text>Amikor a kйzi lхfegyvereket hasznбlod, ьgyelj arra, hogy valami szilбrd tбrgy mцgй bъjj. A betonfalakkal ellentйtben a fa deszkбk йs fйmlemezek nem nyъjtanak tъl biztonsбgos vйdelmet.</text>
+	</string>
+
+	<string id="ls_c_tip_64">
+		<text>Ha egy meghatбrozott уrбra kell vбrnod, a tбborban szundнthatsz egyet, hogy elьsd az idхt. Ehhez keresd meg az alvуhelyet, nyomd meg a $$ACTION_USE$$ gombot, йs vбlaszd ki, mennyi ideig szeretnйl aludni.</text>
+	</string>
+
+	<string id="ls_c_tip_63">
+		<text>A dolgaidat a tбborban egy szemйlyes dobozban hagyhatod, hogy elkerьld a felesleges holmik cipelйsйt.</text>
+	</string>
+
+	<string id="ls_c_tip_12">
+		<text>Ha egy tйtelt a gyorselйrйsi opciуn keresztьl szeretnйl hasznбlni, hъzd azt бt a hбtizsбkbуl a tбrgytбrolуk feletti nйgy hely valamelyikйbe.</text>
+	</string>
+
+	<string id="ls_c_tip_27">
+		<text>A hбtizsбkban lйvх tйtelek helyi menьjйt ъgy jelenнtheted meg, hogy kiemeled a kнvбnt tйtelt, йs megnyomod a $$ACTION_UI_CONTEXT_MENU$$ gombot.</text>
+	</string>
+
+	<string id="ls_c_tip_3">
+		<text>A cipelt sъly csцkkenti az бllуkйpessйget. A tъlsъly korlбtozza a mobilitбst, mнg a teljes tъlterheltsйg megakadбlyozza a mozgбst.</text>
+	</string>
+
+	<string id="ls_c_tip_79">
+		<text>A Zуna kцrnyezetйnek kцszцnhetхen sok mutбns radioaktнv. Megfelelх sugбrvйdelem nйlkьl megkцzelнteni хket rendkнvьl veszйlyes.</text>
+	</string>
+
+	<string id="ls_c_tip_43">
+		<text>Ne becsьld alб a pisztolyokat. Jelentхs fйkezхerхt biztosнtanak, йs nagyon hatйkonyak lehetnek a gyengйn pбncйlozott cйlpontok ellen.</text>
+	</string>
+
+	<string id="ls_c_tip_52">
+		<text>A fegyverek йs vйdхruhбk gyorsan elhasznбlуdnak a zуna zord kцrьlmйnyei kцzцtt. Az elhasznбlуdott fegyverek kevйsbй pontosak йs hajlamosak a meghibбsodбsra, mнg a ruhбk nem vйdenek meg megfelelхen.</text>
+	</string>
+
+	<string id="ls_c_tip_22">
+		<text>Ha az egyik kezedben van egy detektor, az nem akadбlyozza meg, hogy kйst, pisztolyt vagy csavart hasznбlj a mбsik kezeddel.</text>
+	</string>
+
+	<string id="ls_c_tip_60">
+		<text>Bбrmilyen fegyvert hasznбlhatsz mindkйt fegyvernyнlбsban. Ez lehetхvй teszi a rugalmas fegyverkombinбciуk lйtrehozбsбt, pйldбul rohampuska/sцrйtes puska йs pisztoly/mesterlцvйsz puska.</text>
+	</string>
+
+	<string id="ls_c_tip_66">
+		<text>Ha tъl akarod йlni, mindig kцvesd nyomon a Geiger-szбmlбlу recsegх zajбt, amely figyelmeztet a sugбrzбsra, йs az anomбlia veszйlyjelzйsйt, amely jelzi, hogy kцzel jбrsz az anomбliбhoz.</text>
+	</string>
+
+	<string id="ls_c_tip_57">
+		<text>Egyes orvvadбszok szolgбltatбsokat kнnбlhatnak neked, pйldбul informбciуkat, exkluzнv бrukat, vagy megrendelйseket adhatnak bizonyos mыtбrgyakra.</text>
+	</string>
+
+	<string id="ls_c_tip_75">
+		<text>Az anomбlis terьletek kбros hatбsainak csцkkentйse йrdekйben a Zуnбba valу betцrйsek sorбn hasznбlj vйdхruhбt, tбrgyakat, vagy szedj megfelelх gyуgyszereket.</text>
+	</string>
+
+	<string id="ls_c_tip_38">
+		<text>Hangtompнtу, cйltбvcsх vagy csцvezхs grбnбtvetх levбlasztбsбhoz a fegyverrхl kattints jobb gombbal a hбtizsбkban lйvх fegyverre, йs vбlaszd ki a megfelelх mыveletet a helyi menьbхl.</text>
+	</string>
+
+	<string id="ls_c_tip_70">
+		<text>Hasznбlj grбnбtokat a fedezйkben lйvх ellensйgek megtбmadбsбra. Tartsd szem elхtt a grбnбt robbanбsi sugarбt, hogy a barбtsбgos harcosok ne sйrьljenek meg.</text>
+	</string>
+
+	<string id="ls_c_tip_81">
+		<text>A legtцbb fegyvernek alapйrtelmezйs szerint tцbb tьzelйsi mуdja van, vбsбrolhatsz mуdosнtбsokat, hogy kйsхbb ъjakat adhass hozzб. A tьzelйsi mуdok kцzцtti vбltбshoz nyomd meg a $$ACTION_WPN_FIREMODE_NEXT$$ vagy a $$ACTION_WPN_FIREMODE_PREV$$ gombot.</text>
+	</string>
+
+	<string id="ls_c_tip_8">
+		<text>A vйrzйs megбllнtбsбra hasznбlhatsz kцtszert, katonai gyуgyszerkйszletet vagy Vinca gyуgyszereket. Ha nem vagy elйg gyors, a vйrzйs sъlyosan kбrosнthatja az egйszsйgedet.</text>
+	</string>
+
+	<string id="ls_c_tip_73">
+		<text>Amikor visszatйrsz a tбborba, javнtsd meg a felszerelйsedet, add el a szьksйgtelen zsбkmбnyt, йs tцltsd fel a kйszletedet lхszerrel йs orvosi felszerelйssel.</text>
+	</string>
+
+	<string id="ls_c_tip_67">
+		<text>Ha kint vagy a Zуnбban, tarts magadnбl nйhбny tartalйk tбrat – ezek biztosan hasznosak lesznek.</text>
+	</string>
+
+	<string id="ls_c_tip_56">
+		<text>Egyes gyуgyбszati termйkek egyedi tulajdonsбgokkal rendelkeznek. Pйldбul a Hercules tablettбk lehetхvй teszik, hogy бtmenetileg nagyobb sъlyt hordozzon, mнg a pszichoblokkolу szerek segнtenek ellenбllni a pszichйs kibocsбtбsoknak.</text>
+	</string>
+
+	<string id="ls_c_tip_6">
+		<text>Ha ki akarsz vбrni egy kibocsбtбst, bъjj el egy megbнzhatу йpьletben vagy a fцld alatt. Amikor egy sugбrzбs kцzeledik, a legkцzelebbi fedйl meg lesz jelцlve a PDA-n.</text>
+	</string>
+
+	<string id="ls_c_tip_36">
+		<text>Egy tйtel megjavнtбsбhoz keresned kell egy szerelхt, йs a javнtбs gombra kell kattintanod, miutбn kivбlasztottad a tйtelt a mуdosнtбsi kйpernyхn. Ugyanebben az ablakban nyomd meg a $$ACTION_UI_CONTEXT_MENU$$ gombot a tйtelen a megfelelх mыvelet kivбlasztбsбhoz a helyi menьbхl.</text>
+	</string>
+
+	<string id="ls_c_tip_14">
+		<text>Az orvvadбszok nem engedik az embereket a fegyvereikkel a tбborukba.</text>
+	</string>
+
+	<string id="ls_c_tip_11">
+		<text>Kipakolhatod a talбlt fegyvereket, hogy tцbb lхszerhez juss. Ehhez nyomd meg a $$ACTION_UI_CONTEXT_MENU$$ gombot a hбtizsбkodban lйvх fegyveren, йs vбlaszd ki a megfelelх mыveletet a helyi menьbхl.</text>
+	</string>
+
+	<string id="ls_c_tip_61">
+		<text>Minden kereskedх, akivel a kьlцnbцzх orvvadбsz tбborokban talбlkozol, sajбt, egyedi бruvбlasztйkot kнnбl. Pйldakйnt emlнthetjьk, hogy a legjobb gyуgyбszati termйkekkel az orvosok rendelkeznek.</text>
+	</string>
+
+</string_table>

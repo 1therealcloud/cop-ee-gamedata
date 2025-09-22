@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="af_neutral">
+		<text>神器</text>
+	</string>
+
+	<string id="friend">
+		<text>友方</text>
+	</string>
+
+	<string id="mm_mp_max_ping">
+		<text>Ping值最大</text>
+	</string>
+
+	<string id="mm_mp_profile">
+		<text>個人資料</text>
+	</string>
+
+	<string id="modes">
+		<text>模式</text>
+	</string>
+
+	<string id="mp_art_destroyed">
+		<text>神器已經毀滅。</text>
+	</string>
+
+	<string id="mp_art_spowned">
+		<text>神器誕生。將它帶回基地可以得分。</text>
+	</string>
+
+	<string id="mp_artefact_dropped">
+		<text>神器遺失了。</text>
+	</string>
+
+	<string id="mp_artefact_on_base">
+		<text>神器在我方基地。</text>
+	</string>
+
+	<string id="mp_artefact_on_enemy_base">
+		<text>神器在敵方基地。</text>
+	</string>
+
+	<string id="mp_artefacts">
+		<text>神器</text>
+	</string>
+
+	<string id="mp_artefacts_upcase">
+		<text>神器</text>
+	</string>
+
+	<string id="mp_auto_select">
+		<text>自動選擇</text>
+	</string>
+
+	<string id="mp_back">
+		<text>返回</text>
+	</string>
+
+	<string id="mp_ban">
+		<text>4. 禁止</text>
+	</string>
+
+	<string id="mp_by_anomaly">
+		<text>特異點旁</text>
+	</string>
+
+	<string id="mp_cancel">
+		<text>取消</text>
+	</string>
+
+	<string id="mp_captured_artefact">
+		<text>奪取神器</text>
+	</string>
+
+	<string id="mp_change_map">
+		<text>5. 改變地圖</text>
+	</string>
+
+	<string id="mp_change_weather">
+		<text>6. 改變氣候</text>
+	</string>
+
+	<string id="mp_change_weather_header">
+		<text>改變氣候至</text>
+	</string>
+
+	<string id="mp_chat">
+		<text>交談</text>
+	</string>
+
+	<string id="mp_connected">
+		<text>連結</text>
+	</string>
+
+	<string id="mp_deaths">
+		<text>死亡</text>
+	</string>
+
+	<string id="mp_description">
+		<text>說明</text>
+	</string>
+
+	<string id="mp_disconnected">
+		<text>斷線</text>
+	</string>
+
+	<string id="mp_enter_text">
+		<text>輸入文字投票</text>
+	</string>
+
+	<string id="mp_entered_game">
+		<text>加入遊戲</text>
+	</string>
+
+	<string id="mp_firestation">
+		<text>消防局</text>
+	</string>
+
+	<string id="mp_first_eye">
+		<text>（第一人稱視野）</text>
+	</string>
+
+	<string id="mp_frags">
+		<text>殺敵數量</text>
+	</string>
+
+	<string id="mp_frags_upcase">
+		<text>殺敵數量</text>
+	</string>
+
+	<string id="mp_free_fly">
+		<text>（自由攝影機）</text>
+	</string>
+
+	<string id="mp_free_look">
+		<text>（第三人稱視野）</text>
+	</string>
+
+	<string id="mp_from">
+		<text>跟</text>
+	</string>
+
+	<string id="mp_gamemode">
+		<text>7. 模式</text>
+	</string>
+
+	<string id="mp_garbage">
+		<text>垃圾場</text>
+	</string>
+
+	<string id="mp_go">
+		<text>前進！</text>
+	</string>
+
+	<string id="mp_has_drop_art">
+		<text>失去%s神器</text>
+	</string>
+
+	<string id="mp_has_dropped_artefact">
+		<text>失去神器</text>
+	</string>
+
+	<string id="mp_has_tak_art">
+		<text>獲得%s神器</text>
+	</string>
+
+	<string id="mp_headhuntrs">
+		<text>傭兵</text>
+	</string>
+
+	<string id="mp_is_now">
+		<text>現在</text>
+	</string>
+
+	<string id="mp_joined">
+		<text>已經加入</text>
+	</string>
+
+	<string id="mp_kick">
+		<text>3. 丟棄</text>
+	</string>
+
+	<string id="mp_limansk">
+		<text>利曼西克</text>
+	</string>
+
+	<string id="mp_loading_awards">
+		<text>載入你的獎勵⋯⋯</text>
+	</string>
+
+	<string id="mp_loading_best_scores">
+		<text>載入你的紀錄⋯⋯</text>
+	</string>
+
+	<string id="mp_look_at">
+		<text>（自由--鎖定）</text>
+	</string>
+
+	<string id="mp_map_desc">
+		<text>地圖說明</text>
+	</string>
+
+	<string id="mp_match_started">
+		<text>對決開始！</text>
+	</string>
+
+	<string id="mp_military_2">
+		<text>舊村莊</text>
+	</string>
+
+	<string id="mp_modes">
+		<text>模式</text>
+	</string>
+
+	<string id="mp_name">
+		<text>名稱</text>
+	</string>
+
+	<string id="mp_next">
+		<text>下一個</text>
+	</string>
+
+	<string id="mp_no_voted">
+		<text>尚未投票</text>
+	</string>
+
+	<string id="mp_ping">
+		<text>ping</text>
+	</string>
+
+	<string id="mp_player_wins">
+		<text>%s贏得了比賽！</text>
+	</string>
+
+	<string id="mp_players">
+		<text>玩家</text>
+	</string>
+
+	<string id="mp_press_fire2spectator">
+		<text>按下發射來切換到觀察員模式</text>
+	</string>
+
+	<string id="mp_press_jump2pay_spaw">
+		<text>按下跳躍來購買立即重生</text>
+	</string>
+
+	<string id="mp_press_jump2select_skin">
+		<text>按下跳躍來選擇外觀</text>
+	</string>
+
+	<string id="mp_press_jump2select_team">
+		<text>按下跳躍來選擇隊伍</text>
+	</string>
+
+	<string id="mp_press_jump2spawn">
+		<text>按下跳躍來產生</text>
+	</string>
+
+	<string id="mp_press_jump2start">
+		<text>按下跳躍開始</text>
+	</string>
+
+	<string id="mp_press_to_buy">
+		<text>按下($$ACTION_BUY_MENU$$)來進入購買選單</text>
+	</string>
+
+	<string id="mp_press_yes2pay">
+		<text>你有%d$。你可以用%d$來重生。按下確定來付款。</text>
+	</string>
+
+	<string id="mp_ready">
+		<text>準備…</text>
+	</string>
+
+	<string id="mp_rembasa">
+		<text>修繕基地</text>
+	</string>
+
+	<string id="mp_restart">
+		<text>1. 重新開始</text>
+	</string>
+
+	<string id="mp_restart_fast">
+		<text>2. 快速重新開始</text>
+	</string>
+
+	<string id="mp_returned_artefact">
+		<text>歸還神器</text>
+	</string>
+
+	<string id="mp_scores">
+		<text>獲得一分</text>
+	</string>
+
+	<string id="mp_select_ban">
+		<text>藉由投票來禁止選擇的玩家</text>
+	</string>
+
+	<string id="mp_select_category">
+		<text>選擇投票內容</text>
+	</string>
+
+	<string id="mp_select_kick">
+		<text>選擇要投票踢出的玩家</text>
+	</string>
+
+	<string id="mp_select_kick_player">
+		<text>選擇要投票踢出的玩家</text>
+	</string>
+
+	<string id="mp_select_map">
+		<text>選擇要投票的地圖</text>
+	</string>
+
+	<string id="mp_si_afbearer_cant_sprint">
+		<text>攜帶神器勿跑動</text>
+	</string>
+
+	<string id="mp_si_afcount">
+		<text>-  總計</text>
+	</string>
+
+	<string id="mp_si_afrespawntime">
+		<text>-  停留時間</text>
+	</string>
+
+	<string id="mp_si_afstaytime">
+		<text>-  重生時間</text>
+	</string>
+
+	<string id="mp_si_anomalies">
+		<text>特異點</text>
+	</string>
+
+	<string id="mp_si_anomalies_period">
+		<text>特異點週期</text>
+	</string>
+
+	<string id="mp_si_any_time">
+		<text>任何時間</text>
+	</string>
+
+	<string id="mp_si_artefact_captured">
+		<text>捕獲神器</text>
+	</string>
+
+	<string id="mp_si_artefacts">
+		<text>神器</text>
+	</string>
+
+	<string id="mp_si_autoteam_balance">
+		<text>隊伍自動平衡</text>
+	</string>
+
+	<string id="mp_si_autoteam_swap">
+		<text>自動隊伍交換</text>
+	</string>
+
+	<string id="mp_si_battleye">
+		<text>BattlEye</text>
+	</string>
+
+	<string id="mp_si_disabled">
+		<text>關閉</text>
+	</string>
+
+	<string id="mp_si_enabled">
+		<text>開啟</text>
+	</string>
+
+	<string id="mp_si_first_eye">
+		<text>- 第一人稱</text>
+	</string>
+
+	<string id="mp_si_forcerespawn">
+		<text>勢力重生</text>
+	</string>
+
+	<string id="mp_si_fraglimit">
+		<text>殺敵數量限制</text>
+	</string>
+
+	<string id="mp_si_free_fly">
+		<text>- 自由飛行</text>
+	</string>
+
+	<string id="mp_si_free_look">
+		<text>- 自由觀看</text>
+	</string>
+
+	<string id="mp_si_friendly_fire">
+		<text>友軍火力</text>
+	</string>
+
+	<string id="mp_si_friendly_indicators">
+		<text>友軍指示器</text>
+	</string>
+
+	<string id="mp_si_friendly_names">
+		<text>友軍名稱</text>
+	</string>
+
+	<string id="mp_si_infinite">
+		<text>無限大</text>
+	</string>
+
+	<string id="mp_si_invinsibility">
+		<text>隱藏：</text>
+	</string>
+
+	<string id="mp_si_invinsibility_indicators">
+		<text>- 指示器</text>
+	</string>
+
+	<string id="mp_si_invinsibility_time">
+		<text>- 時間</text>
+	</string>
+
+	<string id="mp_si_look_at">
+		<text>- 第三人稱</text>
+	</string>
+
+	<string id="mp_si_maprotation">
+		<text>地圖旋轉</text>
+	</string>
+
+	<string id="mp_si_max_ping">
+		<text>Ping值最大</text>
+	</string>
+
+	<string id="mp_si_min">
+		<text>分鐘</text>
+	</string>
+
+	<string id="mp_si_no">
+		<text>不</text>
+	</string>
+
+	<string id="mp_si_players_respawn">
+		<text>重生</text>
+	</string>
+
+	<string id="mp_si_return_players">
+		<text>玩家回到基地</text>
+	</string>
+
+	<string id="mp_si_sec">
+		<text>秒鐘</text>
+	</string>
+
+	<string id="mp_si_servername">
+		<text>伺服器名稱：</text>
+	</string>
+
+	<string id="mp_si_shielded_bases">
+		<text>防護基地</text>
+	</string>
+
+	<string id="mp_si_spectatormodes">
+		<text>觀察員模式：</text>
+	</string>
+
+	<string id="mp_si_team_only">
+		<text>- 隊伍專用</text>
+	</string>
+
+	<string id="mp_si_time_limit">
+		<text>時間限制</text>
+	</string>
+
+	<string id="mp_si_version">
+		<text>版本：</text>
+	</string>
+
+	<string id="mp_si_voting">
+		<text>投票</text>
+	</string>
+
+	<string id="mp_si_warmuptime">
+		<text>暖身</text>
+	</string>
+
+	<string id="mp_si_yes">
+		<text>是的</text>
+	</string>
+
+	<string id="mp_skin_selection">
+		<text>外觀選擇</text>
+	</string>
+
+	<string id="mp_spectator">
+		<text>觀查員</text>
+	</string>
+
+	<string id="mp_spectators">
+		<text>觀察員</text>
+	</string>
+
+	<string id="mp_sport_center">
+		<text>運動中心</text>
+	</string>
+
+	<string id="mp_status">
+		<text>狀況</text>
+	</string>
+
+	<string id="mp_switched_to">
+		<text>已經切換至</text>
+	</string>
+
+	<string id="mp_team_free_stalkers">
+		<text>自由團</text>
+	</string>
+
+	<string id="mp_team_selection">
+		<text>隊伍選擇</text>
+	</string>
+
+	<string id="mp_team_wins">
+		<text>隊伍 %s 勝利！</text>
+	</string>
+
+	<string id="mp_text">
+		<text>文字</text>
+	</string>
+
+	<string id="mp_time2respawn">
+		<text>剩餘重生時間</text>
+	</string>
+
+	<string id="mp_time2start">
+		<text>剩餘開始時間</text>
+	</string>
+
+	<string id="mp_timeleft">
+		<text>剩餘時間：%d:%d; 同意： %.2f</text>
+	</string>
+
+	<string id="mp_training_camp">
+		<text>訓練營</text>
+	</string>
+
+	<string id="mp_vote_hint">
+		<text>投票-[$$ACTION_VOTE_YES$$]\n投票 對-[$$ACTION_VOTE_NO$$]\n結果-[$$ACTION_VOTE$$]</text>
+	</string>
+
+	<string id="mp_vote_no">
+		<text>不</text>
+	</string>
+
+	<string id="mp_vote_yes">
+		<text>是的</text>
+	</string>
+
+	<string id="mp_voted">
+		<text>投票</text>
+	</string>
+
+	<string id="mp_voted_no">
+		<text>不</text>
+	</string>
+
+	<string id="mp_voted_yes">
+		<text>是的</text>
+	</string>
+
+	<string id="mp_voting_broken">
+		<text>伺服器取消投票！</text>
+	</string>
+
+	<string id="mp_voting_started">
+		<text>投票'%s'已經在%s開始。</text>
+	</string>
+
+	<string id="mp_voting_started_msg">
+		<text>投票開始！</text>
+	</string>
+
+	<string id="mp_weather_clear">
+		<text>1. 晴天</text>
+	</string>
+
+	<string id="mp_weather_cloudy">
+		<text>4. 多雲</text>
+	</string>
+
+	<string id="mp_weather_night">
+		<text>3. 夜晚</text>
+	</string>
+
+	<string id="mp_weather_rain">
+		<text>2. 雨天</text>
+	</string>
+
+	<string id="mp_with_backstab">
+		<text>偷襲!</text>
+	</string>
+
+	<string id="mp_with_headshot">
+		<text>爆頭!</text>
+	</string>
+
+	<string id="mp_you_captured_artefact">
+		<text>你奪取了敵人的神器，把它帶到我方！</text>
+	</string>
+
+	<string id="mp_you_captured_own_artefact">
+		<text>你獲得了神器。啟動以將它送回我方基地！</text>
+	</string>
+
+	<string id="mp_your_rank">
+		<text>你的排名現在是</text>
+	</string>
+
+	<string id="self">
+		<text>是你</text>
+	</string>
+
+	<string id="st_mp_disabled_voting">
+		<text>目前伺服器沒有進行投票。</text>
+	</string>
+
+	<string id="st_mp_no_current_voting">
+		<text>沒有進行中的投票。</text>
+	</string>
+
+	<string id="st_mp_only_one_voting">
+		<text>只可進行一個投票</text>
+	</string>
+
+	<string id="st_mp_ready">
+		<text>準備</text>
+	</string>
+
+	<string id="st_mp_say_to_all">
+		<text>對全體</text>
+	</string>
+
+	<string id="st_mp_say_to_team">
+		<text>對隊伍</text>
+	</string>
+
+	<string id="st_mp_voting_failed">
+		<text>投票失敗！</text>
+	</string>
+
+	<string id="st_mp_voting_succeed">
+		<text>投票成功！</text>
+	</string>
+
+	<string id="team_base_1">
+		<text>自由團基地</text>
+	</string>
+
+	<string id="team_base_2">
+		<text>傭兵基地</text>
+	</string>
+
+	<string id="ui_mp_ah">
+		<text>2. 獵捕神器</text>
+	</string>
+
+	<string id="ui_mp_cta">
+		<text>4. 奪取神器</text>
+	</string>
+
+	<string id="ui_mp_dm">
+		<text>1. 死鬥</text>
+	</string>
+
+	<string id="ui_mp_gamespy_creating_new_profile">
+		<text>建立新的個人資料</text>
+	</string>
+
+	<string id="ui_mp_gamespy_getting_account_profiles">
+		<text>取得帳戶個人資料</text>
+	</string>
+
+	<string id="ui_mp_gamespy_loading_rewards_hello">
+		<text>哈囉</text>
+	</string>
+
+	<string id="ui_mp_gamespy_logining_to_profile">
+		<text>連接至個人資料</text>
+	</string>
+
+	<string id="ui_mp_gamespy_profile_created">
+		<text>個人資料創立成功。請連結個人資料。</text>
+	</string>
+
+	<string id="ui_mp_gamespy_suggesting_unique_name">
+		<text>驗證特殊名稱中⋯⋯</text>
+	</string>
+
+	<string id="ui_mp_gamespy_use_existing_profile">
+		<text>你要使用名字在現有的個人資料嗎？</text>
+	</string>
+
+	<string id="ui_mp_gamespy_verify_account_profiles">
+		<text>找到帳號。正在取得已註冊的個人資料⋯⋯</text>
+	</string>
+
+	<string id="ui_mp_gamespy_verify_account_profiles_error1">
+		<text>你已經有個人資料了。請連結個人資料。</text>
+	</string>
+
+	<string id="ui_mp_gamespy_verify_email">
+		<text>驗證帳號⋯⋯</text>
+	</string>
+
+	<string id="ui_mp_gamespy_verify_nickname_error1">
+		<text>這個個書名稱已被使用。請在下方的下拉選單中選擇，或輸入其他名稱。</text>
+	</string>
+
+	<string id="ui_mp_gamespy_verify_password_error1">
+		<text>密碼錯誤！</text>
+	</string>
+
+	<string id="ui_mp_tdm">
+		<text>3. 組隊遊戲</text>
+	</string>
+
+	<string id="ui_st_btn_copy_url">
+		<text>複製連結</text>
+	</string>
+
+	<string id="ui_st_btn_download_map">
+		<text>讀取地圖</text>
+	</string>
+
+	<string id="ui_st_description">
+		<text>說明</text>
+	</string>
+
+	<string id="ui_st_map_data_corrupted">
+		<text>地圖無效或損壞</text>
+	</string>
+
+	<string id="ui_st_map_not_found">
+		<text>找不到地圖</text>
+	</string>
+
+	<string id="ui_st_mp_awards">
+		<text>獎勵</text>
+	</string>
+
+	<string id="ui_st_mp_best_results">
+		<text>紀錄</text>
+	</string>
+
+	<string id="ui_st_mp_check_avaliability">
+		<text>檢查</text>
+	</string>
+
+	<string id="ui_st_mp_confirm_password">
+		<text>確認密碼</text>
+	</string>
+
+	<string id="ui_st_mp_email">
+		<text>電子信箱</text>
+	</string>
+
+	<string id="ui_st_mp_forgot_password">
+		<text>忘記密碼？</text>
+	</string>
+
+	<string id="ui_st_mp_gamespy_account_creation">
+		<text>建立GameSpy ID的頁面</text>
+	</string>
+
+	<string id="ui_st_mp_password">
+		<text>密碼</text>
+	</string>
+
+	<string id="ui_st_mp_remember_me">
+		<text>記得</text>
+	</string>
+
+	<string id="ui_st_mp_unique_nickname">
+		<text>特殊名稱</text>
+	</string>
+
+	<string id="ui_st_mp_unique_nickname_change">
+		<text>成功改變特殊名稱為</text>
+	</string>
+
+	<string id="ui_st_team">
+		<text>隊伍</text>
+	</string>
+
+	<string id="ui_st_team1_name">
+		<text>自由團</text>
+	</string>
+
+	<string id="ui_st_team2_name">
+		<text>傭兵</text>
+	</string>
+
+	<string id="ui_st_mp_create_new_account">
+		<text>新的個人資料</text>
+	</string>
+
+	<string id="ui_st_mp_gamespy_login_page">
+		<text>GameSpy ID授權</text>
+	</string>
+
+	<string id="mpd_play">
+		<text>遊玩</text>
+	</string>
+
+	<string id="mpd_rewind">
+		<text>回顧</text>
+	</string>
+
+	<string id="mpd_restart">
+		<text>重新開始</text>
+	</string>
+
+	<string id="mpd_rewind_until_start">
+		<text>到開始</text>
+	</string>
+
+	<string id="mpd_rewind_until_kill">
+		<text>殺戮到</text>
+	</string>
+
+	<string id="mpd_rewind_until_die">
+		<text>到死亡</text>
+	</string>
+
+	<string id="mpd_rewind_until_arttake">
+		<text>到奪取神器</text>
+	</string>
+
+	<string id="mpd_rewind_until_artdrop">
+		<text>到損失的神器</text>
+	</string>
+
+	<string id="mpd_rewind_until_artdeliver">
+		<text>到神器運送</text>
+	</string>
+
+	<string id="mpd_any_player">
+		<text>任何</text>
+	</string>
+
+	<string id="mm_mp_login">
+		<text>登入</text>
+	</string>
+
+	<string id="ui_mp_am_screen_all">
+		<text>螢幕截圖全部</text>
+	</string>
+
+	<string id="ui_mp_am_config_all">
+		<text>配置所有</text>
+	</string>
+
+	<string id="ui_mp_am_ping_limit">
+		<text>Ping限制：</text>
+	</string>
+
+	<string id="ui_mp_am_set_ping_limit">
+		<text>Ping限制：</text>
+	</string>
+
+	<string id="ui_mp_am_screen_selected">
+		<text>截圖選定的玩家</text>
+	</string>
+
+	<string id="ui_mp_am_config_selected">
+		<text>配置選定的玩家</text>
+	</string>
+
+	<string id="ui_mp_am_kick_selected">
+		<text>剔除選定的玩家</text>
+	</string>
+
+	<string id="ui_mp_am_ban_selected">
+		<text>禁選定的玩家</text>
+	</string>
+
+	<string id="ui_mp_am_restart">
+		<text>重新開始</text>
+	</string>
+
+	<string id="ui_mp_am_fast_restart">
+		<text>快速重啟</text>
+	</string>
+
+	<string id="ui_mp_am_change_weather">
+		<text>改變氣候</text>
+	</string>
+
+	<string id="ui_mp_am_set_change_rate">
+		<text>氣候改變速度</text>
+	</string>
+
+	<string id="ui_mp_am_change_game_type">
+		<text>改變遊戲類型</text>
+	</string>
+
+	<string id="ui_mp_am_change_game_limits">
+		<text>改變遊戲設定</text>
+	</string>
+
+	<string id="ui_mp_am_stop_cur_voting">
+		<text>停止目前的投票</text>
+	</string>
+
+	<string id="ui_mp_am_set_time_limit">
+		<text>時間限制(0. 180)</text>
+	</string>
+
+	<string id="ui_mp_am_set_frag_limit">
+		<text>殺敵數量限制(0, 1000)</text>
+	</string>
+
+	<string id="ui_mp_am_set_art_limit">
+		<text>神器限制(0, 100)</text>
+	</string>
+
+	<string id="ui_mp_am_set_warm_up_time">
+		<text>暖身時間(0, 3600)</text>
+	</string>
+
+	<string id="ui_mp_am_set_invincible_time">
+		<text>重生保護時間(0, 60 CTA)</text>
+	</string>
+
+	<string id="ui_mp_am_set_damage_block_time">
+		<text>重生保護時間(0, 600 團隊／死亡競賽 )</text>
+	</string>
+
+	<string id="ui_mp_am_set_reinforcement_time">
+		<text>重生時間(-1, 3600)</text>
+	</string>
+
+	<string id="mp_gp_unknown_error_4">
+		<text>未知的個資錯誤(代碼：4)</text>
+	</string>
+
+	<string id="ui_mp_am_10_minutes">
+		<text>10分鐘</text>
+	</string>
+
+	<string id="ui_mp_am_30_minutes">
+		<text>30分鐘</text>
+	</string>
+
+	<string id="ui_mp_am_1_hour">
+		<text>1小時</text>
+	</string>
+
+	<string id="ui_mp_am_6_hours">
+		<text>6小時</text>
+	</string>
+
+	<string id="ui_mp_am_1_day">
+		<text>1天</text>
+	</string>
+
+	<string id="ui_mp_am_1_week">
+		<text>1週</text>
+	</string>
+
+	<string id="ui_mp_am_1_month">
+		<text>1個月</text>
+	</string>
+
+	<string id="ui_mp_am_3_monthes">
+		<text>3個月</text>
+	</string>
+
+	<string id="ui_mp_am_forever">
+		<text>永久</text>
+	</string>
+
+	<string id="mp_gp_unique_nick_too_short">
+		<text>綽號太短</text>
+	</string>
+
+	<string id="mp_gp_unknown_error_512">
+		<text>個人資料建立錯誤</text>
+	</string>
+
+	<string id="savedata_full">
+		<text>沒有新的存檔位置了！請刪除或覆蓋以前的存檔。</text>
+	</string>
+
+</string_table>

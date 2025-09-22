@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_press_any_key_PS4">
+		<text>플레이하려면 아무 버튼이나 누르십시오</text>
+	</string>
+
+	<string id="ui_mm_mblur_pwr">
+		<text>모션 블러</text>
+	</string>
+
+	<string id="ui_eula_ps_tech_req">
+		<text>Any content purchased in an in-game store will be purchased from Sony Interactive \nEntertainment Network Europe Limited (“SIENE”) and be subject to PlayStation™Network \nTerms of Service and User Agreement which is available on the PlayStation®Store. Please check usage rights for each purchase as these may differ from item to item. Unless \notherwise shown, content available in any in-game store has the same age rating as the game.</text>
+		<text_US>Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment \nAmerica.</text_US>
+	</string>
+
+	<string id="ui_elua_disclamer">
+		<text>해당 제품은 "S.T.A.L.K.E.R.: 프리피야티의 부름"의 콘솔 버전입니다.\n \n 존의 세계는 초르노빌 원자력 발전소 사고가 벌어진 그 순간에 멈춰 있습니다. 비록 일부 요소를 새로 업데이트하긴 했지만, 나머지는 오늘날 논쟁의 여지가 있더라도 게임의 진정성과 분위기를 지키기 위해 그대로 유지하기로 했습니다.\n 물론 저희 관점이나 가치관과 맞지 않는 게임 요소가 존재할 수도 있습니다. 그래도 변경하지 않고 보존한 요소야말로 이 게임이 남긴 유산의 일부이므로, 원작을 만들 당시 형성된 모습을 유지하기로 결정한 것입니다.\n \n 게임에 등장한 모든 레퍼런스가 이 예술 작품의 분위기를 생생하게 전달하고 역사적 맥락을 제공하리라 믿어 의심치 않습니다. 여러분도 지금까지 거쳐 간 수많은 스토커들처럼 존과 그 불가사의를 사랑해 주시면 감사하겠습니다.\n \n그럼 즐거운 사냥을 기원하겠습니다!\n GSC Game World 팀 드림\n </text>
+		<text_ps5>S.T.A.L.K.E.R.: 콜 오브 프리피야트의 PlayStation®5 콘솔 버전입니다.\n \n 존의 세계는 초르노빌 원자력 발전소 사고가 벌어진 그 순간에 멈춰 있습니다. 비록 일부 요소를 새로 업데이트하긴 했지만, 나머지는 오늘날 논쟁의 여지가 있더라도 게임의 진정성과 분위기를 지키기 위해 그대로 유지하기로 했습니다.\n 물론 저희 관점이나 가치관과 맞지 않는 게임 요소가 존재할 수도 있습니다. 그래도 변경하지 않고 보존한 요소야말로 이 게임이 남긴 유산의 일부이므로, 원작을 만들 당시 형성된 모습을 유지하기로 결정한 것입니다.\n \n 게임에 등장한 모든 레퍼런스가 이 예술 작품의 분위기를 생생하게 전달하고 역사적 맥락을 제공하리라 믿어 의심치 않습니다. 여러분도 지금까지 거쳐 간 수많은 스토커들처럼 존과 그 불가사의를 사랑해 주시면 감사하겠습니다.\n \n그럼 즐거운 사냥을 기원하겠습니다!\n GSC Game World 팀 드림\n</text_ps5>
+	</string>
+
+	<string id="ui_pad_layout_lean_right">
+		<text>오른쪽 기울이기</text>
+	</string>
+
+	<string id="ui_pad_layout_lean_left">
+		<text>왼쪽 기울이기</text>
+	</string>
+
+	<string id="ui_pad_layout_crouch_cod">
+		<text>앉기/ (홀드) 엎드리기</text>
+	</string>
+
+	<string id="ui_pad_layout_sprint_crouch_old">
+		<text>달리기 / 엎드리기(앉아있을 때)</text>
+	</string>
+	<string id="ui_pad_layout_crouch_old">
+		<text>엎드리기(앉아있을 때)</text>
+	</string>
+
+	<string id="c_preset_default">
+		<text>전환</text>
+	</string>
+
+	<string id="c_type_general">
+		<text>일반 이동</text>
+	</string>
+
+	<string id="c_type_zomming">
+		<text>확대/축소 중</text>
+	</string>
+
+	<string id="c_type_wheel">
+		<text>휠 메뉴</text>
+	</string>
+
+	<string id="c_type_talk">
+		<text>대화 메뉴</text>
+	</string>
+
+	<string id="c_type_trade">
+		<text> 거래 메뉴</text>
+	</string>
+
+	<string id="c_type_inventory">
+		<text>인벤토리 메뉴</text>
+	</string>
+
+	<string id="ui_mm_controlls_preset">
+		<text> 구성</text>
+	</string>
+
+	<string id="legend_ui_tasks_toggle_map">
+		<text>$$ACTION_pda_tasks_toggle_map$$ 지도/정보</text>
+	</string>
+
+	<string id="st_display_mode_windowed_borderless">
+		<text>테두리 없는 전체화면</text>
+	</string>
+
+	<string id="st_pri_a19_lab_x10_info_descr">
+		<text>해당 문서에서는 안테나의 기술적 특성과 안테나가 설정된 값에서 어떻게 벗어나는지를 설명합니다. 문서의 반대쪽에는 메모가 적혀있는데, 이는 해당 문서가 X10 연구소에서 작성되었음을 보여줍니다.\n이 문서의 존재가 알려지면 우크라이나 보안국 분석관의 관심을 끌 것입니다. 그러므로 해당 문서는 다른 누구의 손에도 들어가서는 안 됩니다.</text>
+	</string>
+
+	<string id="st_pri_a19_lab_x10_info_name">
+		<text>무지개 방출기 - 주요 기술 특성</text>
+	</string>
+
+	<string id="st_pri_a19_lab_x16_info_descr">
+		<text>해당 문서에서는 연구에서 부가적으로 발견한 점을 언급하고 있습니다. 정확히는 실험체가 지정된 Psi 에미션을 생성할 수 있다는 점을 발견한 것으로 보입니다. 또한 거대한 두뇌이자 생체 파장 방출기가 X-16 연구소에서 자라고 있는 듯합니다.\n이 문서의 존재가 알려지면 우크라이나 보안국 분석관의 관심을 끌 것입니다. 그러므로 해당 문서는 다른 누구의 손에도 들어가서는 안 됩니다.</text>
+	</string>
+
+	<string id="st_pri_a19_lab_x16_info_name">
+		<text>연구 문서</text>
+	</string>
+
+	<string id="st_pri_a19_lab_x18_info_descr">
+		<text>해당 보고서에서는 X-18 연구소에서 보낸 생체 샘플의 연구 정보를 담고 있습니다. 해당 샘플들은 각각 다른 강도의 인지장에 노출되었다고 합니다. 이에 더해 보고서에는 에미션에 노출된 생명체의 변이를 자세히 설명하고 있습니다.\n이 문서의 존재가 알려지면 우크라이나 보안국 분석관의 관심을 끌 것입니다. 그러므로 해당 문서는 다른 누구의 손에도 들어가서는 안 됩니다.</text>
+	</string>
+
+	<string id="st_pri_a19_lab_x18_info_name">
+		<text>샘플 연구 보고서</text>
+	</string>
+
+	<string id="st_pri_a19_lab_x7_info_descr">
+		<text>해당 문서에서는 연구팀과 실험 재료를 X7 연구소로 이전한다는 내용을 담고 있습니다. X7 연구소에서는 누스피어의 영향을 연구하는 듯합니다. 연구팀 구성원은 다음과 같습니다. N.A. 레베데프, E.F. 칼란차, V.I. 수슬로프\n이 문서의 존재가 알려지면 우크라이나 보안국 분석관의 관심을 끌 것입니다. 그러므로 해당 문서는 다른 누구의 손에도 들어가서는 안 됩니다.</text>
+	</string>
+
+	<string id="st_pri_a19_lab_x7_info_name">
+		<text>이전 지시</text>
+	</string>
+
+	<string id="st_pri_b35_lab_x8_key_desc">
+		<text>붉은 마그네틱 키 카드입니다. X8이라고 표시되어 있습니다.</text>
+	</string>
+
+	<string id="st_pri_b35_lab_x8_key_name">
+		<text>붉은 X8 키 카드</text>
+	</string>
+
+	<string id="pri_a19_lab_x8_investigation_name">
+		<text>X8 연구소: 실험 관련 문서를 찾아라.</text>
+	</string>
+
+	<string id="pri_a19_lab_x8_investigation_text">
+		<text>찾은 정보에 의하면 X8이라는 중앙 연구소가 있다고 한다. 이 연구소에, 존에서 진행한 비밀 실험에 관한 정보가 있을 수도 있다.</text>
+	</string>
+
+	<string id="pri_a19_lab_x8_investigation_1_name">
+		<text>X8 연구소: 지하 단지를 떠나거나 계속 문서를 찾아라.</text>
+	</string>
+
+	<string id="pri_a19_lab_x8_investigation_1_text">
+		<text>문서를 찾았으니, 연구소에서 나가도 된다. 그런데 단지 안에 다른 문서들이 아직 있을 수도 있다.</text>
+	</string>
+
+	<string id="pri_a19_lab_x8_investigation_2_name">
+		<text>X8 연구소: 지하 단지를 떠나거나 계속 문서를 찾아라.</text>
+	</string>
+
+	<string id="pri_a19_lab_x8_investigation_2_text">
+		<text>문서를 찾았으니, 연구소에서 나가도 된다. 그런데 단지 안에 다른 문서들이 아직 있을 수도 있다.</text>
+	</string>
+
+	<string id="pri_a19_lab_x8_investigation_3_name">
+		<text>X8 연구소: 지하 단지에서 나가라.</text>
+	</string>
+
+	<string id="pri_a19_lab_x8_investigation_3_text">
+		<text>연구소에 있는 모든 문서를 수집한 듯하다. 이제 지하 단지에서 나가도 된다.</text>
+	</string>
+
+	<string id="ls_tip_92">
+		<text>게임을 일시 정지할 때는 "$$ACTION_PAUSE$$" 버튼을 누르세요.</text>
+	</string>
+	
+	<string id="legend_ui_add10">
+		<text>$$ACTION_UI_TAB_LEFT$$/$$ACTION_UI_TAB_RIGHT$$ +/- 10</text>
+	</string>
+
+	<string id="legend_ui_add100">
+		<text>$$ACTION_PDA_TASKS_MAP_ZOOM_IN$$/$$ACTION_PDA_TASKS_MAP_ZOOM_OUT$$ +/- 100</text>
+	</string>
+	
+	<string id="ui_mm_goto_store">
+		<text>$$ACTION_UI_ACTION_2$$ Microsoft Store로 이동</text>
+		<text_ps4>$$ACTION_UI_ACTION_2$$ PlayStation®Store로 이동</text_ps4>
+		<text_nx64>$$ACTION_UI_ACTION_2$$ Nintendo eShop로 이동</text_nx64>
+	</string>
+
+	<string id="ui_mm_goto_store_pc">
+		<text>Store로 이동</text>
+		<text_ps4>PlayStation®Store로 이동</text_ps4>
+		<text_xbox>Microsoft Store로 이동</text_xbox>
+	</string>
+
+	<string id="energy_drink_name">
+		<text>논스톱 에너지 음료</text>
+	</string>
+
+	<string id="energy_drink_short_name">
+		<text>논스톱 에너지 음료</text>
+	</string>
+
+	<string id="ui_modio_open">
+		<text>브라우저 열기</text>
+	</string>
+
+	<string id="ui_modio_loadorder">
+		<text>모드 로딩 순서</text>
+	</string>
+
+	<string id="ui_modio_logout">
+		<text>로그아웃</text>
+	</string>
+
+	<string id="ui_modio_email">
+		<text>이메일로 로그인 혹은 회원가입</text>
+	</string>
+
+	<string id="ui_modio_sendcode">
+		<text>이메일 코드</text>
+	</string>
+
+	<string id="ui_modio_code">
+		<text>이메일로 발송된 코드를 입력해 주세요.</text>
+	</string>
+
+	<string id="ui_modio_state">
+		<text>Mod.io 상태</text>
+	</string>
+
+	<string id="ui_modio_state_ready">
+		<text>플레이 준비 완료</text>
+	</string>
+
+	<string id="ui_modio_state_downloading">
+		<text>모드 다운로드 중</text>
+	</string>
+
+	<string id="ui_modio_state_updating">
+		<text>모드 업데이트 중</text>
+	</string>
+
+	<string id="ui_modio_state_removing">
+		<text>모드 제거 중</text>
+	</string>
+
+	<string id="ui_modio_user">
+		<text>사용자</text>
+	</string>
+
+	<string id="ui_modio_notlogged">
+		<text>연결 끊김</text>
+	</string>
+
+	<string id="ui_modio_loadorder_automatic">
+		<text>자동</text>
+	</string>
+
+	<string id="ui_modio_loadorder_desc">
+		<text>오버라이딩 방지를 위해 모드 로딩 순서를 설정하세요</text>
+	</string>
+
+	<string id="ui_mm_modmenu">
+		<text>Mod.io</text>
+	</string>
+
+	<string id="ui_mm_sws_menu">
+		<text>Steam 창작마당</text>
+	</string>
+
+	<string id="ui_modio_managerbusy">
+		<text>게임을 시작할 수 없습니다! mod.io 관리자가 작동 중이니 잠시만 기다려주세요</text>
+	</string>
+
+	<string id="ui_modio_nomemory">
+		<text>저장 공간이 부족해 설치할 수 없습니다.</text>
+	</string>
+
+	<string id="ui_modio_report">
+		<text>리포트</text>
+	</string>
+
+	<string id="ui_modio_memory">
+		<text>사용 메모리: </text>
+	</string>
+
+	<string id="ui_terms_of_use">
+		<text>이용약관 </text>
+	</string>
+
+	<string id="legend_ui_modio_edit_order">
+		<text>$$ACTION_UI_ACTION_2$$ 로드 순서 수정</text>
+	</string>
+
+	<string id="legend_ui_modio_edit_order_pc">
+		<text>로드 순서를 바꾸려면 클릭하세요.</text>
+		<text_ps5>눌러서 로딩 순서 변경</text_ps5>
+		<text_xbox>눌러서 로딩 순서 변경</text_xbox>
+	</string>
+
+	<string id="ui_modio_mod_name">
+		<text>모드 이름:</text>
+	</string>
+
+	<string id="ui_modio_mod_order">
+		<text>순서:</text>
+	</string>
+
+	<string id="ui_mm_adaptive_trigger">
+		<text>적응형 트리거</text>
+	</string>
+
+	<string id="ui_mm_controller_speaker_enable">
+		<text>컨트롤러 스피커</text>
+		<text_ps4>스피커 </text_ps4>
+	</string>
+
+	<string id="ui_mm_controller_speaker_volume">
+		<text>컨트롤러 스피커 볼륨</text>
+		<text_ps4>스피커 볼륨 </text_ps4>
+	</string>
+
+	<string id="ui_mm_transfer_saves">
+		<text>저장사항 전송</text>
+	</string>
+
+	<string id="ui_mm_enable_fsr">
+		<text>업스케일 유형</text>
+	</string>
+
+	<string id="ui_mm_enable_fsr_sharpen">
+		<text>FSR 선명화</text>
+	</string>
+
+	<string id="ui_mm_fsr_sharpeness">
+		<text>FSR 선명도</text>
+	</string>
+
+	<string id="ui_mm_enable_fsr_frame_generation">
+		<text>FSR 프레임 생성</text>
+	</string>
+
+	<string id="ui_mm_fsr_quality">
+		<text>업스케일 모드</text>
+	</string>
+
+	<string id="ui_mm_recommended_note">
+		<text>*VRR(Variable Refresh Rate) 화면을 권장합니다. 사용하지 않을 경우 화면 찢김이 발생할 수 있습니다.</text>
+	</string>
+
+	<string id="ui_grass_distance">
+		<text>풀 렌더링 거리</text>
+	</string>
+
+	<string id="ui_mm_enable_screen_space_shadows">
+		<text>Screen Space\nShadows</text>
+	</string>
+
+	<string id="ui_mm_enable_screen_space_reflections">
+		<text>Screen Space\nReflections</text>
+	</string>
+
+	<string id="ui_mm_input_method">
+		<text>입력 방법</text>
+	</string>
+
+	<string id="ui_mm_dynamic_music_volume">
+		<text>다이나믹 음악 볼륨</text>
+	</string>
+
+	<string id="ui_mm_enable_screen_space_global_ilumination">
+		<text>Screen Space Global\nIllumination</text>
+	</string>
+
+    <string id="ui_mm_enable_async_compute">
+        <text>Async Compute</text>
+    </string>
+
+	<string id="ui_mm_wireless_controller">
+		<text>무선 컨트롤러</text>
+	</string>
+
+	<string id="ui_mm_quality_modes">
+		<text>품질 모드</text>
+	</string>
+
+	<string id="ui_opt_quality">
+		<text>품질</text>
+	</string>
+
+	<string id="ui_opt_balanced">
+		<text>균형</text>
+	</string>
+
+	<string id="ui_opt_performance">
+		<text>성능</text>
+	</string>
+
+	<string id="ui_controller_update_needed">
+		<text>DualSense® 무선 컨트롤러 업데이트 필요</text>
+	</string>
+
+	<string id="ui_control_type_dualsense">
+		<text>DualSense® 무선 컨트롤러</text>
+	</string>
+
+	<string id="ui_modio_mod_unsubscribed">
+		<text>을(를) 본 플랫폼에선 이용할 수 없습니다! 해당 모드를 구독 해지했습니다.</text>
+	</string>
+
+	<string id="ui_opt_native">
+		<text>네이티브</text>
+	</string>
+
+	<string id="ui_opt_ultra_performance">
+		<text>울트라 퍼포먼스</text>
+	</string>
+
+	<string id="kb_current_task">
+		<text>현재 임무 보이기</text>
+	</string>
+
+	<string id="30_mode">
+		<text>품질 </text>
+	</string>
+
+	<string id="40_mode">
+		<text>균형 </text>
+	</string>
+
+	<string id="60_mode">
+		<text>성능 </text>
+	</string>
+
+	<string id="120_mode">
+		<text>울트라 퍼포먼스 </text>
+	</string>
+
+	<string id="120_mode*">
+		<text>울트라 퍼포먼스*</text>
+	</string>
+
+	<string id="ui_mm_camera_bobbing">
+		<text>카메라 흔들림</text>
+	</string>
+
+</string_table>

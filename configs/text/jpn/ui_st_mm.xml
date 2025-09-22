@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="Clear">
+		<text>晴れ</text>
+	</string>
+	<string id="Cloudy">
+		<text>曇り</text>
+	</string>
+	<string id="Default">
+		<text>中</text>
+	</string>
+	<string id="Extreme">
+		<text>最大</text>
+	</string>
+	<string id="High">
+		<text>高</text>
+	</string>
+	<string id="Low">
+		<text>低</text>
+	</string>
+	<string id="Minimum">
+		<text>最小</text>
+	</string>
+	<string id="Night">
+		<text>夜</text>
+	</string>
+	<string id="Rain">
+		<text>雨</text>
+	</string>
+	<string id="game type">
+		<text>ゲームタイプ</text>
+	</string>
+	<string id="gd_master">
+		<text>マスター</text>
+	</string>
+	<string id="gd_novice">
+		<text>ルーキー</text>
+	</string>
+	<string id="gd_veteran">
+		<text>ベテラン</text>
+	</string>
+	<string id="icon">
+		<text>アイコン</text>
+	</string>
+	<string id="map">
+		<text>マップ</text>
+	</string>
+	<string id="mm_mp_actret_time">
+		<text>作動して戻る</text>
+	</string>
+	<string id="mm_mp_allowvoting">
+		<text>投票を許可</text>
+	</string>
+	<string id="mm_mp_anomalytime">
+		<text>アノマリー時間（分）</text>
+	</string>
+	<string id="mm_mp_artefactcapture">
+		<text>アーティファクト奪取</text>
+	</string>
+	<string id="mm_mp_artefdelay">
+		<text>アーティファクト遅延（秒）</text>
+	</string>
+	<string id="mm_mp_artefnum">
+		<text>アーティファクトの数</text>
+	</string>
+	<string id="mm_mp_artefstay">
+		<text>アーティファクト寿命（分）</text>
+	</string>
+	<string id="mm_mp_artret_time">
+		<text>アーティファクト返還</text>
+	</string>
+	<string id="mm_mp_autoteambalance">
+		<text>チーム・オートバランス</text>
+	</string>
+	<string id="mm_mp_autoteamswap">
+		<text>チーム自動割り当て</text>
+	</string>
+	<string id="mm_mp_avail_maps">
+		<text>利用可能マップ</text>
+	</string>
+	<string id="mm_mp_cancel">
+		<text>キャンセル</text>
+	</string>
+	<string id="mm_mp_cd_key">
+		<text>CDキー</text>
+	</string>
+	<string id="mm_mp_check_cdkey">
+		<text>CDキーをチェック</text>
+	</string>
+	<string id="mm_mp_client">
+		<text>クライアント</text>
+	</string>
+	<string id="mm_mp_create">
+		<text>編成</text>
+	</string>
+	<string id="mm_mp_damageblock">
+		<text>不死（秒）</text>
+	</string>
+	<string id="mm_mp_damageblockindicator">
+		<text>不死インジケーター</text>
+	</string>
+	<string id="mm_mp_deaths">
+		<text>死者数</text>
+	</string>
+	<string id="mm_mp_dedicated">
+		<text>専用</text>
+	</string>
+	<string id="mm_mp_demo_play_list">
+		<text>デモ・リスト</text>
+	</string>
+	<string id="mm_mp_demo_play_players_stats">
+		<text>プレイヤー統計</text>
+	</string>
+	<string id="mm_mp_demosave">
+		<text>デモを記録</text>
+	</string>
+	<string id="mm_mp_demosave_options">
+		<text>デモ記録</text>
+	</string>
+	<string id="mm_mp_empty">
+		<text>無人</text>
+	</string>
+	<string id="mm_mp_filters">
+		<text>フィルタ</text>
+	</string>
+	<string id="mm_mp_forcerespawn">
+		<text>強制復活（秒）</text>
+	</string>
+	<string id="mm_mp_fraglimit">
+		<text>フラグ制限</text>
+	</string>
+	<string id="mm_mp_frags">
+		<text>フラグ</text>
+	</string>
+	<string id="mm_mp_freezetime">
+		<text>凍結時間</text>
+	</string>
+	<string id="mm_mp_friendlyfire">
+		<text>友軍射撃</text>
+	</string>
+	<string id="mm_mp_friendlyindicators">
+		<text>友軍インジケーター</text>
+	</string>
+	<string id="mm_mp_friendlynames">
+		<text>友軍名</text>
+	</string>
+	<string id="mm_mp_full">
+		<text>満員</text>
+	</string>
+	<string id="mm_mp_gamemode">
+		<text>モード</text>
+	</string>
+	<string id="mm_mp_host_port">
+		<text>IP/ホスト：ポート</text>
+	</string>
+	<string id="mm_mp_internet">
+		<text>インターネット</text>
+	</string>
+	<string id="mm_mp_join">
+		<text>接続</text>
+	</string>
+	<string id="mm_mp_lan">
+		<text>LAN</text>
+	</string>
+	<string id="mm_mp_listenservers">
+		<text>リッスン</text>
+	</string>
+	<string id="mm_mp_load_demo">
+		<text>リピート</text>
+	</string>
+	<string id="mm_mp_mapratation">
+		<text>マップリスト</text>
+	</string>
+	<string id="mm_mp_maxplayers">
+		<text>最大プレイヤー数</text>
+	</string>
+	<string id="mm_mp_network_connection">
+		<text>ネットワーク接続</text>
+	</string>
+	<string id="mm_mp_noanomalies">
+		<text>アノマリーなし</text>
+	</string>
+	<string id="mm_mp_options">
+		<text>オプション</text>
+	</string>
+	<string id="mm_mp_password">
+		<text>パスワード</text>
+	</string>
+	<string id="mm_mp_player_name">
+		<text>プレイヤー名：</text>
+	</string>
+	<string id="mm_mp_players">
+		<text>プレイヤー名：</text>
+	</string>
+	<string id="mm_mp_players_count">
+		<text>プレイヤー数</text>
+	</string>
+	<string id="mm_mp_publicserver">
+		<text>インターネット・サーバー</text>
+	</string>
+	<string id="mm_mp_quickrefresh">
+		<text>クイック更新</text>
+	</string>
+	<string id="mm_mp_rateofchange">
+		<text>係数変更</text>
+	</string>
+	<string id="mm_mp_refresh">
+		<text>すべて更新</text>
+	</string>
+	<string id="mm_mp_reinforcement">
+		<text>援軍（秒）</text>
+	</string>
+	<string id="mm_mp_respawnoptions">
+		<text>復活オプション</text>
+	</string>
+	<string id="mm_mp_sel_maps">
+		<text>選択されたマップ</text>
+	</string>
+	<string id="mm_mp_server">
+		<text>サーバー</text>
+	</string>
+	<string id="mm_mp_server_list">
+		<text>サーバーリスト</text>
+	</string>
+	<string id="mm_mp_server_prop">
+		<text>サーバープロパティ</text>
+	</string>
+	<string id="mm_mp_serverinfo">
+		<text>サーバー情報</text>
+	</string>
+	<string id="mm_mp_serverlist">
+		<text>サーバー</text>
+	</string>
+	<string id="mm_mp_servername">
+		<text>サーバー名</text>
+	</string>
+	<string id="mm_mp_serversettings">
+		<text>サーバー設定</text>
+	</string>
+	<string id="mm_mp_spectator">
+		<text>観戦</text>
+	</string>
+	<string id="mm_mp_spectator_firsteye">
+		<text>一人称視点</text>
+	</string>
+	<string id="mm_mp_spectator_freefly">
+		<text>フリーカメラ</text>
+	</string>
+	<string id="mm_mp_spectator_freelook">
+		<text>フリーロック</text>
+	</string>
+	<string id="mm_mp_spectator_lookat">
+		<text>三人称視点</text>
+	</string>
+	<string id="mm_mp_spectator_options">
+		<text>観戦設定</text>
+	</string>
+	<string id="mm_mp_spectator_teamonly">
+		<text>チームのみ</text>
+	</string>
+	<string id="mm_mp_startweather">
+		<text>開始時の天候</text>
+	</string>
+	<string id="mm_mp_team_stats">
+		<text>スコア</text>
+	</string>
+	<string id="mm_mp_timelimit">
+		<text>時間制限（分）</text>
+	</string>
+	<string id="mm_mp_warmuptime">
+		<text>ウォームアップ（秒）</text>
+	</string>
+	<string id="mm_mp_weatheroptions">
+		<text>天候オプション</text>
+	</string>
+	<string id="mm_mp_withoutfriendlyfire">
+		<text>友軍射撃なし</text>
+	</string>
+	<string id="mm_mp_withoutpassword">
+		<text>パスワードなし</text>
+	</string>
+	<string id="mm_mp_withoutpunkbuster">
+		<text>パンクバスターなし</text>
+	</string>
+	<string id="mm_mp_withpassword">
+		<text>パスワード使用</text>
+	</string>
+	<string id="mm_offline_mode">
+		<text>LAN</text>
+	</string>
+	<string id="mm_online_mode">
+		<text>インターネット</text>
+	</string>
+	<string id="mp_agroprom">
+		<text>アグロプロム工場</text>
+	</string>
+	<string id="mp_atp">
+		<text>車両置き場</text>
+	</string>
+	<string id="mp_bath">
+		<text>実験プール</text>
+	</string>
+	<string id="mp_change_unick_success">
+		<text>ユニーク名の変更に成功しました！</text>
+	</string>
+	<string id="mp_darkvalley">
+		<text>ダークバレー</text>
+	</string>
+	<string id="mp_factory">
+		<text>ヤンター工場</text>
+	</string>
+	<string id="mp_gamespy_atlas_error">
+		<text>統計サーバーへの接続エラー</text>
+	</string>
+	<string id="mp_gamespy_ws_login_error">
+		<text>サーバーでのログイン接続エラー</text>
+	</string>
+	<string id="mp_login_success">
+		<text>認可に成功しました</text>
+	</string>
+	<string id="mp_lost_village">
+		<text>荒れ果てた村</text>
+	</string>
+	<string id="mp_military_1">
+		<text>軍事倉庫</text>
+	</string>
+	<string id="mp_nick_name_not_valid">
+		<text>名前が間違っています。</text>
+	</string>
+	<string id="mp_pool">
+		<text>プール</text>
+	</string>
+	<string id="mp_railroad">
+		<text>鉄道駅</text>
+	</string>
+	<string id="mp_rostok">
+		<text>ロストク工場</text>
+	</string>
+	<string id="mp_unique_nick_not_valid">
+		<text>ユニーク名が間違っています。</text>
+	</string>
+	<string id="mp_want_to_delete_demo">
+		<text>削除してもよろしいですか？</text>
+	</string>
+	<string id="mp_workshop">
+		<text>荒廃した工場</text>
+	</string>
+	<string id="ping">
+		<text>PING</text>
+	</string>
+	<string id="players">
+		<text>プレイヤー</text>
+	</string>
+	<string id="renderer_r1">
+		<text>スタティックライティング</text>
+	</string>
+	<string id="renderer_r2">
+		<text>フルダイナミックライティング</text>
+	</string>
+	<string id="renderer_r2.5">
+		<text>フルダイナミックライティング強</text>
+	</string>
+	<string id="renderer_r2a">
+		<text>オブジェクトダイナミックライティング</text>
+	</string>
+	<string id="renderer_r3">
+		<text>フルダイナミックライティング強Dx10</text>
+	</string>
+	<string id="server name">
+		<text>サーバー名</text>
+	</string>
+	<string id="st_artefacthunt">
+		<text>アーティファクトハント</text>
+	</string>
+	<string id="st_capture_the_artefact">
+		<text>アーティファクト奪取</text>
+	</string>
+	<string id="st_deathmatch">
+		<text>フリー・フォー・オール</text>
+	</string>
+	<string id="st_mp_gsfilter">
+		<text>フィルタ：</text>
+	</string>
+	<string id="st_opt_high">
+		<text>高</text>
+	</string>
+	<string id="st_opt_low">
+		<text>低</text>
+	</string>
+	<string id="st_opt_medium">
+		<text>中</text>
+	</string>
+	<string id="st_opt_off">
+		<text>無効</text>
+	</string>
+	<string id="st_rank_experienced">
+		<text>経験者</text>
+	</string>
+	<string id="st_rank_legend">
+		<text>伝説のストーカー</text>
+	</string>
+	<string id="st_rank_novice">
+		<text>ルーキー</text>
+	</string>
+	<string id="st_rank_professional">
+		<text>プロフェッショナル</text>
+	</string>
+	<string id="st_rank_veteran">
+		<text>ベテラン</text>
+	</string>
+	<string id="st_team_deathmatch">
+		<text>チームプレイ</text>
+	</string>
+	<string id="ui_mm_60_hz">
+		<text>周波数60Hz</text>
+	</string>
+	<string id="ui_mm_action">
+		<text>行動</text>
+	</string>
+	<string id="ui_mm_advanced">
+		<text>詳細設定</text>
+	</string>
+	<string id="ui_mm_alternative">
+		<text>補助</text>
+	</string>
+	<string id="ui_mm_anisotropic">
+		<text>異方性フィルタリング</text>
+	</string>
+	<string id="ui_mm_apply">
+		<text>適用</text>
+	</string>
+	<string id="ui_mm_back">
+		<text>戻る</text>
+	</string>
+	<string id="ui_mm_blood">
+		<text>血</text>
+	</string>
+	<string id="ui_mm_brightness">
+		<text>明るさ</text>
+	</string>
+	<string id="ui_mm_cancel">
+		<text>キャンセル</text>
+	</string>
+	<string id="ui_mm_check_updates">
+		<text>ゲームアップデート</text>
+	</string>
+	<string id="ui_mm_contrast">
+		<text>コントラスト</text>
+	</string>
+	<string id="ui_mm_controls">
+		<text>コントロール</text>
+	</string>
+	<string id="ui_mm_credits">
+		<text>クレジット</text>
+	</string>
+	<string id="ui_mm_crosshair_distance">
+		<text>照準の目標距離</text>
+	</string>
+	<string id="ui_mm_default">
+		<text>デフォルト</text>
+	</string>
+	<string id="legend_ui_default">
+		<text>$$ACTION_UI_ACTION_1$$ デフォルト</text>
+	</string>
+	<string id="ui_mm_delete">
+		<text>削除</text>
+	</string>
+	<string id="ui_mm_delete_existing_file_q">
+		<text>ファイルを削除してよろしいですか？</text>
+	</string>
+	<string id="ui_mm_detail_density">
+		<text>草の詳細描写</text>
+	</string>
+	<string id="ui_mm_difficulty">
+		<text>難易度</text>
+	</string>
+	<string id="ui_mm_disconnect">
+		<text>切断</text>
+	</string>
+	<string id="ui_mm_disconnect_message">
+		<text>切断してよろしいですか？</text>
+	</string>
+	<string id="ui_mm_dof">
+		<text>被写界深度</text>
+	</string>
+	<string id="ui_mm_dyn_crosshair">
+		<text>ダイナミック照準</text>
+	</string>
+	<string id="ui_mm_dynamic_music">
+		<text>ダイナミックBGM</text>
+	</string>
+	<string id="ui_mm_eax">
+		<text>EAX</text>
+	</string>
+	<string id="ui_mm_fullscreen">
+		<text>フルスクリーン</text>
+	</string>
+	<string id="ui_mm_gameplay">
+		<text>ゲーム</text>
+	</string>
+	<string id="ui_mm_gamma">
+		<text>ガンマ</text>
+	</string>
+	<string id="ui_mm_geometry_lod">
+		<text>オブジェクト詳細表示</text>
+	</string>
+	<string id="ui_mm_invert_mouse">
+		<text>カメラ反転</text>
+	</string>
+	<string id="ui_mm_key">
+		<text>ボタン</text>
+	</string>
+	<string id="ui_mm_keyboard_setup">
+		<text>キーボード設定</text>
+	</string>
+	<string id="ui_mm_last_save">
+		<text>最新のセーブゲーム</text>
+	</string>
+	<string id="ui_mm_light_distance">
+		<text>照明距離</text>
+	</string>
+	<string id="ui_mm_load">
+		<text>ロード</text>
+	</string>
+	<string id="ui_mm_load_game">
+		<text>ロード</text>
+	</string>
+	<string id="ui_mm_logout">
+		<text>プロフィール終了</text>
+	</string>
+	<string id="ui_mm_master">
+		<text>マスター</text>
+	</string>
+	<string id="ui_mm_master_volume">
+		<text>SFX音量</text>
+	</string>
+	<string id="ui_mm_mouse_sense">
+		<text>マウス感度</text>
+	</string>
+	<string id="ui_mm_msaa_alphatest">
+		<text>スムースAテスト・オブジェクト</text>
+	</string>
+	<string id="ui_mm_msaa_opt">
+		<text>スムージングを最適化</text>
+	</string>
+	<string id="ui_mm_multiplayer">
+		<text>マルチプレイ</text>
+	</string>
+	<string id="ui_mm_multiplayer_n">
+		<text>マルチプレイ</text>
+	</string>
+	<string id="ui_mm_music_volume">
+		<text>BGM音量</text>
+	</string>
+	<string id="ui_mm_need_restart">
+		<text>変更はゲーム再起動後に適用されます。</text>
+	</string>
+	<string id="ui_mm_network_game">
+		<text>マルチプレイ</text>
+	</string>
+	<string id="ui_mm_newgame">
+		<text>ニューゲーム</text>
+	</string>
+	<string id="ui_mm_novice">
+		<text>ルーキー</text>
+	</string>
+	<string id="ui_mm_npc_torch">
+		<text>NPC懐中電灯</text>
+	</string>
+	<string id="ui_mm_options">
+		<text>オプション</text>
+	</string>
+	<string id="ui_mm_options_n">
+		<text>オプション</text>
+	</string>
+	<string id="ui_mm_particles_distance">
+		<text>パーティクルの間隔</text>
+	</string>
+	<string id="ui_mm_quality_presets">
+		<text>質の設定</text>
+	</string>
+	<string id="ui_mm_quit2windows">
+		<text>ウィンドウズへ戻る</text>
+	</string>
+	<string id="ui_mm_quit_game">
+		<text>ゲームを終了</text>
+	</string>
+	<string id="ui_mm_quit_game_message">
+		<text>ゲームを終了しますか？</text>
+	</string>
+	<string id="ui_mm_quit_windows_message">
+		<text>ウィンドウズ画面に戻りますか？</text>
+	</string>
+	<string id="ui_mm_r2_detail_bump">
+		<text>詳細バンプ</text>
+	</string>
+	<string id="ui_mm_r2_steep_parallax">
+		<text>急勾配視差</text>
+	</string>
+	<string id="ui_mm_r2_sun">
+		<text>陽光の影</text>
+	</string>
+	<string id="ui_mm_r2_sun_details">
+		<text>草の影</text>
+	</string>
+	<string id="ui_mm_r2_sun_quality">
+		<text>陽光の質</text>
+	</string>
+	<string id="ui_mm_r3_DX10_1">
+		<text>DX10.1を使用</text>
+	</string>
+	<string id="ui_mm_r3_MSAA">
+		<text>フルスクリーン・スムージング</text>
+	</string>
+	<string id="ui_mm_r3_dynamic_wet_surfaces">
+		<text>濡れた表面</text>
+	</string>
+	<string id="ui_mm_r3_gbuffer_opt">
+		<text>幾何学的バッファを最適化</text>
+	</string>
+	<string id="ui_mm_r3_volumetric_smoke">
+		<text>煙の容積</text>
+	</string>
+	<string id="ui_mm_render_2">
+		<text>レンダリング2</text>
+	</string>
+	<string id="ui_mm_renderer">
+		<text>レンダリング・タイプ</text>
+	</string>
+	<string id="ui_mm_resolution">
+		<text>解像度</text>
+	</string>
+	<string id="ui_mm_return_game">
+		<text>ゲームに戻る</text>
+	</string>
+	<string id="ui_mm_save">
+		<text>セーブ</text>
+	</string>
+	<string id="ui_mm_save_game">
+		<text>セーブ</text>
+	</string>
+	<string id="ui_mm_show_crosshair">
+		<text>照準を表示</text>
+	</string>
+	<string id="ui_mm_show_weapon">
+		<text>武器を表示</text>
+	</string>
+	<string id="ui_mm_simply">
+		<text>基本</text>
+	</string>
+	<string id="ui_mm_snd_device">
+		<text>サウンドデバイス</text>
+	</string>
+	<string id="ui_mm_soft_particles">
+		<text>ソフトパーティクル</text>
+	</string>
+	<string id="ui_mm_soft_water">
+		<text>ソフトウォーター</text>
+	</string>
+	<string id="ui_mm_sound">
+		<text>サウンド</text>
+	</string>
+	<string id="ui_mm_sound_quality">
+		<text>サウンドの質</text>
+	</string>
+	<string id="ui_mm_stalker">
+		<text>ストーカー</text>
+	</string>
+	<string id="ui_mm_sun_quality">
+		<text>影の質</text>
+	</string>
+	<string id="ui_mm_sun_shafts">
+		<text>太陽光</text>
+	</string>
+	<string id="ui_mm_supersample">
+		<text>アンチエイリアシング</text>
+	</string>
+	<string id="ui_mm_switch_torch">
+		<text>AI使用懐中電灯</text>
+	</string>
+	<string id="ui_mm_texture_quality">
+		<text>テクスチャーの質</text>
+	</string>
+	<string id="ui_mm_texture_sharpness">
+		<text>テクスチャのシャープネス(ミップマップのバイアス)</text>
+	</string>
+	<string id="ui_mm_texture_sharpness_note">
+		<text>高い値では、チラつきを軽減するためにDLSS/FSRをネイティブにして使用することをお勧めします</text>
+	</string>
+	<string id="ui_mm_tips">
+		<text>NPC id</text>
+	</string>
+	<string id="ui_mm_veteran">
+		<text>ベテラン</text>
+	</string>
+	<string id="ui_mm_video">
+		<text>ビデオ</text>
+	</string>
+	<string id="ui_mm_vis_distance">
+		<text>映像距離</text>
+	</string>
+	<string id="ui_mm_volumetric_light">
+		<text>光の容積</text>
+	</string>
+	<string id="ui_mm_vsync">
+		<text>垂直同期</text>
+	</string>
+	<string id="ui_mp_gamespy_changing_unique_nick">
+		<text>ユニーク名を変更</text>
+	</string>
+	<string id="ui_mp_gamespy_email_already_exist">
+		<text>このEメール・アドレスはすでに使用されています。</text>
+	</string>
+	<string id="ui_mp_internet">
+		<text>インターネット経由</text>
+	</string>
+	<string id="ui_mp_localnet">
+		<text>LAN経由</text>
+	</string>
+	<string id="ui_st_backstabks_in_row">
+		<text>後ろから殺害</text>
+	</string>
+	<string id="ui_st_bleed_kills_in_row">
+		<text>失血による殺害</text>
+	</string>
+	<string id="ui_st_explosive_kills_in_row">
+		<text>爆発による殺害</text>
+	</string>
+	<string id="ui_st_eye_kills_in_row">
+		<text>目を撃って殺害</text>
+	</string>
+	<string id="ui_st_headshots_in_row">
+		<text>頭を撃って殺害</text>
+	</string>
+	<string id="ui_st_invalid_saved_game">
+		<text>セーブファイルのバージョンがゲームのバージョンと一致していません。</text>
+	</string>
+	<string id="ui_st_kills_in_row">
+		<text>殺害</text>
+	</string>
+	<string id="ui_st_knife_kills_in_row">
+		<text>ナイフで殺害</text>
+	</string>
+	<string id="ui_st_last_set">
+		<text>最後の装備</text>
+	</string>
+	<string id="ui_st_mp_local_network_login_page">
+		<text>マルチプレイに参加</text>
+	</string>
+	<string id="ui_st_mp_nickname">
+		<text>名前</text>
+	</string>
+	<string id="ui_st_mp_try_change">
+		<text>変更</text>
+	</string>
+	<string id="ui_st_preset1">
+		<text>装備1</text>
+	</string>
+	<string id="ui_st_preset2">
+		<text>装備2</text>
+	</string>
+	<string id="ui_st_preset3">
+		<text>装備3</text>
+	</string>
+	<string id="ui_st_reset">
+		<text>リセット</text>
+	</string>
+	<string id="ui_st_sell_all">
+		<text>すべてを売る</text>
+	</string>
+	<string id="version">
+		<text>ver</text>
+	</string>
+	<string id="mp_pripyat">
+		<text>プリピャチ</text>
+	</string>
+	<string id="ui_mm_crouch_toggle">
+		<text>かがむ／立つモード</text>
+	</string>
+	<string id="ui_mm_important_save">
+		<text>オートセーブ</text>
+	</string>
+	<string id="ui_mm_r1_detail_textures">
+		<text>詳細テクスチャー</text>
+	</string>
+	<string id="mm_mp_demo">
+		<text>ムービー</text>
+	</string>
+	<string id="ui_st_mp_login">
+		<text>入る</text>
+	</string>
+	<string id="ui_st_mp_logout">
+		<text>終了</text>
+	</string>
+	<string id="ui_st_mp_create">
+		<text>編成</text>
+	</string>
+	<string id="mp_gp_unknown_email_or_bad_password">
+		<text>Eメールかパスワードが間違っています</text>
+	</string>
+	<string id="mp_gp_parameter_error">
+		<text>プロフィールが間違っています</text>
+	</string>
+	<string id="mp_gp_network_error">
+		<text>接続エラー</text>
+	</string>
+	<string id="mp_gp_server_error">
+		<text>サーバーは現在利用できません</text>
+	</string>
+	<string id="mp_gp_unknown_error_2">
+		<text>プロフィール・ログインが要求されました</text>
+	</string>
+	<string id="mp_gp_unknown_error_6">
+		<text>接続エラー</text>
+	</string>
+	<string id="mp_gp_unknown_error_7">
+		<text>接続エラー</text>
+	</string>
+	<string id="mp_gp_unknown_error_8">
+		<text>接続エラー</text>
+	</string>
+	<string id="mp_gp_unknown_error_513">
+		<text>プロフィール名が間違っています</text>
+	</string>
+	<string id="mp_gp_unknown_error_514">
+		<text>パスワードが間違っています</text>
+	</string>
+	<string id="mp_gp_unknown_error_515">
+		<text>ニックネームが間違っています</text>
+	</string>
+	<string id="mp_gp_unknown_error_516">
+		<text>そのニックネームはすでに使われています</text>
+	</string>
+	<string id="mp_first_need_to_login">
+		<text>最初にプロフィールにログインしてください</text>
+	</string>
+	<string id="mp_first_need_to_logout">
+		<text>最初にプロフィールからログアウトしてください</text>
+	</string>
+	<string id="mp_gamespy_http_error">
+		<text>プロフィール・サーバー接続エラー</text>
+	</string>
+	<string id="ui_st_you_cannot_delete_profile_after_creation">
+		<text>プロフィールを作成した後に削除することはできません</text>
+	</string>
+	<string id="ui_mm_ssao_quality">
+		<text>SSAOの質</text>
+	</string>
+	<string id="ui_mm_ssao_text">
+		<text>SSAOモード</text>
+	</string>
+	<string id="ui_mm_ssao">
+		<text>デフォルト</text>
+	</string>
+	<string id="ui_mm_hdao">
+		<text>HDAO</text>
+	</string>
+	<string id="ui_mm_hbao">
+		<text>HBAO</text>
+	</string>
+	<string id="ui_st_disable_hud">
+		<text>インターフェースを表示</text>
+	</string>
+	<string id="mp_gp_unique_nick_not_registred">
+		<text>ニックネームが登録されていませんので、登録してください。</text>
+	</string>
+	<string id="mp_gp_unique_nick_has_expired">
+		<text>ニックネームの期限が切れています。再登録してください。</text>
+	</string>
+	<string id="gd_stalker">
+		<text>ストーカー</text>
+	</string>
+	<string id="st_opt_extreme">
+		<text>最高</text>
+	</string>
+	<string id="renderer_r4">
+		<text>フルダイナミックライティング強(DX11)</text>
+	</string>
+	<string id="mp_please_login">
+		<text>外部サーバーに接続するためにログインしてください。</text>
+	</string>
+	<string id="mp_already_logged_in">
+		<text>このGameSpy IDは使用されています。別のGameSpy IDを使用してください。</text>
+	</string>
+	<string id="mp_gp_unknown_email">
+		<text>Eメールが間違っています</text>
+	</string>
+	<string id="mp_gp_bad_password">
+		<text>パスワードが間違っています</text>
+	</string>
+	<string id="mp_use_offline_mode">
+		<text>ローカル・サーバーに接続するためにGameSpy IDを使用することはできません。LANゲーム・モードを使用してください。</text>
+	</string>
+	<string id="st_kicked_by_server">
+		<text>サーバーに拒否されました。</text>
+	</string>
+	<string id="mp_you_have_been_banned_by">
+		<text>管理者によって禁止されました：</text>
+	</string>
+	<string id="mp_you_have_been_banned_by_server">
+		<text>サーバーによって禁止されました。</text>
+	</string>
+	<string id="mp_server_info">
+		<text>サーバー情報</text>
+	</string>
+	<string id="mp_gp_email_is_too_big">
+		<text>Eメールアドレスが長すぎます。50文字以上を入力できません。</text>
+	</string>
+	<string id="mp_gp_bad_email">
+		<text>Eメールが間違っています</text>
+	</string>
+	<string id="mp_gp_password_is_too_small">
+		<text>パスワードが短すぎます</text>
+	</string>
+	<string id="mp_gp_password_is_too_big">
+		<text>パスワードが長すぎます</text>
+	</string>
+	<string id="mp_gp_no_email">
+		<text>Eメールが見つかりません</text>
+	</string>
+	<string id="mp_gp_no_unique_nick">
+		<text>ニックネームが設定されていません</text>
+	</string>
+	<string id="mp_gp_unique_nick_is_too_big">
+		<text>ニックネームが長すぎます。30文字以上を入力できません。</text>
+	</string>
+	<string id="mp_gp_unique_nick_must_contain_only">
+		<text>ニックネームには数字しか含めません。ラテン文字や次の特別シンボルを含んでいます："#$&amp;'()*+-./:;&lt;=>?@[]^_`{|}~</text>
+	</string>
+	<string id="mp_gp_unique_nick_must_contain_nospaces">
+		<text>ニックネームにはスペースを入れられません。</text>
+	</string>
+	<string id="mp_gp_unique_nick_bad_first_symbol">
+		<text>ニックネームは数字や次のシンボルから始められません：'@', '+', ':' or ‘#’</text>
+	</string>
+	<string id="st_opt_ultra">
+		<text>非常に高</text>
+	</string>
+	<string id="ui_mm_r4_enable_tessellation">
+		<text>モザイク化</text>
+	</string>
+	<string id="ui_mm_confirm_changes">
+		<text>変更しますか？：</text>
+	</string>
+	<string id="ui_mm_restore_default_settings">
+		<text>初期設定に戻してもよろしいですか？</text>
+	</string>
+
+	<string id="ui_mainmenu_autosave">
+		<text>オートセーブ - </text>
+	</string>
+
+	<string id="ui_mainmenu_manualsave">
+		<text>手動セーブ - </text>
+	</string>
+
+	<string id="ui_mainmenu_quicksave">
+		<text>クイックセーブ - </text>
+	</string>
+
+	<string id="ui_mm_frame_limit">
+		<text>フレーム制限</text>
+	</string>
+
+	<string id="st_opt_unlimited">
+		<text>無制限</text>
+	</string>
+
+	<string id="ui_mm_sprint_toggle">
+		<text>ダッシュの切り替え</text>
+	</string>
+
+	<string id="mp_close_combat">
+		<text>コンテナ倉庫</text>
+	</string>
+
+	<string id="st_display_mode_windowed">
+		<text>ウィンドウ表示</text>
+	</string>
+
+	<string id="st_display_mode_borderless">
+		<text>ウィンドウモード（境界線無し）</text>
+	</string>
+	
+	<string id="ui_mm_fov">
+		<text>視界</text>
+	</string>
+	<string id="ui_mm_display_mode">
+		<text>表示モード</text>
+	</string>	
+	
+	<string id="ui_mm_challenges">
+		<text>チャレンジ</text>
+	</string>	
+	<string id="ui_mm_autoaim_enable">
+		<text>エイムアシスト：有効</text>
+	</string>
+
+	<string id="ui_mm_autoaim_enabletracking">
+		<text>エイムアシスト追跡：有効</text>
+	</string>
+
+	<string id="ui_mm_autoaim_strength">
+		<text>エイムアシストの強度</text>
+	</string>
+
+	<string id="ui_mm_gyroscope_enable">
+        <text>ジャイロスコープ：有効</text>
+        <text_nx64>ジャイロセンサー：有効</text_nx64>
+    	<text_ps4>モーションセンサー：有効</text_ps4>
+	</string>
+    <string id="ui_mm_gyroscope_sens_h">
+        <text>ジャイロスコープの水平感度</text>
+        <text_nx64>ジャイロセンサーの水平感度</text_nx64>
+    	<text_ps4>モーションセンサーの水平感度</text_ps4>
+	</string>
+    <string id="ui_mm_gyroscope_sens_v">
+        <text>ジャイロスコープの垂直感度</text>
+        <text_nx64>ジャイロセンサーの垂直感度</text_nx64>
+    	<text_ps4>モーションセンサーの垂直感度</text_ps4>
+	</string>
+    <string id="ui_mm_gyro_smoothing">
+        <text>ジャイロスコープのスムージングを有効にする</text>
+        <text_nx64>ジャイロセンサーのスムージングを有効にする</text_nx64>
+    	<text_ps4>モーションセンサーのスムージングを有効にする</text_ps4>
+	</string>
+    <string id="ui_mm_gyro_onlyaim">
+        <text>エイム中のみジャイロスコープを有効にする</text>
+        <text_nx64>エイム中のみジャイロセンサーを有効にする</text_nx64>
+    	<text_ps4>照準時のみモーションセンサーを有効にする</text_ps4>
+	</string>
+    <string id="ui_mm_gyro_smooth_threshold2">
+        <text>ジャイロスコープの安定化</text>
+        <text_nx64>ジャイロセンサーの安定化</text_nx64>
+    	<text_ps4>モーションセンサーの安定化</text_ps4>
+	</string>
+    <string id="ui_mm_gyro_invertH">
+        <text>水平ジャイロスコープ軸を反転する</text>
+        <text_nx64>水平ジャイロセンサー軸を反転する</text_nx64>
+    	<text_ps4>モーションセンサーの横軸を反転</text_ps4>
+	</string>
+    <string id="ui_mm_gyro_invertV">
+        <text>垂直ジャイロスコープ軸を反転する</text>
+        <text_nx64>垂直ジャイロセンサー軸を反転する</text_nx64>
+    	<text_ps4>モーションセンサーの縦軸を反転</text_ps4>
+	</string>
+
+
+	<string id="ui_mm_overwrite_save">
+		<text>エントリーは削除され、上書きされます。続行しますか？</text>
+	</string>
+
+	<string id="ui_mm_controlls_type">
+		<text>アクション</text>
+	</string>
+	<string id="ui_pad_layout_select">
+		<text>選択</text>
+	</string>
+	<string id="ui_pad_layout_back">
+		<text>戻る</text>
+	</string>
+	<string id="ui_pad_layout_trade">
+		<text>取引</text>
+	</string>
+	<string id="ui_pad_layout_talk">
+		<text>会話</text>
+	</string>
+	<string id="ui_pad_layout_scroll_info">
+		<text>情報をスクロール</text>
+	</string>
+	<string id="ui_pad_layout_actions">
+		<text>アクション</text>
+	</string>
+	<string id="ui_pad_layout_switch_area">
+		<text>エリアの切り替え</text>
+	</string>
+	<string id="ui_pad_layout_wheelmenu_select">
+		<text>選択セクター</text>
+	</string>
+	<string id="ui_pad_layout_fire_rate">
+		<text>射撃速度</text>
+	</string>
+	<string id="ui_pad_layout_drop">
+		<text>武器を落とす</text>
+	</string>
+	<string id="ui_pad_layout_grande_luncher">
+		<text>追加の武器</text>
+	</string>
+	<string id="ui_pad_layout_ammo_type">
+		<text>弾薬の種類</text>
+	</string>
+	<string id="ui_pad_layout_night_vision">
+		<text>ナイトビジョン</text>
+	</string>
+	<string id="c_preset_cod_like">
+		<text>デフォルト</text>
+	</string>
+	<string id="ui_pad_layout_reload_interact">
+		<text>リロード / アクション</text>
+	</string>
+	<string id="ui_pad_layout_inventory_info">
+		<text>情報</text>
+	</string>
+	<string id="ui_pad_layout_trade_upgrade">
+		<text>取引 / アップグレード</text>
+	</string>
+</string_table>

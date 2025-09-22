@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="speech_attack">
+		<text>全員、攻撃だ！</text>
+	</string>
+	<string id="speech_covermeartifact">
+		<text>アーティファクトへ行くぞ！援護しろ！</text>
+	</string>
+	<string id="speech_followme">
+		<text>俺に続け！</text>
+	</string>
+	<string id="speech_guardartifact">
+		<text>今はアーティファクトを守る。誰も攻撃をするな！</text>
+	</string>
+	<string id="speech_holdingpos">
+		<text>俺は陣地を守っている。</text>
+	</string>
+	<string id="speech_holdpos">
+		<text>その場所を守れ！</text>
+	</string>
+	<string id="speech_icoverartifact">
+		<text>アーティファクトを取れ！俺が援護する！</text>
+	</string>
+	<string id="speech_needhelp">
+		<text>助けが必要だ。</text>
+	</string>
+	<string id="speech_needmoney">
+		<text>金が必要だ。もっと装備を買え！</text>
+	</string>
+	<string id="speech_no">
+		<text>いや。</text>
+	</string>
+	<string id="speech_noenemy">
+		<text>誰も見えない。</text>
+	</string>
+	<string id="speech_report">
+		<text>すぐ、報告しろ！</text>
+	</string>
+	<string id="speech_retreat">
+		<text>退却だ！</text>
+	</string>
+	<string id="speech_returntheartefact">
+		<text>アーティファクトを戻せ！</text>
+	</string>
+	<string id="speech_roger">
+		<text>了解。</text>
+	</string>
+	<string id="speech_silence">
+		<text>黙れ！</text>
+	</string>
+	<string id="speech_sticktogether">
+		<text>一緒にいよう。</text>
+	</string>
+	<string id="speech_takeartifact">
+		<text>アーティファクトを取れ！</text>
+	</string>
+</string_table>

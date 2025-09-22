@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="csky_heavy_outfit_name">
+		<text>CS-3a 護甲</text>
+	</string>
+
+	<string id="dolg_heavy_outfit_name">
+		<text>PSZ-9d 紀律團護甲</text>
+	</string>
+
+	<string id="dolg_outfit_name">
+		<text>PS5-M 通用防護系統</text>
+	</string>
+
+	<string id="exo_outfit_name">
+		<text>強化服</text>
+	</string>
+
+	<string id="military_outfit_name">
+		<text>布拉特裝甲防護服</text>
+	</string>
+
+	<string id="mp_exo_outfit_description">
+		<text>這款強化服有絕佳的防彈與碎片傷害保護力，但靈活度因此受限。對穿甲彈攻擊耐受度低。</text>
+	</string>
+
+	<string id="mp_exo_outfit_name">
+		<text>強化服</text>
+	</string>
+
+	<string id="mp_military_outfit_description">
+		<text>專為突擊行動設計的軍事裝甲防護服。對全金屬外殼子彈與碎片具備出色的傷害防護，且不影響靈活度。對穿甲彈攻擊耐受度低。</text>
+	</string>
+
+	<string id="mp_military_outfit_name">
+		<text>軍事裝甲防護服</text>
+	</string>
+
+	<string id="novice_outfit_description">
+		<text>一件普通的黑色皮革風衣。除了讓穿戴者在夜間保持溫暖以及保護他免受盲狗咬傷之外，沒有其他特殊用途。儘管風衣不是特別舒服，但特異區的強盜經常穿它——要麼是因為它可以讓他們隱藏在黑暗中，要麼僅僅是因為它的「超酷」外觀。</text>
+	</string>
+
+	<string id="novice_outfit_name">
+		<text>皮革風衣</text>
+	</string>
+
+	<string id="scientific_outfit_name">
+		<text>SEVA 緊身裝</text>
+	</string>
+
+	<string id="specops_outfit_name">
+		<text>Berill-5M戰鬥裝</text>
+	</string>
+
+	<string id="st_helm_battle">
+		<text>球型 M12 頭盔</text>
+	</string>
+
+	<string id="st_helm_battle_descr">
+		<text>鋁/鈦製頭盔，外部為布料，配有用於放置額外鋼製裝甲部件和裝甲面罩的口袋。球型 M12 通常用作 PSZ 系列俄羅斯特種部隊防彈衣套裝的一部分。由於其呼吸器和內置第一代夜視裝置，以及提供最大程度的頭部保護，該頭盔在特異區非常受歡迎。附帶電子插槽。</text>
+	</string>
+
+	<string id="st_helm_hardhat">
+		<text>鋼製頭盔</text>
+	</string>
+
+	<string id="st_helm_hardhat_descr">
+		<text>完全過時的鋼製軍用頭盔，沒有任何添加物。無法提供對特異點或輻射的保護，但可以偏轉子彈。這種頭盔在特異區從來沒有特別受歡迎過，除了會用在派閥之間短暫的武裝衝突中。</text>
+	</string>
+
+	<string id="st_helm_protective">
+		<text>護目頭盔</text>
+	</string>
+
+	<string id="st_helm_protective_descr">
+		<text>帶有氣密護目鏡的輕型頭盔，旨在保護免受特異點傷害。從設計來看，該頭盔與 SEVA 緊身裝是由同一間國防研究所製造的。它的預期用途很可能是與軍事套裝結合起來，在高度特異區域執行行動。 </text>
+	</string>
+
+	<string id="st_helm_respirator">
+		<text>防毒面具</text>
+	</string>
+
+	<string id="st_helm_respirator_descr">
+		<text>普通的塑膠和橡膠防毒面具，用於過濾空氣中的放射性顆粒和有毒物質。由於其通用性，被各派閥的新人和老手廣泛使用。不提供任何物理保護。</text>
+	</string>
+
+	<string id="st_helm_tactic">
+		<text>戰術頭盔</text>
+	</string>
+
+	<string id="st_helm_tactic_descr">
+		<text>沒有迷彩的戰術頭盔西式型號。目前尚不清楚它是如何進入特異區的。這款頭盔的設計旨在透過其眾多掃描儀和衛星通訊設備，為小隊首領提供應對敵人的戰略優勢，而這些設備目前尚未安裝在該頭盔中。它擁有多層克維拉纖維保護和鎧裝組件，以保護其電子元件。該頭盔還配備呼吸器和第一代夜視裝置。</text>
+	</string>
+
+	<string id="stalker_outfit_name">
+		<text>日出緊身裝</text>
+	</string>
+
+	<string id="svoboda_heavy_outfit_name">
+		<text>自由團衛士緊身裝</text>
+	</string>
+
+	<string id="svoboda_light_outfit_description">
+		<text>這款輕質潛行者連身衣由自由團工匠製作。該服裝的布料經過「地平線」處理，這是該派閥透過反復試驗開發的特殊解決方案，以提高對特異點的抵抗力。與日出緊身裝一樣，自由之風也配備了內置防彈衣和神器容器。</text>
+	</string>
+
+	<string id="svoboda_light_outfit_name">
+		<text>自由之風緊身裝</text>
+	</string>
+
+	<string id="dolg_outfit_description">
+		<text>這款現代版的紀律團連身衣更適合習慣了輕盈著裝的潛行者新人。與 PSZ 系列不同，該服裝提供了良好的特異點防護能力，同時也能夠阻擋手槍子彈。此服裝無法進行神器容器的改造，但可使用戰鬥支援系統進行升級。</text>
+	</string>
+
+	<string id="military_outfit_description">
+		<text>這款現代軍用裝甲防護服專為特異區域的突擊行動而設計。它由 PSZ-12p 重型軍用裝甲防護服、內建補償服和特異防護緊身衣組成。裝甲可提供出色的防護，防止受到子彈和碎片傷害，而不會大幅降低穿戴者的機動性。不含神器容器。</text>
+	</string>
+
+	<string id="mp_scientific_outfit_description">
+		<text>這款緊身裝旨在用於在特異區進行研究，結合了封閉式循環呼吸組件和外部隔離塗層，可提供出色的特異點防護。由於對物理衝擊的防護能力較差，此套裝無法很好地防禦子彈和碎片傷害。配備有內建神器運輸容器。</text>
+	</string>
+
+	<string id="scientific_outfit_description">
+		<text>由基輔的某間國防研究所製造，是自製潛行者套裝的絕佳替代品。雖然其內建防彈衣只能阻擋手槍子彈，但它的特異點和輻射防護系統是首屈一指的。這款緊身裝可進行完全升級，並擁有兩個內建神器容器，是許多經驗豐富的潛行者的首選裝備。</text>
+	</string>
+
+	<string id="specops_outfit_description">
+		<text>該物品包括鍍鈹軍用 PS5 系列防彈衣，經改造用於特異區。專為高放射性區域的突擊行動而設計，但在高特異活動的區域無效。這套衣服經由軍隊傳給了潛行者，他們用它來交換戰利品。不配備神器容器。</text>
+	</string>
+
+	<string id="stalker_outfit_description">
+		<text>這款 DIY 潛行者連身衣是由雙層橡膠布連身衣、有機玻璃襯裡和內建防彈衣組合而成。儘管防彈衣甚至無法保護穿戴者免受手槍子彈的傷害，但該套裝因其低成本和改造潛力而廣受歡迎。配備有內建神器容器。</text>
+	</string>
+
+	<string id="svoboda_heavy_outfit_description">
+		<text>這款帶有強化防彈衣的潛行者連身衣由自由團工匠製作，代表了戰鬥和特異點保護之間的良好折衷性。內建防彈衣由裝甲板和十層克維拉纖維層組成，能夠阻擋手槍子彈。此套裝使用相對昂貴的索福林化合物來提供特異點保護。配備有一個神器容器。</text>
+	</string>
+
+	<string id="dolg_heavy_outfit_description">
+		<text>這款紀律團連身衣早期型號是為特異區改造的俄羅斯特種部隊 PSZ-9 防彈衣。該套裝能夠阻擋步槍子彈，然而，這種等級的保護是以其重量、體積和幾乎不存在的特異點保護為代價的。此套裝無法進行神器容器的改造，但可使用戰鬥支援系統進行升級。</text>
+	</string>
+
+	<string id="csky_heavy_outfit_description">
+		<text>曾經被晴空突擊隊作為標準裝備使用。在該派閥被消滅後，這件護甲時刻提醒著人們：即便穿著出色的防護服，也無法保證你在邊界這一側的安全。該護甲能夠阻擋手槍子彈，同時穿戴者也能免受特異點的傷害。配備有一個內建的神器容器。</text>
+	</string>
+
+	<string id="exo_outfit_description">
+		<text>軍用強化服的實驗樣品。由於成本過高和一些設計缺陷，從未實現大規模生產。儘管如此，由於它能夠承受所有攜帶設備的重量，因此需求量很大。在烏克蘭境外的地下設施中有進行小批量生產。配備有一個內建的神器容器。</text>
+	</string>
+
+	<string id="mp_scientific_outfit_name">
+		<text>SEVA 緊身裝</text>
+	</string>
+
+</string_table>

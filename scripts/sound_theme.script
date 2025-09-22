@@ -1,0 +1,11 @@
+function load_sound()
+	xr_sound_impl.load_sound_impl()
+end
+
+function init_npc_sound(npc)
+	xr_sound_impl.init_npc_sound_impl(npc)
+end
+
+function destroy_npc_sound(npc_id)
+	xr_sound_impl.destroy_npc_sound_impl(npc_id)
+end

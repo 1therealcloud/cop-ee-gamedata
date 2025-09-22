@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ls_c_tip_82">
+		<text>有些地方即使蹲下也無法通過。如果你想盡可能地蹲得更低，長按$$ACTION_CROUCH$$。</text>
+	</string>
+
+	<string id="ls_header">
+		<text>特異區生存法則100條</text>
+	</string>
+
+	<string id="ls_mp_tip_16">
+		<text>射擊敵人的眼睛可造成立即死亡，無論其護甲等級。</text>
+	</string>
+
+	<string id="ls_mp_tip_19">
+		<text>AC-96/2具有獨特的兩連發射擊模式。在此模式下，連發的兩顆子彈都會擊中同一點。</text>
+	</string>
+
+	<string id="ls_mp_tip_21">
+		<text>雙管獵槍可以幾乎同時進行兩管發射。</text>
+	</string>
+
+	<string id="ls_mp_tip_25">
+		<text>別小看手槍。他們的停止力相當可觀，並可有效打擊護甲較弱的標的。</text>
+	</string>
+
+	<string id="ls_mp_tip_32">
+		<text>狙擊步槍的特點是其平坦度與精準度，是消滅遠距離地人的理想武器。近距離的效果較差。</text>
+	</string>
+
+	<string id="ls_mp_tip_33">
+		<text>移動中射擊的精準度，比站立或蹲下時的精準度差。</text>
+	</string>
+
+	<string id="ls_mp_tip_34">
+		<text>武器和防護服在特異區惡劣的條件下，磨損的速度相當快。磨損的武器精準度會降低，容易發射失敗，而防護服的保護效果則有限。</text>
+	</string>
+
+	<string id="ls_mp_tip_54">
+		<text>按下「$$ACTION_SCREENSHOT$$」可螢幕截圖。</text>
+	</string>
+
+	<string id="ls_mp_tip_9">
+		<text>神器或是攜帶該神器的玩家會顯示在迷你地圖上。如果神器距離很遠，迷你地圖上會有箭頭指出方向。</text>
+	</string>
+
+	<string id="ls_tip_37">
+		<text>AC-96/2具有獨特的兩連發射擊模式。在此模式下，連發的兩顆子彈都會擊中同一點。</text>
+	</string>
+
+	<string id="ls_tip_39">
+		<text>雙管獵槍可以幾乎同時進行兩管發射。</text>
+	</string>
+
+	<string id="ls_tip_43">
+		<text>別小看手槍。他們的停止力相當可觀，並可有效打擊護甲較弱的標的。</text>
+	</string>
+
+	<string id="ls_tip_50">
+		<text>狙擊步槍的特點是其平坦度與精準度，是消滅遠距離地人的理想武器。近距離的效果較差。</text>
+	</string>
+
+	<string id="ls_tip_52">
+		<text>武器和防護服在特異區惡劣的條件下，磨損的速度相當快。磨損的武器精準度會降低，容易發射失敗，而防護服的保護效果則有限。</text>
+	</string>
+
+	<string id="ls_tip_56">
+		<text>有些醫療產品具有獨特的性能。例如：大力丸可讓你暫時增加負重，而心靈阻盾藥可幫助你抵禦心靈輻射。</text>
+	</string>
+
+	<string id="ls_tip_83">
+		<text>按下「$$ACTION_SCREENSHOT$$」可螢幕截圖。</text>
+	</string>
+
+	<string id="ls_tip_number">
+		<text>法則#</text>
+	</string>
+
+	<string id="ls_tip_1">
+		<text>伏特加是抗輻射藥劑的便宜替代品，是最容易減少身體輻射影響的東西。</text>
+	</string>
+
+	<string id="ls_tip_10">
+		<text>你可以按住「$$ACTION_SCORES$$」查看目前任務的詳細資訊。</text>
+	</string>
+
+	<string id="ls_tip_13">
+		<text>你需要探測器來搜尋神器。最好的探測器可以讓搜尋容易點，甚至可以探測到更有價值的神器。</text>
+	</string>
+
+	<string id="ls_tip_14">
+		<text>潛行者不會讓攜帶武器的人進入他們的營地。按下適當的按鍵以藏起武器。(「$$ACTION_WPN_1$$」、「$$ACTION_WPN_2$$」、「$$ACTION_WPN_3$$」、「$$ACTION_WPN_4$$」)</text>
+	</string>
+
+	<string id="ls_tip_15">
+		<text>你可以丟螺栓以定位特異點的邊緣。按下「$$ACTION_WPN_6$$」以丟出螺栓。</text>
+	</string>
+
+	<string id="ls_tip_17">
+		<text>食物除了可以解決飢餓，也可以稍微改善你的健康狀況。</text>
+	</string>
+
+	<string id="ls_tip_18">
+		<text>能量飲料能暫時改善你的耐力恢復，從而增加你的潛在行動力。</text>
+	</string>
+
+	<string id="ls_tip_20">
+		<text>低耐力會讓你行動受限，且在關屆時刻易受到敵人攻擊。</text>
+	</string>
+
+	<string id="ls_tip_21">
+		<text>你可以使用螢幕左上角的噪音和敵人偵測燈，以監控你的隱蔽狀態。</text>
+	</string>
+
+	<string id="ls_tip_22">
+		<text>一手中有探測器時，另一手仍可使用刀、手槍或螺栓。</text>
+	</string>
+
+	<string id="ls_tip_23">
+		<text>有些醫療用品可增加身體對傷害的抵抗效果。在特異區域執行任務時，使用此類物品可以救命。</text>
+	</string>
+
+	<string id="ls_tip_27">
+		<text>將滑鼠放在所需的物品上並按下右鍵，以叫出物品內容選單。</text>
+	</string>
+
+	<string id="ls_tip_28">
+		<text>除了有用的效果外，大部分神器都具放射性。這可透過吸收輻射的神器來消弭。</text>
+	</string>
+
+	<string id="ls_tip_29">
+		<text>你的刀對使用槍械的敵人無效。可在近身搏鬥或刺殺時使用。</text>
+	</string>
+
+	<string id="ls_tip_3">
+		<text>你所負載的重量會降低你的耐力。超出負重會限制你的行動力，完全超重時會無法移動。</text>
+	</string>
+
+	<string id="ls_tip_30">
+		<text>探測器是在特異區域內探索神器唯一可靠的方式。</text>
+	</string>
+
+	<string id="ls_tip_31">
+		<text>在被探測器偵測到之前，大部分的神器在特異區域內移動時都是隱形的。</text>
+	</string>
+
+	<string id="ls_tip_32">
+		<text>變異體在夜裡比較活躍，因此潛行者傾向在有陽光時進入特異區探險。</text>
+	</string>
+
+	<string id="ls_tip_33">
+		<text>如果你暴露在嚴重的輻射下，請使用抗輻射藥物。如果你沒有抗輻射藥物，在找到醫護人員前，可使用醫藥包來處理初期症狀。</text>
+	</string>
+
+	<string id="ls_tip_34">
+		<text>大多數的潛行者都能把你帶到附近的地點去，但只有經驗老道的嚮導可以安全、快速地領你到遠處。不過，他們會收你不斐的服務費。</text>
+	</string>
+
+	<string id="ls_tip_35">
+		<text>販賣神器不是賺錢的唯一方法：卸下不需要的裝備也是個賺錢生意。請記住，商人中常對嚴重損毀的物品沒興趣。</text>
+	</string>
+
+	<string id="ls_tip_38">
+		<text>卸下武器上的滅音器、瞄準鏡或下掛式榴彈發射器，右鍵點擊背包內的武器，並從內容選單內，選擇相應的操作。</text>
+	</string>
+
+	<string id="ls_tip_40">
+		<text>如果你想移動時產生小的噪音，按下「$$ACTION_ACCEL$$」行走或「$$ACTION_CROUCH$$」蹲伏。</text>
+	</string>
+
+	<string id="ls_tip_41">
+		<text>散彈槍是近距離戰鬥的武器。你的敵人離你越遠，效果越差。</text>
+	</string>
+
+	<string id="ls_tip_42">
+		<text>躲避小型火力武器時，確保你躲在堅固的東西後。與水泥牆相比，木板、金屬板不算是安全的掩體。</text>
+	</string>
+
+	<string id="ls_tip_44">
+		<text>對大多的敵人來說，爆頭會造成致命傷害。</text>
+	</string>
+
+	<string id="ls_tip_45">
+		<text>特異區內每一種變異體都有其戰鬥特質。如果你將之考慮在內，更可能可以生存下來。</text>
+	</string>
+
+	<string id="ls_tip_46">
+		<text>你可以按住「$$ACTION_WPN_ZOOM$$」來調整丟榴彈的距離。</text>
+	</string>
+
+	<string id="ls_tip_47">
+		<text>敵人可以，也會使用榴彈。當你看到榴彈指標時，應該立刻離開殺傷區域。</text>
+	</string>
+
+	<string id="ls_tip_48">
+		<text>跳耀前加速可以克服大的縫隙或裂縫。</text>
+	</string>
+
+	<string id="ls_tip_49">
+		<text>顯示健康和耐力的關鍵指標位在螢幕右下角。</text>
+	</string>
+
+	<string id="ls_tip_53">
+		<text>特異區有自己的生命，也就是說，你總有機會在已清過的區域遇到變異體，或是敵人潛行者。 </text>
+	</string>
+
+	<string id="ls_tip_54">
+		<text>在特異區內保持警覺，不要依靠舊資訊。當你回到以探索過的特異區域，可能會發現舊的方法已不管用。</text>
+	</string>
+
+	<string id="ls_tip_58">
+		<text>與正常的潛行者交談可能會獲得新區域、最近事件的資訊。</text>
+	</string>
+
+	<string id="ls_tip_60">
+		<text>在兩個武器欄內，你可使用任何武器。你可以自由創造武器組合，像是突擊步槍／散槍，或是手槍／狙擊步槍。</text>
+	</string>
+
+	<string id="ls_tip_61">
+		<text>在不同潛行者營地內的貿易商人都有自己獨特的商品。例如，醫護人員一定有最好的醫療用品。</text>
+	</string>
+
+	<string id="ls_tip_62">
+		<text>如果你負傷或有輻射中毒時進到潛行者營地，你可以免費使用當地的醫護人員。</text>
+	</string>
+
+	<string id="ls_tip_63">
+		<text>你可以把東西放在營地的私人盒子內，可免去拖著不必要的物品到處走。</text>
+	</string>
+
+	<string id="ls_tip_64">
+		<text>如果你需要等到特定的時間，你可以在營地小睡來度過。請找到睡覺區域，按下「$$ACTION_USE$$」並選擇想要睡多久。</text>
+	</string>
+
+	<string id="ls_tip_65">
+		<text>頭盔內的夜視裝置可升級成至下一代。升級能擴大涵蓋範圍。</text>
+	</string>
+
+	<string id="ls_tip_67">
+		<text>在特異區外時，身上多帶幾個彈匣——它們肯定會派上用場。</text>
+	</string>
+
+	<string id="ls_tip_68">
+		<text>記得定期儲存你的遊戲——以免一直重複玩同一個部分。</text>
+	</string>
+
+	<string id="ls_tip_69">
+		<text>正確使用藥物對了解療效很有幫助。查閱藥物說明以了解藥物的作用。</text>
+	</string>
+
+	<string id="ls_tip_70">
+		<text>使用榴彈攻擊有掩護的敵人。留意榴彈的爆炸半徑，避免傷害友軍。</text>
+	</string>
+
+	<string id="ls_tip_71">
+		<text>要丟棄背包內的物品，請右鍵點擊物品，並從內容選單內，選擇相應的操作。</text>
+	</string>
+
+	<string id="ls_tip_72">
+		<text>要讓遊戲在關鍵時刻自動儲存進步，可以使用選單內的特殊設定。</text>
+	</string>
+
+	<string id="ls_tip_73">
+		<text>回到營地時，你應該要修理裝備、販賣不需要的戰利品，並補充彈藥和醫療用品。</text>
+	</string>
+
+	<string id="ls_tip_75">
+		<text>突襲特異區時，使用防護服、神器或適當的要品可降低有害影響。</text>
+	</string>
+
+	<string id="ls_tip_77">
+		<text>除了武器與彈藥之外，敵人的屍體可能帶有有價值的東西，例如含有資訊的PDA。</text>
+	</string>
+
+	<string id="ls_tip_78">
+		<text>神器不只是有價值的戰利品：除了輕量、昂貴，它們時常帶有極有用的效果。</text>
+	</string>
+
+	<string id="ls_tip_79">
+		<text>因為特異區的環境，許多變異體都具輻射。沒有足夠的輻射保護，接近他們是極度危險的行為。</text>
+	</string>
+
+	<string id="ls_tip_8">
+		<text>你可以使用繃帶、軍隊醫藥包或長春藥來止血。如果你不迅速處理傷勢，失血會對健康造成嚴重的傷害。</text>
+	</string>
+
+	<string id="ls_tip_80">
+		<text>有些武器可以加裝可調式的遠距離光學瞄準鏡。按下「$$ACTION_NEXT_SLOT$$」或「$$ACTION_PREV_SLOT$$」以調整距離。</text>
+	</string>
+
+	<string id="ls_tip_82">
+		<text>有些地方就算蹲下也無法通過。同時按下「$$ACTION_CROUCH$$」和「$$ACTION_ACCEL$$」以蹲到最低。</text>
+	</string>
+
+	<string id="ls_tip_84">
+		<text>減少被敵人擊中的機會，可按下「$$ACTION_LLOOKOUT$$」或「$$ACTION_RLOOKOUT$$」在角落趴伏還擊。</text>
+	</string>
+
+	<string id="ls_tip_85">
+		<text>有了內建的目標定位機制，你的望遠鏡不僅可以看清遠處的物體，還能定為敵人位置。按下「$$ACTION_WPN_5$$」以拿出望遠鏡。</text>
+	</string>
+
+	<string id="ls_tip_86">
+		<text>要打開或關閉手電筒，請按「$$ACTION_TORCH$$」。</text>
+	</string>
+
+	<string id="ls_tip_87">
+		<text>按下「$$ACTION_WPN_6$$」以拿出螺栓。</text>
+	</string>
+
+	<string id="ls_tip_88">
+		<text>如果你的頭盔上有夜視裝置，你可以按下「$$ACTION_NIGHT_VISION$$」以啟動或停用。</text>
+	</string>
+
+	<string id="ls_tip_89">
+		<text>按下「$$ACTION_QUICK_USE_1$$」、「$$ACTION_QUICK_USE_2$$」、「$$ACTION_QUICK_USE_3$$」、「$$ACTION_QUICK_USE_4$$」以使用快捷列上的相應物品。</text>
+	</string>
+
+	<string id="ls_tip_9">
+		<text>藥物不會立即奏效，且有的藥物效果相當持久。</text>
+	</string>
+
+	<string id="ls_tip_90">
+		<text>你的PDA上有地圖、目前任務的資訊、你的客人數據和訊息欄。按下「$$ACTION_ACTIVE_JOBS$$」可打開PDA。</text>
+	</string>
+
+	<string id="ls_tip_91">
+		<text>你必須拿出探測器才能搜尋神器。按下「$$ACTION_SHOW_DETECTOR$$」以拿出探測器。</text>
+	</string>
+
+	<string id="ls_tip_93">
+		<text>快速儲存請按「$$ACTION_QUICK_SAVE$$」。按下「$$ACTION_QUICK_LOAD$$」可快速載入上一個快存。</text>
+	</string>
+
+	<string id="ls_tip_94">
+		<text>跑動是最快的移動方法，但也是最累的。按下「$$ACTION_SPRINT_TOGGLE$$」可跑動。</text>
+	</string>
+
+	<string id="ls_tip_95">
+		<text>瞄準射擊的精準度比直接開火好得多。按下「$$ACTION_WPN_ZOOM$$」以瞄準。</text>
+	</string>
+
+	<string id="ls_tip_96">
+		<text>如果你有下掛式榴彈發射器，你可以按下「$$ACTION_WPN_FUNC$$」切換榴彈發射與正常射擊模式。</text>
+	</string>
+
+	<string id="ls_tip_97">
+		<text>如果你目前的武器有多種彈藥，你可以按下「$$ACTION_WPN_NEXT$$」以切換彈藥。</text>
+	</string>
+
+	<string id="ls_tip_98">
+		<text>在彈匣清空前裝填彈藥，請按「$$ACTION_WPN_RELOAD$$」。</text>
+	</string>
+
+	<string id="ls_tip_99">
+		<text>丟棄目前的武器，請按「$$ACTION_DROP$$」。</text>
+	</string>
+
+	<string id="ls_tip_6">
+		<text>等待排放時，請在可靠的建築物或地下躲避。當排放將至，PDA上會標出最近的掩護。</text>
+	</string>
+
+	<string id="ls_tip_12">
+		<text>要從快捷列使用物品，請從背包拖曳物品到神器放置處上方的快捷欄格子內。</text>
+	</string>
+
+	<string id="ls_tip_24">
+		<text>螢幕右下角的血滴圖示警告你失血情況，需要止血。圖示的顏色代表失血的嚴重程度。</text>
+	</string>
+
+	<string id="ls_tip_25">
+		<text>螢幕右下角的輻射危險符號警告你受到輻射。出現該指標時，你應該服用抗輻射藥物。圖示的顏色代表你受輻射影響的嚴重程度。</text>
+	</string>
+
+	<string id="ls_tip_4">
+		<text>你可以用篩選器隱藏或顯示PDA地圖上的各種標示。篩選按鈕在地圖上方、目前任務列下方。</text>
+	</string>
+
+	<string id="ls_tip_55">
+		<text>神器不是固定的：它們會在特異區內移動。瘋狂追逐神器會讓你很快就掉進特異點區域內。</text>
+	</string>
+
+	<string id="ls_tip_57">
+		<text>有些潛行者可能會提供你服務，例如資訊、獨家物品，或向你訂購特定的神器。</text>
+	</string>
+
+	<string id="ls_tip_59">
+		<text>新的神器可能會在排放後出現在你已經探索過的特異區域。</text>
+	</string>
+
+	<string id="ls_tip_74">
+		<text>你可以在遊戲選單內隨時改變遊戲的難度。</text>
+	</string>
+
+	<string id="ls_tip_2">
+		<text>潛行者營地內的技術人員可以升級你的武器、服裝和頭盔。</text>
+	</string>
+
+	<string id="ls_tip_66">
+		<text>如果你想生存下去，隨時注意蓋格計數器發出的劈啪聲，它發出的是輻射警告和特異危險請告，這能讓你知道你很接近特異點。</text>
+	</string>
+
+	<string id="ls_tip_26">
+		<text>你與其他人的關係，對欲購買的商品與服務價格有直接的影響。如果你們的關係不好，可別指望有折扣。如果你們相處融洽，貿易商人甚至可能會提供你一些特別的東西。</text>
+	</string>
+
+	<string id="ls_tip_11">
+		<text>你可以卸下找到的武器，以獲取更多彈藥。右鍵點擊背包內的武器，並從內容選單內選擇相應的操作。</text>
+	</string>
+
+	<string id="ls_mp_tip_1">
+		<text>殺敵與獲取神器可獲得排名上升所需的分數。當排名上升時，你可以買到新的武器、護甲和裝備。</text>
+	</string>
+
+	<string id="ls_mp_tip_11">
+		<text>煙霧彈是用來偷神器或掩護用的。</text>
+	</string>
+
+	<string id="ls_mp_tip_13">
+		<text>購買選單的左側有五個按鈕，由上至下為：手槍、主武器、裝備、彈藥和醫療用品。選擇相應的按鈕以顯示你的排名可用的物品。</text>
+	</string>
+
+	<string id="ls_mp_tip_14">
+		<text>購買選單的右側有四個快捷購買欄位。按下磁盤圖示以儲存裝備設置，按下相應的數字時會裝載其裝備設置。第四個欄位會自動儲存上一次購買的裝備。</text>
+	</string>
+
+	<string id="ls_mp_tip_15">
+		<text>如果你有多個武器，你可以按下「$$ACTION_WPN_3$$」以重複切換。</text>
+	</string>
+
+	<string id="ls_mp_tip_17">
+		<text>神器可被啟動產生特異點。要啟動，可按下「$$ACTION_ARTEFACT$$」取出神器，並按住「$$ACTION_WPN_FIRE$$」。出現的特異對敵人與創造人所造成的危險相同。</text>
+	</string>
+
+	<string id="ls_mp_tip_18">
+		<text>科學防護服可幫助你在特異點和輻射區域生存。</text>
+	</string>
+
+	<string id="ls_mp_tip_2">
+		<text>獵捕神器：你必須將一定數量的神器帶到你的基地以取得勝利。</text>
+	</string>
+
+	<string id="ls_mp_tip_20">
+		<text>卸下武器上的滅音器、瞄準鏡或下掛式榴彈發射器，右鍵點擊背包內的武器，並從內容選單內，選擇相應的操作。</text>
+	</string>
+
+	<string id="ls_mp_tip_22">
+		<text>如果你想移動時產生小的噪音，按下「$$ACTION_ACCEL$$」行走或「$$ACTION_CROUCH$$」蹲伏。</text>
+	</string>
+
+	<string id="ls_mp_tip_23">
+		<text>散彈槍是近距離戰鬥的武器。你的敵人離你越遠，效果越差。</text>
+	</string>
+
+	<string id="ls_mp_tip_24">
+		<text>躲避小型火力武器時，確保你躲在堅固的東西後。與水泥牆相比，木板、金屬板不算是非常安全的掩體。</text>
+	</string>
+
+	<string id="ls_mp_tip_26">
+		<text>對大多的敵人來說，爆頭會造成致命傷害。</text>
+	</string>
+
+	<string id="ls_mp_tip_27">
+		<text>加速移動、跳耀漢受傷會顯著降低你的耐力。</text>
+	</string>
+
+	<string id="ls_mp_tip_28">
+		<text>你可以按住「$$ACTION_WPN_ZOOM$$」來調整丟榴彈的距離。</text>
+	</string>
+
+	<string id="ls_mp_tip_29">
+		<text>敵人可以，也會使用榴彈。當你看到榴彈指標時，應該立刻離開殺傷區域。</text>
+	</string>
+
+	<string id="ls_mp_tip_3">
+		<text>死亡競賽：獲得最多擊殺分數以獲勝。</text>
+	</string>
+
+	<string id="ls_mp_tip_30">
+		<text>跳耀前加速可以越過大的縫隙或裂縫。</text>
+	</string>
+
+	<string id="ls_mp_tip_31">
+		<text>顯示健康和耐力的關鍵指標位在螢幕右下角。</text>
+	</string>
+
+	<string id="ls_mp_tip_35">
+		<text>迷你地圖可顯示神器的方向。如果箭頭朝上，神器就位在你目前位置的上方，若箭頭朝下，則在下方。</text>
+	</string>
+
+	<string id="ls_mp_tip_36">
+		<text>收集敵人的背包以獲取額外的金錢。多餘的裝備可以在基地販售。</text>
+	</string>
+
+	<string id="ls_mp_tip_37">
+		<text>你必須不惜代價掩護隊上負責攜帶神器的成員。</text>
+	</string>
+
+	<string id="ls_mp_tip_38">
+		<text>使用榴彈攻擊有掩護的敵人。留意榴彈的爆炸半徑，避免傷害友軍。</text>
+	</string>
+
+	<string id="ls_mp_tip_39">
+		<text>你可以使用語音訊息與隊友溝通。要進入語音訊息選單，請按「$$ACTION_SPEECH_MENU_0$$」或「$$ACTION_SPEECH_MENU_1$$」。</text>
+	</string>
+
+	<string id="ls_mp_tip_4">
+		<text>團隊死亡競賽：你的隊伍必須獲得比敵人更多的擊殺分數以獲勝。</text>
+	</string>
+
+	<string id="ls_mp_tip_40">
+		<text>按下「$$ACTION_VOTE_BEGIN$$」可開始投票。</text>
+	</string>
+
+	<string id="ls_mp_tip_41">
+		<text>按下「$$ACTION_SCORES$$」可看到遊戲分數。</text>
+	</string>
+
+	<string id="ls_mp_tip_42">
+		<text>等待期結束後，按下「$$ACTION_JUMP$$」可重生。</text>
+	</string>
+
+	<string id="ls_mp_tip_43">
+		<text>當你在基地內時按下「$$ACTION_BUY_MENU$$」可打開購買選單。</text>
+	</string>
+
+	<string id="ls_mp_tip_44">
+		<text>按下「$$ACTION_CHAT$$」可開啟一般聊天室。要使用隊伍聊天室，請按「$$ACTION_CHAT_TEAM$$」。</text>
+	</string>
+
+	<string id="ls_mp_tip_45">
+		<text>跑動是最快的移動方法，但也是最累的。按下「$$ACTION_SPRINT_TOGGLE$$」可跑動。</text>
+	</string>
+
+	<string id="ls_mp_tip_46">
+		<text>瞄準射擊的精準度比直接開火好得多。按下「$$ACTION_WPN_ZOOM$$」以瞄準。</text>
+	</string>
+
+	<string id="ls_mp_tip_47">
+		<text>如果你有下掛式榴彈發射器，你可以按下「$$ACTION_WPN_FUNC$$」切換榴彈發射與正常射擊模式。</text>
+	</string>
+
+	<string id="ls_mp_tip_48">
+		<text>如果你目前的武器有多種彈藥，你可以按下「$$ACTION_WPN_NEXT$$」以切換彈藥。</text>
+	</string>
+
+	<string id="ls_mp_tip_49">
+		<text>在彈匣清空前裝填彈藥，請按「$$ACTION_WPN_RELOAD$$」。</text>
+	</string>
+
+	<string id="ls_mp_tip_5">
+		<text>獵捕神器：你必須將敵人一定數量的神器帶到你的基地以取得勝利。</text>
+	</string>
+
+	<string id="ls_mp_tip_50">
+		<text>丟棄目前的武器，請按「$$ACTION_DROP$$」。</text>
+	</string>
+
+	<string id="ls_mp_tip_51">
+		<text>按「$$ACTION_INVENTORY$$」可看背包內物品。</text>
+	</string>
+
+	<string id="ls_mp_tip_52">
+		<text>多屬武器都有幾種射擊模式。要切換射擊模式，請按「$$ACTION_WPN_FIREMODE_NEXT$$」或「$$ACTION_WPN_FIREMODE_PREV$$」。</text>
+	</string>
+
+	<string id="ls_mp_tip_53">
+		<text>有些地方就算蹲下也無法通過。同時按下「$$ACTION_CROUCH$$」和「$$ACTION_ACCEL$$」以蹲到最低。</text>
+	</string>
+
+	<string id="ls_mp_tip_55">
+		<text>要環視角落請按「$$ACTION_LLOOKOUT$$」或「$$ACTION_RLOOKOUT$$」。環視角落時無法開火。</text>
+	</string>
+
+	<string id="ls_mp_tip_6">
+		<text>捕獲神器：要將失竊的神器帶回你的基地，你必須殺掉攜帶該神器的敵人，並按下「$$ACTION_USE$$」以撿起神器。</text>
+	</string>
+
+	<string id="ls_mp_tip_7">
+		<text>獵捕神器：你可以啟動以摧毀神器。若要這麼做，按下「$$ACTION_ARTEFACT$$」拿出神器，並按住「$$ACTION_WPN_FIRE$$」。</text>
+	</string>
+
+	<string id="ls_mp_tip_8">
+		<text>攜帶神器時，你無法跑動。</text>
+	</string>
+
+	<string id="ls_tip_100">
+		<text>按「$$ACTION_INVENTORY$$」可看背包內物品。</text>
+	</string>
+
+	<string id="ls_tip_36">
+		<text>你必須找到技術人員，並在改造螢幕上點選修理按鈕才能修理物品。你也可以在同視窗中以右鍵點選該物品，並在內容選單內選擇相應的操作。</text>
+	</string>
+
+	<string id="ls_tip_81">
+		<text>多屬武器都有幾種預設射擊模式，你可以購買改造，並之後再加上。要切換射擊模式，請按「$$ACTION_WPN_FIREMODE_NEXT$$」或「$$ACTION_WPN_FIREMODE_PREV$$」。</text>
+	</string>
+
+	<string id="ls_tip_7">
+		<text>武器的平坦度會影響子彈的軌道，而操作則決定了視野在開火後回到原位所需的時間。</text>
+	</string>
+
+	<string id="ls_tip_5">
+		<text>有些防護服配有一體式頭盔。此類防護服無法配用其他頭盔。</text>
+	</string>
+
+	<string id="ls_tip_76">
+		<text>每一種武器的精準度、操作、傷害和射擊速率都各有特色，你可以在眾多選擇中挑選適合的武器。</text>
+	</string>
+
+	<string id="ls_tip_51">
+		<text>移動中的精準度會大打折扣。站立或蹲伏可提高精準度。</text>
+	</string>
+
+	<string id="ls_mp_tip_10">
+		<text>這款能量飲料可暫時加速體力恢復，可讓你衝刺更久。</text>
+	</string>
+
+	<string id="ls_mp_tip_12">
+		<text>在死亡競賽模式下，你的彈藥無限。</text>
+	</string>
+
+	<string id="ls_tip_16">
+		<text>特異區內最常見的威脅之一是輻射。受到嚴重輻射會傷害健康，要是沒有充分治療也會造成死亡。</text>
+	</string>
+
+	<string id="ls_tip_19">
+		<text>長時間突擊時，帶上一些食物。如果你真的很餓，會嚴重影響到你的耐力。</text>
+	</string>
+
+	<string id="ls_c_tip_1">
+		<text>伏特加是抗輻射藥劑的便宜替代品，是最容易減少身體受輻射影響的東西。</text>
+	</string>
+
+	<string id="ls_c_tip_100">
+		<text>按$$ACTION_INVENTORY$$可查看背包內物品。</text>
+	</string>
+
+	<string id="ls_c_tip_11">
+		<text>你可以卸下找到的武器以獲取更多彈藥。點擊背包內的武器上的$$ACTION_UI_CONTEXT_MENU$$，並從內容選單內選擇相應的操作。</text>
+	</string>
+
+	<string id="ls_c_tip_12">
+		<text>要通過快捷欄使用物品，只需在背包中選擇物品，然後按下“行動”功能表中的“添加到快捷欄”選項，並選擇想要使用的槽位即可。</text>
+	</string>
+
+	<string id="ls_c_tip_13">
+		<text>你需要探測器來搜尋神器。最好的探測器可以使搜尋更容易，甚至可以探測到更有價值的神器。</text>
+	</string>
+
+	<string id="ls_c_tip_14">
+		<text>潛行者不會讓攜帶武器的人進入他們的營地。</text>
+	</string>
+
+	<string id="ls_c_tip_15">
+		<text>你可以丟螺栓以定位特異點的邊緣。</text>
+	</string>
+
+	<string id="ls_c_tip_16">
+		<text>特異區內最常見的威脅之一是輻射。受到嚴重輻射會損害健康，要是沒有充分治療也可能造成死亡。</text>
+	</string>
+
+	<string id="ls_c_tip_17">
+		<text>食物除了可以解決飢餓，也可以稍微改善你的健康狀況。</text>
+	</string>
+
+	<string id="ls_c_tip_18">
+		<text>能量飲料能暫時提高你的耐力恢復，從而增加你的潛在行動力。</text>
+	</string>
+
+	<string id="ls_c_tip_19">
+		<text>長時間突擊時，帶上一些食物。如果你真的很餓，這會嚴重影響你的耐力恢復。</text>
+	</string>
+
+	<string id="ls_c_tip_2">
+		<text>潛行者營地內的技術人員可以升級你的武器、服裝和頭盔。</text>
+	</string>
+
+	<string id="ls_c_tip_20">
+		<text>低耐力會讓你行動受限，且在關屆時刻易受到敵人攻擊。</text>
+	</string>
+
+	<string id="ls_c_tip_21">
+		<text>你可以使用螢幕左上角的噪音和敵人偵測器來監控你的隱蔽狀態。</text>
+	</string>
+
+	<string id="ls_c_tip_22">
+		<text>當你一手持有探測器時，另一手仍可使用刀、手槍或螺栓。</text>
+	</string>
+
+	<string id="ls_c_tip_23">
+		<text>有些醫療用品可增加身體對傷害的抵抗效果。在特異區域執行任務時，使用此類物品可以救命。</text>
+	</string>
+
+	<string id="ls_c_tip_24">
+		<text>當你失血並需要止血時，螢幕右下角的血滴圖示會發出警告。圖示的顏色代表失血的嚴重程度。</text>
+	</string>
+
+	<string id="ls_c_tip_25">
+		<text>當你受到輻射時，螢幕右下角的輻射危險符號會發出警告。如果看到警告，你應該服用抗輻射藥物。圖示的顏色代表你受輻射影響的嚴重程度。</text>
+	</string>
+
+	<string id="ls_c_tip_26">
+		<text>你與其他人的關係會直接影響你想購買的商品與服務的價格。如果你們的關係不好，可別指望有折扣。如果你們相處融洽，貿易商人甚至可能會提供你一些特別的東西。</text>
+	</string>
+
+	<string id="ls_c_tip_27">
+		<text>選取所需的物品並按下$$ACTION_UI_CONTEXT_MENU$$可以叫出物品內容選單。</text>
+	</string>
+
+	<string id="ls_c_tip_28">
+		<text>除了有用的效果外，大部分神器都有輻射。這可透過吸收輻射的神器來消弭。</text>
+	</string>
+
+	<string id="ls_c_tip_29">
+		<text>你的刀對使用槍械的敵人無效，但可在近身搏鬥或刺殺時使用。</text>
+	</string>
+
+	<string id="ls_c_tip_3">
+		<text>你所負載的重量會降低你的耐力。超出負重會限制你的行動力，完全超重時會無法移動。</text>
+	</string>
+
+	<string id="ls_c_tip_30">
+		<text>探測器是在特異區域內尋找神器唯一可靠的方式。</text>
+	</string>
+
+	<string id="ls_c_tip_31">
+		<text>在被探測器偵測到之前，大部分的神器在特異區域內移動時都是隱形的。</text>
+	</string>
+
+	<string id="ls_c_tip_32">
+		<text>變異體在夜裡比較活躍，因此潛行者傾向在有陽光時進入特異區探險。</text>
+	</string>
+
+	<string id="ls_c_tip_33">
+		<text>如果你暴露在嚴重的輻射下，請使用抗輻射藥物。如果你沒有抗輻射藥物，在找到醫護人員前，可使用醫療包來處理初期症狀。</text>
+	</string>
+
+	<string id="ls_c_tip_34">
+		<text>大多數的潛行者都能帶你去附近的地點，但只有經驗老道的嚮導可以安全、快速地領你到遠處。不過，他們會收你不斐的服務費。</text>
+	</string>
+
+	<string id="ls_c_tip_35">
+		<text>販賣神器不是賺錢的唯一方法：卸下不需要的裝備也是個賺錢生意。請記住，商人通常對嚴重損毀的物品沒興趣。</text>
+	</string>
+
+	<string id="ls_c_tip_36">
+		<text>你必須找到技術人員，並在改造螢幕上點選修理按鈕才能修理物品。你也可以在同視窗中按下 $$ACTION_UI_CONTEXT_MENU$$ 以點選該物品，並在內容選單內選擇相應的操作。</text>
+	</string>
+
+	<string id="ls_c_tip_37">
+		<text>AC-96/2具有獨特的兩連發射擊模式。在此模式下，連發的兩顆子彈都會擊中同一點。</text>
+	</string>
+
+	<string id="ls_c_tip_38">
+		<text>如果想要卸下武器上的消音器、瞄準鏡或者下掛榴彈發射器，只需在背包中選擇相應武器，然後在彈出的功能表中選擇相應操作即可。</text>
+	</string>
+
+	<string id="ls_c_tip_39">
+		<text>雙管獵槍幾乎可以同時進行兩管發射。</text>
+	</string>
+
+	<string id="ls_c_tip_4">
+		<text>你可以用篩選器隱藏或顯示PDA地圖上的各種標示。篩選按鈕在地圖上方，目前任務列下方。</text>
+	</string>
+
+	<string id="ls_c_tip_40">
+		<text>如果你想在移動時盡量保持安靜，可以微微傾斜左搖杆來行走或按 $$ACTION_CROUCH$$ 蹲伏。</text>
+	</string>
+
+	<string id="ls_c_tip_41">
+		<text>散彈槍是近距離戰鬥的武器。你的敵人離你越遠，效果越差。</text>
+	</string>
+
+	<string id="ls_c_tip_42">
+		<text>躲避小型武器射擊時，需確保你躲在堅固的東西後。與水泥牆相比，木板、金屬板不算是安全的掩體。</text>
+	</string>
+
+	<string id="ls_c_tip_43">
+		<text>別小看手槍。它們的停止力相當可觀，並可有效打擊護甲較弱的目標。</text>
+	</string>
+
+	<string id="ls_c_tip_44">
+		<text>對大多的敵人來說，爆頭會造成致命傷害。</text>
+	</string>
+
+	<string id="ls_c_tip_45">
+		<text>特異區內每一種變異體都有自己的戰鬥特質。如果你將之考慮在內，則可以提高生存的幾率。</text>
+	</string>
+
+	<string id="ls_c_tip_47">
+		<text>敵人會使用榴彈。當你看到榴彈指標時，應該立刻離開殺傷區域。</text>
+	</string>
+
+	<string id="ls_c_tip_48">
+		<text>跳耀前加速可以越過大的縫隙或裂縫。</text>
+	</string>
+
+	<string id="ls_c_tip_49">
+		<text>顯示健康和耐力的關鍵指標位在螢幕右下角。</text>
+	</string>
+
+	<string id="ls_c_tip_5">
+		<text>有些防護服配有一體式頭盔。此類防護服無法配用其他頭盔。</text>
+	</string>
+
+	<string id="ls_c_tip_50">
+		<text>狙擊步槍具有高平整度與精準度，是消滅遠距離地人的理想武器。近距離射擊效果較差。</text>
+	</string>
+
+	<string id="ls_c_tip_51">
+		<text>當你在移動時，射擊精準度會大打折扣。站立或蹲伏可提高精準度。</text>
+	</string>
+
+	<string id="ls_c_tip_52">
+		<text>武器和防護服在特異區惡劣的條件下，磨損的速度相當快。磨損的武器精準度會降低，容易失敗，而防護服的保護效果則有限。</text>
+	</string>
+
+	<string id="ls_c_tip_53">
+		<text>特異區有自己的生命，也就是說，你經常會在已清過的區域遇到變異體，或是敵人潛行者。 </text>
+	</string>
+
+	<string id="ls_c_tip_54">
+		<text>在特異區內保持警覺，不要依靠舊資訊。當你回到探索過的特異區域，可能會發現舊的方法已不管用。</text>
+	</string>
+
+	<string id="ls_c_tip_55">
+		<text>神器不是静止的：它們會在特異區內移動。瘋狂追逐神器會讓你很快就掉進特異點內。</text>
+	</string>
+
+	<string id="ls_c_tip_56">
+		<text>有些醫療產品具有獨特的性能。例如：大力丸可讓你暫時增加負重，而心靈阻盾藥可幫助你抵禦心靈輻射。</text>
+	</string>
+
+	<string id="ls_c_tip_57">
+		<text>有些潛行者可能會為你提供服務，例如資訊、獨家物品，或向你訂購特定的神器。</text>
+	</string>
+
+	<string id="ls_c_tip_58">
+		<text>與普通的潛行者交談可能會獲得新區域或最近事件的有用資訊。</text>
+	</string>
+
+	<string id="ls_c_tip_59">
+		<text>能量釋放後，新的神器可能會出現在你已經探索過的特異區域。</text>
+	</string>
+
+	<string id="ls_c_tip_6">
+		<text>等待能量釋放時，請在可靠的建築物或地下躲避。當能量釋放將至，PDA上會標出最近的掩體。</text>
+	</string>
+
+	<string id="ls_c_tip_60">
+		<text>你可以在兩個武器欄內使用任何武器。你可以自由創造武器組合，例如突擊步槍／散彈槍，或是手槍／狙擊步槍。</text>
+	</string>
+
+	<string id="ls_c_tip_61">
+		<text>在不同潛行者營地內的貿易商人都有自己獨特的商品。例如，醫護人員一定有最好的醫療用品。</text>
+	</string>
+
+	<string id="ls_c_tip_62">
+		<text>如果你在負傷或中了輻射毒時進到潛行者營地，你可以利用營地裡醫護人員的免費援助。</text>
+	</string>
+
+	<string id="ls_c_tip_63">
+		<text>你可以把東西放在營地的私人儲物箱內，免去拖著不必要的物品到處走的麻煩。</text>
+	</string>
+
+	<string id="ls_c_tip_64">
+		<text>如果你需要等到特定的時間，你可以在營地小睡來打發時間。請找到睡覺區域，按下 $$ACTION_USE$$ 並選擇想要睡多久。</text>
+	</string>
+
+	<string id="ls_c_tip_65">
+		<text>頭盔內的夜視裝置可升級至下一代。升級後能擴大視線範圍。</text>
+	</string>
+
+	<string id="ls_c_tip_66">
+		<text>如果你想生存下去，就需要隨時注意蓋格計數器發出的劈啪聲，它會發出輻射和特異點危險警告，讓你知道你已經很接近特異點了。</text>
+	</string>
+
+	<string id="ls_c_tip_67">
+		<text>在特異區外時，身上多帶幾個彈匣——它們肯定會派上用場。</text>
+	</string>
+
+	<string id="ls_c_tip_68">
+		<text>記得定期儲存你的遊戲，以免一直重複玩同一個部分。</text>
+	</string>
+
+	<string id="ls_c_tip_69">
+		<text>正確使用藥物對了解其療效很有幫助。查閱藥物說明以了解藥物的作用。</text>
+	</string>
+
+	<string id="ls_c_tip_7">
+		<text>武器的平整度會影響子彈的軌道，而操作則決定了瞄準鏡在開火後回到原位所需的時間。</text>
+	</string>
+
+	<string id="ls_c_tip_70">
+		<text>使用榴彈攻擊掩體中的敵人。留意榴彈的爆炸半徑，避免傷害友軍。</text>
+	</string>
+
+	<string id="ls_c_tip_71">
+		<text>要丟棄背包內的物品，請按下 $$ACTION_UI_CONTEXT_MENU$$ 並從內容選單內選擇相應的操作。</text>
+	</string>
+
+	<string id="ls_c_tip_72">
+		<text>要讓遊戲在關鍵時刻自動儲存進度，可以使用選單內的特殊設定。</text>
+	</string>
+
+	<string id="ls_c_tip_73">
+		<text>回到營地時，你應該要修理裝備、販賣不需要的戰利品，並補充彈藥和醫療用品。</text>
+	</string>
+
+	<string id="ls_c_tip_74">
+		<text>你可以在遊戲選單內隨時改變遊戲的難度。</text>
+	</string>
+
+	<string id="ls_c_tip_75">
+		<text>突襲特異區時，使用防護服、神器或適當的药品可降低有害影響。</text>
+	</string>
+
+	<string id="ls_c_tip_76">
+		<text>每一種武器的精準度、操作、傷害和射擊速率都各有不同，你可以在眾多選擇中挑選適合的武器。</text>
+	</string>
+
+	<string id="ls_c_tip_77">
+		<text>除了武器與彈藥之外，你也可能从敵人屍體上找到有價值的东西，例如含有資訊的PDA。</text>
+	</string>
+
+	<string id="ls_c_tip_78">
+		<text>神器不只是有價值的戰利品：除了重量轻和价格昂貴外，它們通常还具有非常有用的效果。</text>
+	</string>
+
+	<string id="ls_c_tip_79">
+		<text>因為特異區的環境，許多變異體都有輻射。如果沒有足夠的輻射保護，接近他們是極度危險的行為。</text>
+	</string>
+
+	<string id="ls_c_tip_8">
+		<text>你可以使用繃帶、軍隊醫藥包或長春藥來止血。如果你不迅速處理傷口，失血會對健康造成嚴重的傷害。</text>
+	</string>
+
+	<string id="ls_c_tip_84">
+		<text>為了減少被敵人擊中的機會，可按住 $$ACTION_WPN_ZOOM$$ 並按下 $$ACTION_UI_TAB_LEFT$$／$$ACTION_UI_TAB_RIGHT$$，在角落趴伏還擊。</text>
+	</string>
+
+	<string id="ls_c_tip_85">
+		<text>有了內建的目標定位機制，你的望遠鏡不僅可以看清遠處的物體，還能定位敵人。</text>
+	</string>
+
+	<string id="ls_c_tip_86">
+		<text>要打開或關閉手電筒，請按 $$ACTION_TORCH$$。</text>
+	</string>
+
+	<string id="ls_c_tip_88">
+		<text>如果你的頭盔上有夜視裝置，你可以按下 $$ACTION_NIGHT_VISION$$ 以啟動或停用。</text>
+	</string>
+
+	<string id="ls_c_tip_9">
+		<text>藥物不會立即生效，且有的藥物效果相當持久。</text>
+	</string>
+
+	<string id="ls_c_tip_90">
+		<text>你的PDA上有地圖、目前任務的資訊、你的个人數據和訊息欄。按下 $$ACTION_ACTIVE_JOBS$$ 可打開PDA。</text>
+	</string>
+
+	<string id="ls_c_tip_91">
+		<text>你必須拿出探測器才能搜尋神器。</text>
+	</string>
+
+	<string id="ls_c_tip_94">
+		<text>跑動是最快的移動方法，但也是最累的。按下 $$ACTION_run_or_lie_down$$ 可跑動。</text>
+	</string>
+
+	<string id="ls_c_tip_95">
+		<text>瞄準射擊的精準度比直接開火好得多。按下 $$ACTION_WPN_ZOOM$$ 可瞄準。</text>
+	</string>
+
+	<string id="ls_c_tip_96">
+		<text>如果你有下掛式榴彈發射器，你可以按下 $$ACTION_WPN_FUNC$$ 切換榴彈發射與正常射擊模式。</text>
+	</string>
+
+	<string id="ls_c_tip_97">
+		<text>如果你目前的武器有多種彈藥，你可以按下 $$ACTION_WPN_NEXT$$ 以切換彈藥。</text>
+	</string>
+
+	<string id="ls_c_tip_98">
+		<text>在彈匣清空前裝填彈藥，請按 $$ACTION_WPN_RELOAD$$。</text>
+	</string>
+
+</string_table>

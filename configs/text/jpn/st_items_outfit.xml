@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="csky_heavy_outfit_name">
+		<text>CS-3aボディアーマー</text>
+	</string>
+	<string id="dolg_heavy_outfit_name">
+		<text>PSZ-9d デューティー・アーマー</text>
+	</string>
+	<string id="dolg_outfit_name">
+		<text>PS5-M ユニバーサル防護スーツ</text>
+	</string>
+	<string id="exo_outfit_name">
+		<text>エクソスケルトン</text>
+	</string>
+	<string id="military_outfit_name">
+		<text>ブラト・アーマースーツ</text>
+	</string>
+	<string id="mp_exo_outfit_description">
+		<text>このエクソスケルトンは、可動性を犠牲にして弾丸および破砕性ダメージからの優れた防護を提供する。徹甲弾に弱い。</text>
+	</string>
+	<string id="mp_exo_outfit_name">
+		<text>エクソスケルトン</text>
+	</string>
+	<string id="mp_military_outfit_description">
+		<text>軍の攻撃作戦用のアーマースーツ。可動性を失わずに、フルメタルジャケット弾および破砕性ダメージからの優れた防護を提供する。徹甲弾に弱い。</text>
+	</string>
+	<string id="mp_military_outfit_name">
+		<text>軍用アーマースーツ</text>
+	</string>
+	<string id="novice_outfit_description">
+		<text>一般的な黒革のトレンチコート。夜間に暖かくするためか、ブラインドドッグの噛みつきから保護すること以外に、特別の目的を持っていない。トレンチコートはそれほど快適ではなく、暗闇で隠れやすいことか、単にその軽快な外観により、ゾーンではバンディットによく使用される。</text>
+	</string>
+	<string id="novice_outfit_name">
+		<text>革トレンチコート</text>
+	</string>
+	<string id="scientific_outfit_name">
+		<text>SEVAボディスーツ</text>
+	</string>
+	<string id="specops_outfit_name">
+		<text>ベリル-5Mアーマースーツ</text>
+	</string>
+	<string id="st_helm_battle">
+		<text>スフィアM12ヘルメット</text>
+	</string>
+	<string id="st_helm_battle_descr">
+		<text>外装が布地のアルミニウム／チタンヘルメットで、スチール・アーマー部品やアーマー・フェース・マスクを追加できるポケット付き。スフィアM12は、PSZシリーズのスペツナズ・ボディスーツのコンビネーションの一部として通常使用される。その人工呼吸器および内蔵の第一世代ナイトビジョンはゾーンではまったく一般的で、可能な最大の頭部保護を提供する。エレクトロニクス・スロット付き。</text>
+	</string>
+	<string id="st_helm_hardhat">
+		<text>スチール・ヘルメット</text>
+	</string>
+	<string id="st_helm_hardhat_descr">
+		<text>付属品のない、まったく時代遅れの軍用スチール製ヘルメット。アノマリーまたは放射能からの防護は提供されないが、弾丸をそらすことはできる。このヘルメットは、派閥間の簡単な武力紛争での使用を除いて、ゾーンでは特に一般的ではない。</text>
+	</string>
+	<string id="st_helm_protective">
+		<text>スクリーン・ヘルメット</text>
+	</string>
+	<string id="st_helm_protective_descr">
+		<text>気密バイザー付きの軽いヘルメットは、アノマリーからの防護が目的。デザイン面では、ヘルメットはSEVAボディスーツと同じ防衛研究所によって作られた。その使用意図は、アノマリーが非常に多いエリアでの作戦用スーツに適合している。</text>
+	</string>
+	<string id="st_helm_respirator">
+		<text>ガスマスク</text>
+	</string>
+	<string id="st_helm_respirator_descr">
+		<text>放射性粒子と毒物の空気の濾過のために使用される、普通のプラスチックとゴムでできた防毒マスク。普遍的な機能性により、すべての派閥のルーキーからベテラン兵までに使用される。物理的防護を提供しない。</text>
+	</string>
+	<string id="st_helm_tactic">
+		<text>戦術ヘルメット</text>
+	</string>
+	<string id="st_helm_tactic_descr">
+		<text>カモフラージュのない戦術ヘルメットの西側陣営モデル。それがどのようにゾーンに入ったかは知られていない。ヘルメットは、多くのスキャナおよび衛星通信装置によって、チーム・リーダーに敵に対する戦略優勢を提供するように設計されている。衛星通信装置は、事前にはヘルメットに取り付けられていない。多層のケブラー保護および外装要素で電子部品を保護している。人工呼吸器および第一世代ナイトビジョンが付いている。</text>
+	</string>
+	<string id="stalker_outfit_name">
+		<text>サンライズ・ボディスーツ</text>
+	</string>
+	<string id="svoboda_heavy_outfit_name">
+		<text>フリーダム・ガーディアン・スーツ</text>
+	</string>
+	<string id="svoboda_light_outfit_description">
+		<text>この軽量ストーカー・ボディスーツはフリーダムの職人によって作られた。スーツの生地はホライズンで、アノマリーに対する抵抗を増加させるために、派閥の試行錯誤による開発の結果できたもの。サンライズ・スーツやウィンド・オブ・フリーダム・スーツのように、ボディアーマーとアーティファクト用コンテナを内蔵している。</text>
+	</string>
+	<string id="svoboda_light_outfit_name">
+		<text>ウィンド・オブ・フリーダム・ボディスーツ</text>
+	</string>
+	<string id="dolg_outfit_description">
+		<text>この現代バージョンのデューティーのボディースーツは、軽量スーツに慣れているストーカーの新兵によく適す。PSZシリーズと異なり、このスーツはピストル弾丸を止めることができ、アノマリーから良い保護を提供する。アーティファクト用コンテナを付ける改造はできないが、代わりに戦闘支援システムで改良できる。</text>
+	</string>
+	<string id="military_outfit_description">
+		<text>この現代的な軍用アーマースーツは、アノマリーエリアの攻撃作戦のためにデザインされた。PSZ-12p重軍・アーマースーツ、内蔵防護スーツ、およびアノマリー防護ボディースーツで構成される。アーマーは着用者の可動性を大幅に縮小せずに、弾丸および破砕弾からの優れた防護を提供する。アーティファクト用コンテナは付かない</text>
+	</string>
+	<string id="mp_scientific_outfit_description">
+		<text>ゾーンでの研究を行なうために意図されたこのボディースーツは、閉サイクル呼吸モジュールおよび外部隔離コーティングを組み合わせ、アノマリーからの優れた防護をする。物理的な衝撃からの防護は弱いため、スーツは弾丸や破砕弾ダメージに対しては向かない。内蔵アーティファクト用コンテナが付けられる。</text>
+	</string>
+	<string id="scientific_outfit_description">
+		<text>キーウの防衛研究所のひとつで作られたこのスーツは、手製ストーカー・スーツの代わりとなった。内蔵ボディアーマーはピストル弾丸だけしか止められないが、アノマリーと放射能の防護システムは他に劣らない。すべてを改良可能な素晴らしい2つの内蔵アーティファクト用コンテナ付きで、多くの経験を積んだストーカーが選ぶ装備。</text>
+	</string>
+	<string id="specops_outfit_description">
+		<text>このアイテムは、ゾーンで使用するために改造されたベリリウム・スパッタ付きの軍用PS5シリーズボディアーマーで構成される。高い放射能領域の攻撃作戦のためにデザインされており、アノマリーの多い活動領域においては効果がない。スーツは埋蔵品との交換により、軍からストーカーたちに流れている。アーティファクト用コンテナは付かない。</text>
+	</string>
+	<string id="stalker_outfit_description">
+		<text>このDIYストーカー・ボディースーツは、プレキシガラス裏地の2階層状ゴム引き生地と内蔵ボディーアーマーのコンビネーション。防弾服がピストル弾丸から着用者を保護できないにもかかわらず、スーツは低価格と改造の可能性があることで大きな人気を持つ。内蔵アーティファクト用コンテナが付けられる。</text>
+	</string>
+	<string id="svoboda_heavy_outfit_description">
+		<text>フリーダムの職人によって作られた強化ボディアーマー付きのストーカー・ボディースーツは、戦闘とアノマリー防護の両方に使える良いバランスを持っている。内蔵ボディアーマーはメッキと10のケブラー層でできており、ピストル弾丸を止めることができる。スーツはアノマリーからの防護用に比較的高価なソブリン合成物を使用する。内蔵アーティファクト用コンテナが付けられる。</text>
+	</string>
+	<string id="dolg_heavy_outfit_description">
+		<text>デューティー・ボディースーツのこの初期モデルは、ゾーンのために改造されたスペツナズPSZ-9ボディアーマー。スーツはライフル弾丸を止めることができるが、高い防護レベルのために、重量、かさばり、アノマリー防護が犠牲にされている。アーティファクト用コンテナを付ける改造はできないが、代わりに戦闘支援システムで改良できる。</text>
+	</string>
+	<string id="csky_heavy_outfit_description">
+		<text>以前にクリアスカイ攻撃部隊の標準品として使われていた。このアーマーは優れた防護ボディースーツであるが、派閥解消後は安全性を保証できなくなった。アノマリーからよく保護され、アーマーはピストル弾丸を止めることができる。内蔵アーティファクト用コンテナが付けられる。</text>
+	</string>
+	<string id="exo_outfit_description">
+		<text>軍のエクソスケルトンの実験サンプル。高すぎるコストに加えデザインに欠点があったため、大量生産されなかった。それにもかかわらず、すべての装備の重量を運べる能力があるために需要はあり、少量がウクライナ郊外の地下設備の中で生産されている。内蔵アーティファクト用コンテナが付けられる。</text>
+	</string>
+	<string id="mp_scientific_outfit_name">
+		<text>SEVAボディ・スーツ</text>
+	</string>
+</string_table>

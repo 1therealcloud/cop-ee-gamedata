@@ -1,0 +1,88 @@
+-- mtb-bartlomiej.kunikowski Start: rewrite part of Lua sound code to C++
+
+function set_sound_play(npc_id, sound, faction, point)
+	local npc = db.storage[npc_id] and db.storage[npc_id].object
+
+	local pointString
+	if point == nil then
+		pointString = "nil"
+	elseif type(point) == "number" then
+		pointString = tostring(point)
+	else
+		pointString = point
+	end
+
+	return xr_sound_impl.set_sound_play_impl(npc, npc_id, db.actor, sound or "nil", faction or "nil", pointString)
+end
+
+function update(npc_id)
+	local npc = db.storage[npc_id] and db.storage[npc_id].object
+    local callback_res = xr_sound_impl.update_impl(npc, npc_id)
+
+	local st   = db.storage[npc_id]
+	if st.active_scheme == nil then
+		return
+	end
+
+	if st[st.active_scheme].signals == nil then
+		return
+	end
+
+	if callback_res < 0 then
+		return
+	elseif callback_res == 0 then
+		st[st.active_scheme].signals["theme_end"] = true
+		st[st.active_scheme].signals["sound_end"] = true
+	else
+		st[st.active_scheme].signals["sound_end"] = true
+	end
+end
+
+function play_sound_looped(npc_id, sound)
+	xr_sound_impl.play_sound_looped_impl(db.storage[npc_id].object, sound or "nil")
+end
+
+function stop_sound_looped(npc_id, sound)
+	xr_sound_impl.stop_sound_looped_impl(db.storage[npc_id].object, sound or "nil")
+end
+
+function set_volume_sound_looped(npc_id, sound, level)
+	xr_sound_impl.set_volume_sound_looped_impl(db.storage[npc_id].object, sound or "nil", level)
+end
+
+function actor_save(thread)
+	set_save_marker(thread, "save", false, "sound_actor_save")
+	xr_sound_impl.actor_save_impl(thread)
+	set_save_marker(thread, "save", true, "sound_actor_save")
+end
+
+function actor_load(thread)
+	set_save_marker(thread, "load", false, "sound_actor_load")
+	xr_sound_impl.actor_load_impl(thread)
+	set_save_marker(thread, "load", true, "sound_actor_load")
+end
+
+function save_npc(thread, npc_id)
+	set_save_marker(thread, "save", false, "sound_npc_save")
+	xr_sound_impl.save_npc_impl(thread, npc_id)
+	set_save_marker(thread, "save", true, "sound_npc_save")
+end
+
+function load_npc(thread, npc_id)
+	set_save_marker(thread, "load", false, "sound_npc_save")
+	xr_sound_impl.load_npc_impl(thread, npc_id)
+	set_save_marker(thread, "load", true, "sound_npc_save")
+end
+
+function start_game_callback()
+	xr_sound_impl.start_game_callback_impl()
+end
+
+function stop_sounds_by_id(obj_id)
+	local npc = db.storage[obj_id] and db.storage[obj_id].object
+	if npc ~= nil then
+		xr_sound_impl.stop_sounds_by_id_impl(npc)
+	end
+end
+
+-- mtb-bartlomiej.kunikowski End: rewrite part of Lua sound code to C++

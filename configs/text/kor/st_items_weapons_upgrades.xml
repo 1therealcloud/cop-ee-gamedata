@@ -1,0 +1,2695 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_prop_bullet_speed">
+		<text>평탄도</text>
+	</string>
+
+	<string id="st_prop_calibre">
+		<text>구경</text>
+	</string>
+
+	<string id="st_prop_recoil">
+		<text>반동</text>
+	</string>
+
+	<string id="st_prop_reliability">
+		<text>안정성</text>
+	</string>
+
+	<string id="st_prop_scope_1.6x">
+		<text>1.6배율 반사 조준경</text>
+	</string>
+
+	<string id="st_prop_scope_4x">
+		<text>4배율 광학 조준경</text>
+	</string>
+
+	<string id="st_prop_silencer">
+		<text>소음기</text>
+	</string>
+
+	<string id="st_prop_underbarrel_slot">
+		<text>언더배럴 거치대</text>
+	</string>
+
+	<string id="st_prop_weight">
+		<text>무게</text>
+	</string>
+
+	<string id="st_up_add_a1_descr">
+		<text>외부 나사식 총열입니다. 소음기를 설치할 수 있습니다.</text>
+	</string>
+
+	<string id="st_up_add_a1_name">
+		<text>외부 나사식 총열</text>
+	</string>
+
+	<string id="st_up_add_a2_descr">
+		<text>거치대를 설치합니다. 광학 조준경을 부착할 수 있습니다.</text>
+	</string>
+
+	<string id="st_up_add_a2_name">
+		<text>조준경 거치대</text>
+	</string>
+
+	<string id="st_up_add_a3_descr">
+		<text>거치대를 설치합니다. 언더배럴 유탄 발사기를 부착할 수 있습니다.</text>
+	</string>
+
+	<string id="st_up_add_a3_name">
+		<text>언더배럴 유탄 발사기 거치대</text>
+	</string>
+
+	<string id="st_up_add_a4_descr">
+		<text>기본 탄창을 더 큰 탄창으로 교체합니다.</text>
+	</string>
+
+	<string id="st_up_add_a4_name">
+		<text>탄창 한도 증가</text>
+	</string>
+
+	<string id="st_up_add_b1_descr">
+		<text>무기 기계 및 자동화 부품을 더 복잡한 일체형으로 변형합니다. 구경을 변경하는 대신 신뢰성이 감소합니다.</text>
+	</string>
+
+	<string id="st_up_add_b1_name">
+		<text>5x45구경으로 변경</text>
+	</string>
+
+	<string id="st_up_add_b2_descr">
+		<text>무기 기계 및 자동화 부품을 더 복잡한 일체형으로 변형합니다. 구경을 변경하는 대신 신뢰성이 감소합니다.</text>
+	</string>
+
+	<string id="st_up_add_b2_name">
+		<text>5x56구경으로 변경</text>
+	</string>
+
+	<string id="st_up_add_b3_descr">
+		<text>무기 기계 및 자동화 부품을 더 복잡한 일체형으로 변형합니다. 구경을 변경하는 대신 신뢰성이 감소합니다.</text>
+	</string>
+
+	<string id="st_up_add_b3_name">
+		<text>9x18구경으로 변경</text>
+	</string>
+
+	<string id="st_up_add_b4_descr">
+		<text>무기 기계 및 자동화 부품을 더 복잡한 일체형으로 변형합니다. 구경을 변경하는 대신 신뢰성이 감소합니다.</text>
+	</string>
+
+	<string id="st_up_add_b4_name">
+		<text>9x19구경으로 변경</text>
+	</string>
+
+	<string id="st_up_addd_a1_descr">
+		<text>무기 부품 길이를 늘리지 않고 탄창 용량이 증가합니다.</text>
+	</string>
+
+	<string id="st_up_addd_a1_name">
+		<text>탄창 용량 증가</text>
+	</string>
+
+	<string id="st_up_addh_a1_descr">
+		<text>가벼우면서도 용량이 더 큰 폴리카보네이트 박스 탄창을 사용합니다. 무게 증가량을 일부 상쇄합니다.</text>
+	</string>
+
+	<string id="st_up_addh_a1_name">
+		<text>박스 탄창 용량 증가</text>
+	</string>
+
+	<string id="st_up_arm_a1_descr">
+		<text>티타늄 방탄판 개수를 늘립니다. 방탄복 내구도가 대폭 향상됩니다.</text>
+	</string>
+
+	<string id="st_up_arm_a1_name">
+		<text>알루미늄/티타늄 방탄판 추가</text>
+	</string>
+
+	<string id="st_up_arm_a2_descr">
+		<text>더 오래 지속되지만 내구도에는 별 효과가 없는 보강 방탄판입니다.</text>
+	</string>
+
+	<string id="st_up_arm_a2_name">
+		<text>케블러 방탄판</text>
+	</string>
+
+	<string id="st_up_arm_a3_descr">
+		<text>알루미늄/티타늄 합금으로 티타늄 무게를 줄입니다. 개인 보호장구에 사용할 수 있습니다.</text>
+	</string>
+
+	<string id="st_up_arm_a3_name">
+		<text>알루미늄/티타늄 방탄판</text>
+	</string>
+
+	<string id="st_up_arm_a4_descr">
+		<text>티타늄은 일반적으로 개인 보호장구에 사용하기에 너무 무겁지만, 가끔 외골격 전투복에 활용하기도 합니다.</text>
+	</string>
+
+	<string id="st_up_arm_a4_name">
+		<text>견고한 티타늄 부품</text>
+	</string>
+
+	<string id="st_up_arm_a5_descr">
+		<text>금속을 탄소섬유로 대체합니다. 방탄복 무게를 줄이면서도 안정성을 그대로 유지합니다.</text>
+	</string>
+
+	<string id="st_up_arm_a5_name">
+		<text>금속 방탄복 부품을 탄소섬유로 대체</text>
+	</string>
+
+	<string id="st_up_arm_a6_descr">
+		<text>케블러 섬유는 방탄복을 제작할 때 가장 흔히 사용하는 재료입니다.</text>
+	</string>
+
+	<string id="st_up_arm_a6_name">
+		<text>케블러 방탄판</text>
+	</string>
+
+	<string id="st_up_arm_a7_descr">
+		<text>폴리카보네이트는 플라스틱처럼 가벼우면서도 권총 탄약을 막을 정도로 견고한 재료입니다.</text>
+	</string>
+
+	<string id="st_up_arm_a7_name">
+		<text>폴리카보네이트 방탄판</text>
+	</string>
+
+	<string id="st_up_arm_a8_descr">
+		<text>세라믹 방탄판은 수명이 길지 않지만, 탄환 충격 무력화 기능이 향상되어 케블러보다 훨씬 안정적입니다.</text>
+	</string>
+
+	<string id="st_up_arm_a8_name">
+		<text>세라믹 방탄판 설치</text>
+	</string>
+
+	<string id="st_up_arm_a9_descr">
+		<text>강철 방탄판을 통째로 트렌치 코트에 기워 넣습니다.</text>
+	</string>
+
+	<string id="st_up_arm_a9_name">
+		<text>강철 방탄판</text>
+	</string>
+
+	<string id="st_up_arm_b1_descr">
+		<text>세라믹 외부 레이어를 통해 비스듬히 충돌하는 철갑탄을 굴절시키고, 직접 부딪힌 철갑탄을 가루가 되게 만듭니다.</text>
+	</string>
+
+	<string id="st_up_arm_b1_name">
+		<text>세라믹 방탄복 외부 레이어</text>
+	</string>
+
+	<string id="st_up_arm_b2_descr">
+		<text>외부 레이어가 손상될 경우를 대비해 내부 방탄복 레이어를 추가합니다.</text>
+	</string>
+
+	<string id="st_up_arm_b2_name">
+		<text>이중 보호용 방탄판 레이어</text>
+	</string>
+
+	<string id="st_up_arm_b3_descr">
+		<text>방탄복에 충격을 더 널리 분산시키는 내부 레이어를 추가합니다.</text>
+	</string>
+
+	<string id="st_up_arm_b3_name">
+		<text>보정 부품 추가</text>
+	</string>
+
+	<string id="st_up_arm_b4_descr">
+		<text>주 방탄복이 손상되어도 권총 탄환을 막을 수 있는 프레임입니다.</text>
+	</string>
+
+	<string id="st_up_arm_b4_name">
+		<text>장갑 프레임 추가</text>
+	</string>
+
+	<string id="st_up_arm_b5_descr">
+		<text>얇은 방탄복을 겹겹이 배치하여 내마모성을 증가시킵니다.</text>
+	</string>
+
+	<string id="st_up_arm_b5_name">
+		<text>보호 수단 세분화</text>
+	</string>
+
+	<string id="st_up_arm_b6_descr">
+		<text>방탄복을 늘린다고 방호력이 향상되진 않지만, 대신 내구도가 증가합니다.</text>
+	</string>
+
+	<string id="st_up_arm_b6_name">
+		<text>두 번째 예비 레이어</text>
+	</string>
+
+	<string id="st_up_arm_b7_descr">
+		<text>이동식 방탄판으로 관절의 총상을 방지합니다.</text>
+	</string>
+
+	<string id="st_up_arm_b7_name">
+		<text>관절용 이동식 보호 방탄판 설치</text>
+	</string>
+
+	<string id="st_up_arm_b8_descr">
+		<text>방탄판의 강철 프레임을 더 가벼운 알루미늄 프레임으로 교체합니다.</text>
+	</string>
+
+	<string id="st_up_arm_b8_name">
+		<text>경량형 알루미늄 프레임</text>
+	</string>
+
+	<string id="st_up_arm_b9_descr">
+		<text>두터운 삽입물입니다. 방탄복에 전해지는 탄환의 충격력이 감소합니다.</text>
+	</string>
+
+	<string id="st_up_arm_b9_name">
+		<text>두터운 가죽 삽입물</text>
+	</string>
+
+	<string id="st_up_arm_c10_descr">
+		<text>실리콘 상쇄 기능을 갖춘 세라믹 레이어를 추가합니다.</text>
+	</string>
+
+	<string id="st_up_arm_c10_name">
+		<text>강화 세라믹 방탄판</text>
+	</string>
+
+	<string id="st_up_arm_c11_descr">
+		<text>가벼운 소재를 사용해 방탄복 무게를 줄입니다.</text>
+	</string>
+
+	<string id="st_up_arm_c11_name">
+		<text>경량형 합성/플라스틱 부품 설치</text>
+	</string>
+
+	<string id="st_up_arm_c12_descr">
+		<text>단단한 티타늄 방탄판을 사용합니다. 보병이 끌고 다니기에는 너무 무겁지만, 강력한 동력 모터를 장착한 외골격 전투복은 무게를 감당할 수 있습니다.</text>
+	</string>
+
+	<string id="st_up_arm_c12_name">
+		<text>동체 티타늄 방탄복</text>
+	</string>
+
+	<string id="st_up_arm_c13_descr">
+		<text>특수 방사능 화학전용 전투 방호복 SBK-RKhZ.m.II입니다. 2형 제품입니다.</text>
+	</string>
+
+	<string id="st_up_arm_c13_name">
+		<text>SBK-RKhZ.m.II 밀폐형 방사능 방호복</text>
+	</string>
+
+	<string id="st_up_arm_c1_descr">
+		<text>노동 집약적이고 시간이 많이 소모되는 업그레이드입니다. 인기는 그다지 없지만 목숨을 구하는 데 요긴한 것으로 알려져 있습니다.</text>
+	</string>
+
+	<string id="st_up_arm_c1_name">
+		<text>체인메일 재봉 셔츠</text>
+	</string>
+
+	<string id="st_up_arm_c2_descr">
+		<text>스케일을 착용자가 같은 위치에 맞는 상황을 방지하도록 세라믹 방탄판 위에 덧대는 식으로 추가합니다.</text>
+	</string>
+
+	<string id="st_up_arm_c2_name">
+		<text>편향 세라믹 스케일 개조</text>
+	</string>
+
+	<string id="st_up_arm_c3_descr">
+		<text>방탄복을 소버린 화합물로 처리해 기계적 손상 및 원단 파손이 거의 발생하지 않도록 합니다.</text>
+	</string>
+
+	<string id="st_up_arm_c3_name">
+		<text>소버린 함유 화합물 처리</text>
+	</string>
+
+	<string id="st_up_arm_c4_descr">
+		<text>세라믹이 탄환 충격을 파편으로 굴절시켜 충격량을 대폭 완화합니다.</text>
+	</string>
+
+	<string id="st_up_arm_c4_name">
+		<text>방탄판에 세라믹 레이어 적용</text>
+	</string>
+
+	<string id="st_up_arm_c5_descr">
+		<text>알루미늄 대신 베릴륨을 사용하는 강화 매트릭스입니다. 보병을 가장 안정적으로 보호하는 수단에 속합니다.</text>
+	</string>
+
+	<string id="st_up_arm_c6_descr">
+		<text>세라믹이 탄환 충격을 파편으로 굴절시켜 충격량을 대폭 완화합니다.</text>
+	</string>
+
+	<string id="st_up_arm_c6_name">
+		<text>방탄판용 세라믹 레이어</text>
+	</string>
+
+	<string id="st_up_arm_c7_descr">
+		<text>탄소섬유는 내구성과 내마모성이 가장 뛰어난 소재 중 하나로, 항공 구조물에도 사용됩니다.</text>
+	</string>
+
+	<string id="st_up_arm_c8_descr">
+		<text>여러 층의 폴리머 및 세라믹 코팅을 결합합니다.</text>
+	</string>
+
+	<string id="st_up_arm_c8_name">
+		<text>차단막 결합 방탄판 코팅</text>
+	</string>
+
+	<string id="st_up_arm_c9_descr">
+		<text>국내 기술이자 개인 방호 부문에서 이루어진 최신 개발 사항 중 하나로 인공 사파이어의 성장을 들 수 있습니다.</text>
+	</string>
+
+	<string id="st_up_autd_a1_descr">
+		<text>부품을 조정합니다. 무기를 더 오래 걸림 없이 사용할 수 있습니다.</text>
+	</string>
+
+	<string id="st_up_autd_a1_name">
+		<text>부품 조정</text>
+	</string>
+
+	<string id="st_up_autd_a2_descr">
+		<text>플라스틱 부품이 유행하며 소기의 성과를 거두었고, 업그레이드로서 많은 인기를 누리게 되었습니다.</text>
+	</string>
+
+	<string id="st_up_autd_a2_name">
+		<text>폴리 소재 부품</text>
+	</string>
+
+	<string id="st_up_autd_b1_descr">
+		<text>발사 충격 경감 메커니즘입니다. 반동이 감소합니다.</text>
+	</string>
+
+	<string id="st_up_autd_b1_name">
+		<text>발사 충격 경감 메커니즘</text>
+	</string>
+
+	<string id="st_up_autd_b2_descr">
+		<text>탄환을 발사할 때 단단히 고정합니다. 탄환이 표적을 맞힐 때까지 직선 탄도를 유지합니다.</text>
+	</string>
+
+	<string id="st_up_autd_b2_name">
+		<text>탄환 고정 부품 설치</text>
+	</string>
+
+	<string id="st_up_autd_b3_descr">
+		<text>무기에 종종 사용하는 롤러 고정 장치입니다. 반동이 감소하고 탄착군이 개선됩니다.</text>
+	</string>
+
+	<string id="st_up_autd_b3_name">
+		<text>롤러 장치를 갖춘 세미프리 볼트</text>
+	</string>
+
+	<string id="st_up_autd_b4_descr">
+		<text>가스 실린더를 추가로 설치합니다. 무기 부하가 감소하여 발사 속도가 대폭 증가합니다.</text>
+	</string>
+
+	<string id="st_up_autd_b4_name">
+		<text>추가 가스 실린더 설치</text>
+	</string>
+
+	<string id="st_up_autd_b5_descr">
+		<text>자동 콕식 산탄총의 반자동 사격에 사용하는 가스 모터입니다.</text>
+	</string>
+
+	<string id="st_up_autd_b5_name">
+		<text>가스 모터 설치</text>
+	</string>
+
+	<string id="st_up_autd_c1_descr">
+		<text>보호용 스퍼터입니다. 메커니즘 오작동으로 인한 오사를 방지합니다.</text>
+	</string>
+
+	<string id="st_up_autd_c1_name">
+		<text>보호 부품 스퍼터</text>
+	</string>
+
+	<string id="st_up_autd_c2_descr">
+		<text>총알이 발사되면 부품이 총열로 들어가는 통로를 개방한 뒤, 전방 손잡이의 세로 방향으로 밀려 닫힌 위치로 돌아갑니다.</text>
+	</string>
+
+	<string id="st_up_autd_c2_name">
+		<text>총열 차폐 장치</text>
+	</string>
+
+	<string id="st_up_autd_c3_descr">
+		<text>일반 산탄총의 펌프 액션 메커니즘을 셀프 콕식으로 변경할 수 있는 자동 관성 장치입니다.</text>
+	</string>
+
+	<string id="st_up_autd_c3_name">
+		<text>자동 관성 장치 설치</text>
+	</string>
+
+	<string id="st_up_autd_c4_descr">
+		<text>통합 역류 모듈은 반동을 줄일 수 있는 최선의 기술적 해법 중 하나입니다.</text>
+	</string>
+
+	<string id="st_up_autd_c4_name">
+		<text>통합 역류 모듈</text>
+	</string>
+
+	<string id="st_up_autd_c5_descr">
+		<text>연사 작동봉입니다. 무기 정확도를 개선합니다.</text>
+	</string>
+
+	<string id="st_up_autd_c5_name">
+		<text>연사 작동봉 설치</text>
+	</string>
+
+	<string id="st_up_auth_a1_descr">
+		<text>볼트 프레임에 부착된 활성 균형추가 움직여 반동을 일부 상쇄합니다.</text>
+	</string>
+
+	<string id="st_up_auth_a1_name">
+		<text>활성 균형추 추가</text>
+	</string>
+
+	<string id="st_up_auth_b1_descr">
+		<text>롤러 부품을 추가로 설치합니다. 반동이 감소합니다.</text>
+	</string>
+
+	<string id="st_up_auth_b1_name">
+		<text>역류 롤러 보정 장치 설치</text>
+	</string>
+
+	<string id="st_up_auth_c1_descr">
+		<text>무기의 볼트 메커니즘을 훨씬 안정적인 메커니즘으로 변경합니다. 발사 속도가 증가합니다.</text>
+	</string>
+
+	<string id="st_up_auth_c1_name">
+		<text>개방형 볼트 발사 장치</text>
+	</string>
+
+	<string id="st_up_auth_c2_descr">
+		<text>무기를 발사할 때 볼트 프레임 평형추가 볼트와 반대로 움직여 기관총을 더 안정적으로 발사할 수 있습니다.</text>
+	</string>
+
+	<string id="st_up_auth_c2_name">
+		<text>자체 조정 균형추 설치</text>
+	</string>
+
+	<string id="st_up_auto_a1_descr">
+		<text>총몸에 균형추를 추가 부품으로 설치합니다. 반작용을 이용해 반동을 줄입니다.</text>
+	</string>
+
+	<string id="st_up_auto_a1_name">
+		<text>이동형 균형추 추가</text>
+	</string>
+
+	<string id="st_up_auto_a2_descr">
+		<text>플라스틱 부품이 유행하며 소기의 성과를 거두었고, 업그레이드로서 많은 인기를 누리게 되었습니다.</text>
+	</string>
+
+	<string id="st_up_auto_a2_name">
+		<text>연사 부품용 충격 내성 폴리모 부품</text>
+	</string>
+
+	<string id="st_up_auto_b1_descr">
+		<text>무기를 오물로부터 보호하는 특수 메커니즘을 설치합니다.</text>
+	</string>
+
+	<string id="st_up_auto_b1_name">
+		<text>연사 2점 가스마개</text>
+	</string>
+
+	<string id="st_up_auto_b2_descr">
+		<text>탄환을 발사할 때 압력을 증가시키기 위해, 특수 부품이 공간을 밀폐하는 방식으로 총열을 폐쇄합니다.</text>
+	</string>
+
+	<string id="st_up_auto_b2_name">
+		<text>총열 차폐 장치 설치</text>
+	</string>
+
+	<string id="st_up_auto_b3_descr">
+		<text>톱니바퀴를 통해 움직임을 동기화합니다. 평탄도가 증가합니다.</text>
+	</string>
+
+	<string id="st_up_auto_b3_name">
+		<text>봉 움직임 동기화</text>
+	</string>
+
+	<string id="st_up_auto_b4_descr">
+		<text>총몸 후면에 부품을 설치해 볼트 속도를 줄입니다. 설치 시 조준 사격 효율이 증가합니다.</text>
+	</string>
+
+	<string id="st_up_auto_b4_name">
+		<text>관성 지연 메커니즘</text>
+	</string>
+
+	<string id="st_up_auto_c1_descr">
+		<text>볼트 메커니즘에 특수 부품을 설치합니다. 볼트의 움직임이 부드러워지고 반동이 감소합니다.</text>
+	</string>
+
+	<string id="st_up_auto_c1_name">
+		<text>역류 속도 경감 장치 추가</text>
+	</string>
+
+	<string id="st_up_auto_c2_descr">
+		<text>저격 소총의 무게가 상당히 증가하는 점을 고려해 사용하는 일체형 개선 조치입니다.</text>
+	</string>
+
+	<string id="st_up_auto_c2_name">
+		<text>내장형 반동 상쇄 장치</text>
+	</string>
+
+	<string id="st_up_auto_c3_descr">
+		<text>이동형 부품이 포함된 메커니즘을 설치합니다. 무기를 발사할 때 탄약 공급 속도가 증가합니다.</text>
+	</string>
+
+	<string id="st_up_auto_c3_name">
+		<text>자동 탄약 공급</text>
+	</string>
+
+	<string id="st_up_auto_c4_descr">
+		<text>무기의 연사 부품을 업그레이드 합니다. 여러 부품을 교체해야 합니다. 명중률이 증가합니다.</text>
+	</string>
+
+	<string id="st_up_auto_c4_name">
+		<text>균형 잡힌 충격 방지 장치</text>
+	</string>
+
+	<string id="st_up_auto_c5_descr">
+		<text>볼트가 움직이는 구간 바로 앞에 합성 부품을 추가합니다. 볼트를 크게 압축하여 명중률이 증가합니다.</text>
+	</string>
+
+	<string id="st_up_auto_c5_name">
+		<text>정지 장치 추가</text>
+	</string>
+
+	<string id="st_up_auto_c6_descr">
+		<text>연결부에서 총열 위치를 고정합니다. 총열이 움직이면 추가 보정용 구멍이 열립니다.</text>
+	</string>
+
+	<string id="st_up_auto_c6_name">
+		<text>"스마트 보정" 부품 설치</text>
+	</string>
+
+	<string id="st_up_auts_a1_descr">
+		<text>방어쇠 메커니즘이 더 부드럽게 작동하도록 현대화합니다. 저격수에게 특히 중요한 업그레이드입니다.</text>
+	</string>
+
+	<string id="st_up_auts_a1_name">
+		<text>방아쇠 격발 조정 메커니즘 설치</text>
+	</string>
+
+	<string id="st_up_auts_a2_descr">
+		<text>사수가 이 부품을 통해 탄환이 발사되는 순간을 미리 느낄 수 있습니다. 사격 명중률이 증가합니다.</text>
+	</string>
+
+	<string id="st_up_auts_a2_name">
+		<text>사전 알림 방아쇠 설치</text>
+	</string>
+
+	<string id="st_up_auts_b1_descr">
+		<text>서방 무기에 종종 사용하는 롤러 고정 장치입니다. 반동이 감소하고 탄착군이 개선됩니다.</text>
+	</string>
+
+	<string id="st_up_auts_b1_name">
+		<text>롤러 장치를 갖춘 세미프리 볼트</text>
+	</string>
+
+	<string id="st_up_auts_b2_descr">
+		<text>발사하는 동안 충격을 일부분 흡수하는 특수 메커니즘입니다. 무기를 더 안정적으로 발사할 수 있습니다.</text>
+	</string>
+
+	<string id="st_up_auts_b2_name">
+		<text>발사 상쇄 장치</text>
+	</string>
+
+	<string id="st_up_auts_b3_descr">
+		<text>저격 소총은 기본 무기보다 유지보수가 훨씬 까다로운 편입니다. 따라서 해당 무기를 3점 가스마개로 업그레이드하는 편이 좋습니다.</text>
+	</string>
+
+	<string id="st_up_auts_b3_name">
+		<text>연사 3점 가스마개 설치</text>
+	</string>
+
+	<string id="st_up_auts_c1_descr">
+		<text>스퍼터로 에너지의 분산을 방지합니다 탄환 충격량이 증가합니다.</text>
+	</string>
+
+	<string id="st_up_auts_c1_name">
+		<text>스퍼터를 이용한 자동 부품 조절</text>
+	</string>
+
+	<string id="st_up_auts_c2_descr">
+		<text>장거리 발사봉 메커니즘을 설치합니다. 저격 소총으로 연사 사격을 수행할 수 있습니다.</text>
+	</string>
+
+	<string id="st_up_auts_c2_name">
+		<text>장거리 발사봉 메커니즘</text>
+	</string>
+
+	<string id="st_up_auts_c3_descr">
+		<text>정지 장치로 역류 메커니즘에 영향을 미칩니다. 발사 정확도가 증가합니다.</text>
+	</string>
+
+	<string id="st_up_auts_c3_name">
+		<text>정지 장치 설치</text>
+	</string>
+
+	<string id="st_up_bar_a1_descr">
+		<text>기존 총열을 명중률 및 평탄도가 개선된 연장 총열로 교체합니다.</text>
+	</string>
+
+	<string id="st_up_bar_a1_name">
+		<text>연장 총열</text>
+	</string>
+
+	<string id="st_up_bar_a2_descr">
+		<text>전방 손잡이에서 커다란 가스실 및 총열을 제외합니다. 명중률에 긍정적인 영향을 미칩니다.</text>
+	</string>
+
+	<string id="st_up_bar_a2_name">
+		<text>"유동적" 총열 설치</text>
+	</string>
+
+	<string id="st_up_bar_a3_descr">
+		<text>과도한 발사 속도 개조로 인해 입을 수 있는 피해를 줄이는 개조입니다.</text>
+	</string>
+
+	<string id="st_up_bar_a3_name">
+		<text>냉각 핀 총열 설치</text>
+	</string>
+
+	<string id="st_up_bar_b1_descr">
+		<text>시간이 지난 부품을 최신 부품으로 교체합니다. 반동이 감소합니다.</text>
+	</string>
+
+	<string id="st_up_bar_b1_name">
+		<text>보정 포구 제퇴기 최적화</text>
+	</string>
+
+	<string id="st_up_bar_b2_descr">
+		<text>총열에 강선관을 추가 설치합니다. 탄약 속도 및 무기 정확도가 상승하지만, 대신 반동이 대폭 증가합니다.</text>
+	</string>
+
+	<string id="st_up_bar_b2_name">
+		<text>총열 내 강선관 추가</text>
+	</string>
+
+	<string id="st_up_bar_b3_descr">
+		<text>근거리 전투에서 살상 범위를 높이기 위해 제작한 총열입니다. 따라서 정밀 사격에는 적합하지 않습니다. 총열의 강선 구간을 간소화하여 발사 속도가 개선됩니다.</text>
+	</string>
+
+	<string id="st_up_bar_b3_name">
+		<text>간이 강선 구간을 갖춘 총열 설치</text>
+	</string>
+
+	<string id="st_up_bar_c1_descr">
+		<text>다각형 강선 부품을 설치합니다. 일반적으로 명중률을 개선하기 위해 수행합니다.</text>
+	</string>
+
+	<string id="st_up_bar_c1_name">
+		<text>다각형 강선 구간을 갖춘 총열 설치</text>
+	</string>
+
+	<string id="st_up_bar_c2_descr">
+		<text>총열 과열도가 감소하고 발사 속도가 증가합니다.</text>
+	</string>
+
+	<string id="st_up_bar_c2_name">
+		<text>사인파형 강선 총열 약실</text>
+	</string>
+
+	<string id="st_up_bar_c3_descr">
+		<text>무기 총열을 특이한 부품으로 교체합니다. 명중률을 개선해 탁월한 평탄도를 보입니다.</text>
+	</string>
+
+	<string id="st_up_bar_c3_name">
+		<text>강선형 저격 소총관</text>
+	</string>
+
+	<string id="st_up_bard_a1_descr">
+		<text>내구성이 뛰어난 소재를 사용합니다. 무기 총열의 마모 및 손상 속도를 늦춥니다.</text>
+	</string>
+
+	<string id="st_up_bard_a1_name">
+		<text>고내구성 합금 총열</text>
+	</string>
+
+	<string id="st_up_bard_b1_descr">
+		<text>총열 내부 표면을 처리하여 기계적 손상으로부터 보호합니다.</text>
+	</string>
+
+	<string id="st_up_bard_b1_name">
+		<text>총열 화합물 처리</text>
+	</string>
+
+	<string id="st_up_bard_b2_descr">
+		<text>총열 부피를 합성 소재로 증강합니다. 탄착군이 대폭 개선됩니다.</text>
+	</string>
+
+	<string id="st_up_bard_b2_name">
+		<text>합성 총열 부피 증강</text>
+	</string>
+
+	<string id="st_up_bard_b3_descr">
+		<text>기존 총열을 평탄도가 개선된 연장 총열로 교체합니다.</text>
+	</string>
+
+	<string id="st_up_bard_b3_name">
+		<text>총열 부위 연장</text>
+	</string>
+
+	<string id="st_up_bard_b4_descr">
+		<text>총열에 가스 배출관을 도입합니다. 먼지가 쌓이는 현상을 방지하고, 일부 반동의 방향을 스스로 총열을 향해 변경합니다.</text>
+	</string>
+
+	<string id="st_up_bard_b4_name">
+		<text>세로형 가스 배출관</text>
+	</string>
+
+	<string id="st_up_bard_b5_descr">
+		<text>기존 총열을 평탄도가 개선된 연장 총열로 교체합니다.</text>
+	</string>
+
+	<string id="st_up_bard_b5_name">
+		<text>총열 부위 연장</text>
+	</string>
+
+	<string id="st_up_bard_b6_descr">
+		<text>이 스퍼터는 총열의 과열을 방지하고, 제조상 결함을 제거해 총열 수명을 크게 늘립니다.</text>
+	</string>
+
+	<string id="st_up_bard_b6_name">
+		<text>총열 내부 부품에 보호용 스퍼터 적용</text>
+	</string>
+
+	<string id="st_up_bard_c1_descr">
+		<text>여러 이동형 피스톤을 포함한 총열 균형 조절 장치를 추가합니다. 무기를 쥘 때 안정성이 증가합니다.</text>
+	</string>
+
+	<string id="st_up_bard_c1_name">
+		<text>총열 균형 조절 장치</text>
+	</string>
+
+	<string id="st_up_bard_c2_descr">
+		<text>총열에 강선 부품을 추가해 기존 형태 사격이 불가능해지지만, 명중률이 단점을 상쇄합니다.</text>
+	</string>
+
+	<string id="st_up_bard_c2_name">
+		<text>강선형 총열</text>
+	</string>
+
+	<string id="st_up_bard_c3_descr">
+		<text>폴리머 소재로 총열 부피를 증강합니다. 총열 압력이 증가해 탄환 속도를 개선합니다.</text>
+	</string>
+
+	<string id="st_up_bard_c3_name">
+		<text>동적 총열 부피 증강</text>
+	</string>
+
+	<string id="st_up_bard_c4_descr">
+		<text>원통형 배럴 드릴로 명중률에 영향을 주지 않고 무기 발사 속도를 개선합니다.</text>
+	</string>
+
+	<string id="st_up_bard_c4_name">
+		<text>원통형 배럴 드릴</text>
+	</string>
+
+	<string id="st_up_bard_c5_descr">
+		<text>무기를 발사할 때 활성 균형추가 동시에 총열의 총구 부위로 움직입니다. 반동을 일부분 보정합니다.</text>
+	</string>
+
+	<string id="st_up_bard_c5_name">
+		<text>총열 덮개에 활성 균형추 추가</text>
+	</string>
+
+	<string id="st_up_barp_a1_descr">
+		<text>기존 총열을 명중률 및 평탄도가 개선된 연장 총열로 교체합니다. 대신 발사 속도가 감소합니다.</text>
+	</string>
+
+	<string id="st_up_barp_a1_name">
+		<text>총열 부위 연장</text>
+	</string>
+
+	<string id="st_up_barp_a2_descr">
+		<text>총열에 구멍을 뚫습니다. 특수 배출구에 가스를 배출해 반동이 감소합니다.</text>
+	</string>
+
+	<string id="st_up_barp_a2_name">
+		<text>천공 총열 부위</text>
+	</string>
+
+	<string id="st_up_barp_a3_descr">
+		<text>기술적으로 총열을 단축합니다. 무기 발사 속도를 늘리면서도 평탄도 및 명중률을 그대로 유지합니다.</text>
+	</string>
+
+	<string id="st_up_barp_a3_name">
+		<text>총열 부위 단축</text>
+	</string>
+
+	<string id="st_up_barp_b1_descr">
+		<text>크롬 도금으로 총열 수명이 증가합니다.</text>
+	</string>
+
+	<string id="st_up_barp_b1_name">
+		<text>배럴 내부 크롬 도금</text>
+	</string>
+
+	<string id="st_up_barp_b2_descr">
+		<text>분리대로 인해 반동이 감소합니다.</text>
+	</string>
+
+	<string id="st_up_barp_b2_name">
+		<text>고무 분리대 추가</text>
+	</string>
+
+	<string id="st_up_barp_b3_descr">
+		<text>간이 강선 부품을 설치합니다. 명중률보다 발사 속도가 중요한 근거리 전투에 유용합니다.</text>
+	</string>
+
+	<string id="st_up_barp_b3_name">
+		<text>간이 강선 구간을 갖춘 총열 설치</text>
+	</string>
+
+	<string id="st_up_barp_b4_descr">
+		<text>총열에 강선관을 추가 설치합니다. 탄약 속도 및 무기 정확도가 상승하지만, 대신 반동이 대폭 증가합니다.</text>
+	</string>
+
+	<string id="st_up_barp_b4_name">
+		<text>총열 내 강선관 추가</text>
+	</string>
+
+	<string id="st_up_barp_b5_descr">
+		<text>총열 하중을 덜어 줍니다. 반동이 대폭 감소합니다.</text>
+	</string>
+
+	<string id="st_up_barp_b5_name">
+		<text>총열 보정기/포구 제퇴기를 프레임으로 이전</text>
+	</string>
+
+	<string id="st_up_barp_c1_descr">
+		<text>총열 과열도가 감소하고 발사 속도가 증가하면서도 평탄도를 그대로 유지합니다.</text>
+	</string>
+
+	<string id="st_up_barp_c1_name">
+		<text>사인파형 강선 총열</text>
+	</string>
+
+	<string id="st_up_barp_c2_descr">
+		<text>다각형 강선 부품을 설치합니다. 일반적으로 저격 소총의 명중률을 개선하기 위해 수행합니다.</text>
+	</string>
+
+	<string id="st_up_barp_c2_name">
+		<text>다각형 강선 구간을 갖춘 총열 설치</text>
+	</string>
+
+	<string id="st_up_barp_c3_descr">
+		<text>공압식 부스터를 설치합니다. 반동 일부를 총열 압력으로 변환하여 총구 속도가 증가합니다.</text>
+	</string>
+
+	<string id="st_up_barp_c3_name">
+		<text>공압식 부스터 설치</text>
+	</string>
+
+	<string id="st_up_exo_a1_descr">
+		<text>이동 장치를 추가합니다. 최대 운반 하중이 증가합니다.</text>
+	</string>
+
+	<string id="st_up_exo_a1_name">
+		<text>동력 모터 추가</text>
+	</string>
+
+	<string id="st_up_exo_b1_descr">
+		<text>프리덤 기술자가 마련한 개조입니다. 외골격 전투복의 높은 무게를 고려해 금속을 탄소섬유로 대체합니다.</text>
+	</string>
+
+	<string id="st_up_exo_b1_name">
+		<text>금속 부품을 탄소섬유로 대체</text>
+	</string>
+
+	<string id="st_up_exo_b2_descr">
+		<text>덮개로 외골격 전투복의 주요 부품이 정확한 사격에 손상되지 않게 보호합니다.</text>
+	</string>
+
+	<string id="st_up_exo_b2_name">
+		<text>구동 장치 덮개</text>
+	</string>
+
+	<string id="st_up_exo_c1_descr">
+		<text>이동 개선 장치로 스프링 및 관절부를 강화합니다. 착용자가 외골격 전투복의 체중으로 운동 기능을 쉽게 이용하도록 합니다.</text>
+	</string>
+
+	<string id="st_up_exo_c1_name">
+		<text>샤고호드 이동 개선 장치</text>
+	</string>
+
+	<string id="st_up_exo_c2_descr">
+		<text>유압식 부스터를 추가합니다. 해당 개조는 3세대 및 4세대 외골격 전투복을 구분하는 기준이 됩니다. 외골격 전투복을 착용한 채 질주할 수 있습니다.</text>
+	</string>
+
+	<string id="st_up_exo_c2_name">
+		<text>구동 장치에 유압식 부스터 추가</text>
+	</string>
+
+	<string id="st_up_kom_a1_descr">
+		<text>직물 레이어를 삽입합니다. 방탄판에 충격이 가해질 때 연조직 손상을 방지합니다.</text>
+	</string>
+
+	<string id="st_up_kom_a1_name">
+		<text>상쇄 직물 레이어</text>
+	</string>
+
+	<string id="st_up_kom_a2_descr">
+		<text>고무보다 더 효율적인 증강형 실리콘 재질을 사용합니다. 착용자가 받는 피해를 줄이며 피해를 흡수합니다.</text>
+	</string>
+
+	<string id="st_up_kom_a2_name">
+		<text>상쇄 실리콘 부피 증강</text>
+	</string>
+
+	<string id="st_up_kom_a3_descr">
+		<text>원단, 클립, 부피 증강 부위를 가벼운 합성 소재로 변경합니다. 방탄복 무게가 감소합니다.</text>
+	</string>
+
+	<string id="st_up_kom_a3_name">
+		<text>경량형 합성/폴리머 소재</text>
+	</string>
+
+	<string id="st_up_kom_a4_descr">
+		<text>고무 레이어를 삽입합니다. 방탄판에 충격이 가해질 때 연조직 손상을 방지합니다.</text>
+	</string>
+
+	<string id="st_up_kom_a4_name">
+		<text>상쇄 고무 레이어</text>
+	</string>
+
+	<string id="st_up_kom_a5_descr">
+		<text>언더레이어를 추가합니다. 본바탕 직물이 찢어질 때 도움이 됩니다.</text>
+	</string>
+
+	<string id="st_up_kom_a6_descr">
+		<text>본 방탄복이 관통당할 때를 대비해 여러 층의 폴리카보네이트, 실리콘, 탄소섬유 삽입물을 추가합니다.</text>
+	</string>
+
+	<string id="st_up_kom_a6_name">
+		<text>보호용 폴리머 삽입물</text>
+	</string>
+
+	<string id="st_up_kom_a7_descr">
+		<text>이상 현상 구역에서 아티팩트를 찾을 때 착용하는 프리덤의 밀폐형 익스팬스 방호복입니다.</text>
+	</string>
+
+	<string id="st_up_kom_a7_name">
+		<text>익스팬스 이상현상 방호복</text>
+	</string>
+
+	<string id="st_up_kom_a8_descr">
+		<text>외부 레이어가 손상받을 경우를 대비해 밀폐형 합성 소재 레이어를 추가합니다.</text>
+	</string>
+
+	<string id="st_up_kom_a8_name">
+		<text>합성 레이어</text>
+	</string>
+
+	<string id="st_up_kom_b10_descr">
+		<text>고무 소재를 차용해 다양한 인체공학적 조정을 거친 방호복입니다. 무거운 방어구를 착용한 채로도 기동성을 유지할 수 있습니다.</text>
+	</string>
+
+	<string id="st_up_kom_b10_name">
+		<text>고무 이동형 방호복</text>
+	</string>
+
+	<string id="st_up_kom_b11_descr">
+		<text>콘스탄탄은 전기를 막아 주며 녹는점도 아주 높은 합금 소재입니다.</text>
+	</string>
+
+	<string id="st_up_kom_b11_name">
+		<text>콘스탄탄 단열 삽입물</text>
+	</string>
+
+	<string id="st_up_kom_b12_descr">
+		<text>세 가지 방사선을 모두 흡수하는 납은 방사능에 대한 안정적인 방어 수단입니다.</text>
+	</string>
+
+	<string id="st_up_kom_b12_name">
+		<text>방탄복에 납 추가</text>
+	</string>
+
+	<string id="st_up_kom_b1_descr">
+		<text>비와 부식성 물질 등이 피부에 닿지 않게 막아주는 기본적인 방호복입니다.</text>
+	</string>
+
+	<string id="st_up_kom_b1_name">
+		<text>캔버스 방호복</text>
+	</string>
+
+	<string id="st_up_kom_b2_descr">
+		<text>원단에 내화성 물질 처리를 거칩니다. 불과 관련된 아티팩트를 찾는 스토커 사이에 인기가 높습니다.</text>
+	</string>
+
+	<string id="st_up_kom_b2_name">
+		<text>내화성 물질 처리 원단</text>
+	</string>
+
+	<string id="st_up_kom_b3_descr">
+		<text>착용자를 열 위험 요소로부터 보호하는 마그네슘 삽입물입니다.</text>
+	</string>
+
+	<string id="st_up_kom_b3_name">
+		<text>마그네슘 방탄판 삽입물</text>
+	</string>
+
+	<string id="st_up_kom_b4_descr">
+		<text>단순한 플라스틱 내부 레이어만 추가해도 착용자를 화학 및 전기 위험 요소로부터 보호할 수 있습니다.</text>
+	</string>
+
+	<string id="st_up_kom_b4_name">
+		<text>밀폐형 플라스틱 내부 레이어</text>
+	</string>
+
+	<string id="st_up_kom_b5_descr">
+		<text>원단, 클립, 부피 증강 부위를 가벼운 합성 소재로 변경합니다. 방탄복 무게가 감소합니다.</text>
+	</string>
+
+	<string id="st_up_kom_b5_name">
+		<text>합성 소재 원단 교체</text>
+	</string>
+
+	<string id="st_up_kom_b6_descr">
+		<text>플렉시글라스 소재는 납보다 훨씬 가벼우면서도 두 가지 방사능을 흡수할 수 있습니다.</text>
+	</string>
+
+	<string id="st_up_kom_b6_name">
+		<text>방사능 보호용 플렉시글라스 내부 레이어</text>
+	</string>
+
+	<string id="st_up_kom_b7_descr">
+		<text>화학 및 전기 위험 요소로부터 안정적으로 보호합니다.</text>
+	</string>
+
+	<string id="st_up_kom_b7_name">
+		<text>신축성 밀폐형 플라스틱 내부 레이어</text>
+	</string>
+
+	<string id="st_up_kom_b8_descr">
+		<text>얇은 콘스탄탄 레이어입니다. 전기를 막아 줍니다.</text>
+	</string>
+
+	<string id="st_up_kom_b8_name">
+		<text>콘스탄탄 단열 내부 레이어</text>
+	</string>
+
+	<string id="st_up_kom_b9_descr">
+		<text>유리섬유는 자연재해 대응팀이 착용하는 방호복에 사용되는 소재입니다.</text>
+	</string>
+
+	<string id="st_up_kom_b9_name">
+		<text>고열 유리섬유 보호</text>
+	</string>
+
+	<string id="st_up_kom_c1_descr">
+		<text>합침재 원단을 통해 화학 중독을 방지합니다.</text>
+	</string>
+
+	<string id="st_up_kom_c1_name">
+		<text>합침재 방호복 원단</text>
+	</string>
+
+	<string id="st_up_kom_c2_descr">
+		<text>고무는 방사능 노출을 방지하는 기본적인 방호 수단입니다.</text>
+	</string>
+
+	<string id="st_up_kom_c2_name">
+		<text>고무 방호복 원단</text>
+	</string>
+
+	<string id="st_up_kom_c3_descr">
+		<text>스토커 방호복의 내구도를 개선하는데 사용합니다.</text>
+	</string>
+
+	<string id="st_up_kom_c3_name">
+		<text>차폐형 고내구성 보호용 프레임</text>
+	</string>
+
+	<string id="st_up_kom_c4_descr">
+		<text>니켈은 방탄복 삽입물에 사용할 만큼 내화성이 뛰어난 소재입니다.</text>
+	</string>
+
+	<string id="st_up_kom_c4_name">
+		<text>니켈 삽입 내화성 방호복</text>
+	</string>
+
+	<string id="st_up_kom_c5_descr">
+		<text>방호복에 니켈 및 마그네슘 합금을 삽입해 전기 충격을 방지합니다.</text>
+	</string>
+
+	<string id="st_up_kom_c5_name">
+		<text>망가닌 삽입 절연 방호복</text>
+	</string>
+
+	<string id="st_up_kom_c6_descr">
+		<text>부식 방지 레이어 및 케블러 장갑을 갖춘 밀폐형 방탄복입니다.</text>
+	</string>
+
+	<string id="st_up_kom_c6_name">
+		<text>세컨드 스킨 일체형 방탄복</text>
+	</string>
+
+	<string id="st_up_kom_c7_descr">
+		<text>미정의 신규 폴리머 소재로 만든 방호복입니다. 예전 키이우 연구소에서 구멍에 비스무트를 채운 생태학자 방호복을 개발할 때 해당 소재를 사용했습니다.</text>
+	</string>
+
+	<string id="st_up_kom_c7_name">
+		<text>비스무트 삽입 생태학자 폴리머 방호복</text>
+	</string>
+
+	<string id="st_up_kom_c8_descr">
+		<text>납 메시를 통해 방사능 및 화학 물질을 완전히 차단하면서도 기동성을 그대로 유지합니다.</text>
+	</string>
+
+	<string id="st_up_kom_c8_name">
+		<text>유연성 납 메시를 갖춘 구명용 플렉시글라스 방호복</text>
+	</string>
+
+	<string id="st_up_kom_c9_descr">
+		<text>초르노빌 사고 이후 등장한 국산 개발 제품입니다. 외골격 전투복에 사용하여 전자 오작동을 방지합니다.</text>
+	</string>
+
+	<string id="st_up_kom_c9_name">
+		<text>납 삽입 피난용 방호복</text>
+	</string>
+
+	<string id="st_up_opt_a1_descr">
+		<text>근거리 전투에 사용할 돌격용 조준경을 거치합니다.</text>
+	</string>
+
+	<string id="st_up_opt_a1_name">
+		<text>1.6배율 반사 조준경</text>
+	</string>
+
+	<string id="st_up_opt_a2_descr">
+		<text>중장거리 전투에 사용할 광학 조준경을 거치합니다.</text>
+	</string>
+
+	<string id="st_up_opt_a2_name">
+		<text>4.0배율 광학 조준경</text>
+	</string>
+
+	<string id="st_up_opt_a3_descr">
+		<text>장거리 전투에 사용할 광학 조준경을 거치합니다.</text>
+	</string>
+
+	<string id="st_up_opt_a3_name">
+		<text>5.0배율 광학 조준경</text>
+	</string>
+
+	<string id="st_up_opt_a4_descr">
+		<text>장거리 전투에 사용할 광학 조준경을 거치합니다.</text>
+	</string>
+
+	<string id="st_up_opt_a4_name">
+		<text>6.0배율 광학 조준경</text>
+	</string>
+
+	<string id="st_up_opt_b1_descr">
+		<text>반사 조준경을 갖춘 돌격용 무기에 적용하는 개조입니다. 노란색 범위 내 조준경 대비를 간단하게 개선합니다. 황혼이거나 어두운 건물에서 전투할 때 중요합니다.</text>
+	</string>
+
+	<string id="st_up_opt_b1_name">
+		<text>조준경 대비 개선</text>
+	</string>
+
+	<string id="st_up_opt_c1_descr">
+		<text>열화상 바이저를 통해 착용자가 열원을 감지 및 식별하게 합니다.</text>
+	</string>
+
+	<string id="st_up_opt_c1_name">
+		<text>자동 광학 표적 획득</text>
+	</string>
+
+	<string id="st_up_opt_c2_descr">
+		<text>도입 이후 수많은 저격수를 살린 야간 투시경입니다.</text>
+	</string>
+
+	<string id="st_up_opt_c2_name">
+		<text>야간 투시경 설치</text>
+	</string>
+
+	<string id="st_up_opt_c3_descr">
+		<text>조준경을 사거리에 따라 쉽게 조정할 수 있는 개조입니다.</text>
+	</string>
+
+	<string id="st_up_opt_c3_name">
+		<text>조절식 거리 측정 조준경</text>
+	</string>
+
+	<string id="st_up_pri_a1_descr">
+		<text>연사 도중 반동을 줄이는 데 사용하는 공압식 개머리판입니다.</text>
+	</string>
+
+	<string id="st_up_pri_a1_name">
+		<text>공압식 개머리판</text>
+	</string>
+
+	<string id="st_up_pri_b1_descr">
+		<text>이동형 어깨받이입니다. 반동으로 신체에 전해지는 충격이 대폭 감소합니다.</text>
+	</string>
+
+	<string id="st_up_pri_b1_name">
+		<text>상쇄 어깨받이 설치</text>
+	</string>
+
+	<string id="st_up_pri_b2_descr">
+		<text>인체 생리학의 특수성을 고려한 현대식 개머리판입니다.</text>
+	</string>
+
+	<string id="st_up_pri_b2_name">
+		<text>인체공학 개머리판</text>
+	</string>
+
+	<string id="st_up_pri_c1_descr">
+		<text>무기를 발사할 때 총열에서 일부 화약 기체를 볼트 뒤 구멍으로 배출하여, 총이 부드럽게 멈추도록 합니다.</text>
+	</string>
+
+	<string id="st_up_pri_c1_name">
+		<text>노리쇠 뭉치 가스 완충기 설치</text>
+	</string>
+
+	<string id="st_up_pri_c2_descr">
+		<text>개머리판에 들어가는 볼트 프레임을 일부분 연장합니다. 반동이 증가하는 대신 평탄도도 증가합니다.</text>
+	</string>
+
+	<string id="st_up_pri_c2_name">
+		<text>볼트 프레임 충격 완충기 연장</text>
+	</string>
+
+	<string id="st_up_pri_c3_descr">
+		<text>이동식 부품을 개머리판에 추가합니다. 무기를 발사할 때 반작용을 일으킵니다.</text>
+	</string>
+
+	<string id="st_up_pri_c3_name">
+		<text>이동형 균형추</text>
+	</string>
+
+	<string id="st_up_prih_a1_descr">
+		<text>받침대 크기를 늘려 정확하게 사격합니다.</text>
+	</string>
+
+	<string id="st_up_prih_a1_name">
+		<text>받침대 크기 증가</text>
+	</string>
+
+	<string id="st_up_prih_b1_descr">
+		<text>상쇄 스프링 반동 완충기로 기관총을 발사할 때 발생하는 불편함을 일부분 해소합니다.</text>
+	</string>
+
+	<string id="st_up_prih_b1_name">
+		<text>스프링 기반 반동 완충기 내장</text>
+	</string>
+
+	<string id="st_up_prih_c1_descr">
+		<text>개머리판에 노리쇠 뭉치 완충기를 추가해 반동을 대부분 흡수합니다.</text>
+	</string>
+
+	<string id="st_up_prih_c1_name">
+		<text>노리쇠 뭉치 가스 완충기 추가</text>
+	</string>
+
+	<string id="st_up_pris_a1_descr">
+		<text>고무 반동 완화 부품입니다. 대구경 저격 소총의 양산형 개머리판에 자주 사용합니다.</text>
+	</string>
+
+	<string id="st_up_pris_a1_name">
+		<text>상쇄 개머리판 부품</text>
+	</string>
+
+	<string id="st_up_pris_b1_descr">
+		<text>칙 패드를 갖춘 조절식 개머리판입니다. 편리한 자세든, 불편한 자세든 상관없이 사격할 때 유용합니다.</text>
+	</string>
+
+	<string id="st_up_pris_b1_name">
+		<text>칙 패드를 갖춘 조절식 개머리판</text>
+	</string>
+
+	<string id="st_up_pris_c1_descr">
+		<text>반동이 센 대구경 무기의 개머리판에 장착하는 부품입니다.</text>
+	</string>
+
+	<string id="st_up_pris_c1_name">
+		<text>유압식 개머리판 반동 완충기</text>
+	</string>
+
+	<string id="st_up_res_a1_descr">
+		<text>활성화 필터는 부식성 화학 물질도 견뎌냅니다.</text>
+	</string>
+
+	<string id="st_up_res_a1_name">
+		<text>활성화 필터</text>
+	</string>
+
+	<string id="st_up_res_a2_descr">
+		<text>정신파 에미션에 직접 맞아도 몸을 일부분 지켜주는 것으로 입증된 밀폐형 밴드입니다.</text>
+	</string>
+
+	<string id="st_up_res_a2_name">
+		<text>한 쌍의 철제 그릴로 만든 Psi 보호용 밴드</text>
+	</string>
+
+	<string id="st_up_res_a3_descr">
+		<text>공기가 오염되었거나 임계 대기 온도 조건이 호흡하기에 지나치게 높거나 낮은 환경에서 사용하는 마스크입니다.</text>
+	</string>
+
+	<string id="st_up_res_b1_descr">
+		<text>차단 코팅을 적용합니다.</text>
+	</string>
+
+	<string id="st_up_res_b1_name">
+		<text>차단 코팅 적용</text>
+	</string>
+
+	<string id="st_up_res_b2_descr">
+		<text>부식 방지 코팅으로 보강한 필터입니다. 중독 물질 제거를 위해 방지 레이어까지 추가했습니다.</text>
+	</string>
+
+	<string id="st_up_res_b2_name">
+		<text>오염 지역 전용 필터</text>
+	</string>
+
+	<string id="st_up_res_b3_descr">
+		<text>방사능을 일부분 보호하는 플렉시글라스 마스크입니다.</text>
+	</string>
+
+	<string id="st_up_res_b3_name">
+		<text>플렉시글라스 코팅</text>
+	</string>
+
+	<string id="st_up_res_b4_descr">
+		<text>방사능을 일부분 보호하는 플렉시글라스 마스크입니다.</text>
+	</string>
+
+	<string id="st_up_res_b4_name">
+		<text>플렉시글라스 호흡 마스크</text>
+	</string>
+
+	<string id="st_up_res_b5_descr">
+		<text>중독 물질을 완전 차단하는 호흡기입니다.</text>
+	</string>
+
+	<string id="st_up_res_b5_name">
+		<text>합침재 호흡 마스크</text>
+	</string>
+
+	<string id="st_up_res_c1_descr">
+		<text>베릴륨 &amp; 알루미늄 매트릭스를 이용해 헬멧 무게를 크게 늘리지 않고도 탁월한 방호력을 제공합니다.</text>
+	</string>
+
+	<string id="st_up_res_c1_name">
+		<text>베릴륨 &amp; 알루미늄 방탄판</text>
+	</string>
+
+	<string id="st_up_res_c2_descr">
+		<text>베릴륨 &amp; 티타늄 매트릭스를 이용해 무게를 크게 늘리지 않고도 방호력 효율을 크게 개선합니다.</text>
+	</string>
+
+	<string id="st_up_res_c2_name">
+		<text>베릴륨 &amp; 티타늄 방탄판</text>
+	</string>
+
+	<string id="st_up_res_c3_descr">
+		<text>개선 필터를 통해 오염 지역에 상관없이 동일한 수준의 산소량을 유지합니다.</text>
+	</string>
+
+	<string id="st_up_res_c3_name">
+		<text>과학 연구 전용 개선 필터 설치</text>
+	</string>
+
+	<string id="st_up_res_c4_descr">
+		<text>최첨단 Psi 방호 장치입니다. 사하로프라는 과학자가 발명했다고 합니다.</text>
+	</string>
+
+	<string id="st_up_res_c4_name">
+		<text>Psi 돔 밴드 설치</text>
+	</string>
+
+	<string id="st_up_res_c5_descr">
+		<text>고열 및 전기 피해를 방지하는 보호용 합금 프레임입니다.</text>
+	</string>
+
+	<string id="st_up_res_c5_name">
+		<text>썬더보드 콘스탄탄 안면 보호구</text>
+	</string>
+
+	<string id="st_up_res_c6_descr">
+		<text>장갑을 추가해 헬멧 내구도를 개선합니다.</text>
+	</string>
+
+	<string id="st_up_res_c6_name">
+		<text>헬멧 본체 장갑 강화</text>
+	</string>
+
+	<string id="st_up_res_c7_descr">
+		<text>추가 정화 코팅 및 중독 물질 제거 장치를 추가한 필터입니다.</text>
+	</string>
+
+	<string id="st_up_res_c7_name">
+		<text>극지 전용 강화 호흡 장치</text>
+	</string>
+
+	<string id="st_up_resp_a1_descr">
+		<text>밤이나 광원이 적은 환경에서 작전을 수행하기 위해 야간 투시경을 설치합니다.</text>
+	</string>
+
+	<string id="st_up_resp_a1_name">
+		<text>1세대 야간 투시경</text>
+	</string>
+
+	<string id="st_up_resp_a2_descr">
+		<text>방사능 또는 화학 입자의 의해 심각한 대기 오염이 발생할 경우, 밀폐형 순환 호흡 체계로 전환하는 장치입니다.</text>
+	</string>
+
+	<string id="st_up_resp_a2_name">
+		<text>방사능 및 화학 위험 방지 장치</text>
+	</string>
+
+	<string id="st_up_resp_a3_name">
+		<text>증기 정화 및 호흡 마스크</text>
+	</string>
+
+	<string id="st_up_resp_b1_descr">
+		<text>완전히 어두운 환경에서 작전을 수행하기 위해 발전된 야간 투시경을 설치합니다.</text>
+	</string>
+
+	<string id="st_up_resp_b1_name">
+		<text>2세대 야간 투시경</text>
+	</string>
+
+	<string id="st_up_resp_b2_descr">
+		<text>열화상 바이저를 통해 착용자가 열원을 감지 및 식별하게 합니다.</text>
+	</string>
+
+	<string id="st_up_resp_b2_name">
+		<text>자동 표적 획득 장치</text>
+	</string>
+
+	<string id="st_up_resp_b3_descr">
+		<text>정신파 에미션이 발생하는 이상 현상 지대에서 연구하기 위해 개발한 파동 기반 연구 장치입니다.</text>
+	</string>
+
+	<string id="st_up_resp_b3_name">
+		<text>오라클 정신파 자극제</text>
+	</string>
+
+	<string id="st_up_resp_c1_descr">
+		<text>완전히 어두운 환경에서 작전을 수행하기 위해 발전된 야간 투시경을 설치합니다.</text>
+	</string>
+
+	<string id="st_up_resp_c1_name">
+		<text>3세대 야간 투시경</text>
+	</string>
+
+	<string id="st_up_resp_c2_descr">
+		<text>이온화된 공기 입자가 전기를 이용해, 장치의 전극 사이를 전자의 움직임과 반대로 이동합니다. 운동 결과 이온 바람이 일어납니다.</text>
+	</string>
+
+	<string id="st_up_resp_c2_name">
+		<text>이온 바람 냉각 장치</text>
+	</string>
+
+	<string id="st_up_resp_c3_descr">
+		<text>주변 인간을 감지할 수 있는 적외선 스캐너입니다.</text>
+	</string>
+
+	<string id="st_up_resp_c3_name">
+		<text>적외선 스캐너</text>
+	</string>
+
+	<string id="st_up_resp_c4_descr">
+		<text>정신 보호 파동으로부터 정신파 방호력을 제공하는 SPB - VPZ.m.IV 장치입니다. 4형 제품입니다.</text>
+	</string>
+
+	<string id="st_up_resp_c4_name">
+		<text>SPB - VPZ.m.IV 전투 장치</text>
+	</string>
+
+	<string id="st_up_ret_a1_descr">
+		<text>스프링을 강화하여 탄환 속도를 증가시킵니다.</text>
+	</string>
+
+	<string id="st_up_ret_a1_name">
+		<text>리턴 스프링 강화</text>
+	</string>
+
+	<string id="st_up_ret_a2_descr">
+		<text>메커니즘의 이동 부분에 증점제를 설치하여, 발사하는 동안 총열이 표적에서 덜 벗어나도록 합니다.</text>
+	</string>
+
+	<string id="st_up_ret_a2_name">
+		<text>반환 메커니즘 상쇄</text>
+	</string>
+
+	<string id="st_up_ret_a3_descr">
+		<text>역방향 코일을 갖춘 스프링을 추가 설치합니다. 반동을 줄이면서도 평탄도를 그대로 유지합니다.</text>
+	</string>
+
+	<string id="st_up_ret_a3_name">
+		<text>리턴 스프링 추가</text>
+	</string>
+
+	<string id="st_up_ret_b1_descr">
+		<text>보호용 스퍼터는 안정성을 개선하는 장점도 있지만, 그보다는 밀폐성을 보장해 에너지 손실을 방지한다는 점이 중요합니다.</text>
+	</string>
+
+	<string id="st_up_ret_b1_name">
+		<text>보호용 반환 메커니즘 부품 스퍼터</text>
+	</string>
+
+	<string id="st_up_ret_b2_descr">
+		<text>티타늄 봉은 일반 봉보다 훨씬 높은 발사 속도를 견딜 수 있습니다.</text>
+	</string>
+
+	<string id="st_up_ret_b2_name">
+		<text>티타늄 반환 메커니즘 봉</text>
+	</string>
+
+	<string id="st_up_ret_b3_descr">
+		<text>봉에 설치한 합성 부품을 추가합니다. 부품의 의도에 부합하게 움직이도록 하여 명중률을 높입니다.</text>
+	</string>
+
+	<string id="st_up_ret_b3_name">
+		<text>균형 조절 부품 추가</text>
+	</string>
+
+	<string id="st_up_ret_c1_descr">
+		<text>보호관 증점제로 총열 압력이 증가해 탄환 속도를 개선합니다.</text>
+	</string>
+
+	<string id="st_up_ret_c1_name">
+		<text>반환 메커니즘 보호관 증점제</text>
+	</string>
+
+	<string id="st_up_ret_c2_descr">
+		<text>가스에 의해 열리고 반환 메커니즘에 의해 자체적으로 닫히는 분배선입니다. 일부 가스 에너지를 반환 장치 작동에 사용할 수 있습니다.</text>
+	</string>
+
+	<string id="st_up_ret_c2_name">
+		<text>분배선 설치</text>
+	</string>
+
+	<string id="st_up_ret_c3_descr">
+		<text>반환 메커니즘을 두 개의 유도봉과 리턴 스프링으로 구성된 더 강력한 메커니즘으로 교체합니다. 무기 발사 속도가 증가합니다.</text>
+	</string>
+
+	<string id="st_up_ret_c3_name">
+		<text>이중 봉 장치로 전환</text>
+	</string>
+
+	<string id="st_up_roun_a1_descr">
+		<text>드럼 부분 주위에 반동을 줄여주는 특수 가수 배출구를 추가합니다.</text>
+	</string>
+
+	<string id="st_up_roun_a1_name">
+		<text>가스 에너지 사용</text>
+	</string>
+
+	<string id="st_up_roun_a2_descr">
+		<text>드럼에 사선 캠 슬롯 추가합니다. 가스 에너지를 사용하는 장치의 회전 속도가 증가합니다.</text>
+	</string>
+
+	<string id="st_up_roun_a2_name">
+		<text>드럼에 사선 캠 슬롯 추가</text>
+	</string>
+
+	<string id="st_up_stk_a1_descr">
+		<text>이 유럽 표준형 개조를 이용하면 안정성을 유지하면서도 무게를 줄일 수 있습니다.</text>
+	</string>
+
+	<string id="st_up_stk_a1_name">
+		<text>충격 내성 폴리머 개머리판</text>
+	</string>
+
+	<string id="st_up_stk_a2_descr">
+		<text>내구성이 뛰어난 총몸을 사용합니다. 돌격 소총이 매일 벌어지는 전투 환경을 견디게 해줍니다.</text>
+	</string>
+
+	<string id="st_up_stk_a2_name">
+		<text>고내구성 합금 총몸</text>
+	</string>
+
+	<string id="st_up_stk_a3_descr">
+		<text>총몸 앞에 무게만 추가해도 반동이 감소합니다.</text>
+	</string>
+
+	<string id="st_up_stk_a3_name">
+		<text>스틸 박스에 균형추 추가</text>
+	</string>
+
+	<string id="st_up_stk_b1_descr">
+		<text>무기의 발사 속도를 높여 주는 덮개를 추가합니다. 대신 발열 현상도 증가하니 잘 통제해야 합니다.</text>
+	</string>
+
+	<string id="st_up_stk_b1_name">
+		<text>냉각 덮개 추가</text>
+	</string>
+
+	<string id="st_up_stk_b2_descr">
+		<text>손잡이를 편리한 형태로 변경합니다. 이동 사격 시 무기 조작성이 개선됩니다.</text>
+	</string>
+
+	<string id="st_up_stk_b2_name">
+		<text>인체공학 총몸 외형</text>
+	</string>
+
+	<string id="st_up_stk_c1_descr">
+		<text>견고한 불펍 총몸을 갖춘 총열 전용 개조입니다. 무기 수리 절차가 간단해집니다.</text>
+	</string>
+
+	<string id="st_up_stk_c1_name">
+		<text>모듈형 총몸</text>
+	</string>
+
+	<string id="st_up_stk_c2_descr">
+		<text>이 스퍼터는 총열의 과열을 방지하고, 제조상 결함을 제거해 총열 수명을 크게 늘립니다.</text>
+	</string>
+
+	<string id="st_up_stk_c2_name">
+		<text>총몸 홈 평탄화 및 스퍼터 삽입</text>
+	</string>
+
+	<string id="st_up_stk_c3_descr">
+		<text>경사 손잡이에 가벼운 이동식 부품을 설치합니다. 무기를 발사할 때 반동에 반작용을 일으켜 안정성을 개선합니다.</text>
+	</string>
+
+	<string id="st_up_stk_c3_name">
+		<text>경사 손잡이</text>
+	</string>
+
+	<string id="st_up_stvd_a1_descr">
+		<text>손잡에 안쪽에 구멍을 추가합니다. 무기 무게가 감소합니다.</text>
+	</string>
+
+	<string id="st_up_stvd_a1_name">
+		<text>경사 손잡이</text>
+	</string>
+
+	<string id="st_up_stvd_a2_descr">
+		<text>기존보다 가벼운 개머리판입니다.</text>
+	</string>
+
+	<string id="st_up_stvd_a2_name">
+		<text>경량형 개머리판</text>
+	</string>
+
+	<string id="st_up_stvd_a3_descr">
+		<text>가벼운 폴리 소재 개머리판입니다. 무기 무게가 감소합니다.</text>
+	</string>
+
+	<string id="st_up_stvd_a3_name">
+		<text>충격 내성 폴리머 개머리판</text>
+	</string>
+
+	<string id="st_up_stvd_b1_descr">
+		<text>무기에 무거운 부품을 추가합니다. 반동이 감소합니다.</text>
+	</string>
+
+	<string id="st_up_stvd_b1_name">
+		<text>균형추 추가</text>
+	</string>
+
+	<string id="st_up_stvd_b2_descr">
+		<text>최신화를 통해 안정성을 개선한 손잡이입니다. 무기 조작 절차가 간단해집니다.</text>
+	</string>
+
+	<string id="st_up_stvd_b2_name">
+		<text>인체공학 손잡이</text>
+	</string>
+
+	<string id="st_up_stvd_b3_descr">
+		<text>상쇄 손잡이를 설치합니다. 반동이 감소합니다.</text>
+	</string>
+
+	<string id="st_up_stvd_b3_name">
+		<text>상쇄 손잡이</text>
+	</string>
+
+	<string id="st_up_stvd_b4_descr">
+		<text>최신화를 통해 안정성을 개선한 개머리판입니다. 무기 조작 절차가 간단해집니다.</text>
+	</string>
+
+	<string id="st_up_stvd_b4_name">
+		<text>인체공학 개머리판</text>
+	</string>
+
+	<string id="st_up_stvd_b5_descr">
+		<text>무기를 위험 요소로부터 보호하는 특수 코팅을 적용합니다.</text>
+	</string>
+
+	<string id="st_up_stvd_b5_name">
+		<text>부식 방지 코팅</text>
+	</string>
+
+	<string id="st_up_stvd_c1_descr">
+		<text>무기 개머리판에 수은 반동 흡수재를 배치합니다. 무기를 발사할 때 일부 반동을 흡수합니다.</text>
+	</string>
+
+	<string id="st_up_stvd_c1_name">
+		<text>수은 반동 흡수재</text>
+	</string>
+
+	<string id="st_up_stvd_c2_descr">
+		<text>자유롭게 움직이는 충격 평형추 부품입니다. 무기를 발사할 때 볼트에서 움직이며 일부 반동을 흡수합니다.</text>
+	</string>
+
+	<string id="st_up_stvd_c2_name">
+		<text>충격 평형추 추가</text>
+	</string>
+
+	<string id="st_up_stvh_a1_descr">
+		<text>소재를 변경합니다. 무기를 발사할 때 고르지 않은 과열로 인한 총열 손상이 줄어 발사 속도가 증가합니다.</text>
+	</string>
+
+	<string id="st_up_stvh_a1_name">
+		<text>고내구성 &amp; 내열성 합금</text>
+	</string>
+
+	<string id="st_up_stvh_b1_descr">
+		<text>무기를 발사할 때 무기를 기온의 영향으로부터 보호하는 중요한 개조입니다.</text>
+	</string>
+
+	<string id="st_up_stvh_b1_name">
+		<text>열 조절 덮개 추가</text>
+	</string>
+
+	<string id="st_up_stvh_b2_descr">
+		<text>기술적 개선 사항입니다. 피닝 공법을 사용하려면 총열에 과열 지점이 형성되지 않도록 극도의 정밀성이 필요합니다.</text>
+	</string>
+
+	<string id="st_up_stvh_b2_name">
+		<text>외부 총열 피닝</text>
+	</string>
+
+	<string id="st_up_stvh_c1_descr">
+		<text>총열을 최신 기종으로 교체합니다. 명중률이 대폭 증가합니다.</text>
+	</string>
+
+	<string id="st_up_stvh_c1_name">
+		<text>총열 형상 변경</text>
+	</string>
+
+	<string id="st_up_stvp_a1_descr">
+		<text>무기를 오랫동안 사용할 수 있는 고가의 프레임입니다.</text>
+	</string>
+
+	<string id="st_up_stvp_a1_name">
+		<text>티타늄 프레임</text>
+	</string>
+
+	<string id="st_up_stvp_a2_descr">
+		<text>복합 소재보다 훨씬 안정적인 프레임입니다.</text>
+	</string>
+
+	<string id="st_up_stvp_a2_name">
+		<text>견고한 강철 프레임</text>
+	</string>
+
+	<string id="st_up_stvp_b1_descr">
+		<text>권총 프레임을 더 가벼운 프레임으로 교체해도 무기 안정성에 영향을 미치지 않습니다.</text>
+	</string>
+
+	<string id="st_up_stvp_b1_name">
+		<text>폴리머 권총 프레임</text>
+	</string>
+
+	<string id="st_up_stvp_b2_descr">
+		<text>최신화를 통해 안정성을 개선한 손잡이입니다. 무기 조작 절차가 간단해집니다.</text>
+	</string>
+
+	<string id="st_up_stvp_b2_name">
+		<text>인체공학 손잡이</text>
+	</string>
+
+	<string id="st_up_stvp_b3_descr">
+		<text>상쇄 손잡이를 설치합니다. 반동이 감소합니다.</text>
+	</string>
+
+	<string id="st_up_stvp_b3_name">
+		<text>상쇄 손잡이</text>
+	</string>
+
+	<string id="st_up_stvp_b4_descr">
+		<text>두터운 보호용 덮개로 무기를 먼지 및 충격에서 보호합니다.</text>
+	</string>
+
+	<string id="st_up_stvp_b4_name">
+		<text>보호용 본체 부피 증강</text>
+	</string>
+
+	<string id="st_up_stvp_b5_descr">
+		<text>후면부를 변경하여 보다 인체공학적인 손잡이를 만듭니다.</text>
+	</string>
+
+	<string id="st_up_stvp_b5_name">
+		<text>손잡이 외형을 직선 후면 형태로 변경</text>
+	</string>
+
+	<string id="st_up_stvp_b6_descr">
+		<text>적절한 손잡이 길이를 선택하여 보다 인체공학적인 손잡이를 만듭니다.</text>
+	</string>
+
+	<string id="st_up_stvp_b6_name">
+		<text>조절식 손잡이</text>
+	</string>
+
+	<string id="st_up_stvp_c1_descr">
+		<text>리턴 스프링을 손잡이에 설치할 때만 수행할 수 있는 개조입니다.</text>
+	</string>
+
+	<string id="st_up_stvp_c1_name">
+		<text>리턴 스프링 상쇄 부품 설치</text>
+	</string>
+
+	<string id="st_up_stvp_c2_descr">
+		<text>적합판 방탄판을 선택하여 보다 인체공학적인 손잡이를 만듭니다.</text>
+	</string>
+
+	<string id="st_up_stvp_c2_name">
+		<text>모양이 교체 가능 방탄판으로 변경된 손잡이</text>
+	</string>
+
+	<string id="st_up_stvs_a1_descr">
+		<text>자주 사용하는 무기에 덮개를 설치합니다. 무기를 초기 마모에서 보호합니다.</text>
+	</string>
+
+	<string id="st_up_stvs_a1_name">
+		<text>천공 강철 덮개 설치</text>
+	</string>
+
+	<string id="st_up_stvs_b1_descr">
+		<text>기존 자동 무기보다 더 우수한 기술적 사양 및 반동 감쇄 효과를 부여하는 부품입니다.</text>
+	</string>
+
+	<string id="st_up_stvs_b1_name">
+		<text>효율적인 보정 포구 제퇴기</text>
+	</string>
+
+	<string id="st_up_stvs_b2_descr">
+		<text>최신화를 통해 안정적으로 만든 총열입니다. 초장거리 저격에 적합합니다.</text>
+	</string>
+
+	<string id="st_up_stvs_b2_name">
+		<text>다각형 강선을 갖춘 중형 총열 부품 설치</text>
+	</string>
+
+	<string id="st_up_stvs_b3_descr">
+		<text>총열 부위에 세로면 홈을 추가합니다. 총열의 과열 및 먼지 오염을 방지합니다.</text>
+	</string>
+
+	<string id="st_up_stvs_b3_name">
+		<text>총열 부위 세로면 홈</text>
+	</string>
+
+	<string id="st_up_stvs_c1_descr">
+		<text>은신 사격에 필수인 일체형 소음기 겸 포구 제퇴기입니다.</text>
+	</string>
+
+	<string id="st_up_stvs_c1_name">
+		<text>일체형 소음기 설치</text>
+	</string>
+
+	<string id="st_up_stvs_c2_descr">
+		<text>총열 약실에 사인파형 강선을 추가합니다. 보통은 돌격 무기의 발사 속도를 개선하기 위해 사용합니다.</text>
+	</string>
+
+	<string id="st_up_stvs_c2_name">
+		<text>사인파형 강선 총열 약실</text>
+	</string>
+
+	<string id="st_up_tch_a1_descr">
+		<text>키이우의 어느 연구소에서 개발한 A세대 주사기입니다. 혈류에 정기적으로 소량의 아드레날린을 주입합니다. 위험을 초래할 수 있지만 위급 상황에 생명을 구하기도 합니다.</text>
+	</string>
+
+	<string id="st_up_tch_a1_name">
+		<text>퓨리 아드레날린 주입기</text>
+	</string>
+
+	<string id="st_up_tch_a2_descr">
+		<text>정화 필터에서 중독 물질이 포함된 응축액을 제거하는 장치입니다.</text>
+	</string>
+
+	<string id="st_up_tch_a2_name">
+		<text>중독 물질 제거 장치</text>
+	</string>
+
+	<string id="st_up_tch_a3_descr">
+		<text>클리어 스카이에서 개발한 소형 광선 방출기입니다. 후면에 장착되어 있으며, 지속적으로 착용하면 혈액 응고 속도를 효과적으로 증가시킵니다.</text>
+	</string>
+
+	<string id="st_up_tch_a3_name">
+		<text>광선 혈액 자극제</text>
+	</string>
+
+	<string id="st_up_tch_a4_descr">
+		<text>방호복 외부에 전기를 공급해 방사능 및 화학 입자를 배제하는 장치입니다.</text>
+	</string>
+
+	<string id="st_up_tch_a4_name">
+		<text>내장형 먼지 배제 장치</text>
+	</string>
+
+	<string id="st_up_tch_b1_descr">
+		<text>B세대 주사기입니다. 혈압이 크게 떨어질 때 정기적으로 응고제를 혈류에 주입합니다.</text>
+	</string>
+
+	<string id="st_up_tch_b1_name">
+		<text>하이드라 혈색소 주입기</text>
+	</string>
+
+	<string id="st_up_tch_b2_descr">
+		<text>최적의 체온을 유지하여 피로를 방지하는 장치입니다.</text>
+	</string>
+
+	<string id="st_up_tch_b2_name">
+		<text>체온 조절 장치 설치</text>
+	</string>
+
+	<string id="st_up_tch_b3_descr">
+		<text>가슴에 장착하는 파동 방출기입니다. 지속적으로 사용하면 부상 치유 속도, 면역계 세기, 착용자의 통증 장벽이 대폭 증가합니다.</text>
+	</string>
+
+	<string id="st_up_tch_b3_name">
+		<text>태양 생체 자극제</text>
+	</string>
+
+	<string id="st_up_tch_b4_descr">
+		<text>정신파 에미션이 발생하는 이상 현상 지대에서 연구하기 위해 개발한 파동 기반 연구 장치입니다.</text>
+	</string>
+
+	<string id="st_up_tch_b4_name">
+		<text>오라클 정신파 자극제</text>
+	</string>
+
+	<string id="st_up_tch_c1_descr">
+		<text>C세대 주사기입니다. 모호한 성분의 전투 혼합물을 혈류에 주입해 조직 재생을 개선하고 통증을 제거합니다.</text>
+	</string>
+
+	<string id="st_up_tch_c1_name">
+		<text>피닉스 회복 장치</text>
+	</string>
+
+	<string id="st_up_tch_c2_descr">
+		<text>착용자의 건강을 계속 확인하고 필요하면 비타민, 아드레날린 또는 합성대사 물질을 공급하는 일체형 장치입니다.</text>
+	</string>
+
+	<string id="st_up_tch_c2_name">
+		<text>생명 유지 장치 설치</text>
+	</string>
+
+	<string id="st_up_tch_c3_descr">
+		<text>목에 장착하는 파동 방출기입니다. 메커니즘 및 작동 방식은 불분명하지만 강력한 진정 효과가 있습니다.</text>
+	</string>
+
+	<string id="st_up_tch_c3_name">
+		<text>반사 신경 자극제</text>
+	</string>
+
+	<string id="st_up_usm_a1_descr">
+		<text>볼트 공이치기 보정기의 목적은 반동을 일부 흡수하고, 연사 시 탄착군을 개선하는 것입니다.</text>
+	</string>
+
+	<string id="st_up_usm_a1_name">
+		<text>볼트 공이치기 보정기</text>
+	</string>
+
+	<string id="st_up_usm_a2_descr">
+		<text>가장 간단하고 많이 사용되는 개조 중 하나입니다. 방아쇠 저항을 줄일 수 있습니다. 간단하면서도 편리합니다.</text>
+	</string>
+
+	<string id="st_up_usm_a2_name">
+		<text>부드러운 멈치</text>
+	</string>
+
+	<string id="st_up_usm_b1_descr">
+		<text>해당 무기에 특화된 여러 부품으로 만든 특별한 부품 결합체입니다. 저렴하지는 않지만 총기 수명을 늘릴 수 있습니다.</text>
+	</string>
+
+	<string id="st_up_usm_b1_name">
+		<text>복합 발사 메커니즘 부품</text>
+	</string>
+
+	<string id="st_up_usm_b2_descr">
+		<text>명중률 및 안정성이 감소하지만 발사 속도가 증가합니다.</text>
+	</string>
+
+	<string id="st_up_usm_b2_name">
+		<text>강제 방아쇠 지연 장치</text>
+	</string>
+
+	<string id="st_up_usm_b3_descr">
+		<text>전투용 스프링을 제거하여 최초 사격이 0.5초 단축됩니다. 큰 차이는 아니지만 목숨을 구할 수 있습니다.</text>
+	</string>
+
+	<string id="st_up_usm_b3_name">
+		<text>스프링 배제 멈치</text>
+	</string>
+
+	<string id="st_up_usm_c1_descr">
+		<text>보호용 스퍼터입니다. 발사 메커니즘 오작동으로 인한 오사를 방지합니다.</text>
+	</string>
+
+	<string id="st_up_usm_c1_name">
+		<text>보호용 발사 메커니즘 부품 스퍼터</text>
+	</string>
+
+	<string id="st_up_usm_c2_descr">
+		<text>볼트를 배제한 채 고정하여 자동 장전량이 증가합니다. 그 결과 무기 발사 속도가 대폭 개선됩니다.</text>
+	</string>
+
+	<string id="st_up_usm_c2_name">
+		<text>발사 메커니즘의 볼트 배제 고정</text>
+	</string>
+
+	<string id="st_up_usm_c3_descr">
+		<text>무충격 장치가 특수 공이치기를 통해 탄환을 타격하는 게 아니라 관통합니다. 발사 과정이 훨씬 부드러워집니다.</text>
+	</string>
+
+	<string id="st_up_usm_c3_name">
+		<text>무충격 발사 메커니즘 체계 설치</text>
+	</string>
+
+	<string id="st_up_usmp_a1_descr">
+		<text>최초 사격 시 방아쇠를 장전하며, 다른 모든 탄환은 자동 방아쇠 장전 중에 발사합니다.</text>
+	</string>
+
+	<string id="st_up_usmp_a1_name">
+		<text>이중 방아쇠 발사 메커니즘</text>
+	</string>
+
+	<string id="st_up_usmp_b1_descr">
+		<text>가장 간단하고 많이 사용되는 개조 중 하나입니다. 방아쇠 저항을 줄일 수 있습니다. 간단하면서도 편리합니다.</text>
+	</string>
+
+	<string id="st_up_usmp_b1_name">
+		<text>부드러운 멈치</text>
+	</string>
+
+	<string id="st_up_usmp_b2_descr">
+		<text>부분 무장을 통해 명중률이 증가합니다.</text>
+	</string>
+
+	<string id="st_up_usmp_b2_name">
+		<text>부분 사전 무장 발사 메커니즘</text>
+	</string>
+
+	<string id="st_up_usmp_b3_descr">
+		<text>최초 사격부터 마지막 사격까지 방아쇠에 동일한 압력을 가합니다. 편의성에 긍정적인 영향을 미칩니다.</text>
+	</string>
+
+	<string id="st_up_usmp_b3_name">
+		<text>안전 멈치</text>
+	</string>
+
+	<string id="st_up_usmp_b4_descr">
+		<text>무기의 볼트 부분이 분리되지 않도록 유지하는 최신 개조입니다.</text>
+	</string>
+
+	<string id="st_up_usmp_b4_name">
+		<text>방아쇠 볼트 머리 증가</text>
+	</string>
+
+	<string id="st_up_usmp_b5_descr">
+		<text>유지보수 및 부품 교체가 더 쉽고 사용 편의성도 어느 정도 개선한 모듈식 발사 메커니즘입니다.</text>
+	</string>
+
+	<string id="st_up_usmp_b5_name">
+		<text>모듈식 발사 메커니즘</text>
+	</string>
+
+	<string id="st_up_usmp_c1_descr">
+		<text>무장 부품은 방아쇠에 가해지는 압력을 대폭 줄여 명중률을 개선합니다.</text>
+	</string>
+
+	<string id="st_up_usmp_c1_name">
+		<text>무장 부품 설치</text>
+	</string>
+
+	<string id="st_up_usmp_c2_descr">
+		<text>간단한 조정 작업으로 발사 메커니즘 방식을 바꿀 수 있는 신기술입니다. 무기를 보다 인체공학적으로 개선하고 손쉽게 조정할 수 있습니다.</text>
+	</string>
+
+	<string id="st_up_usmp_c2_name">
+		<text>"이중" 발사 방식</text>
+	</string>
+
+	<string id="st_up_usmp_c3_descr">
+		<text>최초 사격 이후 이어서 발사할 때 방아쇠를 절반만 움직여도 됩니다.</text>
+	</string>
+
+	<string id="st_up_usmp_c3_name">
+		<text>발사 메커니즘 이동부 단축</text>
+	</string>
+
+	<string id="st_up_uti_a1_descr">
+		<text>이동 장치를 추가합니다. 최대 운반 하중이 중가합니다.</text>
+	</string>
+
+	<string id="st_up_uti_a1_name">
+		<text>동력 모터 추가</text>
+	</string>
+
+	<string id="st_up_uti_a2_descr">
+		<text>해당 장치는 항파상풍제, 항염증제, 스트렙토사이드 물질을 공급합니다.</text>
+	</string>
+
+	<string id="st_up_uti_a2_name">
+		<text>야전 의료품 내장 장치</text>
+	</string>
+
+	<string id="st_up_uti_a3_descr">
+		<text>방호복 환기 장치입니다. 오염된 지역에서 연구할 수 있도록 방지 필터를 추가했습니다.</text>
+	</string>
+
+	<string id="st_up_uti_a3_name">
+		<text>내부 체온 조절 장치</text>
+	</string>
+
+	<string id="st_up_uti_a4_descr">
+		<text>인체공학 개선 개조입니다. 방호복에 부착된 특수 거치대로 운반 무게를 경감할 수 있습니다.</text>
+	</string>
+
+	<string id="st_up_uti_a4_name">
+		<text>체중 분산 조끼</text>
+	</string>
+
+	<string id="st_up_uti_a5_descr">
+		<text>화학 또는 방사능 입자에 의해 대기가 오염된 지역에 들어가려면 산소통이 필요합니다.</text>
+	</string>
+
+	<string id="st_up_uti_a5_name">
+		<text>산소통 설치</text>
+	</string>
+
+	<string id="st_up_uti_b1_descr">
+		<text>아티팩트 수납 공간을 추가로 설치합니다.</text>
+	</string>
+
+	<string id="st_up_uti_b1_name">
+		<text>아티팩트 수납 공간 추가</text>
+	</string>
+
+	<string id="st_up_uti_b2_descr">
+		<text>체중 분산용 거치대를 이용해 체중을 전신에 고르게 분산합니다.</text>
+	</string>
+
+	<string id="st_up_uti_b2_name">
+		<text>체중 분산용 거치대</text>
+	</string>
+
+	<string id="st_up_uti_b3_descr">
+		<text>어깨에 집중된 무게 하중을 전신으로 분산시키는 등받이 프레임입니다. 최대 하중이 증가합니다.</text>
+	</string>
+
+	<string id="st_up_uti_b3_name">
+		<text>체중 분산 등받이 프레임</text>
+	</string>
+
+	<string id="st_up_uti_b4_descr">
+		<text>소독제, 항파상풍제, 자극성 물질을 공급하는 장치입니다. 직접 만들었지만 신체에 해를 끼치진 않을 것으로 보입니다.</text>
+	</string>
+
+	<string id="st_up_uti_b4_name">
+		<text>관리용 내장 장치</text>
+	</string>
+
+	<string id="st_up_uti_b5_descr">
+		<text>해당 장치는 특수 강판에 이상 현상과 동일한 전하를 충전하여 위험 요소를 줄입니다.</text>
+	</string>
+
+	<string id="st_up_uti_b5_name">
+		<text>스팅레이 전자기 보호 장치</text>
+	</string>
+
+	<string id="st_up_uti_b6_descr">
+		<text>합침재 내부 레이어로 화학 물질 중독을 방지합니다.</text>
+	</string>
+
+	<string id="st_up_uti_b6_name">
+		<text>화학 물질 보호용 내부 합침재 레이어</text>
+	</string>
+
+	<string id="st_up_uti_b7_descr">
+		<text>마라톤 달리기 장치의 실험 기종입니다. 존 외부에서는 가격도 높고 용도도 애매해 사장되었습니다.</text>
+	</string>
+
+	<string id="st_up_uti_b7_name">
+		<text>선수용 내장 장치</text>
+	</string>
+
+	<string id="st_up_uti_b8_descr">
+		<text>호흡기 배출구에서 응축액을 보내 중독 물질을 제거하는 장치입니다.</text>
+	</string>
+
+	<string id="st_up_uti_b8_name">
+		<text>해독제 독 제거 장치</text>
+	</string>
+
+	<string id="st_up_uti_c1_descr">
+		<text>아티팩트 수납 공간을 추가로 설치합니다.</text>
+	</string>
+
+	<string id="st_up_uti_c1_name">
+		<text>아티팩트 수납 공간 2개 추가</text>
+	</string>
+
+	<string id="st_up_uti_c2_descr">
+		<text>방호복 전체에 내장된 전투 지원 장치입니다. 주로 스페츠나츠에서 드물게 사용합니다. 아드레날린 및 혈액 응고 장치가 사전 내장되어 있습니다.</text>
+	</string>
+
+	<string id="st_up_uti_c2_name">
+		<text>바랴그 야전 지원 장치</text>
+	</string>
+
+	<string id="st_up_uti_c3_descr">
+		<text>이 전투 지원 장치 시제품의 설계자들은 해로운 아드레날린 주사 대신 혈액 응고 장치에 치료용 물질을 포함하기로 했습니다.</text>
+	</string>
+
+	<string id="st_up_uti_c3_name">
+		<text>스키프 야전 지원 장치</text>
+	</string>
+
+	<string id="st_up_zat_a1_descr">
+		<text>상당히 많은 비용이 드는 개조입니다. 실제로 차세대 무기에서 흔하게 보입니다.</text>
+	</string>
+
+	<string id="st_up_zat_a1_name">
+		<text>단단한 볼트 설치</text>
+	</string>
+
+	<string id="st_up_zat_a2_descr">
+		<text>볼트 구간의 부피를 늘립니다. 에너지 소실을 방지하고 평탄도가 증가합니다.</text>
+	</string>
+
+	<string id="st_up_zat_a2_name">
+		<text>합성 물질 삽입을 통한 볼트 부피 증가</text>
+	</string>
+
+	<string id="st_up_zat_a3_descr">
+		<text>이름과 달리 볼트를 교체하는 개조입니다. 향상된 발사 속도의 영향을 감당하기 위해 필요한 조치입니다.</text>
+	</string>
+
+	<string id="st_up_zat_a3_name">
+		<text>빠른 자동 멈치</text>
+	</string>
+
+	<string id="st_up_zat_b1_descr">
+		<text>반동의 일부를 흡수하며 같은 속도로 움직이는 공간을 갖춘 가스 배출구입니다.</text>
+	</string>
+
+	<string id="st_up_zat_b1_name">
+		<text>이동 구간이 있는 가스 배출구 설치</text>
+	</string>
+
+	<string id="st_up_zat_b2_descr">
+		<text>두 번째 피스톤이 평형추를 움직여 볼트 메커니즘의 이동 충격량을 상쇄합니다.</text>
+	</string>
+
+	<string id="st_up_zat_b2_name">
+		<text>추가 가스 피스톤 설치</text>
+	</string>
+
+	<string id="st_up_zat_b3_descr">
+		<text>보호용 스퍼터는 안정성을 개선하는 장점도 있지만, 그보다는 밀폐성을 보장해 초과 에너지 손실을 방지한다는 점이 중요합니다.</text>
+	</string>
+
+	<string id="st_up_zat_b3_name">
+		<text>보호용 볼트 부위 스퍼터</text>
+	</string>
+
+	<string id="st_up_zat_b4_descr">
+		<text>총몸에 세로형 홈을 추가합니다. 목적은 마찰력을 줄이고 소형 입자를 포착해 볼트 구간의 오염을 방지하는 것입니다.</text>
+	</string>
+
+	<string id="st_up_zat_b4_name">
+		<text>세로형 홈 추가</text>
+	</string>
+
+	<string id="st_up_zat_b5_descr">
+		<text>합성 증점제를 사용해 가스실 직경을 줄입니다. 탄환 속도가 대폭 증가합니다.</text>
+	</string>
+
+	<string id="st_up_zat_b5_name">
+		<text>지향성 가스 에너지</text>
+	</string>
+
+	<string id="st_up_zat_b6_descr">
+		<text>볼트가 다시 시작 위치로 돌아가는 동안, 총열 공간으로 공기 흐름의 방향을 바꿔 냉각시킵니다.</text>
+	</string>
+
+	<string id="st_up_zat_b6_name">
+		<text>강제 냉각 장치</text>
+	</string>
+
+	<string id="st_up_zat_c1_descr">
+		<text>무기의 볼트가 총열을 따라 미끄러집니다. 총구 부분이 위로 움직이는 현상을 방지합니다.</text>
+	</string>
+
+	<string id="st_up_zat_c1_name">
+		<text>변형 볼트 설치</text>
+	</string>
+
+	<string id="st_up_zat_c2_descr">
+		<text>가스 피스톤을 설치합니다. 가스가 볼트 프레임에 유입되지 않도록 차단해 무기 오염을 크게 줄입니다.</text>
+	</string>
+
+	<string id="st_up_zat_c2_name">
+		<text>가스 피스톤 설치</text>
+	</string>
+
+	<string id="st_up_zat_c3_descr">
+		<text>볼트 부분에서 가스를 어느 정도 수집하여 움직임을 개선하는 장치입니다.</text>
+	</string>
+
+	<string id="st_up_zat_c3_name">
+		<text>가스 에너지 수집 장치</text>
+	</string>
+
+	<string id="st_up_zat_c4_descr">
+		<text>연사 부품을 교체하는 작업으로, 가스 피스톤을 개선하기보다는 최적화하는 개조에 가깝습니다. 무기 발사 속도가 대폭 증가합니다.</text>
+	</string>
+
+	<string id="st_up_zat_c4_name">
+		<text>가스 피스톤 이동부 단축</text>
+	</string>
+
+	<string id="st_up_zat_c5_descr">
+		<text>현대식 무기에 종종 사용하는 롤러 고정 장치입니다. 반동이 감소하고 탄착군이 개선됩니다.</text>
+	</string>
+
+	<string id="st_up_zat_c5_name">
+		<text>롤러 장치를 갖춘 세미프리 볼트로 변경</text>
+	</string>
+
+	<string id="st_up_zath_a1_descr">
+		<text>열을 흡수하는 부품입니다. 무기를 발사할 때 온도 변화를 줄입니다.</text>
+	</string>
+
+	<string id="st_up_zath_a1_name">
+		<text>열 흡수 부품</text>
+	</string>
+
+	<string id="st_up_zath_b1_descr">
+		<text>가스 피스톤의 움직임이 길어집니다. 무기 길이가 약간 증가하며 평탄도가 대폭 향상됩니다.</text>
+	</string>
+
+	<string id="st_up_zath_b1_name">
+		<text>가스 피스톤 이동부 연장</text>
+	</string>
+
+	<string id="st_up_zath_b2_descr">
+		<text>이동 부품 완충재로 반동을 무기 전체에 고르게 분산합니다. 발사하는 동안 반동이 덜 두드러지게 만듭니다.</text>
+	</string>
+
+	<string id="st_up_zath_b2_name">
+		<text>특수 이동 부품 완충재 설치</text>
+	</string>
+
+	<string id="st_up_zath_c1_descr">
+		<text>배출관을 이용해 총열 부품을 대칭 구조로 강제 냉각시킵니다. 무기 과열을 방지합니다.</text>
+	</string>
+
+	<string id="st_up_zath_c1_name">
+		<text>균일 강제 냉각 장치</text>
+	</string>
+
+	<string id="st_up_zatp_a1_descr">
+		<text>반동을 늘려 다른 부품에 과부하를 주지 않으면서도 발사 속도가 증가합니다.</text>
+	</string>
+
+	<string id="st_up_zatp_a1_name">
+		<text>이동식 볼트 부위</text>
+	</string>
+
+	<string id="st_up_zatp_b1_descr">
+		<text>탄환에 대한 충격 전달 체계를 개선합니다. 평탄도가 증가합니다.</text>
+	</string>
+
+	<string id="st_up_zatp_b1_name">
+		<text>볼트 부위 총열 폐쇄 장치</text>
+	</string>
+
+	<string id="st_up_zatp_b2_descr">
+		<text>볼트 부위의 움직임을 느리게 만듭니다. 반동이 감소합니다.</text>
+	</string>
+
+	<string id="st_up_zatp_b2_name">
+		<text>느린 볼트 후방 이동 장치</text>
+	</string>
+
+	<string id="st_up_zatp_b3_descr">
+		<text>스퍼터로 무기가 빨리 마모되는 현상을 방지합니다.</text>
+	</string>
+
+	<string id="st_up_zatp_b3_name">
+		<text>보호용 볼트 부위 스퍼터</text>
+	</string>
+
+	<string id="st_up_zatp_b4_descr">
+		<text>탄환에 대한 충격 전달 체계를 개선합니다. 평탄도가 증가합니다.</text>
+	</string>
+
+	<string id="st_up_zatp_b4_name">
+		<text>총열 왜곡 폐쇄 장치</text>
+	</string>
+
+	<string id="st_up_zatp_b5_descr">
+		<text>더 무거운 폐쇄형 볼트를 사용합니다. 권총 볼트 부위의 오작동을 방지합니다.</text>
+	</string>
+
+	<string id="st_up_zatp_b5_name">
+		<text>볼트 강화 및 완전 폐쇄</text>
+	</string>
+
+	<string id="st_up_zatp_b6_descr">
+		<text>일부 반동을 흡수하는 소형 완충재입니다.</text>
+	</string>
+
+	<string id="st_up_zatp_b6_name">
+		<text>폴리머 반동 완충재</text>
+	</string>
+
+	<string id="st_up_zatp_b7_descr">
+		<text>강철 삽입부를 설치합니다. 반동이 감소합니다.</text>
+	</string>
+
+	<string id="st_up_zatp_b7_name">
+		<text>나선형 홈을 갖춘 폐쇄형 삽입부 설치</text>
+	</string>
+
+	<string id="st_up_zatp_b8_descr">
+		<text>볼트 움직임을 늘리고 반작용 메커니즘를 적절히 보강합니다. 평탄도가 증가합니다.</text>
+	</string>
+
+	<string id="st_up_zatp_b8_name">
+		<text>볼트 움직임 증가</text>
+	</string>
+
+	<string id="st_up_zatp_c1_descr">
+		<text>이동부를 단축합니다. 무기 발사 속도를 늘리면서도 평탄도를 그대로 유지합니다.</text>
+	</string>
+
+	<string id="st_up_zatp_c1_name">
+		<text>단축형 볼트 이동 배열 설치</text>
+	</string>
+
+	<string id="st_up_zatp_c2_descr">
+		<text>볼트 이동부를 연장합니다. 탄환에 부여되는 에너지가 대폭 증가합니다.</text>
+	</string>
+
+	<string id="st_up_zatp_c2_name">
+		<text>연장형 총열 이동 배열 설치</text>
+	</string>
+
+	<string id="st_up_zatp_c3_descr">
+		<text>연사 부품을 교체하는 작업으로, 가스 피스톤을 개선하기 보다는 최적화하는 개조에 가깝습니다. 무기 발사 속도가 대폭 증가합니다.</text>
+	</string>
+
+	<string id="st_up_zatp_c3_name">
+		<text>단축형 이동부 반동 에너지 사용 배열 설치</text>
+	</string>
+
+	<string id="st_up_zatp_c4_descr">
+		<text>이 모듈을 설치하면 탄착군을 대폭 개선하면서도 속도를 그대로 유지합니다.</text>
+	</string>
+
+	<string id="st_up_zatp_c4_name">
+		<text>이중 스프링 결합 반환 모듈</text>
+	</string>
+
+	<string id="st_up_zatp_c5_descr">
+		<text>보정 구멍을 추가로 적용합니다. 반동이 대폭 감소합니다.</text>
+	</string>
+
+	<string id="st_up_zatp_c5_name">
+		<text>일체형 총열 들림 보정기</text>
+	</string>
+
+	<string id="st_up_zatp_c6_descr">
+		<text>권총의 자동 부품을 연사에 적합하도록 최신화합니다.</text>
+	</string>
+
+	<string id="st_up_zatp_c6_name">
+		<text>완전 자동 발사 방식</text>
+	</string>
+
+	<string id="st_up_zatp_c7_descr">
+		<text>권총의 자동 부품을 3점사에 적합하도록 개선합니다.</text>
+	</string>
+
+	<string id="st_up_zatp_c7_name">
+		<text>3점사 사격 방식</text>
+	</string>
+
+	<string id="st_upgr_cost">
+		<text>비용</text>
+	</string>
+
+	<string id="st_upgr_disable">
+		<text>설치 불가</text>
+	</string>
+
+	<string id="st_upgr_installed">
+		<text>설치 완료</text>
+	</string>
+
+	<string id="st_upgrade_install">
+		<text>설치하시겠습니까?</text>
+	</string>
+
+	<string id="st_prop_autolock">
+		<text>자동 표적 획득 장치</text>
+	</string>
+
+	<string id="st_prop_autolockscope">
+		<text>자동 표적 획득 장치</text>
+	</string>
+
+	<string id="st_prop_scope_5x">
+		<text>5배율 광학 조준경</text>
+	</string>
+
+	<string id="st_prop_scope_6x">
+		<text>6배율 광학 조준경</text>
+	</string>
+
+	<string id="st_prop_scanner">
+		<text>적외선 스캐너</text>
+	</string>
+
+	<string id="st_prop_weightoutfit">
+		<text>방탄복 무게</text>
+	</string>
+
+	<string id="st_prop_night_vision_2">
+		<text>2세대 야간 투시경</text>
+	</string>
+
+	<string id="st_prop_night_vision_3">
+		<text>3세대 야간 투시경</text>
+	</string>
+
+	<string id="st_prop_scope_attach">
+		<text>광학 조준경 거치대</text>
+	</string>
+
+	<string id="st_int_silencer">
+		<text>일체형 소음기</text>
+	</string>
+
+	<string id="st_prop_grenade_launcher">
+		<text>언더배럴 유탄 발사기</text>
+	</string>
+
+	<string id="st_prop_restore_bleeding">
+		<text>부상 치유</text>
+	</string>
+
+	<string id="st_prop_restore_health">
+		<text>체력 회복</text>
+	</string>
+
+	<string id="st_prop_night_vision">
+		<text>1세대 야간 투시경</text>
+	</string>
+
+	<string id="st_prop_scope">
+		<text>조절식 조준경</text>
+	</string>
+
+	<string id="st_prop_contrast">
+		<text>고대비 시야</text>
+	</string>
+
+	<string id="st_prop_sprint">
+		<text>동력 모터 부스터</text>
+	</string>
+
+	<string id="st_prop_durability">
+		<text>복장 내구도</text>
+	</string>
+
+	<string id="st_gauss_cannot_be_repaired">
+		<text>무기 작동 방식이 분명하지 않습니다. 설계 관련 정보를 추가로 확보해야 수리할 수 있습니다.</text>
+	</string>
+
+	<string id="st_upgr_cant_do">
+		<text>기술자가 해당 개조를 진행할 수 없습니다.</text>
+	</string>
+
+	<string id="st_upgr_group">
+		<text>해당 부품은 이미 개조되었습니다.</text>
+	</string>
+
+	<string id="st_upgr_enough_money">
+		<text>돈이 부족합니다.</text>
+	</string>
+
+	<string id="st_no_buck">
+		<text>탄약 미사용</text>
+	</string>
+
+	<string id="st_auto_fire">
+		<text>자동 사격 모드</text>
+	</string>
+
+	<string id="st_semi_auto_fire">
+		<text>3점사 모드</text>
+	</string>
+
+	<string id="st_prop_artefact">
+		<text>수납 공간 수</text>
+	</string>
+
+	<string id="st_upgr_vodka">
+		<text>기술자가 보드카를 원합니다.</text>
+	</string>
+
+	<string id="st_upgr_toolkit_1">
+		<text>기술자에게 기본 작업용 도구가 필요합니다.</text>
+	</string>
+
+	<string id="st_upgr_toolkit_2">
+		<text>기술자에게 정밀 작업용 도구가 필요합니다.</text>
+	</string>
+
+	<string id="st_upgr_toolkit_3">
+		<text>기술자에게 측정용 도구가 필요합니다.</text>
+	</string>
+
+	<string id="st_upgr_condlist">
+		<text>기술자에게 더 많은 정보가 필요합니다.</text>
+	</string>
+
+	<string id="st_upgr_parents">
+		<text>이전 개조 필요</text>
+	</string>
+
+	<string id="st_up_arm_c9_name">
+		<text>사파이어 수정 기반 아르마딜로 보호용 코팅</text>
+	</string>
+
+	<string id="st_up_arm_c5_name">
+		<text>강화 티타늄/베릴륨 매트릭스</text>
+	</string>
+
+	<string id="st_up_arm_c7_name">
+		<text>추가 탄소섬유 코팅</text>
+	</string>
+
+	<string id="st_up_kom_a5_name">
+		<text>고무 직물 언더레이어</text>
+	</string>
+
+</string_table>

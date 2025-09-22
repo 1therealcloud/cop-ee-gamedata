@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_af_baloon_descr">
+		<text>由幾個中空的有機結構組成，這件神器會散發出氣體，能安全地中和體內的放射性粒子。由於它的效用，這件神器需求量很大。</text>
+	</string>
+
+	<string id="st_af_baloon_name">
+		<text>泡泡</text>
+	</string>
+
+	<string id="st_af_blood_descr">
+		<text>植物、土壤和動物殘屑經壓縮和石化而形成的紅色物質。可局部中和化學毒物。會散發輻射。</text>
+	</string>
+
+	<string id="st_af_blood_name">
+		<text>血石</text>
+	</string>
+
+	<string id="st_af_cristall_descr">
+		<text>這件神器在熱能活動密集的異常區域形成。能主動消耗多餘的熱能，保持觸摸時感到涼爽。會散發輻射。</text>
+	</string>
+
+	<string id="st_af_cristall_flower_descr">
+		<text>該神器由類似花崗岩的石頭組成，在極端重力作用下變形，形成迄今為止科學尚無法解釋的結晶結構。對心靈輻射提供中等保護，具有放射性。</text>
+	</string>
+
+	<string id="st_af_cristall_flower_name">
+		<text>石花</text>
+	</string>
+
+	<string id="st_af_cristall_name">
+		<text>水晶</text>
+	</string>
+
+	<string id="st_af_dummy_battery_descr">
+		<text>該神器的成分包括靜電元素，但科學家尚未確定其形成所需的確切物理條件。這件神器在特異區很受歡迎，因其供給能量的特性而受到居民和訪客的重視，儘管長時間使用會使身體疲勞。會散發輻射。</text>
+	</string>
+
+	<string id="st_af_dummy_battery_name">
+		<text>電池</text>
+	</string>
+
+	<string id="st_af_dummy_dummy_descr">
+		<text>這件神器曾被當作垃圾，沒有任何用處。不過，最近科學家發現，如果它與身體長時間接觸，對神經系統有極佳的刺激作用。會散發輻射。</text>
+	</string>
+
+	<string id="st_af_dummy_dummy_name">
+		<text>殼</text>
+	</string>
+
+	<string id="st_af_dummy_glassbeads_descr">
+		<text>對科學家來說，關於這件神器的許多事情仍然是未解之謎。同時，眾所周知，較厚部分的脈衝所產生的輻射會迫使開放性傷口中的血液更快凝結，形成保護性結痂。此神器最顯著的效果之一是加速傷口癒合速度。會散發輻射。</text>
+	</string>
+
+	<string id="st_af_dummy_glassbeads_name">
+		<text>媽媽的項鍊</text>
+	</string>
+
+	<string id="st_af_electra_flash_descr">
+		<text>這件靜電神器具有強大的吸電能力，隨後又將其釋放。閃光能夠保護其持有者免受高達 5000 伏特的電擊。會散發輻射。</text>
+	</string>
+
+	<string id="st_af_electra_flash_name">
+		<text>閃光</text>
+	</string>
+
+	<string id="st_af_electra_moonlight_descr">
+		<text>這件獨特的靜電神器能在心靈波的影響下發出迴響。潛行者已學會微調這件神器，使其與主要輻射源產生反向共振，從而完全或顯著地抵消其影響。會散發輻射。</text>
+	</string>
+
+	<string id="st_af_electra_moonlight_name">
+		<text>月光</text>
+	</string>
+
+	<string id="st_af_electra_sparkler_descr">
+		<text>透亮的靜電系神器代表，能緩和電場的波動密集度。會散發輻射。</text>
+	</string>
+
+	<string id="st_af_electra_sparkler_name">
+		<text>鑽石</text>
+	</string>
+
+	<string id="st_af_eye_descr">
+		<text>這件神器看起來像人眼，可極致提升新陳代謝，有助傷口快速癒合。經驗豐富的潛行者說這隻眼睛能帶來好運。會散發輻射。 </text>
+	</string>
+
+	<string id="st_af_eye_name">
+		<text>眼睛</text>
+	</string>
+
+	<string id="st_af_fire_descr">
+		<text>這件神器在高熱能活動地區形成。散發強勁的紅外線輻射，可提升新陳代謝，速效癒合持有者的傷口。這是件極為罕見的神器，因此非常珍貴。會散發輻射。</text>
+	</string>
+
+	<string id="st_af_fire_name">
+		<text>火焰球</text>
+	</string>
+
+	<string id="st_af_fireball_descr">
+		<text>雖然火球是熱能神器，但可以放心不被燙傷。這件神器的價值在於能在小範圍內維持 24 攝氏度的溫度，幾乎不會受周遭環境影響。會散發輻射。</text>
+	</string>
+
+	<string id="st_af_fireball_name">
+		<text>火球</text>
+	</string>
+
+	<string id="st_af_fuzz_kolobok_descr">
+		<text>這是一件相對罕見的神器，形成於受化學物質污染的地區，因其能夠在短短幾分鐘內治癒任何類型的傷口而受到高度重視。由於未知的原因，科學家在潛行者中散佈謠言，稱該神器會與持有者的遺傳密碼相互作用。會散發輻射。</text>
+	</string>
+
+	<string id="st_af_fuzz_kolobok_name">
+		<text>活血刺</text>
+	</string>
+
+	<string id="st_af_glass_name">
+		<text>螢火蟲</text>
+	</string>
+
+	<string id="st_af_gold_fish_descr">
+		<text>大量重力場的相互作用所形成，金魚可產生自己強大的內部定向重力場，使其範圍內的物品幾乎失重。這件神器對於減輕攜帶重量最為有效，因此非常搶手。會散發輻射。</text>
+	</string>
+
+	<string id="st_af_gold_fish_name">
+		<text>金魚</text>
+	</string>
+
+	<string id="st_af_gravi_descr">
+		<text>重力由長期暴露於重力下的金屬物質組成。能維持反重力場，許多潛行者用它減輕背包負重。會散發輻射。</text>
+	</string>
+
+	<string id="st_af_gravi_name">
+		<text>重力</text>
+	</string>
+
+	<string id="st_af_ice_descr">
+		<text>乍看之下這件神器像活血刺。有人聲稱實際上它就是活血刺，因暴露於強力電場下而被強化。鑑於其獨特性質，該神器能顯著提升佩戴者的肌肉張力。會散發輻射。</text>
+	</string>
+
+	<string id="st_af_ice_name">
+		<text>雪花</text>
+	</string>
+
+	<string id="st_af_medusa_descr">
+		<text>這件重力神器可以吸收放射性粒子，減少輻射對身體的影響。在特異區中十分常見，在特異區外，民間會在特殊情況下用它治療急性放射病。</text>
+	</string>
+
+	<string id="st_af_medusa_name">
+		<text>水母</text>
+	</string>
+
+	<string id="st_af_mincer_meat_descr">
+		<text>這件有機神器由經過變形、突變的動物組織所組成。當放置在化學污染區域時，肉塊會將空氣中的化學物質轉化為黏液。會散發輻射。</text>
+	</string>
+
+	<string id="st_af_mincer_meat_name">
+		<text>肉塊</text>
+	</string>
+
+	<string id="st_af_night_star_descr">
+		<text>這件閃閃發亮的神器可產生局部的定向低重力場。與重力（一個類似的神器）一起被潛行者廣泛使用，以增加最大負重。會散發輻射。</text>
+	</string>
+
+	<string id="st_af_night_star_name">
+		<text>夜星</text>
+	</string>
+
+	<string id="st_af_soul_descr">
+		<text>具有獨特性質的特殊有機神器。它以某種方式提高了身體從任何類型的損傷中恢復的速度，而不會加速毒素的累積。由於效果出眾且外觀宜人，這件神器極具收藏價值。會散發輻射。</text>
+	</string>
+
+	<string id="st_af_soul_name">
+		<text>靈魂</text>
+	</string>
+
+	<string id="st_af_vyvert_descr">
+		<text>這件奇形怪狀的神器出現在重力活動增加的地方。它能如海綿般吸收放射性元素，因此這件神器能夠防止外部輻射，同時減少已進入身體的放射性粒子。</text>
+	</string>
+
+	<string id="st_af_vyvert_name">
+		<text>板手</text>
+	</string>
+
+	<string id="st_compass">
+		<text>羅盤</text>
+	</string>
+
+	<string id="st_compass_descr">
+		<text>一件稀有的神器——已經很多年沒再發現過了。這件神器可以找到特異場中的空隙，據信它可以幫助人們在最複雜的特異場中安然穿梭。不過，很少人知道正確使用的方法。</text>
+	</string>
+
+	<string id="st_oasis_heart">
+		<text>綠洲之心</text>
+	</string>
+
+	<string id="st_oasis_heart_descr">
+		<text>這件神器是在傳奇的綠洲中心發現的。看起來這心臟是一種結晶植物，已經獲得了綠洲的治療特性。然而，與綠洲本身不同的是，這件神器具有極高的放射性。</text>
+	</string>
+
+	<string id="st_af_glass_descr">
+		<text>螢火蟲與科學未知的領域相互作用，大大加快生物體組織和器官的再生，並使代謝過程正常化。這件神器可以在幾秒鐘內讓受重傷的潛行者重新站起來。但很遺憾，螢火蟲極為罕見。會散發輻射。</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<string_table>
+	<string id="ui_mm_language">
+        <text>Jazyk</text>
+    </string>
+	<string id="ui_mm_language_sound">
+        <text>Jazyk zvuku</text>
+    </string>
+   <string id="lang_cze">
+        <text>Čeština</text>
+    </string>
+    <string id="lang_eng">
+        <text>English</text>
+    </string>
+    <string id="lang_fra">
+        <text>Français</text>
+    </string>
+    <string id="lang_ger">
+        <text>Deutsch</text>
+    </string>
+    <string id="lang_ita">
+        <text>Italiano</text>
+    </string>
+    <string id="lang_jpn">
+        <text>日本語 </text>
+    </string>
+    <string id="lang_pol">
+        <text>Polski</text>
+    </string>
+    <string id="lang_rus">
+        <text>Русский</text>
+    </string>
+    <string id="lang_spa">
+        <text>Español</text>
+    </string>
+    <string id="lang_ukr">
+        <text>Українська</text>
+    </string>
+	<string id="lang_kor">
+		<text>한국어 </text>
+	</string>
+	<string id="lang_zh_cn">
+		<text>简体中文 </text>
+	</string>
+	<string id="lang_zh_tw">
+		<text>繁體中文 </text>
+	</string>
+	<string id="st_ui_health_sensor_utf8">
+		<text>Zdraví</text>
+	</string>
+
+	<string id="st_level_utf8">
+		<text>Úroveň</text>
+	</string>
+
+	<string id="ui_inv_time_utf8">
+		<text>Čas</text>
+	</string>
+
+	<string id="zaton_utf8">
+		<text>Zaton</text>
+	</string>
+
+	<string id="jupiter_utf8">
+		<text>Okolí Jupiteru</text>
+	</string>
+
+	<string id="jupiter_underground_utf8">
+		<text>Pripjať 1 - nadchod</text>
+	</string>
+
+	<string id="pripyat_utf8">
+		<text>Pripjať</text>
+	</string>
+
+	<string id="labx8_utf8">
+		<text>Laboratoř X8</text>
+	</string>
+
+	<string id="ui_mainmenu_autosave_utf8">
+		<text>Automatické uložení - </text>
+	</string>
+
+	<string id="ui_mainmenu_manualsave_utf8">
+		<text>Ruční uložení - </text>
+	</string>
+
+	<string id="ui_mainmenu_quicksave_utf8">
+		<text>Rychlé uložení - </text>
+	</string>
+
+	<string id="ui_mmenu_new_savegame_utf8">
+		<text>Nová pozice</text>
+	</string>
+
+	<string id="ui_mmenu_no_savegames_utf8">
+		<text>Žádné pozice</text>
+	</string>
+
+	<string id="st_game_saved_utf8">
+		<text>Hra uložena</text>
+	</string>
+
+	<string id="month_january_utf8">
+		<text>Leden</text>
+	</string>
+
+	<string id="month_february_utf8">
+		<text>Únor</text>
+	</string>
+
+	<string id="month_march_utf8">
+		<text>Březen</text>
+	</string>
+
+	<string id="month_april_utf8">
+		<text>Duben</text>
+	</string>
+
+	<string id="month_may_utf8">
+		<text>Květen</text>
+	</string>
+
+	<string id="month_june_utf8">
+		<text>Červenec</text>
+	</string>
+
+	<string id="month_july_utf8">
+		<text>Červen</text>
+	</string>
+
+	<string id="month_august_utf8">
+		<text>Srpen</text>
+	</string>
+
+	<string id="month_september_utf8">
+		<text>Září</text>
+	</string>
+
+	<string id="month_october_utf8">
+		<text>Říjen</text>
+	</string>
+
+	<string id="month_november_utf8">
+		<text>Listopad</text>
+	</string>
+
+	<string id="month_december_utf8">
+		<text>Prosinec</text>
+	</string>
+
+	<string id="st_save_uni_travel_generic">
+		<text>přesun v rámci oblasti</text>
+	</string>
+
+	<string id="st_save_uni_travel_zat_to_jup">
+		<text>přesun ze Zatonu do Janova</text>
+	</string>
+
+	<string id="st_save_uni_travel_zat_to_pri">
+		<text>přesun ze Zatonu do Pripjati</text>
+	</string>
+
+	<string id="st_save_uni_travel_jup_to_zat">
+		<text>přesun z Janova do Zatonu</text>
+	</string>
+
+	<string id="st_save_uni_travel_jup_to_pri">
+		<text>přesun z Janova do Pripjati</text>
+	</string>
+
+	<string id="st_save_uni_travel_pri_to_zat">
+		<text>přesun z Pripjati do Zatonu</text>
+	</string>
+
+	<string id="st_save_uni_travel_pri_to_jup">
+		<text>přesun z Pripjati do Janova</text>
+	</string>
+
+	<string id="st_save_uni_pri_to_labx8">
+		<text>přesun z Pripjati do X-8</text>
+	</string>
+
+	<string id="st_save_uni_labx8_to_pri">
+		<text>přesun z X-8 do Pripjati</text>
+	</string>
+
+	<string id="st_save_uni_surge_start">
+		<text>emise</text>
+	</string>
+
+	<string id="st_save_zat_a1_game_start">
+		<text>začátek hry</text>
+	</string>
+
+	<string id="st_save_zat_a2_reached_skadovsk">
+		<text>příchod do Skadovsku</text>
+	</string>
+
+	<string id="st_save_jup_b9_searched_heli_1">
+		<text>prohledaný Stingray 1</text>
+	</string>
+
+	<string id="st_save_zat_b100_searched_heli_2">
+		<text>prohledaný Stingray 2</text>
+	</string>
+
+	<string id="st_save_zat_b28_searched_heli_3">
+		<text>prohledaný Stingray 3</text>
+	</string>
+
+	<string id="st_save_jup_b8_searched_heli_4">
+		<text>prohledaný Stingray 4</text>
+	</string>
+
+	<string id="st_save_zat_b101_searched_heli_5">
+		<text>prohledaný Stingray 5</text>
+	</string>
+
+	<string id="st_save_zat_b18_noah_showed_teleport">
+		<text>přístup na náhorní rovinu</text>
+	</string>
+
+	<string id="st_save_jup_b217_arrived_to_jup">
+		<text>příchod do Janova</text>
+	</string>
+
+	<string id="st_save_jup_a9_got_underpass_docs">
+		<text>nalezená cesta do Pripjati</text>
+	</string>
+
+	<string id="st_save_jup_b15_drunk_with_zulu">
+		<text>Zulu se přidává ke skupině</text>
+	</string>
+
+	<string id="st_save_jup_a10_gonna_return_debt">
+		<text>splacený Váňův dluh</text>
+	</string>
+
+	<string id="st_save_jup_b218_vano_in_squad">
+		<text>Váňo se přidává ke skupině</text>
+	</string>
+
+	<string id="st_save_jup_b206_got_anomalous_plant">
+		<text>sebraná anomální rostlina</text>
+	</string>
+
+	<string id="st_save_jup_b218_sokolov_in_squad">
+		<text>Sokolov se přidává ke skupině</text>
+	</string>
+
+	<string id="st_save_jup_b218_strider_in_squad">
+		<text>Tulák se přidává ke skupině</text>
+	</string>
+
+	<string id="st_save_jup_b218_travel_jup_to_pas">
+		<text>parta je pohromadě</text>
+	</string>
+
+	<string id="st_save_pas_b400_underpass_start">
+		<text>příchod do podchodu</text>
+	</string>
+
+	<string id="st_save_uni_travel_pas_to_pri">
+		<text>příchod do Pripjati</text>
+	</string>
+
+	<string id="st_save_pri_a16_arrived_to_pri">
+		<text>nalezené vojenské jednotky</text>
+	</string>
+
+	<string id="st_save_pri_a17_hospital_start">
+		<text>zajištění neidentifikované zbraně</text>
+	</string>
+
+	<string id="st_save_pri_a20_found_dead_recon">
+		<text>nalezená průzkumná četa</text>
+	</string>
+
+	<string id="st_save_pri_a18_met_reinforcement">
+		<text>posily dorazily</text>
+	</string>
+
+	<string id="st_save_pri_a18_searched_antenna">
+		<text>prozkoumaný „vysílač“</text>
+	</string>
+
+	<string id="st_save_pri_a21_approached_mad_sentry">
+		<text>nalezená pohřešovaná hlídka</text>
+	</string>
+
+	<string id="st_save_pri_a21_killed_controller">
+		<text>zabitý kontrolér u hlídky</text>
+	</string>
+
+	<string id="st_save_zat_a23_entered_test_center">
+		<text>přístup k testovací dílně</text>
+	</string>
+
+	<string id="st_save_zat_a23_got_gauss_docs">
+		<text>nalezená dokumentace Gaussovy pušky</text>
+	</string>
+
+	<string id="st_save_pri_a22_found_dead_squad">
+		<text>nalezený mrtvý bojovník</text>
+	</string>
+
+	<string id="st_save_pri_a25_gonna_place_explosive">
+		<text>vstup do mateřské školky</text>
+	</string>
+
+	<string id="st_save_pri_a25_freed_medic">
+		<text>zachráněný vojenský zdravotník</text>
+	</string>
+
+	<string id="st_save_pri_a28_talked_with_ssu">
+		<text>navázané spojení s centrálou</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacutaion_start">
+		<text>zahájená evakuace z Pripjatě</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacuation_end">
+		<text>příchod k evakuačnímu vrtulníku</text>
+	</string>
+
+	<string id="st_save_uni_zone_to_reality">
+		<text>dokončená evakuace</text>
+	</string>
+
+	<string id="st_save_jup_b209_placed_mutant_scanner">
+		<text>detektor mutantů</text>
+	</string>
+
+	<string id="st_save_jup_a12_gave_artefact_for_hostage">
+		<text>zaplacené výkupné za rukojmí</text>
+	</string>
+
+	<string id="st_save_jup_a12_met_with_liberators">
+		<text>osvobozené rukojmí</text>
+	</string>
+
+	<string id="st_save_jup_b6_arrived_to_ash_heap">
+		<text>měření z anomálie Popeliště</text>
+	</string>
+
+	<string id="st_save_jup_b6_arrived_to_fen">
+		<text>měření z anomálie Plavni</text>
+	</string>
+
+	<string id="st_save_zat_b38_met_with_grouse">
+		<text>doupě upírů</text>
+	</string>
+
+	<string id="st_save_jup_b19_arrived_to_kopachy">
+		<text>vyslání do Kopači</text>
+	</string>
+
+	<string id="st_save_zat_b40_warned_by_mercs">
+		<text>přístup k čističce odpadů</text>
+	</string>
+
+	<string id="st_save_zat_b7_met_with_robbers">
+		<text>zasažený stalker</text>
+	</string>
+
+	<string id="st_save_zat_b33_got_container">
+		<text>nalezený přepravník ve skrýši</text>
+	</string>
+
+	<string id="st_save_zat_b106_arrived_to_chimera_lair">
+		<text>lov chiméry</text>
+	</string>
+
+	<string id="st_save_jup_b16_passed_labyrinth">
+		<text>nalezená Oáza</text>
+	</string>
+
+	<string id="st_save_pri_b35_ready_to_snipe">
+		<text>zahájená operace Jeden výstřel</text>
+	</string>
+
+	<string id="st_save_jup_b1_entered_railroad_tunnel">
+		<text>hledání zdroje psí-záření</text>
+	</string>
+
+	<string id="st_save_jup_b47_got_admin_docs">
+		<text>administrativní dokumenty</text>
+	</string>
+
+	<string id="st_save_zat_b103_warned_by_mercs">
+		<text>přístup k dílně podstanice</text>
+	</string>
+
+	<string id="st_save_zat_b5_met_with_others">
+		<text>dohoda u stanice strážců</text>
+	</string>
+
+	<string id="st_save_jup_b207_arrived_to_duty_depot">
+		<text>skladiště Povinnosti</text>
+	</string>
+
+	<string id="st_save_zat_b14_got_altered_wheel">
+		<text>nalezený zdroj podivné záře</text>
+	</string>
+
+	<string id="st_save_pri_b301_arrived_to_help_zulu">
+		<text>nalezený Zulu</text>
+	</string>
+
+	<string id="st_save_zat_b42_arrived_to_controler_lair">
+		<text>nebezpečná jeskyně</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacuation_heli">
+		<text>odlet evakuačního vrtulníku</text>
+	</string>
+
+	<string id="ui_modio_nomemory_utf8">
+		<text>Modifikaci nelze nainstalovat! Nemáš dost volného místa</text>
+	</string>
+	
+	<string id="ui_mm_modio_error">
+		<text>Chyba Mod.io s kódem:\n</text>
+	</string>
+	<string id="ui_mm_modio_error_space">
+		<text>Na instalaci modifikace nemáš dost paměti:\n</text>
+	</string>
+	<string id="ui_mm_modio_error_video">
+		<text>Pozor! Nainstalované modifikace vyžadují spoustu grafické paměti. Hra může být nestabilní</text>
+	</string>
+
+</string_table>

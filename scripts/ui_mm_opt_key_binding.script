@@ -1,0 +1,38 @@
+class "opt_key_binding" (CUIScriptWnd) -- MTB-Damian.Romanik [JUD-1253]: Switched from CUIWindow to make sure that the same functions as in opt_controller_layout are available
+
+function opt_key_binding:__init() super()
+	self.mm_is_controller = main_menu.in_controller_mode()
+end
+
+function opt_key_binding:__finalize()
+
+end
+
+
+function opt_key_binding:InitControls(handler) 
+	
+	self:SetWndRect				(Frect():set(0,0,1024,768))
+	self:Enable					(true)
+	self:SetAutoDelete(true)
+	local xml					= CScriptXmlInit()
+	xml:ParseFile				("ui_mm_opt_key_bindings.xml")
+
+	self.dialog	= xml:InitStatic("main_dialog:dialog", self)
+	--self.bk = xml:InitFrame("main_dialog:frame", self.dialog)
+	
+	
+	local frame = xml:InitStatic("frame", self)
+	xml:InitStatic("frame:cap_keyboardsetup", frame)
+	self.key_binding = xml:InitKeyBinding("frame:key_binding",   frame)
+		
+	local btn = xml:Init3tButton("frame:btn_apply", frame)
+	handler:Register(btn, "btn_keyb_apply")
+	
+	local btnexit = xml:Init3tButton("frame:btn_exit", frame)
+	handler:Register(btnexit, "btn_keyb_exit")
+	
+end
+
+function opt_key_binding:Reset()
+	self.key_binding:Reset()
+end

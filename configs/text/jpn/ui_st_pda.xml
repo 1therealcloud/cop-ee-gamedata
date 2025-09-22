@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="Time">
+		<text>タイム</text>
+	</string>
+	<string id="actor">
+		<text>単独ストーカー</text>
+	</string>
+	<string id="army">
+		<text>軍</text>
+	</string>
+	<string id="bandit">
+		<text>バンディット</text>
+	</string>
+	<string id="dolg">
+		<text>デューティー</text>
+	</string>
+	<string id="ecolog">
+		<text>科学者</text>
+	</string>
+	<string id="filter_secondary_tasks_text">
+		<text>二次ミッション</text>
+	</string>
+	<string id="filter_treasures_text">
+		<text>隠し場所</text>
+	</string>
+	<string id="freedom">
+		<text>フリーダム</text>
+	</string>
+	<string id="killer">
+		<text>傭兵</text>
+	</string>
+	<string id="missions_list">
+		<text>ミッション・ログ</text>
+	</string>
+	<string id="monolith">
+		<text>モノリス</text>
+	</string>
+	<string id="monster">
+		<text>ミュータント</text>
+	</string>
+	<string id="month_april">
+		<text>4月</text>
+	</string>
+	<string id="month_august">
+		<text>8月</text>
+	</string>
+	<string id="month_december">
+		<text>12月</text>
+	</string>
+	<string id="month_february">
+		<text>2月</text>
+	</string>
+	<string id="month_january">
+		<text>1月</text>
+	</string>
+	<string id="month_july">
+		<text>7月</text>
+	</string>
+	<string id="month_june">
+		<text>6月</text>
+	</string>
+	<string id="month_march">
+		<text>4月</text>
+	</string>
+	<string id="month_may">
+		<text>5月</text>
+	</string>
+	<string id="month_november">
+		<text>11月</text>
+	</string>
+	<string id="month_october">
+		<text>10月</text>
+	</string>
+	<string id="month_september">
+		<text>9月</text>
+	</string>
+	<string id="pda_btn_close">
+		<text>PDAをオフ</text>
+	</string>
+	<string id="pda_btn_logs">
+		<text>メッセージ・ログ</text>
+	</string>
+	<string id="pda_btn_logs_hint">
+		<text>メッセージ履歴を表示</text>
+	</string>
+	<string id="pda_btn_quests">
+		<text>エリア・マップ</text>
+	</string>
+	<string id="pda_btn_quests_hint">
+		<text>ゾーンのマップを表示</text>
+	</string>
+	<string id="pda_btn_ranking">
+		<text>統計</text>
+	</string>
+	<string id="pda_btn_ranking_hint">
+		<text>個人の情報を表示：</text>
+	</string>
+	<string id="pda_cur_time">
+		<text>現在時刻：</text>
+	</string>
+	<string id="pda_date_filter">
+		<text>データフィルタ</text>
+	</string>
+	<string id="pda_filter_news">
+		<text>ニュースを表示</text>
+	</string>
+	<string id="pda_filter_talk">
+		<text>会話を表示</text>
+	</string>
+	<string id="pda_legend_caption">
+		<text>記号の説明</text>
+	</string>
+	<string id="pda_stat_1">
+		<text>ゾーン時間：</text>
+	</string>
+	<string id="pda_stat_2">
+		<text>光熱放射の生き残り：</text>
+	</string>
+	<string id="pda_stat_3">
+		<text>完遂ミッション：</text>
+	</string>
+	<string id="pda_stat_4">
+		<text>殺したミュータント：</text>
+	</string>
+	<string id="pda_stat_5">
+		<text>殺したストーカー：</text>
+	</string>
+	<string id="pda_stat_6">
+		<text>発見したアーティファクト：</text>
+	</string>
+	<string id="pda_stat_7">
+		<text>発見した隠し場所：</text>
+	</string>
+	<string id="pda_stat_favorite_weapon">
+		<text>好みの武器</text>
+	</string>
+	<string id="pda_stat_mutant_killed">
+		<text>殺した最強ミュータント</text>
+	</string>
+	<string id="st_location">
+		<text>位置：</text>
+	</string>
+	<string id="st_target">
+		<text>目標</text>
+	</string>
+	<string id="st_ui_pda_legend_additional_task">
+		<text>二次ミッション</text>
+	</string>
+	<string id="st_ui_pda_legend_enemies">
+		<text>敵</text>
+	</string>
+	<string id="st_ui_pda_legend_friends">
+		<text>味方</text>
+	</string>
+	<string id="st_ui_pda_legend_leader">
+		<text>派閥リーダー</text>
+	</string>
+	<string id="st_ui_pda_legend_main_task">
+		<text>主要ミッション</text>
+	</string>
+	<string id="st_ui_pda_legend_neutrals">
+		<text>中立</text>
+	</string>
+	<string id="st_ui_pda_legend_scout">
+		<text>ガイド</text>
+	</string>
+	<string id="st_ui_pda_legend_secrets">
+		<text>隠し場所</text>
+	</string>
+	<string id="st_ui_pda_legend_squad">
+		<text>部隊長</text>
+	</string>
+	<string id="st_ui_pda_legend_trader">
+		<text>トレーダー</text>
+	</string>
+	<string id="stalker">
+		<text>ストーカー</text>
+	</string>
+	<string id="ui_logs_center_caption">
+		<text>メッセージ・ログ</text>
+	</string>
+	<string id="ui_map_btn_center">
+		<text>プレイヤーを中心に</text>
+	</string>
+	<string id="ui_map_btn_down">
+		<text>下へ移動</text>
+	</string>
+	<string id="ui_map_btn_left">
+		<text>左へ移動</text>
+	</string>
+	<string id="ui_map_btn_legend">
+		<text>記号の説明を表示</text>
+	</string>
+	<string id="ui_map_btn_right">
+		<text>右へ移動</text>
+	</string>
+	<string id="ui_map_btn_up">
+		<text>上へ移動</text>
+	</string>
+	<string id="ui_map_btn_zmreset">
+		<text>最大ズームアウト</text>
+	</string>
+	<string id="ui_map_btn_zoom_in">
+		<text>ズームイン</text>
+	</string>
+	<string id="ui_map_btn_zoom_out">
+		<text>ズームアウト</text>
+	</string>
+	<string id="ui_ranking_center_caption">
+		<text>業績</text>
+	</string>
+	<string id="ui_task_btn_focus_center">
+		<text>ミッションをマップの中心に</text>
+	</string>
+	<string id="ui_task_btn_focus_center2">
+		<text>ミッションをマップの中心に</text>
+	</string>
+	<string id="zombied">
+		<text>ゾンビ</text>
+	</string>
+	<string id="zoom_in_btn_hint">
+		<text>縮尺＋</text>
+	</string>
+	<string id="zoom_out_btn_hint">
+		<text>縮尺-</text>
+	</string>
+	<string id="st_ui_pda_legend_mechanic">
+		<text>技術者</text>
+	</string>
+	<string id="st_ui_pda_legend_medic">
+		<text>医者</text>
+	</string>
+	<string id="ui_pda_secondary_task">
+		<text>現在のミッション</text>
+	</string>
+	<string id="ui_show_second_task_wnd">
+		<text>ミッションを表示／非表示</text>
+	</string>
+	<string id="st_ui_pda_actor_box">
+		<text>パーソナルボックス</text>
+	</string>
+	<string id="zaton">
+		<text>ザトン</text>
+	</string>
+	<string id="jupiter">
+		<text>ジュピター周囲エリア</text>
+	</string>
+	<string id="pripyat">
+		<text>プリピャチ</text>
+	</string>
+	<string id="jupiter_underground">
+		<text>プリピャチ第一地下道</text>
+	</string>
+	<string id="labx8">
+		<text>ラボX8</text>
+	</string>
+	<string id="filter_primary_objects_text">
+		<text>エリア</text>
+	</string>
+	<string id="filter_quest_npcs_text">
+		<text>重要オブジェクト</text>
+	</string>
+	<string id="st_ui_pda_legend_primary_objects">
+		<text>エリア</text>
+	</string>
+	<string id="st_jup_b32_has_af">
+		<text>スキャナがアーティファクトを検出した：</text>
+	</string>
+	<string id="st_jup_b32_no_af">
+		<text>スキャナは何もアーティファクトを検出しない：</text>
+	</string>
+	<string id="st_ui_pda_secret">
+		<text>隠し場所</text>
+	</string>
+	<string id="st_ui_pda_sleep_place">
+		<text>スリープ・エリア</text>
+	</string>
+</string_table>

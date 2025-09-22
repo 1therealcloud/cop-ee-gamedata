@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="legend_ui_pda_show_mission">
+		<text>$$ACTION_pda_tasks_toggle_list$$ Kьldetйsek mutatбsa</text>
+	</string>
+
+	<string id="legend_ui_pda_hide_mission">
+		<text>$$ACTION_pda_tasks_toggle_list$$ Kьldetйsek elrejtйse</text>
+	</string>
+
+	<string id="legend_ui_pda_toggle_legend">
+		<text>$$ACTION_pda_tasks_toggle_legend$$ Magyarбzat</text>
+	</string>
+
+	<string id="legend_ui_tasks_filter_next">
+		<text>$$ICON$controller$dpadh$$ Feladatszыrх</text>
+	</string>
+
+	<string id="legend_ui_tasks_filter_toggle">
+		<text>$$ACTION_pda_tasks_filter_toggle$$ Szыrхvбltбs</text>
+	</string>
+
+	<string id="legend_ui_info">
+		<text>$$ACTION_UI_HINT$$ Infу</text>
+	</string>
+
+	<string id="legend_ui_repair">
+		<text>$$ACTION_actormenu_action$$ Javнtбs</text>
+	</string>
+
+	<string id="ui_mm_controller_type">
+		<text>Vezйrlх tнpusa</text>
+	</string>
+
+	<string id="controller">
+		<text>Vezйrlх</text>
+	</string>
+
+	<string id="kbdmouse">
+		<text>Billentyыzet йs egйr</text>
+	</string>
+
+	<string id="ui_pad_layout_PDA">
+		<text>PDA megnyitбsa</text>
+	</string>
+
+	<string id="ui_pad_layout_wheel">
+		<text>Fegyverkerйk</text>
+	</string>
+
+	<string id="ui_pad_layout_aim">
+		<text>Kйrйs</text>
+	</string>
+
+	<string id="ui_pad_layout_strafe">
+		<text>Tбmadбs</text>
+	</string>
+
+	<string id="ui_pad_layout_move">
+		<text>Mozgбs</text>
+	</string>
+
+	<string id="ui_pad_layout_sprint">
+		<text>Sprint</text>
+	</string>
+
+	<string id="ui_pad_layout_menu">
+		<text>Menь</text>
+	</string>
+
+	<string id="ui_pad_layout_jump">
+		<text>Ugrбs</text>
+	</string>
+
+	<string id="ui_pad_layout_shoot">
+		<text>Lцvйs</text>
+	</string>
+
+	<string id="ui_pad_layout_inventory">
+		<text>Leltбr</text>
+	</string>
+
+	<string id="ui_pad_layout_crouch">
+		<text>Guggolбs</text>
+	</string>
+
+	<string id="ui_pad_layout_reload">
+		<text>Ъjratцltйs</text>
+	</string>
+
+	<string id="ui_pad_layout_action">
+		<text>Mыvelet</text>
+	</string>
+
+	<string id="ui_pad_layout_lookx">
+		<text>Nйzйs X</text>
+	</string>
+
+	<string id="ui_pad_layout_Looky">
+		<text>Nйzйs Y</text>
+	</string>
+
+	<string id="ui_pad_layout_torch">
+		<text>Villбm</text>
+	</string>
+
+	<string id="ui_pad_layout_quckslot0">
+		<text>Elsх tйtel a quickslotban</text>
+	</string>
+
+	<string id="ui_pad_layout_quckslot1">
+		<text>Mбsodik tйtel a quickslotban</text>
+	</string>
+
+	<string id="ui_pad_layout_quckslot2">
+		<text>Harmadik tйtel a quickslotban</text>
+	</string>
+
+	<string id="ui_pad_layout_quckslot3">
+		<text>Negyedik tйtel a quickslotban</text>
+	</string>
+
+	<string id="legend_ui_talk_reply_PC">
+		<text>Vбlassz ($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ Vбlassz </text_c>
+	</string>
+
+	<string id="legend_ui_talk_select">
+		<text>Navigбlбs ($$ACTION_FORWARD$$)/($$ACTION_BACK$$)</text>
+	</string>
+
+	<string id="ui_mm_controller_icon_type">
+		<text>Vezйrlх ikonok megjelenнtйsi tнpusa</text>
+	</string>
+
+	<string id="ui_slider_amount">
+		<text>Цsszeg: %d</text>
+	</string>
+
+	<string id="st_move_to_offer_amount">
+		<text>kнnбlt цsszeg</text>
+	</string>
+
+	<string id="st_remove_from_offer_amount">
+		<text>цsszeg eltбvolнtбsa</text>
+	</string>
+
+	<string id="st_move_to_cart_amount">
+		<text>цsszeg kivбlasztбsa</text>
+	</string>
+
+	<string id="st_remove_from_cart_amount">
+		<text>цsszeg eltбvolнtбsa</text>
+	</string>
+
+	<string id="st_move_to_dead_body">
+		<text>elrakбs</text>
+	</string>
+
+	<string id="st_remove_from_offer_all">
+		<text>цsszes eltбvolнtбsa</text>
+	</string>
+
+	<string id="st_move_to_cart">
+		<text>kivбlaszt</text>
+	</string>
+
+	<string id="legend_ui_area_selector">
+		<text>$$ICON$controller$rs$$ Terьlet vбltбsa</text>
+	</string>
+
+	<string id="st_repair">
+		<text>javнtбs</text>
+	</string>
+
+	<string id="legend_ui_talk_open_trade">
+		<text>kereskedйs</text>
+	</string>
+
+	<string id="legend_ui_use">
+		<text>$$ACTION_UI_ACCEPT$$ Hasznбlat</text>
+	</string>
+
+	<string id="legend_ui_actions">
+		<text>$$ACTION_UI_CONTEXT_MENU$$ Mыveletek</text>
+	</string>
+
+	<string id="st_remove_from_offer">
+		<text>eltбvolнtбs</text>
+	</string>
+
+	<string id="legend_ui_take_all">
+		<text>$$ACTION_actormenu_take_all$$ Kйrem az цsszeset</text>
+	</string>
+
+	<string id="legend_ui_ammo_next">
+		<text>$$ACTION_wpn_next$$ Munнciу tнpusa</text>
+	</string>
+
+	<string id="legend_ui_tasks_map_zoom">
+		<text>$$ACTION_pda_tasks_map_zoom_out$$/$$ACTION_pda_tasks_map_zoom_in$$ Zoomolбs szintje</text>
+	</string>
+
+	<string id="legend_ui_talk_log">
+		<text>$$ICON$controller$rsv$$ Naplу</text>
+	</string>
+
+	<string id="legend_ui_pda_scroll_info">
+		<text>$$ICON$controller$rsv$$ Gцrgetйs</text>
+	</string>
+
+	<string id="legend_ui_trade">
+		<text>$$ACTION_actormenu_trade$$ Kereskedйs</text>
+	</string>
+
+	<string id="ui_mmenu_new_savegame">
+		<text>Ъj jбtйkmentйs</text>
+	</string>
+
+	<string id="legend_ui_options_save">
+		<text>$$ACTION_UI_ACCEPT$$ Elfogad</text>
+	</string>
+
+	<string id="legend_ui_selector">
+		<text>$$ICON$controller$ls$$/$$ICON$controller$dpad$$ Vбlasztу</text>
+	</string>
+
+	<string id="legend_ui_fire_mode">
+		<text>$$ACTION_wpn_firemode_next$$ Tьzelйsi sebessйg</text>
+	</string>
+
+	<string id="legend_ui_tasks_show_on_map">
+		<text>$$ACTION_pda_tasks_show_on_map$$ Mutatбs tйrkйpen</text>
+	</string>
+
+	<string id="st_upgrade">
+		<text>frissнtйs</text>
+	</string>
+
+	<string id="legend_ui_wheelmenu_select">
+		<text>$$ACTION_WHEELMENU_SELECT$$ Szektor vбlasztбsa</text>
+	</string>
+
+	<string id="st_move_to_cart_all">
+		<text>цsszes kivбlasztбsa</text>
+	</string>
+
+	<string id="legend_ui_mmenu_select_difficulty">
+		<text>$$ACTION_UI_ACCEPT$$ Nehйzsйg kivбlasztбsa</text>
+	</string>
+
+	<string id="st_remove_from_cart">
+		<text>eltбvolнtбs</text>
+	</string>
+
+	<string id="st_move_to_offer_all">
+		<text>цsszes felajбnlбsa</text>
+	</string>
+
+	<string id="legend_ui_night_vision">
+		<text>$$ACTION_NIGHT_VISION$$ Йjellбtбs</text>
+	</string>
+
+	<string id="legend_ui_talk_replies">
+		<text>$$ICON$controller$lsv$$/$$ICON$controller$dpadv$$ Kivбlaszt</text>
+	</string>
+
+	<string id="legend_ui_drop_weapon">
+		<text>$$ACTION_DROP$$ Fegyver ejtйse</text>
+	</string>
+
+	<string id="st_move_to_bag_all">
+		<text>minden behelyezйse a hбtizsбkba</text>
+	</string>
+
+	<string id="legend_ui_navigation">
+		<text>$$ICON$controller$ls$$/$$ICON$controller$dpad$$ Navigбciу</text>
+	</string>
+
+	<string id="legend_ui_back">
+		<text>$$ACTION_UI_BACK$$ Vissza</text>
+	</string>
+
+	<string id="legend_ui_mmenu_select">
+		<text>$$ACTION_UI_ACCEPT$$ Menьelem kivбlasztбsa</text>
+	</string>
+
+	<string id="legend_ui_tasks_track_on_map">
+		<text>$$ACTION_pda_tasks_track_on_map$$ Ъtvonal</text>
+	</string>
+
+	<string id="st_remove_from_cart_all">
+		<text>цsszes eltбvolнtбsa</text>
+	</string>
+
+	<string id="legend_ui_propbox_select">
+		<text>$$ACTION_UI_ACCEPT$$ Kivбlaszt</text>
+	</string>
+
+	<string id="ui_mm_vertical_sense">
+		<text>Fьggхleges йrzйkenysйg</text>
+	</string>
+
+	<string id="legend_ui_sign_back_in">
+		<text>$$ACTION_UI_ACCEPT$$ Visszajelentkezйs ekkor:</text>
+	</string>
+
+	<string id="st_move_to_dead_body_all">
+		<text>elrakбs</text>
+	</string>
+
+	<string id="legend_ui_savegame_delete">
+		<text>$$ACTION_UI_ACTION_1$$ Tцrlйs</text>
+	</string>
+
+	<string id="st_move_to_offer">
+		<text>ajбnlat</text>
+	</string>
+
+	<string id="legend_ui_tabs">
+		<text>$$ACTION_UI_TAB_LEFT$$/$$ACTION_UI_TAB_RIGHT$$ Fьlek</text>
+	</string>
+
+	<string id="legend_ui_tasks_map_show_me">
+		<text>$$ACTION_pda_tasks_map_show_me$$ Jelenlegi hely</text>
+	</string>
+
+	<string id="legend_ui_savegame_load">
+		<text>$$ACTION_UI_ACCEPT$$ Betцltйs</text>
+	</string>
+
+	<string id="ui_mm_horizontal_sense">
+		<text>Vнzszintes йrzйkenysйg</text>
+	</string>
+
+	<string id="legend_ui_title_screen">
+		<text>$$ACTION_UI_BACK$$ Fхkйpernyх</text>
+	</string>
+
+	<string id="legend_ui_scroll_info">
+		<text>$$ICON$controller$lt$$/$$ICON$controller$rt$$ Gцrgetйsi infуk</text>
+	</string>
+
+	<string id="legend_ui_options_tune_item">
+		<text>$$ICON$controller$lsh$$/$$ICON$controller$dpadh$$ Hangolбs</text>
+	</string>
+
+	<string id="legend_ui_navigation_v">
+		<text>$$ICON$controller$lsv$$/$$ICON$controller$dpadv$$ Navigбciу</text>
+	</string>
+
+	<string id="legend_ui_talk_reply">
+		<text>$$ACTION_UI_ACCEPT$$ Beszйd</text>
+	</string>
+
+	<string id="ui_mmenu_no_savegames">
+		<text>Nincsenek jбtйkmentйsek</text>
+	</string>
+
+	<string id="legend_ui_savegame_save">
+		<text>$$ACTION_UI_ACCEPT$$ Mentйs</text>
+	</string>
+
+	<string id="legend_ui_wpn_func">
+		<text>$$ACTION_wpn_func$$ Tovбbbi fegyver</text>
+	</string>
+
+	<string id="legend_ui_numpad_press">
+		<text>$$ACTION_UI_ACCEPT$$ Nyomd meg a gombot</text>
+	</string>
+
+	<string id="legend_ui_pda_log_to_start">
+		<text>$$ACTION_pda_log_to_start$$ Elsх</text>
+	</string>
+
+	<string id="legend_ui_pda_log_to_end">
+		<text>$$ACTION_pda_log_to_end$$ Utolsу</text>
+	</string>
+
+	<string id="legend_ui_pda_log_date_prev">
+		<text>$$ACTION_pda_log_date_prev$$ Elхzх dбtum</text>
+	</string>
+
+	<string id="legend_ui_pda_log_date_next">
+		<text>$$ACTION_pda_log_date_next$$ Kцvetkezх dбtum</text>
+	</string>
+
+	<string id="legend_ui_pda_log_show_news">
+		<text>$$ACTION_pda_log_show_news$$ Hнrek kцzцtti vбltбs</text>
+	</string>
+
+	<string id="legend_ui_pda_log_show_dialogs">
+		<text>$$ACTION_pda_log_show_dialogs$$ Pбrbeszйdek kцzцtti vбltбs</text>
+	</string>
+
+	<string id="legend_ui_tasks_map_move">
+		<text>$$ICON$controller$rs$$ Kurzor mozgatбsa</text>
+	</string>
+
+	<string id="legend_ui_options_toggle">
+		<text>$$ACTION_UI_ACCEPT$$ Vбltбs</text>
+	</string>
+
+	<string id="legend_ui_advanced">
+		<text>$$ACTION_UI_HINT$$ Speciбlis videу opciуk</text>
+	</string>
+
+	<string id="legend_ui_basic">
+		<text>$$ACTION_UI_HINT$$ Alap videу opciуk</text>
+	</string>
+
+	<string id="legend_ui_upgrade">
+		<text>$$ACTION_UI_ACCEPT$$ Frissнtйs</text>
+	</string>
+
+</string_table>

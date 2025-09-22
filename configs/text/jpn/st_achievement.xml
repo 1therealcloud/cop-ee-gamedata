@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_achievement_10_descr">
+		<text>敵はお前に続けて10回殺され、その間一度もおまえを殺すことができなかったことに屈辱を感じているだろう。だがそれを残酷とは思わない。ただ奴に練習し続ける理由を与えているんだ。</text>
+	</string>
+	<string id="st_achievement_10_name">
+		<text>収穫の時</text>
+	</string>
+	<string id="st_achievement_11_descr">
+		<text>すごいな！まさに一石二鳥…。ガウス・ライフルで二人を串刺しにした。</text>
+	</string>
+	<string id="st_achievement_11_name">
+		<text>串刺し</text>
+	</string>
+	<string id="st_achievement_12_descr">
+		<text>数秒の間に二連式ショットガンの2射撃で2つの目標に命中させる。お前の冷静で計算されたアプローチは、速やかに敵に死をもたらす。</text>
+	</string>
+	<string id="st_achievement_12_name">
+		<text>2回の射撃で2つの死</text>
+	</string>
+	<string id="st_achievement_13_descr">
+		<text>ストーカーであることが何かを、お前はすべてはっきりと知っている。それが伝説のナンバーワン・ストーカーたる所以だ！</text>
+	</string>
+	<string id="st_achievement_13_name">
+		<text>野心家</text>
+	</string>
+	<string id="st_achievement_14_descr">
+		<text>ナイフでエクソスケルトンを切断するのか？お前は骨の髄まで切断するのが好きな人種のようだな。</text>
+	</string>
+	<string id="st_achievement_14_name">
+		<text>缶切り</text>
+	</string>
+	<string id="st_achievement_15_descr">
+		<text>奴らはお前をヤッたと思った。だが、お前は死への階段のドアをノックしたにもかかわらず、奴らの5人を殺し、誰がボスなのかを示した！</text>
+	</string>
+	<string id="st_achievement_15_name">
+		<text>しつこさ</text>
+	</string>
+	<string id="st_achievement_16_descr">
+		<text>アドレナリン・ラッシュだ！弾丸を撃ちまくる敵を全滅させた。5秒で5人を殺した！凄いぞ！</text>
+	</string>
+	<string id="st_achievement_16_name">
+		<text>放たれた激怒</text>
+	</string>
+	<string id="st_achievement_17_descr">
+		<text>おお、恐ろしい狙いだ！目にも止まらずに敵を撃ち、1発で2人をやった。</text>
+	</string>
+	<string id="st_achievement_17_name">
+		<text>眼科専門医</text>
+	</string>
+	<string id="st_achievement_18_descr">
+		<text>奴らをコーナーの後ろに隠れさせ、伏兵を置いたが、お前を止められないだろうな。さあ、狙わないでも目標を撃てる！</text>
+	</string>
+	<string id="st_achievement_18_name">
+		<text>稲妻のような反射神経</text>
+	</string>
+	<string id="st_achievement_19_descr">
+		<text>奴をできるだけ速く走らせるんだ。どっちみち、お前の弾丸は彼を捕らえるだろうがな。</text>
+	</string>
+	<string id="st_achievement_19_name">
+		<text>ランナーを止める</text>
+	</string>
+	<string id="st_achievement_1_descr">
+		<text>死なずに、連続20人の敵を虐殺した！おお、何という大量殺戮だ！</text>
+	</string>
+	<string id="st_achievement_1_name">
+		<text>大虐殺</text>
+	</string>
+	<string id="st_achievement_20_descr">
+		<text>奴らは3人いて、狙撃用ライフルを持っていたようだ。しかし、お前の技術が奴らに終止符を打った。</text>
+	</string>
+	<string id="st_achievement_20_name">
+		<text>最も正確な射撃手</text>
+	</string>
+	<string id="st_achievement_21_descr">
+		<text>野蛮人の裏をかくために、一発の弾丸も発射する必要はない。</text>
+	</string>
+	<string id="st_achievement_21_name">
+		<text>平和の伝令</text>
+	</string>
+	<string id="st_achievement_22_descr">
+		<text>本物の狙撃兵にとって距離は問題ではない！120メートル以上の距離から、雄牛の目を撃つことができる。</text>
+	</string>
+	<string id="st_achievement_22_name">
+		<text>致命的精度</text>
+	</string>
+	<string id="st_achievement_23_descr">
+		<text>敵はお前を慌てさせた。だが奴には、威力のあるグレネードで凄いサプライズを残してやった！</text>
+	</string>
+	<string id="st_achievement_23_name">
+		<text>傍にいる思い出すもの</text>
+	</string>
+	<string id="st_achievement_24_descr">
+		<text>奴らはお前の友人たちを殺した。奴らは復讐を受けるのに値する。3人の死んだ友人のための3体の敵の死体…、それが正義だ。</text>
+	</string>
+	<string id="st_achievement_24_name">
+		<text>復讐者</text>
+	</string>
+	<string id="st_achievement_25_descr">
+		<text>お前は友人の守護天使だ。彼がアーティファクトを持っていたので、攻撃から2度も救った。</text>
+	</string>
+	<string id="st_achievement_25_name">
+		<text>キューピット</text>
+	</string>
+	<string id="st_achievement_26_descr">
+		<text>ボードに数ポイントを追加し、名誉とチームを維持した。</text>
+	</string>
+	<string id="st_achievement_26_name">
+		<text>名誉の維持</text>
+	</string>
+	<string id="st_achievement_27_descr">
+		<text>次のアーティファクトがどこに現われるか、ちゃんと知っているんだろう？そう、それが現われた時、数秒でそれを拾い上げたよな！</text>
+	</string>
+	<string id="st_achievement_27_name">
+		<text>ストーカーの直観力</text>
+	</string>
+	<string id="st_achievement_28_descr">
+		<text>運を拾ったな。最後の弾丸で敵を殺したぞ！奴らの方が優れていたのは確かだったのに！</text>
+	</string>
+	<string id="st_achievement_28_name">
+		<text>幸運な偽物</text>
+	</string>
+	<string id="st_achievement_29_descr">
+		<text>お前は連続して8人の敵を殺した。連中とは一線を引いたが、奴らがそれを超えるか見てみよう。</text>
+	</string>
+	<string id="st_achievement_29_name">
+		<text>ブラックリスト</text>
+	</string>
+	<string id="st_achievement_2_descr">
+		<text>お前の注意深さのために、誰もお前を殺せなかった。ゲーム中に一度も死なず、15点以上を得た。</text>
+	</string>
+	<string id="st_achievement_2_name">
+		<text>偏執狂</text>
+	</string>
+	<string id="st_achievement_30_descr">
+		<text>お前は常にサイレンサーを使用して、注意を引きつけずに仕事をする。敵に死の方向を知らせる必要ないよな？</text>
+	</string>
+	<string id="st_achievement_30_name">
+		<text>静かな死</text>
+	</string>
+	<string id="st_achievement_3_descr">
+		<text>奴らの一番の得点者より2倍の点数を得て勝ち、敵を打破した。</text>
+	</string>
+	<string id="st_achievement_3_name">
+		<text>圧倒的な優位</text>
+	</string>
+	<string id="st_achievement_4_descr">
+		<text>即座にアーティファクトを奪取する大胆な計画が成功した。また、ゲームの最初の3分以内に、チームのために得点した。</text>
+	</string>
+	<string id="st_achievement_4_name">
+		<text>電撃戦</text>
+	</string>
+	<string id="st_achievement_5_descr">
+		<text>アーティファクトをひとつも手放さずに、敵を絶滅させた。奴らに本当のチームワークが何かを見せてやれる。</text>
+	</string>
+	<string id="st_achievement_5_name">
+		<text>完封！</text>
+	</string>
+	<string id="st_achievement_6_descr">
+		<text>最多の殺害、最多のアーティファクト、そして最も死なないことで、すべてのエリアの中で最高得点した！続けるんだ！</text>
+	</string>
+	<string id="st_achievement_6_name">
+		<text>オールラウンド</text>
+	</string>
+	<string id="st_achievement_7_descr">
+		<text>お前の剣の技は比類がない！20秒で3人の敵を倒した。</text>
+	</string>
+	<string id="st_achievement_7_name">
+		<text>猛威</text>
+	</string>
+	<string id="st_achievement_8_descr">
+		<text>すべての敵は弱点を持っている。携帯武器でよく狙って撃つんだ。</text>
+	</string>
+	<string id="st_achievement_8_name">
+		<text>アキレスの踵</text>
+	</string>
+	<string id="st_achievement_9_descr">
+		<text>敵の弾丸は、お前に対して無力だ。躊躇なく向かって行って、敵を倒せる！</text>
+	</string>
+	<string id="st_achievement_9_name">
+		<text>弾丸よりも速く</text>
+	</string>
+	<string id="st_sp_achievement_1_descr">
+		<text>お前はゾーンで一番新しい開発の研究をしている。以前に科学では知られてなかった新しいアノマリー形成物を見つけることにより、ゾーンについての我々の理解を進めてくれた。</text>
+	</string>
+	<string id="st_sp_achievement_1_name">
+		<text>パイオニア</text>
+	</string>
+	<string id="st_sp_achievement_2_hint">
+		<text>ストーカーたちは今、お前に感謝している。\nその努力に対し、ストーカーたちはヤニフ駅のお前のパーソナルボックスに弾薬を残した。</text>
+	</string>
+	<string id="st_sp_achievement_2_descr">
+		<text>危険なミュータントを避けようとはするな。奴らを追い詰めて、やっつけるんだ。良いハンターは、ストーカーの間で高い尊敬を受ける。</text>
+	</string>
+	<string id="st_sp_achievement_2_name">
+		<text>ミュータント・ハンター</text>
+	</string>
+	<string id="st_sp_achievement_3_hint">
+		<text>ストーカーたちは今、お前に感謝している。\n尊敬の表れとして、ストーカーたちはスカドフスクのお前のパーソナルボックスに医療用品を残した。</text>
+	</string>
+	<string id="st_sp_achievement_3_descr">
+		<text>お前は、スカドフスクでストーカー失踪の隠された秘密を解明した。結局、犯人はミュータントではなく、はるかに危険な敵対者・・・、人間だった。真実を追求した成功で、ストーカーたちの尊敬を得ている。</text>
+	</string>
+	<string id="st_sp_achievement_3_name">
+		<text>探偵</text>
+	</string>
+	<string id="st_sp_achievement_4_hint">
+		<text>ストーカーたちは今、お前に感謝している。\nストーカーたちはトレーダーのアウルにディスカウントを頼んだ。\nビアードは今、アーティファクトの彼のベスト・プライスを提示している。</text>
+	</string>
+	<string id="st_sp_achievement_4_descr">
+		<text>バンディットとそのリーダーであるボスのサルタンを明らかにし、ストーカーたちの人気者になった。スカドフスクでは常に歓迎される。</text>
+	</string>
+	<string id="st_sp_achievement_4_name">
+		<text>第一人者</text>
+	</string>
+	<string id="st_sp_achievement_5_hint">
+		<text>お前はバンディットたちの尊敬を得た。\nトレーダーのアウルは、彼があんたの次の犠牲かもしれないという恐れからディスカウントした。\nビアードは今、売り上げの分け前を払うことに合意した。</text>
+	</string>
+	<string id="st_sp_achievement_5_descr">
+		<text>お前はサルタンがストーカーをやっつけ、またビアードを管理下に置き、“ビジネス”をするのを支援した。今、ザトンで恐れられ、尊敬されている。</text>
+	</string>
+	<string id="st_sp_achievement_5_name">
+		<text>ボス</text>
+	</string>
+	<string id="st_sp_achievement_6_hint">
+		<text>ストーカーたちは、もっと価値のある誰かに、マグパイが嘘と策略によって得た埋蔵品を与えることを決めた。彼らは、ヤニフのあんたのパーシナルボックスに奴の品を入れた。</text>
+	</string>
+	<string id="st_sp_achievement_6_descr">
+		<text>汚い奴を裁判にかけた。マグパイは多くのストーカーを欺き偽った。そして今、彼の時間は終わった。</text>
+	</string>
+	<string id="st_sp_achievement_6_name">
+		<text>正義の使者</text>
+	</string>
+	<string id="st_sp_achievement_7_hint">
+		<text>ストーカーたちは今、お前のことをもっと考えている。\nバンディットは、ゾーンに入って冒険をしようとする場合は、常に捕らえようとするだろう。</text>
+	</string>
+	<string id="st_sp_achievement_7_descr">
+		<text>すべてのタイプのアーティファクトが、ゾーン研究者にわかった。これはあんたに、ストーカーの尊敬と、バンディットに細心の警戒をもたらした。</text>
+	</string>
+	<string id="st_sp_achievement_7_name">
+		<text>アーティファクト・ハンター</text>
+	</string>
+	<string id="st_sp_achievement_8_hint">
+		<text>カルダンは、水力サーボモーター・ブースターの取り付けにより、エクソスケルトンを着用している間は速く移動できる独自の改造を行なうことができる。</text>
+	</string>
+	<string id="st_sp_achievement_8_descr">
+		<text>今、カルダンは、必要とするツールすべてを常に持っている。これは、新しくより複雑な改造を行なうことを可能にする。</text>
+	</string>
+	<string id="st_sp_achievement_8_name">
+		<text>武器システムのエキスパート</text>
+	</string>
+	<string id="st_sp_achievement_9_hint">
+		<text>アゾトは、独特の戦術ヘルメットの改造を行なうことができる。近くの人間の検知ができる赤外線スキャナだ。</text>
+	</string>
+	<string id="st_sp_achievement_9_descr">
+		<text>アゾトは、ゾーンの技術者が夢見るツールをすべて持っている。彼は今、ハイテクの改造を行なうことができる。</text>
+	</string>
+	<string id="st_sp_achievement_9_name">
+		<text>ハイテクのエキスパート</text>
+	</string>
+	<string id="st_sp_achievement_10_hint">
+		<text>お前の経験は、稀少なアーティファクトをさらに頻繁に見つけることを可能にする。</text>
+	</string>
+	<string id="st_sp_achievement_10_descr">
+		<text>実質的に、まだお前が行ってないゾーンの中心のそばには、アクセス可能なエリアはない。お前はその地域のほとんどすべてのアノマリーの“お客”だ。</text>
+	</string>
+	<string id="st_sp_achievement_10_name">
+		<text>経験を積んだストーカー</text>
+	</string>
+	<string id="st_sp_achievement_11_hint">
+		<text>あんたの指導者的素質は、部隊の生き残るチャンスを改善する。</text>
+	</string>
+	<string id="st_sp_achievement_11_descr">
+		<text>あんたには、するべき部隊の仕事があった。偉大な部隊を作り、リーダーであることを証明した。</text>
+	</string>
+	<string id="st_sp_achievement_11_name">
+		<text>リーダー</text>
+	</string>
+	<string id="st_sp_achievement_12_hint">
+		<text>フリーダム、デューティー、単独ストーカーたち、そしてバンディットさえも、お前の交渉能力を認め、結果として高く評価した。</text>
+	</string>
+	<string id="st_sp_achievement_12_descr">
+		<text>お前は問題を平穏に解決する方法を知っている。単純な言葉でちゃんと論争を解決できる場合、誰が野蛮な力を必要とするのだ？とはいえ、先に撃ってから後で質問をする人間には注意するべきだ。</text>
+	</string>
+	<string id="st_sp_achievement_12_name">
+		<text>外交家</text>
+	</string>
+	<string id="st_sp_achievement_13_descr">
+		<text>正式に研究助手と呼んでもいいほど、あんたは科学者と長く仕事をした。科学者のトーチカの誰もが、あんたを仲間のひとりと考えている。</text>
+	</string>
+	<string id="st_sp_achievement_13_name">
+		<text>研究助手</text>
+	</string>
+	<string id="st_sp_achievement_14_hint">
+		<text>お前とデューティーの関係は改善した。困っていれば、デューティー戦士は助けようとするだろう。\nデューティーに好意的な技術者のアゾトは、ディスカウントを提供してくれる。\nフリーダムとの関係は悪化した。\nフリーダムに好意的なハワイアンは、彼のアイテムの代金を多く請求するだろう。</text>
+	</string>
+	<string id="st_sp_achievement_14_descr">
+		<text>お前はデューティーに多くの支援を提供した。そして、デューティー戦士の尊敬とその友人を得た。しかし、ゾーンの誰もが必ずしもデューティーの味方とは限らないと、心に留めておくんだ。</text>
+	</string>
+	<string id="st_sp_achievement_14_name">
+		<text>デューティーの友人</text>
+	</string>
+	<string id="st_sp_achievement_15_hint">
+		<text>お前とフリーダムの関係は改善した。困っていれば、フリーダム戦士は助けようとするだろう。\nフリーダムに好意的な技術者のハワイアンは、ディスカウントを提供してくれる。\nデューティーとの関係は悪化した。\nデューティーに好意的なアゾトは、彼のアイテムの代金を多く請求するだろう。</text>
+	</string>
+	<string id="st_sp_achievement_15_descr">
+		<text>お前はフリーダムに多くの支援を提供した。そして、フリーダム戦士の尊敬とその友人を得た。しかし、ゾーンの誰もが必ずしもフリーダムの味方とは限らないと、心に留めておくんだ。</text>
+	</string>
+	<string id="st_sp_achievement_15_name">
+		<text>フリーダムの友人</text>
+	</string>
+	<string id="st_sp_achievement_16_hint">
+		<text>ヤニフのストーカーたちは、デューティーとフリーダムの間の勢力バランスを評価している。それにより、技術者とトレーダーの両方が、今、お前にディスカウントをする。</text>
+	</string>
+	<string id="st_sp_achievement_16_descr">
+		<text>お前は一方の派閥の側につかず、単独ストーカーの役割を常に行った。敵を作っていないが、新しい友人もいない。</text>
+	</string>
+	<string id="st_sp_achievement_16_name">
+		<text>バランスのある男</text>
+	</string>
+	<string id="st_sp_achievement_17_hint">
+		<text>トレーダーは、より珍しく、より高価なアイテムをあんたに提供する。</text>
+	</string>
+	<string id="st_sp_achievement_17_descr">
+		<text>現金が少ないのがどんなかを知っているだろうが、今はあんたは悪い状態ではない。その富が多くなり、そして、トレーダーはその水準のクライアントを大事にする。</text>
+	</string>
+	<string id="st_sp_achievement_17_name">
+		<text>富んだクライアント</text>
+	</string>
+	<string id="st_sp_achievement_18_hint">
+		<text>ストレロクはノートを得た後に、なんとしても生き続けて彼の目的にたどり着く新しい理由を見つけた。</text>
+	</string>
+	<string id="st_sp_achievement_18_descr">
+		<text>あんたの洞察力は自分自身のためによく役立った。ストレロクのグループの隠し場所でノートを見つけ、その正当な所有者を見つけるまで保持した。</text>
+	</string>
+	<string id="st_sp_achievement_18_name">
+		<text>秘密の番人</text>
+	</string>
+	<string id="st_sp_achievement_19_descr">
+		<text>蘇生薬のおかげで防護なしで、どうにか3度の光熱放射から生き延びた。心の内部の奇妙な静寂が気になるような、心理に対するこの影響は不明だ。あんたはもう、一定の流れの思考をしていないように見える。</text>
+	</string>
+	<string id="st_sp_achievement_19_name">
+		<text>ゾーンによるマーク</text>
+	</string>
+	<string id="st_sp_achievement_20_hint">
+		<text>トレーダーのアウルは、彼の最良の通告者でパートナーのお前にディスカウントを提供した。</text>
+	</string>
+	<string id="st_sp_achievement_20_descr">
+		<text>お前は情報を手に入れると、いつも正しい買い手を見つける。それを必要とする人々に情報を売る場合、明らかに自分の利益のことを常に考えている。</text>
+	</string>
+	<string id="st_sp_achievement_20_name">
+		<text>情報の商人</text>
+	</string>
+	<string id="st_sp_achievement_21_hint">
+		<text>お前とストーカーとの関係は改善した。困っていれば、ストーカーたちが助けてくれるだろう。\nストーカーの医者は、仕入値段で医療用品を売ることに合意した。</text>
+	</string>
+	<string id="st_sp_achievement_21_descr">
+		<text>お前はトラブルがあれば、いつもストーカーを援助した。その派閥はあまり堅固ではないが、戦闘時とその後も手伝ってくれる非公式のストーカーの集まりとの同盟を持っている。</text>
+	</string>
+	<string id="st_sp_achievement_21_name">
+		<text>ストーカーの友人</text>
+	</string>
+	<string id="st_sp_achievement_1_hint">
+		<text>様々な新しい情報は、ハーマン教授とオゼルスキーが新しい実験薬剤の作成を可能にした。ゾーンでの蘇生薬だ。</text>
+	</string>
+	<string id="st_sp_achievement_19_hint">
+		<text>ヘルスが正常ならば、薬の助けがなくても光熱放射から生き残るチャンスがある。</text>
+	</string>
+	<string id="st_sp_achievement_13_hint">
+		<text>あんたは非常に有能なので、ハーマン教授は今、トーチカ要員用の医療用品と装備を仕入値段で提供してくれる。\nノビコフとも親しくなったので、改造を行なう場合は部品代金だけでやってくれる。</text>
+	</string>
+	<string id="st_sp_achievement_new_1_name">
+		<text>自然の恵み</text>
+	</string>
+
+	<string id="st_sp_achievement_new_1_desc">
+		<text>伝説の「オアシスの心臓」を見つける。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_2_name">
+		<text>アルファ・プレデター</text>
+	</string>
+
+	<string id="st_sp_achievement_new_2_desc">
+		<text>300体のミュータントを倒しました。このゾーンは少なくともしばらくの間、安全です。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_3_name">
+		<text>コーヒーリアクター</text>
+	</string>
+
+	<string id="st_sp_achievement_new_3_desc">
+		<text>エナジードリンクを100本飲みました。このゾーンは巨大すぎるため、素早い行動が求められます。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_4_name">
+		<text>ピノキオ</text>
+	</string>
+
+	<string id="st_sp_achievement_new_4_desc">
+		<text>フリントの話を全て聞く。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_5_name">
+		<text>探知機探偵</text>
+	</string>
+
+	<string id="st_sp_achievement_new_5_desc">
+		<text>各探知機を活用して、1つ以上のアーティファクトを見つける。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_6_name">
+		<text>タイミングの良い支援</text>
+	</string>
+
+	<string id="st_sp_achievement_new_6_desc">
+		<text>最終避難時にコバルスキーグループのストーカーを全員救出する。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_7_name">
+		<text>あらゆる岩の下に </text>
+	</string>
+
+	<string id="st_sp_achievement_new_7_desc">
+		<text>ザトンですべての隠し場所から、いずれかの武器を含むアイテムを見つけて入手する。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_8_name">
+		<text>ゴーストバスター</text>
+	</string>
+
+	<string id="st_sp_achievement_new_8_desc">
+		<text>ポルターガイストを3体倒す。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_9_name">
+		<text>不沈</text>
+	</string>
+
+	<string id="st_sp_achievement_new_9_desc">
+		<text>スカドフスクに初めて入る。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_10_name">
+		<text>方舟なき者</text>
+	</string>
+
+	<string id="st_sp_achievement_new_10_desc">
+		<text>ノアに会う。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_11_name">
+		<text>ヤニフ行きの列車</text>
+	</string>
+
+	<string id="st_sp_achievement_new_11_desc">
+		<text>ヤニフに初めて入る。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_12_name">
+		<text>不完全な計画</text>
+	</string>
+
+	<string id="st_sp_achievement_new_12_desc">
+		<text>スティングレーヘリコプターを全て調べる。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_13_name">
+		<text>忘れられた道</text>
+	</string>
+
+	<string id="st_sp_achievement_new_13_desc">
+		<text>部隊を集めて陸橋に向かう。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_14_name">
+		<text>煉獄</text>
+	</string>
+
+	<string id="st_sp_achievement_new_14_desc">
+		<text>ランドリーに初めて入る。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_15_name">
+		<text>アイテム 62</text>
+	</string>
+
+	<string id="st_sp_achievement_new_15_desc">
+		<text>未来の武器を見つける。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_16_name">
+		<text>図書館員</text>
+	</string>
+
+	<string id="st_sp_achievement_new_16_desc">
+		<text>X-8研究所で全ての資料を入手する。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_17_name">
+		<text>退避</text>
+	</string>
+
+	<string id="st_sp_achievement_new_17_desc">
+		<text>ヘリコプターで退避し、ゲームをクリアする。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_18_name">
+		<text>生まれながらのストーカー</text>
+	</string>
+
+	<string id="st_sp_achievement_new_18_desc">
+		<text>ゲームをクリアし、ゾーンに残る決定を下す。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_19_name">
+		<text>あんた、マイロンか？</text>
+	</string>
+
+	<string id="st_sp_achievement_new_19_desc">
+		<text>マイロンを見つける。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_20_name">
+		<text>旧知の仲</text>
+	</string>
+
+	<string id="st_sp_achievement_new_20_desc">
+		<text>ペトルハに会って、彼が怪奇現象から抜け出すのを手伝う。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_22_name">
+		<text>自然災害</text>
+	</string>
+
+	<string id="st_sp_achievement_new_22_desc">
+		<text>スノーフレーク、フレイム、ストーン・フラワー、ムーンライトを同時に装備する。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_23_name">
+		<text>すべて虚構</text>
+	</string>
+
+	<string id="st_sp_achievement_new_23_desc">
+		<text>初級者の難易度でゲームをクリア。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_24_name">
+		<text>知的なエージェント</text>
+	</string>
+
+	<string id="st_sp_achievement_new_24_desc">
+		<text>ストーカーの難易度でゲームをクリア。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_25_name">
+		<text>ゾーンは我々を忘れない</text>
+	</string>
+
+	<string id="st_sp_achievement_new_25_desc">
+		<text>ベテランまたはマスターの難易度でゲームをクリア。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_26_name">
+		<text>抗えない命令</text>
+	</string>
+
+	<string id="st_sp_achievement_new_26_desc">
+		<text>『S.T.A.L.K.E.R.: Call of Prypiat』をクリアする。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_27_hint">
+		<text>prypiat_expert ヒント</text>
+	</string>
+
+	<string id="st_sp_achievement_new_27_name">
+		<text>プリピャチ・エキスパート</text>
+	</string>
+
+	<string id="st_sp_achievement_new_27_desc">
+		<text_ps4>獲得可能なトロフィーを全て獲得する。</text_ps4>
+		<text>獲得可能な実績を全て獲得する。</text>
+	</string>
+
+	<string id="st_sp_achievement_popup">
+		<text>解除したチャレンジ： </text>
+	</string>
+	<string id="st_sp_achievement_state">
+		<text>状態：</text>
+	</string>
+
+	<string id="st_sp_achievement_unlocked">
+		<text>アンロック済み</text>
+	</string>
+
+	<string id="st_sp_achievement_locked">
+		<text>ロック中</text>
+	</string>
+
+	<string id="st_sp_achievement_hidden">
+		<text>隠し状態</text>
+	</string>
+
+	<string id="st_sp_achievement_new_21_name">
+		<text>エージェント F-1</text>
+	</string>
+
+	<string id="st_sp_achievement_new_21_desc">
+		<text>ハンドグレネードで100体の敵を倒す。</text>
+	</string>
+
+</string_table>

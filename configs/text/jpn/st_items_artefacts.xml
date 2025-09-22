@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_af_baloon_descr">
+		<text>いくつかの中空の有機的形成物の合成物。このアーティファクトは、身体の内部を傷つけずに放射性粒子を中和できるガス状物質を放射する。その有効性のために、このアーティファクトは非常に需要がある。</text>
+	</string>
+	<string id="st_af_baloon_name">
+		<text>バブル</text>
+	</string>
+	<string id="st_af_blood_descr">
+		<text>植物と土や骨の破片を圧縮混合して生成された。赤みがかった形をしている。部分的に化学的な毒を中和できる。放射線を出す。</text>
+	</string>
+	<string id="st_af_blood_name">
+		<text>ストーン・ブラッド</text>
+	</string>
+	<string id="st_af_cristall_descr">
+		<text>このアーティファクトは極度の熱のアノマリーエリアで形成される。それ自身の温度を上げずに過度の熱を消費する。放射線を出す。</text>
+	</string>
+	<string id="st_af_cristall_flower_descr">
+		<text>このアーティファクトは、極端な重力の力によって歪んだ花崗岩状の石から構成される。その結晶化した構成は現在まで科学では説明されていない。プサイ放射からの適度な防護を提供できる。放射性を持つ。</text>
+	</string>
+	<string id="st_af_cristall_flower_name">
+		<text>ストーン・フラワー</text>
+	</string>
+	<string id="st_af_cristall_name">
+		<text>クリスタル</text>
+	</string>
+	<string id="st_af_dummy_battery_descr">
+		<text>このアーティファクトの構成は静電気要素を含むが、科学者はその構成に必要な正確な物質的状態をまだ識別できていない。ゾーンではポピュラーで、長く使用すると身体を疲れさせるが、そのエネルギー特性のために居住者や来訪者に価値を認められている。放射線を出す。</text>
+	</string>
+	<string id="st_af_dummy_battery_name">
+		<text>バッテリー</text>
+	</string>
+	<string id="st_af_dummy_dummy_descr">
+		<text>このアーティファクトは、かつては役に立つ特性はないゴミと考えられていた。しかし最近になって科学者は、身体に常に保持すれば、神経系に優れた刺激的効果があることを発見した。放射線を出す。</text>
+	</string>
+	<string id="st_af_dummy_dummy_name">
+		<text>シェル</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_descr">
+		<text>このアーティファクトについての多くが、科学者にも完全に神秘のままである。また、その厚い部分の中のパルスによって作られる放射が、開いた傷口の血液をより迅速に凝結させて保護かさぶたを形成することが知られている。このアーティファクトの最も顕著な効果のひとつは傷治療の速度が増加することである。放射線を出す。</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_name">
+		<text>ママズ・ビーズ</text>
+	</string>
+	<string id="st_af_electra_flash_descr">
+		<text>この静電気アーティファクトは強力な電気吸収性物質で、放電は遅い。フラッシュは、5,000ボルト以内の感電からその持ち手を保護する。放射線を出す。</text>
+	</string>
+	<string id="st_af_electra_flash_name">
+		<text>フラッシュ</text>
+	</string>
+	<string id="st_af_electra_moonlight_descr">
+		<text>このユニークな静電気アーティファクトは、プサイ波の影響下で共鳴できる。ストーカーは、それを光熱放射の主な源へ向けて反対のフェーズで共鳴させ、光熱放射を吸収するように微調整することを学んでいる。放射線を出す。</text>
+	</string>
+	<string id="st_af_electra_moonlight_name">
+		<text>ムーンライト</text>
+	</string>
+	<string id="st_af_electra_sparkler_descr">
+		<text>静電気アーティファクト・ファミリーの代表格。電場密度の変動を滑らかにできる。放射線を出す。</text>
+	</string>
+	<string id="st_af_electra_sparkler_name">
+		<text>スパークラー</text>
+	</string>
+	<string id="st_af_eye_descr">
+		<text>この人間の目に似ているアーティファクトは、傷がより早く治るのを促し、身体の新陳代謝をかなり増加させる。経験を積んだストーカーには、アイはさらに運をもたらすと言う。放射線を出す。</text>
+	</string>
+	<string id="st_af_eye_name">
+		<text>アイ</text>
+	</string>
+	<string id="st_af_fire_descr">
+		<text>このアーティファクトは高熱の活動エリアで生じる。強力な赤外線放射を放射して代謝過程を強め、持ち手の目の前で傷を治す。非常に稀少なもので価値がある。放射線を出す。</text>
+	</string>
+	<string id="st_af_fire_name">
+		<text>フレーム</text>
+	</string>
+	<string id="st_af_fireball_descr">
+		<text>ファイアボールは熱のアーティファクトだが、燃やされる心配をしないで扱える。このアーティファクトは、その環境にかかわらず、小半径内に華氏75度の温度を維持できる能力のために価値がある。放射線を出す。</text>
+	</string>
+	<string id="st_af_fireball_name">
+		<text>ファイアボール</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_descr">
+		<text>比較的稀なアーティファクトで、化学薬品の汚染エリアで生ずる。コロボークはどんな種類の傷も数分で治す能力があり、高く評価されている。理由は不明だが、科学者はストーカーの間に、アーティファクトが持ち手の遺伝コードと対話するという噂を広げている。放射線を出す。</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_name">
+		<text>コロボーク</text>
+	</string>
+	<string id="st_af_glass_name">
+		<text>ファイアフライ</text>
+	</string>
+	<string id="st_af_gold_fish_descr">
+		<text>多くの重力場の相互作用の結果、ゴールドフィッシュは独自の内部に強い重力場を作る。それはその範囲内のアイテムをほとんど無重力にする。運搬する重量を減らすのに大きな効果があり、非常に需要がある。放射線を出す。</text>
+	</string>
+	<string id="st_af_gold_fish_name">
+		<text>ゴールドフィッシュ</text>
+	</string>
+	<string id="st_af_gravi_descr">
+		<text>グラビは重力を放つ金属物質から形成される。反重力フィールドを保持し、多くのストーカーが、バックパックの重量を減らすためにそれを使用する。放射線を出す。</text>
+	</string>
+	<string id="st_af_gravi_name">
+		<text>グラビ</text>
+	</string>
+	<string id="st_af_ice_descr">
+		<text>一見すると、このアーティファクトはコロボークに似ている。ある者は、その特性は強力な電場への接触によって強化されたコロボークと同じであると主張している。ユニークな特性により、著しく持ち手の筋肉の緊張状態を増加させる。放射線を出す。</text>
+	</string>
+	<string id="st_af_ice_name">
+		<text>スノーフレーク</text>
+	</string>
+	<string id="st_af_medusa_descr">
+		<text>この重力のアーティファクトは身体に対する放射線の影響を弱めて、放射性粒子を吸収する。ゾーンでは一般的にある。また特別な状況での急性放射線症のためにゾーンの外で非公式に使用される。</text>
+	</string>
+	<string id="st_af_medusa_name">
+		<text>ジェリーフィッシュ</text>
+	</string>
+	<string id="st_af_mincer_meat_descr">
+		<text>この有機的なアーティファクトは化石化した動物の組織から成る。化学薬品で汚染されたエリアで、ミート・チャンクは中和する粘液を出す。放射線を出す。</text>
+	</string>
+	<string id="st_af_mincer_meat_name">
+		<text>ミート・チャンク</text>
+	</string>
+	<string id="st_af_night_star_descr">
+		<text>この強烈なアーティファクトは指示した場所に無重力フィールドを生成できる。最大積載量を増やすため、それに似たグラビと同様に、ストーカーに広く使用される。放射線を出す。</text>
+	</string>
+	<string id="st_af_night_star_name">
+		<text>ナイト・スター</text>
+	</string>
+	<string id="st_af_soul_descr">
+		<text>ユニークな特性を備えた有機的アーティファクト。毒素の蓄積を加速せずに、どんな種類のダメージからも、身体の全体的な回復レートを増加させる。その効果と魅力的な外観のため、このアーティファクトはコレクターズ・アイテムとしての価値もある。放射線を出す。</text>
+	</string>
+	<string id="st_af_soul_name">
+		<text>ソウル</text>
+	</string>
+	<string id="st_af_vyvert_descr">
+		<text>この変わった形のアーティファクトは、重力活動の増加した場所に現われる。放射性元素を吸収する一種のスポンジの役割をする。すでに身体に入った放射性粒子や外からの放射線から防護する。</text>
+	</string>
+	<string id="st_af_vyvert_name">
+		<text>レンチ</text>
+	</string>
+	<string id="st_compass">
+		<text>コンパス</text>
+	</string>
+	<string id="st_compass_descr">
+		<text>レアなアーティファクトで、ひとつが見つかってから数年が経つ。このアーティファクトは、アノマリーフィールドに割れ目を作ることができる。複雑なアノマリーフィールドを無事に横断するのに役立つと信じられている。しかし、どのように扱うかはほとんど知られていない。</text>
+	</string>
+	<string id="st_oasis_heart">
+		<text>オアシスのハート</text>
+	</string>
+	<string id="st_oasis_heart_descr">
+		<text>このアーティファクトは伝説のオアシスの中心で見つかった。ハートは、オアシスの治癒力を得た結晶化した植物である。オアシス自体とは異なり、このアーティファクトには非常に放射性がある。</text>
+	</string>
+	<string id="st_af_glass_descr">
+		<text>ファイアフライは科学に知られていないフィールドと相互作用し、代謝を正常にするとと共に、生物の組織および器官の再生をかなり促進する。このアーティファクトは、重傷だったストーカーを数秒で歩くようにできる。残念ながら、ファイアフライは非常に稀なもの。放射線を出す。</text>
+	</string>
+</string_table>

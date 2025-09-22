@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="legend_ui_pda_show_mission">
+		<text>$$ACTION_pda_tasks_toggle_list$$显示任务</text>
+	</string>
+
+	<string id="legend_ui_pda_hide_mission">
+		<text>$$ACTION_pda_tasks_toggle_list$$隐藏任务</text>
+	</string>
+
+	<string id="legend_ui_pda_toggle_legend">
+		<text>$$ACTION_pda_tasks_toggle_legend$$图例</text>
+	</string>
+
+	<string id="legend_ui_tasks_filter_next">
+		<text>$$ICON$controller$dpadh$$任务筛选</text>
+	</string>
+
+	<string id="legend_ui_tasks_filter_toggle">
+		<text>$$ACTION_pda_tasks_filter_toggle$$切换筛选条件</text>
+	</string>
+
+	<string id="legend_ui_info">
+		<text>$$ACTION_UI_HINT$$信息</text>
+	</string>
+
+	<string id="legend_ui_repair">
+		<text>$$ACTION_actormenu_action$$修理</text>
+	</string>
+
+	<string id="ui_mm_controller_type">
+		<text>控制器类型</text>
+	</string>
+
+	<string id="controller">
+		<text>控制器</text>
+	</string>
+
+	<string id="kbdmouse">
+		<text>键盘和鼠标</text>
+	</string>
+
+	<string id="ui_pad_layout_PDA">
+		<text>打开PDA</text>
+	</string>
+
+	<string id="ui_pad_layout_wheel">
+		<text>武器轮盘</text>
+	</string>
+
+	<string id="ui_pad_layout_aim">
+		<text>瞄准</text>
+	</string>
+
+	<string id="ui_pad_layout_strafe">
+		<text>扫射</text>
+	</string>
+
+	<string id="ui_pad_layout_move">
+		<text>移动</text>
+	</string>
+
+	<string id="ui_pad_layout_sprint">
+		<text>冲刺</text>
+	</string>
+
+	<string id="ui_pad_layout_menu">
+		<text>菜单</text>
+	</string>
+
+	<string id="ui_pad_layout_jump">
+		<text>跳跃</text>
+	</string>
+
+	<string id="ui_pad_layout_shoot">
+		<text>射击</text>
+	</string>
+
+	<string id="ui_pad_layout_inventory">
+		<text>库存</text>
+	</string>
+
+	<string id="ui_pad_layout_crouch">
+		<text>蹲下</text>
+	</string>
+
+	<string id="ui_pad_layout_reload">
+		<text>重新装填</text>
+	</string>
+
+	<string id="ui_pad_layout_action">
+		<text>行动</text>
+	</string>
+
+	<string id="ui_pad_layout_lookx">
+		<text>视角X轴</text>
+	</string>
+
+	<string id="ui_pad_layout_Looky">
+		<text>视角Y轴</text>
+	</string>
+
+	<string id="ui_pad_layout_torch">
+		<text>手电筒</text>
+	</string>
+
+	<string id="ui_pad_layout_quckslot0">
+		<text>快捷栏的第一个物品</text>
+	</string>
+
+	<string id="ui_pad_layout_quckslot1">
+		<text>快捷栏的第二个物品</text>
+	</string>
+
+	<string id="ui_pad_layout_quckslot2">
+		<text>快捷栏的第三个物品</text>
+	</string>
+
+	<string id="ui_pad_layout_quckslot3">
+		<text>快捷栏的第四个物品</text>
+	</string>
+
+	<string id="legend_ui_talk_reply_PC">
+		<text>选择（$$ACTION_USE$$）</text>
+	</string>
+
+	<string id="legend_ui_talk_select">
+		<text>移动（$$ACTION_FORWARD$$）/（$$ACTION_BACK$$）</text>
+	</string>
+
+	<string id="ui_mm_controller_icon_type">
+		<text>控制器图标显示类型</text>
+	</string>
+
+	<string id="ui_slider_amount">
+		<text>数量：%d</text>
+	</string>
+
+	<string id="st_move_to_offer_amount">
+		<text>提供数量</text>
+	</string>
+
+	<string id="st_remove_from_offer_amount">
+		<text>移除数量</text>
+	</string>
+
+	<string id="st_move_to_cart_amount">
+		<text>选择数量</text>
+	</string>
+
+	<string id="st_remove_from_cart_amount">
+		<text>移除数量</text>
+	</string>
+
+	<string id="st_move_to_dead_body">
+		<text>揭露</text>
+	</string>
+
+	<string id="st_remove_from_offer_all">
+		<text>移除全部</text>
+	</string>
+
+	<string id="st_move_to_cart">
+		<text>选择</text>
+	</string>
+
+	<string id="legend_ui_area_selector">
+		<text>$$ICON$controller$rs$$切换区域</text>
+	</string>
+
+	<string id="st_repair">
+		<text>修理</text>
+	</string>
+
+	<string id="legend_ui_talk_open_trade">
+		<text>$$ACTION_talk_trade_upgrade$$交易</text>
+	</string>
+
+	<string id="legend_ui_use">
+		<text>$$ACTION_UI_ACCEPT$$使用</text>
+	</string>
+
+	<string id="legend_ui_actions">
+		<text>$$ACTION_UI_CONTEXT_MENU$$行动</text>
+	</string>
+
+	<string id="st_remove_from_offer">
+		<text>移除</text>
+	</string>
+
+	<string id="legend_ui_take_all">
+		<text>$$ACTION_actormenu_take_all$$拿走全部</text>
+	</string>
+
+	<string id="legend_ui_ammo_next">
+		<text>$$ACTION_wpn_next$$弹药类型</text>
+	</string>
+
+	<string id="legend_ui_tasks_map_zoom">
+		<text>$$ACTION_pda_tasks_map_zoom_out$$/$$ACTION_pda_tasks_map_zoom_in$$缩放比例</text>
+	</string>
+
+	<string id="legend_ui_talk_log">
+		<text>$$ICON$controller$rsv$$日志</text>
+	</string>
+
+	<string id="legend_ui_pda_scroll_info">
+		<text>$$ICON$controller$rsv$$滚动</text>
+	</string>
+
+	<string id="legend_ui_trade">
+		<text>$$ACTION_actormenu_trade$$交易</text>
+	</string>
+
+	<string id="ui_mmenu_new_savegame">
+		<text>新存档</text>
+	</string>
+
+	<string id="legend_ui_options_save">
+		<text>$$ACTION_UI_ACCEPT$$接受</text>
+	</string>
+
+	<string id="legend_ui_selector">
+		<text>$$ICON$controller$ls$$/$$ICON$controller$dpad$$选择器</text>
+	</string>
+
+	<string id="legend_ui_fire_mode">
+		<text>$$ACTION_wpn_firemode_next$$射速</text>
+	</string>
+
+	<string id="legend_ui_tasks_show_on_map">
+		<text>$$ACTION_pda_tasks_show_on_map$$在地图显示</text>
+	</string>
+
+	<string id="st_upgrade">
+		<text>升级</text>
+	</string>
+
+	<string id="legend_ui_wheelmenu_select">
+		<text>$$ACTION_WHEELMENU_SELECT$$选择区域</text>
+	</string>
+
+	<string id="st_move_to_cart_all">
+		<text>选择全部</text>
+	</string>
+
+	<string id="legend_ui_mmenu_select_difficulty">
+		<text>$$ACTION_UI_ACCEPT$$选择难度</text>
+	</string>
+
+	<string id="st_remove_from_cart">
+		<text>移除</text>
+	</string>
+
+	<string id="st_move_to_offer_all">
+		<text>提供全部</text>
+	</string>
+
+	<string id="legend_ui_night_vision">
+		<text>$$ACTION_NIGHT_VISION$$夜视</text>
+	</string>
+
+	<string id="legend_ui_talk_replies">
+		<text>$$ICON$controller$lsv$$/$$ICON$controller$dpadv$$选择</text>
+	</string>
+
+	<string id="legend_ui_drop_weapon">
+		<text>$$ACTION_DROP$$丢下武器</text>
+	</string>
+
+	<string id="st_move_to_bag_all">
+		<text>全部移至背包</text>
+	</string>
+
+	<string id="legend_ui_navigation">
+		<text>$$ICON$controller$ls$$/$$ICON$controller$dpad$$导航</text>
+	</string>
+
+	<string id="legend_ui_back">
+		<text>$$ACTION_UI_BACK$$返回</text>
+	</string>
+
+	<string id="legend_ui_mmenu_select">
+		<text>$$ACTION_UI_ACCEPT$$选择菜单项</text>
+	</string>
+
+	<string id="legend_ui_tasks_track_on_map">
+		<text>$$ACTION_pda_tasks_track_on_map$$追踪</text>
+	</string>
+
+	<string id="st_remove_from_cart_all">
+		<text>移除全部</text>
+	</string>
+
+	<string id="legend_ui_propbox_select">
+		<text>$$ACTION_UI_ACCEPT$$选择</text>
+	</string>
+
+	<string id="ui_mm_vertical_sense">
+		<text>垂直灵敏度</text>
+	</string>
+
+	<string id="legend_ui_sign_back_in">
+		<text>$$ACTION_UI_ACCEPT$$重新登录</text>
+	</string>
+
+	<string id="st_move_to_dead_body_all">
+		<text>揭露全部</text>
+	</string>
+
+	<string id="legend_ui_savegame_delete">
+		<text>$$ACTION_UI_ACTION_1$$删除</text>
+	</string>
+
+	<string id="st_move_to_offer">
+		<text>提供</text>
+	</string>
+
+	<string id="legend_ui_tabs">
+		<text>$$ACTION_UI_TAB_LEFT$$/$$ACTION_UI_TAB_RIGHT$$选项卡</text>
+	</string>
+
+	<string id="legend_ui_tasks_map_show_me">
+		<text>$$ACTION_pda_tasks_map_show_me$$当前位置</text>
+	</string>
+
+	<string id="legend_ui_savegame_load">
+		<text>$$ACTION_UI_ACCEPT$$加载</text>
+	</string>
+
+	<string id="ui_mm_horizontal_sense">
+		<text>水平灵敏度</text>
+	</string>
+
+	<string id="legend_ui_title_screen">
+		<text>$$ACTION_UI_BACK$$标题画面</text>
+	</string>
+
+	<string id="legend_ui_scroll_info">
+		<text>$$ICON$controller$lt$$/$$ICON$controller$rt$$滚动信息</text>
+	</string>
+
+	<string id="legend_ui_options_tune_item">
+		<text>$$ICON$controller$lsh$$/$$ICON$controller$dpadh$$调整</text>
+	</string>
+
+	<string id="legend_ui_navigation_v">
+		<text>$$ICON$controller$lsv$$/$$ICON$controller$dpadv$$导航</text>
+	</string>
+
+	<string id="legend_ui_talk_reply">
+		<text>$$ACTION_UI_ACCEPT$$谈话</text>
+	</string>
+
+	<string id="ui_mmenu_no_savegames">
+		<text>没有存档</text>
+	</string>
+
+	<string id="legend_ui_savegame_save">
+		<text>$$ACTION_UI_ACCEPT$$保存</text>
+	</string>
+
+	<string id="legend_ui_wpn_func">
+		<text>$$ACTION_wpn_func$$额外武器</text>
+	</string>
+
+	<string id="legend_ui_numpad_press">
+		<text>$$ACTION_UI_ACCEPT$$按下按钮</text>
+	</string>
+
+	<string id="legend_ui_pda_log_to_start">
+		<text>$$ACTION_pda_log_to_start$$开头</text>
+	</string>
+
+	<string id="legend_ui_pda_log_to_end">
+		<text>$$ACTION_pda_log_to_end$$末尾</text>
+	</string>
+
+	<string id="legend_ui_pda_log_date_prev">
+		<text>$$ACTION_pda_log_date_prev$$上一日期</text>
+	</string>
+
+	<string id="legend_ui_pda_log_date_next">
+		<text>$$ACTION_pda_log_date_next$$下一日期</text>
+	</string>
+
+	<string id="legend_ui_pda_log_show_news">
+		<text>$$ACTION_pda_log_show_news$$切换消息</text>
+	</string>
+
+	<string id="legend_ui_pda_log_show_dialogs">
+		<text>$$ACTION_pda_log_show_dialogs$$切换对话</text>
+	</string>
+
+	<string id="legend_ui_tasks_map_move">
+		<text>$$ICON$controller$rs$$移动光标</text>
+	</string>
+
+	<string id="legend_ui_options_toggle">
+		<text>$$ACTION_UI_ACCEPT$$切换</text>
+	</string>
+
+	<string id="legend_ui_advanced">
+		<text>$$ACTION_UI_HINT$$高级视频选项</text>
+	</string>
+
+	<string id="legend_ui_basic">
+		<text>$$ACTION_UI_HINT$$基本视频选项</text>
+	</string>
+
+	<string id="legend_ui_upgrade">
+		<text>$$ACTION_UI_ACCEPT$$升级</text>
+	</string>
+
+	<string id="ui_mm_ads_sens">
+		<text>瞄准灵敏度</text>
+	</string>
+
+	<string id="ui_mm_ads_scope_sens">
+		<text>开镜瞄准灵敏度</text>
+	</string>
+
+	<string id="ui_mm_shoot_sens">
+		<text>后坐力控制</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,3885 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="jup_a10_guard_dialog_11">
+		<text>何がほしいんだ？</text>
+	</string>
+	<string id="jup_a10_guard_dialog_111">
+		<text>俺はジャックと話をしなければならない。ヴァノの借金に関係したことだ。</text>
+	</string>
+	<string id="jup_a10_guard_dialog_1111">
+		<text>では、続けるんだ。</text>
+	</string>
+	<string id="jup_a10_guard_dialog_11111">
+		<text>よし。</text>
+	</string>
+	<string id="jup_a10_guard_dialog_112">
+		<text>俺はちょっと散歩してるんだ。</text>
+	</string>
+	<string id="jup_a10_guard_dialog_1121">
+		<text>ここは公園じゃない。あっちに行け。</text>
+	</string>
+	<string id="jup_a10_stalker_vano_about_stolen_items_0">
+		<text>誰がパーソナルボックスから物を盗むことができたか、知っているか？</text>
+	</string>
+	<string id="jup_a10_stalker_vano_about_stolen_items_1">
+		<text>いいや。だが、俺には自分の心配事がある…。あんたはいくらかの材料をなくしたが、俺は人生を失うかもしれない…。</text>
+	</string>
+	<string id="jup_a10_stalker_vano_about_stolen_items_2">
+		<text>窃盗、詐欺…、ああ、世界はどうなるんだ？俺は誰も見ていないが、きっとそれをやった奴は逃げたんだ。</text>
+	</string>
+	<string id="jup_a10_stalker_vano_goto_zulus_0">
+		<text>ズールーに会いに行こう。</text>
+	</string>
+	<string id="jup_a10_stalker_vano_goto_zulus_1">
+		<text>もちろん。ハワイアンと会いに、スーツを買い戻しに行かなくては。</text>
+	</string>
+	<string id="jup_a10_stalker_vano_goto_zulus_11">
+		<text>行こう。</text>
+	</string>
+	<string id="jup_a10_stalker_vano_goto_zulus_2">
+		<text>そうしたいが、しかし、光熱放射でやられたくはない。少し待とう。</text>
+	</string>
+	<string id="jup_a10_stalker_vano_need_outfit_0">
+		<text>プリピャチへ到達するためには、閉サイクル呼吸モジュール・スーツが必要だ。</text>
+	</string>
+	<string id="jup_a10_stalker_vano_need_outfit_1">
+		<text>ああ、参った！俺のスーツはひとつあるんだが…。あんたはオーブンに頭を入れても、ちゃんと呼吸ができるが、俺はそれをハワイアンに質に入れた。もし、それを取り戻すことができたならな…。俺は無一文だ。5グランドが必要だ…。</text>
+	</string>
+	<string id="jup_a10_stalker_vano_outfit_money_yes_0">
+		<text>そのスーツのための金をやろう。</text>
+	</string>
+	<string id="jup_a10_stalker_vano_outfit_money_yes_1">
+		<text>なんだって？本当か？</text>
+	</string>
+	<string id="jup_a10_stalker_vano_outfit_money_yes_11">
+		<text>さあ、受け取れ。5グランドだ。</text>
+	</string>
+	<string id="jup_a10_stalker_vano_outfit_money_yes_111">
+		<text>あんたは本当に俺の助けだ、友達だ。俺はどこにでも、あんたに付いて行こう！</text>
+	</string>
+	<string id="jup_a10_stalker_vano_outfit_money_yes_12">
+		<text>金をやりたいが、5グランドを持っていない。</text>
+	</string>
+	<string id="jup_a10_stalker_vano_outfit_money_yes_121">
+		<text>それが俺たちの一番大事なことだ…。俺を信じてくれ。</text>
+	</string>
+	<string id="jup_a10_stalker_vano_outfit_money_yes_13">
+		<text>ちょっと考えてみる。</text>
+	</string>
+	<string id="jup_a10_stalker_vano_outfit_money_yes_131">
+		<text>もちろん…。あんたの金だ。</text>
+	</string>
+	<string id="jup_a10_stalker_vano_outfit_money_yes_2">
+		<text>で、あんたはそれをくれて、さらに何かあるのかな？</text>
+	</string>
+	<string id="jup_a10_stalker_vano_pripyat_group_0">
+		<text>俺はプリピャチへ行くチームを作っている。加わらないか？</text>
+	</string>
+	<string id="jup_a10_stalker_vano_pripyat_group_1">
+		<text>あんたは俺を助けてくれた。なので、あんたを手伝う。</text>
+	</string>
+	<string id="jup_a10_stalker_vano_pripyat_group_2">
+		<text>そうしたいが、この借金がある間は、俺はここを去ることができない。それは正しいことではないが、もし途中で連中と遭ったら、犬のように撃ち殺されるだろう。奴らは誰だろうと構わず殺すんだ…。</text>
+	</string>
+	<string id="jup_a10_stalker_vano_pripyat_ready_0">
+		<text>では、あんたはプリピャチに行く用意ができてるか？</text>
+	</string>
+	<string id="jup_a10_stalker_vano_pripyat_ready_1">
+		<text>準備も何もかもできている！</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_11">
+		<text>さて、どうした。望みはなんだ？</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_12">
+		<text>借金を払ったし、ここから出て行こう。</text>
+	</string>
+	<string id="jup_a10_vano_back_1_0">
+		<text>奴らは厄介な悪人だった。やっつけたぞ。</text>
+	</string>
+	<string id="jup_a10_vano_back_2_0">
+		<text>俺は金を払った。あんたには借金はない。</text>
+	</string>
+	<string id="jup_a10_vano_back_2_1">
+		<text>おお、感謝する！この恩は忘れない。</text>
+	</string>
+	<string id="jup_a10_vano_back_3_0">
+		<text>良くはないがな。利子も払わされた。</text>
+	</string>
+	<string id="jup_a10_vano_back_3_1">
+		<text>それはよくなかった…。だが俺にはもっと要求したかもしれない。助けに感謝する！これを忘れない。</text>
+	</string>
+	<string id="jup_a10_vano_back_4_0">
+		<text>俺は奴らとまだ会ってない。</text>
+	</string>
+	<string id="jup_a10_vano_back_4_1">
+		<text>奴らがあんたから、さらに取ろうとする前に、急いで行ってくれ。</text>
+	</string>
+	<string id="jup_a10_vano_back_5_0">
+		<text>俺は奴らに会いに行ったが、奴らは借金の利子を要求している。</text>
+	</string>
+	<string id="jup_a10_vano_back_5_1">
+		<text>奴らは正気でないのか？穏便にやったのに…。利子を忘れるように奴らを説得できると思うか？良い武器が必要だろう…。武力だけが彼らを屈服させるものだ。</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_0">
+		<text>借金のことを話してくれ？</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_1">
+		<text>そう…、俺は古いスーツを持っていたが、摺り切れ始めていた。なので、新しいものが必要だった。そう考えていたら、ちょうど新しいスーツが売り出し中なのを見た…。それは閉サイクル呼吸モジュールや色々が付いていた。金を数えたが、少し足りなかった。販売人のジャックが、「心配するなヴァノ、後で残りを払うことができる」と言ってくれた。俺は、「なんていい奴だ！」と思ったのだが…。</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_11">
+		<text>うむ、それで？</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_111">
+		<text>俺は古いスーツを売り、現金をすべて彼に持っていった。ジャックは、「いいぞヴァノ。しかし利子についてはどうする？」と言ったんだ。俺は、「そう、彼は正しい…。彼に利子を払わなくては…」、と思った。俺はさらにいくらかの現金を用意して、彼にそれを持っていった。そこに着いた時、彼は言った、「あんたが出かけていた間に、さらに利子が増えた」。利子が増えるのが速くて、それに追いつかない…。俺は新しいスーツを、さらに武器を、質に入れなくてはならなかった。</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_1111">
+		<text>それで、今はどうなんだ？</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_11111">
+		<text>俺は稼いだ金を彼に払いたい。ヴァノという名の評判より重要なものは何もない…。しかし、俺は怖いんだ。俺の借金を払うために、代わりにジャックに会いに行ってくれないか？</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_111111">
+		<text>よし、わかった。</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_1111111">
+		<text>ひとつだけ言っておくが、彼に会った時、強力な銃か何かが出てくるのに注意してくれ。あんたがそれを問題にしない男であることを示せば、彼らはあんたに一目置くだろう・・・。</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_11111111">
+		<text>やってみよう。</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_111112">
+		<text>俺は今、すごく忙しいんだ。</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_1112">
+		<text>もうたくさんだ。</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_2">
+		<text>なら、俺の借金を払うために、代わりにジャックに会いに行ってくれないか？</text>
+	</string>
+	<string id="jup_a10_vano_help_dialog_11">
+		<text>わかった、わかった、撃たないでくれ。借金を払う…。ああ、すまない。あんたを誰か他の人間と思ったんだ…。</text>
+	</string>
+	<string id="jup_a10_vano_help_dialog_12">
+		<text>バンディットはどうだった？</text>
+	</string>
+	<string id="jup_a10_vano_help_dialog_13">
+		<text>やあ、よく来てくれた！</text>
+	</string>
+	<string id="jup_a10_vano_help_dialog_14">
+		<text>やあ。</text>
+	</string>
+	<string id="jup_a12_bandit_chief_dialog_11">
+		<text>お客さんだ…。ストーカがシシャークに会いにな…。贈り物を持ってきてくれたのか、あるいはビジネスの交渉かな？どちらにしても、はっきり話せ。</text>
+	</string>
+	<string id="jup_a12_bandit_chief_dialog_12">
+		<text>あんたが戻ってくるとは思っていなかった。俺になにか用事か？</text>
+	</string>
+	<string id="jup_a12_bandit_chief_dialog_13">
+		<text>何か話があるのかな、ストーカー？</text>
+	</string>
+	<string id="jup_a12_bandit_guard_start_0">
+		<text>何がほしいんだ？埋蔵品を持ってるのが嫌になったか何かかな？俺たちがもらってやるぞ。</text>
+	</string>
+	<string id="jup_a12_bandit_guard_start_1">
+		<text>あんたのボスと話をしたい。</text>
+	</string>
+	<string id="jup_a12_bandit_guard_start_11">
+		<text>なあ、あんた。俺は“糞”のための時間はない。すぐ、目の前から失せろ！そうしなければ、このショットガンで消してやるぞ。</text>
+	</string>
+	<string id="jup_a12_bandit_guard_start_111">
+		<text>わかった、わかった、退散する。</text>
+	</string>
+	<string id="jup_a12_bandit_guard_start_2">
+		<text>俺は捕まってるストーカーのことで来た。あんたのボスに会いたい。</text>
+	</string>
+	<string id="jup_a12_bandit_guard_start_21">
+		<text>ふむ…。では行け。だが、おとなしくしているんだ。でないと、土の中に埋めてやる。…まっすぐに行って、コンテナの間の通路を抜けるんだ。わかったな？</text>
+	</string>
+	<string id="jup_a12_bandit_guard_start_211">
+		<text>よし。</text>
+	</string>
+	<string id="jup_a12_bandit_guard_start_3">
+		<text>ただの通りすがりだ。すぐ、姿を消す。</text>
+	</string>
+	<string id="jup_a12_bandit_guard_start_4">
+		<text>俺は捕まってるストーカーのことで来た。あんたのボスに会いたい。</text>
+	</string>
+	<string id="jup_a12_bandit_guard_visited_0">
+		<text>何がほしいんだ？失せろ！</text>
+	</string>
+	<string id="jup_a12_bandit_guard_visited_1">
+		<text>わかった…。</text>
+	</string>
+	<string id="jup_a12_bandit_payment_dialog_0">
+		<text>おい、お前は俺を馬鹿にしてるのか？お前はアホな友人のための分を持ってきたが、お前の分は払ってない！考えが足りないんだ。わかってるのか？</text>
+	</string>
+	<string id="jup_a12_bandit_payment_dialog_1">
+		<text>どれだけ払えと言うんだ？俺は基地に行くんだ。覚えておけ。</text>
+	</string>
+	<string id="jup_a12_bandit_payment_dialog_11">
+		<text>おお、お前は本当に変わった奴だな！ここは宿屋ではないから、価格表などはない。ポケットを空にするんだ！</text>
+	</string>
+	<string id="jup_a12_bandit_payment_dialog_111">
+		<text>よし、これを受け取れ。</text>
+	</string>
+	<string id="jup_a12_bandit_payment_dialog_11111">
+		<text>よし、俺は行くぜ。</text>
+	</string>
+	<string id="jup_a12_bandit_payment_dialog_112">
+		<text>何だと？！俺の埋蔵品をすべて取りたいのか？冗談じゃない！</text>
+	</string>
+	<string id="jup_a12_bandit_payment_dialog_2">
+		<text>身代金は払った。話すことは何もない。</text>
+	</string>
+	<string id="jup_a12_merc_done_dialog_11">
+		<text>よし、ストーカー、俺たちは自分らの金を得た。もう、行く時間だ。</text>
+	</string>
+	<string id="jup_a12_merc_done_dialog_111">
+		<text>ありがとう。また今度会おう。</text>
+	</string>
+	<string id="jup_a12_merc_done_dialog_112">
+		<text>待つんだ。もっとバンディットが隠れているぞ。</text>
+	</string>
+	<string id="jup_a12_merc_done_dialog_12">
+		<text>よし、行く時間だ。それはできなかったが、しかし、俺たちは最善を尽くしたぞ…。</text>
+	</string>
+	<string id="jup_a12_merc_done_dialog_13">
+		<text>待て、俺たちはまだ終わっていない！</text>
+	</string>
+	<string id="jup_a12_merc_done_dialog_131">
+		<text>わかった！</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_actor_dialog_0">
+		<text>俺と一緒にプリピャチへ来い。</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_actor_dialog_1">
+		<text>今はここに留まり、ミタイにトラブルがないのを確かめたい。</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_11">
+		<text>よお、ストーカー！ミタイを脱出させてくれたことを感謝する！俺たちはすでに部隊を用意し始めた…。さあ、お礼の印として、これをとってくれ。</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_12">
+		<text>よお、ストーカー！ミタイを脱出させてくれたことを感謝する！あんたはすべてのバンディットをやっつけた強者だ…。さあ、お礼の印として、これをとってくれ。</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_13">
+		<text>よお、ストーカー！ミタイを脱出させてくれたことを感謝する！個人的には、身代金を払ってうまくいくとは思っていなかった。あんたは少しの金しか使わなかった。なので、これをとってくれ。俺たちのお礼の気持ちだ。</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_14">
+		<text>よお、ストーカー！ミタイを脱出させてくれたことを感謝する！俺はすべてのものをやった。あんたはバンディットに屈服しなかった！奴らを打ちのめした。これをとってくれ。十分ではないが皆が助かった。俺たちは本当に感謝してる。</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_15">
+		<text>では、身代金はどうしたんだ？</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_151">
+		<text>まだそれをやっているところだ。</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_16">
+		<text>では、どうしたんだ？いつバンディットをやっつけるんだ？</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_161">
+		<text>すぐだ。</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_17">
+		<text>あんたは考えを変えたのか、あるいはバンディットとトラブルがあるのか？…うむ、あんたがやる必要のあることを早くやるんだ。忍耐をなくして、ミタイを失ってほしくない。</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_171">
+		<text>俺はそれをやろう。大丈夫だろう。</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_18">
+		<text>あんたのようなプロに会えて嬉しい、ストーカー！</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_19">
+		<text>ああ、良い男を失った…。可哀想なミタイ…。彼を救えなかった！</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_191">
+		<text>あんたに何ができるんだ？</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_after_scene_actor_dialog_0">
+		<text>俺と一緒にプリピャチへ来い。</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_after_scene_actor_dialog_1">
+		<text>俺はただ友人たちの組織を守るために、ここに来たんだ。なので、ここに居続ける。</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_after_scene_dialog_11">
+		<text>なあ、ミタイのことを感謝する…。俺たちは身代金で困っていた。事態はうまく収まった…。</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_after_scene_dialog_12">
+		<text>なあ、ミタイのことを感謝する…。どのようにして連中を納得させたんだ？あんたから多くを学んだよ…。</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_after_scene_dialog_13">
+		<text>なあ、ミタイのことを感謝する…。俺は正しかっただろ？交渉が成功の鍵だ！</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_after_scene_dialog_14">
+		<text>なあ、ミタイのことを感謝する…。俺は交渉の方が良かったと思っている。しかし結局、事態はうまく収まった。なので、すべてはいいぞ。</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_after_scene_dialog_15">
+		<text>行ってくれ。俺は今、あんたと話したくない。</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_after_scene_dialog_151">
+		<text>わかった。気楽にな。</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_after_scene_dialog_16">
+		<text>やあ、ミスター・プロ！</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_after_scene_dialog_17">
+		<text>可哀想なミタイ…。まだ子供だった…。この先、長い人生があったのに…。</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_after_scene_dialog_171">
+		<text>あんたは何ができるんだ？</text>
+	</string>
+	<string id="jup_a12_stalker_give_art_dialog_0">
+		<text>素晴らしい。皆ここに揃っている。グリズリーが俺にあんたのことを話した…。計画は単純だ。兵士らは境界線周辺の攻撃位置に付いている。そして、俺は自分の位置から歩哨を倒す。それが攻撃の合図だ…。我々の位置に注意し、あんたが一番いいと思うことをやってくれ。あんたには何をするかのアイデアが、きっとあると思う…。準備はいいか？</text>
+	</string>
+	<string id="jup_a12_stalker_give_art_dialog_1">
+		<text>それを覚えておこう。行くぞ。</text>
+	</string>
+	<string id="jup_a12_stalker_give_art_dialog_2">
+		<text>待ってくれ、それを考えさせてくれ。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_come_with_me_0">
+		<text>俺とプリピャチへ旅行をしたいと思わないか、ミタイ?</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_employ_stalkers_0">
+		<text>科学者は何人かの人間を雇うつもりだ。連中と働くことをどう思う？</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_employ_stalkers_1">
+		<text>仕事はなんだ？</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_employ_stalkers_11">
+		<text>連中のトーチカの警護だ。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_employ_stalkers_111">
+		<text>いいや、俺のバンディットの冒険は十分だ。ここで落ち付き、のんびりやるさ。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_employ_stalkers_12">
+		<text>アノマリーの中での調査だ。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_employ_stalkers_121">
+		<text>うむ…、面白そうだ。俺は前に科学者のもとで働いていた。あんたの言葉もあることだし、それをやろう。俺とグリズリー、それにトルバがトーチカに向かうだろう。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_free_actor_dialog_0">
+		<text>どのようにあんたが捕まったのか、俺に話してくれ。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_free_actor_dialog_1">
+		<text>ああ、それは尋ねないでくれ！俺の失敗だった。バンディットはそれを警告していたんだ…。奴らは俺の埋蔵品の分け前を要求し始めたんだが、ゾーンは誰のもでもない。なんで奴らに払わなくてはならないのだ？</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_free_actor_dialog_111">
+		<text>俺と兵士らは奴らにそれがある場所を話し、それで我々は逃げられたように思った。しかし、バンディットはかなり狡猾であることが判明した。奴らは待ち伏せをしたんだ。愚かにもアーティファクトを探しに行った時、俺に襲いかかり、銃を取る前に縛り上げられた…。ということなんだ。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_free_dialog_11">
+		<text>俺のために身代金を払ってくれた。感謝する。これを忘れない。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_free_dialog_12">
+		<text>俺を自由にしてくれて感謝する、ストーカー。これを忘れない。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_free_dialog_13">
+		<text>俺のために身代金を払って助けてくれた。感謝する。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_free_dialog_14">
+		<text>俺を助けて自由にしてくれて感謝する、ストーカー。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_free_dialog_15">
+		<text>支援を感謝する、ストーカー…。戻ったら、我々の仲間たちが、きっとあんたに報いるだろう…。一緒に基地へ行こう。それが早い。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_free_dialog_151">
+		<text>さあ、行こう。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_free_dialog_152">
+		<text>行ってくれ。俺は後から行く。ここでやっておく仕事がある。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_hide_until_walk_out_dialog_11">
+		<text>ああ、俺はここで死ぬかと思っていた。おー、グリズリーとトルバは、この人たちをすべて雇ったのか？！なんとすごい！こんな銃撃戦は、俺の人生で見たことがない！我々はここから出て行けるのか？</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_hide_until_walk_out_dialog_111">
+		<text>少し待ってくれ、さらにバンディットがこの辺りにいるかもしれない。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_hide_until_walk_out_dialog_112">
+		<text>いいぞ。行こう。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_hide_until_walk_out_dialog_12">
+		<text>うわぁ、俺はこれで死ぬだろうと思った…。おお、あんたひとりで、このバンディットたちを全部やったのか！すごい男だ！これを俺が話しても誰も信じてくれないぞ…。我々はここから出て行けるのか？</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_hide_until_walk_out_dialog_121">
+		<text>少し待ってくれ、誰かがこの辺りにいるかもしれない。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_hide_until_walk_out_dialog_122">
+		<text>よし。今すぐ、ここから出て行こう。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_thank_bandits_base_dialog_11">
+		<text>ありがとう、ストーカー！バンディットの考えが変わらないうちに、行こう。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_thank_bandits_base_dialog_111">
+		<text>行くぞ。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_thank_bandits_base_dialog_21">
+		<text>すぐに、ここから出なくては！</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_power_dialog_0">
+		<text>我々はバンディットの要求に屈服することはできない。この問題には、力の解決が必要だ。</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_power_dialog_1">
+		<text>そのとおりだ！俺は、喜んで手伝ってくれる何人かを知っている…。また、あんたがチームに入るのが嫌でなければ、あんたにも払おう。</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_power_take_dialog_0">
+		<text>行く用意はできている。</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_power_take_dialog_1">
+		<text>素晴らしい！俺は、かつて特別警察部隊で貢献したストーカーのグループを知っている。打ち合わせした場所で、午前1時に彼らと会わなくてはならない。彼らも、あんたを待つだろう。</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_power_take_dialog_11">
+		<text>わかった。</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_ransom_dialog_0">
+		<text>トルバは正しい。彼らが人質を取っている間は、戦闘を始められる機会はない。我々は交渉しなければならない。</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_ransom_dialog_1">
+		<text>うむ、2人の意見は正しいかもしれない…。ただひとつのことは、俺とトルバが行けば、バンディットは我々が連中のルールに従うことを拒否したと考え、我々を解放したいと思わないだろう。奴らは、今度俺たちに会う時は生き埋めにすると言っていた。さて、あんたが交渉人の役をできたらいいんだが…。</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_ransom_take_dialog_0">
+		<text>よし、俺がやろう。アーティファクトをくれ。</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_ransom_take_dialog_1">
+		<text>注意しろ。</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_ransom_take_dialog_11">
+		<text>うまくいくさ。</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_self_dialog_0">
+		<text>議論はいくらでもできるが…。我々の成功は、これを行う人間に依存する。俺自身が奴らと取り引きをしよう。</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_self_dialog_1">
+		<text>ああ、俺は期待しないが…、幸運を。</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_self_dialog_11">
+		<text>すぐに戻る。</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_wait_dialog_0">
+		<text>わかった。だが、準備の時間が少し要る。</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_11">
+		<text>ストーカー、我々の仲間のミタイをトラブルから助けてくれないか？</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_111">
+		<text>何が起こったんだ？</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_1111">
+		<text>ミタイがトラブルに巻き込まれたんだ…。バンディットが現れて、ストーカーが見つけるアーティファクトの分け前を要求し始めた。ストーカーは誰も世話になってないので、我々は連中に出て行くように言った。それで終わったように見えた…。しかし、ミタイが埋蔵品をひとりで探しに行った時、待ち伏せされて捕まえられ、身代金を要求されたんだ。</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_11111">
+		<text>あんたたちは何をするつもりなんだ？</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_111111">
+		<text>トルバは身代金として、奴らにアーティファクトを与えようと言っている。俺は、それを与えるべきではないと思う。それを行えば、それはストーカーがバンディットのために働くことを意味する…。我々はアーティファクトを売って強いチームを雇い、そしてバンディットの基地を攻撃するべきだ。</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_112">
+		<text>また後で、それをやろう。</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_12">
+		<text>なので、我々がミタイを救出するのを手伝ってくれないか？トルバはまだ、身代金として奴らにアーティファクトを与えるべきだと考えている。だが、俺はバンディットの基地を攻撃しなければならないと思っている。それにはアーティファクトを売り、何人かの戦士を雇わなければならない。まだ、どうするかは決定していないんだ。</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_13">
+		<text>準備はいいか？あんたに、ミタイを受け取るためのアーティファクトを渡す。我々は酒場であんたを待っているぞ。</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_15">
+		<text>まだバンディットを訪ねてないのか？</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_151">
+		<text>まだ、準備をしているところだ。</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_152">
+		<text>そう、まだすぐにはな。事態がはっきりしたら、あんたに知らせよう。</text>
+	</string>
+	<string id="jup_a6_barmen_oasis_art_sell_0">
+		<text>俺は最近、オアシスにいた。そして、そこでアーティファクトを見つけた。興味があるかい？</text>
+	</string>
+	<string id="jup_a6_barmen_oasis_art_sell_1">
+		<text>ハッ、あんたは俺がそれを信じると思っているのか？俺はオアシスのことを多く聞いてるが、実際にそこに行った奴のことは一度も聞いていない。悪気はないが、あんたの言葉を信じない。</text>
+	</string>
+	<string id="jup_a6_duty_leader_a9_sell_info_0">
+		<text>俺はジュピター・プラントからの書類を持っている。</text>
+	</string>
+	<string id="jup_a6_duty_leader_a9_sell_info_11">
+		<text>よし、それを全部持っていけ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_a9_sell_info_12">
+		<text>よし、撤退命令書を持っていけ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_a9_sell_info_13">
+		<text>よし、議事録を持っていけ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_a9_sell_info_14">
+		<text>よし、配送予定表を持っていけ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_a9_sell_info_15">
+		<text>よし、修理工場からのノートを持っていけ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_a9_sell_info_16">
+		<text>また今度にしよう。</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_stolen_items_0">
+		<text>誰がパーソナルボックスから物を盗むことができたんだ？</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_stolen_items_1">
+		<text>俺の部下ではないことは確かだ。たぶん、フリーダムの奴だろう。もし我々がヤニフをすべて支配していれば、そのようなことは起こらない。</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_0">
+		<text>デューティーについて教えてくれ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_1">
+		<text>具体的に何を知りたいんだ？</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_1111">
+		<text>あんたがここでやっていることは何だ？</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_11111">
+		<text>俺たちはいつも同じことをしている。すべての種類の害虫から、ストーカーを保護することだ。この周辺に、どれだけ多くのミュータントがいるかを見たはずだ。コルドンにいる可愛い小さな子犬ではないぞ。たとえば昨夜、俺はキメラを自分の目で見た。暗くなってきたので、それを追わなかったがな…。ミュータントだけがこの辺りの問題ではないんだ。また、フリーダムのアホ共が着く前に、我々は放置された研究所を調査して、証拠を集めなければならない。</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_1112">
+		<text>何であんたはゾーンの中心に来たんだ？</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_11121">
+		<text>俺をからかっているのか？では、あんたは何の用でここに来たんだ？荒野の探索をして、我々はここに同じ理由でいる。ゾーンの中心は、いつも手の届かない目的であり、我々のすべての質問に対する答えを得られることを望んだ場所だ。ゾーンがどのように作られたか、また、それをどのように破壊できるかを知りたかった。そのため、ブレイン・スコーチャーが非活性化されたという噂を聞いて、我々はすぐに中心に移動したんだ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_111211">
+		<text>そして、何がわかったんだ？</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_1112111">
+		<text>多くのことを知ったが、機密事項だ。俺が言うことができるのは、目に触れるゾーンには重要なことがあるということだ。仲間の数人は、ゾーンは削除されなければならない腫瘍であると考えている。俺は自分の見てきたことで、ゾーンは生きている有機体で、自分たちが内側に生きているただのバクテリアである、とさらに信じるようになった。この惑星上のすべての国の軍事力を合わせたとしても、我々はまだゾーンを破壊できないだろう。そのため、それより利口にならなければならない。ゾーンの存在理由を見つけて、それを除去しなければならないんだ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_11121111">
+		<text>もし、その理由を除去できないらどうするんだ？</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_111211111">
+		<text>さて、それができなければ、他のことを考えなければならないだろうが、希望はまだある。俺たちは仕事を果たし、前向きでいなければならない。</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_1113">
+		<text>デューティーでは何をしていたんだ？</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_11131">
+		<text>それは退屈な話だし、英雄的なことは何もない。ゾーンが現われるとすぐに、俺と友人のレーニャはここに来て、それを調査することに決めた。俺はその時に佐官級将校だった。また、レーニャは情報局にいた。さて、我々は子供みたいに、まったくの混乱の内に終った。デューティーに拾われるまで、負傷して出血して何時間も這っていた。俺は生き残ったが、レーニャは死んだ。俺はゾーンに友人はいないので、デューティーと共にここに残ることにした。以来、ずっとゾーンと対している。</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_1114">
+		<text>フリーダムとのあんたたちの関係はどのようなものだ？</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_11141">
+		<text>公式には戦争をしている。しかし、ゾーンの中心での生活には、それ自身のルールがある。フリーダムもデューティーも、多くの人員を持てる安全な場所はほとんどない。なので、互いに殺し合うという意味はあるのか？それが互いに他の場所に立ち入らないという無言のルールの理由だ。しかし、このルールはヤニフの外部には通用しない。外では戦争をしているというのが現実なのだ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_1115">
+		<text>よし、それはもういい。</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_11151">
+		<text>おー、いいぞ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b106_info_about_soroka_0">
+		<text>俺はフリントと呼ばれるフリーダムのメンバーについて話したい。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b106_info_about_soroka_1">
+		<text>奴らが我々に近づかない限り、俺はフリーダムの人間には手出ししない。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b106_info_about_soroka_11">
+		<text>マグパイとして知られているフリントは、ザトンでストーカー・ハンターを組織した。だが、連中の埋蔵品をすべて奪って逃げた。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b106_info_about_soroka_111">
+		<text>そうか？それには驚かないな。フリーダムはそういう輩でいっぱいだ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b106_info_about_soroka_1111">
+		<text>そこには何かがある。俺は採石場でストーカーに会った。そいつが死ぬ前に、フリントが彼をアノマリーの中に置き去りにし、埋蔵品を奪って去ったと言った。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b106_info_about_soroka_11111">
+		<text>ああ、その“糞”のストーカーのことは忘れないでおく…。無論、フリーダムでもだ。情報に感謝するぞ。うまく使えるか確かめてみよう。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b106_info_about_soroka_1112">
+		<text>奴の悪評を十分得ている。つまり、ウスノロは俺がやったことを、本当に厚かましく自慢している。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b106_info_about_soroka_11121">
+		<text>それはフリーダムの評判に大打撃を加えるだろう。情報に感謝するぞ。うまく使えるか確かめてみよう。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b106_info_about_soroka_13">
+		<text>どういたしまして。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b106_info_about_soroka_131">
+		<text>いいぞ、お好きなように。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_hiding_place_0">
+		<text>俺は、あんたの将校代理のモーガンのPDAを持っている。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_hiding_place_11">
+		<text>いいぞ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_hiding_place_12">
+		<text>ちょっと考えてみる。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_hiding_place_21">
+		<text>いいぞ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_hiding_place_2111">
+		<text>よし。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_hiding_place_3">
+		<text>調べてみよう…。そいつがこちら側の仕事をしており、我々の名前を偽って使っているのかどうかを…。これが表に出れば、我々の評判は地に落ちるだろう。俺があんたからこのPDAを買い取るのはどうだ？良い値を付けるぞ。4,000でどうだ？</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_merc_pda_1">
+		<text>それは重大な話だ。俺にPDAを見せてくれ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_merc_pda_11">
+		<text>さあ、これだ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_merc_pda_111">
+		<text>俺が彼に対して疑念を持っていたのは本当だ…。これで、我々はそれらを全部明らかにする。感謝する、ストーカー！誰にもこの会話を知られたくない。あんたにはそれなりの報酬を渡す。あんたはデューティーの評判を守った…。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_merc_pda_12">
+		<text>今は、それをもらっておこう。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_merc_pda_2">
+		<text>別のことだが…、非常に面白い…。ケース・ファイルにそれを加えよう。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_merc_pda_21">
+		<text>さあ、これだ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_merc_pda_211">
+		<text>ありがとう！これはあんたの努力に対するそれなりの報酬だ…。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_merc_pda_22">
+		<text>記念に、それをもらっておこう。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_0">
+		<text>俺は、デューティーに参加したいという戦士のグループに会った。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_1">
+		<text>我々は、常に相応しい人間を捜している。彼らはここを訪ねて話をするべきだ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_11">
+		<text>しかし、問題がひとつある…。彼らは元モノリサーだ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_111">
+		<text>“元”モノリサーとは何だ？俺の経験では、モノリサーは2つのカテゴリーだけだ。生きてるのと死んでるのだ。“元”には会ったことがない。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_1111">
+		<text>彼らは誰かの管理下にあったようだ。なぜなら、彼らがCNPPへ去った後、何が起こったのか、彼らは覚えてない。今は活動をしておらず、何をしていいか単にわからないだけなんだ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_11111">
+		<text>さて、彼らが活動してないのなら、それは良いことだ…。つまり、彼らのすることが簡単にわかり、彼らの進んだところを確認する。今は100%は確かではないが…。あんたは彼らを保証できるか？</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_111111">
+		<text>よし。彼らを保証する。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_1111111">
+		<text>うむ…、問題は、まだあんたを信頼できないことだ。すまんがな。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_1111112">
+		<text>わかったが、もし問題があれば、あんたがその責任を負うということを覚えておいてくれ。実際、彼らはヤニフまで独力でたどり着けないだろう。あんたが行うことは、俺の兵士を連れてモノリス部隊ヘ導くことだ。彼らが連中と話し、うまくいけば彼らはデューティーに入るだろう。いつ出かける準備ができるか教えてくれ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_111112">
+		<text>いや。俺は彼らをあまり信頼していない。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_3">
+		<text>我々は派閥に誰も受け入れない。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_redy_to_go_0">
+		<text>あんたの部下たちをモノリス部隊ヘ導く準備ができている。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_redy_to_go_1">
+		<text>よし。あんたに2人の者を送る。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_redy_to_go_11">
+		<text>よし。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_redy_to_go_12">
+		<text>それは後にする。何かが起こった。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_redy_to_go_2">
+		<text>待つんだ！あんたはしたいことをしろ。だが、俺は部下を光熱放射に打たれさせたくはない。</text>
+	</string>
+	<string id="jup_a6_duty_leader_duty_founder_pda_0">
+		<text>俺はデューティーの創設者のPDAを見つけた。あんたは興味があるか？</text>
+	</string>
+	<string id="jup_a6_duty_leader_duty_founder_pda_1">
+		<text>見せてくれ…。どうなっているのか…。他の者はこれを知る必要はないだろう。誰も再びこのPDAを見ない方がいい。デューティーの生まれた伝説をそのままに留まらせてくれ。俺にこのPDAを売ってくれるか？</text>
+	</string>
+	<string id="jup_a6_duty_leader_duty_founder_pda_11">
+		<text>それを受け取れ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_duty_founder_pda_111">
+		<text>ありがとう。これが謝礼だ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_duty_founder_pda_12">
+		<text>あんたの申し出を考えよう。</text>
+	</string>
+	<string id="jup_a6_duty_leader_duty_founder_sell_pda_0">
+		<text>デューティーの創設者のPDAを受け取れ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_duty_founder_sell_pda_1">
+		<text>俺の無理を聞いてくれて感謝する。これが謝礼だ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_employ_stalkers_0">
+		<text>科学者たちのために働く戦士が必要だ。あんたは手伝えないか？</text>
+	</string>
+	<string id="jup_a6_duty_leader_employ_stalkers_1">
+		<text>科学者たちを助けることは常に歓迎する。何かする必要はあるか？</text>
+	</string>
+	<string id="jup_a6_duty_leader_employ_stalkers_11">
+		<text>彼らは彼らのトーチカを守る人間を捜している。</text>
+	</string>
+	<string id="jup_a6_duty_leader_employ_stalkers_111">
+		<text>いいだろう、俺の兵士を何人か送ろう。</text>
+	</string>
+	<string id="jup_a6_duty_leader_employ_stalkers_121">
+		<text>いいだろう、俺の兵士を何人か送ろう。</text>
+	</string>
+	<string id="jup_a6_duty_leader_employ_stalkers_2">
+		<text>喜んで。しかし、彼らはすでにフリーダムで働いている。我々の部隊をそこへ送ることは、単に熱した状況を強めるだけだろう。</text>
+	</string>
+	<string id="jup_a6_duty_leader_pripyat_group_0">
+		<text>俺はプリピャチへ進むことを計画している。このミッションに何人かの戦士を出してくれないか？</text>
+	</string>
+	<string id="jup_a6_duty_leader_pripyat_group_1">
+		<text>我々には人が不足しているんだ！ストライダーと話してくれ。見た目で判断すると、奴はデューティーに愛着を感じていない。なので、たぶん奴はあんたと一緒に何を探すのかわかるだろう。</text>
+	</string>
+	<string id="jup_a6_duty_leader_pripyat_group_2">
+		<text>我々には人が不足しているんだ！俺は、絶望的なミッションには誰も派遣していない。</text>
+	</string>
+	<string id="jup_a6_duty_leader_start_dialog_11">
+		<text>手短に話して、すぐに行くんだ。何がほしい？</text>
+	</string>
+	<string id="jup_a6_duty_leader_start_dialog_12">
+		<text>聞こう。</text>
+	</string>
+	<string id="jup_a6_duty_leader_start_dialog_13">
+		<text>生きて会えて嬉しい。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_a9_sell_info_0">
+		<text>俺はジュピター・プラントからの書類を持っている。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_a9_sell_info_1">
+		<text>それに何か面白いものがあるかは疑わしい。プラントはストーカーがそこに着く前に、すでに略奪されていた。…が、うむ、これにはある重要な情報がある。俺は誰かにこれらを見せたい。俺に売ってくれないか？</text>
+	</string>
+	<string id="jup_a6_freedom_leader_a9_sell_info_11">
+		<text>よし、それを全部持っていけ。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_a9_sell_info_12">
+		<text>よし、撤退命令書を持っていけ。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_a9_sell_info_13">
+		<text>よし、議事録を持っていけ。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_a9_sell_info_14">
+		<text>よし、配送予定表を持っていけ。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_a9_sell_info_15">
+		<text>よし、修理工場からのノートを持っていけ。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_a9_sell_info_16">
+		<text>また今度にしよう。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_stolen_items_0">
+		<text>誰がパーソナルボックスから物を盗むことができたんだ？</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_stolen_items_1">
+		<text>俺はガードマンではないし、あんたのボックスを見張る仕事でもない。俺の部下が絶対に取ってないのは確かだ。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_0">
+		<text>フリーダムのことを話してくれ。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1">
+		<text>長い話になる。あんたは何が知りたいんだ？</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1111">
+		<text>あんたがここでやっていることは何だ？</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11111">
+		<text>我々は、色んな職員が一般人から何も隠さないように確かめている。あんたには、それがどんなだかわかると思う。彼らは新しい研究所やゾーンの秘密に関わる書類を見つけると、直ちに軍事作戦を組織して、そこらの電気掃除機よりもきれいにするんだ。“糞”を見つけ出すただひとつの方法は、そこに最初に着くことだ。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1112">
+		<text>何であんたはゾーンの中心に来たんだ？</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11121">
+		<text>そう、兵士らは新しい場所を散歩したいと思っているんだ。…いや、冗談だが。それは、まだ誰も知らないものを見つける機会になる。ここには以前、軍もストーカーもいなかった。なので、新しいものがどこにでもある。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_111211">
+		<text>何かを見つけたのか？</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1112111">
+		<text>2、3枚のロックされたドアと、いくつかの不思議な新しいアーティファクトだ。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1113">
+		<text>フリーダムでは何をしていたんだ？</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11131">
+		<text>そう、ゾーンがなかった時、俺はフリーダムのリーダーたちと友達だった。リーダーになる前は、連中は普通のヒッピーだった。だから、俺がアーティファクトを探してゾーンに移動し、顔なじみに出遭った時、知っている連中と一緒にいる方が良いと考えたんだ。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1114">
+		<text>デューティーについてどう思う？</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11141">
+		<text>俺は連中は馬鹿だと思う。一体全体、なんで奴らはゾーンを破壊したいと思うのだ？貴重な資源を消費してはいないし、より大きくもなっていない…、何もな。そこに座るだけで、奴らの思うものを研究できる。どれだけでも科学的な発見をできると思う…。つまり、人類の歴史で誰も反重力を理解できてないだろ？だが、ゾーンには至る所に既製品の反重力装置が転がっている。それは誰も追い出したり傷つけたりしないが、だが、すごく面倒なものだ。ところで、このヤニフでの俺たちの関係を勘違いしないでくれ。我々は戦争中だが…、ヤニフは中立地帯になってるんだ。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1115">
+		<text>よし、それはもういい。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11151">
+		<text>いいだろう。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b106_info_about_soroka_0">
+		<text>俺はあんたに、あんたのストーカーのひとりについて話をしたい。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b106_info_about_soroka_1">
+		<text>なんだと？言ってみろ。あんたは誰かを密告しようとしてるのか？</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b106_info_about_soroka_11">
+		<text>あんたの部下のストーカーのフリントは、ザトンではマグパイという名で知られている。地元のストーカー・ハンターたちが奴を捜している。奴自身がそれを組織したのに、連中の埋蔵品を持ち逃げしたんだ。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b106_info_about_soroka_111">
+		<text>では、あんたは俺にそれを信じろというのか？</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b106_info_about_soroka_1111">
+		<text>ただ、バーで奴が言う話を聞いてくれ。最初に、奴はそのストーカーたちをだました。そして、今、あんたに多くの嘘をついている。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b106_info_about_soroka_11111">
+		<text>よし。俺はビアードと連絡を取り、どうなのか確かめよう。あんたが言うことが事実なら、俺たちはフリントのフリーダムでのやり方に対処するだろう。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b106_info_about_soroka_11121">
+		<text>うむ…。俺は、奴がどのようにあれほど速くアーティファクトを得るのかと思っていた。奴の話の半分が完全な偽りだったのだろうな。俺の部下たちと相談する。あんたの言うことが事実なら、奴のフリーダムでのやり方に対処しよう。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b106_info_about_soroka_13">
+		<text>気にするな。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b106_info_about_soroka_131">
+		<text>よし。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b207_hiding_place_11">
+		<text>いいぞ。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b207_hiding_place_12">
+		<text>ちょっと考えてみる。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b207_hiding_place_21">
+		<text>わかった。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b207_hiding_place_2111">
+		<text>よし。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_0">
+		<text>俺は、フリーダムに参加したいという戦士のグループに会った。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_1">
+		<text>我々は、常に相応しい人間を捜している。彼らがそうしたいなら、歓迎する。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_11">
+		<text>しかし、小さな問題がある…。彼らは元のモノリサーだ。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_111">
+		<text>小さな問題だと？俺はこの目でモノリサーを見てみたい。何も質問はない。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_1111">
+		<text>彼らは平和的だ。誰かの管理下にあったようだ。なぜなら、彼らがCNPPへ去った後、何が起こったのか、彼らは覚えてない。今、何をしていいのか、単にわからないだけなんだ。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_11111">
+		<text>すまないが、俺はまだ懐疑的だ。万が一、あんたが故意に俺に嘘をついていたらどうなんだ？</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_11112">
+		<text>そう、たぶん彼らと話すのは問題はなく、何が何だかわかるだろう。俺はあんたと一緒に、2、3人の部下を派遣しよう。彼らが話せば、そしてはっきりすれば、モノリサーをフリーダムに受け入れよう。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_3">
+		<text>あんたはどうなんだ？俺は、誰でもフリーダムに受け入れるという提案を信じることができない。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_redy_to_go_0">
+		<text>フリーダムにモノリス部隊を受け入れるのを、俺はここで待っている。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_redy_to_go_1">
+		<text>俺の部下は行く用意ができている。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_redy_to_go_11">
+		<text>よし、彼らを俺に従わせてくれ。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_redy_to_go_12">
+		<text>少し後だ。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_redy_to_go_2">
+		<text>少し待とう。光熱放射は身体に悪い。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_duty_founder_pda_0">
+		<text>俺はデューティーの創設者のPDAを見つけた。あんたは興味があるか？</text>
+	</string>
+	<string id="jup_a6_freedom_leader_duty_founder_pda_1">
+		<text>さあ、それに役立つものがあればな…。おお、本当に面白いな。ゾーンの至る所での誇張されたプロパガンダがあり、それ自身の歴史が色々わかる。俺はこれを全部読んでみたい。なあ、このPDAを良い値段で買おう。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_duty_founder_pda_11">
+		<text>それを受け取れ。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_duty_founder_pda_111">
+		<text>ありがとう。これが金だ。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_duty_founder_pda_12">
+		<text>ちょっと考えてみる。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_duty_sell_founder_pda_0">
+		<text>デューティーの創設者のPDAを受け取れ。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_duty_sell_founder_pda_1">
+		<text>ありがとう。これが金だ。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_employ_stalkers_0">
+		<text>科学者は何人かの人間を雇うつもりだ。誰かを送れるか？</text>
+	</string>
+	<string id="jup_a6_freedom_leader_employ_stalkers_1">
+		<text>そう、仕事によるな。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_employ_stalkers_11">
+		<text>科学者はトーチカの警護を必要としている。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_employ_stalkers_111">
+		<text>もちろん、俺の兵士を何人かを送ろう。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_employ_stalkers_121">
+		<text>もちろん、俺の兵士を何人かを送ろう。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_employ_stalkers_2">
+		<text>手伝いたいが、すでにそこにはデューティーがいる。我々はヤニフで奴らと十分に関わっている。なので、これは止めておく。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_pripyat_group_0">
+		<text>俺と一緒にプリピャチへ行くチームを与えてくれないか？</text>
+	</string>
+	<string id="jup_a6_freedom_leader_pripyat_group_1">
+		<text>我々の新人のストライダーと話してくれ。奴はここでは、うまくいってないんだ。なので、あんたは奴が望むものを与えることができるだろう</text>
+	</string>
+	<string id="jup_a6_freedom_leader_pripyat_group_2">
+		<text>誰か交代がいたら、それをするかもしれないが、すまないが、やらない。ここの仕事で十分なんだ。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_start_dialog_11">
+		<text>何を言いたいんだ？</text>
+	</string>
+	<string id="jup_a6_freedom_leader_start_dialog_12">
+		<text>ここに何の用事だ？</text>
+	</string>
+	<string id="jup_a6_freedom_leader_start_dialog_13">
+		<text>あんたに会えて嬉しいよ！フリーダムでのあんたの良い噂を聞いてる。用件は何かな？</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_about_halfartefact_jup_b1_0">
+		<text>鉄道トンネルで奇妙なアイテムを見つけた。興味はないか？</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_about_halfartefact_jup_b1_1">
+		<text>いや、ジャンクだな。アーティファクトだが、たいしたものではない。通常、そういうのは科学者に渡す。</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_about_halfartefact_zat_b14_0">
+		<text>ザトンで奇妙なアイテムを見つけた。興味はないか？</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_about_halfartefact_zat_b14_1">
+		<text>それを俺がどう思うかって？知ってのとおり、俺は普通のアーティファクトには興味はないんだ…。科学者にそれを見せるんだな。彼らは、すべての種類のジャンクを良い値で買う。</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_about_sci_guards_0">
+		<text>俺は科学者のトーチカを警護してくれる人間を探している。誰か知らないか？</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_about_sci_guards_1">
+		<text>フリーダムよりも、良いものは見つけられないだろう。ストーカーと何かをすることもできるが、彼らを完全には信頼できない。もし連中があんたを倒したら、その後でどうやってそれを見つけるんだ？俺はデューティーと話をする提案は絶対にしない。その狂信者らはミュータントを除去するのにだけ適しているんだ。</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_about_sci_helpers_0">
+		<text>俺は科学者のためにサンプルを集めてくれる人間を探している。誰か知らないか？</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_about_sci_helpers_1">
+		<text>もちろん。ロキに会いに行ってくれ。彼は喜んであんたのことを手伝うだろう。さらに、ストーカーと一緒に何かをできるだろう。その何人かはあまり信頼できないがな。</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_b202_about_stole_0">
+		<text>誰かが俺のボックスから物を盗んだ。あんたはそれが誰かわかるか？</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_b202_about_stole_1">
+		<text>この場所に何の用で来たんだ？俺は、それはデューティーから来た誰かだと疑っている。フリーダムでは誰もあんたの物を必要としない。なので、それはストーカーのひとりに違いない。</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_b4_monolith_squad_dialog_0">
+		<text>俺は最近、モノリス部隊に出遭った。</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_b4_monolith_squad_dialog_1">
+		<text>おお。俺は見たことがない！兵士たちからいくつかの恐ろしい話を聞いてるがな。モノリスの人間は完全に気が変だという話だ。厳しい戦闘があったんだろうな？</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_b4_monolith_squad_dialog_11">
+		<text>戦闘はなかった。彼らは平和的な連中だ。彼らは、まるで目からベールを外したように自身のコントロールを回復したと俺に話した。彼らは単に、今、何を行うべきか知らないだけだ。なので、彼らを派閥かどこかに入れることを期待している。</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_b4_monolith_squad_dialog_111">
+		<text>おお、それは面白いなあ。そう、ストーカーは選択肢ではないな。過去の関わりを考えると、おそらく彼らはストーカーを撃ち殺すだろうからな。ロキと話してみるんだ。彼らがフリーダムの制服を着れば、誰も彼らに関わらないだろう。</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_duty_founder_pda_0">
+		<text>誰が、デューティーの創設者に関する真実に興味を持っている？</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_duty_founder_pda_1">
+		<text>俺はまったく知らないな。その真実が、どれだけデューティーが公けにしてるものから異なるかによる。ロキにそれを見せれば、彼はあんたにちゃんと話すだろう。</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_jup_b217_pda_sell_0">
+		<text>俺はデューティーの将校代理のPDAを持っている。あんたは興味がないか？</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_jup_b217_pda_sell_1">
+		<text>ぜんぜんない。俺は、もっと安くなんでも買える場所を知っている。俺に興味を感じさせるものは何もないがな。</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_pripyat_group_0">
+		<text>誰が俺とプリピャチへ行くことができる？</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_pripyat_group_1">
+		<text>プリピャチだって？わお！そう、俺はすべてを捨てて、どこかに行きたい。だが、今はすごく忙しいんだ…。</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_pripyat_group_2">
+		<text>プリピャチだって？わお！ロキに何人かを頼めばいい。彼は、あんたのような善人を拒否しないと思う。</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_start_dialog_12">
+		<text>びっくりさせないでくれないか？俺のドリンクは何も特別ではないが、ここは楽しい場所なんだ！</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_start_dialog_13">
+		<text>何をしたいんだ？食べるのか、飲むのか、あるいは弾を喰らいたいのか？</text>
+	</string>
+	<string id="jup_a6_stalker_medik_about_sci_guards_0">
+		<text>俺は科学者のトーチカを警護してくれる人間を探している。誰かいないか？</text>
+	</string>
+	<string id="jup_a6_stalker_medik_about_sci_guards_1">
+		<text>ストーカーたちと話すんだな。奴らは喜んでインテリのために仕事をするだろう…。結局、それは奴らにゾーンにいる公式許可を与えることになるがな。</text>
+	</string>
+	<string id="jup_a6_stalker_medik_about_sci_helpers_0">
+		<text>俺は科学者のためにサンプルを集めてくれる人間を探している。誰か知らないか？</text>
+	</string>
+	<string id="jup_a6_stalker_medik_about_sci_helpers_1">
+		<text>無経験のストーカーとは関係しないように言っておく。奴らは何も見つけないし、さらに何かを失う。俺が何を言いたいか、わかるだろ。</text>
+	</string>
+	<string id="jup_a6_stalker_medik_b4_monolith_squad_dialog_0">
+		<text>俺は最近、モノリス部隊に出遭った。なので、あんたに少し質問したいんだ。</text>
+	</string>
+	<string id="jup_a6_stalker_medik_b4_monolith_squad_dialog_1">
+		<text>なあ、モノリサーに出遭った他のすべての人間は、たいてい穴を開けられていて脈がなかった。あんたは反対に、ピンピンしている。何を尋ねたいんだ？</text>
+	</string>
+	<string id="jup_a6_stalker_medik_b4_monolith_squad_dialog_11">
+		<text>その部隊はそれとは異なる。俺は連中と話をした。彼らと戦う必要はなかったんだ。</text>
+	</string>
+	<string id="jup_a6_stalker_medik_b4_monolith_squad_dialog_111">
+		<text>そんなはずはない！？</text>
+	</string>
+	<string id="jup_a6_stalker_medik_b4_monolith_squad_dialog_1111">
+		<text>そうなんだ。彼らは、まるで目からベールを外したように自身のコントロールを回復したと俺に話した。彼らは単に、今、何を行うべきか知らないだけだ。彼らは俺にアドバイスを求めたんだ。</text>
+	</string>
+	<string id="jup_a6_stalker_medik_b4_monolith_squad_dialog_11111">
+		<text>では、俺のアドバイスは、連中はストーカーを避けているということだ。なぜなら、生きるためのあまりにもよい記憶力を得たからだ。俺はあんたが、連中が派閥に入るのを支援できると思う。しかし、デューティーまたはフリーダムがこれに関係しているかどうかは知らないぞ。</text>
+	</string>
+	<string id="jup_a6_stalker_medik_duty_founder_pda_0">
+		<text>俺はデューティーの創設者についての真実が入ったPDAを持っている。あんたは興味があるか？</text>
+	</string>
+	<string id="jup_a6_stalker_medik_duty_founder_pda_1">
+		<text>俺はお喋りをしないのを覚えておけ。あんたが情報を売りたければ、アウルに会え。彼はその種類の“糞”が好きだ。だが、さらに情報を与えるなら、ロキあるいはシュルガも興味を持つだろう。</text>
+	</string>
+	<string id="jup_a6_stalker_medik_jup_b217_pda_sell_0">
+		<text>俺はデューティーの将校代理のPDAを得た。あんたは興味がないか？</text>
+	</string>
+	<string id="jup_a6_stalker_medik_jup_b217_pda_sell_1">
+		<text>そのPDAがデューティーの問題に関係するように感じるが、俺はそれを必要としない。代わりに、アウルに話してみろ。</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_0">
+		<text>俺は治療が必要だ。</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_1">
+		<text>診てみよう…。</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_111">
+		<text>良くなったぞ。</text>
+	</string>
+	<string id="jup_a6_stalker_medik_pripyat_group_0">
+		<text>誰が俺とプリピャチへ行くことができる？</text>
+	</string>
+	<string id="jup_a6_stalker_medik_pripyat_group_1">
+		<text>ストーカーのヴァノと話せ。奴は矢のように真っ直ぐな性格で、すべての種類のトラブルに入り込む。</text>
+	</string>
+	<string id="jup_a6_stalker_medik_pripyat_group_2">
+		<text>この辺りには、クレイジーな人間はほとんどいない。なので、他の場所で捜すんだな。</text>
+	</string>
+	<string id="jup_a6_stalker_medik_start_dialog_0">
+		<text>あんたは医療品を探してるのか？あるいはここで雑談したいか？</text>
+	</string>
+	<string id="jup_a6_stalker_medik_tech_b202_about_stole_0">
+		<text>誰かが俺のボックスから物を盗んだ。あんたはそれが誰かわかるか？</text>
+	</string>
+	<string id="jup_a6_stalker_medik_tech_b202_about_stole_12">
+		<text>あんたはあのストーカーの名前を知っているか？</text>
+	</string>
+	<string id="jup_a6_stalker_medik_tech_b202_about_stole_121">
+		<text>奴はここでは新人だと聞いている…。名前は何だったか…。スノブ…、スナックかな？いや、いや。そんな名前だったが。ああ、スナグだ！奴の名前はスナグだ。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_11">
+		<text>どうした、兄弟？</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_111">
+		<text>やあ。あんたと話さなくてはならない重要な用件がある。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1111">
+		<text>いいぞ。では、重要な用件に真面目に対するために、まず一杯やろう！</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_11111">
+		<text>よし、飲もう！</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_11112">
+		<text>いや、今は飲む気にならない。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_12">
+		<text>では、あんたが話したい用件とはなんだ？</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_121">
+		<text>俺はジュピター・プラントの下の地下道経由で、プリピャチへ行くことを計画している。ニトロがその入口を開くことができる。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1211">
+		<text>ふむ…、プリピャチの地下を行くのか…、それはいい考えだ。では、もう一杯飲もう。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_12111">
+		<text>乾杯！</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_13">
+		<text>あー、それは良いことだ。あんたがこのミッションを単独でやろうとはしてないよな？…それは駄目だぞ。俺はあんたと行くぞ…。お互いが必要としてるしな。この種のものにいつも役立てる信頼できる男たちも、2、3人いるぞ…。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_131">
+		<text>ニトロは、チームと一緒に行くようにアドバイスしてくれたんだ。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1311">
+		<text>よし、それはいい考えだ…。このミッションの成功のために、もう一杯飲もう…。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_13111">
+		<text>乾杯！</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_132">
+		<text>俺はひとりでそれをできる…。つまり、ザトンでブラッドサッカーの巣をぶっ潰した…。ガスタンクを2、3個も、派手にやった。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1321">
+		<text>おお、それはすごい。ガスタンクを祝って乾杯しよう。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_13211">
+		<text>アーメン！</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_133">
+		<text>信頼できるって、ふーん？そう、この場所はクズでいっぱいだぞ…。俺はザトンのトレーダーに会ったが、奴はデューティーから来たとわかった…。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1331">
+		<text>おお、では、デューティーは内部から腐敗しているな…。世界はどうなるんだ？ああ、それについての心配は止めて、一杯飲もう。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_13311">
+		<text>あんたの知恵には負ける。乾杯しよう。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_14">
+		<text>うむ…、さあ、いいか？チームは良いアイデアだ。俺たちには少なくとも3人が必要だ…。誰か思い付くか？</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_141">
+		<text>何人かを見つけよう…。さらに、閉サイクル呼吸モジュール付きのスーツが必要だろうな…。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1411">
+		<text>そうだ、安全性がまず一番だ…。俺のスーツはすべてが良いので、それに関しては心配していない。だが他の連中のものも必要で、ちょっと手間だな。そのスーツはこの辺では一般的ではない。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_14111">
+		<text>乾杯！</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_142">
+		<text>あんたはノアと呼ばれるこの不思議な奴を知っているか？奴は、すべての種類の品物を積んだはしけ舟に閉じこもっている…。奴の挨拶のやり方は、ショットガンの両方のバレルであんたを撃つことだ。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1421">
+		<text>俺はしばらく奴に会ってない。奴とは前に一緒に仕事をした。良い戦士だったが、奴がそのように変になったことは残念だ。奴と奴のメンタル・ヘルスのために乾杯しよう！</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_14211">
+		<text>ノアに！</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_143">
+		<text>俺は前に何度かヤニフでヴァノに会った。奴はバンディットに借金を払えるようには見えなかった。…とにかく、俺は可哀想な男に援助した…。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1431">
+		<text>いいぞ、旅行は奴にはすごく楽しいはずだ。さらに、奴は荷物をすべて運ぶことができる。ヴァノのために！</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_14311">
+		<text>もう一度言ってくれ、兄弟！</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_144">
+		<text>科学者のトーチカには軍の男がいる…。奴は何もしていないので、同意するかもしれない…。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1441">
+		<text>そうだ。軍の男を使えるだろう。奴が加わるのを願って、乾杯しよう。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_14411">
+		<text>飲もう。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_145">
+		<text>あんたは信じないだろうが、俺は先日、モノリス部隊を助けたんだ…。何かにとりつかれていた連中の頭脳が緩み、どうしていいのかわからなかったんだ…。なので、俺が奴らを救い、今はヤニフにいる。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1451">
+		<text>ふむ…、ウオッカが直接あんたの頭に効いたのと同じだな、ハッ！まあいい、大げさなことだ！</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_14511">
+		<text>本当なんだ。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_15">
+		<text>よし、そうしよう。大事なことは我々が地下で道に迷わないように確かめることだ…。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_151">
+		<text>心配ない…。俺は概略図を持っている。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1511">
+		<text>すごいな。俺たちのミッションの成功のために、もう一杯飲もう。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_15111">
+		<text>俺もそのために飲むぞ！</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_152">
+		<text>ああ、リラックスしてくれ…。俺は先日オアシスを見つけた…。そこへは、誰もたどり着いたことがないんだ…。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1521">
+		<text>おお、あんたは本当の開拓者だ。俺たちはあんたと一緒に、すぐにプリピャチへの道を見つけるぞ。乾杯だ。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_15211">
+		<text>乾杯だ。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_21">
+		<text>やあ！</text>
+	</string>
+	<string id="jup_b15_zulus_go_to_pripyat_0">
+		<text>十分に人が揃ったと思う。出発できるぞ。</text>
+	</string>
+	<string id="jup_b15_zulus_go_to_pripyat_1">
+		<text>確かか？人がいないと困るぞ。</text>
+	</string>
+	<string id="jup_b15_zulus_go_to_pripyat_11">
+		<text>確かだ。行こう。</text>
+	</string>
+	<string id="jup_b15_zulus_go_to_pripyat_12">
+		<text>あんたの言うとおりだ。さらに何人かを見つけよう。</text>
+	</string>
+	<string id="jup_b15_zulus_go_to_pripyat_2">
+		<text>よし。皆、行くぞ！</text>
+	</string>
+	<string id="jup_b15_zulus_go_to_pripyat_21">
+		<text>行こう。</text>
+	</string>
+	<string id="jup_b15_zulus_go_to_pripyat_3">
+		<text>戦士らはいいが、あんた自身の安全は確かめたか？俺たちが行く前に、あんたは閉サイクル呼吸モジュール付きスーツが必要だ…。あんたの死体を引き摺っていくのはゴメンだ…。大砲と弾薬だけで十分に重い。</text>
+	</string>
+	<string id="jup_b15_zulus_go_to_pripyat_31">
+		<text>よし、わかった。</text>
+	</string>
+	<string id="jup_b15_zulus_go_to_pripyat_4">
+		<text>これが終わるまで待とう。光熱放射は健康に良くない！</text>
+	</string>
+	<string id="jup_b15_zulus_group_fighters_0">
+		<text>どこで俺たちのチームに加わる戦士らを見つけられる？</text>
+	</string>
+	<string id="jup_b15_zulus_group_fighters_1">
+		<text>ジュピターの周辺の住民に尋ねるんだな…。ザトンにいる奴は、まずプリピャチへは行かないだろう。俺たちは何も背負っていない人間が必要だ。基本的に、絶望的なミッションに参加する意思がなくてはならない。そのような奴に出遭った覚えはあるか？おそらく、あんたを頼るか、落ち着く場所のない奴だ…。</text>
+	</string>
+	<string id="jup_b15_zulus_group_fighters_2">
+		<text>今、十分な人を得た。別々に行動する必要はない…。小隊の戦術を用いることになる。</text>
+	</string>
+	<string id="jup_b15_zulus_group_monolith_about_0">
+		<text>ストライダーについてどう思う？</text>
+	</string>
+	<string id="jup_b15_zulus_group_monolith_about_1">
+		<text>モノリスの連中は普通、狂信的で猛烈な戦士だ…。しかし、元のメンバーについては確かでない。ストライダーは外見的には落ち付いて見えるが、外観は偽ることができるからな。</text>
+	</string>
+	<string id="jup_b15_zulus_group_monolith_start_11">
+		<text>おお！モノリスのアーマーだ。あんたはどこでそれを得たんだ？</text>
+	</string>
+	<string id="jup_b15_zulus_group_monolith_start_111">
+		<text>それはあるセットの一部だった。こいつはストライダー、元のモノリサーだ。</text>
+	</string>
+	<string id="jup_b15_zulus_group_monolith_start_1111">
+		<text>俺は“元”モノリサーがいることを知らなかった。いいぞ、本番が始まれば奴がどんなだかわかるだろう。</text>
+	</string>
+	<string id="jup_b15_zulus_group_soldier_about_0">
+		<text>ソコロフについて、あんたはどう思う？</text>
+	</string>
+	<string id="jup_b15_zulus_group_soldier_start_11">
+		<text>奴は面白いスーツを持ってる。科学的な、すべてが付いた物だ。俺はこの数年間、そのようなのを見てない。</text>
+	</string>
+	<string id="jup_b15_zulus_group_soldier_start_111">
+		<text>ソコロフは墜落した軍用ヘリの副操縦士だ。</text>
+	</string>
+	<string id="jup_b15_zulus_group_soldier_start_1111">
+		<text>そう、彼の行動を見れば、科学者ではないとわかる。良い兵士なら、いつも役に立つぞ。</text>
+	</string>
+	<string id="jup_b15_zulus_group_stalker_about_0">
+		<text>どのくらい長い間ヴァノを知ってるんだ？</text>
+	</string>
+	<string id="jup_b15_zulus_group_stalker_about_1">
+		<text>俺たちは数百回も会っている。奴は正直で楽観的で、また良いストーカーと言われる…。だが、奴はだまされやすく、それはゾーンでは致命傷となる。</text>
+	</string>
+	<string id="jup_b15_zulus_group_stalker_start_11">
+		<text>ヴァノは乗せ易いだろう？俺たちの荷物をすべて運んでもらうのにいい…。ハハッ、気にするな、冗談だ。</text>
+	</string>
+	<string id="jup_b15_zulus_tech_b202_about_stole_0">
+		<text>誰がパーソナルボックスから物を盗むことができたんだ？</text>
+	</string>
+	<string id="jup_b15_zulus_tech_b202_about_stole_1">
+		<text>あんたの品が盗まれたのか？それはひどい。何と言ったらいいのか。俺はこの周囲を疑って見ていなかった。何かを見つけ出したら、必ず知らせよう。俺たちは基地にネズミを必要としない。</text>
+	</string>
+	<string id="jup_b15_zulus_tech_b202_about_testimony_0">
+		<text>この辺りで最近、銃撃があったと聞いたが…。</text>
+	</string>
+	<string id="jup_b15_zulus_tech_b202_about_testimony_1">
+		<text>ああ、それは俺だ。何人かのアホが、タワーへ行こうとした…。連中は口論をして、叫んで喧嘩を始めた。俺はマシンガンを何度か撃ち、奴らは無人駅の方へ逃げていった。馬鹿共に対してやっただけだ、ハハッ。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_give_artefact_0">
+		<text>俺はオアシスのアーティファクトを渡すことに決めた。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_give_artefact_1">
+		<text>賢明な決定だ。それを俺に渡してくれ。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_give_artefact_11">
+		<text>受け取れ。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_give_artefact_111">
+		<text>素晴らしい、この奇跡はすぐに研究されなければ…。ああ、そうだ、あんたの行いに感謝する。これがその金だ。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_legend_0">
+		<text>何かの助けが必要か？</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_legend_1">
+		<text>ありがとう。我々には、すでに我々のために働くストーカー部隊がいる。…しかし、ある話がある。単なる伝説ではない…。オアシスのことを聞いたことがあるかな？</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_legend_1111">
+		<text>俺はオアシスを探してみよう。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_legend_1112">
+		<text>悪いが、今は自分の仕事で忙しい。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_legend_12">
+		<text>いや、それは聞いたことがない。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_legend_121">
+		<text>では、聞いてくれ。多くの人間がそのことを話すが、誰も今までそれを見ていないようだ。まるで、雲をつかむようだ。その中を歩けば、傷が治り、エネルギーが補充される。多くの噂が広まっており、次から次と誇張されている…。夢で見たような主張をする…。しかし、科学者としては、「あんたは、どのようにしてそれが本当のオアシスだったとわかるんだ？」と尋ねなければならない。もし、あんたがそれを探すことに合意するなら…、うむ、多く払うことは約束できないぞ。しかし、オアシスが存在すれば、その発見は我々の研究を大きく飛躍させるのを助けるだろう。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_0">
+		<text>俺はオアシスを見つけたぞ。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_1">
+		<text>本当か？！存在したのか？それを疑っていると思わないでほしいが、その証明として何かを持ってきたのか？</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_11">
+		<text>そうだ。俺はアーティファクトのような物を見つけた。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_111">
+		<text>それを渡してくれ、すぐにだ！</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_1111">
+		<text>受け取れ。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_11111">
+		<text>素晴らしい、この奇跡はすぐに研究されなければ…。そうだ、ああ、あんたの行いに感謝する。これがその金だ。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_1112">
+		<text>いや。それは俺のために役立つかもしれない。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_11121">
+		<text>あんたの考えはすごく利己的だ。言うまでもなく危険だ。このアーティファクトの正確な特性は未知だ。脚が麻痺することがわかったら、明日はどうする？あるいは、皮膚が緑になったら？そのような物は、科学者によって扱われるのが一番いいんだ。少なくとも我々は、それらから我々自身を保護するために努力する。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_111211">
+		<text>あんたの怖がらせる戦術は、俺には通用しない。俺はアーティファクトを手離さない。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_111212">
+		<text>よし、いいぞ。受け取れ。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_12">
+		<text>いや、断る。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_121">
+		<text>断るって？なら、研究に期待しないのか？科学者が他の者と異なるのは何だか、あんたは知っているのか？どんな理論も事実が裏付けるのだ！証明する必要があるんだ！</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_1211">
+		<text>よし、俺はそこに戻ろう。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_1212">
+		<text>俺はそこであまりに多くの時間を過ごした。今は戻ることができない。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_12121">
+		<text>もし受け取る金額に関心がないのなら、オアシスが開くだろう新たな医学のチャンスを考えてくれ！俺が間違っていなければ、オアシスは自然の中のアノマリーだ…。それはゾーンにおける方法なんだ。そうならば、治癒力を備えた初めてのアノマリーなのだ！</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_start_11">
+		<text>何をここに持ってきたんだ？</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_start_12">
+		<text>我々を守っていた傭兵たちを見なかったか？</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_start_13">
+		<text>変わった知的人に会うことは素晴らしい。何を手伝おうか？</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_start_14">
+		<text>信じることができるかな？我々を警護していた傭兵が、我々のトーチカのすぐ外で死んだんだ！</text>
+	</string>
+	<string id="jup_b16_nuclear_physicist_oasis_legend_0">
+		<text>ハーマン、あんたはオアシスについて何か知ってるか？</text>
+	</string>
+	<string id="jup_b16_nuclear_physicist_oasis_legend_1">
+		<text>オアシスだと？ハッ。それはまったくの、ただの嘘さ。人々は、万病に効く万能薬を信じることが好きだ。だから、こういったお伽噺を作るんだよ。俺の言うことを信じろ。オアシスは誰かが想像を膨らました妄想でしかない。</text>
+	</string>
+	<string id="jup_b16_nuclear_physicist_oasis_legend_11">
+		<text>多くの者がそれを話している。</text>
+	</string>
+	<string id="jup_b16_nuclear_physicist_oasis_legend_111">
+		<text>多すぎるくらいの者がいる。だが、彼らの誰も、今までそこに行ったことがない。俺は科学的な視点に固執する。存在が証明されないものは、それがないということだ。</text>
+	</string>
+	<string id="jup_b16_nuclear_physicist_oasis_legend_12">
+		<text>よし、わかった…。ありがとう。</text>
+	</string>
+	<string id="jup_b19_freedom_yar_base_agreed_0">
+		<text>よし、行こう。</text>
+	</string>
+	<string id="jup_b19_freedom_yar_base_agreed_1">
+		<text>いいぞ…。あんたが「ブラッドサッカー」と言い終わる前に、戻れるだろう。ハハッ！</text>
+	</string>
+	<string id="jup_b19_freedom_yar_base_agreed_11">
+		<text>では、すぐに会おう。</text>
+	</string>
+	<string id="jup_b19_freedom_yar_base_agreed_2">
+		<text>いいぞ。…だが、光熱放射が終わるのを待ち、それから行こう。</text>
+	</string>
+	<string id="jup_b19_freedom_yar_base_start_11">
+		<text>こんにちは、ストーカー。俺はアンクル・ヤールだ。あんたは疲れてるようだな…。ここにいるなら、ちょっと食べろ。あんたはちょうど良い時に現れた。…俺は助けがいる。この歳では、ひとりではできないことがあるんだ。若くなれたらなあ…。</text>
+	</string>
+	<string id="jup_b19_freedom_yar_base_start_12">
+		<text>なあ、散歩でもしないか？ちょっと老人を手伝ってくれないか？</text>
+	</string>
+	<string id="jup_b19_freedom_yar_base_start_13">
+		<text>調子はどうだい？日ごとに良くなってみえるが…。</text>
+	</string>
+	<string id="jup_b19_freedom_yar_base_where_to_0">
+		<text>仕事はなんだ？</text>
+	</string>
+	<string id="jup_b19_freedom_yar_base_where_to_1">
+		<text>簡単なことさ…。我々ふたりがコパチ村に行く。ここからそう遠くない。そこに着いたら、仕事が何かわかる…。</text>
+	</string>
+	<string id="jup_b19_freedom_yar_base_why_me_0">
+		<text>あんたのフリーダムの仲間たちが手伝わないのか？</text>
+	</string>
+	<string id="jup_b19_freedom_yar_base_why_me_1">
+		<text>俺はこの件で彼らに面倒をかけたくない…。我々ふたりでそれをできるので、問題はない。</text>
+	</string>
+	<string id="jup_b19_freedom_yar_come_with_me_0">
+		<text>俺と一緒にプリピャチへ行ってくれないか？</text>
+	</string>
+	<string id="jup_b19_freedom_yar_come_with_me_1">
+		<text>いいや…。もし俺が若かったらな…。よくシベリアに行き来したのを覚えているが、最近は旅は短めにしている…。歳をとったようだ…。</text>
+	</string>
+	<string id="jup_b19_freedom_yar_done_bye_0">
+		<text>元気でな。</text>
+	</string>
+	<string id="jup_b19_freedom_yar_done_bye_1">
+		<text>待て。あんたがヤニフに行くなら、一緒に行かないか？誰かと話せることは良いことだ…。</text>
+	</string>
+	<string id="jup_b19_freedom_yar_done_bye_11">
+		<text>ありがとう。ひとりで行きたい。</text>
+	</string>
+	<string id="jup_b19_freedom_yar_done_bye_12">
+		<text>さあ、ヤニフに行こう。</text>
+	</string>
+	<string id="jup_b19_freedom_yar_done_start_11">
+		<text>老人を手伝ってくれて感謝する…。これを取るんだ。もし質問があるなら、なんでも尋ねてくれ。できるだけ答える…。</text>
+	</string>
+	<string id="jup_b19_freedom_yar_done_why_me_0">
+		<text>なんでフリーダムのメンバーに手伝ってもらわないんだ？</text>
+	</string>
+	<string id="jup_b19_freedom_yar_done_why_me_1">
+		<text>傭兵がフリーダムに腹を立てている原因は何だ？我々は戦争をしたんだ。これは個人的なことで、奴らには関係ない。わかるか？</text>
+	</string>
+	<string id="jup_b19_freedom_yar_done_why_mercs_0">
+		<text>ここで、いったい何が起こったんだ？</text>
+	</string>
+	<string id="jup_b19_freedom_yar_done_why_mercs_1">
+		<text>何人かの若い奴が、俺を殺すためにここに来た…。そう、傭兵らが現われた時、俺が狙われていると考え森に隠れた。奴らのリーダーはPDAで、プリピャチの中央の研究所についての緊急命令を怒鳴っていた…。俺は愚かにも枝を踏みつけて、存在を気づかれてしまった。なので、ライフル銃を持ち、逃げた。俺は常に奴らが来るだろうと思っていたんだ。</text>
+	</string>
+	<string id="jup_b19_freedom_yar_prepare_start_11">
+		<text>大事なことは、何にも騒がないことだ。静かに俺に従ってくれ…。そおっと動けばうまく、簡単に行く。</text>
+	</string>
+	<string id="jup_b19_freedom_yar_prepare_start_111">
+		<text>よし。</text>
+	</string>
+	<string id="jup_b1_st_go_to_exit_0">
+		<text>我々はここから出る必要はない。後で話そう。</text>
+	</string>
+	<string id="jup_b1_st_go_to_exit_1">
+		<text>よし。</text>
+	</string>
+	<string id="jup_b1_stalker_1_come_with_me_0">
+		<text>俺はプリピャチへ一緒に行くチームを作っている。加わらないか？</text>
+	</string>
+	<string id="jup_b1_stalker_1_come_with_me_1">
+		<text>気持ちが揺れるが…、いや、止めておく。科学者たちは、ゾーンにいる滞在許可と良い支払を約束してくれた。悪いが、ここに留まる。</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_0">
+		<text>アノマリーの中で調査する準備ができているか？</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_1">
+		<text>あんたが我々を守ってくれる限り、常に準備ができている。どのアノマリーに出かけようか？</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_11">
+		<text>フェンに行こう。</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_12">
+		<text>コパチ村を通り、アシュヒープへ行こう。</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_13">
+		<text>待ってくれ。俺は今行くという考えを変えた。</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_2">
+		<text>我々はちゃんと準備ができている。だが、光熱放射が通過するのを待つべきだろう…。</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_21">
+		<text>よし。</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_2_0">
+		<text>調査をした。移動するぞ。</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_2_1">
+		<text>この辺りでうろうろしたくない。次はどこに行く？</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_2_11">
+		<text>フェンに行こう。</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_2_12">
+		<text>コパチ村を通り、アシュヒープへ行こう。</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_2_13">
+		<text>科学者のトーチカへ行く。</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_2_14">
+		<text>待ってくれ。考えさせてくれ。</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_3_0">
+		<text>トーチカに戻る準備はできたか？</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_3_1">
+		<text>ちゃんと準備はできているぞ…。</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_3_11">
+		<text>それでは行こう。</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_3_12">
+		<text>わかった。ちょっとだけ待ってくれ…。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_0">
+		<text>いくつか質問がある。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1">
+		<text>皆に尋ねるんだな、だが、俺のが一番良い答えだ。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1110">
+		<text>そうだろうな。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1111">
+		<text>俺は科学者のミッションについて尋ねたい。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_11111">
+		<text>ああ、トンネルだ…。何かがあそこにある。奇妙なアーティファクトのようなものだ。その場所は不思議すぎる。初めは本当に静かで、俺の頭の中に何かを感じるようだった。ハムスターが這っていたが、それは心配ない。それには簡単に対処できるだろう。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111111">
+		<text>あんたは以前にそこに行ったことがあるのか？</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1111111">
+		<text>ああ。我々はそれほど中に入らなかった。ハムスターが勢いよく現われた時、ハーマンのための調査をいくつかしていたんだ。我々が戻った時、科学者たちはその結果にすごく興奮した。彼らは端から端までトンネル全体を探索させたがったが、俺はそこには入らないぞ！今、彼らはあんたを雇った。我々はその警護を提供するためだけにいる。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111112">
+		<text>わかった。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_11112">
+		<text>そう、我々は以前に調査をしたことがある。なので、それをやろう。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111121">
+		<text>あんたはどこで調査をしたんだ？</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1111211">
+		<text>そう、調査とは小さな仕事のための難解な準備だ。我々は、そのトンネルの中で実際に一度だけ、プサイフィールドを調べた。装置をつけるとすぐに、ハムスターがすべての穴から氾濫し始めた。メースは、なんとか無事にそれをやっつけたんだ。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_11112111">
+		<text>あんたはそれが変だと思わないか？</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111121111">
+		<text>いや、何でだ？ゾーンはおせっかいな人々が好きではない。なので、それで正常だ。それはオゼルスキーが俺に言ったことなので、それを確認したらいい。あんたが望むなら奴に尋ねろ。奴は、我々とは違う何かを知っている。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_11112112">
+		<text>わかった。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111122">
+		<text>わかった。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1112">
+		<text>トーチカに住む人間たちのことを、何か話してくれないか？</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_11121">
+		<text>そう、それはあるグループだが、話そう…。2人の科学者、この辺りの第一人者のハーマン、それにオゼルスキー。技術的なことを扱うノビコフを雇っており、また、ゲーリーはガイドだ。そして我々は調査と他の科学的なことを行うために、最近募集された。…ああ、ゲーリーは先日、さらにどこかの軍隊気取り屋をトーチカへ連れて来た。だいたい、そんな風だ。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111211">
+		<text>ハーマンについて、もっと話してくれないか？</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1112111">
+		<text>ハーマンはこの辺りのボスで、研究所の教授だ、たぶん秘密の研究所だ…。彼は遠征隊を組織し、ブレイン・スコーチャーが非活性化されるとすぐに、このトーチカに入った。またゲーリーと我々を雇った。彼は良い給料と、さらにゾーンへ入る公式許可を約束したんだ。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_11121111">
+		<text>何か話をしよう。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111212">
+		<text>オゼルスキーについて、もっと話してくれないか？</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1112121">
+		<text>彼はこの辺りでは親しまれている男で、ここのナンバー2だ。しかし、ハーマンは、しばしば彼にアドバイスを求めている。俺は彼のことはあまり知らない。通常は、ハーマンが我々に指示してる。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111213">
+		<text>ノビコフについて話してくれないか？</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1112131">
+		<text>彼は、休暇中のアインシュタインのようだ。技術的なものの場合は正確に知っていて、あんたが会う誰よりも良く知ってるだろう。なんで彼がここに来たのかは知らないが、ゾーンに不慣れな人間ではないことはわかる。俺たちよりもゾーンを知っている。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111214">
+		<text>ゲーリーについて話してくれないか？</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1112141">
+		<text>ゲーリーは大した奴で、ここに現われた最初のひとりだった。彼がここに着いたと同時に、科学者たちが来たと言っていた。なので、タイミング良くそれに参加した。彼は最近は退屈しているんだが、科学者との契約が完了する前に去ることができないんだ。他に何かを知りたければ、彼に直接尋ねてくれ。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111215">
+		<text>軍の男について話してくれないか？</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1112151">
+		<text>ふむ。奴がゾンビから逃げていた時に、ゲーリーに出遭ったんだ。ゲーリーに会えなかったら、やられていただろう。幸運だった。奴はトーチカからあまり離れないが、俺はそれを非難しない。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111216">
+		<text>傭兵たちはここで何をしているんだ？</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1112161">
+		<text>殺人鬼らはトーチカの警護をしている。ちょっと前に現われてハーマンと話し、ここに留まった。俺は、ハーマンは奴らには満足していないと思う。…連中のリーダーはブラックと呼ばれ、しっかりした人物だ。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1116">
+		<text>このエリアについて何か話してくれないか？</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_11161">
+		<text>そう、古い軍事基地がここから遠くない場所にある…。その北はコパチ村、その東はストーカーがうろついている鉄道駅だ。そうだ、さらに近くの線路上に列車がある…。面白い場所ではないがな。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111611">
+		<text>古い軍事基地について話してくれないか？</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1116111">
+		<text>さて、言うべきことは多くない…。価値のあるものは、ずっと前にすべて略奪された。なので今は、ミュータントとゾンビ以外はほとんどいない。さらに小さな塹壕がそこにあるが、光熱放射を防ぐには十分だ。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111612">
+		<text>村について話してくれないか？</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1116121">
+		<text>そう、それはほとんど村ではない。少しの土塁があるだけで、それは放射能の放射を防ぐために86年に掘られた。身体に悪い場所なので、誰もそこに行かない。また、価値のある物は何もない。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111613">
+		<text>鉄道駅について話してくれないか？</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111614">
+		<text>列車について何か話してくれないか？</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_116131">
+		<text>そうだな…。あんたがまだ行ってなければ、ヤニフ駅を訪れる価値はある。冷たいものを飲み、他のストーカーに会うのにいい場所だ。さらにこの辺りでは、我々のトーチカの他で唯一の安全な場所だ。</text>
+	</string>
+	<string id="jup_b1_stalker_squad_thanks_0">
+		<text>俺は、あんたが新しい装備を誇示してるように思えるが？</text>
+	</string>
+	<string id="jup_b1_stalker_squad_thanks_1">
+		<text>そうだ。我々は今、イスクラ科学研究調査チームとして公式に知られている！我々は科学者であり、君たちのことを考えてないとは思わないでくれ、ハハハ！“同僚たち”と俺は、大きく深いこの問題について議論した。その成果は…、君らがそれを得られることだ！君がアノマリーの中に入ったり、光熱放射に打たれることはないだろう。我々に感謝状を送ってくれ。我々はそのメッセージを受け取ると信じてる！</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_11">
+		<text>やあ。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_12">
+		<text>よう。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_13">
+		<text>あんたは行く準備ができているか？あるいは、少し待とうか？</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_14">
+		<text>俺は能無しのゾンビとなって、トンネルの中で腐敗するのかと思った！どのようにしたら、俺を救った人を手伝えるだろう？</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_15">
+		<text>疲れてないか？</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_16">
+		<text>やあ、兄弟。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_17">
+		<text>俺たちはあんたに借りができた。それを忘れない。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_18">
+		<text>俺たちは、ここでやられるような気がする。この場所から逃げる時だ…。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_ab_tu_2_0">
+		<text>で、トンネルの話はどんなだ？</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_ab_tu_2_1">
+		<text>そこには少しの埃もない。ハーマンは、それがテスラのためだと言ってる。しかし、俺はそれを信じ難いと思っている。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_ab_tu_2_2">
+		<text>ボスに尋ねてくれ。俺はあんたに何を言えるのか、何を黙っていなくてはいけないのか、わからない。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_ab_tu_3_0">
+		<text>フィールドを調査している間に、あんたが何を見つけたのか、教えてくれ。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_ab_tu_3_1">
+		<text>地面に足跡を見た。それらは人間のもののようだった。しかし、その場所を素足で歩く奴を、正気とは思えない。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_ab_tu_3_2">
+		<text>気分が曖昧になり、見るものはすべて不思議な形をしていて驚く。それが怪奇フィールドだ。俺の言う意味がわかるか？</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_ab_tu_4_0">
+		<text>では、地下で何を見つけたんだ？</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_ab_tu_4_1">
+		<text>ほとんど何もない。2、3匹の死んだハムスターだけだ。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_ab_tu_4_2">
+		<text>ふむ…、ゾーンのどこでも、見つけることができないものはない。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_1_0">
+		<text>大丈夫か？</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_1_1">
+		<text>大丈夫だ、あんたのおかげだ！お礼の印として、あんたに座標を1セットあげよう。そこで見つけるものは、あんたのものだ。多くはないが、心からのものだ…。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_2_0">
+		<text>気分はどうだ？</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_2_1">
+		<text>感謝する、あんたのおかげだ！お礼の言葉もない。我々の隠し場所の座標をもらってくれ。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_3_0">
+		<text>生きているか？</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_3_1">
+		<text>ありがとう、この恩を忘れない。さあ、我々の隠し場所の座標をもらってくれ。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_4_0">
+		<text>頭ははっきりしているか？</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_4_1">
+		<text>ああ、俺は奴を見たぞ…。それを一生覚えているだろう。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_go_home_0">
+		<text>では、トーチカに戻るか？</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_go_home_1">
+		<text>よおし！</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_go_home_11">
+		<text>では行こう。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_go_home_12">
+		<text>あんたは行ってくれ。そこで会おう。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_go_to_0">
+		<text>あんたのチームはトンネルに行く準備はできているか？</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_go_to_1">
+		<text>いつでも言ってくれ。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_go_to_11">
+		<text>行こう。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_go_to_12">
+		<text>少し待ってくれ。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_go_to_13">
+		<text>俺はひとりで行く。あっちで会おう。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_go_to_14">
+		<text>俺はひとりで行く。あっちで会おう。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_go_to_141">
+		<text>いや、俺たちはあんたを信用しないが、時は金なりだ。あんたは俺たちと行くのか、それとも俺たちがここに留まるのか？</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_go_to_1411">
+		<text>だとしたら、今、一緒に行こう。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_go_to_1412">
+		<text>だとしたら、あんたは待たなくてはならないだろう。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_go_to_2">
+		<text>まさか…。光熱放射中に危険なことはない。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_start_miss_0">
+		<text>我々は着いたぞ。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_start_miss_1">
+		<text>では、…始めるか？</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_start_miss_11">
+		<text>よし、もちろんだ。</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_start_miss_12">
+		<text>行き先を確かめる時間をくれ。</text>
+	</string>
+	<string id="jup_b202_bandit_meet_actor_11">
+		<text>何がほしいんだ？</text>
+	</string>
+	<string id="jup_b202_bandit_meet_actor_111">
+		<text>俺はただの通りすがりだ。</text>
+	</string>
+	<string id="jup_b202_bandit_meet_actor_1111">
+		<text>では、歩き続けるんだ。</text>
+	</string>
+	<string id="jup_b202_bandit_meet_actor_11111">
+		<text>よし。</text>
+	</string>
+	<string id="jup_b202_bandit_meet_actor_11112">
+		<text>気楽にな。</text>
+	</string>
+	<string id="jup_b202_bandit_meet_actor_112">
+		<text>あんたの知ったことではない。</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_11">
+		<text>おお…。やあ…。</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_111">
+		<text>ニンブルは俺に、あんたは嘘つきだと言った。あんたは多くのストーカーをだましたんだと思う…。</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_1111">
+		<text>何の話をしてるんだ？俺は人生でそのようなことはしたことはない！ニンブルの頭をかち割ってやる！</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_112">
+		<text>あんたはバンディットに俺のことを何と言ったんだ？なんで奴らは、ドックのクレーンのそばで俺を待っていたんだ？</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_1121">
+		<text>あんたは俺を、誰か他人と間違ったに違いない。俺はバンディットと関わりはない！</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_113">
+		<text>ニンブルがあんたのことを話した…。あんたがその銃を俺に渡してくれたら、どちらも問題がなくなる。</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_1131">
+		<text>奴はあんたに何を言ったんだ？俺は、俺の物しか持っていないぞ。</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_11312">
+		<text>あっちへ行くんだ…。</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_21">
+		<text>助けてくれ。回復キットが要る！</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_211">
+		<text>先に俺の物をどこに隠したか言うんだ！</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_2111">
+		<text>すまない。俺は本当に金が必要だったんだ…。あんたにすべてを話すので、助けてくれ！俺がやったんだ。俺が直接行った！</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_21111">
+		<text>よし、これだ。</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_211111">
+		<text>感謝する！俺は無人駅の後ろの下水道の中の隠し場所に、俺の物を隠した。</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_2111111">
+		<text>わかった。</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_21112">
+		<text>あんたを信じない。回復キットは渡せない。</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_212">
+		<text>これを受け取れ。</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_213">
+		<text>それは渡せない。</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_31">
+		<text>感謝する。俺を助けてくれるとは思わなかった…。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_about_sci_guards_0">
+		<text>科学者たちを警護するために、誰を雇うことができる？</text>
+	</string>
+	<string id="jup_b217_stalker_tech_about_sci_guards_1">
+		<text>もちろん、デューティーだ。誰かって？奴らはゾーンで最良の戦士だ！激しい攻撃をする警備兵だ、どう思う？</text>
+	</string>
+	<string id="jup_b217_stalker_tech_about_sci_guards_2">
+		<text>奴らは今はフリーダムを雇っているのか？その場合は、俺にはまったくわからない。俺はデューティーを勧めたが、互いにうまくいかなかった。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_about_sci_helpers_0">
+		<text>科学者のために調査をするのに、誰を雇えるか？</text>
+	</string>
+	<string id="jup_b217_stalker_tech_about_sci_helpers_1">
+		<text>シュルガと話すんだな。そこの奴ら全員がロケット科学者だとは限らないが、奴が雇用している中にそれに明るい奴がいる。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_about_sci_helpers_2">
+		<text>奴らは、まだ警護のためにフリーダムに金を払っているのか？そうならば、逆にデューティーを雇うのを勧める…。それがあんたにできる俺のアドバイスのすべてだ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_about_underpass_0">
+		<text>俺たちが地下道に入った時、エレベータが動かなくなった…。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_about_underpass_1">
+		<text>ハッ、あんたはひとつしかジェネレーターを使えずに下りた…。それはバックアップのものだったんだ。俺はなんとか動かしたが、すぐに壊れた。あんたは、途中で止まらなかったことを感謝するべきだな…。そのエレベータには非常口がないんだ！</text>
+	</string>
+	<string id="jup_b217_stalker_tech_b202_about_stole_0">
+		<text>誰がパーソナルボックスから物を盗むことができたんだ？</text>
+	</string>
+	<string id="jup_b217_stalker_tech_b202_about_stole_1">
+		<text>くそっ！俺は本当に知らない。あんたに言えることは、もしシュルガがヤニフで実行していなければ、それは起こらなかっただろうということだ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_b33_open_package_dialog_0">
+		<text>あんたはスチール・コンテナを壊すことができるか？</text>
+	</string>
+	<string id="jup_b217_stalker_tech_b33_open_package_dialog_1">
+		<text>金属は俺の分野ではない。エレクトロニクスについて何かあれば、俺に声をかけてくれ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_b4_monolith_squad_dialog_0">
+		<text>平和的なモノリサーのグループが保護を求めている。誰が彼らを助けられる？</text>
+	</string>
+	<string id="jup_b217_stalker_tech_b4_monolith_squad_dialog_1">
+		<text>本当か？俺は奴らは野獣だと聞いている…。さて、ストーカーたちが奴らを生かしてはおかないのは確かだ…。シュルガと話をするべきだ。中佐が奴らをデューティーに加えれば、奴らは安全だろう。やるべきことも見つけられる。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_0">
+		<text>ブラックボックスを解読できるか？</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_1">
+		<text>見てみよう…。ちょっと厄介だな。3時間くらいかかるし、安くないぞ。俺がそれをやってから、話をしよう…。それをやっている間、散歩をしていてくれ。それに集中したい…。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_2">
+		<text>見てみよう…。ちょっと厄介だな。3時間くらいかかるし、安くないぞ。俺がそれをやってから、話をしよう…。その間に機械部品を探していたらどうだ？現金を得られるぞ。また、それを仕事の代金より引いて請求しよう。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_11">
+		<text>何だ？俺はまだ作業中だ。くそっ、このボックスはまるで悪夢のようだ…。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_12">
+		<text>ブラックボックスを終えたぞ…。俺が今までにやった中でも、面倒な仕事だった…。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_121">
+		<text>あんたにいくら払おう？</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_1210">
+		<text>ちょうど3,000だ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_12101">
+		<text>受け取ってくれ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_12102">
+		<text>俺はそんなに持ってない。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_121021">
+		<text>では、機械部品を探して持ってくれば安くしてやろう。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_121022">
+		<text>うむ、また来てくれ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_12103">
+		<text>俺には高すぎる…。ちょっと考えたい。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_1211">
+		<text>ディスカウントしよう。たったの2,850だ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_1212">
+		<text>ディスカウントしよう。たったの 2,700だ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_1213">
+		<text>ディスカウントしよう。たったの2,550だ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_1214">
+		<text>ディスカウントしよう。たったの2,400だ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_1215">
+		<text>ディスカウントしよう。たったの2,250だ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_1216">
+		<text>ディスカウントしよう。たったの2,100だ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_1217">
+		<text>ディスカウントしよう。たったの1,950だ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_1218">
+		<text>ディスカウントしよう。たったの1,800だ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_1219">
+		<text>ディスカウントのベスト・プライスだ。たったの1,650だ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_13">
+		<text>へっ、どうしてあんたが記録が必要なのかは、俺は知らない。だが、あんたが頑張ったことについては、俺は確かにそれが役に立つだろうと期待している。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_131">
+		<text>また会おう。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_14">
+		<text>俺はまだブラックボックスに取り組んでいる…。あんたも動いて、機械部品を探して俺に持ってきたらどうだ？</text>
+	</string>
+	<string id="jup_b217_stalker_tech_drunk_1">
+		<text>センカか？前に俺がザトンでやっていた時、彼は俺に付いた。そして、彼はそれ以来、俺と一緒だ…。彼は広い経験を持つ酔っぱらいの専門家だ…、ハハッ！俺は、あちこちの用件に彼を使っている…。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_duty_founder_pda_0">
+		<text>デューティーの創設者に関する情報に興味がある奴はいないか？</text>
+	</string>
+	<string id="jup_b217_stalker_tech_duty_founder_pda_1">
+		<text>もちろんシュルガだ…。デューティーはその始まりを思い出す。奴らは言う…、もしあんたが歴史を勉強しなければ、それは繰り返すだろう、とな…。フリーダムに渡せば、この情報を捻じ曲げるだろう。悪意ではなく、単に貧弱な記憶力のためにだがな…。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_0">
+		<text>あんたにツールを持ってきた。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_1">
+		<text>すごい…。で、何を俺に？</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_11">
+		<text>基本作業用のものだ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_111">
+		<text>素晴らしい！今、俺は上級作業用と測定作業用のツールが必要だ…。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_12">
+		<text>上級作業用のものだ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_121">
+		<text>素晴らしい！今、俺は基本作業用と測定作業用のツールが必要だ…。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_13">
+		<text>測定作業用のものだ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_131">
+		<text>素晴らしい！今、俺は基本作業用と上級作業用のツールが必要だ…。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_14">
+		<text>今は何もない。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_141">
+		<text>いいぞ！測定作業用ツールで、全部セットが揃った。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_151">
+		<text>いいぞ！上級作業用ツールで、全部セットが揃った。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_161">
+		<text>いいぞ！基本作業用ツールで、全部セットが揃った。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_171">
+		<text>おお、あんたはそれらをどこで見つけたんだ？</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_work_0">
+		<text>あんたが何かツールが必要なら、俺がそれらを探そう。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_work_1">
+		<text>そりゃ最高だな。今は、それは石器時代で働くことに似ている。ただひとつの違いは、シャーマンの杖がはんだごてに代わったということだ…。もし俺がツールを持っていれば、いくつかのトップ・アップグレードができるだろう。そしてあんたのためにも、金になると信じてくれ…。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_work_11">
+		<text>よし、俺がそれらを探そう。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_work_12">
+		<text>俺は考えを変えた。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_work_3">
+		<text>いいアイデアだ。俺はアップグレードができ、あんたは金を得られる…。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_jup_b207_pda_sell_0">
+		<text>俺はデューティーのトレーダーのPDAを持っている。それに興味を持つような奴を知らないか？</text>
+	</string>
+	<string id="jup_b217_stalker_tech_jup_b207_pda_sell_1">
+		<text>デューティーのトレーダーだって？からかわないでくれ…。シュルガにPDAを渡せば、奴がそれを処理するだろう。フリーダムに言わないで、俺のところに来たのか？連中は、すべての派閥の評判を壊すために、最悪のことを行うだろう…。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_main_info_0">
+		<text>俺はいくつかの書類を見つけた。それらには、プリピャチに行く道についての記述がある。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_main_info_1">
+		<text>見てみよう…。うん、うん、うん…。そう、要約すると、プリピャチの町の下を走るプリピャチ第一地下道が設計されており、ジュピター・プラントの輸送セクションにつながるセクションがある。見事だ！記録でそれを判断すると、そこは密閉され、ガスで満たされて電力もカットされた。俺はジェネレーターを復活させれば、ロックを開けられると推測する。ただ…。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_main_info_3">
+		<text>ただ…、俺なら防護もなくジュピターを通り抜けない。また、あんたがひとりで地下に行くことは考えないように忠告する。少なくとも2、3人の仲間が必要だろう。全員に閉サイクル呼吸モジュール付きスーツも要る。でないと、きっと1分もそこにいられない…。いいか、ズールーがここから遠くないタワーに住んでいる。奴と話すんだ。親しくなれば、奴はチームを組む方法をあんたに教えるだろう。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_about_0">
+		<text>材料について話してくれ…。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_about_1">
+		<text>そう。無線装置を働かせるために使用する材料を見つけることだが、この辺りにはない。俺は見つけたものをすべて使ってしまった。ここでは誰もどんな材料も供給していないのは、銃を売ってより多くの現金を作れるからだ…。しかし、セメント工場に何か置いてあるかもしれないと聞いた…。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_transfer_all_0">
+		<text>俺は材料を見つけた。さあ、受け取れ。俺はセメント工場を上から下まで探索したんだ！</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_transfer_all_1">
+		<text>おお、兄弟。嬉しい！ここを覚えておく。俺が好むストーカーのための、すべての修理とアップグレードをする自由な労働者を！</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_transfer_some_0">
+		<text>あんたが望んだ材料のいくつかを、やっと見つけた。さあ、受け取れ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_transfer_some_1">
+		<text>おお！あんたのために大幅値下げだ！友人のために！</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_volunteer_0">
+		<text>俺はあんたのために材料を手に入れられる。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_volunteer_1">
+		<text>それはすごい！コロホニウムやコンデンサーのようなものを何でも見つけたら、俺に持ってきてくれ…。テクストライトでも感謝する。あんたに多くの現金は約束できないが、いくらか得られるのは確かだ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_what_for_0">
+		<text>何のために材料がいるんだ？</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_what_for_1">
+		<text>俺は銃や装置の仕事をしている…。つまり、人は食べるために仕事をしなくてはならない…。しかし俺の興味は無線装置のことにある。あんたは何かを組み立てて、それが作動する、その感動を知っているか？俺は以前に、妨害電波発信機を作ったことを思い出す…。それは本当に便利だった。100Radごとに興奮し続けたんだ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_where_from_0">
+		<text>どうしてセメント工場に無線の材料があるんだ？</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_where_from_1">
+		<text>セメント工場というのは名前だけだ…。チョルノービリ災害のかなり以前にセメントを作ることを止めた。彼らは分解やエレクトロニクス器具を作るために、建物を使用し始めた。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_minor_info_0">
+		<text>ジュピターでいくつかの書類を見つけた。見てくれないか？</text>
+	</string>
+	<string id="jup_b217_stalker_tech_minor_info_1">
+		<text>そう、ここには興味のあるものはない…。単に管理用のつまらないものだけだ…。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_minor_info_2">
+		<text>うむ…、ある程度の興味あるものがあるが、はっきりとしない。我々は完全な情報を必要とする。書類の中に書かれた場所を調べてくれ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_start_11">
+		<text>俺は本当に材料が必要なんだぞ。これをどうやって動かすんだ？おお、どうするんだ？</text>
+	</string>
+	<string id="jup_b217_stalker_tech_start_12">
+		<text>よお！あんたは何か技術的なものが必要なのか？見たとおり、俺は材料を持っていない。それでも、俺はあんたのキットを修理し、少しのアップグレードはできるぞ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_start_13">
+		<text>おお、聞いてくれ。俺は考えていたんだよ…。俺が必要とする材料が、すべてセメント工場でただ埃をかぶっているのがわかった。それを考えると興奮する…。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_start_14">
+		<text>やあ！何かを壊したのか、それともアップグレードのために金を使ったのかな？いつでもあんたにはディスカウントすることを覚えておいてくれ！</text>
+	</string>
+	<string id="jup_b217_stalker_tech_start_15">
+		<text>やあ、兄弟！何か助けようか？あんたには最良の価格にできるのを思い出してくれ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_ufo_memory_repair_0">
+		<text>あんたはメモリー・モジュールの障害を取り除くことができるか？</text>
+	</string>
+	<string id="jup_b217_stalker_tech_ufo_memory_repair_1">
+		<text>できると思う。やったことはないがな…。少なくとも3時間が必要だろう。しかし、喜んでやってみよう。心から引き受けるが、値段はちょうど1,000だ。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_ufo_memory_repair_11">
+		<text>待とう。よければ呼んでくれ！</text>
+	</string>
+	<string id="jup_b217_stalker_tech_ufo_memory_repair_111">
+		<text>よおし！仕事はやるが、時間がかかる…。終わったら、あんたに知らせる。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_ufo_memory_repair_12">
+		<text>俺はそんなには持っていない。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_ufo_memory_repair_121">
+		<text>よし、まだ仕事をするのを望んでいたら、戻ってこい。安くはならないがな。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_ufo_memory_repair_13">
+		<text>ちょっと考えてみる。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_ufo_memory_repair_2">
+		<text>あんたに、3時間くらいでそれをできるだろうと言った。1,000は大きな金額だが、もし俺があんたならば、それをする。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_ufo_memory_repaired_0">
+		<text>では、メモリー・モジュールの障害を取り除いたのか？</text>
+	</string>
+	<string id="jup_b217_stalker_tech_ufo_memory_repaired_1">
+		<text>いや、まだ作業をしている…。心配するな。準備ができたら知らせる。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_ufo_memory_repaired_2">
+		<text>ふむ？モジュールを得てないのか？あんたはセンカを逃したに違いない。俺は彼に、あんたがモジュールを運ぶ道を送ってある…。まあ、気にするな。基本的に、レイヤーの厚さと植物密度以外に、それにはさらに3つの無線ビーコンの座標を含んでいる。俺はあんたのPDAにそれらをアップロードしよう…。</text>
+	</string>
+	<string id="jup_b220_trapper_about_chimera_0">
+		<text>あんたはキメラを追跡しようとしたのか？</text>
+	</string>
+	<string id="jup_b220_trapper_about_chimera_1">
+		<text>傷ついた1匹はザトンに行った。ゴンタのグループがそれを追っている…。だが、彼らは経験を積んだハンターを欠いていると聞いた。あんたが彼らを支援してくれれば、それなりの礼をする…。フォックスを殺した別のものは…、うむ、見失った。あたかもぱっと消えたかのようだった…。可哀想なフォックス…、善い奴だったが、命を失った…。</text>
+	</string>
+	<string id="jup_b220_trapper_about_chimera_2">
+		<text>さて、あんたは傷ついた1匹はやった。フォックスを殺した別のものは…、うむ、見失った。あたかもぱっと消えたかのようだった。可哀想なフォックス…、善い奴だったが、命を失った…。</text>
+	</string>
+	<string id="jup_b220_trapper_about_himself_0">
+		<text>あんたは何をしているんだ？</text>
+	</string>
+	<string id="jup_b220_trapper_about_himself_1">
+		<text>俺はトラッパーだ。そして最近まで、ストーカーにとって危険だったミュータントを狩りしていた…。最近は注文を受けて、若いハンターに依頼してる。俺は彼らを訓練し、ハンティング戦術を教えているんだ…。</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_0">
+		<text>ミュータント・ハンティングについて話してくれないか？</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_1">
+		<text>そう、ミュータントにはそれぞれ異なった接近が必要だ…。ブーラーとポルターガイスト、ミュータントジャイアントとコントローラーは異なる…。そして、キメラは特別のやり方がある。</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_1111">
+		<text>ブーラーについて話してくれないか？</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_11111">
+		<text>ブーラーは重力攻撃を使う…。すぐ近くではあんたを投げようとし、遠くに離れると何かを投げつけようとする…。最良の策は中距離を維持して動き続け、重い物で打たれないようにすれば大丈夫だ。しかし、自分のエネルギーを蓄えるように注意するんだぞ。ブーラーは、あんたの手から武器を引っぱり取る重力衝撃を使用できる。また、あんたが疲れるのを見計らって、それを作動させる。</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_1112">
+		<text>ポルターガイストについて話してくれないか？</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_11121">
+		<text>2つのタイプのポルターガイストがいる。最初のタイプは、重力を使用して敵に物をぶつける。第2のタイプは、敵を焼くために炎を使用する炎ポルターガイストだ。無経験のハンターは、彼らの攻撃を回避するために丸く回り込もうとする…。知っておくべき策略は、ポルターガイストは通常の感覚での言葉を聴いたり見たりはできないことで、それを有利に使うんだ。奴らは、重力場の中で移動する物体を感じているのだ。したがって、ポルターガイストに出遭ったら、経験を積んだハンターはすぐに動かないようにする。撃ったらまた動かない、を繰り返すんだ。</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_1114">
+		<text>コントローラーについて話してくれないか？</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_11141">
+		<text>連中は、あんたの脳に作用してくる。コントローラーを探す場合には、それがあんたの心に影響するので、防具を使うことが重要だ・・・。また、その動きは遅いので、命が危うくなりそうになれば、グレネードを使用するんだ。</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_1115">
+		<text>キメラについて話してくれないか？</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_11151">
+		<text>非常に危険な夜行性の捕食動物だ。闇の中であんたの後ろに回り、上から飛び掛かる。キメラがいると思われる場合は、後ろをチェックし続け、仲間に援護してもらうんだ…。</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_1116">
+		<text>ミュータントジャイアントについて話してくれないか？</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_11161">
+		<text>ミュータントジャイアント狩りで、最も困難なことは奴らを殺すことだ。奴らは一瞬のうちに、信じられない損傷を与えられる。俺が言うことができるのは、近距離でショットガンを使用するということだ。ミュータントジャイアントの攻撃は、コンクリートに固定されていないものすべてを分離できる。上から攻撃し…、そして、自分が立っている場所が損傷に耐えることができることを確かめておくのだ。</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_1117">
+		<text>よし、それはもういい。</text>
+	</string>
+	<string id="jup_b220_trapper_about_retire_0">
+		<text>どうしてもっと狩りをしないんだ？</text>
+	</string>
+	<string id="jup_b220_trapper_about_retire_1">
+		<text>俺は老けこんできた。その理由はフォックスが死んだからだ…。彼は俺のパートナーで友人だった。俺たちは肩を並べて多くの動物を探した…。ある時、ゾーンで18ヶ月も見られていなかった2匹のキメラに、ザトンのそばで出くわした。俺がショットガンを撃つ前に、1匹がフォックスを地面に倒した。俺が別の1匹に傷を負わすと、奴らは逃げた…。俺は奴らを地獄の中で永久に焼いてやりたい！</text>
+	</string>
+	<string id="jup_b220_trapper_about_stolen_items_0">
+		<text>誰がパーソナルボックスから物を盗むことができたんだ？</text>
+	</string>
+	<string id="jup_b220_trapper_about_stolen_items_1">
+		<text>うーん、知らないな…。その種のことは猟師の間ではまったく起らない。多くの者と会えば、彼らがブラッドサッカーに近づいて戦う時には、彼らが弾薬を温存するのを知るだろう。</text>
+	</string>
+	<string id="jup_b220_trapper_bloodsucker_lair_hunted_1">
+		<text>絶望的な時間には絶望的な手段が必要だな…。ブラッドサッカーの何を知っているかを自分で知って、何人かはハンティングに出ているが…。しかし、これで奴らには戻るための場所がない。もうストーカーたちにとっての危険にならない。</text>
+	</string>
+	<string id="jup_b220_trapper_burers_hunt_0">
+		<text>何か俺に、他の仕事はないか？</text>
+	</string>
+	<string id="jup_b220_trapper_burers_hunt_1">
+		<text>あるぞ。ストーカー部隊は先日、プラントの北にあるトンネルに入り、ミュータントの巣に潜った。彼らは全員すごくショックを受けており、どんな種類のミュータントだったか、誰も説明できない。そして、ストーカーのうちの2人は死んでしまった。その後、ヤニフの人々はすべてのことに怖れて、その巣をやっつける者に賞金5,000を出すことにした。それは危険な仕事なので、あんたが自分で決めてくれ。どうするかな？</text>
+	</string>
+	<string id="jup_b220_trapper_burers_hunt_11">
+		<text>それをやろう。</text>
+	</string>
+	<string id="jup_b220_trapper_burers_hunt_111">
+		<text>あんたは勇敢な男だ…。幸運を。</text>
+	</string>
+	<string id="jup_b220_trapper_burers_hunt_12">
+		<text>いや、今はやらない。</text>
+	</string>
+	<string id="jup_b220_trapper_burers_hunt_121">
+		<text>あんたを非難はしない。ミュータントの全部の巣を引き受けられる肝の据わった者がいるかは疑問だ。</text>
+	</string>
+	<string id="jup_b220_trapper_burers_hunt_2">
+		<text>この前と同じだ。ジュピター・プラントの北にあるトンネルの中の未確認ミュータント。賞金5,000だ。…で、あんたはやるかな？</text>
+	</string>
+	<string id="jup_b220_trapper_burers_hunt_3">
+		<text>ストーカーたちは今、トンネル中のミュータントに困っている…。</text>
+	</string>
+	<string id="jup_b220_trapper_burers_hunted_0">
+		<text>トンネル中のミュータントは変異したドワーフだった。今、奴らは死体に変異したドワーフだ。</text>
+	</string>
+	<string id="jup_b220_trapper_burers_hunted_1">
+		<text>俺は、それらがブーラーだったに違いないと想像している。それで、なぜヤニフの人々がすべてのことに興奮したかが説明できる…。さて、奴らは死んだようだ。賞金はあんたのものだ！</text>
+	</string>
+	<string id="jup_b220_trapper_burers_hunted_2">
+		<text>俺は、それらがブーラーだったに違いないと想像している…。最近、2人のストーカーを殺したものだ。それで、なぜヤニフの人々がそれに賞金を賭けたかが説明できる。さて、奴らは死んだようだ。賞金はあんたのものだ！</text>
+	</string>
+	<string id="jup_b220_trapper_jupiter_chimera_hunt_0">
+		<text>キメラを倒す準備ができている。</text>
+	</string>
+	<string id="jup_b220_trapper_jupiter_chimera_hunt_1">
+		<text>いいぞ。ちょうど暗くなった時に、猟師がそれを見た。それは換気複合施設の方に向かっていた。キメラは夜行性で縄張りを持つ。おそらく、その猟場へ行ったんだ…。それが来た夕方に捜すべきと思う。夜の闇の中では、より活発だ…。注意してうまく狩りをするんだ。</text>
+	</string>
+	<string id="jup_b220_trapper_jupiter_chimera_hunted_0">
+		<text>キメラは死んだ。</text>
+	</string>
+	<string id="jup_b220_trapper_jupiter_chimera_hunted_1">
+		<text>ありがとう…、ありがとう！フォックスの復讐をしてくれた。彼は今、安らかに休むことができる。これがあんたの金だ、受け取ってくれ。他にもあるぞ。俺のショットガンだ。俺にもっと重要なものを持ってきてくれた…、平和をな…。</text>
+	</string>
+	<string id="jup_b220_trapper_start_11">
+		<text>俺はトラッパーだ…。あんたの自己紹介はいらない。</text>
+	</string>
+	<string id="jup_b220_trapper_start_12">
+		<text>何をここに持ってきたんだ？</text>
+	</string>
+	<string id="jup_b220_trapper_start_13">
+		<text>来てくれて感謝する…。俺は信頼できる経験を積んだハンターを必要としている。そして、あんたはヤニフにいる最高の者だ。とにかく、俺はキメラを再び逃がすことはできない…。俺の貯金のすべてを出す、10,000だ。仕事がちゃんと行われたかを確かめるぞ…。フォックスの復讐をしなくては！</text>
+	</string>
+	<string id="jup_b220_trapper_start_14">
+		<text>俺はあんたがキメラを倒すように頼む。このミュータント殺人鬼をヤニフから除去したくないと思っても、金のためにやってくれ…。10,000は十分の金だぞ。</text>
+	</string>
+	<string id="jup_b220_trapper_start_15">
+		<text>キメラの状況はどんなだ？…時間が重要で、新しい猟場へ移動されてしまう。</text>
+	</string>
+	<string id="jup_b220_trapper_start_16">
+		<text>あんたに会えて嬉しい！何か新しいことがあるか？</text>
+	</string>
+	<string id="jup_b220_trapper_swamp_bloodsuckers_hunt_0">
+		<text>何か俺に、他の仕事はないか？</text>
+	</string>
+	<string id="jup_b220_trapper_swamp_bloodsuckers_hunt_1">
+		<text>もちろん、あるぞ。ブラッドサッカーのグループがセメント工場の後ろ、フェンで目撃された。今も沼地にいるようだ…。地元のストーカーたちは、そいつらがそこに居続けるのかを確認したがっている。俺の言いたいことは、そのグループ全体の賞金は3,000だ。それをやるかな？</text>
+	</string>
+	<string id="jup_b220_trapper_swamp_bloodsuckers_hunt_11">
+		<text>それをやろう。</text>
+	</string>
+	<string id="jup_b220_trapper_swamp_bloodsuckers_hunt_111">
+		<text>素晴らしい。良いハンティングを！</text>
+	</string>
+	<string id="jup_b220_trapper_swamp_bloodsuckers_hunt_12">
+		<text>今はやらない。</text>
+	</string>
+	<string id="jup_b220_trapper_swamp_bloodsuckers_hunt_121">
+		<text>あんた次第だ…。他のハンターらがそれをやる前なら、あんたの意思を変えられるぞ。</text>
+	</string>
+	<string id="jup_b220_trapper_swamp_bloodsuckers_hunt_2">
+		<text>前と同じだ。セメント工場の後ろ、フェンの沼地のブラッドサッカーのグループだ。賞金3,000だ。…で、あんたはやるかな？</text>
+	</string>
+	<string id="jup_b220_trapper_swamp_bloodsuckers_hunt_3">
+		<text>今は、フェンのブラッドサッカーだけだ…。</text>
+	</string>
+	<string id="jup_b220_trapper_swamp_bloodsuckers_hunted_0">
+		<text>俺は沼地のブラッドサッカーを倒した。</text>
+	</string>
+	<string id="jup_b220_trapper_swamp_bloodsuckers_hunted_1">
+		<text>これでストーカーたちは少し落ち付くことができる。これが約束したあんたの報酬だ。</text>
+	</string>
+	<string id="jup_b220_trapper_swamp_bloodsuckers_hunted_2">
+		<text>よし、地元のストーカーたちはその隣人が除かれて喜ぶだろう。彼らは報酬金3,000をかけていた…。さあ、これを受け取るんだ。</text>
+	</string>
+	<string id="jup_b220_trapper_zaton_chimera_hunted_0">
+		<text>俺とゴンタは、ザトンでキメラを殺した。</text>
+	</string>
+	<string id="jup_b220_trapper_zaton_chimera_hunted_1">
+		<text>それに感謝する。野獣が少なくなったが、全部いなくなるとさらに良い。そう、その他も追い出せたらいいよな…</text>
+	</string>
+	<string id="jup_b220_trapper_zaton_chimera_hunted_2">
+		<text>2匹目の野獣もやっつけてくれて、感謝する。それらのキメラのために、他のストーカーは命を落とさないですむ…。</text>
+	</string>
+	<string id="jup_b25_flint_about_controller_0">
+		<text>どのようにコントローラーを倒したのか話してくれ。</text>
+	</string>
+	<string id="jup_b25_flint_about_controller_1">
+		<text>よく聞いて学ぶんだ。俺は埋蔵品を隠し場所に取りに行ったが、そこに着いた時、その上に座っているコントローラーに気づいた。地面にあった金属格子をつかみ、自分を保護するためにそれを使用した。そいつに気づかれる前に、その頭を一撃した。俺をコントロールしようとし始めたが、ライフルの銃尻でとどめを刺したというわけだ。</text>
+	</string>
+	<string id="jup_b25_flint_accuse_0">
+		<text>採石場のアーティファクトことを、俺に話してくれ。</text>
+	</string>
+	<string id="jup_b25_flint_accuse_1">
+		<text>ハハッ！言うべきことはあまりない。今はジャッキが残っているだけだ。フリントが見たアノマリーのポイントはないし、誰でもそれを知っている。</text>
+	</string>
+	<string id="jup_b25_flint_accuse_11">
+		<text>では、採石場で死んだ仲間を置き去りにしたのはあんただ！</text>
+	</string>
+	<string id="jup_b25_flint_accuse_111">
+		<text>何だと？！</text>
+	</string>
+	<string id="jup_b25_flint_accuse_11111">
+		<text>何も言うに及ばない。まったく嘘を付いている。お前の言葉はフリーダム・メンバーに対しての言い掛かりだ。</text>
+	</string>
+	<string id="jup_b25_flint_accuse_111111">
+		<text>今に、はっきりさせてやるぞ。</text>
+	</string>
+	<string id="jup_b25_flint_accuse_1112">
+		<text>何もない。</text>
+	</string>
+	<string id="jup_b25_flint_accuse_12">
+		<text>ありがとう、ではな。</text>
+	</string>
+	<string id="jup_b25_flint_argue_bloodsucker_0">
+		<text>ザトンのブラッドサッカーについて、俺に話してくれ。</text>
+	</string>
+	<string id="jup_b25_flint_argue_bloodsucker_1">
+		<text>俺がザトンにいた時、ブラッドサッカーはストーカーたちの生命を危うくしていた。ストーカーたちはなんとか維持していたが、誰も助けなかった。俺は連中を助けることに決め、ショットガンを持ってブラッドサッカーの巣に向かった。かなりの時間を費やし、ザトンのブラッドサッカーの問題はやっと終わったんだ。</text>
+	</string>
+	<string id="jup_b25_flint_argue_bloodsucker_11">
+		<text>あんたは、おそらくその巣がどこか知らないだろう。</text>
+	</string>
+	<string id="jup_b25_flint_argue_bloodsucker_111">
+		<text>出て行け。</text>
+	</string>
+	<string id="jup_b25_flint_argue_bloodsucker_112">
+		<text>何がほしい？おまえの嘘はよそで言うんだな！</text>
+	</string>
+	<string id="jup_b25_flint_argue_bloodsucker_113">
+		<text>行くんだ…。お前の言葉はフリーダム・メンバーに対しての言い掛かりだ。</text>
+	</string>
+	<string id="jup_b25_flint_argue_bloodsucker_1131">
+		<text>今に、はっきりさせてやるぞ。</text>
+	</string>
+	<string id="jup_b25_flint_argue_bloodsucker_12">
+		<text>ありがとう、ではな。</text>
+	</string>
+	<string id="jup_b25_flint_argue_guide_0">
+		<text>ジュピターへの近道について、俺に話してくれ。</text>
+	</string>
+	<string id="jup_b25_flint_argue_guide_1">
+		<text>さて、ガイドはかつてはザトンから大きく迂回をしていた。俺は、直接そこに行くことに決め…、それをやった。いくつかの場所を試み、アノマリーを抜けるかなり早い道を見つけた。そして、俺はガイドにその情報を売り、今、彼は皆をその道を連れて行くんだ。</text>
+	</string>
+	<string id="jup_b25_flint_argue_guide_11">
+		<text>地図を得てるパイロットに頼むというのはどうなんだ？</text>
+	</string>
+	<string id="jup_b25_flint_argue_guide_111">
+		<text>勝手にするんだな。</text>
+	</string>
+	<string id="jup_b25_flint_argue_guide_112">
+		<text>何がほしい？おまえの嘘はよそで言うんだな！</text>
+	</string>
+	<string id="jup_b25_flint_argue_guide_113">
+		<text>言うに及ばない。お前の言葉はフリーダム・メンバーに対しての言い掛かりだ。</text>
+	</string>
+	<string id="jup_b25_flint_argue_guide_1131">
+		<text>今に、はっきりさせてやるぞ。</text>
+	</string>
+	<string id="jup_b25_flint_argue_guide_12">
+		<text>ありがとう、ではな。</text>
+	</string>
+	<string id="jup_b25_flint_argue_oasis_0">
+		<text>オアシスへのあんたの旅のことを話してくれ。</text>
+	</string>
+	<string id="jup_b25_flint_argue_oasis_1">
+		<text>俺はオアシスへ到達した最初の人間だった。そこはミュータントやアノマリーからは無縁で、周りはすべて平和で静かだった。またアーティファクトがいっぱいで、なんでも好きに取れ、自分の家の中を歩くようなものだった。</text>
+	</string>
+	<string id="jup_b25_flint_argue_oasis_11">
+		<text>嘘つきめ。俺はオアシスへ行ったことがあるが、そこはそんな風ではないぞ。</text>
+	</string>
+	<string id="jup_b25_flint_argue_oasis_111">
+		<text>出て行け。</text>
+	</string>
+	<string id="jup_b25_flint_argue_oasis_112">
+		<text>何がほしい？おまえの嘘はよそで言うんだな！</text>
+	</string>
+	<string id="jup_b25_flint_argue_oasis_113">
+		<text>嘘つきはお前だ。お前の言葉はフリーダム・メンバーに対しての言い掛かりだ。</text>
+	</string>
+	<string id="jup_b25_flint_argue_oasis_1131">
+		<text>今に、はっきりさせてやるぞ。</text>
+	</string>
+	<string id="jup_b25_flint_argue_oasis_12">
+		<text>ありがとう、ではな。</text>
+	</string>
+	<string id="jup_b25_flint_argue_scientist_0">
+		<text>科学者との、あんたの仕事について話してくれ。</text>
+	</string>
+	<string id="jup_b25_flint_argue_scientist_1">
+		<text>先日、奴らのトーチカを訪れた。奴らは本当に幸福そうに言った、「フリント、君はまさに我々が今すぐ必要とする人間だ！」。その仕事は、奴らの装置をアノマリーの中に設置するということだった。「それは簡単なことだ」と答え、俺は容易に彼らが望んだものすべてをやった。そのオタクらに、報酬金をしぶしぶ支払わせる方が難しいことだったがな。</text>
+	</string>
+	<string id="jup_b25_flint_argue_scientist_11">
+		<text>他人の業績を自分のものにするな！それをしたのはお前でなく俺だ！</text>
+	</string>
+	<string id="jup_b25_flint_argue_scientist_111">
+		<text>出て行け。</text>
+	</string>
+	<string id="jup_b25_flint_argue_scientist_112">
+		<text>何がほしい？おまえの嘘はよそで言うんだな！</text>
+	</string>
+	<string id="jup_b25_flint_argue_scientist_113">
+		<text>嘘だ…。何も言うに及ばない。お前の言葉はフリーダム・メンバーに対しての言い掛かりだ。</text>
+	</string>
+	<string id="jup_b25_flint_argue_scientist_1131">
+		<text>今に、はっきりさせてやるぞ。</text>
+	</string>
+	<string id="jup_b25_flint_argue_scientist_12">
+		<text>ありがとう、ではな。</text>
+	</string>
+	<string id="jup_b25_flint_start_11">
+		<text>なあ。あんたも俺の話を聞きたいのか？</text>
+	</string>
+	<string id="jup_b25_flint_start_21">
+		<text>何か質問をしたいのか？</text>
+	</string>
+	<string id="jup_b25_flint_start_31">
+		<text>何かほしいのか？</text>
+	</string>
+	<string id="jup_b25_senya_start_0">
+		<text>おい…、くそっ…、やられた…。</text>
+	</string>
+	<string id="jup_b25_senya_start_1">
+		<text>この回復キットを受け取れ。</text>
+	</string>
+	<string id="jup_b25_senya_start_11">
+		<text>ありがとう…、しかし、もう助からない…。聞いてくれ。俺はここでフリーダムのメンバーだった…。我々はあるアーティファクトを見つけたんだ…。その帰り道、ガスのアノマリーに入り込んだ。もし奴が俺を手伝えば、うまくやれたんだが…、しかし、奴はアーティファクトを奪い、ここに俺を残した。奴は支援を得るつもりだと言い訳したが…。奴を見つけてくれ。皆に、奴が信用できないことを知ってほしい…。</text>
+	</string>
+	<string id="jup_b25_senya_start_1111111">
+		<text>俺が奴を見つけよう。</text>
+	</string>
+	<string id="jup_b25_senya_start_1111112">
+		<text>俺が何を証明できるかわからない。</text>
+	</string>
+	<string id="jup_b25_senya_start_2">
+		<text>俺の肩につかまれ。あんたを医者に運ぶ。</text>
+	</string>
+	<string id="jup_b25_senya_start_3">
+		<text>悪いこともあるさ。ではな。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_artefacts_0">
+		<text>あんたに渡したいものがある…。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_artefacts_11">
+		<text>ミート・チャンクだ。受け取ってくれ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_artefacts_111">
+		<text>ありがとう。科学者の支払いも良いのだが、俺は滞在許可の方にもっと関心がある。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_artefacts_112">
+		<text>最高に感謝する！今、やっとプリピャチに向かって移動できる。そこに行く方法について、少し考えたい。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_artefacts_12">
+		<text>コロボークだ。受け取ってくれ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_artefacts_121">
+		<text>ありがとう。科学者の支払いも良いのだが、俺は滞在許可の方にもっと関心がある。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_artefacts_122">
+		<text>最高に感謝する！今、やっとプリピャチに向かって移動できる。そこに行く方法について、少し考えたい。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_artefacts_13">
+		<text>ミート・チャンクとコロボークだ。受け取ってくれ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_artefacts_131">
+		<text>最高に感謝する！今、やっとプリピャチに向かって移動できる。そこに行く方法について、少し考えたい。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_artefacts_14">
+		<text>何もない。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_boredom_0">
+		<text>この辺を探っているのか？</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_contract_0">
+		<text>契約のことを話してくれ…。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_contract_1">
+		<text>そう、俺は科学者のために仕事をする契約をしたが、それは簡単だと考えていた。俺が気づかなかったことは、仕事がすべて終わった場合のみ、契約が終了するということだった。科学者は、仕事の最後に、ゾーンにいられる公式許可を与えると約束した。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_contract_111">
+		<text>ある小さなこと以外、俺は契約の条項をすべて完了した。俺は存在する化学のアーティファクトをすべて見つけなければならない。しかし、この辺りでミート・チャンクとコロボークを得ることはすごく難しい。その2つを手に入れることができたなら、ずっと前に、俺はプリピャチに向かっていた。だが、それができないんだ！</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_contract_1111">
+		<text>俺が、あんたのそのアーティファクトの仕事を手伝うことができるかもしれない。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_contract_1112">
+		<text>それは残念だ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_contract_2">
+		<text>よし…。ミート・チャンクとコロボークだ。そして、俺はプリピャチに出発する！</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_pripyat_0">
+		<text>プリピャチで何が特別なことなのだ？</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_pripyat_1">
+		<text>誰もそこに着く方法を知らない…。我々はゾーンにいるのに、そこに直接に行けない。皆は、そこには本当にアーティファクトが埋蔵されていると言う…。どちらにしても、プリピャチの周りには、奇妙で嫌になる話が多すぎるほどあるんだ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_pripyat_group_0">
+		<text>俺はプリピャチへ一緒に行くチームを作っている。加わらないか？</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_pripyat_group_1">
+		<text>実際、俺自身がそこに行こうと考えていた…。しかし、それはひとりでだ。他意はないが、俺はひとりで仕事をするのに慣れているんだ…。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_pripyat_group_2">
+		<text>ハハ、俺は実際にすぐプリピャチに行く用意をしている…。しかし、それはひとりでだ。他意はないが、俺はひとりで仕事をするのに慣れているんだ…。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_start_11">
+		<text>退屈な場所へようこそ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_start_12">
+		<text>ああ、俺は本当にプリピャチに行きたい！</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_start_13">
+		<text>俺はプリピャチに到達する道を知る必要がある。すぐそこにいるだろう。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_start_14">
+		<text>ここはいいぞ！これが生きるための人生だ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_start_15">
+		<text>確かに安全を感じるのはいいよな。それが退屈でなかったら、もっといいと思うぜ！</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_volunteer_0">
+		<text>俺が、あんたのそのアーティファクトの仕事を手伝うことができるかもしれない。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_way_0">
+		<text>あんたは本当にプリピャチへの道を知っているのか？</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_way_1">
+		<text>知らない。しかし、人々が言うように、そこがアーティファクトでいっぱいなら、すぐにそれを見つけに行く準備ができている。つまり、俺は他の者のような先駆者ではない。俺はジュピターへの道を見つけた最初のひとりだ。しかし、いつもひとりで仕事をしている。他人の後ろを気をつけてやる時間はないんだ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_jupiter_0">
+		<text>俺をジュピターに連れて行ってくれるか？</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_jupiter_1">
+		<text>もちろんだ。あんたの準備はいいか？</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_jupiter_11">
+		<text>いいぞ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_jupiter_12">
+		<text>まだだ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_jupiter_2">
+		<text>光熱放射の間は駄目だ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_pripyat_0">
+		<text>俺をプリピャチヘ案内してくれるか？</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_pripyat_1">
+		<text>5,000でそれをやろう。そこが好きだしな！</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_pripyat_11">
+		<text>よし、いいぞ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_pripyat_12">
+		<text>いや、駄目だ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_pripyat_121">
+		<text>いいぞ、お好きなように。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_pripyat_13">
+		<text>俺は十分な金を持っていない。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_pripyat_2">
+		<text>5,000でやろう…。光熱放射が終わるまで待とう。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_0">
+		<text>俺をザトンヘ案内できるか？</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_1">
+		<text>いいや。 そこへはうんざりするような道だ。パイロットがあっちにいる。奴はあんたが望む安全で退屈な仕事をする。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_2">
+		<text>そう、俺はあんたをヤニフに案内できる。また3,000で、パイロットにあんたをザトンへ連れて行かせられる。どうするかな？</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_21">
+		<text>いいぞ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_22">
+		<text>断わる。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_221">
+		<text>あんた次第だ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_23">
+		<text>俺は十分な金を持っていない。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_3">
+		<text>そう、俺はあんたをヤニフに案内できる。また1,000で、パイロットにあんたをザトンへ連れて行かせられる。どうするかな？</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_4">
+		<text>いいや。 そこへはうんざりするような道だ。パイロットがあっちにいる。奴はあんたが望む安全で退屈な仕事をする。光熱放射の後で彼に聞くんだな。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_5">
+		<text>そう、俺はあんたをヤニフに案内できる。また3,000で、パイロットにあんたをザトンへ連れて行かせられる。もちろん、光熱放射が終わったらだ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_6">
+		<text>そう、俺はあんたをヤニフに案内できる。また1,000で、パイロットにあんたをザトンへ連れて行かせられる。もちろん、光熱放射が終わったらだ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_pripyat_start_11">
+		<text>皆が、あんたがトンネルを通ったことを話してるだろ？…俺もジュピターから来た。地下の通路を見つけたんだ。あんたが必要なら、無料でそこに連れて行く…。俺はその筋から要求される援助をするのが嬉しいんだ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_pripyat_start_12">
+		<text>久し振りだな！皆が、あんたがトンネルを通ったことを話してるだろ？…俺は地下の通路を見つけたんだ。あんたが必要なら、無料でそこに連れて行く…。俺はその筋から要求される援助をするのが嬉しいんだ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_pripyat_start_13">
+		<text>久し振りだな！皆が、あんたがトンネルを通ったことを話してるだろ？…あんたはを信じないかもしれないが、俺はどうにか俺の契約を終わり、滞在許可も得た。…その後、俺はここに向かい、地下の通路を見つけたんだ。あんたが必要なら、無料でそこに連れて行く…。俺はその筋から要求される援助をするのが嬉しいんだ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_pripyat_start_14">
+		<text>久し振りだな！皆が、あんたがトンネルを通ったことを話してるだろ？…俺は地下の通路を見つけたんだ。あんたが必要なら、無料でそこに連れて行く…。俺はその筋から要求される援助をするのが嬉しいんだ。ところで、俺が科学者との契約を完了するのを助けてくれたことを感謝してる…。俺はこの辺りを見て回り、これを見つけた。受け取ってくれ。あんたがそれを役立たせると信じる。</text>
+	</string>
+	<string id="jup_b47_ask_topol_about_guard_0">
+		<text>トポル、科学者のトーチカの警護をしないか？</text>
+	</string>
+	<string id="jup_b47_ask_topol_about_guard_1">
+		<text>さて、俺たちは調査とサンプルを集めるために雇われている。ここでは科学者のような仕事だ。それに、俺はその仕事自体の能力を持たないので、インテリたちの新しい敵をやっつけられるかどうかわからない。俺は傭兵の弾丸で死にたくはない。</text>
+	</string>
+	<string id="jup_b47_merc_guards_start_11">
+		<text>お前は間違った場所にいるぞ！それを俺たちがさらに“間違った時間”にする前に、去るんだな。</text>
+	</string>
+	<string id="jup_b47_merc_guards_start_12">
+		<text>お前はトラブルか何かを探してるのか？それを見つける前に、ここを出て行くんだ！</text>
+	</string>
+	<string id="jup_b47_merc_guards_start_13">
+		<text>失せろ。そうすれば、俺たちは平和なままだ。</text>
+	</string>
+	<string id="jup_b4_duty_go_home_0">
+		<text>あんたは今、何をしてるんだ？</text>
+	</string>
+	<string id="jup_b4_duty_go_home_1">
+		<text>俺たちはすぐにヤニフ駅に行く。よければ、一緒に来い。</text>
+	</string>
+	<string id="jup_b4_duty_go_home_11">
+		<text>俺もその途中だ。一緒に加わる。</text>
+	</string>
+	<string id="jup_b4_duty_go_home_12">
+		<text>いや、そこには行かない。</text>
+	</string>
+	<string id="jup_b4_duty_squad_start_dialog_0">
+		<text>俺たちに、彼らを連れてきてくれたのは良かった。彼らは独力で長くはいられなかっただろう。</text>
+	</string>
+	<string id="jup_b4_duty_start_dialog_0">
+		<text>デューティーとの手配をしてくれて、感謝する。</text>
+	</string>
+	<string id="jup_b4_freedom_go_home_0">
+		<text>あんたは今、何をしてるんだ？</text>
+	</string>
+	<string id="jup_b4_freedom_go_home_1">
+		<text>俺たちはすぐにヤニフ駅に行く。よければ、一緒に来い。</text>
+	</string>
+	<string id="jup_b4_freedom_go_home_11">
+		<text>俺もその途中だ。一緒に加わる。</text>
+	</string>
+	<string id="jup_b4_freedom_go_home_12">
+		<text>いや、そこには行かない。</text>
+	</string>
+	<string id="jup_b4_freedom_squad_start_dialog_0">
+		<text>あんたは正しいことをした。そいつらを助けて、俺たちに援軍を連れてきた。尊敬するぞ。</text>
+	</string>
+	<string id="jup_b4_freedom_start_dialog_0">
+		<text>フリーダムとの手配をしてくれ、感謝する。</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_about_stolen_items_0">
+		<text>誰がパーソナルボックスから物を盗むことができたか、知っているか？</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_about_stolen_items_1">
+		<text>俺にはわからない。この辺りにはすべての種類の人間がいる…。ボーンセッターに尋ねてみるんだ。奴はこの場所のほとんどの者を知っている。</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_goto_zulus_0">
+		<text>ズールーに会いに行こう。</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_goto_zulus_1">
+		<text>よし。奴が俺の古いアーマーを見て、撃たなければいいが！俺たちは途中で、それを得る必要がある…。そして、俺が着用しているものを戻すんだ。</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_goto_zulus_11">
+		<text>さあ、行こう。</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_goto_zulus_2">
+		<text>待て。光熱放射は身体に悪い…。少し待とう。</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_help_0">
+		<text>何が起こったんだ？</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_help_1">
+		<text>さて、どのようにここに着いたのかは思い出せない。我々はモノリサーだったことは覚えているが…。我々には、ゾーンの中心に達するという熱い望みがあった。そこはモノリスがある場所だ。それは他の惑星から新しい生命の始まりをもたらした隕石だ…。一緒にCNPPに達したことも覚えている。部分的にだが、明るい光、宇宙の寒さ、また明瞭な声を…。それらを完全にだ。だが、その声が今何を行うように俺に命じたかを思い出せない…。人生の数年間が去ってしまった。兵士らも同じで我々は何を行うべきかを知らない…。確かに、我々には光熱放射から、またミュータントから防御するどこかが必要だ。どこか安全になれる場所を知らないか？</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_help_11">
+		<text>ここから遠くない場所に、ストーカー基地がある。地図でそこを教えよう。</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_help_111">
+		<text>俺は、そこが安全かどうかわからない…。我々がCNPPへ行く途中、疑われた。我々は実際、その後にストーカーたちを殺したのだと思う。人々が今、どのように我々の派閥を扱うか知っているか？おそらく、撃ち始めるだろう。あんたは助けてくれないか？我々はもう殺人者ではないと、ストーカー・キャンプの皆に伝えてもらえないか？あんたが彼らと話して、我々を受け入れてもらえないだろうか？</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_help_1111">
+		<text>問題はない。今度、基地に行く時に、俺は彼らと話をしよう。</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_help_1112">
+		<text>すまないが、助けられない。</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_help_2_0">
+		<text>どんな助けがいるんだ？</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_help_2_1">
+		<text>我々には光熱放射から、またミュータントから防御するどこかが必要だ。どこか安全になれる場所を見つけられないか？</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_help_2_11">
+		<text>よし。ヤニフの住民に尋ねてみよう。</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_help_2_12">
+		<text>すまないが、助けられない。</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_outfit_0">
+		<text>プリピャチへ着くためには、閉サイクル呼吸モジュール付きスーツが必要だろう。</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_outfit_1">
+		<text>それはいい。俺はモノリスのアーマーを持っており、それにちょうどいい。問題は、ヤニフでそれを着用しているのを見られては駄目だということだ。</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_pripyat_group_0">
+		<text>俺はプリピャチへ一緒に行くチームを作っている。加わらないか？</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_pripyat_group_1">
+		<text>俺も行ければな…。そう、そこで我々の身に何がふりかかったかをすごく知りたい。しかし、今は行くことができない。ここに部下たちを残すことができない。彼らは辛い思いをしてきた。</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_pripyat_group_2">
+		<text>よし、あんたと行こう。我々の身に何がふりかかったかを知りたい。プリピャチでその質問に対する答えがわかることを願う。ロキに知らせなければならないが、奴は反対すると思う。</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_pripyat_group_3">
+		<text>よし、あんたと行こう。我々の身に何がふりかかったかを本当に知りたい。プリピャチでその質問に対する答えがわかることを願う。シュルガに知らせなければならないが、奴は反対すると思う。</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_pripyat_ready_0">
+		<text>行く準備はできたか？</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_pripyat_ready_1">
+		<text>準備はできた。</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_start_11">
+		<text>やあ、ストーカー。俺たちを手伝えないか？</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_start_12">
+		<text>やあ。あんたは俺たちがストーカー基地に行けるかどうか、わかったのか？</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_start_121">
+		<text>いや、まだやってるところだ…。</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_start_1211">
+		<text>急ぐんだ。ここで何が起こるかわからないからな。</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_start_13">
+		<text>やあ。俺たちを助けてくれて感謝する。</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_start_14">
+		<text>やあ。</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_wassup_0">
+		<text>どんな状況だ？</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_wassup_1">
+		<text>いいぞ。チームは整っている。しかし、俺は、我々の身に何がふりかかったかをすごく知りたい。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_mercs_0">
+		<text>ここで傭兵たちは何をしているんだ？</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_mercs_1">
+		<text>それに関しては、ハーマンと話をするべきだ。彼は研究所のすべての管理をしている。俺が知っている限りでは、傭兵たちは我々の研究所の警護に関する契約をハーマンと結んだ。俺はその詳細には詳しくない。しかし、奴らは、多くの場合での信頼できる戦士だという、自身の証明をしたのだと思う。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scientists_0">
+		<text>あんたはここで何をしているんだ？</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scientists_1">
+		<text>儀礼的な質問だな。我々は研究をしている。あんたは何か特定のものに興味があるのか？</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scientists_1111">
+		<text>研究の目的は何だ？</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scientists_11111">
+		<text>特定の目的は考えていない。もしあんたが知りたいなら、科学的な偵察だ。ある現象中の相関性を識別し、理論を開発し、それらを証明するか反証する。我々の理論のいくつかは、実際的な目的を持っていない。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scientists_1112">
+		<text>ゾーンについて何を知っている？</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scientists_11121">
+		<text>今の段階では、仮説を立てることしかできない…。俺は、ゾーンがある新しい力の結果として形成されたと信じている。電磁界、天然の力あるいは放射線では、生物圏をそれほど速く変更できなかっただろう。確かに、放射線でいくつかの変形について説明できる…。しかし、普通のブタの肉を変化させるためには、何百年もを必要とする！ゾーンではその変化が2、3年で生じた。あたかも誰かが、個々の動物中の遺伝子情報を直接変更したかのようだ。こう考えると、背筋がぞくぞくして悪寒がしてくる。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scientists_1113">
+		<text>あんたは、どれくらい長くゾーンにいるんだ？</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scientists_11131">
+		<text>せいぜい1週間だ。すべての官僚主義から切り離れ、さらにこの遠征を組織するには、相当の努力が必要だった。ハーマンがいなければ、我々はまだゾーンの境界上にいて、ストーカーたちに非常に貴重なアイテムを取られていただろう。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scientists_1114">
+		<text>それが俺が知りたかったすべてだ。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scrutiny_0">
+		<text>オゼルスキー、なぜハーマンは調査をする間、チームを警護するために俺を雇ったんだ？</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scrutiny_1">
+		<text>それは俺のアイデアだった。彼は肝心な点を見てなかったので、俺が納得させた。俺の研究は、異常フィールドにおいて、高ウェーブ装置の効果で近くの変異した種に攻撃性の高い状態を引き起こし、またその活動レベルを押し上げることだ。手短に言えば、そいつらは何かを殺そうと探し始めるのだ。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scrutiny_learned_0">
+		<text>オゼルスキー、ニュースがあるぞ。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scrutiny_learned_1">
+		<text>そうか？聞こう。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scrutiny_learned_11">
+		<text>あんたは正しかった。俺たちが調査をしている間、ニュータントは俺たちを少しも休めさせなかった。しかし、装置のスイッチが切られるとすぐに、穏やかになったんだ。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scrutiny_learned_111">
+		<text>何だって？！俺の仮説が正しいと証明されるなら、変異した動物はテレパシーで情報フィールドにアクセスする能力を得ており、外部から信号を受け取ることができる可能性が高い。人工の信号だ…。その場合には、変異動物の不自然な類似性および細胞組織のこれらの典型的な変化は…、偶然のものではないのだ。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scrutiny_learned_1111">
+		<text>より特定できるのか？そして今回は、実際に筋が通ることなのか？</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scrutiny_learned_11111">
+		<text>いや！これらは俺の推測でしかない。ああ、何て恐ろしいことだ！我々の調査に協力してくれて、とても感謝する。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_anomalous_grove_0">
+		<text>スーツのことでハーマンと話すには、あんたには何が必要だ？</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_anomalous_grove_1">
+		<text>少し前に、未知の怪奇植物に満ちたエリアが、採石場の端の近くに現われた。俺はこの植物サンプルがほしいが、ストーカーたちはその場所に近づくことを拒否している。もしその植物のひとつを手に入れられれば、俺はハーマンに、予備スーツのひとつをあんたへの報償にするように話すだろう。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_anomalous_grove_11">
+		<text>俺はあんたのために植物を見つけよう。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_anomalous_grove_111">
+		<text>いいぞ、あんたのPDAにアノマリーの座標をアップロードした。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_anomalous_grove_12">
+		<text>また今度にしよう。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_anomalous_grove_121">
+		<text>気持が変わったら、来てくれ。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_anomalous_plant_0">
+		<text>ここに、あんたが望んだ植物を持ってきた。さて、スーツの件はどうかな？</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_anomalous_plant_1">
+		<text>素晴らしい。ハハ、ソコロフのためにスーツを脱がさせなくてはな。さて、それは問題ではない。俺はハーマンに植物を見せよう。すぐにスーツを渡すことに合意するだろう。ソコロフに来るように言って、それをもらうんだ。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_aproach_0">
+		<text>俺はあんたに新しい警備兵たちを捜すことができる。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_aproach_1">
+		<text>それはご親切なことだ。ハーマンがその責任者なので、この問題に関しては彼と話をしてくれ。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_b1_psi_emission_dialog_0">
+		<text>プサイフィールドに対する、俺の抵抗力をチェックしたい。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_b1_psi_emission_dialog_1">
+		<text>ふむ、ハーマンが俺に会うためにあんたを送ったのか？よし、できるだけ簡単に説明しよう。光熱放射に対する抵抗力を正確に分析するには、科学調査複合施設と数年間の研究が必要だろうな。だが実際に俺が持っているものは、2、3本の汚いテスト・チューブ付きのフィールド・キットだけだ。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_b1_psi_emission_dialog_11">
+		<text>では、不可能なのか？</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_b1_psi_emission_dialog_111">
+		<text>そう急ぐな。完全な分析についての話ではない。この目的については、光熱放射に対するあんたのニューロンの抵抗を評価する必要があるだけだ。基礎的な検査はすぐにやる。そう、あんたの頭脳は正常のようだ。つまり意識を失わずに、比較的高いレベルの光熱放射による作業ができるということだ。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_about_0">
+		<text>増加したミュータントの攻撃性に関する仮説はどうなんだ？</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_about_1">
+		<text>それについては2つの理論を持っている。ひとつ目は、その領域への数人の人間の侵入によって、ミュータントの攻撃が引き起こされるということだ。その場合は、人間を含むほとんどの変異していない種への普通の行動になる。別の理論は、ミュータントが我々の測定装置の放射を何かで受け取ることができるというものだ。明らかに、後の理論に、さらに興味をそそられる。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_about_11">
+		<text>これをどのようにテストするんだ？</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_about_111">
+		<text>測定装置は、前にミュータントの活動がなかったエリアで作動しなくてはならない。さらに、人間の侵入結果を最小にするために、実験はひとりだけで行なわれるべきだ。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_confirmed_0">
+		<text>スキャナを持ってきた。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_confirmed_1">
+		<text>どんな結果を得たんだ？</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_confirmed_11">
+		<text>俺は、あんたの装置が何を示すかは知らない。だが、仮説が完全に事実になると信じる。スキャナを作動させた後、スノークが俺に向かって突進して来るのに5分かかった。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_confirmed_111">
+		<text>それは俺が考えていたことだ。それは普通は、ある理由で、正しいとするには最も不適当な理論だ。どうであろうと、あんたがこれをテストしたことは良いことだ。測定をとるために派遣するどのチームも、戦う準備をしなければならないだろう。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_volunteer_0">
+		<text>俺は仮説の確認か反証をする準備ができている。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_volunteer_1">
+		<text>俺は、科学的なより大きなもののために、喜んで犠牲を払う人々がまだ世界にいるのが嬉しい。実験をするのに最良の場所は、採石場の南の端の傾斜地だ。そのエリアは、普通はミュータントが避ける重力のアノマリーでいっぱいだ。あんたに与えた装置は、ミュータント検出センサーを内蔵している。実験を完了して装置を戻してくれれば、ミュータントの攻撃性に対する放出レベルの効果を追跡できる。これをする覚悟はいいかな？</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_volunteer_11">
+		<text>いいぞ、それをやろう。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_volunteer_12">
+		<text>今は駄目だ。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_soldier_outfit_0">
+		<text>俺が科学的スーツを手に入れる方法があるか？</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_soldier_outfit_1">
+		<text>それは難しいな。我々は、持っている装備のすべてのアイテムを数えている。だが、ハーマンを知っていれば、彼は我々以上の命令をするだろう。ある状況では、スーツをひとつ手放すように、彼に説得できるかもしれない。</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_stalker_assistant_rival_0">
+		<text>アーティファクトを見つける必要があるのか？</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_stalker_assistant_rival_1">
+		<text>いや、すまない。我々はアーティファクトを探すのに、ランダムには派遣しない。経験を積んだアーティファクト・ハンターとの契約をしたので、我々が必要とするものはそいつが得てくる。</text>
+	</string>
+	<string id="jup_b6_scientist_medic_aproach_0">
+		<text>俺はあんたに新しい警備兵たちを捜すことができる。</text>
+	</string>
+	<string id="jup_b6_scientist_medic_aproach_1">
+		<text>それは良いことだな。ゾーンは平和ではない…。それについては、ハーマンと話してくれ。彼はこの辺りのボスだ。</text>
+	</string>
+	<string id="jup_b6_scientist_medic_b32_give_scanner_0">
+		<text>アノマリー研究用スキャナを俺に渡してくれ。</text>
+	</string>
+	<string id="jup_b6_scientist_medic_b32_give_scanner_1">
+		<text>これを取れ。ハーマンが言ったように、3つだ。</text>
+	</string>
+	<string id="jup_b6_scientist_medic_b32_give_scanner_2">
+		<text>これを取れ。ハーマンが言ったように、2つだ。</text>
+	</string>
+	<string id="jup_b6_scientist_medic_soldier_outfit_0">
+		<text>どうしたら俺は科学的スーツを手に入れられるんだ？</text>
+	</string>
+	<string id="jup_b6_scientist_medic_soldier_outfit_1">
+		<text>ハーマンが在庫品の担当だ。しかし、俺があんたがそれを頼む面倒を助けてやろう。直接では彼からは何も得ないだろうからな。代わりにオゼルスキーと話すんだ。目立たないようだが、彼はハーマンに影響を及ぼすことができる。</text>
+	</string>
+	<string id="jup_b6_scientist_medic_start_11">
+		<text>何をここに持ってきたんだ？</text>
+	</string>
+	<string id="jup_b6_scientist_medic_start_12">
+		<text>聞いてくれ。その傭兵たちはどこに行ったんだ？あんたを警護していた連中だ。</text>
+	</string>
+	<string id="jup_b6_scientist_medic_start_13">
+		<text>どうした？</text>
+	</string>
+	<string id="jup_b6_scientist_medic_start_14">
+		<text>聞いてくれ。誰かが、あんたたちを警護していた傭兵を撃ち殺した。俺自身は連中があまり好きではなかったが、少し度を越してる…。</text>
+	</string>
+	<string id="jup_b6_scientist_medic_start_15">
+		<text>CS-3aだ、すごい！かなり良いアーマーだ…。古き良き時代を思い出させる…。</text>
+	</string>
+	<string id="jup_b6_scientist_medic_ufo_memory_repair_0">
+		<text>あんたはメモリー・モジュールの障害を取り除くことができるか？</text>
+	</string>
+	<string id="jup_b6_scientist_medic_ufo_memory_repair_1">
+		<text>見てみよう…。問題はないな。俺はこれを以前にやったことがある…。1時間以上はかからないだろう。それをやるが…、2,000でどうだ？</text>
+	</string>
+	<string id="jup_b6_scientist_medic_ufo_memory_repair_11">
+		<text>よし、いいぞ。</text>
+	</string>
+	<string id="jup_b6_scientist_medic_ufo_memory_repair_111">
+		<text>よし。障害を取り除いたら、知らせよう。</text>
+	</string>
+	<string id="jup_b6_scientist_medic_ufo_memory_repair_12">
+		<text>そんな金は持っていない。</text>
+	</string>
+	<string id="jup_b6_scientist_medic_ufo_memory_repair_121">
+		<text>ふむ…。さて、俺がどこにいるかを知っておくんだな。俺より良い仕事ができる奴はいないと思うぞ。</text>
+	</string>
+	<string id="jup_b6_scientist_medic_ufo_memory_repair_13">
+		<text>ちょっと考えてみる。</text>
+	</string>
+	<string id="jup_b6_scientist_medic_ufo_memory_repair_2">
+		<text>俺が言ったとおり、それを1時間で、2,000でやる。</text>
+	</string>
+	<string id="jup_b6_scientist_medic_ufo_memory_repaired_0">
+		<text>では、メモリー・モジュールの障害を取り除いたのか？</text>
+	</string>
+	<string id="jup_b6_scientist_medic_ufo_memory_repaired_1">
+		<text>まだ時間ではない。それが終わったら、あんたと連絡を取ると言ったはずだ。</text>
+	</string>
+	<string id="jup_b6_scientist_medic_ufo_memory_repaired_2">
+		<text>よし、これだ。情報にアクセスする準備ができているぞ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_halfartefact_zat_b14_0">
+		<text>俺は奇妙なセミ・アーティファクトを見つけた。興味があるかな？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_halfartefact_zat_b14_1">
+		<text>もちろんだ。どこでそれを見つけたんだ？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_halfartefact_zat_b14_11">
+		<text>ザトンの放置された浚渫ステーションでだ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_halfartefact_zat_b14_1111">
+		<text>よし、いいぞ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_halfartefact_zat_b14_1112">
+		<text>いや、結構だ。他のバイヤーを捜す。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_mercs_0">
+		<text>傭兵たちはここで何をしているんだ？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_mercs_1">
+		<text>我々は彼らと、モバイル研究所の警護のための契約をしている。あんたの質問を予想して答えるなら、彼らを雇うしかなかったんだ。ある秘密軍事作戦のために、研究所配備のための適切な保護を与えられなかった。そのことと、ストーカーたちがアーティファクト探しに夢中になっているのとで、研究所を守るには傭兵たちしかいなかった。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_scientists_0">
+		<text>あんたたちはここで何をしているんだ？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_scientists_1">
+		<text>我々は様々な現象を研究している。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_scientists_1111">
+		<text>研究の目的は何だ？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_scientists_11111">
+		<text>我々は基礎的な研究を行なっている。言いかえれば、スーツをテストするためでも、新薬やそのようなのを発明するためではない。我々がゾーンで見るものの、論理的な説明を見つけようとしているんだ。ここで見られる現象の10パーセントでも秘密を解明すれば、それは世界的な技術開発に大規模な刺激を与えるだろう。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_scientists_1112">
+		<text>ゾーンについて何を知っている？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_scientists_11121">
+		<text>正直に言えば、多くはない。我々が遭遇する現象のうちのいくつかを動かすメカニズムを、やっと理解し始めたところだ。また不運にも、システムとしてのゾーンを少しも理解していない。これは、ゾーンが時間が経つにつれて発展するため、特に困難だ。俺は、新しいアノマリーや小さな現象について言っているのではない。より重大な変化、目に見えるとは限らないものについて話している。磁界の弱まりがこの例だ。最も情けないことは、そのすべてが何に結び付くのかを知らないということだ。我々に残されるのは、座って待つことだけだ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_scientists_1113">
+		<text>あんたは、どれくらい長くゾーンにいるんだ？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_scientists_11131">
+		<text>せいぜい1週間だ。俺はサハロフの研究所を数回訪れたと言った。我々がこの遠征を、より速く軌道に乗せなかったことを後悔している。俺は何度も文部省の人間に、すぐに出動準備ができた2つの完全装備したモバイル研究所を常に持っていなければならないと話した…。連中は太った頭をちょっと下げただけだった！連中のおかげで、ゾーンがかつて提供した中で最も大きな調査機会をもう少しで逃すところだったんだ！</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_scientists_1114">
+		<text>わかった。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_artefact_spawn_0">
+		<text>俺がアノマリーの中に置いたスキャナに何か情報があるか？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_artefact_spawn_2">
+		<text>どのアノマリーに特に興味があるんだ？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_artefact_spawn_21">
+		<text>駐車場のそばのアノマリーだ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_artefact_spawn_211">
+		<text>いいぞ、装置はアノマリーの中のアーティファクトの存在を示している！</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_artefact_spawn_212">
+		<text>残念だが、そのアノマリーの中には何もない。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_artefact_spawn_22">
+		<text>コンクリート・バスのアノマリー</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_artefact_spawn_23">
+		<text>ビチューメンのアノマリー</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_artefact_spawn_24">
+		<text>フェンのアノマリー</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_artefact_spawn_25">
+		<text>アシュヒープのアノマリー</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_artefact_spawn_26">
+		<text>今のところそれだけだ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_1">
+		<text>色々と聞こう。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_11">
+		<text>最近の出来事で、我々の調査チームは適切なフィールドワークをするための、十分な準備をしていないことが判明した。他方で、あんたはひとりでコントローラーをやっつけた！それはまったくの驚きだ！</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_111">
+		<text>あんたの言いたいことはなんだ？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_1111">
+		<text>俺が言いたいのは、少なくともあんたのような有能な専門家の募集を試みることが、論理的だろうということだ。我々の科学グループは、あんたの援助を必要とするのは確かだ。我々は測定と、スキャナを設置する必要がある…。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_11111">
+		<text>続けてくれ…。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_111111">
+		<text>俺は、アノマリーの中での光熱放射とアーティファクトの出現の間の相関性を見つけようとしている。現われるアーティファクトの数および質を使用して、次の放射を予測できるという理論を持っているんだ。特定の計算を行うために、統計を集める必要があるだろう。やる必要があるのは、異なるタイプのアノマリー中のスキャナの位置を決めることだ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_11112">
+		<text>すまんが、俺は興味がない。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_111121">
+		<text>それは残念だ。あんたは科学に役立つことができただろうに。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_2">
+		<text>よし、俺はあんたを手伝おう。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_21">
+		<text>素晴らしい！ノビコフからスキャナを手に入れ、あんたのPDAにマークされたアノマリーの中にそれを置かなくてはならない。それが終わったら、俺に会いに戻ってくれ。スキャナと測定に関係のある別の話がしたい。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_3">
+		<text>考えてみて、また戻ってくるだろう。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_scanner_placed_0">
+		<text>アノマリーの中にスキャナを置いたぞ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_scanner_placed_1">
+		<text>いいぞ！俺はすでに最初の結果を持っている。光熱放射を待ちきれない。必要な統計サンプルを提供するだろう…。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_bubble_1">
+		<text>色々と聞きたい！</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_bubble_11">
+		<text>それに近づき、科学検出器を取った時、あたかも圧縮されるかのように周りのすべてが曲がり始めた。その後、しばらくして、空中からストーカーの死体が落ちてきた！そして、それは止んだ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_bubble_111">
+		<text>それは信じられない！明らかに、情報は破壊されてなくなり、そこから何も推定できない。しかし、記録には記述しよう。このアノマリーをバブルの空間と呼ぼう！</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_found_guards_0">
+		<text>あんたは新しい警備兵たちを得たようだな？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_found_guards_1">
+		<text>そうだ、連中はいいぞ。彼らの周りでは安心感を感じる。あんたの努力に感謝する。これがあんたの報酬だ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_gauss_rifle_docs_0">
+		<text>これらの書類を見てくれ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_gauss_rifle_docs_1">
+		<text>見てみよう…。あんたがどのようにこれらを得たかは尋ねない。しかし、これは信じられない！このコピーを取らせてくれ…。ああ、そうだ。これを取れ。あんたに相応しい報酬だ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_guards_0">
+		<text>あんたの警備兵たちに何が起こったんだ？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_guards_1">
+		<text>わからない、消え失せてしまった！</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_guards_11">
+		<text>俺はゾーンにコネクションがある。あんたの新しい警備兵たちを見つけられるだろう。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_guards_111">
+		<text>それは素晴らしい！彼らは仕事をするのと交換に、全面的な科学的支援および最新の技術開発を与えてくれるだろう！あんたも報酬を得られるぞ！</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_guards_1111">
+		<text>わかった!</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_guards_11111">
+		<text>俺は待てない！</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_guards_1112">
+		<text>俺は考えを変えた。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_guards_11121">
+		<text>それは残念だ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_guards_12">
+		<text>そんなこともあるさ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_guards_121">
+		<text>何でもか？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_guards_2">
+		<text>警備兵が殺された！我々のトーチカのすぐ外で撃ち殺された！</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_docs_0">
+		<text>俺はジュピター・プラントでいくつかの書類を見つけた。見たくないか？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_docs_1">
+		<text>それは面白いが、それほど役立たない。あんたの努力には感謝する。他に何でも見つけたら、ここに持ってきてくれ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_docs_11">
+		<text>書類を探している間に、傭兵に攻撃された。これが、そいつらのリーダーのPDAだ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_docs_111">
+		<text>ああ、俺は彼らは我々を警護するためにここにいると考えていた。上層部に報告しなくてはいけないようだ…。本当にありがとう。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_docs_2">
+		<text>残念だが、それには面白い情報は入っていない。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_products_1">
+		<text>いくつかあるぞ。ジュピター・プラントでされた最新の開発について知る必要がある。俺は、これらの開発に関する専門文書を本当に必要としている。おそらくそれらはプラントの管理部で見つけられるぞ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_products_11">
+		<text>俺はそれらを探して、見つけたものを何でも持ってこよう。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_products_12">
+		<text>いや、俺はあんたのそれを手伝えない。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_products_info_0">
+		<text>ジュピターから書類を持ってきたぞ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_products_info_1">
+		<text>それは面白いが、たいして役立たない。あんたの努力には感謝する。他に何でも見つけたら、ここに持ってきてくれ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_products_info_11">
+		<text>書類を探している間に、傭兵に攻撃された。これが、そいつらのリーダーのPDAだ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_products_info_111">
+		<text>ああ、俺は、彼らは我々を警護するためにここにいると考えていた。上層部に報告しなくてはいけないようだ…。本当にありがとう。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_results_11">
+		<text>アノマリーを見つけてみよう。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_results_12">
+		<text>俺は時間がないんだ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_0">
+		<text>俺は研究への参加の件で、ここに来た。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_1">
+		<text>あんたがまた科学に役立つのに合意してくれて嬉しいと俺が言えば、チームの全員にそれを要求できるぞ。何に興味を持っているんだ？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_11">
+		<text>俺は調査を手伝いたい。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_112">
+		<text>あんたは本当に、我々が外部スキャンのすべてを実施するのを支援してくれるのか？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_1121">
+		<text>そうだ、手伝うぞ…。何をすればいいか言ってくれ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_1122">
+		<text>いや、もう一度考える必要があるな。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_12">
+		<text>スキャナの位置について話してくれ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_121">
+		<text>俺は、アノマリーの中での光熱放射とアーティファクトの出現の間の相関性を見つけようとしている。現われるアーティファクトの数および質を使用して、次の放射を予測できるという理論を持っているんだ。特定の計算を行うためには、統計を集める必要があるだろう。やる必要があるのは、異なるタイプのアノマリー中でのスキャナの位置を決めることだ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_1211">
+		<text>よし、俺はあんたを手伝おう。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_12111">
+		<text>素晴らしい！ノビコフからスキャナを手に入れ、あんたのPDAにマークされたアノマリーの中にそれを置かなくてはならない。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_1212">
+		<text>考えてみて、また戻ってくるだろう。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_122">
+		<text>アノマリーの中のスキャナは情報を送信している。我々がしなければならないのは、結果を待つことだけだ。あんたが望めば、さらにいくつかスキャナを置くことができる。もっと多くの情報をいつも使用できるようになり、そしてあんたの報酬となるだろう。また、アノマリーの中にいつアーティファクトが現われるか、通知しよう。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_1221">
+		<text>いいだろう。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_12211">
+		<text>素晴らしい！ノビコフからスキャナを手に入れ、あんたのPDAにマークされたアノマリーの中にそれを置かなくてはならない。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_1222">
+		<text>考えてみて、また戻ってくるだろう。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_131">
+		<text>残念だが、我々には同一人物に一度に2つ以上の仕事を依頼するのを禁ずるルールがある。悪いが、それを順守しなくてはならない。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_complete_0">
+		<text>俺が警備をしたチームから、異常フィールドの測定結果を得たか？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_complete_31">
+		<text>ああ、あんたの測定で、はっきりとミュータントとゾンビの注意を引いた。それらを退ける戦いも何度かした。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_complete_311">
+		<text>ふむ、では、奴らはスキャンに反応したと思うのか？面白い。さて、その場合は、ミュータントはテレパシーで様々なフィールドにアクセスするという、オゼルスキーの仮説を確認するように思われる。彼とそれについて議論する価値があるだろう。ここに、やってくれた仕事に対する報酬がある。受け取ってくれ！</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_complete_312">
+		<text>ふむ、では、奴らはスキャンに反応したと思うのか？面白い。さて、その場合は、ミュータントはテレパシーで様々なフィールドにアクセスするという、オゼルスキーの仮説を確認するように思われる。そのことをオゼルスキーに伝えるべきだろう。ストーカーたちは可哀想だったがな。資金の一部はその家族の補償に使用されるだろう。残りは、我々のためにやった仕事に対するあんたの報酬だ。ありがとう！</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_soldier_outfit_0">
+		<text>俺が科学的スーツを手に入れる方法があるか？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_soldier_outfit_1">
+		<text>いや！スーツの数は厳密に制限されている。また、簡単にそれを与える余裕はない！</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_start_11">
+		<text>俺に何か言いたいのか？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_start_12">
+		<text>もしかして、我々のトーチカの警備の責任者たちに会ったのか？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_start_13">
+		<text>続けろ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_start_14">
+		<text>我々のトーチカのすぐそばで、誰かが警備兵を殺したとは信じないだろう！</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_0">
+		<text>助けが必要か？</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_1">
+		<text>我々はちょうど今、新しいタイプのサンプルを集めようとしている。それらにはアノマリーの効果が何もないんだが、それで行なう実験は意外な結果を生むだろう！</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_11">
+		<text>続けてくれ…。</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_1111">
+		<text>くだらないことを言わないで、やる必要のあることを言ってくれ。</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_11111">
+		<text>よし…。プサイフィールドを見つけたストーカーは、そこにミュータントの巣があると信じてる。俺はまったく奴らを信じてない…。つまり、コントローラー以外のミュータントは、周期的プサイフィールドでは生き残れないんだ！心配しないでも、我々の兵士たちがミュータントをやっつける。単にプサイフィールドとの普通の接触が、それに対する我々のストーカーの抵抗を縮小しただけだ。我々は単純にあんたが必要なだけだ。</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_111111">
+		<text>はっきりしたいんだが、俺は未知のプサイフィールドに入り、そこにないかもしれない何かのサンプルを得てくる。だが、もしそこに何かがあっても、誰もそれがどんなだかは知らないんだな？</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_1111111">
+		<text>そのとおりだ！このミッションは一般科学にとって、特に我々のチームにとって不可欠なんだ。あんたの支援は非常に貴重だ。疑問を抱くなら、オゼルスキーに会いに行ってくれ。彼は必要な分析を行っていて、それはアノマリーの光熱放射に対するあんたの今の抵抗力をはっきりさせる。また、我々のストーカーたちに尋ねることもでき、それについてすべてを説明するだろう。なあ、科学を救ってくれる気持はないか？</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_11111111">
+		<text>いいぞ。</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_111112">
+		<text>知らないのか？あんたのストーカー部隊は死んだぞ。</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_2">
+		<text>最後の時にトンネルに現れるのに失敗するならば、あんたと仕事をするようにチームに説得することは非常に難しくなるだろう。</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_21">
+		<text>それは事故だったんだ。</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_211">
+		<text>あんたを信じる。しかし、サンプル収集チームは特殊な人間たちだ。彼らを失っては駄目だ。俺はもう一度彼らと話し、考えを変えるよう説得する。だが、今度は俺を失望させないでくれ。サンプルを待っている。</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_3">
+		<text>これは許してほしいが、拒否しなければならない。ただ、あんたの装備は周期的プサイフィールドに適さない。すぐに厳しい死と出会うことになる。それは俺の良心に咎める。</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_complete_0">
+		<text>あんたにサンプルを得てきた。</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_complete_1">
+		<text>本当か？見せてくれ。待ちきれないぞ！</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_complete_11">
+		<text>あんたのサンプルを得て、またトンネルにコントローラーがいるのがわかった。そいつはあんたのチームをほぼ倒しそうになっていたが、その前に俺が奴を殺した。</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_complete_111">
+		<text>あんたには驚いた！コントローラーを殺し、アノマリーからストーカーを救った…。その事実を知らなかったら、俺はあんたをずっと信じなかったろう！それは優れた経験で幻想的なサンプルだ。あんたの科学への貢献はまったく注目に値する。チームおよび世界のすべての科学者を代表して、俺から感謝を言わせてもらう！</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_complete_12">
+		<text>不運にも、チームはコントローラーに攻撃された。俺は自分自身を守らなくてはならなかった。コントローラーは死んだが、ストーカーたちも死んだ。</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_complete_121">
+		<text>コントローラーだって？その恐ろしさを、誰が知るだろう？勇敢な兵士たちの死を悲しむ…。彼らは科学の忠実な下僕だった。技術的な科学者ではなかったが、多くの教授よりも科学のためのことをした！感謝する。この報酬を受け取ってくれ…。</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_complete_13">
+		<text>不運にも、チームはコントローラーに攻撃された。俺はかろうじて奴を倒した。</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_mercs_0">
+		<text>傭兵たちはここで何をしているんだ？</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_mercs_1">
+		<text>俺の邪魔をしている。しかし、それは俺の考えだ。初めは、固定したり取り付けるような依頼ばかりをされた…。そして昨日は恥ずかしくもなく、我々の装備がちゃんと作動するかを尋ね始めた。ただ俺は、それがトーチカの警備にどう役立つかは見逃してしまった。</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_new_upgrade_0">
+		<text>あんたはどの装備の改造ができるんだ？</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_new_upgrade_1">
+		<text>見たとおり、ここは科学複合施設だ…。ケブラーあるいは予備部品用武器はここにはない。俺ができるのは、ボディアーマーを直すか、俺個人の技術を使用して改造することだ。想像できるように、一番良い装備のスペアをたくさん持っている。</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_new_upgrade_2">
+		<text>プサイフィールドから取り戻したサンプルのおかげで、オゼルスキーは、光熱放射から人々を保護するある物を仕上げた。俺はその彼のアイデアを実際的なものに変換したんだ…。望むなら、あんたのスーツの中へ取り付けることができる。</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_new_upgrade_3">
+		<text>そう、通常のアップグレード以外に、俺は濾過とプサイ保護の改造を提供できる。そして、あんたはそれをするのを支援した人間だった…。オゼルスキーとハーマンはすごく喜んでいる！</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_new_upgrade_4">
+		<text>そう、通常のアップグレード以外に、俺は絶縁とプサイ保護の改造を提供できる。そして、あんたはそれをするのを支援した人間だった…。オゼルスキーとハーマンはすごく喜んでいる！</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_new_upgrade_5">
+		<text>俺は改造のすべての範囲を持っている。絶縁、濾過、それにプサイ保護だ。そのすべてを取り付けたスーツで、あんたはどのアノマリーの中でも歩くことが可能だ…。さらに戻って出てこられるだろう。ところで、ハーマンの研究に参加してくれて感謝している。そうでないなら、俺はこのすべてのオプションを用意しなかっただろうがな。</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_scientists_0">
+		<text>あんたのトーチカについて話してくれないか？</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_scientists_1">
+		<text>うむ、何が知りたいんだ？</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_scientists_1111">
+		<text>研究所では何をしている？</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_scientists_11111">
+		<text>オゼルスキーとハーマンがその質問に答えられるかもしれない。オゼルスキーは確かに研究のすべての種類をやっている…。しかし、最終結果はちっぽけなものだ。オゼルスキーと話すことができるだろう…。俺は、彼の理論に基づいて、いくつかの価値のある改造をできるようになった。</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_scientists_1112">
+		<text>ゾーンについて何を知っている？</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_scientists_11121">
+		<text>俺は科学的なセンスはないが、しかし、ゾーンの多くの実際的な知識を持っている。ここで価値のあるただひとつのものは、生き残るチャンスを増加させられる何かだ。ゾーンは、家族を扶養するためにアーティファクトを集めるバンディットでもストーカーでも区別はしない。ゾーンでの生活に最も適する人間だけがここで生き残るのだ。</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_scientists_1113">
+		<text>あんたは、どれくらい長くゾーンにいるんだ？</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_scientists_11131">
+		<text>ちょっとの間だ。初めは、他の皆のようにアーティファクトを探していた。しかし、それ以上できなくなることを理解するまでに、健康を害していた。ありがたいことに、俺には能力があり、仕事を見つけるのは難しくなかった。元科学者で構成された派閥で一年ほど過ごした。彼らは良い人々だった…。彼らが漠然とした目的を盲目的に追求しながら死んだのは残念だ。その後、ゾーンを歩き回り、ある程度の時間を過ごした。そして、科学者たちのもとで働き始めた。それほど後悔はない。</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_scientists_1114">
+		<text>それが俺が知りたかったすべてだ。</text>
+	</string>
+	<string id="jup_b6_scientist_tech_b1_psi_emission_dialog_0">
+		<text>俺は周期的プサイフィールドに入ることを計画している。俺にアドバイスはないか？</text>
+	</string>
+	<string id="jup_b6_scientist_tech_b1_psi_emission_dialog_1">
+		<text>何を言ったらいいんだ？あんたが情報エネルギー・フィールドの理論に精通しているかはわからないが…。プサイフィールドで少しなら露出しても危険でないのはわかるだろう…、長時間はともかくだ。だが、そこにいる時はリラックスするなよ。プサイフィールドを過小評価する人間はゾンビとして終わるんだ。</text>
+	</string>
+	<string id="jup_b6_scientist_tech_b33_about_snags_container_0">
+		<text>あんたはスチール・コンテナを壊すことができるか？</text>
+	</string>
+	<string id="jup_b6_scientist_tech_b33_about_snags_container_1">
+		<text>俺ではないぞ。俺はそれ用の器具を持っていない…。そして、それは健康的でも安全でもない。</text>
+	</string>
+	<string id="jup_b6_scientist_tech_blackbox_0">
+		<text>ブラックボックスを解読できるか？</text>
+	</string>
+	<string id="jup_b6_scientist_tech_blackbox_1">
+		<text>俺はできるが、しかし、やらない。かつてはその種のことをした…。だが、それが好きではなかった。すごく煩わしい。それに、俺は科学者から十分な仕事を得ている。</text>
+	</string>
+	<string id="jup_b6_scientist_tech_csky_outfit_0">
+		<text>CS-3aは何が特別なんだ？</text>
+	</string>
+	<string id="jup_b6_scientist_tech_csky_outfit_1">
+		<text>俺がそれをデザインしたという事実以外にか？…それはゾーンでの最良のスーツのひとつだ。だから、あんたも着用しているだろ？軽くて、機動性があり、その芯は堅固な軍用ボディスーツになっている。俺自身がアノマリー保護材料を加えた…。当時は材料不足だったのが残念だ…。しかし、沼地の真ん中で何が要るんだ…。2、3のパッチを付ければ本当に現代的スーツだ。俺は一番良い装備のスペアを多く持っている。なので問題はない。</text>
+	</string>
+	<string id="jup_b6_scientist_tech_zat_b30_actor_about_owl_0">
+		<text>アウルのもとで働いているのか？</text>
+	</string>
+	<string id="jup_b6_scientist_tech_zat_b30_actor_about_owl_1">
+		<text>いいや。彼は先日、俺がある物を手に入れるのを手伝ってくれた…。好意には好意さ。</text>
+	</string>
+	<string id="jup_b6_scientist_tech_zat_b30_actor_bring_detectors_0">
+		<text>アウルは、あんたに検出器を持っていくように依頼した。これがそうだ。</text>
+	</string>
+	<string id="jup_b6_scientist_tech_zat_b30_actor_bring_detectors_1">
+		<text>いいぞ。それで仕事をしてから、ガイドにそれらをアウルに戻してもらう…。なんにしても、あんたとアウルの間の個人的取り引きだ。</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_0">
+		<text>ああ！なら、あんたがザトンでバンディットに武器を売っている男か！</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_1">
+		<text>しーっ…。ここでそんな話をするなんて、どうかしてるのでは？俺たちは知り合いではないんだぞ。いいな？</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_11">
+		<text>わかった。</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_12">
+		<text>あんたの“ビジネス”のことを指揮官に伝えたらどうする？</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_121">
+		<text>何を彼に伝えるつもりだ？あんたは俺のことは何も知らない。つまり、あんたは目撃者たちを連れ出すのを助けた。あんたは証拠を得てないし、証拠を持たないで俺を非難するアホのように思われるぞ。</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_0">
+		<text>死んでいる傭兵たちからPDAを見つけた。それには俺を暗殺する契約が入っていた。お前がクライアントになっているぞ。</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_1">
+		<text>もういい…。聞くんだ。俺にPDAを渡せば、デューティーのエリート部隊が使う優れた武器を渡そう。それでどうだ？</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_12">
+		<text>いいだろう、その銃をもらおう。</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_13">
+		<text>人を陥れる奴の施しは要らない！</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_2_0">
+		<text>俺を暗殺する契約が入っている別のPDAを持っている。また、お前がクライアントだ。</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_2_1">
+		<text>くそっ…。傭兵の奴らめ…。連中を信頼できないな…。聞いてくれ。これに終止符を打とう…。我々ができることがある。傭兵たちにあんたを捜すことを止めさせるので、俺をそのままにしてくれ。あんたの損失を償うために、あんたが持てるだけの武器を得られるデューティーの秘密倉庫ヘ案内する。</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_2_11">
+		<text>いいぞ、そうしよう。</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_2_111">
+		<text>では、そこで会おう。隠し場所は採石場の隣りにある。</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_2_12">
+		<text>俺はどこにも行かない。ここでその武器を渡すんだ。</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_2_121">
+		<text>ここには何も持っていない！そんな馬鹿なことはしない！隠し場所に行って会わないと、あんたは何も手に入れられないぞ。</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_2_1211">
+		<text>いや、結構だ。</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_2_13">
+		<text>人を陥れる奴の施しは要らない！</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_leave_zone_0">
+		<text>俺はゾーンを去りたい。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_leave_zone_1">
+		<text>本当か？戻る方法はないぞ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_leave_zone_11">
+		<text>本当だ。行くぞ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_leave_zone_12">
+		<text>俺は今は、ここに留まる。</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_2">
+		<text>診てみよう…。そう、あんたの肝臓は思っていたより大きいぞ。それは職業上の問題だろうなあ？それはともかく、あんたはブーラーと同じくらい健康だ。</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1116141">
+		<text>もしそれが光らなければ、まったく普通のものだ。今は、その道は恐ろしい。自分で探しに行ってくれ…。楽しめないと思うがな。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_1112">
+		<text>いいぞ、お好きなように。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_2">
+		<text>“元”モノリサーだって？さて、あんたはそう言うが、確かなのか？</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_2">
+		<text>“元”モノリサーだって？お断りだ。俺が必要とする最後のものは、狂信的な過激暴徒さ。</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_2">
+		<text>なあ、あんた。あんたは自分の心配をするんだな。つまり、それは俺の手の平を十分に潤しておくという意味だ。で、あんたは俺のために何を持ってるんだ、アーティファクトか、それとも15,000か？</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_14">
+		<text>アーティファクトを持ってきた。</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_141">
+		<text>よし、それは何だ？</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_15">
+		<text>価値のあるアーティファクトは持ってない。</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_1411">
+		<text>フレームだ。</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_1412">
+		<text>ゴールドフィッシュだ。</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_1413">
+		<text>ファイアフライだ。</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_1414">
+		<text>スノーフレークだ。</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_1415">
+		<text>うむ…、今はなにもない。</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_151">
+		<text>さて、俺は言わなければならなかったことを言った。今度は、あんたが話すのを聞きたい。</text>
+	</string>
+	<string id="jup_b19_freedom_yar_break_dialog_0">
+		<text>またな。</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_4">
+		<text>もちろんだ！まだ周期的プサイフィールドを研究する必要があり、早ければ早いほどよい。質問だが、このベンチャーの安全性に関して、あんたはどのくらい確かなんだ？我々は試験サンプルを得るのに、確実な援助を必要としている。あんたは科学を支援する気はあるのか？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_employ_stalkers_0">
+		<text>俺は、あんたの新しい研究グループのために、数人のふさわしい者たちを見つけられるだろう。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_employ_stalkers_1">
+		<text>確かか？そのような支援はとても歓迎される。そして、報酬を保証する。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_employ_stalkers_11">
+		<text>わかった。俺はふさわしい者たちを雇おう。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_employ_stalkers_12">
+		<text>俺はもう少しそれを考えたい。</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_complete_14">
+		<text>さあ、これだ。俺はそのトンネルでコントローラーを見つけた。そして、奴を殺した。</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_complete_141">
+		<text>なんと素晴らしい！コントローラーを殺し、我々が必要とするものを得た…。もしそれを知らなかったら、あんたを信じていなかっただろう！それは優れた経験であり、理想的なサンプルだ。あんたの科学への貢献に注目すべきだ。個人的に、そして科学者を代表して、心からの謝意を受理してほしい！</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_complete_15">
+		<text>さあ、これだ。俺はそのトンネルでコントローラーを見つけた。なんとかそいつをやっつけた。</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_complete_151">
+		<text>コントローラーと言ったのか？なんと恐ろしいことだ。重要なことは、我々にサンプルを持って来てくれて、科学に注目すべき貢献をしたということだ。ありがとう、この報酬を受け取ってくれ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_employ_stalkers_done_0">
+		<text>新しい研究グループはどうだ？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_employ_stalkers_done_1">
+		<text>ああ、すごくいい。有能な若者たちだ。これを受け取ってくれ。あんたの人的資源の能力を評価するぞ。</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_31">
+		<text>どうしたんだ？俺は本当に、あんたに会えて嬉しい。しかし、しばらくひとりでいたいんだ。</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_0">
+		<text>捕らわれたストーカーのことで、ここに来た。奴を譲り受けたい。</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_1">
+		<text>俺はバンディットと我々のルールを尊重することを望むが、不必要なトラブルには興味はない。…今は15,000、あるいは適切なアーティファクトがちょうどいいだろう。…俺は公平な人間だ。必要以上には取らない。</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_11">
+		<text>現金を受け取るんだ。</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_111">
+		<text>よし、俺はあんたの行為を尊重しよう。こいつを連れて行って、ストーカーたちに次回は値段がさらに高くなると伝えるんだ。</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_12">
+		<text>俺はそんなに持っていない。</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_121">
+		<text>では、あんたは奴を受け取れない。他に何かあるかな？</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_13">
+		<text>今はちょうど良いものを何も持っていない。また後で来る。</text>
+	</string>
+	<string id="jup_a6_duty_leader_a9_sell_info_1">
+		<text>見てみよう。…さて、戦略に重要なものは何もここにはない。しかし、それは役に立つだろう。書類ひとつ毎に500で、これらをすべて買おう。どうするかな？</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b207_hiding_place_3">
+		<text>見てみよう。…なんてことだ、この情報はデューティーの評判を下げるぞ！4000でそれを買おう。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_halfartefact_zat_b14_111">
+		<text>面白いな。そう、それを2000であんたから買う用意がある。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_halfartefact_zat_b14_2">
+		<text>よし、いいぞ。だが値段は前と同じ、2000だ。</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_114">
+		<text>よし、また会おう。</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_1111121">
+		<text>それは恐ろしい！地球で彼らに何が起こるんだろう？うーむ、ミュータントの可能性がある。それがどのタイプのモンスターなのか、オゼルスキーに尋ねなければならないだろう。とはいえ、プサイフィールドを研究する必要がある。このミッションは一般の科学、そして特に我々のチームにとって不可欠だ。我々は、サンプルを得るためにあんたの支援をすごく必要としている。疑問があるなら、オゼルスキーに会ってくれ。彼は必要な分析を行い、プサイ放射に対するあんたの現在の抵抗を確認する。科学を援助する気はないか？</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_11111112">
+		<text>それを考えてみよう。</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_111">
+		<text>我々の調査チームは地元のストーカーたちで構成されているが、最近高度に異常なプサイフィールドを見つけた。我々が得た理論と測定によれば、このフィールドの性質には、恒常的に放射するものと反して周期的なプサイ効果がある。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_113">
+		<text>不運にも、我々の調査チームは死んだ。また、代わりが見つかるまで、どんな測定をする見込みもない。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_0">
+		<text>待ってくれ…。少し時間をくれないか？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_results_0">
+		<text>アノマリーの測定結果はどうだ？</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_products_0">
+		<text>何か俺に、他の仕事はないか？</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_legend_11">
+		<text>それを聞いている。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_legend_111">
+		<text>残念だが、探索チームを用意するようにハーマンを説得できていない。この現象に関する噂はあまりにも矛盾している。しかし、何かがオアシスが存在することを伝えている。俺の直観はまず狂わない。なので、あんたがそれを見つけて、その存在の証拠を持ってこれたら、非常に感謝する。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_legend_1113">
+		<text>俺がそれを探してみよう。俺はすでにオアシスに行ったことがあるんだ。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_legend_11131">
+		<text>うむ…、おや…、聞き間違えたかな。あんたは何と言ったんだ？</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_0">
+		<text>ヴァノの借金を払いに来た。</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_1">
+		<text>ああ、奴を覚えているぞ。借金は小さくない。 7グランドにまで増えている。</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_1111">
+		<text>よし、これだ。</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_11111">
+		<text>ヴァノに借金はもうないと言ってくれ。</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_111111">
+		<text>いいぞ。</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_1112">
+		<text>そんなには持っていない。</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_11121">
+		<text>それができたら戻ってこい。</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_1113">
+		<text>利子は契約に含まれてなかった。</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_11131">
+		<text>何のことを話してるんだ？俺を子供扱いするなよ。利子がなくて、現金を貸すか？ 今は7グランドになってるんだ。</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_1114">
+		<text>注意して考えろ。俺はここに銃を持っていて、それを使うことは何でもない。…あんたの死体を利子にするというのはどう思うかな？</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_11141">
+		<text>まあ、まあ、落ち着くんだ！我々は合意できると信じてるさ。5グランドだけ払ってくれ。それが奴の借金だ。</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_11142">
+		<text>ハッ…、そんな銃は自分のけつの穴にでも突っ込め！利子を含めて7グランドだ。話は終わりだ。</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_1115">
+		<text>忘れたのか？俺はまだ銃を持ってる。</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_1116">
+		<text>無料でお前を撃ってやるぞ。</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_1117">
+		<text>それを考えよう。</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_2">
+		<text>利子を含めて7グランドだ。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_come_with_me_1">
+		<text>俺は今は大きな仕事を持ってない。なんとかしなくてはならないんだ。…家に帰り、適切な仕事を見つけ、ア－ティファクトのことなど忘れる。…今はグリズリーをどうするかわからない。またトルバもだ…。俺たちは親しくして、いつも互いに援助していた。…わからないが、俺は休みが必要で、まっとうな生活を得なくてはならない。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_come_with_me_2">
+		<text>俺は今は大きな仕事を持ってない。俺は科学者の仕事に行き、なんとかする。…そして家に帰り、外部で適切な仕事を見つける。…ああ、わからないんだ。落ち着いて、まっとうな生活を得なくてはならない。</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_14">
+		<text>では、ミタイを助ける準備はできたか？あんたが、俺が雇った連中とうまくやってくれるのを望んでる。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b207_hiding_place_0">
+		<text>俺はデューティーのトレーダー、モーガンのPDAを持っている。興味はないか？</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_merc_pda_0">
+		<text>俺は、モーガンが傭兵と関係してるのを証明するPDAを持っている。</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_give_artefact_12">
+		<text>実際…、俺はそれを持っておきたい。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_11211">
+		<text>俺は、世界で科学を進歩させて良いことをしようという欲望が、最後にあんたの内部で勝利すると知っていた！よし、計画があるんだ。ストーカー研究グループが調査をする。あんたの仕事は彼らに付き添い、警護しながら困難な土地のガイドをする。幸運をな。ストーカーたちは外であんたを待っている。</text>
+	</string>
+	<string id="jup_b19_freedom_yar_pripyat_start_11">
+		<text>やあ、ストーカー。ここで老人に会って驚いたのか？ハハッ。俺は状況を変更するために、兵士らと一緒にここに来た。俺は装備を修理するが、たまには人間もだ…。</text>
+	</string>
+	<string id="jup_b19_freedom_yar_pripyat_start_12">
+		<text>今、あんたはここに来たが、何をしてやろうかな？</text>
+	</string>
+	<string id="jup_b19_freedom_yar_pripyat_about_0">
+		<text>どのようにプリピャチへ到達したんだ？</text>
+	</string>
+	<string id="jup_b19_freedom_yar_pripyat_about_1">
+		<text>ゲーリーが俺に道を教えたんだ。ストーカーたちは、ここに来ることを長い間計画していた。しかし、彼らは軍と取り引きしたくはなかった。軍が出発したとゲーリーから聞いてすぐに、俺は躊躇しないで動いた。恐れを知らないアンクル・ヤールはここだ！ハハハ！</text>
+	</string>
+	<string id="jup_b19_freedom_yar_pripyat_healing_0">
+		<text>俺は治療が必要だ。</text>
+	</string>
+	<string id="jup_b19_freedom_yar_pripyat_healing_1">
+		<text>この老人を診てくれ…。</text>
+	</string>
+	<string id="jup_b19_freedom_yar_pripyat_healing_111">
+		<text>行こう。そうすれば、あんたは生きられる。腫瘍ができたら、膿を取るんだ。それが良いと聞いている。</text>
+	</string>
+	<string id="jup_b19_freedom_yar_pripyat_healing_2">
+		<text>あんたは十分に健康そうに見える！老人の歩き方とは思えない、ハハッ…。</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_start_dialog_11">
+		<text>楽しみと喜びのある貧しい住み家へようこそ。あんたも楽しんだり喜んだりした後はいい気分になれるだろ？</text>
+	</string>
+	<string id="jup_a12_bandit_payment_dialog_1111">
+		<text>さて、部下たちはいつも俺が母親のように親切すぎると言っている。なので、あんたはこれで満足だろ…。だが、次回は親切にするつもりはない。さあ、ここから出て行くんだ！</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_111113">
+		<text>俺はすでにそこへ行った。バンディットたちは死んだぞ。</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_1111131">
+		<text>おお、あんたはすごい！本当に感謝する！さあ、この金を受け取ってくれ。それは借金を払うつもりのものだった。だが、今、それに値する人間に渡そう。</text>
+	</string>
+	<string id="jup_a10_vano_back_1_1">
+		<text>おお、あんたはすごい！本当に感謝する！さあ、この金を受け取ってくれ。それは借金を払うつもりのものだった。だが、今、それに値する人間に渡そう。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_results_1">
+		<text>スキャナに、この北での異常な活動が記録された。…受信データによって判断すると、そこのアノマリー形成物が不安定なのだと思う。残念だが、この場所からではそれ以上のことはわからない。フィールドでの研究を行なう必要がある。…ただひとつ言えるのは、一般のストーカーの検出器ではこのアノマリーを検出できないということだ。俺が発明したスヴァログが必要になるだろう。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_results_2">
+		<text>スキャナは北のアノマリーの不安定な活動を記録し続けている。もし一般のストーカーの検出器より良いものを持っていれば、たとえばスヴァログでなら、フィールドで調査を行えるだろう。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_complete_1">
+		<text>沼地のアノマリーエリアは遠過ぎる。だが、ノビコフはすでにそのための実用的な方法を見つけた。仕事をやってもらって感謝する。さらに、二番目の結果を楽しみにしているぞ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_complete_2">
+		<text>コパチ村の向うのアノマリーエリアは遠過ぎる。だが、ノビコフはすでにそのための実用的な方法を見つけた。仕事をやってもらって感謝する。さらに、二番目の結果を楽しみにしているぞ。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_complete_3">
+		<text>もちろん。結果を十分に受け取った。実際、作られたデータ容量は非常に大きいので、それを完全に処理するのに数週間かかるだろう。だが、ノビコフはすでにそのための優れた実用的な方法を見つけた。支援を本当に感謝する。</text>
+	</string>
+	<string id="jup_a6_stalker_medik_tech_b202_about_stole_1">
+		<text>いや、そのようなことは何もここで起こっていない。うむ…、だが、つい最近、俺はひとりの怪しい男を見た。散歩に出掛けた帰り道に、ヤニフを去るストーカーを目撃したんだ。彼は俺に気づくとすぐに、無作法にも、俺がどこに住んでいるとか、知っていることを話し始めた。その時は彼をまったく無視した。酔っているのではと思ったからだ。しかし今、それを思うとかなり危険性がある。</text>
+	</string>
+	<string id="jup_a6_stalker_medik_tech_b202_about_stole_11">
+		<text>彼はどこへ行ったんだ？</text>
+	</string>
+	<string id="jup_a6_stalker_medik_tech_b202_about_stole_111">
+		<text>北東の方へだ。俺は、そっちの方での射撃音をいくつか聞いた。だが、それはこのあたりでは普通のことだ。ズールーに尋ねてくれ。彼はいつもタワーにいるので、何かを見たかもしれない。</text>
+	</string>
+	<string id="jup_a6_stalker_medik_tech_b202_about_stole_112">
+		<text>北東の方へだ。彼はおそらく無人駅に行ったんだ。</text>
+	</string>
+	<string id="jup_a6_stalker_medik_tech_b202_about_stole_13">
+		<text>わかった。</text>
+	</string>
+	<string id="jup_a10_vano_help_dialog_15">
+		<text>どうした？</text>
+	</string>
+	<string id="jup_a10_stalker_vano_pripyat_how_are_you_0">
+		<text>どうだい？</text>
+	</string>
+	<string id="jup_a10_stalker_vano_pripyat_how_are_you_1">
+		<text>うまくいってるぞ。つまり、簡単ではないが、なんとかやってる。一緒になら、何でもできるさ！</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_pripyat_how_are_you_0">
+		<text>どうだい？</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_pripyat_how_are_you_1">
+		<text>なんともなあ。ここでは何も良いことを思わない。どこかに移動しなくてはと考えている。すぐに出て行くだろうな…。俺を非難しないでくれよ。</text>
+	</string>
+	<string id="jup_b220_trapper_bloodsucker_lair_hunted_0">
+		<text>俺はザトンで、ブラッドサッカーの巣を一掃した。完全にだ。</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_free_actor_dialog_11">
+		<text>[続ける…]</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_11">
+		<text>[続ける…]</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_contract_11">
+		<text>[続ける…]</text>
+	</string>
+	<string id="jup_b19_freedom_yar_pripyat_healing_11">
+		<text>[続ける…]</text>
+	</string>
+	<string id="jup_a6_duty_leader_employ_stalkers_12">
+		<text>俺は、アノマリーの中で調査をする人々を必要としている。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_employ_stalkers_12">
+		<text>俺は、アノマリーの中で調査をしなくてはならない。</text>
+	</string>
+	<string id="jup_b217_stalker_tech_drunk_0">
+		<text>あの眠っているのは誰だ？</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_artefacts_1">
+		<text>あんたはアーティファクトを見つけたのか？</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_boredom_1">
+		<text>そうだとも！ここですることは何もない。娯楽はこのバックギャモンだけだ。ここはプリピャチではないぞ…。なあ、もし契約を遂行できたら、そこへ行くんだがなあ！</text>
+	</string>
+	<string id="jup_b217_stalker_tech_main_info_2">
+		<text>[続ける…]</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b106_info_about_soroka_1112">
+		<text>あんたはスプリンターが死んだ採石場へ行くんだ。彼が死ぬすぐ前に、フリントが埋蔵品を盗み、そしてアノマリーの中で彼を見捨てて殺そうとしたと、俺に話したんだ。</text>
+	</string>
+	<string id="jup_b25_flint_accuse_1111">
+		<text>彼の名前はスプリンターだった。彼はガスのアノマリーへ歩いていった。そして、あんたが彼のアーティファクトを持って逃げた。わかるだろうが、死ぬ前に彼は俺にすべてを伝えることができたんだ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_hiding_place_2">
+		<text>俺は、あんたがどこからこれを得たか尋ねるつもりはない。端的に話そう。このPDAを4,000で買おう。俺は、我々の供給将校が働いていない時に何をしているのか、興味があるんだ。</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_hiding_place_211">
+		<text>さて、見てみよう。…おお、何ということだ！奴は連中に我々の武器を売ってるだけでなく、倉庫をフリーダムに渡したんだ！！くそっ、すぐに味方を組織しなくてはならない。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b207_hiding_place_211">
+		<text>さて、見てみよう。…信じられないぞ！我々は倉庫のことを知っていて、さらに攻撃も計画した。しかし、警報システムについての情報は、その悪党は一言も言わなかった。ちょっと待ってくれ、部下たちに注意を促す。</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b207_hiding_place_2">
+		<text>さて、俺は純粋に好奇心から、あんたに4,000を払おう。</text>
+	</string>
+	<string id="jup_b15_zulus_group_soldier_about_1">
+		<text>そう、奴は正確には突撃隊員ではない。しかし、銃をうまく扱うことができる。いつも不機嫌そうな顔をしてるので、奴の食べ物はレモンだけかと思うがな。</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_bubble_0">
+		<text>俺は古い冷却塔で、奇妙なアノマリーを見つけた。</text>
+	</string>
+</string_table>

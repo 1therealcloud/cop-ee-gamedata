@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="jup_b15_zulus_b301_after_fight_0">
+		<text>ハッ！やったぞ！俺を助けてくれて感謝する。あんたがいなければ、奴らに食い尽くされていた。やはり、あんたは良いストーカーだ…。あそこで怒ってすまなかった。しかし、あんたが前にUSS銃兵隊にいたと言ってくれてたらな。</text>
+	</string>
+	<string id="jup_b15_zulus_b301_after_fight_1">
+		<text>問題はない。軍のキャンプに行った方がいい。より安全だ。</text>
+	</string>
+	<string id="jup_b15_zulus_b301_after_fight_11">
+		<text>そうだな。プリピャチの周りをひとりで歩き回るより良いだろう。</text>
+	</string>
+	<string id="jup_b15_zulus_b301_after_fight_111">
+		<text>では、行こう。</text>
+	</string>
+	<string id="jup_b15_zulus_b301_after_fight_112">
+		<text>俺はここでやる仕事がある。あんたは行ってくれ。キャンプはランドリーの建物にある。</text>
+	</string>
+	<string id="jup_b15_zulus_b301_after_fight_2">
+		<text>さて、行く時間だ。</text>
+	</string>
+	<string id="jup_b15_zulus_b301_reward_dialog_0">
+		<text>待て…。これを持っていけ…。それはゾーンでの最も信頼できるマシンガンだ。</text>
+	</string>
+	<string id="jup_b15_zulus_b301_reward_dialog_1">
+		<text>待て。それが要らないのか？</text>
+	</string>
+	<string id="jup_b15_zulus_b301_reward_dialog_11">
+		<text>俺はミュータントを退けるのに常に何かを持っている。それに俺は戻ることに決めた。ゲーリーが俺をジュピターに連れて行ってくれる。なので、それはあんたに必要だ。受け取って使ってくれ。</text>
+	</string>
+	<string id="jup_b15_zulus_b301_reward_dialog_111">
+		<text>幸運をな。</text>
+	</string>
+	<string id="jup_b15_zulus_b301_reward_dialog_2">
+		<text>ありがとう。素晴らしい武器だ。</text>
+	</string>
+	<string id="jup_b15_zulus_b301_reward_dialog_21">
+		<text>ハハッ！それほど素晴らしくはないが、ゾーンでは最上の物だ。改造してあって重いが、その種のキャノン砲を持っていれば走る必要はない。敵にランニングをさせられる！</text>
+	</string>
+	<string id="jup_b15_zulus_b301_reward_dialog_211">
+		<text>じゃあな。</text>
+	</string>
+	<string id="jup_b15_zulus_b301_reward_dialog_3">
+		<text>すごい！</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b301_about_zulus_0">
+		<text>ズールーがどこに行ったか知っているか？</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b301_about_zulus_1">
+		<text>奴は去った…。ジュピターへ連れて行くように頼まれて、俺たちはプラントから遠くない別の道を行った。奴はどこに行くかを言わなかった。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b35_about_merc_0">
+		<text>待ってくれ…。俺は不愉快な経験を話しておきたい…。何人かの傭兵にプリピャチへ案内するように頼まれた。最初は多額の料金を払うと言っていたが、すぐにだまされていることに気づいたんだ。見えないところに連れて行かれ、銃口を突き付けられて脅かされた。プリピャチに近づいたところでどうにか逃げた。奴らはもう町にいるだろう。なので、注意してくれ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b35_about_merc_1">
+		<text>もしかして、傭兵が何を話しているか聞いたか？</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b35_about_merc_11">
+		<text>そう、少し聞いた。奴らは俺を生かしておく気はなかったので、連中の計画を秘密にしていなかった。主に、奴らに目的やミッションを示すクライアントの手下に会うことを議論していた。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b35_about_merc_111">
+		<text>その会合がされるのはどこだ？</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b35_about_merc_1111">
+		<text>近くだ。団地の庭の中だ。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b35_about_merc_2">
+		<text>情報に感謝する。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b35_about_merc_actor_0">
+		<text>傭兵のことを話してくれ。奴らが何を話しているか聞いたか？</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b35_about_merc_actor_1">
+		<text>そう、少し聞いた。奴らは俺を生かしておく気はなかったので、連中の計画を秘密にしていなかった。主に、奴らに目的やミッションを示すクライアントの手下に会うことを議論していた。</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b35_about_merc_actor_11">
+		<text>その会合がされるのはどこだ？</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b35_about_merc_actor_111">
+		<text>近くだ。団地の庭の中だ。</text>
+	</string>
+	<string id="pri_a15_sokolov_arranged_outfit_0">
+		<text>科学者にスーツの用意をしてもらった。それについて、ハーマンに会いに行ってくれ。</text>
+	</string>
+	<string id="pri_a15_sokolov_arranged_outfit_1">
+		<text>よし…、会うのはどこでだ？</text>
+	</string>
+	<string id="pri_a15_sokolov_arranged_outfit_11">
+		<text>ヤニフ駅の近く、ズールーのところだ。</text>
+	</string>
+	<string id="pri_a15_sokolov_arranged_outfit_111">
+		<text>そこはストーカーでいっぱいだ！あんたが俺をそこに連れて行ってくれ。俺がひとりでいけばトラブルになる。あんたは連中に知られているから、一緒なら撃たないだろう。</text>
+	</string>
+	<string id="pri_a15_sokolov_evacuation_point_0">
+		<text>あんたはどの撤退ポイントに行ったんだ？</text>
+	</string>
+	<string id="pri_a15_sokolov_evacuation_point_1">
+		<text>すまない。それは話せない。機密なんだ。</text>
+	</string>
+	<string id="pri_a15_sokolov_goto_zulus_0">
+		<text>ズールーに会いに行こう。</text>
+	</string>
+	<string id="pri_a15_sokolov_goto_zulus_1">
+		<text>よし。だが最初に、科学的スーツを手に入れるために、ハーマンに会いに行く必要があるだろう。</text>
+	</string>
+	<string id="pri_a15_sokolov_goto_zulus_11">
+		<text>さあ、行こう。</text>
+	</string>
+	<string id="pri_a15_sokolov_goto_zulus_2">
+		<text>行くが…、外は光熱放射だ。少し待たないか？</text>
+	</string>
+	<string id="pri_a15_sokolov_jupiter_0">
+		<text>どのようにしてここに来たんだ？</text>
+	</string>
+	<string id="pri_a15_sokolov_jupiter_1">
+		<text>俺のヘリがジュピターの工場に墜落し、屋根を突き抜けた。俺がただひとりの生存者だ。どうにかジュピター・プラントから出て、最も近い撤退ポイントに前進した。しかし、そこには誰もいなかった。で、ゲーリーに出逢い、彼が俺をトーチカに連れてきてくれた。</text>
+	</string>
+	<string id="pri_a15_sokolov_need_outfit_0">
+		<text>プリピャチへ行くには、閉サイクル呼吸モジュール付きスーツが必要だ</text>
+	</string>
+	<string id="pri_a15_sokolov_occupation_0">
+		<text>あんたはここで何をしているんだ？</text>
+	</string>
+	<string id="pri_a15_sokolov_occupation_1">
+		<text>命令は撤退ポイントへの移動だが、ゾーンは危険すぎる。俺は突撃隊員ではなくパイロットだ！なので、作戦が完了して俺が収容されることを望んで、ここで待っているんだ。</text>
+	</string>
+	<string id="pri_a15_sokolov_pripyat_group_0">
+		<text>俺はプリピャチへ一緒に行くチームを作っている。加わらないか？</text>
+	</string>
+	<string id="pri_a15_sokolov_pripyat_group_1">
+		<text>プリピャチ？よし、そうしよう…。おそらく、我々の兵士数人がそこで生き残っているだろう。プリピャチには撤退ポイントがある。なので、実際に俺の目的地だ。ひとりでそれはできないだろうし、喜んであんたのチームと一緒にそれをしたい。</text>
+	</string>
+	<string id="pri_a15_sokolov_pripyat_ready_0">
+		<text>行く準備はできたか？</text>
+	</string>
+	<string id="pri_a15_sokolov_pripyat_ready_1">
+		<text>ああ、大丈夫だ。</text>
+	</string>
+	<string id="pri_a15_sokolov_start_dialog_11">
+		<text>やあ、ストーカー。</text>
+	</string>
+	<string id="pri_a15_sokolov_start_dialog_12">
+		<text>やあ。</text>
+	</string>
+	<string id="pri_a15_sokolov_start_dialog_13">
+		<text>やあ。</text>
+	</string>
+	<string id="pri_a15_sokolov_start_dialog_14">
+		<text>やあ、少佐。</text>
+	</string>
+	<string id="pri_a15_sokolov_where_from_0">
+		<text>どこで軍の服を手に入れたんだ？</text>
+	</string>
+	<string id="pri_a15_sokolov_where_from_1">
+		<text>ああ…。そう、軍用ヘリの何機かが墜落したことは、今ごろはもう誰でも知っているだろうな。俺は、そのヘリの一機の副操縦士のソコロフ中尉だ。</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_dialog_0">
+		<text>その歩哨について話してくれ…。</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_dialog_1">
+		<text>彼の信号は古い食料雑貨店から来る。しかし、応答はない。おそらく、彼は無線をなくしたんだろう。ここで確かめるのは難しい。彼を見つける必要があるが…。</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_dialog_11">
+		<text>わかった、大佐！俺がやってみる。</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_pass_task_dialog_0">
+		<text>その歩哨について…。</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_pass_task_dialog_1">
+		<text>そう…。すべてそのコントローラーが原因だ…。それが多分、偵察チームにも起こったことだ。互いに撃ち合わせたんだ…。そいつらはゾーンでの最悪のものだ。さらに、俺たちは連中と戦うようには訓練されていない。コントローラーが来たのはまったくの驚きで、さらに人を失った…。</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_pass_task_dialog_11">
+		<text>少なくともこのコントローラーは片づけた。</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_pass_task_dialog_111">
+		<text>今は少し落ち着くよう願っている…。あんたの支援に感謝する、少佐。このミッションで、あんたは多くの弾薬を使わなくてはならないと思う。キリロフ中尉を見つけて、必要なキットを出してくれるように依頼するんだ。</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_pass_task_dialog_1111">
+		<text>ありがとう、大佐！</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_pass_task_dialog_12">
+		<text>心配しないでくれ、大佐…。俺がそのミュータントをやっつける。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_dialog_1_0">
+		<text>ミッションの詳細をもっと話してくれないか？</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_dialog_1_11">
+		<text>そいつは誰だ？</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_a25_base_reminding_1_0">
+		<text>すぐに妨害源を見つけなければ、少ししかやらないうちに、死ぬのを待つことになる。最初のモノリスの大攻撃で、軍はバラバラにされるだろう…。そして、作戦は決定的な失敗に終わってしまう…。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_a25_base_reminding_1_1">
+		<text>俺が、できるだけ早く妨害源を見つけるようにする。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_a25_base_reminding_2_0">
+		<text>では、少佐？電波の妨害源を見つけたのか？</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_a25_base_reminding_2_1">
+		<text>いや、まだ作業をしている…。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_about_merc_start_0">
+		<text>ゲーリーは傭兵との出来事を俺に話してくれた…。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_about_merc_start_1">
+		<text>そうだ、奴はそのことを俺にも話した…。ゲーリーは逃げるとすぐに、追われるのを恐れながらここに来た。幸運にも…、奴にも我々にもだが、傭兵は奴を追わなかった。我々は、傭兵たちとクライアントの手下が会うことになっている場所を見張っている。しかし、そこはすべてが静かだ。俺は、ここの後で傭兵たちが何をするのか知りたい…。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_0">
+		<text>俺は、傭兵らがプリピャチの秘密研究所を探しているという情報を持っている。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_1">
+		<text>このプリピャチの秘密研究所を？だが、どこでその情報を得たんだ？</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_11">
+		<text>ザトンで傭兵のノートパソコンからだ。さらに、アンクル・ヤールと呼ばれるストーカーから聞いた話でそれを確認している。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_111">
+		<text>ふむ…。他に何かを知っているか？</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_1111">
+		<text>連中は中央研究所を探している。俺は調査の間に、その座標を見つけ出すことができた。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_11111">
+		<text>それが本当なら、ゾンビと狂信者の上に、さらにもうひとつの敵を持っていることを意味する…。行動計画を決める必要がある。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_111111">
+		<text>可能ならば、会合を観察し、クライアントの代表者を始末しなくてはならない。そうすれば、誰もしばらくの間、ラボX8へ行かないことを保証する。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_1111111">
+		<text>誰が研究所のことを知っているのかわからないが、傭兵がそこに着けなくなるので、それは良い解決法だ。だが同時に、傭兵たちもすぐに対応し、奴らは脅威になるだろう。できれば両方の目標を倒すんだ。あんたと行くようにキリロフ中尉に命じよう。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_11111111">
+		<text>わかった。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_11111112">
+		<text>待て、たぶん我々は別の目標を選ぶべきだ。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_111111121">
+		<text>どちらの目標が優先か決めてくれ。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_111112">
+		<text>傭兵たちのリーダーを倒す必要がある。首が切られた傭兵部隊は、たいした問題にならないだろう。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_1111121">
+		<text>それは良い解決法だ。しかし、おそらく伝令兵が逃げて、研究所に関する情報を他のどこかに渡すだろう。そして、まだ傭兵らはそこに到達できる。できれば両方の目標を倒すんだ。あんたと行くようにキリロフ中尉に命じよう。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_111113">
+		<text>俺には、このための時間がない。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_12">
+		<text>ザトンで傭兵のノートパソコンからだ。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_13">
+		<text>ヤニフ駅から来たストーカー、アンクル・ヤールから聞いた話だ。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_reward_0">
+		<text>傭兵たちについて…。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_reward_1">
+		<text>よくやった。両方の目標を倒した。今、傭兵たちは我々の前にはおらず、研究所への不必要な関心を回避できるだろう。ライフルをそのまま持っていていい。ここに、さらに弾薬があるぞ。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_reward_2">
+		<text>よし、今、リーダーが死んだので、傭兵らは我々の問題にならない。しかし、それを見てクライアントの手下は気がついた。奴らは研究所に現れるだろう…。油断するなよ…。ライフルをそのまま持っていていい。ここに、さらに弾薬があるぞ。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_reward_3">
+		<text>いいぞ。研究所の位置を知っていた人間が死んだので、傭兵はそれを見つけられないだろう。とは言っても、プリピャチを去るかは疑問だ。つまり、常に我々に対する脅威になるだろう。油断するなよ…。ライフルをそのまま持っていていい。ここに、さらに弾薬があるぞ。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_reward_4">
+		<text>では、最後の瞬間に目標を変更したのか？それは良い決定だった。今、リーダーが死んだので、傭兵たちは我々の問題にならない。しかし、それを見てクライアントの手下は気がついた。奴らは研究所に現れるだろう…。油断するなよ…。ライフルをそのまま持っていていい。ここに、さらに弾薬があるぞ。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_reward_5">
+		<text>では、最後の瞬間に目標を変更したのか？それは良い決定だった。今、研究所の位置を知っていた人間が死んだので、傭兵はそれを見つけられないだろう。とは言っても、プリピャチを去るかは疑問だ。つまり、常に我々に対する脅威になるだろう。油断するなよ…。ライフルをそのまま持っていていい。ここに、さらに弾薬があるぞ。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_reward_6">
+		<text>それは、それほどうまくいかなかった。傭兵のリーダーは生きていて、クライアントの手下になってる。今、傭兵たちは我々について知っており、モノリス部隊と同様に脅威になるだろう。その上、連中は研究所の位置を知った。そこに現われるのは時間の問題だ。油断するなよ…。ライフルをそのまま持っていていい。ここに、さらに弾薬があるぞ。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_evacuation_ready_0">
+		<text>あんたの兵士を準備してくれ、大佐。俺も行く。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_evacuation_ready_1">
+		<text>よし。ストレロクを援護してくれ、少佐。自分たちは大丈夫だ。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_evacuation_start_11">
+		<text>そう…。我々の中であんたとストレロクはゾーンで最多の経験を持っている。違いは、ストレロクの経験は噂で、あんたはプロなのが明白なことだ。俺が言いたいのは、俺は少佐に期待しているということだ。ストレロクから目を離さないでくれ。我々には、もうあまり人が残っていないからな。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_evacuation_start_12">
+		<text>部隊は出発の準備ができている。少佐の指示を待っている。</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_after_scene_dialog_0">
+		<text>おかしな奴らはすべて死んだようだ。ライフルを持って、今の内にここから逃げよう。</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_after_scene_dialog_1">
+		<text>わかった。</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_actor_ready_0">
+		<text>用意はいいぞ。行こう。</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_actor_ready_1">
+		<text>よし。部隊の準備はできた。</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_actor_ready_11">
+		<text>出発だ。</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_actor_ready_2">
+		<text>待たなくては。光熱放射の中で人を失いたくない。</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_dialog_0">
+		<text>俺はタラソフ大尉。あんたは少佐らしいが、俺がこれの指揮官だ。それは俺の命令が絶対ということを意味する。部隊のすべての人間の生命はそれに依存する。計画は次のとおりだ…。我々は、病院の西側セクションに陣を作り、モノリス部隊が現われるのを待つ。不必要に注意を引きつけないように、素早く仕事をしなくてはならない。</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_dialog_1">
+		<text>了解、さあ行くぞ。</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_dialog_11">
+		<text>よし。部隊の準備はできた。</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_dialog_111">
+		<text>出発だ。</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_dialog_12">
+		<text>待たなくては。光熱放射の中で人を失いたくない。</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_dialog_2">
+		<text>待ってくれ、大尉。俺は準備ができていない。</text>
+	</string>
+	<string id="pri_a22_army_signaller_about_rfi_source_0">
+		<text>前方に何か新しい妨害源があるのか？</text>
+	</string>
+	<string id="pri_a22_army_signaller_about_rfi_source_1">
+		<text>多くの妨害源を識別した。そのうちのひとつは近くだ。それを破壊すると、おそらく司令部と通信できるだろう。</text>
+	</string>
+	<string id="pri_a22_army_signaller_about_rfi_source_2">
+		<text>妨害源の座標を確認した。それは特別の種類で、高周波かマイクロ波の送信機に違いない。</text>
+	</string>
+	<string id="pri_a22_army_signaller_about_rfi_source_3">
+		<text>破壊した装置は妨害源だった。そのロード装置もいくつかあるだろう。だが、すでに我々は司令部との通信を確保した。</text>
+	</string>
+	<string id="pri_a22_army_signaller_about_signal_0">
+		<text>信号のことを話してくれ。</text>
+	</string>
+	<string id="pri_a22_army_signaller_about_signal_1">
+		<text>信号は現われたり消えたりし続けている。しかし、現われるごとに、それは基地に接近している。</text>
+	</string>
+	<string id="pri_a22_army_signaller_about_signal_11">
+		<text>それだけか？</text>
+	</string>
+	<string id="pri_a22_army_signaller_about_signal_111">
+		<text>はっきりとは…。わかるのは、信号が無線通信にめったに使用されない周波数上で送信されているということだ。</text>
+	</string>
+	<string id="pri_a22_army_signaller_about_signal_12">
+		<text>わかった。</text>
+	</string>
+	<string id="pri_a22_army_signaller_b35_about_merc_0">
+		<text>この銃と弾薬を持っていくんだ…。落ち着いてやれ。俺は反対側から陣地を見て、奴らが現われたらすぐに連絡をする。</text>
+	</string>
+	<string id="pri_a22_army_signaller_b35_about_merc_1">
+		<text>よし。</text>
+	</string>
+	<string id="pri_a22_army_signaller_start_dialog_11">
+		<text>やあ。俺はキリロフ中尉。武器のメンテナンスおよび武器庫の責任者だ。</text>
+	</string>
+	<string id="pri_a22_army_signaller_start_dialog_111">
+		<text>弾薬を手に入れたのか？</text>
+	</string>
+	<string id="pri_a22_army_signaller_start_dialog_1111">
+		<text>そう、我々は先日、モノリスの倉庫に侵入した。そこはゾーンで得られるすべてのタイプの武器用弾薬でいっぱいだった…。連中がここでどのようにしてこれほど多くの武器類を手に入れたのかと驚いた…。境界線の警備兵のひとりが、それを売っていたんだと考えている…。</text>
+	</string>
+	<string id="pri_a22_army_signaller_start_dialog_112">
+		<text>ならば、俺の銃を修理できるか？</text>
+	</string>
+	<string id="pri_a22_army_signaller_start_dialog_1121">
+		<text>もちろんだ。俺たちはすべての種類の武器の修理を訓練している。</text>
+	</string>
+	<string id="pri_a22_army_signaller_start_dialog_113">
+		<text>わかった。</text>
+	</string>
+	<string id="pri_a22_army_signaller_start_dialog_12">
+		<text>こんちは。</text>
+	</string>
+	<string id="pri_a22_army_signaller_start_dialog_13">
+		<text>この頭痛はどこから来るんだ…。</text>
+	</string>
+	<string id="pri_a22_army_signaller_start_dialog_14">
+		<text>さあ、これだ。決定的だ…。、我々がそれをわかるかどうかだが…。</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_0">
+		<text>俺は弾丸が要る。</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_1">
+		<text>問題はない…。正確に何がほしい？</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_11">
+		<text>9x18mmピストル弾をくれ…。</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_111">
+		<text>これだ…、他には？</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_112">
+		<text>これだ…。</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_12">
+		<text>9x19mmピストル弾をくれ…。</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_13">
+		<text>11.43x23mmピストル弾をくれ…。</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_14">
+		<text>ショットガンの弾をくれ…。</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_15">
+		<text>5.45x39mmアサルトライフル弾をくれ…。</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_16">
+		<text>5.56x45mmアサルトライフル弾をくれ…。</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_17">
+		<text>9x39mmアサルトライフル弾をくれ…。</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_18">
+		<text>狙撃用ライフルの弾をくれ…。</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_19">
+		<text>マシンガンの弾をくれ…。</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_2">
+		<text>もう何も出せない、少佐。大佐の命令は弾薬の保存だ。</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_20">
+		<text>よし、それはもういい。</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_grenade_0">
+		<text>グレネードが必要だ。</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_grenade_1">
+		<text>問題はない。種類は何だ？</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_grenade_11">
+		<text>グレネードだ。</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_grenade_111">
+		<text>これだ…。</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_grenade_12">
+		<text>VOG-25ランチャー弾をくれ…。</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_grenade_13">
+		<text>M209ランチャー弾をくれ…。</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_grenade_14">
+		<text>いや、いい。</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_grenade_2">
+		<text>もう何も出せない、少佐。大佐の命令は弾薬の保存だ。</text>
+	</string>
+	<string id="pri_a25_army_medic_need_health_care_0">
+		<text>俺は治療が必要だ。</text>
+	</string>
+	<string id="pri_a25_army_medic_need_health_care_1">
+		<text>俺はいつでも喜んで助ける。診てみよう…。</text>
+	</string>
+	<string id="pri_a25_army_medic_need_health_care_111">
+		<text>あんたは健康で元気だぞ。</text>
+	</string>
+	<string id="pri_a25_army_medic_rescued_0">
+		<text>その後どんな感じだ？</text>
+	</string>
+	<string id="pri_a25_army_medic_rescued_1">
+		<text>今は大丈夫だ…。幼稚園の後ではショックを受けた状態だった。しかし、光熱放射が始まってすぐに、気を取り戻した…。</text>
+	</string>
+	<string id="pri_a25_army_medic_start_dialog_12">
+		<text>こんちは。</text>
+	</string>
+	<string id="pri_a25_army_medic_start_dialog_13">
+		<text>大事なことはヘリまで到達することだ。</text>
+	</string>
+	<string id="pri_a25_army_medic_supply_medicine_0">
+		<text>俺は医療用品が必要だ。</text>
+	</string>
+	<string id="pri_a25_army_medic_supply_medicine_1">
+		<text>俺が何を持っているか確認しよう。さあ、これを受け取れ…。</text>
+	</string>
+	<string id="pri_a25_army_medic_supply_medicine_2">
+		<text>悪いが、もうほとんど持っていない。あんたに何も渡せない。</text>
+	</string>
+	<string id="pri_b305_strelok_about_base_0">
+		<text>我々はあんたの無線信号をモニターした。</text>
+	</string>
+	<string id="pri_b305_strelok_about_base_1">
+		<text>そうだ。俺はガイドと呼ばれるストーカーと連絡をとった。彼は、地下のトンネルを通って、この場所へ着く方法を話してくれた。</text>
+	</string>
+	<string id="pri_b305_strelok_about_base_11">
+		<text>ガイドとは誰だ？</text>
+	</string>
+	<string id="pri_b305_strelok_about_base_111">
+		<text>彼は伝説のストーカーだ。ゾーンのどこにでも案内できると言われている…。軍の兵士たちが彼に出逢ったのは幸運だ。彼なしでは、長く生きていなかっただろう。</text>
+	</string>
+	<string id="pri_b305_strelok_about_base_12">
+		<text>どのようにして軍がここにいることを知ったんだ？</text>
+	</string>
+	<string id="pri_b305_strelok_about_base_121">
+		<text>ガイドが俺に話した。彼は、ここにコヴァルスキーとその部隊を連れてきた男だ。</text>
+	</string>
+	<string id="pri_b305_strelok_about_base_13">
+		<text>わかった。</text>
+	</string>
+	<string id="pri_b305_strelok_about_information_0">
+		<text>あんたは政府に何の情報を渡したいんだ？</text>
+	</string>
+	<string id="pri_b305_strelok_about_information_1">
+		<text>多くのものをだ…。ゾーンを破壊するために、俺が持っている情報を利用できると信じている。それを自分自身ができると考えた…。だが、はるかに複雑であることが判明した。それを始めた人々は、もう管理をしていなかった…。我々がここから出たら、すべてについて説明しよう。</text>
+	</string>
+	<string id="pri_b305_strelok_about_station_0">
+		<text>石棺の中で何を見たんだ？</text>
+	</string>
+	<string id="pri_b305_strelok_about_station_1">
+		<text>それはすべて偽物だ…。モノリス、願望機はまったくの嘘で、心に暗い影を投げかける装置なんだ。そして、その後ろの人間たちは他のどこかに隠れている…。</text>
+	</string>
+	<string id="pri_b305_strelok_about_station_11">
+		<text>誰がその後ろにいるか知っているか？</text>
+	</string>
+	<string id="pri_b305_strelok_about_station_111">
+		<text>たぶんイエスで、たぶんノーだ…。今は何を信じるべきかわからない…。にもかかわらず、奴らが俺に望んだ以上のことを、俺は見つけ出したんだ。</text>
+	</string>
+	<string id="pri_b305_strelok_about_station_12">
+		<text>よし、それで十分だ。</text>
+	</string>
+	<string id="pri_b305_strelok_dialog_11">
+		<text>俺が知っているものすべてを共有しよう。この情報が正しい人々に届くというのであればな。</text>
+	</string>
+	<string id="pri_b305_strelok_note_0">
+		<text>俺はここに来る途中であんたのグループの隠し場所を見つけた…。</text>
+	</string>
+	<string id="pri_b305_strelok_note_1">
+		<text>あんたがどのようにしてそれらを見つけたかのか不思議だ…。中にいくつかの記録があったはずだが、見つけなかったか？</text>
+	</string>
+	<string id="pri_b305_strelok_note_11">
+		<text>そうだ。この3つのノートを見つけた。</text>
+	</string>
+	<string id="pri_b305_strelok_note_111">
+		<text>ありがとう…。ゴーストとファングは俺の友人だった。一緒にスコーチャーを通過し、チョルノービリ原発に達した。不運にも2人とも死んだ。帰ってきた後、部隊は解散した。俺は負傷して、沼地で医者と留まった。再び彼らを見ていない…。ファングが傭兵たちに殺され、ゴーストが科学者たちを信用して死んだのを知ったのは、それほど後のことではない。とにかく、それは過去のことだ…。今、友人たちが無駄死にでなかったことを確かめるために、俺が何を行うべきかを知っている。</text>
+	</string>
+	<string id="pri_b305_strelok_note_12">
+		<text>そうだ。これがゴーストへのあんたのメッセージだ。</text>
+	</string>
+	<string id="pri_b305_strelok_note_121">
+		<text>ありがとう…。ゴーストとファングは俺の友人だった。一緒にスコーチャーを通過し、チョルノービリ原発に達した。帰ってきた後、部隊は解散した。俺は負傷して、沼地で医者と留まった。再び彼らを見ていない…。ファングが傭兵たちに殺され、ゴーストが科学者たちを信用して死んだのを知ったのは、それほど後のことではない…。</text>
+	</string>
+	<string id="pri_b305_strelok_note_13">
+		<text>そうだ。これがあんたへのファングのノートだ。</text>
+	</string>
+	<string id="pri_b305_strelok_note_131">
+		<text>ありがとう…。ファングは俺の友人だった。ゴーストとファングと一緒にスコーチャーを通過し、チョルノービリ原発に達した。帰ってきた後、部隊は解散した。俺は負傷して、沼地で医者と留まった。再び彼らを見ていない…。ファングが傭兵たちに殺され、ゴーストが科学者たちを信用して死んだのを知ったのは、それほど後のことではない…。</text>
+	</string>
+	<string id="pri_b305_strelok_note_14">
+		<text>そうだ。これがファングへのあんたのメッセージだ。</text>
+	</string>
+	<string id="pri_b305_strelok_note_141">
+		<text>ありがとう…。ファングは俺の友人だった。ゴーストとファングと一緒にスコーチャーを通過し、チョルノービリ原発に達した。中心から帰ってきた後、部隊は解散した。俺は負傷して、沼地で医者と留まった。再び彼らを見ていない…。ファングが傭兵たちに殺され、ゴーストが科学者たちを信用して死んだのを知ったのは、それほど後のことではない…。</text>
+	</string>
+	<string id="pri_b305_strelok_note_15">
+		<text>そうだ。これがゴーストへのあんたのノートと、あんたへのファングのノートだ。</text>
+	</string>
+	<string id="pri_b305_strelok_note_151">
+		<text>ありがとう…。ゴーストとファングは俺の友人だった。一緒にスコーチャーを通過し、チョルノービリ原発に達した。不運にも二人とも死んだ。帰ってきた後、部隊は解散した。俺は負傷して、沼地で医者と留まった。再び彼らを見ていない…。ファングが傭兵たちに殺され、ゴーストが科学者たちを信用して死んだのを知ったのは、それほど後のことではない…。</text>
+	</string>
+	<string id="pri_b305_strelok_note_16">
+		<text>そうだ。これがゴーストへのあんたのノート、そしてもうひとつはファングへのだ。</text>
+	</string>
+	<string id="pri_b305_strelok_note_161">
+		<text>ありがとう…。ゴーストとファングは俺の友人だった。一緒にスコーチャーを通過し、チョルノービリ原発に達した。不運にも二人とも死んだ。帰ってきた後、部隊は解散した。俺は負傷して、沼地で医者と留まった。再び彼らを見ていない…。ファングが傭兵たちに殺され、ゴーストが科学者たちを信用して死んだのを知ったのは、それほど後のことではない…。</text>
+	</string>
+	<string id="pri_b305_strelok_note_17">
+		<text>そうだ。これがファングへのあんたのメッセージと、彼からあんたへのメッセージだ。</text>
+	</string>
+	<string id="pri_b305_strelok_note_171">
+		<text>ありがとう…。ゴーストとファングは俺の友人だった。一緒にスコーチャーを通過し、チョルノービリ原発に達した。中心から帰ってきた後、部隊は解散した。俺は負傷して、沼地で医者と留まった。再び彼らを見ていない…。ファングが傭兵たちに殺され、ゴーストが科学者たちを信用して死んだのを知ったのは、それほど後のことではない…。</text>
+	</string>
+	<string id="pri_b305_strelok_note_18">
+		<text>そうだ。残念だが、俺のところに彼らはいない。</text>
+	</string>
+	<string id="pri_a25_army_medic_need_health_care_2">
+		<text>診てみよう…。問題がある、少佐。つまり、あんたはたぶん宇宙計画の医学試験に合格するだろう。なんとも素晴らしい身体だ！ハハハ！</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_dialog_21">
+		<text>少佐、来てくれ。モノリスたちは待ってないぞ。</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_start_0">
+		<text>少佐、我々の歩哨が行方不明で、その位置から消えた。彼のビーコン信号が食料雑貨店から来るが、応答はない。誰も、何がそこで起こったのかわからないんだヘリの墜落がショックを与え、彼はパニックに陥っているのかもしれない。ビーコン信号を調べてくれないか？</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_start_1">
+		<text>それをやろう。</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_start_2">
+		<text>何も約束できない。</text>
+	</string>
+	<string id="pri_a16_military_colonel_a20_find_recon_squd_dialog_0">
+		<text>少佐、我々は偵察部隊を見つけなくてはならない。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_dialog_1_1">
+		<text>あんたと攻撃チームは、タラソフ大尉が示すオブジェクトA17に進む必要がある。目標は通路によってつながる2つの病棟だ。モノリサーたちは現在、西の病棟にいる。あんたは別の病棟の中で待ち伏せを準備するんだ。奴らにはそのライフルがあり、おそらく最も大きな奴がそれを持っている。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_dialog_1_111">
+		<text>奴はおそらくその部隊のリーダーだ。部下が、奴が戦士たちに説教するのを見た。注意してくれ。奴がどんな男だか、誰にもわからない。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_dialog_1_12">
+		<text>了解した、大佐。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_task_dialog_0">
+		<text>やあ、俺がこの部隊の司令官のコヴァルスキー大佐だ。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_task_dialog_1">
+		<text>俺はUSS銃兵隊のデグチャレフ少佐だ。フェアウェイ作戦の失敗の調査を委任されている。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_task_dialog_11">
+		<text>わかった。では、聞いてくれ、少佐。フェアウェイ作戦は我々のヘリとともに失敗した。俺の部下の半分が死んで、また、司令部との連絡も取れない。俺はあんたが言うように、なぜ作戦がうまくいかなかったかを知りたい。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_task_dialog_111">
+		<text>何か考えはあるのか？</text>
+	</string>
+	<string id="pri_a17_military_base_commander_task_dialog_1111">
+		<text>俺がただ一つ思いつくのは、ヘリが撃ち落とされたということだ。我々がよく知らない非常に強力な武器を使って、撃ち落とされたんだ。モノリサーは、CNPPに対する最初の攻撃で、ある武器を使った。その武器をひとつ奪って、調べることを計画している。あんたが戦闘をするのなら、この武器を持つモノリス部隊を探し出してある。攻撃チームが俺の合図で作戦を始めるのを待っているが、どうするかな？</text>
+	</string>
+	<string id="pri_a17_military_base_commander_task_dialog_11111">
+		<text>あんたが得たすべての情報も含め、そのやり方に同意しよう。作戦は俺の自由にさせてくれ。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_a23_about_gauss_labx8_0">
+		<text>俺は未確認の武器、ガウス・ライフルの情報を持っている。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_a23_about_gauss_labx8_1">
+		<text>おお！それはどのように作動するんだ？ヘリを撃ち落とすのに、それを使用できるのか？</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_a23_about_gauss_labx8_11">
+		<text>技術的にはできる。しかし、アクセレート弾丸はヘリに弾痕を残す。だが、どれにも残ってなかったんだ。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_a23_about_gauss_labx8_111">
+		<text>クソッ…、話が行き止まりだ。他に考えがない。今、我々ができるのは、このおぞましいゾーンの真ん中に座り、彼らの来るのを待ち望むしかない。…愚痴はいくらでも言えるが、今ここでできることの心配をしよう。あんたのおかげで、防御物に隠れることがアクセレート弾丸からは安全ではないと知った。少佐、あんたに感謝する。我々が新しい何かを得れば、あんたに連絡をとろう。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_a23_about_gauss_labx8_12">
+		<text>技術的にはできる。しかし、スティングレイ4号機と5号機は電子不調により墜落した。アクセレート弾丸では、それはできなかっただろう。</text>
+	</string>
+	<string id="pri_a17_got_gauss_0">
+		<text>作戦の進行状況はどうだ？</text>
+	</string>
+	<string id="pri_a17_got_gauss_1">
+		<text>モロゾフ軍曹は死んだ。モノリサーたちは自分たちの人間を犠牲にして、我々を罠へ導いたんだ。</text>
+	</string>
+	<string id="pri_a17_got_gauss_11">
+		<text>畜生め！奴らは我々の計画のことを知ることができなかったはずだ。…我々は狙撃兵を失った。作戦目標はどうする？</text>
+	</string>
+	<string id="pri_a17_got_gauss_2">
+		<text>何人かを失った。モノリサーたちは自分たちの人間を犠牲にして、我々を罠へ導いたんだ。</text>
+	</string>
+	<string id="pri_a17_got_gauss_21">
+		<text>畜生め！奴らは我々の計画のことを知ることができなかったはずだ。…我々は数人を失った。作戦目標はどうだ？</text>
+	</string>
+	<string id="pri_a17_got_gauss_3">
+		<text>部隊はやられた。モノリサーたちは自分たちの人間を犠牲にして、我々を罠へ導いたんだ。</text>
+	</string>
+	<string id="pri_a17_got_gauss_31">
+		<text>畜生め！奴らは我々の計画のことを知ることができなかったはずだ。…我々はタラソフとその部下を失った。作戦目標はどうだ？</text>
+	</string>
+	<string id="pri_a17_got_gauss_4">
+		<text>俺はその武器を得たが、戦闘で破損されている。</text>
+	</string>
+	<string id="pri_a17_got_gauss_41">
+		<text>それでは、ヘリを撃ち落とすために、それが使用されたかどうか判断できない。少佐、聞いてくれ。あんたはストーカーたちと関係を持っている。彼らがこの武器に以前に遭遇したことはありえる。そして、その中には技術者がいる。彼らに尋ねてみてくれないか？</text>
+	</string>
+	<string id="pri_a17_got_gauss_411">
+		<text>わかった。</text>
+	</string>
+	<string id="pri_a17_got_gauss_4111">
+		<text>よし。ところで、別のストーカーがジュピターからここに来ている。よければ、まず彼と少し話してくれ。</text>
+	</string>
+	<string id="pri_a17_got_gauss_5">
+		<text>俺はまだ仕事中だ。</text>
+	</string>
+	<string id="pri_a17_got_gauss_51">
+		<text>わかった。少佐、我々はその武器を必要としている。あんたがこれがどれくらい重要かを理解してると信じてるぞ。</text>
+	</string>
+	<string id="pri_a17_got_gauss_511">
+		<text>うーむ。</text>
+	</string>
+	<string id="pri_a15_sokolov_evacuation_note_0">
+		<text>俺はボルホフ対空複合施設であんたのノートを見つけた。受け取るんだ。</text>
+	</string>
+	<string id="pri_a15_sokolov_evacuation_note_1">
+		<text>聞いてくれ。…ああ、気楽にな。我々の人間が誰もその場所に現れないとは思えない。もしこの辺で誰か軍の者を見たら、俺に知らせてくれ。いいな？感謝するぞ。</text>
+	</string>
+	<string id="pri_a25_army_medic_freezer_0">
+		<text>少佐…。感謝する！助かった！</text>
+	</string>
+	<string id="pri_a25_army_medic_freezer_1">
+		<text>どうしてここにいるんだ？</text>
+	</string>
+	<string id="pri_a25_army_medic_freezer_11">
+		<text>ええっと…、よく覚えてないんだ。すごく怯えていたので、考えることがほとんどできなくて、何に怯えていたのかもわからない。隠れなくてはならないと思うだけで、懸命に走ったんだ。通りを覚えてるが、いくつか曲がって、そしてこの中に入った。ドアは外部からロックされた。…俺はここで死ぬんだと思った。どうやって俺を見つけてくれたんだ？この地獄から出て、基地に向かいたい。この場所は恐ろしい…。</text>
+	</string>
+	<string id="pri_a25_army_medic_freezer_111">
+		<text>さあ行こう。</text>
+	</string>
+	<string id="pri_a25_army_medic_start_dialog_11">
+		<text>やあ。あんたは治療が必要かな？俺は医者ではないが、弾丸を取り出し、傷を縫い合わせることはできる。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_0">
+		<text>情報が必要だ。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1">
+		<text>言ってみろ。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11">
+		<text>フェアウェイ作戦について…。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111">
+		<text>それの何をだ？</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1111">
+		<text>ヘリが飛行中に異常なことが起こったのか？</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11111">
+		<text>ヘリが落ち始めるまでは何もなかった。我々は作戦計画に就いていた。光熱放射の90秒前に離陸し、防護システムを作動し、オートパイロットにした。アノマリーマップを使用し、計算される最短の安全なルートに従っていた。空路が十分に広かったので、視界が悪かったことはミッションに影響しなかったはずだ。計画によれば、12分半で発電所に到着するはずだった。9分後、スティングレイ4号機との通信を失った。そして次に、他の機もハエのように落ち始めたんだ。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111111">
+		<text>作戦に関して、もう少し質問したい…。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1112">
+		<text>ヘリに何が起こったんだ？</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11121">
+		<text>ほとんど何もわからない。スティングレイ2号機と4号機は完全なミステリーだ。俺は、それらがどこに墜落したのか、あるいは搭乗者たちの身に何がふりかかったのかを知らない。他のヘリに関する情報は、墜落を知った者たちから来ている。なので、正確な状況を期待しないでくれ。我々には、他に心配することがあった。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111211">
+		<text>スティングレイ1号機のことを話してくれ。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11121111">
+		<text>どうやってここに来たんだ？</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111211111">
+		<text>我々は、地雷埋設地帯から遠くない場所でストーカーに会った。彼は地雷の爆発を聞いたのに違いない。奇妙な男で…、自分をガイドと呼んだ。彼は質問をせず、プリピャチヘ案内すると申し出た。それは我々の計画に合っていたので同意した。万一に備えて、彼を見張っていた。しかし、すべてはスムーズに行ったんだ。町に到着するまで、彼は一言も話さなかった。そして着いた時に何も言わずに姿を消した。俺は部下に、彼を放っておくように命じた。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111212">
+		<text>スティングレイ3号機のことを話してくれ。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1112121">
+		<text>タラソフ機長は、両方のエンジンが故障したと言っている。B2ポジションの周りの丘に降りなければならなかった。うまく軟着陸をしたが、スノークに攻撃され3人を失ったので、技術者は不調の原因を確認する時間がなかった。他の者たちはその場で待たないことを決めた。スティングレイ5号機と連絡をとり、彼らに会いに行ったんだ。途中で完全武装した敵部隊と戦いになったが、損失者なしでなんとかそこを脱出した。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11121211">
+		<text>どのようにして彼らはプリピャチへ到達したんだ？</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111212111">
+		<text>スティングレイ3号機と5号機の乗組員は、墜落位置から遠くない、ある種のはしけ舟の近くで一緒になった。そこに住んでいた男が正気でないことが俺に報告された。部下が彼を拘留しようとした時、彼は部下たちを拘留しようとしたんだ！つまり、圧倒的に多い11対1でだぞ。とにかく、どうにか合意に達したので、このストーカーに出逢ったことが幸運なことに変わった。そして、彼はチーム全部をプリピャチヘほとんど無事で連れて行った。ただひとりの負傷者はステセンコ中尉で、ここへの途中の重力のアノマリーの中でつま先を失った。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111213">
+		<text>スティングレイ5号機のことを話してくれ。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1112131">
+		<text>電子系統が故障して、スティングレイ5号機は沼地へ直接落ちた。5人が墜落から生き残った。ヘリから装備を出していた時に、スティングレイ3号機から連絡を受けた。チーム指揮官のノボルスキー少佐は、会合ポイントへ行く途中で死亡した。スキャン・ステーションの近くで、ブラッドサッカーに殺されたのだ…。他の者たちは問題なく、そこに着いた。プリピャチへ到達した時にモノリス部隊と戦闘になり、さらに狙撃兵のひとりのバチャイ上級軍曹を失った。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11121311">
+		<text>どのようにして彼らはプリピャチへ到達したんだ？</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111213111">
+		<text>スティングレイ3号機と5号機の乗組員は、墜落位置から遠くない、ある種のはしけ舟の近くで一緒になった。そこに住んでいた男が正気でないことが俺に報告された。部下が彼を拘留しようとした時、彼は部下たちを拘留しようとしたんだ！つまり、圧倒的に多い11対1でだぞ。とにかく、どうにか合意に達したので、このストーカーに出逢ったことが幸運なことに変わった。そして、彼はチーム全部をプリピャチヘほとんど無事で連れて行った。ただひとりの負傷者はステセンコ中尉で、ここへの途中の重力のアノマリーの中でつま先を失った。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11122">
+		<text>ほとんど何もわからない。スティングレイ2号機は完全なミステリーだ。俺は、それがどこに墜落したのか、あるいは搭乗者たちの身に何がふりかかったのかを知らない。あんたは、俺よりスティングレイ4号機のことをもっと知っているはずだ。あんたと一緒にここに来たソコロフ中尉は、そのヘリのただひとりの生存者だ。他のヘリに関する情報は、墜落を知った者たちから来ている。なので、正確な状況を期待しないでくれ。我々には、他に心配することがあった。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11123">
+		<text>ほとんど何もわからない。スティングレイ2号機は完全なミステリーだ。俺は、それがどこに墜落したのか、あるいは搭乗者たちの身に何がふりかかったのかを知らない。あんた自身がスティングレイ4号機に関して、ソコロフ中尉に尋ねることができる。彼はプリピャチまでたどりついた、そのヘリのただひとりの乗組員だ。他のヘリに関する情報は、墜落を知った者たちから来ている。なので、正確な状況を期待しないでくれ。我々には、他に心配することがあった。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1113">
+		<text>俺は他の情報がほしい。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1114">
+		<text>もう質問はない。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_12">
+		<text>プリピャチの状況はどんなだ？</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_121">
+		<text>まったく不快すぎる。プリピャチでは、モノリスの奴らとゾンビがごちゃごちゃ這いまわっている。光熱放射には、次々と打たれる。また、用心しなくてはならないミュータントやアノマリーが常にある…。地獄へようこそだ。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1211">
+		<text>装備と供給品はどうしてるんだ？</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_13">
+		<text>モノリスについて話してくれ。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_131">
+		<text>連中は純粋に単純な狂信者だ。何が奴らに拍車をかけているのかは知らないが、絶えず戦いを探している。数で圧倒しても退却しないし、退却するのは稀だ。チョルノービリ原発から、規則的に援軍を得ているように思われる。奴らを倒してくれ。俺たちはその攻撃で、すでに良い人間を何人も失った…。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1311">
+		<text>奴らのひとりを尋問してみたのか？</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_13111">
+		<text>それは役に立たない。第一に、奴らは死ぬまで戦う。我々の兵士がグレネードで脅かして、なんとかひとりを生きて捕まえたが、駄目だった。次の敵のために奴から目を放すと、壁に頭を思い切りぶつけて、卵を開くように頭蓋骨を割ったんだ。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_14">
+		<text>あんたは今、何をしてるんだ？</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_141">
+		<text>俺はフェアウェイ作戦を進めることができると思えない。あんたがここにいることで、それを確認できる。俺の計画はヘリが現われるまで、基地を確保することだ。俺はいくつか可能な撤退日を持っているんだ。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1411">
+		<text>何がスティングレイを墜落させたか判明するまで、ヘリは来ないだろう。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_14111">
+		<text>それはそうだな。さて、我々は徒歩ではここから出られない！出るには遠過ぎて、ゾーンは仲間とは言えないストーカーでいっぱいだ。ただひとつの選択は、我々自身で調査を行ない、死なないことだ。少佐、ここでは我々は同じ目標に向かって働いているんだ。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_15">
+		<text>今はいい。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_start_0">
+		<text>聞こう、少佐。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_12111">
+		<text>我々が持っているただひとつの装備は、自分たちでここに運んだものだ。そう、我々はまたモノリスの物資を奪った。主に弾薬だ。なので、持っているものに対して十分に注意をしている。食料もな。モノリス倉庫から得たすべては食料だ。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_12112">
+		<text>我々が持っているただひとつの装備は、自分たちでここに運んだものだ。そう、我々はまたモノリスの物資を奪った。主に弾薬だ。なので、持っているものに対して十分に注意をしている。供給品に関しては、ゲーリーと取り引きするもの以外は、ほぼ同じものだ。彼は我々に缶詰食品を持って来るので、彼を基地に留まらせ、彼がアーティファクトを探しに出かける時は見ないようにしてやっている。それは我々が他に選択肢を持っているということではない。</text>
+	</string>
+	<string id="pri_a18_altar_destroyed_soldiers_start_11">
+		<text>我々は部下の復讐をした…。あんたに必要なことをやってくれ。そして戻ろう。この辺でブラブラしていたくない。</text>
+	</string>
+	<string id="pri_a18_altar_destroyed_soldiers_start_12">
+		<text>ここで時間を浪費しないようにしよう。いいかな？俺はできるだけ早く基地に戻りたいんだ。</text>
+	</string>
+	<string id="pri_a18_altar_destroyed_soldiers_start_111">
+		<text>わかった。</text>
+	</string>
+	<string id="pri_a18_altar_destroyed_vano_start_11">
+		<text>あそこには奇妙なものがあるんだ！いったい彼らは何にそれが必要なんだ？…いや、気にしないでくれ。さあ、あんたの仕事をしてくれ、そして基地に戻ろう。</text>
+	</string>
+	<string id="pri_a18_altar_destroyed_vano_start_12">
+		<text>仕事は終わったのか？俺は基地へ戻り、何か食べたい…。</text>
+	</string>
+	<string id="pri_a18_altar_destroyed_vano_start_111">
+		<text>よし。</text>
+	</string>
+	<string id="pri_a15_sokolov_pripyat_how_are_you_0">
+		<text>どうだい？</text>
+	</string>
+	<string id="pri_a15_sokolov_pripyat_how_are_you_1">
+		<text>くそっ。あんたといるのはいいんだが、汚い場所に他の奴らと一緒にいるのは気分が悪いぜ。</text>
+	</string>
+	<string id="pri_a15_sokolov_acquaintance_after_jorney_0">
+		<text>あんたとは前に会ったことがないなあ。最近来たのか？</text>
+	</string>
+	<string id="pri_a15_sokolov_acquaintance_after_jorney_1">
+		<text>そう。俺はソコロフ中尉、スティングレイ4号機の副操縦士だ。</text>
+	</string>
+	<string id="pri_a15_sokolov_about_journey_0">
+		<text>どうやってここに来たんだ？</text>
+	</string>
+	<string id="pri_a15_sokolov_about_journey_1">
+		<text>ゲーリーと呼ばれるストーカーと来たんだ。彼がプリピャチへの道を探していた時に、一緒に俺を連れて行ってくれるように頼んだ。まるで旅行のように楽だったぞ！プリピャチへ到着するとすぐに、まっすぐ偵察部隊に行った。</text>
+	</string>
+	<string id="pri_a15_sokolov_helicopter_0">
+		<text>スティングレイ4号機に何があったんだ？</text>
+	</string>
+	<string id="pri_a15_sokolov_helicopter_1">
+		<text>誰もそれをわからない。俺はすべてのものに悪い予感がした。…オートパイロットで飛んでいて、装備は良かった。だが突然、電子機器が故障し、我々は金属スクラップの中を飛んでいた。俺とパイロットは水平な土地に着陸しようとしたが、作動しなかった。ジュピター・プラントの工場の屋根を突き抜けて落ちた。…俺だけが助かったんだ。</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_outfit_0">
+		<text>俺はボディアーマーが必要だ。</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_outfit_1">
+		<text>よし。まず最初はヘルメットだ…、そしてアーマーだ。他のサイズがないので、あんたに合うといいがな。ちゃんと直してあるので、大事にしてくれ。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_task_dialog_111111">
+		<text>もちろんだ、少佐…。状況を考えると、俺はあまり選択を持ってない。…ところで、キリロフ中尉に会いに行ってくれ。彼がいくらか装備を渡す。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_9">
+		<text>ヘリについて…。</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_91">
+		<text>聞こう。</text>
+	</string>
+	<string id="pri_a25_army_medic_start_dialog_14">
+		<text>なあ、それはまともなものではない。・・・きっと後でキリロフが、俺にアスピリンを求めるぞ。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_evacuation_start_21">
+		<text>待つことは最悪だ。他のものとは違って、あんたを苦しめるだけだ…。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_evacuation_start_1111">
+		<text>いいぞ、少佐。兵士らは行く用意ができている。必要なら、ロホベツとキリロフのところで仕入れるんだ。準備ができたら知らせてくれ。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_evacuation_start_11111">
+		<text>いいぞ。</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_evacuation_ready_11">
+		<text>行くぞ。</text>
+	</string>
+	<string id="pri_a15_sokolov_need_outfit_1">
+		<text>そう、その場合は科学者が持っているような、しっかりとしたものが必要だ。だが、ハーマンと話をしても、俺にスーツを与えさせることは容易にはいかない。奴は俺がトーチカの貴重な場所にいるよりも、素っ裸でゾーンの端を歩かせたいに決まってる。…あんたがオゼルスキーに頼んでくれ。彼は少しはマシだ。スーツを俺に渡すことに合意するだろう。</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_dialog_second_0">
+		<text>で、少佐？</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_evacuation_start_111">
+		<text>[続ける…]</text>
+	</string>
+	<string id="pri_a25_army_medic_need_health_care_11">
+		<text>[続ける…]</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1112111">
+		<text>俺はそこにいた。スティングレイ4号機との通信が切れるとすぐに、プリピャチの指定撤退ポイントを他の者たちに通知した。発電所へ歩くことができると思ったんだ。ほとんどその直後に、ヘリに打撃を受けた。また、何かが燃えている臭いがして、エンジンに火が点いた。パイロットたちは、なんとかしてジュピター・プラント近くのヘリパッドへ着いた。しかし、彼らふたりは墜落で死んだ。その後、ヘリパッドへの道が地雷でいっぱいであることが判明した時、シリヤキン軍曹を失った。さらにプリピャチで、この建物でモノリス部隊と戦う間に、もうひとりの上級中尉も失った。</text>
+	</string>
+</string_table>

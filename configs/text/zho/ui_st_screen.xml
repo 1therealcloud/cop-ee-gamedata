@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_ach_balance_advocate">
+		<text>你已完成平衡大师挑战。</text>
+	</string>
+
+	<string id="st_ach_battle_systems_master">
+		<text>你已完成武器系统专家挑战。</text>
+	</string>
+
+	<string id="st_ach_detective">
+		<text>你已完成侦探挑战。</text>
+	</string>
+
+	<string id="st_ach_diplomat">
+		<text>你已完成外交家挑战。</text>
+	</string>
+
+	<string id="st_ach_friend_of_duty">
+		<text>你已完成义务之友挑战。</text>
+	</string>
+
+	<string id="st_ach_friend_of_freedom">
+		<text>你已完成自由之友挑战。</text>
+	</string>
+
+	<string id="st_ach_friend_of_stalkers">
+		<text>你已完成潜行者之友挑战。</text>
+	</string>
+
+	<string id="st_ach_herald_of_justice">
+		<text>你已完成正义使者挑战。</text>
+	</string>
+
+	<string id="st_ach_high_tech_master">
+		<text>你已完成高科技专家挑战。</text>
+	</string>
+
+	<string id="st_ach_information_dealer">
+		<text>你已完成信息贩子挑战。</text>
+	</string>
+
+	<string id="st_ach_keeper_of_secrets">
+		<text>你已完成秘密守护者挑战。</text>
+	</string>
+
+	<string id="st_ach_kingpin">
+		<text>你已完成首领挑战。</text>
+	</string>
+
+	<string id="st_ach_leader">
+		<text>你已完成领袖挑战。</text>
+	</string>
+
+	<string id="st_ach_mutant_hunter">
+		<text>你已完成变种生物猎人挑战。</text>
+	</string>
+
+	<string id="st_ach_one_of_the_lads">
+		<text>你已完成同盟伙伴挑战。</text>
+	</string>
+
+	<string id="st_ach_pioneer">
+		<text>你已完成开拓者挑战。</text>
+	</string>
+
+	<string id="st_ach_research_man">
+		<text>你已完成研究助理挑战。</text>
+	</string>
+
+	<string id="st_ach_seeker">
+		<text>你已完成神器猎手挑战。</text>
+	</string>
+
+	<string id="st_ach_skilled_stalker">
+		<text>你已完成老练潜行者挑战。</text>
+	</string>
+
+	<string id="st_ach_wealthy">
+		<text>你已完成富有客户挑战。</text>
+	</string>
+
+	<string id="st_press_any_key">
+		<text>按任意键开始</text>
+		<text_ps4>按任意键开始</text_ps4>
+	</string>
+
+</string_table>

@@ -1,0 +1,253 @@
+class "opt_controls" (CUIWindow)
+
+local ColorDisabled = {[0] = 255, [1] = 75, [2] = 75, [3] = 75}
+local ColorEnabled = nil
+local GyroColorEnabled = nil -- mtb-anna.galach
+
+local bOldState = true
+local bOldGyroState = true
+
+function opt_controls:__init() super()
+	self.mm_is_controller = main_menu.in_controller_mode()
+end
+
+function opt_controls:__finalize()
+
+end
+-- //MTB_Jakub_Jurek [JUD-72] multiline main menu scaling
+function lines_count(obj)
+	textObj = obj:TextControl()
+	textObj:SetWndSize( obj:GetWidth() ,obj:GetHeight())
+	local lineCount = textObj:GetLinesCount()
+	return lineCount
+end
+
+function opt_controls:max_lines_count()
+	local multiline = 1
+	for index, elem in ipairs(self.focusList) do
+		local elementClass = class_info(elem[2]).name
+		if elementClass ~= 'CUIKeyBinding' then
+			multiline =  math.max(multiline, lines_count(elem[1]))
+		end
+	end
+	return multiline
+end
+
+function adjust_to_offset(obj, offset)
+	if obj == nil then return end
+	local width = obj:GetWidth()
+	local height = obj:GetHeight() + offset
+	obj:SetWndSize(vector2():set(width,height))
+end 
+
+function opt_controls:adjust_position(offsetIncrement)
+	for index, elem in ipairs(self.focusList) do
+		adjust_to_offset(elem[1]:GetParent(),offsetIncrement)
+	end
+	self.scroll_v:ForceUpdate()
+end 
+-- //end MTB_Jakub_Jurek [JUD-72] multiline main menu scaling
+
+function opt_controls:add_element(xml ,cap_name, elem_name, elem_init_func)
+	local _st = xml:InitStatic("tab_controls:templ_item", self.scroll_v)
+	
+	_st.caption = xml:InitStatic(cap_name, _st)
+	local capX = _st.caption:GetWndPos().x
+	_st.caption:SetWndPos(vector2():set(capX,3))
+	
+	_st.element = elem_init_func(xml, elem_name, _st)
+	local elemX = _st.element:GetWndPos().x
+	_st.element:SetWndPos(vector2():set(elemX,3))
+
+	local lines = _st.caption:TextControl():GetLinesCount()
+
+	if (lines > _st:GetHeight()) then
+		_st:SetWndSize(vector2():set(_st:GetWidth(), lines + 5))
+	end
+	
+	table.insert(self.focusList, {_st.caption, _st.element, _st} )
+	return _st
+end 
+
+function opt_controls:InitControls(x, y, xml, handler) -- //MTB_Jakub_Jurek [JUD-72] multiline main menu scaling| changed order of initialization to as seen on screen, its nessecery for scaling to work correctly
+
+	self.forceUpdate = false
+	self:SetWndPos(vector2():set(x,y))
+	self:SetWndSize(vector2():set(738,416))
+
+	self:SetAutoDelete(true)
+
+--	self.bk = xml:InitFrame("frame", self)
+
+	self.storedHandler = handler
+	self.focusList = {}
+	local element
+
+--larry_mtb added stuff for the controller select
+
+	self.scroll_v = xml:InitScrollView("tab_controls:scroll_v", self)
+
+	if get_platform_id() == platform_ids.PLATFORM_PROSPERO or get_platform_id() == platform_ids.PLATFORM_WIN64 then -- MTB_Jakub_Jurek [JUD-72] to not get initialized on consols & MTB-Damian.Romanik [JP2-25]
+		element = self:add_element(xml, "tab_controls:cap_controller_type", "tab_controls:list_controllers", xml.InitComboBox)
+		handler.list_controllers = element.element
+	end
+
+	if get_platform_id() == platform_ids.PLATFORM_GDK or 
+	get_platform_id() == platform_ids.PLATFORM_GDK_1440 or 
+	get_platform_id() == platform_ids.PLATFORM_GDK_4K then 
+		element = self:add_element(xml, "tab_controls:cap_controller_type", "tab_controls:list_controllers_xsx", xml.InitComboBox)
+		handler.list_controllers = element.element
+	end
+
+	if not self.mm_is_controller then
+		self:add_element(xml, "tab_controls:cap_mousesens", "tab_controls:track_mousesens", xml.InitTrackBar)
+	else
+		self:add_element(xml, "tab_controls:cap_controllersens_x", "tab_controls:track_controllersens_x", xml.InitTrackBar)
+		self:add_element(xml, "tab_controls:cap_controllersens_y", "tab_controls:track_controllersens_y", xml.InitTrackBar)
+	end
+
+	self:add_element(xml, "tab_controls:cap_check_mouseinvert", "tab_controls:check_mouseinvert", xml.InitCheck)
+	
+	if not self.mm_is_controller then
+		self:add_element(xml, "tab_controls:cap_check_crouch_toggle", "tab_controls:check_crouch_toggle", xml.InitCheck)
+		self:add_element(xml, "tab_controls:cap_check_sprint_toggle", "tab_controls:check_sprint_toggle", xml.InitCheck)
+		
+		self.btnDefault = xml:Init3tButton("tab_controls:btn_default", self)
+		handler:Register(self.btnDefault, "btn_keyb_default")
+	else
+		self:add_element(xml, "tab_controls:cap_ads_sens",		"tab_controls:track_ads_sens", 		xml.InitTrackBar)
+		self:add_element(xml, "tab_controls:cap_ads_scope_sens","tab_controls:track_ads_scope_sens",xml.InitTrackBar)
+		self:add_element(xml, "tab_controls:cap_shooting_sens", "tab_controls:track_shooting_sens", xml.InitTrackBar)
+		if get_platform_id() == platform_ids.PLATFORM_PROSPERO or get_platform_id() == platform_ids.PLATFORM_WIN64 then
+			self:add_element(xml, "tab_controls:cap_adaptive_trigger", "tab_controls:check_adaptive_trigger", xml.InitCheck)
+		end
+		self.autoaim_enabled = self:add_element(xml, "tab_controls:cap_check_autoaim_enable",	"tab_controls:check_autoaim_enable", 		xml.InitCheck)
+		-- mtb-tomasz.tkaczuk gyro-autoaim interaction
+		if get_platform_id() == platform_ids.PLATFORM_ORBIS or get_platform_id() == platform_ids.PLATFORM_PROSPERO or get_platform_id() == platform_ids.PLATFORM_WIN64 or get_platform_id() == platform_ids.PLATFORM_NX64 then
+			handler:Register(self.autoaim_enabled.element, "autoaim_enable_clicked")
+		end 	
+		-- mtb-tomasz.tkaczuk gyro-autoaim interaction end
+		self.autoaim_track = self:add_element(xml, "tab_controls:cap_check_autoaim_enable_track","tab_controls:check_autoaim_enable_track", xml.InitCheck)
+		self.autoaim_strength = self:add_element(xml, "tab_controls:cap_autoaim_strength",		"tab_controls:track_autoaim_strength", 		xml.InitTrackBar)
+		
+		-- ColorEnabled = self.autoaim_enabled.caption:GetTextColor()
+
+		-- MTB-Damian.Romanik [JP2-691] Start
+		if get_platform_id() == platform_ids.PLATFORM_ORBIS or get_platform_id() == platform_ids.PLATFORM_PROSPERO or get_platform_id() == platform_ids.PLATFORM_WIN64 or get_platform_id() == platform_ids.PLATFORM_NX64 then
+			self.gyro_enabled = self:add_element(xml, "tab_controls:cap_check_gyroscope_enable",	"tab_controls:check_gyroscope_enable", 			xml.InitCheck)
+			handler:Register(self.gyro_enabled.element,	"gyro_enable_clicked") 		-- mtb-tomasz.tkaczuk gyro-autoaim interaction
+			self.gyro_sens_v = self:add_element(xml, "tab_controls:cap_gyroscope_strengthV",		"tab_controls:track_gyroscope_strengthV", 		xml.InitTrackBar)
+			self.gyro_sens_h = self:add_element(xml, "tab_controls:cap_gyroscope_strengthH",		"tab_controls:track_gyroscope_strengthH", 		xml.InitTrackBar)
+			self.gyro_smooth = self:add_element(xml, "tab_controls:cap_check_gyroscope_smooth", "tab_controls:check_gyroscope_smooth", xml.InitCheck)
+			self.gyro_onlyaim = self:add_element(xml, "tab_controls:cap_check_gyroscope_onlyAim", "tab_controls:check_gyroscope_onlyAim", xml.InitCheck)
+			self.gyro_the2 = self:add_element(xml, "tab_controls:cap_gyroscope_there2", "tab_controls:track_gyroscope_there2", xml.InitTrackBar)
+			self.invertH = self:add_element(xml, "tab_controls:cap_check_gyroscope_invertH", "tab_controls:check_gyroscope_invertH", xml.InitCheck)
+			self.invertV = self:add_element(xml, "tab_controls:cap_check_gyroscope_invertV", "tab_controls:check_gyroscope_invertV", xml.InitCheck)
+		end
+		-- MTB-Damian.Romanik [JP2-691] End
+		
+		if get_platform_id() == platform_ids.PLATFORM_WIN64 then
+			self:add_element(xml, "tab_controls:cap_controller_icons_type", "tab_controls:list_controllers_icons_type", xml.InitComboBox)
+		end
+		
+	end
+	--MTB_Jakub_Jurek [JP-59] moved default button to PC only 
+	
+	-- MTB_Jakub_Jurek [JUD-283]
+	local btn = self:add_element(xml, "tab_controls:cap_show_controlls", "tab_controls:btn_show_controlls", xml.Init3tButton)
+	handler:Register(btn.element, "btn_show_controlls")
+	-- end MTB_Jakub_Jurek [JUD-283]
+end
+
+function opt_controls:SetEnable(value)
+	for index, elem in ipairs(self.focusList) do
+		elem[2]:Enable(value)
+	end
+	-- mtb-anna.galach [JP2-506] Highlight remains on UI buttons when clicked with mouse
+	-- if not self.mm_is_controller then
+		-- self.btnDefault:Enable(value)
+	-- end
+end
+
+-- MTB-Damian.Romanik [JUD-317] Start: Logic of hiding autoaim elements
+function opt_controls:update_autoaim()
+	local state = self.autoaim_enabled.element:GetCheck()
+
+	if ColorEnabled == nil then
+		ColorEnabled = self.autoaim_enabled.caption:GetTextColor()
+	end
+
+	if state == bOldState and not self.forceUpdate then
+		return
+	end
+
+	self.autoaim_track.element:SetVisible(state)
+	self.autoaim_track.hidden = not state
+	self.autoaim_strength.element:SetVisible(state)
+	self.autoaim_strength.hidden = not state
+
+	if state then
+		self.autoaim_track.caption:SetTextColorN(ColorEnabled)
+		self.autoaim_strength.caption:SetTextColorN(ColorEnabled)
+	else
+		self.autoaim_track.caption:SetTextColor(ColorDisabled[0], ColorDisabled[1], ColorDisabled[2], ColorDisabled[3])
+		self.autoaim_strength.caption:SetTextColor(ColorDisabled[0], ColorDisabled[1], ColorDisabled[2], ColorDisabled[3])
+	end
+
+	bOldState = state
+	-- self.forceUpdate = false -- mtb-anna.galach, moved to ui_mm_opt_main.script
+	self.scroll_v:ForceUpdate()
+end
+-- MTB-Damian.Romanik [JUD-317] End: Logic of hiding autoaim elements
+
+function opt_controls:update_gyroscope() -- mtb-anna.galach - GyroColorEnable
+	if self.mm_is_controller and (get_platform_id() == platform_ids.PLATFORM_ORBIS or get_platform_id() == platform_ids.PLATFORM_PROSPERO or get_platform_id() == platform_ids.PLATFORM_WIN64 or get_platform_id() == platform_ids.PLATFORM_NX64) then
+		local state = self.gyro_enabled.element:GetCheck()
+
+		if GyroColorEnabled == nil then
+			GyroColorEnabled = self.gyro_enabled.caption:GetTextColor()
+		end
+
+		if state == bOldGyroState and not self.forceUpdate then
+			return
+		end
+
+		self.gyro_sens_v.element:SetVisible(state)
+		self.gyro_sens_v.hidden = not state
+		self.gyro_sens_h.element:SetVisible(state)
+		self.gyro_sens_h.hidden = not state
+		self.gyro_smooth.element:SetVisible(state)
+		self.gyro_smooth.hidden = not state
+		self.gyro_onlyaim.element:SetVisible(state)
+		self.gyro_onlyaim.hidden = not state
+		self.gyro_the2.element:SetVisible(state)
+		self.gyro_the2.hidden = not state
+		self.invertH.element:SetVisible(state)
+		self.invertH.hidden = not state
+		self.invertV.element:SetVisible(state)
+		self.invertV.hidden = not state
+
+		if state then
+			self.gyro_sens_v.caption:SetTextColorN(GyroColorEnabled)
+			self.gyro_sens_h.caption:SetTextColorN(GyroColorEnabled)
+			self.gyro_smooth.caption:SetTextColorN(GyroColorEnabled)
+			self.gyro_onlyaim.caption:SetTextColorN(GyroColorEnabled)
+			self.gyro_the2.caption:SetTextColorN(GyroColorEnabled)
+			self.invertV.caption:SetTextColorN(GyroColorEnabled)
+			self.invertH.caption:SetTextColorN(GyroColorEnabled)
+		else
+			self.gyro_sens_v.caption:SetTextColor(ColorDisabled[0], ColorDisabled[1], ColorDisabled[2], ColorDisabled[3])
+			self.gyro_sens_h.caption:SetTextColor(ColorDisabled[0], ColorDisabled[1], ColorDisabled[2], ColorDisabled[3])
+			self.gyro_smooth.caption:SetTextColor(ColorDisabled[0], ColorDisabled[1], ColorDisabled[2], ColorDisabled[3])
+			self.gyro_onlyaim.caption:SetTextColor(ColorDisabled[0], ColorDisabled[1], ColorDisabled[2], ColorDisabled[3])
+			self.gyro_the2.caption:SetTextColor(ColorDisabled[0], ColorDisabled[1], ColorDisabled[2], ColorDisabled[3])
+			self.invertV.caption:SetTextColor(ColorDisabled[0], ColorDisabled[1], ColorDisabled[2], ColorDisabled[3])
+			self.invertH.caption:SetTextColor(ColorDisabled[0], ColorDisabled[1], ColorDisabled[2], ColorDisabled[3])
+		end
+
+		bOldGyroState = state
+		-- self.forceUpdate = false -- mtb-anna.galach, moved to ui_mm_opt_main.script
+		self.scroll_v:ForceUpdate()
+	end
+end
+-- MTB-Damian.Romanik [JP2-691] End

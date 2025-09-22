@@ -1,0 +1,6447 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="lname_bandit_0">
+		<text>그레이</text>
+	</string>
+
+	<string id="lname_bandit_1">
+		<text>버서크</text>
+	</string>
+
+	<string id="lname_bandit_10">
+		<text>로튼</text>
+	</string>
+
+	<string id="lname_bandit_100">
+		<text>패티</text>
+	</string>
+
+	<string id="lname_bandit_101">
+		<text>스파이</text>
+	</string>
+
+	<string id="lname_bandit_102">
+		<text>바이슨</text>
+	</string>
+
+	<string id="lname_bandit_103">
+		<text>비버</text>
+	</string>
+
+	<string id="lname_bandit_104">
+		<text>불독</text>
+	</string>
+
+	<string id="lname_bandit_105">
+		<text>옥스</text>
+	</string>
+
+	<string id="lname_bandit_106">
+		<text>스패로우</text>
+	</string>
+
+	<string id="lname_bandit_107">
+		<text>우드페커</text>
+	</string>
+
+	<string id="lname_bandit_108">
+		<text>비스트</text>
+	</string>
+
+	<string id="lname_bandit_109">
+		<text>워락</text>
+	</string>
+
+	<string id="lname_bandit_11">
+		<text>험프백</text>
+	</string>
+
+	<string id="lname_bandit_110">
+		<text>보어</text>
+	</string>
+
+	<string id="lname_bandit_111">
+		<text>크루시언</text>
+	</string>
+
+	<string id="lname_bandit_112">
+		<text>카나리</text>
+	</string>
+
+	<string id="lname_bandit_113">
+		<text>베드버그</text>
+	</string>
+
+	<string id="lname_bandit_114">
+		<text>나크</text>
+	</string>
+
+	<string id="lname_bandit_115">
+		<text>무스</text>
+	</string>
+
+	<string id="lname_bandit_116">
+		<text>랫</text>
+	</string>
+
+	<string id="lname_bandit_117">
+		<text>보아</text>
+	</string>
+
+	<string id="lname_bandit_118">
+		<text>로프</text>
+	</string>
+
+	<string id="lname_bandit_119">
+		<text>브로큰</text>
+	</string>
+
+	<string id="lname_bandit_12">
+		<text>롱 존</text>
+	</string>
+
+	<string id="lname_bandit_120">
+		<text>메이헴</text>
+	</string>
+
+	<string id="lname_bandit_121">
+		<text>볼트</text>
+	</string>
+
+	<string id="lname_bandit_122">
+		<text>레이저</text>
+	</string>
+
+	<string id="lname_bandit_123">
+		<text>드럼</text>
+	</string>
+
+	<string id="lname_bandit_124">
+		<text>정크</text>
+	</string>
+
+	<string id="lname_bandit_125">
+		<text>스크루</text>
+	</string>
+
+	<string id="lname_bandit_126">
+		<text>다이너마이트</text>
+	</string>
+
+	<string id="lname_bandit_127">
+		<text>트럼프</text>
+	</string>
+
+	<string id="lname_bandit_128">
+		<text>쇼벨</text>
+	</string>
+
+	<string id="lname_bandit_129">
+		<text>조인트</text>
+	</string>
+
+	<string id="lname_bandit_13">
+		<text>데드 덕</text>
+	</string>
+
+	<string id="lname_bandit_130">
+		<text>크로스</text>
+	</string>
+
+	<string id="lname_bandit_131">
+		<text>타르</text>
+	</string>
+
+	<string id="lname_bandit_132">
+		<text>삭</text>
+	</string>
+
+	<string id="lname_bandit_133">
+		<text>크로우바</text>
+	</string>
+
+	<string id="lname_bandit_134">
+		<text>파나돌</text>
+	</string>
+
+	<string id="lname_bandit_135">
+		<text>쉬브</text>
+	</string>
+
+	<string id="lname_bandit_136">
+		<text>피스톤</text>
+	</string>
+
+	<string id="lname_bandit_137">
+		<text>니켈</text>
+	</string>
+
+	<string id="lname_bandit_138">
+		<text>테일스</text>
+	</string>
+
+	<string id="lname_bandit_139">
+		<text>리썰</text>
+	</string>
+
+	<string id="lname_bandit_14">
+		<text>퍼쳐</text>
+	</string>
+
+	<string id="lname_bandit_140">
+		<text>그라인드스톤</text>
+	</string>
+
+	<string id="lname_bandit_141">
+		<text>에이스</text>
+	</string>
+
+	<string id="lname_bandit_142">
+		<text>치즐</text>
+	</string>
+
+	<string id="lname_bandit_143">
+		<text>잭스트로우</text>
+	</string>
+
+	<string id="lname_bandit_144">
+		<text>쇼트스톱</text>
+	</string>
+
+	<string id="lname_bandit_145">
+		<text>크로스타이</text>
+	</string>
+
+	<string id="lname_bandit_146">
+		<text>스터드</text>
+	</string>
+
+	<string id="lname_bandit_147">
+		<text>지거스</text>
+	</string>
+
+	<string id="lname_bandit_148">
+		<text>피스트</text>
+	</string>
+
+	<string id="lname_bandit_149">
+		<text>브루즈</text>
+	</string>
+
+	<string id="lname_bandit_15">
+		<text>태드폴</text>
+	</string>
+
+	<string id="lname_bandit_150">
+		<text>해커</text>
+	</string>
+
+	<string id="lname_bandit_151">
+		<text>칸</text>
+	</string>
+
+	<string id="lname_bandit_152">
+		<text>코셰이</text>
+	</string>
+
+	<string id="lname_bandit_153">
+		<text>람보</text>
+	</string>
+
+	<string id="lname_bandit_154">
+		<text>투어 가이드</text>
+	</string>
+
+	<string id="lname_bandit_155">
+		<text>터미네이터</text>
+	</string>
+
+	<string id="lname_bandit_156">
+		<text>차페이</text>
+	</string>
+
+	<string id="lname_bandit_157">
+		<text>징기스</text>
+	</string>
+
+	<string id="lname_bandit_158">
+		<text>바나나</text>
+	</string>
+
+	<string id="lname_bandit_159">
+		<text>로프</text>
+	</string>
+
+	<string id="lname_bandit_16">
+		<text>버터핑거스</text>
+	</string>
+
+	<string id="lname_bandit_160">
+		<text>파파</text>
+	</string>
+
+	<string id="lname_bandit_161">
+		<text>스파이크</text>
+	</string>
+
+	<string id="lname_bandit_162">
+		<text>홈보이</text>
+	</string>
+
+	<string id="lname_bandit_163">
+		<text>갱그린</text>
+	</string>
+
+	<string id="lname_bandit_164">
+		<text>글리치</text>
+	</string>
+
+	<string id="lname_bandit_165">
+		<text>디그리</text>
+	</string>
+
+	<string id="lname_bandit_166">
+		<text>앤텔로프</text>
+	</string>
+
+	<string id="lname_bandit_167">
+		<text>퓨바</text>
+	</string>
+
+	<string id="lname_bandit_168">
+		<text>파리아</text>
+	</string>
+
+	<string id="lname_bandit_169">
+		<text>애스픽</text>
+	</string>
+
+	<string id="lname_bandit_17">
+		<text>차콜</text>
+	</string>
+
+	<string id="lname_bandit_170">
+		<text>트럼프</text>
+	</string>
+
+	<string id="lname_bandit_171">
+		<text>조인트</text>
+	</string>
+
+	<string id="lname_bandit_172">
+		<text>삭</text>
+	</string>
+
+	<string id="lname_bandit_173">
+		<text>고블린</text>
+	</string>
+
+	<string id="lname_bandit_174">
+		<text>무어</text>
+	</string>
+
+	<string id="lname_bandit_175">
+		<text>리퍼</text>
+	</string>
+
+	<string id="lname_bandit_176">
+		<text>플롭</text>
+	</string>
+
+	<string id="lname_bandit_177">
+		<text>라비올리</text>
+	</string>
+
+	<string id="lname_bandit_178">
+		<text>칠리</text>
+	</string>
+
+	<string id="lname_bandit_179">
+		<text>그레이터</text>
+	</string>
+
+	<string id="lname_bandit_18">
+		<text>팻소</text>
+	</string>
+
+	<string id="lname_bandit_180">
+		<text>비스킷</text>
+	</string>
+
+	<string id="lname_bandit_181">
+		<text>구울</text>
+	</string>
+
+	<string id="lname_bandit_19">
+		<text>마이저</text>
+	</string>
+
+	<string id="lname_bandit_2">
+		<text>브로큰</text>
+	</string>
+
+	<string id="lname_bandit_20">
+		<text>타이트와드</text>
+	</string>
+
+	<string id="lname_bandit_21">
+		<text>스퀸트</text>
+	</string>
+
+	<string id="lname_bandit_22">
+		<text>핀드</text>
+	</string>
+
+	<string id="lname_bandit_23">
+		<text>크리플</text>
+	</string>
+
+	<string id="lname_bandit_24">
+		<text>키커</text>
+	</string>
+
+	<string id="lname_bandit_25">
+		<text>스큐</text>
+	</string>
+
+	<string id="lname_bandit_26">
+		<text>크루크드</text>
+	</string>
+
+	<string id="lname_bandit_27">
+		<text>쉬프터</text>
+	</string>
+
+	<string id="lname_bandit_28">
+		<text>투페</text>
+	</string>
+
+	<string id="lname_bandit_29">
+		<text>피어스</text>
+	</string>
+
+	<string id="lname_bandit_3">
+		<text>크로니</text>
+	</string>
+
+	<string id="lname_bandit_30">
+		<text>로컬</text>
+	</string>
+
+	<string id="lname_bandit_31">
+		<text>슬라임</text>
+	</string>
+
+	<string id="lname_bandit_32">
+		<text>챔프</text>
+	</string>
+
+	<string id="lname_bandit_33">
+		<text>모노클</text>
+	</string>
+
+	<string id="lname_bandit_34">
+		<text>래스컬</text>
+	</string>
+
+	<string id="lname_bandit_35">
+		<text>데드비트</text>
+	</string>
+
+	<string id="lname_bandit_36">
+		<text>핫샷</text>
+	</string>
+
+	<string id="lname_bandit_37">
+		<text>터드</text>
+	</string>
+
+	<string id="lname_bandit_38">
+		<text>디펑트</text>
+	</string>
+
+	<string id="lname_bandit_39">
+		<text>싸이코</text>
+	</string>
+
+	<string id="lname_bandit_4">
+		<text>라우드마우스</text>
+	</string>
+
+	<string id="lname_bandit_40">
+		<text>톤</text>
+	</string>
+
+	<string id="lname_bandit_41">
+		<text>그래버</text>
+	</string>
+
+	<string id="lname_bandit_42">
+		<text>블라인드</text>
+	</string>
+
+	<string id="lname_bandit_43">
+		<text>스놋</text>
+	</string>
+
+	<string id="lname_bandit_44">
+		<text>힙스터</text>
+	</string>
+
+	<string id="lname_bandit_45">
+		<text>멧</text>
+	</string>
+
+	<string id="lname_bandit_46">
+		<text>코프스</text>
+	</string>
+
+	<string id="lname_bandit_47">
+		<text>슬래셔</text>
+	</string>
+
+	<string id="lname_bandit_48">
+		<text>이어스</text>
+	</string>
+
+	<string id="lname_bandit_49">
+		<text>제스터</text>
+	</string>
+
+	<string id="lname_bandit_5">
+		<text>그레이하운드</text>
+	</string>
+
+	<string id="lname_bandit_50">
+		<text>레임</text>
+	</string>
+
+	<string id="lname_bandit_51">
+		<text>스털디</text>
+	</string>
+
+	<string id="lname_bandit_52">
+		<text>크랭키</text>
+	</string>
+
+	<string id="lname_bandit_53">
+		<text>코노서</text>
+	</string>
+
+	<string id="lname_bandit_54">
+		<text>로버스트</text>
+	</string>
+
+	<string id="lname_bandit_55">
+		<text>스콰이어</text>
+	</string>
+
+	<string id="lname_bandit_56">
+		<text>리치</text>
+	</string>
+
+	<string id="lname_bandit_57">
+		<text>아티스트</text>
+	</string>
+
+	<string id="lname_bandit_58">
+		<text>콘맨</text>
+	</string>
+
+	<string id="lname_bandit_59">
+		<text>뱅커</text>
+	</string>
+
+	<string id="lname_bandit_6">
+		<text>호보</text>
+	</string>
+
+	<string id="lname_bandit_60">
+		<text>배런</text>
+	</string>
+
+	<string id="lname_bandit_61">
+		<text>페들러</text>
+	</string>
+
+	<string id="lname_bandit_62">
+		<text>언오쏘독스</text>
+	</string>
+
+	<string id="lname_bandit_63">
+		<text>트램프</text>
+	</string>
+
+	<string id="lname_bandit_64">
+		<text>보순</text>
+	</string>
+
+	<string id="lname_bandit_65">
+		<text>피그미</text>
+	</string>
+
+	<string id="lname_bandit_66">
+		<text>버번</text>
+	</string>
+
+	<string id="lname_bandit_67">
+		<text>부르주아</text>
+	</string>
+
+	<string id="lname_bandit_68">
+		<text>쇼퍼</text>
+	</string>
+
+	<string id="lname_bandit_69">
+		<text>시프</text>
+	</string>
+
+	<string id="lname_bandit_7">
+		<text>셰이븐</text>
+	</string>
+
+	<string id="lname_bandit_70">
+		<text>갱스터</text>
+	</string>
+
+	<string id="lname_bandit_71">
+		<text>메신저</text>
+	</string>
+
+	<string id="lname_bandit_72">
+		<text>카운트</text>
+	</string>
+
+	<string id="lname_bandit_73">
+		<text>타이런트</text>
+	</string>
+
+	<string id="lname_bandit_74">
+		<text>세비지</text>
+	</string>
+
+	<string id="lname_bandit_75">
+		<text>스트랭글러</text>
+	</string>
+
+	<string id="lname_bandit_76">
+		<text>카운셀러</text>
+	</string>
+
+	<string id="lname_bandit_77">
+		<text>플레이어</text>
+	</string>
+
+	<string id="lname_bandit_78">
+		<text>치트</text>
+	</string>
+
+	<string id="lname_bandit_79">
+		<text>갓파더</text>
+	</string>
+
+	<string id="lname_bandit_8">
+		<text>베테랑</text>
+	</string>
+
+	<string id="lname_bandit_80">
+		<text>코치</text>
+	</string>
+
+	<string id="lname_bandit_81">
+		<text>블링-블링</text>
+	</string>
+
+	<string id="lname_bandit_82">
+		<text>매니악</text>
+	</string>
+
+	<string id="lname_bandit_83">
+		<text>언더테이커</text>
+	</string>
+
+	<string id="lname_bandit_84">
+		<text>부쳐</text>
+	</string>
+
+	<string id="lname_bandit_85">
+		<text>닌자</text>
+	</string>
+
+	<string id="lname_bandit_86">
+		<text>이그제큐셔너</text>
+	</string>
+
+	<string id="lname_bandit_87">
+		<text>펑크</text>
+	</string>
+
+	<string id="lname_bandit_88">
+		<text>게릴라</text>
+	</string>
+
+	<string id="lname_bandit_89">
+		<text>패시피스트</text>
+	</string>
+
+	<string id="lname_bandit_9">
+		<text>볼더</text>
+	</string>
+
+	<string id="lname_bandit_90">
+		<text>파이레트</text>
+	</string>
+
+	<string id="lname_bandit_91">
+		<text>알세니스트</text>
+	</string>
+
+	<string id="lname_bandit_92">
+		<text>프린스</text>
+	</string>
+
+	<string id="lname_bandit_93">
+		<text>브리갠드</text>
+	</string>
+
+	<string id="lname_bandit_94">
+		<text>카미카제</text>
+	</string>
+
+	<string id="lname_bandit_95">
+		<text>핌프</text>
+	</string>
+
+	<string id="lname_bandit_96">
+		<text>타이런트</text>
+	</string>
+
+	<string id="lname_bandit_97">
+		<text>히트맨</text>
+	</string>
+
+	<string id="lname_bandit_98">
+		<text>트럼본</text>
+	</string>
+
+	<string id="lname_bandit_99">
+		<text>케미스트</text>
+	</string>
+
+	<string id="lname_captain_0">
+		<text>압두라크마노프</text>
+	</string>
+
+	<string id="lname_captain_1">
+		<text>알틴니크</text>
+	</string>
+
+	<string id="lname_captain_10">
+		<text>바르사크</text>
+	</string>
+
+	<string id="lname_captain_100">
+		<text>키리프</text>
+	</string>
+
+	<string id="lname_captain_101">
+		<text>셰르빈</text>
+	</string>
+
+	<string id="lname_captain_102">
+		<text>코발추크</text>
+	</string>
+
+	<string id="lname_captain_103">
+		<text>코예프</text>
+	</string>
+
+	<string id="lname_captain_104">
+		<text>코츨로프</text>
+	</string>
+
+	<string id="lname_captain_105">
+		<text>콜론타레프</text>
+	</string>
+
+	<string id="lname_captain_106">
+		<text>콜론타르</text>
+	</string>
+
+	<string id="lname_captain_107">
+		<text>콘드라텐코</text>
+	</string>
+
+	<string id="lname_captain_108">
+		<text>코르킨</text>
+	</string>
+
+	<string id="lname_captain_109">
+		<text>코르니프</text>
+	</string>
+
+	<string id="lname_captain_11">
+		<text>바울</text>
+	</string>
+
+	<string id="lname_captain_110">
+		<text>크라브첸코</text>
+	</string>
+
+	<string id="lname_captain_111">
+		<text>크리브다</text>
+	</string>
+
+	<string id="lname_captain_112">
+		<text>크리보카츠키</text>
+	</string>
+
+	<string id="lname_captain_113">
+		<text>쿠즈네초프</text>
+	</string>
+
+	<string id="lname_captain_114">
+		<text>쿠즈미치</text>
+	</string>
+
+	<string id="lname_captain_115">
+		<text>쿠쟈킨</text>
+	</string>
+
+	<string id="lname_captain_116">
+		<text>쿨치츠키</text>
+	</string>
+
+	<string id="lname_captain_117">
+		<text>쿤체프</text>
+	</string>
+
+	<string id="lname_captain_118">
+		<text>쿠르비츠</text>
+	</string>
+
+	<string id="lname_captain_119">
+		<text>쿠체루크</text>
+	</string>
+
+	<string id="lname_captain_12">
+		<text>바샤코프</text>
+	</string>
+
+	<string id="lname_captain_120">
+		<text>쿠쉬나레프</text>
+	</string>
+
+	<string id="lname_captain_121">
+		<text>칼라제</text>
+	</string>
+
+	<string id="lname_captain_122">
+		<text>라브리크</text>
+	</string>
+
+	<string id="lname_captain_123">
+		<text>라브로프</text>
+	</string>
+
+	<string id="lname_captain_124">
+		<text>립쉬츠</text>
+	</string>
+
+	<string id="lname_captain_125">
+		<text>리시찬스키</text>
+	</string>
+
+	<string id="lname_captain_126">
+		<text>리트빈</text>
+	</string>
+
+	<string id="lname_captain_127">
+		<text>리마렌코</text>
+	</string>
+
+	<string id="lname_captain_128">
+		<text>마제파</text>
+	</string>
+
+	<string id="lname_captain_129">
+		<text>마카렌코</text>
+	</string>
+
+	<string id="lname_captain_13">
+		<text>바시마코프</text>
+	</string>
+
+	<string id="lname_captain_130">
+		<text>말체프</text>
+	</string>
+
+	<string id="lname_captain_131">
+		<text>마마예프</text>
+	</string>
+
+	<string id="lname_captain_132">
+		<text>메르츨레예프</text>
+	</string>
+
+	<string id="lname_captain_133">
+		<text>밀첸코</text>
+	</string>
+
+	<string id="lname_captain_134">
+		<text>미로뉴크</text>
+	</string>
+
+	<string id="lname_captain_135">
+		<text>모흐러</text>
+	</string>
+
+	<string id="lname_captain_136">
+		<text>크리가</text>
+	</string>
+
+	<string id="lname_captain_137">
+		<text>모스토보이</text>
+	</string>
+
+	<string id="lname_captain_138">
+		<text>문탼</text>
+	</string>
+
+	<string id="lname_captain_139">
+		<text>무카메도프</text>
+	</string>
+
+	<string id="lname_captain_14">
+		<text>베셰블리</text>
+	</string>
+
+	<string id="lname_captain_140">
+		<text>미스코프</text>
+	</string>
+
+	<string id="lname_captain_141">
+		<text>나브로츠키</text>
+	</string>
+
+	<string id="lname_captain_142">
+		<text>네프리츠키</text>
+	</string>
+
+	<string id="lname_captain_143">
+		<text>니카노로프</text>
+	</string>
+
+	<string id="lname_captain_144">
+		<text>니케신</text>
+	</string>
+
+	<string id="lname_captain_145">
+		<text>니쿨린</text>
+	</string>
+
+	<string id="lname_captain_146">
+		<text>푸친</text>
+	</string>
+
+	<string id="lname_captain_147">
+		<text>노르디예프</text>
+	</string>
+
+	<string id="lname_captain_148">
+		<text>노산</text>
+	</string>
+
+	<string id="lname_captain_149">
+		<text>오폴레프</text>
+	</string>
+
+	<string id="lname_captain_15">
+		<text>비노예프</text>
+	</string>
+
+	<string id="lname_captain_150">
+		<text>오를레비치</text>
+	</string>
+
+	<string id="lname_captain_151">
+		<text>오를로프</text>
+	</string>
+
+	<string id="lname_captain_152">
+		<text>페트케비치</text>
+	</string>
+
+	<string id="lname_captain_153">
+		<text>페트렌코</text>
+	</string>
+
+	<string id="lname_captain_154">
+		<text>페트로프</text>
+	</string>
+
+	<string id="lname_captain_155">
+		<text>플로크헨코</text>
+	</string>
+
+	<string id="lname_captain_156">
+		<text>포댜체프</text>
+	</string>
+
+	<string id="lname_captain_157">
+		<text>폴랴닌</text>
+	</string>
+
+	<string id="lname_captain_158">
+		<text>포플랍스키</text>
+	</string>
+
+	<string id="lname_captain_159">
+		<text>포포프</text>
+	</string>
+
+	<string id="lname_captain_16">
+		<text>블리노프</text>
+	</string>
+
+	<string id="lname_captain_160">
+		<text>포르트니흐</text>
+	</string>
+
+	<string id="lname_captain_161">
+		<text>프라솔로프</text>
+	</string>
+
+	<string id="lname_captain_162">
+		<text>프로코펜코</text>
+	</string>
+
+	<string id="lname_captain_163">
+		<text>프로스쿠린</text>
+	</string>
+
+	<string id="lname_captain_164">
+		<text>프로첸코</text>
+	</string>
+
+	<string id="lname_captain_165">
+		<text>프루도프</text>
+	</string>
+
+	<string id="lname_captain_166">
+		<text>푸스토바르</text>
+	</string>
+
+	<string id="lname_captain_167">
+		<text>푸체크</text>
+	</string>
+
+	<string id="lname_captain_168">
+		<text>라비노비치</text>
+	</string>
+
+	<string id="lname_captain_169">
+		<text>라드케비치</text>
+	</string>
+
+	<string id="lname_captain_17">
+		<text>보브로프</text>
+	</string>
+
+	<string id="lname_captain_170">
+		<text>레준</text>
+	</string>
+
+	<string id="lname_captain_171">
+		<text>로고자</text>
+	</string>
+
+	<string id="lname_captain_172">
+		<text>로드냔스키</text>
+	</string>
+
+	<string id="lname_captain_173">
+		<text>로탄</text>
+	</string>
+
+	<string id="lname_captain_174">
+		<text>루블레프</text>
+	</string>
+
+	<string id="lname_captain_175">
+		<text>루디크</text>
+	</string>
+
+	<string id="lname_captain_176">
+		<text>루사노프</text>
+	</string>
+
+	<string id="lname_captain_177">
+		<text>리차기르스키</text>
+	</string>
+
+	<string id="lname_captain_178">
+		<text>사브첸코</text>
+	</string>
+
+	<string id="lname_captain_179">
+		<text>사브추크</text>
+	</string>
+
+	<string id="lname_captain_18">
+		<text>보그다노프</text>
+	</string>
+
+	<string id="lname_captain_180">
+		<text>사기토프</text>
+	</string>
+
+	<string id="lname_captain_181">
+		<text>스비리도프</text>
+	</string>
+
+	<string id="lname_captain_182">
+		<text>세디크</text>
+	</string>
+
+	<string id="lname_captain_183">
+		<text>세레다</text>
+	</string>
+
+	<string id="lname_captain_184">
+		<text>시도렌코</text>
+	</string>
+
+	<string id="lname_captain_185">
+		<text>시도로프</text>
+	</string>
+
+	<string id="lname_captain_186">
+		<text>시니</text>
+	</string>
+
+	<string id="lname_captain_187">
+		<text>시니친</text>
+	</string>
+
+	<string id="lname_captain_188">
+		<text>스카메이카</text>
+	</string>
+
+	<string id="lname_captain_189">
+		<text>슬루츠키</text>
+	</string>
+
+	<string id="lname_captain_19">
+		<text>보이코</text>
+	</string>
+
+	<string id="lname_captain_190">
+		<text>스멜로프</text>
+	</string>
+
+	<string id="lname_captain_191">
+		<text>스몰리</text>
+	</string>
+
+	<string id="lname_captain_192">
+		<text>소로킨</text>
+	</string>
+
+	<string id="lname_captain_193">
+		<text>스타추라</text>
+	</string>
+
+	<string id="lname_captain_194">
+		<text>스테프친</text>
+	</string>
+
+	<string id="lname_captain_195">
+		<text>스티친스키</text>
+	</string>
+
+	<string id="lname_captain_196">
+		<text>시쿨라</text>
+	</string>
+
+	<string id="lname_captain_197">
+		<text>타르나프스키</text>
+	</string>
+
+	<string id="lname_captain_198">
+		<text>타타르추크</text>
+	</string>
+
+	<string id="lname_captain_199">
+		<text>팀추크</text>
+	</string>
+
+	<string id="lname_captain_2">
+		<text>안드레이추크</text>
+	</string>
+
+	<string id="lname_captain_20">
+		<text>보이첸코</text>
+	</string>
+
+	<string id="lname_captain_21">
+		<text>볼데스쿨</text>
+	</string>
+
+	<string id="lname_captain_22">
+		<text>본다레프</text>
+	</string>
+
+	<string id="lname_captain_23">
+		<text>보리소프</text>
+	</string>
+
+	<string id="lname_captain_24">
+		<text>브리치</text>
+	</string>
+
+	<string id="lname_captain_25">
+		<text>브론시테인</text>
+	</string>
+
+	<string id="lname_captain_26">
+		<text>부랴크</text>
+	</string>
+
+	<string id="lname_captain_27">
+		<text>부투린</text>
+	</string>
+
+	<string id="lname_captain_28">
+		<text>뱔로</text>
+	</string>
+
+	<string id="lname_captain_29">
+		<text>발렌티노프</text>
+	</string>
+
+	<string id="lname_captain_3">
+		<text>안드루스첸코</text>
+	</string>
+
+	<string id="lname_captain_30">
+		<text>바실리예프</text>
+	</string>
+
+	<string id="lname_captain_31">
+		<text>베셀로프</text>
+	</string>
+
+	<string id="lname_captain_32">
+		<text>비노그라도프</text>
+	</string>
+
+	<string id="lname_captain_33">
+		<text>보브넨코</text>
+	</string>
+
+	<string id="lname_captain_34">
+		<text>볼란추크</text>
+	</string>
+
+	<string id="lname_captain_35">
+		<text>볼로다르</text>
+	</string>
+
+	<string id="lname_captain_36">
+		<text>볼로신</text>
+	</string>
+
+	<string id="lname_captain_37">
+		<text>보론초프</text>
+	</string>
+
+	<string id="lname_captain_38">
+		<text>보로하예프</text>
+	</string>
+
+	<string id="lname_captain_39">
+		<text>뷰신스키</text>
+	</string>
+
+	<string id="lname_captain_4">
+		<text>아니시예프</text>
+	</string>
+
+	<string id="lname_captain_40">
+		<text>갈킨</text>
+	</string>
+
+	<string id="lname_captain_41">
+		<text>간쥬크</text>
+	</string>
+
+	<string id="lname_captain_42">
+		<text>가르코벤코</text>
+	</string>
+
+	<string id="lname_captain_43">
+		<text>가르쿠샤</text>
+	</string>
+
+	<string id="lname_captain_44">
+		<text>게오르고프</text>
+	</string>
+
+	<string id="lname_captain_45">
+		<text>글레보브스키</text>
+	</string>
+
+	<string id="lname_captain_46">
+		<text>그나튜크</text>
+	</string>
+
+	<string id="lname_captain_47">
+		<text>곤차렌코</text>
+	</string>
+
+	<string id="lname_captain_48">
+		<text>고르디옌코</text>
+	</string>
+
+	<string id="lname_captain_49">
+		<text>고를레보이</text>
+	</string>
+
+	<string id="lname_captain_5">
+		<text>아르다셰프</text>
+	</string>
+
+	<string id="lname_captain_50">
+		<text>고로힌</text>
+	</string>
+
+	<string id="lname_captain_51">
+		<text>고류노프</text>
+	</string>
+
+	<string id="lname_captain_52">
+		<text>그레벤코</text>
+	</string>
+
+	<string id="lname_captain_53">
+		<text>그리차옌코</text>
+	</string>
+
+	<string id="lname_captain_54">
+		<text>그리차이</text>
+	</string>
+
+	<string id="lname_captain_55">
+		<text>그리첸코프</text>
+	</string>
+
+	<string id="lname_captain_56">
+		<text>그리샤체프</text>
+	</string>
+
+	<string id="lname_captain_57">
+		<text>그리스추크</text>
+	</string>
+
+	<string id="lname_captain_58">
+		<text>구바르</text>
+	</string>
+
+	<string id="lname_captain_59">
+		<text>군코</text>
+	</string>
+
+	<string id="lname_captain_6">
+		<text>바비치</text>
+	</string>
+
+	<string id="lname_captain_60">
+		<text>구레비치</text>
+	</string>
+
+	<string id="lname_captain_61">
+		<text>데니센코</text>
+	</string>
+
+	<string id="lname_captain_62">
+		<text>도브갈류크</text>
+	</string>
+
+	<string id="lname_captain_63">
+		<text>돔브리크</text>
+	</string>
+
+	<string id="lname_captain_64">
+		<text>도첸코</text>
+	</string>
+
+	<string id="lname_captain_65">
+		<text>드로즈두스크</text>
+	</string>
+
+	<string id="lname_captain_66">
+		<text>두벤추크</text>
+	</string>
+
+	<string id="lname_captain_67">
+		<text>두도로프</text>
+	</string>
+
+	<string id="lname_captain_68">
+		<text>두카</text>
+	</string>
+
+	<string id="lname_captain_69">
+		<text>둠코</text>
+	</string>
+
+	<string id="lname_captain_7">
+		<text>발란</text>
+	</string>
+
+	<string id="lname_captain_70">
+		<text>두나예프</text>
+	</string>
+
+	<string id="lname_captain_71">
+		<text>디클로프</text>
+	</string>
+
+	<string id="lname_captain_72">
+		<text>예로페예프</text>
+	</string>
+
+	<string id="lname_captain_73">
+		<text>예프레모프</text>
+	</string>
+
+	<string id="lname_captain_74">
+		<text>차벤코</text>
+	</string>
+
+	<string id="lname_captain_75">
+		<text>츠므예프</text>
+	</string>
+
+	<string id="lname_captain_76">
+		<text>추라코프스키</text>
+	</string>
+
+	<string id="lname_captain_77">
+		<text>자비야고다</text>
+	</string>
+
+	<string id="lname_captain_78">
+		<text>자고로드뉴크</text>
+	</string>
+
+	<string id="lname_captain_79">
+		<text>자모센추크</text>
+	</string>
+
+	<string id="lname_captain_8">
+		<text>바라노프</text>
+	</string>
+
+	<string id="lname_captain_80">
+		<text>자루빈</text>
+	</string>
+
+	<string id="lname_captain_81">
+		<text>자하린</text>
+	</string>
+
+	<string id="lname_captain_82">
+		<text>즈본니츠키</text>
+	</string>
+
+	<string id="lname_captain_83">
+		<text>지노비예프</text>
+	</string>
+
+	<string id="lname_captain_84">
+		<text>조조</text>
+	</string>
+
+	<string id="lname_captain_85">
+		<text>졸로타르</text>
+	</string>
+
+	<string id="lname_captain_86">
+		<text>주바레프</text>
+	</string>
+
+	<string id="lname_captain_87">
+		<text>주브코프</text>
+	</string>
+
+	<string id="lname_captain_88">
+		<text>이바노프</text>
+	</string>
+
+	<string id="lname_captain_89">
+		<text>이그나텐코</text>
+	</string>
+
+	<string id="lname_captain_9">
+		<text>바라노프스키</text>
+	</string>
+
+	<string id="lname_captain_90">
+		<text>이젠코</text>
+	</string>
+
+	<string id="lname_captain_91">
+		<text>이스추크</text>
+	</string>
+
+	<string id="lname_captain_92">
+		<text>카자코프</text>
+	</string>
+
+	<string id="lname_captain_93">
+		<text>카잔체프</text>
+	</string>
+
+	<string id="lname_captain_94">
+		<text>칸디바브코</text>
+	</string>
+
+	<string id="lname_captain_95">
+		<text>카푸카</text>
+	</string>
+
+	<string id="lname_captain_96">
+		<text>카푸스탼코</text>
+	</string>
+
+	<string id="lname_captain_97">
+		<text>카츠</text>
+	</string>
+
+	<string id="lname_captain_98">
+		<text>키카비제</text>
+	</string>
+
+	<string id="lname_captain_99">
+		<text>가출라</text>
+	</string>
+
+	<string id="lname_lieutenant_0">
+		<text>압두라크마노프</text>
+	</string>
+
+	<string id="lname_lieutenant_1">
+		<text>알틴니크</text>
+	</string>
+
+	<string id="lname_lieutenant_10">
+		<text>바르사크</text>
+	</string>
+
+	<string id="lname_lieutenant_100">
+		<text>키리프</text>
+	</string>
+
+	<string id="lname_lieutenant_101">
+		<text>셰르빈</text>
+	</string>
+
+	<string id="lname_lieutenant_102">
+		<text>코발추크</text>
+	</string>
+
+	<string id="lname_lieutenant_103">
+		<text>코예프</text>
+	</string>
+
+	<string id="lname_lieutenant_104">
+		<text>코츨로프</text>
+	</string>
+
+	<string id="lname_lieutenant_105">
+		<text>콜론타레프</text>
+	</string>
+
+	<string id="lname_lieutenant_106">
+		<text>콜론타르</text>
+	</string>
+
+	<string id="lname_lieutenant_107">
+		<text>콘드라텐코</text>
+	</string>
+
+	<string id="lname_lieutenant_108">
+		<text>코르킨</text>
+	</string>
+
+	<string id="lname_lieutenant_109">
+		<text>코르니프</text>
+	</string>
+
+	<string id="lname_lieutenant_11">
+		<text>바울</text>
+	</string>
+
+	<string id="lname_lieutenant_110">
+		<text>크라브첸코</text>
+	</string>
+
+	<string id="lname_lieutenant_111">
+		<text>크리브다</text>
+	</string>
+
+	<string id="lname_lieutenant_112">
+		<text>크리보카츠키</text>
+	</string>
+
+	<string id="lname_lieutenant_113">
+		<text>쿠즈네초프</text>
+	</string>
+
+	<string id="lname_lieutenant_114">
+		<text>쿠즈미치</text>
+	</string>
+
+	<string id="lname_lieutenant_115">
+		<text>쿠쟈킨</text>
+	</string>
+
+	<string id="lname_lieutenant_116">
+		<text>쿨치츠키</text>
+	</string>
+
+	<string id="lname_lieutenant_117">
+		<text>쿤체프</text>
+	</string>
+
+	<string id="lname_lieutenant_118">
+		<text>쿠르비츠</text>
+	</string>
+
+	<string id="lname_lieutenant_119">
+		<text>쿠체루크</text>
+	</string>
+
+	<string id="lname_lieutenant_12">
+		<text>바샤코프</text>
+	</string>
+
+	<string id="lname_lieutenant_120">
+		<text>쿠쉬나레프</text>
+	</string>
+
+	<string id="lname_lieutenant_121">
+		<text>칼라제</text>
+	</string>
+
+	<string id="lname_lieutenant_122">
+		<text>라브리크</text>
+	</string>
+
+	<string id="lname_lieutenant_123">
+		<text>라브로프</text>
+	</string>
+
+	<string id="lname_lieutenant_124">
+		<text>립쉬츠</text>
+	</string>
+
+	<string id="lname_lieutenant_125">
+		<text>리시찬스키</text>
+	</string>
+
+	<string id="lname_lieutenant_126">
+		<text>리트빈</text>
+	</string>
+
+	<string id="lname_lieutenant_127">
+		<text>리마렌코</text>
+	</string>
+
+	<string id="lname_lieutenant_128">
+		<text>마제파</text>
+	</string>
+
+	<string id="lname_lieutenant_129">
+		<text>마카렌코</text>
+	</string>
+
+	<string id="lname_lieutenant_13">
+		<text>바시마코프</text>
+	</string>
+
+	<string id="lname_lieutenant_130">
+		<text>말체프</text>
+	</string>
+
+	<string id="lname_lieutenant_131">
+		<text>마마예프</text>
+	</string>
+
+	<string id="lname_lieutenant_132">
+		<text>메르츨레예프</text>
+	</string>
+
+	<string id="lname_lieutenant_133">
+		<text>밀첸코</text>
+	</string>
+
+	<string id="lname_lieutenant_134">
+		<text>미로뉴크</text>
+	</string>
+
+	<string id="lname_lieutenant_135">
+		<text>모흐러</text>
+	</string>
+
+	<string id="lname_lieutenant_136">
+		<text>크리가</text>
+	</string>
+
+	<string id="lname_lieutenant_137">
+		<text>모스토보이</text>
+	</string>
+
+	<string id="lname_lieutenant_138">
+		<text>문탼</text>
+	</string>
+
+	<string id="lname_lieutenant_139">
+		<text>무카메도프</text>
+	</string>
+
+	<string id="lname_lieutenant_14">
+		<text>베셰블리</text>
+	</string>
+
+	<string id="lname_lieutenant_140">
+		<text>미스코프</text>
+	</string>
+
+	<string id="lname_lieutenant_141">
+		<text>나브로츠키</text>
+	</string>
+
+	<string id="lname_lieutenant_142">
+		<text>네프리츠키</text>
+	</string>
+
+	<string id="lname_lieutenant_143">
+		<text>니카노로프</text>
+	</string>
+
+	<string id="lname_lieutenant_144">
+		<text>니케신</text>
+	</string>
+
+	<string id="lname_lieutenant_145">
+		<text>니쿨린</text>
+	</string>
+
+	<string id="lname_lieutenant_146">
+		<text>푸친</text>
+	</string>
+
+	<string id="lname_lieutenant_147">
+		<text>노르디예프</text>
+	</string>
+
+	<string id="lname_lieutenant_148">
+		<text>노산</text>
+	</string>
+
+	<string id="lname_lieutenant_149">
+		<text>오폴레프</text>
+	</string>
+
+	<string id="lname_lieutenant_15">
+		<text>비노예프</text>
+	</string>
+
+	<string id="lname_lieutenant_150">
+		<text>오를레비치</text>
+	</string>
+
+	<string id="lname_lieutenant_151">
+		<text>오를로프</text>
+	</string>
+
+	<string id="lname_lieutenant_152">
+		<text>페트케비치</text>
+	</string>
+
+	<string id="lname_lieutenant_153">
+		<text>페트렌코</text>
+	</string>
+
+	<string id="lname_lieutenant_154">
+		<text>페트로프</text>
+	</string>
+
+	<string id="lname_lieutenant_155">
+		<text>플로크헨코</text>
+	</string>
+
+	<string id="lname_lieutenant_156">
+		<text>포댜체프</text>
+	</string>
+
+	<string id="lname_lieutenant_157">
+		<text>폴랴닌</text>
+	</string>
+
+	<string id="lname_lieutenant_158">
+		<text>포플랍스키</text>
+	</string>
+
+	<string id="lname_lieutenant_159">
+		<text>포포프</text>
+	</string>
+
+	<string id="lname_lieutenant_16">
+		<text>블리노프</text>
+	</string>
+
+	<string id="lname_lieutenant_160">
+		<text>포르트니흐</text>
+	</string>
+
+	<string id="lname_lieutenant_161">
+		<text>프라솔로프</text>
+	</string>
+
+	<string id="lname_lieutenant_162">
+		<text>프로코펜코</text>
+	</string>
+
+	<string id="lname_lieutenant_163">
+		<text>프로스쿠린</text>
+	</string>
+
+	<string id="lname_lieutenant_164">
+		<text>프로첸코</text>
+	</string>
+
+	<string id="lname_lieutenant_165">
+		<text>프루도프</text>
+	</string>
+
+	<string id="lname_lieutenant_166">
+		<text>푸스토바르</text>
+	</string>
+
+	<string id="lname_lieutenant_167">
+		<text>푸체크</text>
+	</string>
+
+	<string id="lname_lieutenant_168">
+		<text>라비노비치</text>
+	</string>
+
+	<string id="lname_lieutenant_169">
+		<text>라드케비치</text>
+	</string>
+
+	<string id="lname_lieutenant_17">
+		<text>보브로프</text>
+	</string>
+
+	<string id="lname_lieutenant_170">
+		<text>레준</text>
+	</string>
+
+	<string id="lname_lieutenant_171">
+		<text>로고자</text>
+	</string>
+
+	<string id="lname_lieutenant_172">
+		<text>로드냔스키</text>
+	</string>
+
+	<string id="lname_lieutenant_173">
+		<text>로탄</text>
+	</string>
+
+	<string id="lname_lieutenant_174">
+		<text>루블레프</text>
+	</string>
+
+	<string id="lname_lieutenant_175">
+		<text>루디크</text>
+	</string>
+
+	<string id="lname_lieutenant_176">
+		<text>루사노프</text>
+	</string>
+
+	<string id="lname_lieutenant_177">
+		<text>리차기르스키</text>
+	</string>
+
+	<string id="lname_lieutenant_178">
+		<text>사브첸코</text>
+	</string>
+
+	<string id="lname_lieutenant_179">
+		<text>사브추크</text>
+	</string>
+
+	<string id="lname_lieutenant_18">
+		<text>보그다노프</text>
+	</string>
+
+	<string id="lname_lieutenant_180">
+		<text>사기토프</text>
+	</string>
+
+	<string id="lname_lieutenant_181">
+		<text>스비리도프</text>
+	</string>
+
+	<string id="lname_lieutenant_182">
+		<text>세디크</text>
+	</string>
+
+	<string id="lname_lieutenant_183">
+		<text>세레다</text>
+	</string>
+
+	<string id="lname_lieutenant_184">
+		<text>시도렌코</text>
+	</string>
+
+	<string id="lname_lieutenant_185">
+		<text>시도로프</text>
+	</string>
+
+	<string id="lname_lieutenant_186">
+		<text>시니</text>
+	</string>
+
+	<string id="lname_lieutenant_187">
+		<text>시니친</text>
+	</string>
+
+	<string id="lname_lieutenant_188">
+		<text>스카메이카</text>
+	</string>
+
+	<string id="lname_lieutenant_189">
+		<text>슬루츠키</text>
+	</string>
+
+	<string id="lname_lieutenant_19">
+		<text>보이코</text>
+	</string>
+
+	<string id="lname_lieutenant_190">
+		<text>스멜로프</text>
+	</string>
+
+	<string id="lname_lieutenant_191">
+		<text>스몰리</text>
+	</string>
+
+	<string id="lname_lieutenant_192">
+		<text>소로킨</text>
+	</string>
+
+	<string id="lname_lieutenant_193">
+		<text>스타추라</text>
+	</string>
+
+	<string id="lname_lieutenant_194">
+		<text>스테프친</text>
+	</string>
+
+	<string id="lname_lieutenant_195">
+		<text>스티친스키</text>
+	</string>
+
+	<string id="lname_lieutenant_196">
+		<text>시쿨라</text>
+	</string>
+
+	<string id="lname_lieutenant_197">
+		<text>타르나프스키</text>
+	</string>
+
+	<string id="lname_lieutenant_198">
+		<text>타타르추크</text>
+	</string>
+
+	<string id="lname_lieutenant_199">
+		<text>팀추크</text>
+	</string>
+
+	<string id="lname_lieutenant_2">
+		<text>안드레이추크</text>
+	</string>
+
+	<string id="lname_lieutenant_20">
+		<text>보이첸코</text>
+	</string>
+
+	<string id="lname_lieutenant_21">
+		<text>볼데스쿨</text>
+	</string>
+
+	<string id="lname_lieutenant_22">
+		<text>본다레프</text>
+	</string>
+
+	<string id="lname_lieutenant_23">
+		<text>보리소프</text>
+	</string>
+
+	<string id="lname_lieutenant_24">
+		<text>브리치</text>
+	</string>
+
+	<string id="lname_lieutenant_25">
+		<text>브론시테인</text>
+	</string>
+
+	<string id="lname_lieutenant_26">
+		<text>부랴크</text>
+	</string>
+
+	<string id="lname_lieutenant_27">
+		<text>부투린</text>
+	</string>
+
+	<string id="lname_lieutenant_28">
+		<text>뱔로</text>
+	</string>
+
+	<string id="lname_lieutenant_29">
+		<text>발렌티노프</text>
+	</string>
+
+	<string id="lname_lieutenant_3">
+		<text>안드루스첸코</text>
+	</string>
+
+	<string id="lname_lieutenant_30">
+		<text>바실리예프</text>
+	</string>
+
+	<string id="lname_lieutenant_31">
+		<text>베셀로프</text>
+	</string>
+
+	<string id="lname_lieutenant_32">
+		<text>비노그라도프</text>
+	</string>
+
+	<string id="lname_lieutenant_33">
+		<text>보브넨코</text>
+	</string>
+
+	<string id="lname_lieutenant_34">
+		<text>볼란추크</text>
+	</string>
+
+	<string id="lname_lieutenant_35">
+		<text>볼로다르</text>
+	</string>
+
+	<string id="lname_lieutenant_36">
+		<text>볼로신</text>
+	</string>
+
+	<string id="lname_lieutenant_37">
+		<text>보론초프</text>
+	</string>
+
+	<string id="lname_lieutenant_38">
+		<text>보로하예프</text>
+	</string>
+
+	<string id="lname_lieutenant_39">
+		<text>뷰신스키</text>
+	</string>
+
+	<string id="lname_lieutenant_4">
+		<text>아니시예프</text>
+	</string>
+
+	<string id="lname_lieutenant_40">
+		<text>갈킨</text>
+	</string>
+
+	<string id="lname_lieutenant_41">
+		<text>간쥬크</text>
+	</string>
+
+	<string id="lname_lieutenant_42">
+		<text>가르코벤코</text>
+	</string>
+
+	<string id="lname_lieutenant_43">
+		<text>가르쿠샤</text>
+	</string>
+
+	<string id="lname_lieutenant_44">
+		<text>게오르고프</text>
+	</string>
+
+	<string id="lname_lieutenant_45">
+		<text>글레보브스키</text>
+	</string>
+
+	<string id="lname_lieutenant_46">
+		<text>그나튜크</text>
+	</string>
+
+	<string id="lname_lieutenant_47">
+		<text>곤차렌코</text>
+	</string>
+
+	<string id="lname_lieutenant_48">
+		<text>고르디옌코</text>
+	</string>
+
+	<string id="lname_lieutenant_49">
+		<text>고를레보이</text>
+	</string>
+
+	<string id="lname_lieutenant_5">
+		<text>아르다셰프</text>
+	</string>
+
+	<string id="lname_lieutenant_50">
+		<text>고로힌</text>
+	</string>
+
+	<string id="lname_lieutenant_51">
+		<text>고류노프</text>
+	</string>
+
+	<string id="lname_lieutenant_52">
+		<text>그레벤코</text>
+	</string>
+
+	<string id="lname_lieutenant_53">
+		<text>그리차옌코</text>
+	</string>
+
+	<string id="lname_lieutenant_54">
+		<text>그리차이</text>
+	</string>
+
+	<string id="lname_lieutenant_55">
+		<text>그리첸코프</text>
+	</string>
+
+	<string id="lname_lieutenant_56">
+		<text>그리샤체프</text>
+	</string>
+
+	<string id="lname_lieutenant_57">
+		<text>그리스추크</text>
+	</string>
+
+	<string id="lname_lieutenant_58">
+		<text>구바르</text>
+	</string>
+
+	<string id="lname_lieutenant_59">
+		<text>군코</text>
+	</string>
+
+	<string id="lname_lieutenant_6">
+		<text>바비치</text>
+	</string>
+
+	<string id="lname_lieutenant_60">
+		<text>구레비치</text>
+	</string>
+
+	<string id="lname_lieutenant_61">
+		<text>데니센코</text>
+	</string>
+
+	<string id="lname_lieutenant_62">
+		<text>도브갈류크</text>
+	</string>
+
+	<string id="lname_lieutenant_63">
+		<text>돔브리크</text>
+	</string>
+
+	<string id="lname_lieutenant_64">
+		<text>도첸코</text>
+	</string>
+
+	<string id="lname_lieutenant_65">
+		<text>드로즈두스크</text>
+	</string>
+
+	<string id="lname_lieutenant_66">
+		<text>두벤추크</text>
+	</string>
+
+	<string id="lname_lieutenant_67">
+		<text>두도로프</text>
+	</string>
+
+	<string id="lname_lieutenant_68">
+		<text>두카</text>
+	</string>
+
+	<string id="lname_lieutenant_69">
+		<text>둠코</text>
+	</string>
+
+	<string id="lname_lieutenant_7">
+		<text>발란</text>
+	</string>
+
+	<string id="lname_lieutenant_70">
+		<text>두나예프</text>
+	</string>
+
+	<string id="lname_lieutenant_71">
+		<text>디클로프</text>
+	</string>
+
+	<string id="lname_lieutenant_72">
+		<text>예로페예프</text>
+	</string>
+
+	<string id="lname_lieutenant_73">
+		<text>예프레모프</text>
+	</string>
+
+	<string id="lname_lieutenant_74">
+		<text>차벤코</text>
+	</string>
+
+	<string id="lname_lieutenant_75">
+		<text>츠므예프</text>
+	</string>
+
+	<string id="lname_lieutenant_76">
+		<text>추라코프스키</text>
+	</string>
+
+	<string id="lname_lieutenant_77">
+		<text>자비야고다</text>
+	</string>
+
+	<string id="lname_lieutenant_78">
+		<text>자고로드뉴크</text>
+	</string>
+
+	<string id="lname_lieutenant_79">
+		<text>자모센추크</text>
+	</string>
+
+	<string id="lname_lieutenant_8">
+		<text>바라노프</text>
+	</string>
+
+	<string id="lname_lieutenant_80">
+		<text>자루빈</text>
+	</string>
+
+	<string id="lname_lieutenant_81">
+		<text>자하린</text>
+	</string>
+
+	<string id="lname_lieutenant_82">
+		<text>즈본니츠키</text>
+	</string>
+
+	<string id="lname_lieutenant_83">
+		<text>지노비예프</text>
+	</string>
+
+	<string id="lname_lieutenant_84">
+		<text>조조</text>
+	</string>
+
+	<string id="lname_lieutenant_85">
+		<text>졸로타르</text>
+	</string>
+
+	<string id="lname_lieutenant_86">
+		<text>주바레프</text>
+	</string>
+
+	<string id="lname_lieutenant_87">
+		<text>주브코프</text>
+	</string>
+
+	<string id="lname_lieutenant_88">
+		<text>이바노프</text>
+	</string>
+
+	<string id="lname_lieutenant_89">
+		<text>이그나텐코</text>
+	</string>
+
+	<string id="lname_lieutenant_9">
+		<text>바라노프스키</text>
+	</string>
+
+	<string id="lname_lieutenant_90">
+		<text>이젠코</text>
+	</string>
+
+	<string id="lname_lieutenant_91">
+		<text>이스추크</text>
+	</string>
+
+	<string id="lname_lieutenant_92">
+		<text>카자코프</text>
+	</string>
+
+	<string id="lname_lieutenant_93">
+		<text>카잔체프</text>
+	</string>
+
+	<string id="lname_lieutenant_94">
+		<text>칸디바브코</text>
+	</string>
+
+	<string id="lname_lieutenant_95">
+		<text>카푸카</text>
+	</string>
+
+	<string id="lname_lieutenant_96">
+		<text>카푸스탼코</text>
+	</string>
+
+	<string id="lname_lieutenant_97">
+		<text>카츠</text>
+	</string>
+
+	<string id="lname_lieutenant_98">
+		<text>키카비제</text>
+	</string>
+
+	<string id="lname_lieutenant_99">
+		<text>가출라</text>
+	</string>
+
+	<string id="lname_private_0">
+		<text>압두라크마노프</text>
+	</string>
+
+	<string id="lname_private_1">
+		<text>알틴니크</text>
+	</string>
+
+	<string id="lname_private_10">
+		<text>바르사크</text>
+	</string>
+
+	<string id="lname_private_100">
+		<text>키리프</text>
+	</string>
+
+	<string id="lname_private_101">
+		<text>셰르빈</text>
+	</string>
+
+	<string id="lname_private_102">
+		<text>코발추크</text>
+	</string>
+
+	<string id="lname_private_103">
+		<text>코예프</text>
+	</string>
+
+	<string id="lname_private_104">
+		<text>코츨로프</text>
+	</string>
+
+	<string id="lname_private_105">
+		<text>콜론타레프</text>
+	</string>
+
+	<string id="lname_private_106">
+		<text>콜론타르</text>
+	</string>
+
+	<string id="lname_private_107">
+		<text>콘드라텐코</text>
+	</string>
+
+	<string id="lname_private_108">
+		<text>코르킨</text>
+	</string>
+
+	<string id="lname_private_109">
+		<text>코르니프</text>
+	</string>
+
+	<string id="lname_private_11">
+		<text>바울</text>
+	</string>
+
+	<string id="lname_private_110">
+		<text>크라브첸코</text>
+	</string>
+
+	<string id="lname_private_111">
+		<text>크리브다</text>
+	</string>
+
+	<string id="lname_private_112">
+		<text>크리보카츠키</text>
+	</string>
+
+	<string id="lname_private_113">
+		<text>쿠즈네초프</text>
+	</string>
+
+	<string id="lname_private_114">
+		<text>쿠즈미치</text>
+	</string>
+
+	<string id="lname_private_115">
+		<text>쿠쟈킨</text>
+	</string>
+
+	<string id="lname_private_116">
+		<text>쿨치츠키</text>
+	</string>
+
+	<string id="lname_private_117">
+		<text>쿤체프</text>
+	</string>
+
+	<string id="lname_private_118">
+		<text>쿠르비츠</text>
+	</string>
+
+	<string id="lname_private_119">
+		<text>쿠체루크</text>
+	</string>
+
+	<string id="lname_private_12">
+		<text>바샤코프</text>
+	</string>
+
+	<string id="lname_private_120">
+		<text>쿠쉬나레프</text>
+	</string>
+
+	<string id="lname_private_121">
+		<text>칼라제</text>
+	</string>
+
+	<string id="lname_private_122">
+		<text>라브리크</text>
+	</string>
+
+	<string id="lname_private_123">
+		<text>라브로프</text>
+	</string>
+
+	<string id="lname_private_124">
+		<text>립쉬츠</text>
+	</string>
+
+	<string id="lname_private_125">
+		<text>리시찬스키</text>
+	</string>
+
+	<string id="lname_private_126">
+		<text>리트빈</text>
+	</string>
+
+	<string id="lname_private_127">
+		<text>리마렌코</text>
+	</string>
+
+	<string id="lname_private_128">
+		<text>마제파</text>
+	</string>
+
+	<string id="lname_private_129">
+		<text>마카렌코</text>
+	</string>
+
+	<string id="lname_private_13">
+		<text>바시마코프</text>
+	</string>
+
+	<string id="lname_private_130">
+		<text>말체프</text>
+	</string>
+
+	<string id="lname_private_131">
+		<text>마마예프</text>
+	</string>
+
+	<string id="lname_private_132">
+		<text>메르츨레예프</text>
+	</string>
+
+	<string id="lname_private_133">
+		<text>밀첸코</text>
+	</string>
+
+	<string id="lname_private_134">
+		<text>미로뉴크</text>
+	</string>
+
+	<string id="lname_private_135">
+		<text>모흐러</text>
+	</string>
+
+	<string id="lname_private_136">
+		<text>크리가</text>
+	</string>
+
+	<string id="lname_private_137">
+		<text>모스토보이</text>
+	</string>
+
+	<string id="lname_private_138">
+		<text>문탼</text>
+	</string>
+
+	<string id="lname_private_139">
+		<text>무카메도프</text>
+	</string>
+
+	<string id="lname_private_14">
+		<text>베셰블리</text>
+	</string>
+
+	<string id="lname_private_140">
+		<text>미스코프</text>
+	</string>
+
+	<string id="lname_private_141">
+		<text>나브로츠키</text>
+	</string>
+
+	<string id="lname_private_142">
+		<text>네프리츠키</text>
+	</string>
+
+	<string id="lname_private_143">
+		<text>니카노로프</text>
+	</string>
+
+	<string id="lname_private_144">
+		<text>니케신</text>
+	</string>
+
+	<string id="lname_private_145">
+		<text>니쿨린</text>
+	</string>
+
+	<string id="lname_private_146">
+		<text>푸친</text>
+	</string>
+
+	<string id="lname_private_147">
+		<text>노르디예프</text>
+	</string>
+
+	<string id="lname_private_148">
+		<text>노산</text>
+	</string>
+
+	<string id="lname_private_149">
+		<text>오폴레프</text>
+	</string>
+
+	<string id="lname_private_15">
+		<text>비노예프</text>
+	</string>
+
+	<string id="lname_private_150">
+		<text>오를레비치</text>
+	</string>
+
+	<string id="lname_private_151">
+		<text>오를로프</text>
+	</string>
+
+	<string id="lname_private_152">
+		<text>페트케비치</text>
+	</string>
+
+	<string id="lname_private_153">
+		<text>페트렌코</text>
+	</string>
+
+	<string id="lname_private_154">
+		<text>페트로프</text>
+	</string>
+
+	<string id="lname_private_155">
+		<text>플로크헨코</text>
+	</string>
+
+	<string id="lname_private_156">
+		<text>포댜체프</text>
+	</string>
+
+	<string id="lname_private_157">
+		<text>폴랴닌</text>
+	</string>
+
+	<string id="lname_private_158">
+		<text>포플랍스키</text>
+	</string>
+
+	<string id="lname_private_159">
+		<text>포포프</text>
+	</string>
+
+	<string id="lname_private_16">
+		<text>블리노프</text>
+	</string>
+
+	<string id="lname_private_160">
+		<text>포르트니흐</text>
+	</string>
+
+	<string id="lname_private_161">
+		<text>프라솔로프</text>
+	</string>
+
+	<string id="lname_private_162">
+		<text>프로코펜코</text>
+	</string>
+
+	<string id="lname_private_163">
+		<text>프로스쿠린</text>
+	</string>
+
+	<string id="lname_private_164">
+		<text>프로첸코</text>
+	</string>
+
+	<string id="lname_private_165">
+		<text>프루도프</text>
+	</string>
+
+	<string id="lname_private_166">
+		<text>푸스토바르</text>
+	</string>
+
+	<string id="lname_private_167">
+		<text>푸체크</text>
+	</string>
+
+	<string id="lname_private_168">
+		<text>라비노비치</text>
+	</string>
+
+	<string id="lname_private_169">
+		<text>라드케비치</text>
+	</string>
+
+	<string id="lname_private_17">
+		<text>보브로프</text>
+	</string>
+
+	<string id="lname_private_170">
+		<text>레준</text>
+	</string>
+
+	<string id="lname_private_171">
+		<text>로고자</text>
+	</string>
+
+	<string id="lname_private_172">
+		<text>로드냔스키</text>
+	</string>
+
+	<string id="lname_private_173">
+		<text>로탄</text>
+	</string>
+
+	<string id="lname_private_174">
+		<text>루블레프</text>
+	</string>
+
+	<string id="lname_private_175">
+		<text>루디크</text>
+	</string>
+
+	<string id="lname_private_176">
+		<text>루사노프</text>
+	</string>
+
+	<string id="lname_private_177">
+		<text>리차기르스키</text>
+	</string>
+
+	<string id="lname_private_178">
+		<text>사브첸코</text>
+	</string>
+
+	<string id="lname_private_179">
+		<text>사브추크</text>
+	</string>
+
+	<string id="lname_private_18">
+		<text>보그다노프</text>
+	</string>
+
+	<string id="lname_private_180">
+		<text>사기토프</text>
+	</string>
+
+	<string id="lname_private_181">
+		<text>스비리도프</text>
+	</string>
+
+	<string id="lname_private_182">
+		<text>세디크</text>
+	</string>
+
+	<string id="lname_private_183">
+		<text>세레다</text>
+	</string>
+
+	<string id="lname_private_184">
+		<text>시도렌코</text>
+	</string>
+
+	<string id="lname_private_185">
+		<text>시도로프</text>
+	</string>
+
+	<string id="lname_private_186">
+		<text>시니</text>
+	</string>
+
+	<string id="lname_private_187">
+		<text>시니친</text>
+	</string>
+
+	<string id="lname_private_188">
+		<text>스카메이카</text>
+	</string>
+
+	<string id="lname_private_189">
+		<text>슬루츠키</text>
+	</string>
+
+	<string id="lname_private_19">
+		<text>보이코</text>
+	</string>
+
+	<string id="lname_private_190">
+		<text>스멜로프</text>
+	</string>
+
+	<string id="lname_private_191">
+		<text>스몰리</text>
+	</string>
+
+	<string id="lname_private_192">
+		<text>소로킨</text>
+	</string>
+
+	<string id="lname_private_193">
+		<text>스타추라</text>
+	</string>
+
+	<string id="lname_private_194">
+		<text>스테프친</text>
+	</string>
+
+	<string id="lname_private_195">
+		<text>스티친스키</text>
+	</string>
+
+	<string id="lname_private_196">
+		<text>시쿨라</text>
+	</string>
+
+	<string id="lname_private_197">
+		<text>타르나프스키</text>
+	</string>
+
+	<string id="lname_private_198">
+		<text>타타르추크</text>
+	</string>
+
+	<string id="lname_private_199">
+		<text>팀추크</text>
+	</string>
+
+	<string id="lname_private_2">
+		<text>안드레이추크</text>
+	</string>
+
+	<string id="lname_private_20">
+		<text>보이첸코</text>
+	</string>
+
+	<string id="lname_private_21">
+		<text>볼데스쿨</text>
+	</string>
+
+	<string id="lname_private_22">
+		<text>본다레프</text>
+	</string>
+
+	<string id="lname_private_23">
+		<text>보리소프</text>
+	</string>
+
+	<string id="lname_private_24">
+		<text>브리치</text>
+	</string>
+
+	<string id="lname_private_25">
+		<text>브론시테인</text>
+	</string>
+
+	<string id="lname_private_26">
+		<text>부랴크</text>
+	</string>
+
+	<string id="lname_private_27">
+		<text>부투린</text>
+	</string>
+
+	<string id="lname_private_28">
+		<text>뱔로</text>
+	</string>
+
+	<string id="lname_private_29">
+		<text>발렌티노프</text>
+	</string>
+
+	<string id="lname_private_3">
+		<text>안드루스첸코</text>
+	</string>
+
+	<string id="lname_private_30">
+		<text>바실리예프</text>
+	</string>
+
+	<string id="lname_private_31">
+		<text>베셀로프</text>
+	</string>
+
+	<string id="lname_private_32">
+		<text>비노그라도프</text>
+	</string>
+
+	<string id="lname_private_33">
+		<text>보브넨코</text>
+	</string>
+
+	<string id="lname_private_34">
+		<text>볼란추크</text>
+	</string>
+
+	<string id="lname_private_35">
+		<text>볼로다르</text>
+	</string>
+
+	<string id="lname_private_36">
+		<text>볼로신</text>
+	</string>
+
+	<string id="lname_private_37">
+		<text>보론초프</text>
+	</string>
+
+	<string id="lname_private_38">
+		<text>보로하예프</text>
+	</string>
+
+	<string id="lname_private_39">
+		<text>뷰신스키</text>
+	</string>
+
+	<string id="lname_private_4">
+		<text>아니시예프</text>
+	</string>
+
+	<string id="lname_private_40">
+		<text>갈킨</text>
+	</string>
+
+	<string id="lname_private_41">
+		<text>간쥬크</text>
+	</string>
+
+	<string id="lname_private_42">
+		<text>가르코벤코</text>
+	</string>
+
+	<string id="lname_private_43">
+		<text>가르쿠샤</text>
+	</string>
+
+	<string id="lname_private_44">
+		<text>게오르고프</text>
+	</string>
+
+	<string id="lname_private_45">
+		<text>글레보브스키</text>
+	</string>
+
+	<string id="lname_private_46">
+		<text>그나튜크</text>
+	</string>
+
+	<string id="lname_private_47">
+		<text>곤차렌코</text>
+	</string>
+
+	<string id="lname_private_48">
+		<text>고르디옌코</text>
+	</string>
+
+	<string id="lname_private_49">
+		<text>고를레보이</text>
+	</string>
+
+	<string id="lname_private_5">
+		<text>아르다셰프</text>
+	</string>
+
+	<string id="lname_private_50">
+		<text>고로힌</text>
+	</string>
+
+	<string id="lname_private_51">
+		<text>고류노프</text>
+	</string>
+
+	<string id="lname_private_52">
+		<text>그레벤코</text>
+	</string>
+
+	<string id="lname_private_53">
+		<text>그리차옌코</text>
+	</string>
+
+	<string id="lname_private_54">
+		<text>그리차이</text>
+	</string>
+
+	<string id="lname_private_55">
+		<text>그리첸코프</text>
+	</string>
+
+	<string id="lname_private_56">
+		<text>그리샤체프</text>
+	</string>
+
+	<string id="lname_private_57">
+		<text>그리스추크</text>
+	</string>
+
+	<string id="lname_private_58">
+		<text>구바르</text>
+	</string>
+
+	<string id="lname_private_59">
+		<text>군코</text>
+	</string>
+
+	<string id="lname_private_6">
+		<text>바비치</text>
+	</string>
+
+	<string id="lname_private_60">
+		<text>구레비치</text>
+	</string>
+
+	<string id="lname_private_61">
+		<text>데니센코</text>
+	</string>
+
+	<string id="lname_private_62">
+		<text>도브갈류크</text>
+	</string>
+
+	<string id="lname_private_63">
+		<text>돔브리크</text>
+	</string>
+
+	<string id="lname_private_64">
+		<text>도첸코</text>
+	</string>
+
+	<string id="lname_private_65">
+		<text>드로즈두스크</text>
+	</string>
+
+	<string id="lname_private_66">
+		<text>두벤추크</text>
+	</string>
+
+	<string id="lname_private_67">
+		<text>두도로프</text>
+	</string>
+
+	<string id="lname_private_68">
+		<text>두카</text>
+	</string>
+
+	<string id="lname_private_69">
+		<text>둠코</text>
+	</string>
+
+	<string id="lname_private_7">
+		<text>발란</text>
+	</string>
+
+	<string id="lname_private_70">
+		<text>두나예프</text>
+	</string>
+
+	<string id="lname_private_71">
+		<text>디클로프</text>
+	</string>
+
+	<string id="lname_private_72">
+		<text>예로페예프</text>
+	</string>
+
+	<string id="lname_private_73">
+		<text>예프레모프</text>
+	</string>
+
+	<string id="lname_private_74">
+		<text>차벤코</text>
+	</string>
+
+	<string id="lname_private_75">
+		<text>츠므예프</text>
+	</string>
+
+	<string id="lname_private_76">
+		<text>추라코프스키</text>
+	</string>
+
+	<string id="lname_private_77">
+		<text>자비야고다</text>
+	</string>
+
+	<string id="lname_private_78">
+		<text>자고로드뉴크</text>
+	</string>
+
+	<string id="lname_private_79">
+		<text>자모센추크</text>
+	</string>
+
+	<string id="lname_private_8">
+		<text>바라노프</text>
+	</string>
+
+	<string id="lname_private_80">
+		<text>자루빈</text>
+	</string>
+
+	<string id="lname_private_81">
+		<text>자하린</text>
+	</string>
+
+	<string id="lname_private_82">
+		<text>즈본니츠키</text>
+	</string>
+
+	<string id="lname_private_83">
+		<text>지노비예프</text>
+	</string>
+
+	<string id="lname_private_84">
+		<text>조조</text>
+	</string>
+
+	<string id="lname_private_85">
+		<text>졸로타르</text>
+	</string>
+
+	<string id="lname_private_86">
+		<text>주바레프</text>
+	</string>
+
+	<string id="lname_private_87">
+		<text>주브코프</text>
+	</string>
+
+	<string id="lname_private_88">
+		<text>이바노프</text>
+	</string>
+
+	<string id="lname_private_89">
+		<text>이그나텐코</text>
+	</string>
+
+	<string id="lname_private_9">
+		<text>바라노프스키</text>
+	</string>
+
+	<string id="lname_private_90">
+		<text>이젠코</text>
+	</string>
+
+	<string id="lname_private_91">
+		<text>이스추크</text>
+	</string>
+
+	<string id="lname_private_92">
+		<text>카자코프</text>
+	</string>
+
+	<string id="lname_private_93">
+		<text>카잔체프</text>
+	</string>
+
+	<string id="lname_private_94">
+		<text>칸디바브코</text>
+	</string>
+
+	<string id="lname_private_95">
+		<text>카푸카</text>
+	</string>
+
+	<string id="lname_private_96">
+		<text>카푸스탼코</text>
+	</string>
+
+	<string id="lname_private_97">
+		<text>카츠</text>
+	</string>
+
+	<string id="lname_private_98">
+		<text>키카비제</text>
+	</string>
+
+	<string id="lname_private_99">
+		<text>가출라</text>
+	</string>
+
+	<string id="lname_science_0">
+		<text>시나예프</text>
+	</string>
+
+	<string id="lname_science_1">
+		<text>페이글먼</text>
+	</string>
+
+	<string id="lname_science_10">
+		<text>레덴초프</text>
+	</string>
+
+	<string id="lname_science_11">
+		<text>알페로프</text>
+	</string>
+
+	<string id="lname_science_12">
+		<text>안티핀</text>
+	</string>
+
+	<string id="lname_science_13">
+		<text>블리노프</text>
+	</string>
+
+	<string id="lname_science_14">
+		<text>보고몰로프</text>
+	</string>
+
+	<string id="lname_science_15">
+		<text>바실리예비치</text>
+	</string>
+
+	<string id="lname_science_16">
+		<text>게시켄베인</text>
+	</string>
+
+	<string id="lname_science_17">
+		<text>디아코노프</text>
+	</string>
+
+	<string id="lname_science_18">
+		<text>예로킨</text>
+	</string>
+
+	<string id="lname_science_19">
+		<text>자이킨</text>
+	</string>
+
+	<string id="lname_science_2">
+		<text>자카로프</text>
+	</string>
+
+	<string id="lname_science_20">
+		<text>이브첸코</text>
+	</string>
+
+	<string id="lname_science_21">
+		<text>카바노프</text>
+	</string>
+
+	<string id="lname_science_22">
+		<text>라린</text>
+	</string>
+
+	<string id="lname_science_23">
+		<text>만코</text>
+	</string>
+
+	<string id="lname_science_24">
+		<text>미로노프</text>
+	</string>
+
+	<string id="lname_science_25">
+		<text>쉬테파넨코</text>
+	</string>
+
+	<string id="lname_science_26">
+		<text>오가네시안</text>
+	</string>
+
+	<string id="lname_science_27">
+		<text>크예르노두프</text>
+	</string>
+
+	<string id="lname_science_28">
+		<text>실로프</text>
+	</string>
+
+	<string id="lname_science_3">
+		<text>키리코프</text>
+	</string>
+
+	<string id="lname_science_4">
+		<text>벨야빈</text>
+	</string>
+
+	<string id="lname_science_5">
+		<text>파디프</text>
+	</string>
+
+	<string id="lname_science_6">
+		<text>쉬테클로프</text>
+	</string>
+
+	<string id="lname_science_7">
+		<text>안드리프</text>
+	</string>
+
+	<string id="lname_science_8">
+		<text>스피린</text>
+	</string>
+
+	<string id="lname_science_9">
+		<text>발리츠키</text>
+	</string>
+
+	<string id="lname_sergeant_0">
+		<text>압두라크마노프</text>
+	</string>
+
+	<string id="lname_sergeant_1">
+		<text>알틴니크</text>
+	</string>
+
+	<string id="lname_sergeant_10">
+		<text>바르사크</text>
+	</string>
+
+	<string id="lname_sergeant_100">
+		<text>키리프</text>
+	</string>
+
+	<string id="lname_sergeant_101">
+		<text>셰르빈</text>
+	</string>
+
+	<string id="lname_sergeant_102">
+		<text>코발추크</text>
+	</string>
+
+	<string id="lname_sergeant_103">
+		<text>코예프</text>
+	</string>
+
+	<string id="lname_sergeant_104">
+		<text>코츨로프</text>
+	</string>
+
+	<string id="lname_sergeant_105">
+		<text>콜론타레프</text>
+	</string>
+
+	<string id="lname_sergeant_106">
+		<text>콜론타르</text>
+	</string>
+
+	<string id="lname_sergeant_107">
+		<text>콘드라텐코</text>
+	</string>
+
+	<string id="lname_sergeant_108">
+		<text>코르킨</text>
+	</string>
+
+	<string id="lname_sergeant_109">
+		<text>코르니프</text>
+	</string>
+
+	<string id="lname_sergeant_11">
+		<text>바울</text>
+	</string>
+
+	<string id="lname_sergeant_110">
+		<text>크라브첸코</text>
+	</string>
+
+	<string id="lname_sergeant_111">
+		<text>크리브다</text>
+	</string>
+
+	<string id="lname_sergeant_112">
+		<text>크리보카츠키</text>
+	</string>
+
+	<string id="lname_sergeant_113">
+		<text>쿠즈네초프</text>
+	</string>
+
+	<string id="lname_sergeant_114">
+		<text>쿠즈미치</text>
+	</string>
+
+	<string id="lname_sergeant_115">
+		<text>쿠쟈킨</text>
+	</string>
+
+	<string id="lname_sergeant_116">
+		<text>쿨치츠키</text>
+	</string>
+
+	<string id="lname_sergeant_117">
+		<text>쿤체프</text>
+	</string>
+
+	<string id="lname_sergeant_118">
+		<text>쿠르비츠</text>
+	</string>
+
+	<string id="lname_sergeant_119">
+		<text>쿠체루크</text>
+	</string>
+
+	<string id="lname_sergeant_12">
+		<text>바샤코프</text>
+	</string>
+
+	<string id="lname_sergeant_120">
+		<text>쿠쉬나레프</text>
+	</string>
+
+	<string id="lname_sergeant_121">
+		<text>칼라제</text>
+	</string>
+
+	<string id="lname_sergeant_122">
+		<text>라브리크</text>
+	</string>
+
+	<string id="lname_sergeant_123">
+		<text>라브로프</text>
+	</string>
+
+	<string id="lname_sergeant_124">
+		<text>립쉬츠</text>
+	</string>
+
+	<string id="lname_sergeant_125">
+		<text>리시찬스키</text>
+	</string>
+
+	<string id="lname_sergeant_126">
+		<text>리트빈</text>
+	</string>
+
+	<string id="lname_sergeant_127">
+		<text>리마렌코</text>
+	</string>
+
+	<string id="lname_sergeant_128">
+		<text>마제파</text>
+	</string>
+
+	<string id="lname_sergeant_129">
+		<text>마카렌코</text>
+	</string>
+
+	<string id="lname_sergeant_13">
+		<text>바시마코프</text>
+	</string>
+
+	<string id="lname_sergeant_130">
+		<text>말체프</text>
+	</string>
+
+	<string id="lname_sergeant_131">
+		<text>마마예프</text>
+	</string>
+
+	<string id="lname_sergeant_132">
+		<text>메르츨레예프</text>
+	</string>
+
+	<string id="lname_sergeant_133">
+		<text>밀첸코</text>
+	</string>
+
+	<string id="lname_sergeant_134">
+		<text>미로뉴크</text>
+	</string>
+
+	<string id="lname_sergeant_135">
+		<text>모흐러</text>
+	</string>
+
+	<string id="lname_sergeant_136">
+		<text>크리가</text>
+	</string>
+
+	<string id="lname_sergeant_137">
+		<text>모스토보이</text>
+	</string>
+
+	<string id="lname_sergeant_138">
+		<text>문탼</text>
+	</string>
+
+	<string id="lname_sergeant_139">
+		<text>무카메도프</text>
+	</string>
+
+	<string id="lname_sergeant_14">
+		<text>베셰블리</text>
+	</string>
+
+	<string id="lname_sergeant_140">
+		<text>미스코프</text>
+	</string>
+
+	<string id="lname_sergeant_141">
+		<text>나브로츠키</text>
+	</string>
+
+	<string id="lname_sergeant_142">
+		<text>네프리츠키</text>
+	</string>
+
+	<string id="lname_sergeant_143">
+		<text>니카노로프</text>
+	</string>
+
+	<string id="lname_sergeant_144">
+		<text>니케신</text>
+	</string>
+
+	<string id="lname_sergeant_145">
+		<text>니쿨린</text>
+	</string>
+
+	<string id="lname_sergeant_146">
+		<text>푸친</text>
+	</string>
+
+	<string id="lname_sergeant_147">
+		<text>노르디예프</text>
+	</string>
+
+	<string id="lname_sergeant_148">
+		<text>노산</text>
+	</string>
+
+	<string id="lname_sergeant_149">
+		<text>오폴레프</text>
+	</string>
+
+	<string id="lname_sergeant_15">
+		<text>비노예프</text>
+	</string>
+
+	<string id="lname_sergeant_150">
+		<text>오를레비치</text>
+	</string>
+
+	<string id="lname_sergeant_151">
+		<text>오를로프</text>
+	</string>
+
+	<string id="lname_sergeant_152">
+		<text>페트케비치</text>
+	</string>
+
+	<string id="lname_sergeant_153">
+		<text>페트렌코</text>
+	</string>
+
+	<string id="lname_sergeant_154">
+		<text>페트로프</text>
+	</string>
+
+	<string id="lname_sergeant_155">
+		<text>플로크헨코</text>
+	</string>
+
+	<string id="lname_sergeant_156">
+		<text>포댜체프</text>
+	</string>
+
+	<string id="lname_sergeant_157">
+		<text>폴랴닌</text>
+	</string>
+
+	<string id="lname_sergeant_158">
+		<text>포플랍스키</text>
+	</string>
+
+	<string id="lname_sergeant_159">
+		<text>포포프</text>
+	</string>
+
+	<string id="lname_sergeant_16">
+		<text>블리노프</text>
+	</string>
+
+	<string id="lname_sergeant_160">
+		<text>포르트니흐</text>
+	</string>
+
+	<string id="lname_sergeant_161">
+		<text>프라솔로프</text>
+	</string>
+
+	<string id="lname_sergeant_162">
+		<text>프로코펜코</text>
+	</string>
+
+	<string id="lname_sergeant_163">
+		<text>프로스쿠린</text>
+	</string>
+
+	<string id="lname_sergeant_164">
+		<text>프로첸코</text>
+	</string>
+
+	<string id="lname_sergeant_165">
+		<text>프루도프</text>
+	</string>
+
+	<string id="lname_sergeant_166">
+		<text>푸스토바르</text>
+	</string>
+
+	<string id="lname_sergeant_167">
+		<text>푸체크</text>
+	</string>
+
+	<string id="lname_sergeant_168">
+		<text>라비노비치</text>
+	</string>
+
+	<string id="lname_sergeant_169">
+		<text>라드케비치</text>
+	</string>
+
+	<string id="lname_sergeant_17">
+		<text>보브로프</text>
+	</string>
+
+	<string id="lname_sergeant_170">
+		<text>레준</text>
+	</string>
+
+	<string id="lname_sergeant_171">
+		<text>로고자</text>
+	</string>
+
+	<string id="lname_sergeant_172">
+		<text>로드냔스키</text>
+	</string>
+
+	<string id="lname_sergeant_173">
+		<text>로탄</text>
+	</string>
+
+	<string id="lname_sergeant_174">
+		<text>루블레프</text>
+	</string>
+
+	<string id="lname_sergeant_175">
+		<text>루디크</text>
+	</string>
+
+	<string id="lname_sergeant_176">
+		<text>루사노프</text>
+	</string>
+
+	<string id="lname_sergeant_177">
+		<text>리차기르스키</text>
+	</string>
+
+	<string id="lname_sergeant_178">
+		<text>사브첸코</text>
+	</string>
+
+	<string id="lname_sergeant_179">
+		<text>사브추크</text>
+	</string>
+
+	<string id="lname_sergeant_18">
+		<text>보그다노프</text>
+	</string>
+
+	<string id="lname_sergeant_180">
+		<text>사기토프</text>
+	</string>
+
+	<string id="lname_sergeant_181">
+		<text>스비리도프</text>
+	</string>
+
+	<string id="lname_sergeant_182">
+		<text>세디크</text>
+	</string>
+
+	<string id="lname_sergeant_183">
+		<text>세레다</text>
+	</string>
+
+	<string id="lname_sergeant_184">
+		<text>시도렌코</text>
+	</string>
+
+	<string id="lname_sergeant_185">
+		<text>시도로프</text>
+	</string>
+
+	<string id="lname_sergeant_186">
+		<text>시니</text>
+	</string>
+
+	<string id="lname_sergeant_187">
+		<text>시니친</text>
+	</string>
+
+	<string id="lname_sergeant_188">
+		<text>스카메이카</text>
+	</string>
+
+	<string id="lname_sergeant_189">
+		<text>슬루츠키</text>
+	</string>
+
+	<string id="lname_sergeant_19">
+		<text>보이코</text>
+	</string>
+
+	<string id="lname_sergeant_190">
+		<text>스멜로프</text>
+	</string>
+
+	<string id="lname_sergeant_191">
+		<text>스몰리</text>
+	</string>
+
+	<string id="lname_sergeant_192">
+		<text>소로킨</text>
+	</string>
+
+	<string id="lname_sergeant_193">
+		<text>스타추라</text>
+	</string>
+
+	<string id="lname_sergeant_194">
+		<text>스테프친</text>
+	</string>
+
+	<string id="lname_sergeant_195">
+		<text>스티친스키</text>
+	</string>
+
+	<string id="lname_sergeant_196">
+		<text>시쿨라</text>
+	</string>
+
+	<string id="lname_sergeant_197">
+		<text>타르나프스키</text>
+	</string>
+
+	<string id="lname_sergeant_198">
+		<text>타타르추크</text>
+	</string>
+
+	<string id="lname_sergeant_199">
+		<text>팀추크</text>
+	</string>
+
+	<string id="lname_sergeant_2">
+		<text>안드레이추크</text>
+	</string>
+
+	<string id="lname_sergeant_20">
+		<text>보이첸코</text>
+	</string>
+
+	<string id="lname_sergeant_21">
+		<text>볼데스쿨</text>
+	</string>
+
+	<string id="lname_sergeant_22">
+		<text>본다레프</text>
+	</string>
+
+	<string id="lname_sergeant_23">
+		<text>보리소프</text>
+	</string>
+
+	<string id="lname_sergeant_24">
+		<text>브리치</text>
+	</string>
+
+	<string id="lname_sergeant_25">
+		<text>브론시테인</text>
+	</string>
+
+	<string id="lname_sergeant_26">
+		<text>부랴크</text>
+	</string>
+
+	<string id="lname_sergeant_27">
+		<text>부투린</text>
+	</string>
+
+	<string id="lname_sergeant_28">
+		<text>뱔로</text>
+	</string>
+
+	<string id="lname_sergeant_29">
+		<text>발렌티노프</text>
+	</string>
+
+	<string id="lname_sergeant_3">
+		<text>안드루스첸코</text>
+	</string>
+
+	<string id="lname_sergeant_30">
+		<text>바실리예프</text>
+	</string>
+
+	<string id="lname_sergeant_31">
+		<text>베셀로프</text>
+	</string>
+
+	<string id="lname_sergeant_32">
+		<text>비노그라도프</text>
+	</string>
+
+	<string id="lname_sergeant_33">
+		<text>보브넨코</text>
+	</string>
+
+	<string id="lname_sergeant_34">
+		<text>볼란추크</text>
+	</string>
+
+	<string id="lname_sergeant_35">
+		<text>볼로다르</text>
+	</string>
+
+	<string id="lname_sergeant_36">
+		<text>볼로신</text>
+	</string>
+
+	<string id="lname_sergeant_37">
+		<text>보론초프</text>
+	</string>
+
+	<string id="lname_sergeant_38">
+		<text>보로하예프</text>
+	</string>
+
+	<string id="lname_sergeant_39">
+		<text>뷰신스키</text>
+	</string>
+
+	<string id="lname_sergeant_4">
+		<text>아니시예프</text>
+	</string>
+
+	<string id="lname_sergeant_40">
+		<text>갈킨</text>
+	</string>
+
+	<string id="lname_sergeant_41">
+		<text>간쥬크</text>
+	</string>
+
+	<string id="lname_sergeant_42">
+		<text>가르코벤코</text>
+	</string>
+
+	<string id="lname_sergeant_43">
+		<text>가르쿠샤</text>
+	</string>
+
+	<string id="lname_sergeant_44">
+		<text>게오르고프</text>
+	</string>
+
+	<string id="lname_sergeant_45">
+		<text>글레보브스키</text>
+	</string>
+
+	<string id="lname_sergeant_46">
+		<text>그나튜크</text>
+	</string>
+
+	<string id="lname_sergeant_47">
+		<text>곤차렌코</text>
+	</string>
+
+	<string id="lname_sergeant_48">
+		<text>고르디옌코</text>
+	</string>
+
+	<string id="lname_sergeant_49">
+		<text>고를레보이</text>
+	</string>
+
+	<string id="lname_sergeant_5">
+		<text>아르다셰프</text>
+	</string>
+
+	<string id="lname_sergeant_50">
+		<text>고로힌</text>
+	</string>
+
+	<string id="lname_sergeant_51">
+		<text>고류노프</text>
+	</string>
+
+	<string id="lname_sergeant_52">
+		<text>그레벤코</text>
+	</string>
+
+	<string id="lname_sergeant_53">
+		<text>그리차옌코</text>
+	</string>
+
+	<string id="lname_sergeant_54">
+		<text>그리차이</text>
+	</string>
+
+	<string id="lname_sergeant_55">
+		<text>그리첸코프</text>
+	</string>
+
+	<string id="lname_sergeant_56">
+		<text>그리샤체프</text>
+	</string>
+
+	<string id="lname_sergeant_57">
+		<text>그리스추크</text>
+	</string>
+
+	<string id="lname_sergeant_58">
+		<text>구바르</text>
+	</string>
+
+	<string id="lname_sergeant_59">
+		<text>군코</text>
+	</string>
+
+	<string id="lname_sergeant_6">
+		<text>바비치</text>
+	</string>
+
+	<string id="lname_sergeant_60">
+		<text>구레비치</text>
+	</string>
+
+	<string id="lname_sergeant_61">
+		<text>데니센코</text>
+	</string>
+
+	<string id="lname_sergeant_62">
+		<text>도브갈류크</text>
+	</string>
+
+	<string id="lname_sergeant_63">
+		<text>돔브리크</text>
+	</string>
+
+	<string id="lname_sergeant_64">
+		<text>도첸코</text>
+	</string>
+
+	<string id="lname_sergeant_65">
+		<text>드로즈두스크</text>
+	</string>
+
+	<string id="lname_sergeant_66">
+		<text>두벤추크</text>
+	</string>
+
+	<string id="lname_sergeant_67">
+		<text>두도로프</text>
+	</string>
+
+	<string id="lname_sergeant_68">
+		<text>두카</text>
+	</string>
+
+	<string id="lname_sergeant_69">
+		<text>둠코</text>
+	</string>
+
+	<string id="lname_sergeant_7">
+		<text>발란</text>
+	</string>
+
+	<string id="lname_sergeant_70">
+		<text>두나예프</text>
+	</string>
+
+	<string id="lname_sergeant_71">
+		<text>디클로프</text>
+	</string>
+
+	<string id="lname_sergeant_72">
+		<text>예로페예프</text>
+	</string>
+
+	<string id="lname_sergeant_73">
+		<text>예프레모프</text>
+	</string>
+
+	<string id="lname_sergeant_74">
+		<text>차벤코</text>
+	</string>
+
+	<string id="lname_sergeant_75">
+		<text>츠므예프</text>
+	</string>
+
+	<string id="lname_sergeant_76">
+		<text>추라코프스키</text>
+	</string>
+
+	<string id="lname_sergeant_77">
+		<text>자비야고다</text>
+	</string>
+
+	<string id="lname_sergeant_78">
+		<text>자고로드뉴크</text>
+	</string>
+
+	<string id="lname_sergeant_79">
+		<text>자모센추크</text>
+	</string>
+
+	<string id="lname_sergeant_8">
+		<text>바라노프</text>
+	</string>
+
+	<string id="lname_sergeant_80">
+		<text>자루빈</text>
+	</string>
+
+	<string id="lname_sergeant_81">
+		<text>자하린</text>
+	</string>
+
+	<string id="lname_sergeant_82">
+		<text>즈본니츠키</text>
+	</string>
+
+	<string id="lname_sergeant_83">
+		<text>지노비예프</text>
+	</string>
+
+	<string id="lname_sergeant_84">
+		<text>조조</text>
+	</string>
+
+	<string id="lname_sergeant_85">
+		<text>졸로타르</text>
+	</string>
+
+	<string id="lname_sergeant_86">
+		<text>주바레프</text>
+	</string>
+
+	<string id="lname_sergeant_87">
+		<text>주브코프</text>
+	</string>
+
+	<string id="lname_sergeant_88">
+		<text>이바노프</text>
+	</string>
+
+	<string id="lname_sergeant_89">
+		<text>이그나텐코</text>
+	</string>
+
+	<string id="lname_sergeant_9">
+		<text>바라노프스키</text>
+	</string>
+
+	<string id="lname_sergeant_90">
+		<text>이젠코</text>
+	</string>
+
+	<string id="lname_sergeant_91">
+		<text>이스추크</text>
+	</string>
+
+	<string id="lname_sergeant_92">
+		<text>카자코프</text>
+	</string>
+
+	<string id="lname_sergeant_93">
+		<text>카잔체프</text>
+	</string>
+
+	<string id="lname_sergeant_94">
+		<text>칸디바브코</text>
+	</string>
+
+	<string id="lname_sergeant_95">
+		<text>카푸카</text>
+	</string>
+
+	<string id="lname_sergeant_96">
+		<text>카푸스탼코</text>
+	</string>
+
+	<string id="lname_sergeant_97">
+		<text>카츠</text>
+	</string>
+
+	<string id="lname_sergeant_98">
+		<text>키카비제</text>
+	</string>
+
+	<string id="lname_sergeant_99">
+		<text>가출라</text>
+	</string>
+
+	<string id="lname_stalker_0">
+		<text>화이트</text>
+	</string>
+
+	<string id="lname_stalker_1">
+		<text>그린</text>
+	</string>
+
+	<string id="lname_stalker_10">
+		<text>이모탈</text>
+	</string>
+
+	<string id="lname_stalker_100">
+		<text>러스티</text>
+	</string>
+
+	<string id="lname_stalker_101">
+		<text>로맨틱</text>
+	</string>
+
+	<string id="lname_stalker_102">
+		<text>애트로시어스</text>
+	</string>
+
+	<string id="lname_stalker_103">
+		<text>브로니</text>
+	</string>
+
+	<string id="lname_stalker_104">
+		<text>스토리텔러</text>
+	</string>
+
+	<string id="lname_stalker_105">
+		<text>블라인드</text>
+	</string>
+
+	<string id="lname_stalker_106">
+		<text>브레이브</text>
+	</string>
+
+	<string id="lname_stalker_107">
+		<text>스놋</text>
+	</string>
+
+	<string id="lname_stalker_108">
+		<text>디베이터</text>
+	</string>
+
+	<string id="lname_stalker_109">
+		<text>올드타이머</text>
+	</string>
+
+	<string id="lname_stalker_11">
+		<text>버서크</text>
+	</string>
+
+	<string id="lname_stalker_110">
+		<text>힙스터</text>
+	</string>
+
+	<string id="lname_stalker_111">
+		<text>멧</text>
+	</string>
+
+	<string id="lname_stalker_112">
+		<text>그림</text>
+	</string>
+
+	<string id="lname_stalker_113">
+		<text>슬라우치</text>
+	</string>
+
+	<string id="lname_stalker_114">
+		<text>드라이</text>
+	</string>
+
+	<string id="lname_stalker_115">
+		<text>럭키 바스타드</text>
+	</string>
+
+	<string id="lname_stalker_116">
+		<text>플레크드</text>
+	</string>
+
+	<string id="lname_stalker_117">
+		<text>팻소</text>
+	</string>
+
+	<string id="lname_stalker_118">
+		<text>벨리</text>
+	</string>
+
+	<string id="lname_stalker_119">
+		<text>코프스</text>
+	</string>
+
+	<string id="lname_stalker_12">
+		<text>브로큰</text>
+	</string>
+
+	<string id="lname_stalker_120">
+		<text>스마트 알렉</text>
+	</string>
+
+	<string id="lname_stalker_121">
+		<text>슬래셔</text>
+	</string>
+
+	<string id="lname_stalker_122">
+		<text>이어스</text>
+	</string>
+
+	<string id="lname_stalker_123">
+		<text>머머</text>
+	</string>
+
+	<string id="lname_stalker_124">
+		<text>제스터</text>
+	</string>
+
+	<string id="lname_stalker_125">
+		<text>레임</text>
+	</string>
+
+	<string id="lname_stalker_126">
+		<text>스털디</text>
+	</string>
+
+	<string id="lname_stalker_127">
+		<text>본</text>
+	</string>
+
+	<string id="lname_stalker_128">
+		<text>사이닉</text>
+	</string>
+
+	<string id="lname_stalker_129">
+		<text>듀드</text>
+	</string>
+
+	<string id="lname_stalker_13">
+		<text>블라이스</text>
+	</string>
+
+	<string id="lname_stalker_130">
+		<text>크랭키</text>
+	</string>
+
+	<string id="lname_stalker_131">
+		<text>얼러트</text>
+	</string>
+
+	<string id="lname_stalker_132">
+		<text>코노서</text>
+	</string>
+
+	<string id="lname_stalker_133">
+		<text>로버스트</text>
+	</string>
+
+	<string id="lname_stalker_134">
+		<text>소포모어</text>
+	</string>
+
+	<string id="lname_stalker_135">
+		<text>네이티브</text>
+	</string>
+
+	<string id="lname_stalker_136">
+		<text>애비에이터</text>
+	</string>
+
+	<string id="lname_stalker_137">
+		<text>에이전트</text>
+	</string>
+
+	<string id="lname_stalker_138">
+		<text>스콰이어</text>
+	</string>
+
+	<string id="lname_stalker_139">
+		<text>리치</text>
+	</string>
+
+	<string id="lname_stalker_14">
+		<text>크로니</text>
+	</string>
+
+	<string id="lname_stalker_140">
+		<text>디시플</text>
+	</string>
+
+	<string id="lname_stalker_141">
+		<text>아티스트</text>
+	</string>
+
+	<string id="lname_stalker_142">
+		<text>애스테틱</text>
+	</string>
+
+	<string id="lname_stalker_143">
+		<text>콘맨</text>
+	</string>
+
+	<string id="lname_stalker_144">
+		<text>뱅커</text>
+	</string>
+
+	<string id="lname_stalker_145">
+		<text>바드</text>
+	</string>
+
+	<string id="lname_stalker_146">
+		<text>배런</text>
+	</string>
+
+	<string id="lname_stalker_147">
+		<text>페들러</text>
+	</string>
+
+	<string id="lname_stalker_148">
+		<text>언오쏘독스</text>
+	</string>
+
+	<string id="lname_stalker_149">
+		<text>조거</text>
+	</string>
+
+	<string id="lname_stalker_15">
+		<text>아슬레트</text>
+	</string>
+
+	<string id="lname_stalker_150">
+		<text>파이터</text>
+	</string>
+
+	<string id="lname_stalker_151">
+		<text>트램프</text>
+	</string>
+
+	<string id="lname_stalker_152">
+		<text>보순</text>
+	</string>
+
+	<string id="lname_stalker_153">
+		<text>피그미</text>
+	</string>
+
+	<string id="lname_stalker_154">
+		<text>버번</text>
+	</string>
+
+	<string id="lname_stalker_155">
+		<text>부르주아</text>
+	</string>
+
+	<string id="lname_stalker_156">
+		<text>뷰로크래트</text>
+	</string>
+
+	<string id="lname_stalker_157">
+		<text>반달</text>
+	</string>
+
+	<string id="lname_stalker_158">
+		<text>바바리안</text>
+	</string>
+
+	<string id="lname_stalker_159">
+		<text>재니터</text>
+	</string>
+
+	<string id="lname_stalker_16">
+		<text>징어</text>
+	</string>
+
+	<string id="lname_stalker_160">
+		<text>위처</text>
+	</string>
+
+	<string id="lname_stalker_161">
+		<text>비지터</text>
+	</string>
+
+	<string id="lname_stalker_162">
+		<text>바이킹</text>
+	</string>
+
+	<string id="lname_stalker_163">
+		<text>쇼퍼</text>
+	</string>
+
+	<string id="lname_stalker_164">
+		<text>드라이브</text>
+	</string>
+
+	<string id="lname_stalker_165">
+		<text>치프</text>
+	</string>
+
+	<string id="lname_stalker_166">
+		<text>시프</text>
+	</string>
+
+	<string id="lname_stalker_167">
+		<text>보야저</text>
+	</string>
+
+	<string id="lname_stalker_168">
+		<text>슈링크</text>
+	</string>
+
+	<string id="lname_stalker_169">
+		<text>호스맨</text>
+	</string>
+
+	<string id="lname_stalker_17">
+		<text>라우드마우스</text>
+	</string>
+
+	<string id="lname_stalker_170">
+		<text>갱스터</text>
+	</string>
+
+	<string id="lname_stalker_171">
+		<text>지올로지스트</text>
+	</string>
+
+	<string id="lname_stalker_172">
+		<text>글래디에이터</text>
+	</string>
+
+	<string id="lname_stalker_173">
+		<text>메신저</text>
+	</string>
+
+	<string id="lname_stalker_174">
+		<text>게스트</text>
+	</string>
+
+	<string id="lname_stalker_175">
+		<text>카운트</text>
+	</string>
+
+	<string id="lname_stalker_176">
+		<text>포터</text>
+	</string>
+
+	<string id="lname_stalker_177">
+		<text>그랜파</text>
+	</string>
+
+	<string id="lname_stalker_178">
+		<text>디펙터</text>
+	</string>
+
+	<string id="lname_stalker_179">
+		<text>세일즈맨</text>
+	</string>
+
+	<string id="lname_stalker_18">
+		<text>그레이하운드</text>
+	</string>
+
+	<string id="lname_stalker_180">
+		<text>댄디</text>
+	</string>
+
+	<string id="lname_stalker_181">
+		<text>데퓨티</text>
+	</string>
+
+	<string id="lname_stalker_182">
+		<text>타이런트</text>
+	</string>
+
+	<string id="lname_stalker_183">
+		<text>세비지</text>
+	</string>
+
+	<string id="lname_stalker_184">
+		<text>디플로마트</text>
+	</string>
+
+	<string id="lname_stalker_185">
+		<text>닥</text>
+	</string>
+
+	<string id="lname_stalker_186">
+		<text>닥터</text>
+	</string>
+
+	<string id="lname_stalker_187">
+		<text>프로페서</text>
+	</string>
+
+	<string id="lname_stalker_188">
+		<text>스트랭글러</text>
+	</string>
+
+	<string id="lname_stalker_189">
+		<text>워든</text>
+	</string>
+
+	<string id="lname_stalker_19">
+		<text>호보</text>
+	</string>
+
+	<string id="lname_stalker_190">
+		<text>카운셀러</text>
+	</string>
+
+	<string id="lname_stalker_191">
+		<text>액-액</text>
+	</string>
+
+	<string id="lname_stalker_192">
+		<text>크왝</text>
+	</string>
+
+	<string id="lname_stalker_193">
+		<text>플레이어</text>
+	</string>
+
+	<string id="lname_stalker_194">
+		<text>인디언</text>
+	</string>
+
+	<string id="lname_stalker_195">
+		<text>이로쿼이즈</text>
+	</string>
+
+	<string id="lname_stalker_196">
+		<text>캡틴</text>
+	</string>
+
+	<string id="lname_stalker_197">
+		<text>치트</text>
+	</string>
+
+	<string id="lname_stalker_198">
+		<text>클라운</text>
+	</string>
+
+	<string id="lname_stalker_199">
+		<text>듀크</text>
+	</string>
+
+	<string id="lname_stalker_2">
+		<text>레드</text>
+	</string>
+
+	<string id="lname_stalker_20">
+		<text>셰이븐</text>
+	</string>
+
+	<string id="lname_stalker_200">
+		<text>코사크</text>
+	</string>
+
+	<string id="lname_stalker_201">
+		<text>쿡</text>
+	</string>
+
+	<string id="lname_stalker_202">
+		<text>워락</text>
+	</string>
+
+	<string id="lname_stalker_203">
+		<text>코만치</text>
+	</string>
+
+	<string id="lname_stalker_204">
+		<text>킹</text>
+	</string>
+
+	<string id="lname_stalker_205">
+		<text>갓파더</text>
+	</string>
+
+	<string id="lname_stalker_206">
+		<text>머천트</text>
+	</string>
+
+	<string id="lname_stalker_207">
+		<text>스모커</text>
+	</string>
+
+	<string id="lname_stalker_208">
+		<text>쿠리에</text>
+	</string>
+
+	<string id="lname_stalker_209">
+		<text>코치</text>
+	</string>
+
+	<string id="lname_stalker_21">
+		<text>베테랑</text>
+	</string>
+
+	<string id="lname_stalker_210">
+		<text>리져네어</text>
+	</string>
+
+	<string id="lname_stalker_211">
+		<text>힐러</text>
+	</string>
+
+	<string id="lname_stalker_212">
+		<text>포레스터</text>
+	</string>
+
+	<string id="lname_stalker_213">
+		<text>로드</text>
+	</string>
+
+	<string id="lname_stalker_214">
+		<text>타이쿤</text>
+	</string>
+
+	<string id="lname_stalker_215">
+		<text>블링-블링</text>
+	</string>
+
+	<string id="lname_stalker_216">
+		<text>매니악</text>
+	</string>
+
+	<string id="lname_stalker_217">
+		<text>마시안</text>
+	</string>
+
+	<string id="lname_stalker_218">
+		<text>메이슨</text>
+	</string>
+
+	<string id="lname_stalker_219">
+		<text>메카닉</text>
+	</string>
+
+	<string id="lname_stalker_22">
+		<text>빅타임</text>
+	</string>
+
+	<string id="lname_stalker_220">
+		<text>언더테이커</text>
+	</string>
+
+	<string id="lname_stalker_221">
+		<text>모더레이터</text>
+	</string>
+
+	<string id="lname_stalker_222">
+		<text>밀크맨</text>
+	</string>
+
+	<string id="lname_stalker_223">
+		<text>버처</text>
+	</string>
+
+	<string id="lname_stalker_224">
+		<text>머크</text>
+	</string>
+
+	<string id="lname_stalker_225">
+		<text>튜너</text>
+	</string>
+
+	<string id="lname_stalker_226">
+		<text>보스</text>
+	</string>
+
+	<string id="lname_stalker_227">
+		<text>닌자</text>
+	</string>
+
+	<string id="lname_stalker_228">
+		<text>오퍼레이터</text>
+	</string>
+
+	<string id="lname_stalker_229">
+		<text>건스미스</text>
+	</string>
+
+	<string id="lname_stalker_23">
+		<text>럭키</text>
+	</string>
+
+	<string id="lname_stalker_230">
+		<text>샤</text>
+	</string>
+
+	<string id="lname_stalker_231">
+		<text>이그제큐셔너</text>
+	</string>
+
+	<string id="lname_stalker_232">
+		<text>폴칸</text>
+	</string>
+
+	<string id="lname_stalker_233">
+		<text>펑크</text>
+	</string>
+
+	<string id="lname_stalker_234">
+		<text>대디</text>
+	</string>
+
+	<string id="lname_stalker_235">
+		<text>게릴라</text>
+	</string>
+
+	<string id="lname_stalker_236">
+		<text>패스터</text>
+	</string>
+
+	<string id="lname_stalker_237">
+		<text>셰퍼드</text>
+	</string>
+
+	<string id="lname_stalker_238">
+		<text>엘더</text>
+	</string>
+
+	<string id="lname_stalker_239">
+		<text>플로우맨</text>
+	</string>
+
+	<string id="lname_stalker_24">
+		<text>포츄내트</text>
+	</string>
+
+	<string id="lname_stalker_240">
+		<text>패시피스트</text>
+	</string>
+
+	<string id="lname_stalker_241">
+		<text>트랜스포터</text>
+	</string>
+
+	<string id="lname_stalker_242">
+		<text>휘슬</text>
+	</string>
+
+	<string id="lname_stalker_243">
+		<text>파일럿</text>
+	</string>
+
+	<string id="lname_stalker_244">
+		<text>트래일블레이저</text>
+	</string>
+
+	<string id="lname_stalker_245">
+		<text>파이레이트</text>
+	</string>
+
+	<string id="lname_stalker_246">
+		<text>카펜터</text>
+	</string>
+
+	<string id="lname_stalker_247">
+		<text>알세니스트</text>
+	</string>
+
+	<string id="lname_stalker_248">
+		<text>파이어파이터</text>
+	</string>
+
+	<string id="lname_stalker_249">
+		<text>슬리퍼</text>
+	</string>
+
+	<string id="lname_stalker_25">
+		<text>빈폴</text>
+	</string>
+
+	<string id="lname_stalker_250">
+		<text>서브제로</text>
+	</string>
+
+	<string id="lname_stalker_251">
+		<text>앰배새더</text>
+	</string>
+
+	<string id="lname_stalker_252">
+		<text>포스트맨</text>
+	</string>
+
+	<string id="lname_stalker_253">
+		<text>포엣</text>
+	</string>
+
+	<string id="lname_stalker_254">
+		<text>프린스</text>
+	</string>
+
+	<string id="lname_stalker_255">
+		<text>프로펫</text>
+	</string>
+
+	<string id="lname_stalker_256">
+		<text>프로페서</text>
+	</string>
+
+	<string id="lname_stalker_257">
+		<text>점퍼</text>
+	</string>
+
+	<string id="lname_stalker_258">
+		<text>비키퍼</text>
+	</string>
+
+	<string id="lname_stalker_259">
+		<text>워크호스</text>
+	</string>
+
+	<string id="lname_stalker_26">
+		<text>로얄</text>
+	</string>
+
+	<string id="lname_stalker_260">
+		<text>라비</text>
+	</string>
+
+	<string id="lname_stalker_261">
+		<text>스파크스</text>
+	</string>
+
+	<string id="lname_stalker_262">
+		<text>브리갠드</text>
+	</string>
+
+	<string id="lname_stalker_263">
+		<text>라스타</text>
+	</string>
+
+	<string id="lname_stalker_264">
+		<text>워든</text>
+	</string>
+
+	<string id="lname_stalker_265">
+		<text>로커</text>
+	</string>
+
+	<string id="lname_stalker_266">
+		<text>마이너</text>
+	</string>
+
+	<string id="lname_stalker_267">
+		<text>사무라이</text>
+	</string>
+
+	<string id="lname_stalker_268">
+		<text>마인스위퍼</text>
+	</string>
+
+	<string id="lname_stalker_269">
+		<text>오덜리</text>
+	</string>
+
+	<string id="lname_stalker_27">
+		<text>버그아이드</text>
+	</string>
+
+	<string id="lname_stalker_270">
+		<text>프리스트</text>
+	</string>
+
+	<string id="lname_stalker_271">
+		<text>시크리터리</text>
+	</string>
+
+	<string id="lname_stalker_272">
+		<text>지글로우</text>
+	</string>
+
+	<string id="lname_stalker_273">
+		<text>섐</text>
+	</string>
+
+	<string id="lname_stalker_274">
+		<text>시티언</text>
+	</string>
+
+	<string id="lname_stalker_275">
+		<text>패스파인더</text>
+	</string>
+
+	<string id="lname_stalker_276">
+		<text>머시니스트</text>
+	</string>
+
+	<string id="lname_stalker_277">
+		<text>카미카제</text>
+	</string>
+
+	<string id="lname_stalker_278">
+		<text>브리더</text>
+	</string>
+
+	<string id="lname_stalker_279">
+		<text>라이프세이버</text>
+	</string>
+
+	<string id="lname_stalker_28">
+		<text>볼더</text>
+	</string>
+
+	<string id="lname_stalker_280">
+		<text>스포츠맨</text>
+	</string>
+
+	<string id="lname_stalker_281">
+		<text>스트레인저</text>
+	</string>
+
+	<string id="lname_stalker_282">
+		<text>스튜던트</text>
+	</string>
+
+	<string id="lname_stalker_283">
+		<text>저지</text>
+	</string>
+
+	<string id="lname_stalker_284">
+		<text>토드스툴</text>
+	</string>
+
+	<string id="lname_stalker_285">
+		<text>핌프</text>
+	</string>
+
+	<string id="lname_stalker_286">
+		<text>빈카운터</text>
+	</string>
+
+	<string id="lname_stalker_287">
+		<text>트루퍼</text>
+	</string>
+
+	<string id="lname_stalker_288">
+		<text>댄서</text>
+	</string>
+
+	<string id="lname_stalker_289">
+		<text>타이런트</text>
+	</string>
+
+	<string id="lname_stalker_29">
+		<text>로튼</text>
+	</string>
+
+	<string id="lname_stalker_290">
+		<text>해글러</text>
+	</string>
+
+	<string id="lname_stalker_291">
+		<text>모퍼-업</text>
+	</string>
+
+	<string id="lname_stalker_292">
+		<text>스위퍼</text>
+	</string>
+
+	<string id="lname_stalker_293">
+		<text>에스닉</text>
+	</string>
+
+	<string id="lname_stalker_294">
+		<text>투어리스트</text>
+	</string>
+
+	<string id="lname_stalker_295">
+		<text>히트맨</text>
+	</string>
+
+	<string id="lname_stalker_296">
+		<text>트럼본</text>
+	</string>
+
+	<string id="lname_stalker_297">
+		<text>쿼터백</text>
+	</string>
+
+	<string id="lname_stalker_298">
+		<text>스나이퍼</text>
+	</string>
+
+	<string id="lname_stalker_299">
+		<text>케미스트</text>
+	</string>
+
+	<string id="lname_stalker_3">
+		<text>러스티</text>
+	</string>
+
+	<string id="lname_stalker_30">
+		<text>버벌</text>
+	</string>
+
+	<string id="lname_stalker_300">
+		<text>패티</text>
+	</string>
+
+	<string id="lname_stalker_301">
+		<text>페인터</text>
+	</string>
+
+	<string id="lname_stalker_302">
+		<text>쉽 허더</text>
+	</string>
+
+	<string id="lname_stalker_303">
+		<text>샤먼</text>
+	</string>
+
+	<string id="lname_stalker_304">
+		<text>핏맨</text>
+	</string>
+
+	<string id="lname_stalker_305">
+		<text>코얼마이너</text>
+	</string>
+
+	<string id="lname_stalker_306">
+		<text>셰리프</text>
+	</string>
+
+	<string id="lname_stalker_307">
+		<text>치프</text>
+	</string>
+
+	<string id="lname_stalker_308">
+		<text>스콜라</text>
+	</string>
+
+	<string id="lname_stalker_309">
+		<text>캐비</text>
+	</string>
+
+	<string id="lname_stalker_31">
+		<text>험프백</text>
+	</string>
+
+	<string id="lname_stalker_310">
+		<text>스파이</text>
+	</string>
+
+	<string id="lname_stalker_311">
+		<text>일렉트리션</text>
+	</string>
+
+	<string id="lname_stalker_312">
+		<text>카뎃</text>
+	</string>
+
+	<string id="lname_stalker_313">
+		<text>히튼</text>
+	</string>
+
+	<string id="lname_stalker_314">
+		<text>앨리게이터</text>
+	</string>
+
+	<string id="lname_stalker_315">
+		<text>아나콘다</text>
+	</string>
+
+	<string id="lname_stalker_316">
+		<text>바분</text>
+	</string>
+
+	<string id="lname_stalker_317">
+		<text>바이슨</text>
+	</string>
+
+	<string id="lname_stalker_318">
+		<text>비버</text>
+	</string>
+
+	<string id="lname_stalker_319">
+		<text>맨티스</text>
+	</string>
+
+	<string id="lname_stalker_32">
+		<text>프라우드</text>
+	</string>
+
+	<string id="lname_stalker_320">
+		<text>불독</text>
+	</string>
+
+	<string id="lname_stalker_321">
+		<text>칩멍크</text>
+	</string>
+
+	<string id="lname_stalker_322">
+		<text>옥스</text>
+	</string>
+
+	<string id="lname_stalker_323">
+		<text>그라이스</text>
+	</string>
+
+	<string id="lname_stalker_324">
+		<text>스패로우</text>
+	</string>
+
+	<string id="lname_stalker_325">
+		<text>레이븐</text>
+	</string>
+
+	<string id="lname_stalker_326">
+		<text>머스크라트</text>
+	</string>
+
+	<string id="lname_stalker_327">
+		<text>플랜테인</text>
+	</string>
+
+	<string id="lname_stalker_328">
+		<text>스케빈저</text>
+	</string>
+
+	<string id="lname_stalker_329">
+		<text>룩</text>
+	</string>
+
+	<string id="lname_stalker_33">
+		<text>비터</text>
+	</string>
+
+	<string id="lname_stalker_330">
+		<text>마눌</text>
+	</string>
+
+	<string id="lname_stalker_331">
+		<text>구스</text>
+	</string>
+
+	<string id="lname_stalker_332">
+		<text>돌핀</text>
+	</string>
+
+	<string id="lname_stalker_333">
+		<text>다이노소어</text>
+	</string>
+
+	<string id="lname_stalker_334">
+		<text>쓰러쉬</text>
+	</string>
+
+	<string id="lname_stalker_335">
+		<text>우드페커</text>
+	</string>
+
+	<string id="lname_stalker_336">
+		<text>헤지혹</text>
+	</string>
+
+	<string id="lname_stalker_337">
+		<text>비틀</text>
+	</string>
+
+	<string id="lname_stalker_338">
+		<text>헤어</text>
+	</string>
+
+	<string id="lname_stalker_339">
+		<text>비스트</text>
+	</string>
+
+	<string id="lname_stalker_34">
+		<text>썬더</text>
+	</string>
+
+	<string id="lname_stalker_340">
+		<text>워락</text>
+	</string>
+
+	<string id="lname_stalker_341">
+		<text>아우락스</text>
+	</string>
+
+	<string id="lname_stalker_342">
+		<text>터키</text>
+	</string>
+
+	<string id="lname_stalker_343">
+		<text>보어</text>
+	</string>
+
+	<string id="lname_stalker_344">
+		<text>크루시언</text>
+	</string>
+
+	<string id="lname_stalker_345">
+		<text>카나리</text>
+	</string>
+
+	<string id="lname_stalker_346">
+		<text>베드버그</text>
+	</string>
+
+	<string id="lname_stalker_347">
+		<text>코브라</text>
+	</string>
+
+	<string id="lname_stalker_348">
+		<text>모스키토</text>
+	</string>
+
+	<string id="lname_stalker_349">
+		<text>스탤리언</text>
+	</string>
+
+	<string id="lname_stalker_35">
+		<text>불리</text>
+	</string>
+
+	<string id="lname_stalker_350">
+		<text>캣</text>
+	</string>
+
+	<string id="lname_stalker_351">
+		<text>크록</text>
+	</string>
+
+	<string id="lname_stalker_352">
+		<text>그래스호퍼</text>
+	</string>
+
+	<string id="lname_stalker_353">
+		<text>나크</text>
+	</string>
+
+	<string id="lname_stalker_354">
+		<text>무스</text>
+	</string>
+
+	<string id="lname_stalker_355">
+		<text>맘모스</text>
+	</string>
+
+	<string id="lname_stalker_356">
+		<text>엘리펀트</text>
+	</string>
+
+	<string id="lname_stalker_357">
+		<text>졈</text>
+	</string>
+
+	<string id="lname_stalker_358">
+		<text>내트</text>
+	</string>
+
+	<string id="lname_stalker_359">
+		<text>앤트</text>
+	</string>
+
+	<string id="lname_stalker_36">
+		<text>롱 존</text>
+	</string>
+
+	<string id="lname_stalker_360">
+		<text>개드플라이</text>
+	</string>
+
+	<string id="lname_stalker_361">
+		<text>스파이더</text>
+	</string>
+
+	<string id="lname_stalker_362">
+		<text>랫</text>
+	</string>
+
+	<string id="lname_stalker_363">
+		<text>필그림</text>
+	</string>
+
+	<string id="lname_stalker_364">
+		<text>피라냐</text>
+	</string>
+
+	<string id="lname_stalker_365">
+		<text>파이선</text>
+	</string>
+
+	<string id="lname_stalker_366">
+		<text>헤어</text>
+	</string>
+
+	<string id="lname_stalker_367">
+		<text>아울</text>
+	</string>
+
+	<string id="lname_stalker_368">
+		<text>팔콘</text>
+	</string>
+
+	<string id="lname_stalker_369">
+		<text>마멋</text>
+	</string>
+
+	<string id="lname_stalker_37">
+		<text>소프티</text>
+	</string>
+
+	<string id="lname_stalker_370">
+		<text>고퍼</text>
+	</string>
+
+	<string id="lname_stalker_371">
+		<text>미노우</text>
+	</string>
+
+	<string id="lname_stalker_372">
+		<text>코크로치</text>
+	</string>
+
+	<string id="lname_stalker_373">
+		<text>타란튤라</text>
+	</string>
+
+	<string id="lname_stalker_374">
+		<text>햄스터</text>
+	</string>
+
+	<string id="lname_stalker_375">
+		<text>보아</text>
+	</string>
+
+	<string id="lname_stalker_376">
+		<text>아울</text>
+	</string>
+
+	<string id="lname_stalker_377">
+		<text>페렛</text>
+	</string>
+
+	<string id="lname_stalker_378">
+		<text>웜</text>
+	</string>
+
+	<string id="lname_stalker_379">
+		<text>핏맨</text>
+	</string>
+
+	<string id="lname_stalker_38">
+		<text>데드 덕</text>
+	</string>
+
+	<string id="lname_stalker_380">
+		<text>앱솔루트</text>
+	</string>
+
+	<string id="lname_stalker_381">
+		<text>아노말리</text>
+	</string>
+
+	<string id="lname_stalker_382">
+		<text>범퍼</text>
+	</string>
+
+	<string id="lname_stalker_383">
+		<text>로프</text>
+	</string>
+
+	<string id="lname_stalker_384">
+		<text>브로큰</text>
+	</string>
+
+	<string id="lname_stalker_385">
+		<text>메이헴</text>
+	</string>
+
+	<string id="lname_stalker_386">
+		<text>파이어볼</text>
+	</string>
+
+	<string id="lname_stalker_387">
+		<text>볼트</text>
+	</string>
+
+	<string id="lname_stalker_388">
+		<text>레이저</text>
+	</string>
+
+	<string id="lname_stalker_389">
+		<text>드럼</text>
+	</string>
+
+	<string id="lname_stalker_39">
+		<text>퍼쳐</text>
+	</string>
+
+	<string id="lname_stalker_390">
+		<text>도넛</text>
+	</string>
+
+	<string id="lname_stalker_391">
+		<text>배큠</text>
+	</string>
+
+	<string id="lname_stalker_392">
+		<text>정크</text>
+	</string>
+
+	<string id="lname_stalker_393">
+		<text>페블</text>
+	</string>
+
+	<string id="lname_stalker_394">
+		<text>팬</text>
+	</string>
+
+	<string id="lname_stalker_395">
+		<text>차퍼</text>
+	</string>
+
+	<string id="lname_stalker_396">
+		<text>윈드</text>
+	</string>
+
+	<string id="lname_stalker_397">
+		<text>스크루</text>
+	</string>
+
+	<string id="lname_stalker_398">
+		<text>콜라</text>
+	</string>
+
+	<string id="lname_stalker_399">
+		<text>네일</text>
+	</string>
+
+	<string id="lname_stalker_4">
+		<text>레드헤드</text>
+	</string>
+
+	<string id="lname_stalker_40">
+		<text>태드폴</text>
+	</string>
+
+	<string id="lname_stalker_400">
+		<text>카트리지</text>
+	</string>
+
+	<string id="lname_stalker_401">
+		<text>글로브</text>
+	</string>
+
+	<string id="lname_stalker_402">
+		<text>볼더</text>
+	</string>
+
+	<string id="lname_stalker_403">
+		<text>수류탄</text>
+	</string>
+
+	<string id="lname_stalker_404">
+		<text>포그</text>
+	</string>
+
+	<string id="lname_stalker_405">
+		<text>코핀</text>
+	</string>
+
+	<string id="lname_stalker_406">
+		<text>서머타임</text>
+	</string>
+
+	<string id="lname_stalker_407">
+		<text>엔진</text>
+	</string>
+
+	<string id="lname_stalker_408">
+		<text>다이너마이트</text>
+	</string>
+
+	<string id="lname_stalker_409">
+		<text>홀레이</text>
+	</string>
+
+	<string id="lname_stalker_41">
+		<text>버터핑거스</text>
+	</string>
+
+	<string id="lname_stalker_410">
+		<text>리걸</text>
+	</string>
+
+	<string id="lname_stalker_411">
+		<text>록</text>
+	</string>
+
+	<string id="lname_stalker_412">
+		<text>브리치</text>
+	</string>
+
+	<string id="lname_stalker_413">
+		<text>아이소토프</text>
+	</string>
+
+	<string id="lname_stalker_414">
+		<text>록</text>
+	</string>
+
+	<string id="lname_stalker_415">
+		<text>트랩</text>
+	</string>
+
+	<string id="lname_stalker_416">
+		<text>소서러</text>
+	</string>
+
+	<string id="lname_stalker_417">
+		<text>카르마</text>
+	</string>
+
+	<string id="lname_stalker_418">
+		<text>브릭</text>
+	</string>
+
+	<string id="lname_stalker_419">
+		<text>글루</text>
+	</string>
+
+	<string id="lname_stalker_42">
+		<text>미니</text>
+	</string>
+
+	<string id="lname_stalker_420">
+		<text>키</text>
+	</string>
+
+	<string id="lname_stalker_421">
+		<text>윕</text>
+	</string>
+
+	<string id="lname_stalker_422">
+		<text>트럼프</text>
+	</string>
+
+	<string id="lname_stalker_423">
+		<text>캡</text>
+	</string>
+
+	<string id="lname_stalker_424">
+		<text>로그 스플리터</text>
+	</string>
+
+	<string id="lname_stalker_425">
+		<text>위스키</text>
+	</string>
+
+	<string id="lname_stalker_426">
+		<text>루트</text>
+	</string>
+
+	<string id="lname_stalker_427">
+		<text>사이트</text>
+	</string>
+
+	<string id="lname_stalker_428">
+		<text>스페이스</text>
+	</string>
+
+	<string id="lname_stalker_429">
+		<text>쇼벨</text>
+	</string>
+
+	<string id="lname_stalker_43">
+		<text>스크럽</text>
+	</string>
+
+	<string id="lname_stalker_430">
+		<text>조인트</text>
+	</string>
+
+	<string id="lname_stalker_431">
+		<text>크로스</text>
+	</string>
+
+	<string id="lname_stalker_432">
+		<text>타르</text>
+	</string>
+
+	<string id="lname_stalker_433">
+		<text>트리거</text>
+	</string>
+
+	<string id="lname_stalker_434">
+		<text>삭</text>
+	</string>
+
+	<string id="lname_stalker_435">
+		<text>크로우바</text>
+	</string>
+
+	<string id="lname_stalker_436">
+		<text>머신</text>
+	</string>
+
+	<string id="lname_stalker_437">
+		<text>타겟</text>
+	</string>
+
+	<string id="lname_stalker_438">
+		<text>모터</text>
+	</string>
+
+	<string id="lname_stalker_439">
+		<text>펌프</text>
+	</string>
+
+	<string id="lname_stalker_44">
+		<text>아이언</text>
+	</string>
+
+	<string id="lname_stalker_440">
+		<text>녹터널</text>
+	</string>
+
+	<string id="lname_stalker_441">
+		<text>샷건</text>
+	</string>
+
+	<string id="lname_stalker_442">
+		<text>파나돌</text>
+	</string>
+
+	<string id="lname_stalker_443">
+		<text>패러슈트</text>
+	</string>
+
+	<string id="lname_stalker_444">
+		<text>라운드</text>
+	</string>
+
+	<string id="lname_stalker_445">
+		<text>파이브</text>
+	</string>
+
+	<string id="lname_stalker_446">
+		<text>쉬브</text>
+	</string>
+
+	<string id="lname_stalker_447">
+		<text>피스톤</text>
+	</string>
+
+	<string id="lname_stalker_448">
+		<text>퍼티</text>
+	</string>
+
+	<string id="lname_stalker_449">
+		<text>건파우더</text>
+	</string>
+
+	<string id="lname_stalker_45">
+		<text>하드웨어</text>
+	</string>
+
+	<string id="lname_stalker_450">
+		<text>니켈</text>
+	</string>
+
+	<string id="lname_stalker_451">
+		<text>로켓</text>
+	</string>
+
+	<string id="lname_stalker_452">
+		<text>랙</text>
+	</string>
+
+	<string id="lname_stalker_453">
+		<text>리액터</text>
+	</string>
+
+	<string id="lname_stalker_454">
+		<text>해칫</text>
+	</string>
+
+	<string id="lname_stalker_455">
+		<text>시브</text>
+	</string>
+
+	<string id="lname_stalker_456">
+		<text>테일스</text>
+	</string>
+
+	<string id="lname_stalker_457">
+		<text>로봇</text>
+	</string>
+
+	<string id="lname_stalker_458">
+		<text>스태그</text>
+	</string>
+
+	<string id="lname_stalker_459">
+		<text>스페이드</text>
+	</string>
+
+	<string id="lname_stalker_46">
+		<text>차콜</text>
+	</string>
+
+	<string id="lname_stalker_460">
+		<text>문샤인</text>
+	</string>
+
+	<string id="lname_stalker_461">
+		<text>부트</text>
+	</string>
+
+	<string id="lname_stalker_462">
+		<text>사이더</text>
+	</string>
+
+	<string id="lname_stalker_463">
+		<text>리썰</text>
+	</string>
+
+	<string id="lname_stalker_464">
+		<text>부즈</text>
+	</string>
+
+	<string id="lname_stalker_465">
+		<text>가우지</text>
+	</string>
+
+	<string id="lname_stalker_466">
+		<text>배럴</text>
+	</string>
+
+	<string id="lname_stalker_467">
+		<text>체스트</text>
+	</string>
+
+	<string id="lname_stalker_468">
+		<text>액스</text>
+	</string>
+
+	<string id="lname_stalker_469">
+		<text>버트</text>
+	</string>
+
+	<string id="lname_stalker_47">
+		<text>스위프티</text>
+	</string>
+
+	<string id="lname_stalker_470">
+		<text>그라인드스톤</text>
+	</string>
+
+	<string id="lname_stalker_471">
+		<text>에이스</text>
+	</string>
+
+	<string id="lname_stalker_472">
+		<text>노트</text>
+	</string>
+
+	<string id="lname_stalker_473">
+		<text>팩터</text>
+	</string>
+
+	<string id="lname_stalker_474">
+		<text>램프</text>
+	</string>
+
+	<string id="lname_stalker_475">
+		<text>치즐</text>
+	</string>
+
+	<string id="lname_stalker_476">
+		<text>쥰</text>
+	</string>
+
+	<string id="lname_stalker_477">
+		<text>갈릭</text>
+	</string>
+
+	<string id="lname_stalker_478">
+		<text>잭스트로우</text>
+	</string>
+
+	<string id="lname_stalker_479">
+		<text>챈스</text>
+	</string>
+
+	<string id="lname_stalker_48">
+		<text>팻소</text>
+	</string>
+
+	<string id="lname_stalker_480">
+		<text>쇼트스톱</text>
+	</string>
+
+	<string id="lname_stalker_481">
+		<text>쏜</text>
+	</string>
+
+	<string id="lname_stalker_482">
+		<text>클로젯</text>
+	</string>
+
+	<string id="lname_stalker_483">
+		<text>크로스타이</text>
+	</string>
+
+	<string id="lname_stalker_484">
+		<text>로치</text>
+	</string>
+
+	<string id="lname_stalker_485">
+		<text>노즐</text>
+	</string>
+
+	<string id="lname_stalker_486">
+		<text>로드</text>
+	</string>
+
+	<string id="lname_stalker_487">
+		<text>스터드</text>
+	</string>
+
+	<string id="lname_stalker_488">
+		<text>스크루</text>
+	</string>
+
+	<string id="lname_stalker_489">
+		<text>지거스</text>
+	</string>
+
+	<string id="lname_stalker_49">
+		<text>마이저</text>
+	</string>
+
+	<string id="lname_stalker_490">
+		<text>브레이니악</text>
+	</string>
+
+	<string id="lname_stalker_491">
+		<text>팽</text>
+	</string>
+
+	<string id="lname_stalker_492">
+		<text>클로</text>
+	</string>
+
+	<string id="lname_stalker_493">
+		<text>본</text>
+	</string>
+
+	<string id="lname_stalker_494">
+		<text>피스트</text>
+	</string>
+
+	<string id="lname_stalker_495">
+		<text>널브</text>
+	</string>
+
+	<string id="lname_stalker_496">
+		<text>스켈레톤</text>
+	</string>
+
+	<string id="lname_stalker_497">
+		<text>테일</text>
+	</string>
+
+	<string id="lname_stalker_498">
+		<text>크레스트</text>
+	</string>
+
+	<string id="lname_stalker_499">
+		<text>브루즈</text>
+	</string>
+
+	<string id="lname_stalker_5">
+		<text>그레이</text>
+	</string>
+
+	<string id="lname_stalker_50">
+		<text>타이트와드</text>
+	</string>
+
+	<string id="lname_stalker_500">
+		<text>해커</text>
+	</string>
+
+	<string id="lname_stalker_501">
+		<text>칸</text>
+	</string>
+
+	<string id="lname_stalker_502">
+		<text>아슬레트</text>
+	</string>
+
+	<string id="lname_stalker_503">
+		<text>피노키오</text>
+	</string>
+
+	<string id="lname_stalker_504">
+		<text>위처</text>
+	</string>
+
+	<string id="lname_stalker_505">
+		<text>볼드모트</text>
+	</string>
+
+	<string id="lname_stalker_506">
+		<text>호머</text>
+	</string>
+
+	<string id="lname_stalker_507">
+		<text>드래곤</text>
+	</string>
+
+	<string id="lname_stalker_508">
+		<text>썬더</text>
+	</string>
+
+	<string id="lname_stalker_509">
+		<text>지오콘다</text>
+	</string>
+
+	<string id="lname_stalker_51">
+		<text>스퀸트</text>
+	</string>
+
+	<string id="lname_stalker_510">
+		<text>누들</text>
+	</string>
+
+	<string id="lname_stalker_511">
+		<text>틴 맨</text>
+	</string>
+
+	<string id="lname_stalker_512">
+		<text>이카루스</text>
+	</string>
+
+	<string id="lname_stalker_513">
+		<text>카사노바</text>
+	</string>
+
+	<string id="lname_stalker_514">
+		<text>코셰이</text>
+	</string>
+
+	<string id="lname_stalker_515">
+		<text>카이사르</text>
+	</string>
+
+	<string id="lname_stalker_516">
+		<text>콜로복</text>
+	</string>
+
+	<string id="lname_stalker_517">
+		<text>쿠투조프</text>
+	</string>
+
+	<string id="lname_stalker_518">
+		<text>피위</text>
+	</string>
+
+	<string id="lname_stalker_519">
+		<text>보나파르트</text>
+	</string>
+
+	<string id="lname_stalker_52">
+		<text>씽커</text>
+	</string>
+
+	<string id="lname_stalker_520">
+		<text>넬슨</text>
+	</string>
+
+	<string id="lname_stalker_521">
+		<text>넵튠</text>
+	</string>
+
+	<string id="lname_stalker_522">
+		<text>오스카</text>
+	</string>
+
+	<string id="lname_stalker_523">
+		<text>프로메테우스</text>
+	</string>
+
+	<string id="lname_stalker_524">
+		<text>푸시킨</text>
+	</string>
+
+	<string id="lname_stalker_525">
+		<text>프라이데이</text>
+	</string>
+
+	<string id="lname_stalker_526">
+		<text>람보</text>
+	</string>
+
+	<string id="lname_stalker_527">
+		<text>로크포르</text>
+	</string>
+
+	<string id="lname_stalker_528">
+		<text>투어 가이드</text>
+	</string>
+
+	<string id="lname_stalker_529">
+		<text>터미네이터</text>
+	</string>
+
+	<string id="lname_stalker_53">
+		<text>도크</text>
+	</string>
+
+	<string id="lname_stalker_530">
+		<text>잉크</text>
+	</string>
+
+	<string id="lname_stalker_531">
+		<text>카이사르</text>
+	</string>
+
+	<string id="lname_stalker_532">
+		<text>샤페이브</text>
+	</string>
+
+	<string id="lname_stalker_533">
+		<text>차페이</text>
+	</string>
+
+	<string id="lname_stalker_534">
+		<text>체부르</text>
+	</string>
+
+	<string id="lname_stalker_535">
+		<text>체부라시카</text>
+	</string>
+
+	<string id="lname_stalker_536">
+		<text>칭가치국</text>
+	</string>
+
+	<string id="lname_stalker_537">
+		<text>징기스</text>
+	</string>
+
+	<string id="lname_stalker_538">
+		<text>쉬티를리츠</text>
+	</string>
+
+	<string id="lname_stalker_539">
+		<text>바나나</text>
+	</string>
+
+	<string id="lname_stalker_54">
+		<text>호크</text>
+	</string>
+
+	<string id="lname_stalker_540">
+		<text>브라우니</text>
+	</string>
+
+	<string id="lname_stalker_541">
+		<text>로프</text>
+	</string>
+
+	<string id="lname_stalker_542">
+		<text>파파</text>
+	</string>
+
+	<string id="lname_stalker_543">
+		<text>스파이크</text>
+	</string>
+
+	<string id="lname_stalker_544">
+		<text>홈보이</text>
+	</string>
+
+	<string id="lname_stalker_545">
+		<text>불킨</text>
+	</string>
+
+	<string id="lname_stalker_546">
+		<text>불도저</text>
+	</string>
+
+	<string id="lname_stalker_547">
+		<text>버퍼</text>
+	</string>
+
+	<string id="lname_stalker_548">
+		<text>덤플링</text>
+	</string>
+
+	<string id="lname_stalker_549">
+		<text>위스트</text>
+	</string>
+
+	<string id="lname_stalker_55">
+		<text>세이버</text>
+	</string>
+
+	<string id="lname_stalker_550">
+		<text>갱그린</text>
+	</string>
+
+	<string id="lname_stalker_551">
+		<text>하이브리드</text>
+	</string>
+
+	<string id="lname_stalker_552">
+		<text>글리치</text>
+	</string>
+
+	<string id="lname_stalker_553">
+		<text>드러머</text>
+	</string>
+
+	<string id="lname_stalker_554">
+		<text>하이랜더</text>
+	</string>
+
+	<string id="lname_stalker_555">
+		<text>디그리</text>
+	</string>
+
+	<string id="lname_stalker_556">
+		<text>그렘린</text>
+	</string>
+
+	<string id="lname_stalker_557">
+		<text>앤텔로프</text>
+	</string>
+
+	<string id="lname_stalker_558">
+		<text>엉클</text>
+	</string>
+
+	<string id="lname_stalker_559">
+		<text>퓨바</text>
+	</string>
+
+	<string id="lname_stalker_56">
+		<text>칠리</text>
+	</string>
+
+	<string id="lname_stalker_560">
+		<text>파리아</text>
+	</string>
+
+	<string id="lname_stalker_561">
+		<text>카고르</text>
+	</string>
+
+	<string id="lname_stalker_562">
+		<text>캐비지</text>
+	</string>
+
+	<string id="lname_stalker_563">
+		<text>카바이드</text>
+	</string>
+
+	<string id="lname_stalker_564">
+		<text>애스픽</text>
+	</string>
+
+	<string id="lname_stalker_565">
+		<text>트럼프</text>
+	</string>
+
+	<string id="lname_stalker_566">
+		<text>코모도어</text>
+	</string>
+
+	<string id="lname_stalker_567">
+		<text>킹</text>
+	</string>
+
+	<string id="lname_stalker_568">
+		<text>조인트</text>
+	</string>
+
+	<string id="lname_stalker_569">
+		<text>삭</text>
+	</string>
+
+	<string id="lname_stalker_57">
+		<text>핀드</text>
+	</string>
+
+	<string id="lname_stalker_570">
+		<text>아이스</text>
+	</string>
+
+	<string id="lname_stalker_571">
+		<text>고블린</text>
+	</string>
+
+	<string id="lname_stalker_572">
+		<text>무어</text>
+	</string>
+
+	<string id="lname_stalker_573">
+		<text>마데라</text>
+	</string>
+
+	<string id="lname_stalker_574">
+		<text>스파게티</text>
+	</string>
+
+	<string id="lname_stalker_575">
+		<text>마스터</text>
+	</string>
+
+	<string id="lname_stalker_576">
+		<text>뮤턴트</text>
+	</string>
+
+	<string id="lname_stalker_577">
+		<text>리퍼</text>
+	</string>
+
+	<string id="lname_stalker_578">
+		<text>플롭</text>
+	</string>
+
+	<string id="lname_stalker_579">
+		<text>폰드</text>
+	</string>
+
+	<string id="lname_stalker_58">
+		<text>크리플</text>
+	</string>
+
+	<string id="lname_stalker_580">
+		<text>P.I.</text>
+	</string>
+
+	<string id="lname_stalker_581">
+		<text>라비올리</text>
+	</string>
+
+	<string id="lname_stalker_582">
+		<text>칠리</text>
+	</string>
+
+	<string id="lname_stalker_583">
+		<text>스트랩</text>
+	</string>
+
+	<string id="lname_stalker_584">
+		<text>돕보이</text>
+	</string>
+
+	<string id="lname_stalker_585">
+		<text>버블</text>
+	</string>
+
+	<string id="lname_stalker_586">
+		<text>그레이터</text>
+	</string>
+
+	<string id="lname_stalker_587">
+		<text>버르</text>
+	</string>
+
+	<string id="lname_stalker_588">
+		<text>리아잔스키</text>
+	</string>
+
+	<string id="lname_stalker_589">
+		<text>문샤인</text>
+	</string>
+
+	<string id="lname_stalker_59">
+		<text>크리플</text>
+	</string>
+
+	<string id="lname_stalker_590">
+		<text>모렐</text>
+	</string>
+
+	<string id="lname_stalker_591">
+		<text>비스킷</text>
+	</string>
+
+	<string id="lname_stalker_592">
+		<text>토바코</text>
+	</string>
+
+	<string id="lname_stalker_593">
+		<text>타임시트</text>
+	</string>
+
+	<string id="lname_stalker_594">
+		<text>에이스</text>
+	</string>
+
+	<string id="lname_stalker_595">
+		<text>주키니</text>
+	</string>
+
+	<string id="lname_stalker_596">
+		<text>구울</text>
+	</string>
+
+	<string id="lname_stalker_597">
+		<text>트럼본</text>
+	</string>
+
+	<string id="lname_stalker_598">
+		<text>팬텀</text>
+	</string>
+
+	<string id="lname_stalker_599">
+		<text>스턴트</text>
+	</string>
+
+	<string id="lname_stalker_6">
+		<text>그레이</text>
+	</string>
+
+	<string id="lname_stalker_60">
+		<text>키커</text>
+	</string>
+
+	<string id="lname_stalker_61">
+		<text>코마</text>
+	</string>
+
+	<string id="lname_stalker_62">
+		<text>스큐</text>
+	</string>
+
+	<string id="lname_stalker_63">
+		<text>클럼시</text>
+	</string>
+
+	<string id="lname_stalker_64">
+		<text>스파인</text>
+	</string>
+
+	<string id="lname_stalker_65">
+		<text>크루크드</text>
+	</string>
+
+	<string id="lname_stalker_66">
+		<text>레인보우</text>
+	</string>
+
+	<string id="lname_stalker_67">
+		<text>쉬프터</text>
+	</string>
+
+	<string id="lname_stalker_68">
+		<text>부쉬</text>
+	</string>
+
+	<string id="lname_stalker_69">
+		<text>투페</text>
+	</string>
+
+	<string id="lname_stalker_7">
+		<text>시니</text>
+	</string>
+
+	<string id="lname_stalker_70">
+		<text>브라운 노즈</text>
+	</string>
+
+	<string id="lname_stalker_71">
+		<text>피어스</text>
+	</string>
+
+	<string id="lname_stalker_72">
+		<text>피위</text>
+	</string>
+
+	<string id="lname_stalker_73">
+		<text>스티프</text>
+	</string>
+
+	<string id="lname_stalker_74">
+		<text>네크로</text>
+	</string>
+
+	<string id="lname_stalker_75">
+		<text>로컬</text>
+	</string>
+
+	<string id="lname_stalker_76">
+		<text>그레이브</text>
+	</string>
+
+	<string id="lname_stalker_77">
+		<text>슬라임</text>
+	</string>
+
+	<string id="lname_stalker_78">
+		<text>챔프</text>
+	</string>
+
+	<string id="lname_stalker_79">
+		<text>나르시서스</text>
+	</string>
+
+	<string id="lname_stalker_8">
+		<text>블랙</text>
+	</string>
+
+	<string id="lname_stalker_80">
+		<text>랙스</text>
+	</string>
+
+	<string id="lname_stalker_81">
+		<text>루저</text>
+	</string>
+
+	<string id="lname_stalker_82">
+		<text>구피</text>
+	</string>
+
+	<string id="lname_stalker_83">
+		<text>누이상스</text>
+	</string>
+
+	<string id="lname_stalker_84">
+		<text>크라이베이비</text>
+	</string>
+
+	<string id="lname_stalker_85">
+		<text>모노클</text>
+	</string>
+
+	<string id="lname_stalker_86">
+		<text>래스컬</text>
+	</string>
+
+	<string id="lname_stalker_87">
+		<text>데드비트</text>
+	</string>
+
+	<string id="lname_stalker_88">
+		<text>패러노이아</text>
+	</string>
+
+	<string id="lname_stalker_89">
+		<text>핫샷</text>
+	</string>
+
+	<string id="lname_stalker_9">
+		<text>테플론</text>
+	</string>
+
+	<string id="lname_stalker_90">
+		<text>로그</text>
+	</string>
+
+	<string id="lname_stalker_91">
+		<text>터드</text>
+	</string>
+
+	<string id="lname_stalker_92">
+		<text>디펑트</text>
+	</string>
+
+	<string id="lname_stalker_93">
+		<text>라이쳐스</text>
+	</string>
+
+	<string id="lname_stalker_94">
+		<text>심플턴</text>
+	</string>
+
+	<string id="lname_stalker_95">
+		<text>싸이코</text>
+	</string>
+
+	<string id="lname_stalker_96">
+		<text>워크호스</text>
+	</string>
+
+	<string id="lname_stalker_97">
+		<text>톤</text>
+	</string>
+
+	<string id="lname_stalker_98">
+		<text>그래버</text>
+	</string>
+
+	<string id="lname_stalker_99">
+		<text>하쉬</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,451 @@
+class "modio_item" (CUIListBoxItem)
+
+function modio_item:__init(height) super(height)
+	self.file_name		= "filename"
+
+	self:SetTextColor(GetARGB(255, 170, 170, 170))
+
+	self.fn = self:GetTextItem()
+	self.fn:SetFont(GetFontLetterica18All())
+	self.fn:SetEllipsis(true)
+end
+
+function modio_item:__finalize()
+end
+
+class "modio_load_order_dialog" (CUIScriptWnd)
+
+local selColor = GetARGB(255,72,191,25)
+local editColor = GetARGB(255,191,119,25)
+local defaulColor = GetARGB(255,170,170,170)
+
+local selectedIdx = 0
+
+function modio_load_order_dialog:__init(owner) super()
+	self.mm_is_controller = main_menu.in_controller_mode()
+	self.owner = owner
+    self:InitControls()
+    self:InitCallBacks()
+
+	if self.mm_is_controller then
+	 action_repeaters():Register(self, key_bindings.kUI_UP, 0, 0)
+	 action_repeaters():Register(self, key_bindings.kUI_DOWN, 0, 0)
+	end
+
+	if self.mm_is_controller then
+		self:selectElement(selectedIdx,self.curColor)
+	end
+end
+
+function modio_load_order_dialog:__finalize()
+	if self.mm_is_controller then
+	action_repeaters():UnregisterOwner(self)
+	end
+end
+
+function get_text_height(obj)
+	textObj = obj:TextControl()
+	textObj:SetWndSize( obj:GetWidth() ,obj:GetHeight())
+	local h = textObj:GetVisibleHeight()
+	return h
+end
+
+
+function split(strIn, sep)
+	local t = {}
+	for str in string.gmatch(strIn, "([^"..sep.."]+)") do
+		if str ~= "" then
+			table.insert(t, str)
+		end
+	end
+	return t
+end
+
+function modio_load_order_dialog:refreshList()
+	for id = 0,self.list_box:GetSize()-1,1 do
+		local _item = self.list_box:GetItemByIndex(id)
+
+		_item.fn:SetText		(tostring(id+1))
+	end
+end
+
+function modio_load_order_dialog:sortModList()
+	--table.sort(self.modList,function (a,b)
+	--	return a[5] < b[5]
+	--end)
+	--self:refreshList()
+end
+
+
+function modio_load_order_dialog:AddModElem(name,id, order)
+	local _itm			= modio_item(self.file_item_main_sz.y)
+
+	_itm:SetWndSize		(self.file_item_main_sz)
+
+	_itm.fn:SetWndPos	(vector2():set(0,0))
+	_itm.fn:SetWndSize	(self.file_item_order_sz)
+	_itm.fn:SetText		(order)
+
+	_itm.name			= _itm:AddTextField(name, self.file_item_name_sz.x)
+	_itm.name:SetFont	(GetFontLetterica18All())
+	_itm.name:SetWndPos	(vector2():set(self.file_item_order_sz.x+4, 0))
+	_itm.name:SetWndSize(self.file_item_name_sz)
+
+	_itm.id			= _itm:AddTextField(id, self.file_item_id_sz.x)
+	_itm.id:SetFont	(GetFontLetterica18All())
+	_itm.id:SetWndPos	(vector2():set(self.file_item_order_sz.x+4+self.file_item_name_sz.x+4, 0))
+	_itm.id:SetWndSize(self.file_item_id_sz)
+
+	_itm.id_name = id
+
+	self.list_box:AddExistingItem(_itm)
+end
+
+function modio_load_order_dialog:UpdateModList()
+	self.editMode = false
+	self.curColor = selColor
+
+	local list = get_mods_list()
+	self.modlist = {}
+	local mod_list = split(list,";")
+
+	self.list_box:RemoveAll()
+
+	for k,v in pairs(mod_list) do
+		local name = get_mod_name(tonumber(v))
+		if (name ~= "") then
+			self:AddModElem(name, v, k)
+		end
+	end
+	--self:refreshList()
+	if self.mm_is_controller then
+		self:selectElement(selectedIdx,self.curColor)
+	end
+end
+
+function modio_load_order_dialog:InitControls()
+
+	self:SetWndRect				(Frect():set(0,0,1024,768))
+	self:Enable					(true)
+	self:SetWindowName			("modio load order wnd")
+	local xml					= CScriptXmlInit()
+	xml:ParseFile				("ui_modio_load_order.xml")
+
+	self.xml = xml
+	self.editMode = false
+	self.curColor = selColor
+
+	self.curEditSelElem = -1
+
+	if self.mm_is_controller then
+		self.sndSwitch	= sound_object("interface\\console\\menu_switch")
+		self.sndSelect	= sound_object("interface\\console\\menu_select")
+		self.sndDecline	= sound_object("interface\\console\\menu_decline")
+	end
+
+	self.dialog	= xml:InitStatic("main_dialog:dialog", self)
+	self.frame = xml:InitFrame("main_dialog:dialog:frame", self.dialog)
+
+	ctrl					= CUIWindow()
+	xml:InitWindow			("file_item:main",0,ctrl)
+
+	self.file_item_main_sz	= vector2():set(ctrl:GetWidth(),ctrl:GetHeight())
+
+	xml:InitWindow			("file_item:order",0,ctrl)
+	self.file_item_order_sz	= vector2():set(ctrl:GetWidth(),ctrl:GetHeight())
+
+	xml:InitWindow			("file_item:name",0,ctrl)
+	self.file_item_name_sz	= vector2():set(ctrl:GetWidth(),ctrl:GetHeight())
+
+	xml:InitWindow			("file_item:id",0,ctrl)
+	self.file_item_id_sz	= vector2():set(ctrl:GetWidth(),ctrl:GetHeight())
+
+	self.input_legend = xml:InitInputLegend("main_dialog:input_legend", self)
+
+	local title = xml:InitStatic("main_dialog:dialog:cap_title", self.dialog)
+	xml:InitStatic("main_dialog:dialog:order_lable", self.dialog)
+	xml:InitStatic("main_dialog:dialog:name_lable", self.dialog)
+	xml:InitStatic("main_dialog:dialog:id_lable", self.dialog)
+
+	local w = self.dialog:GetWidth()
+	local h = self.dialog:GetHeight()
+	self.dialog:SetWndPos(vector2():set((1024 - w) /2, (768 - h) /2))
+
+	self.list_box = xml:InitListBox("main_dialog:dialog:list", self.dialog)
+	self:Register			(self.list_box, "list_window")
+	self.list_box:SetImmediateSelection(true)
+
+	-- self:AddModElem("Mod name 1", 123, 1)
+	-- self:AddModElem("Mod name 2", 1213, 2)
+	-- self:AddModElem("Mod name 3", 135,3)
+	-- self:AddModElem("Mod name 4", 87, 4)
+	-- self:AddModElem("Mod name 6", 5123,5)
+	-- self:AddModElem("Mod name 7", 07,6)
+	-- self:AddModElem("Mod name 8", 353,7)
+	-- self:AddModElem("Mod name 9", 42, 8)
+	-- self:AddModElem("Mod name 10", 43, 9)
+	-- self:AddModElem("Mod name 11", 12, 10)
+	-- self:AddModElem("Mod name 12", 13, 11)
+	-- self:sortModList()
+	-- self.scroll:ForceUpdate()
+
+
+	if not self.mm_is_controller then
+		self.btnAccept = xml:Init3tButton("main_dialog:dialog:btn_accept_pc", self)
+		self.btnDecline = xml:Init3tButton("main_dialog:dialog:btn_decline_pc", self)
+	else
+		self.btnAccept = xml:Init3tButton("main_dialog:dialog:btn_accept", self)
+		self.btnDecline = xml:Init3tButton("main_dialog:dialog:btn_decline", self)
+	end
+
+	self.btnAccept:SetWndPos(vector2():set((1024 - w) /2 + self.btnAccept:GetWndPos().x, (768 + h) /2 - 14))
+	self.btnDecline:SetWndPos(vector2():set((1024 - w) /2 + self.btnDecline:GetWndPos().x, (768 + h) /2 - 14))
+
+	self:Register(self.btnAccept, "btn_accept")
+	self:Register(self.btnDecline, "btn_decline")
+end
+
+function modio_load_order_dialog:InitCallBacks()
+	self:AddCallback("btn_accept",			ui_events.BUTTON_CLICKED,			self.OnBtnAccept,			self)
+	self:AddCallback("btn_decline",			ui_events.BUTTON_CLICKED,			self.OnBtnDecline,			self)
+
+	self:AddCallback("list_window",			ui_events.LIST_ITEM_CLICKED,		self.OnListItemMouseDown,	self)
+	self:AddCallback("list_window",			ui_events.LIST_ITEM_MOUSE_UP,		self.OnListItemMouseUp,		self)
+	self:AddCallback("list_window",			ui_events.LIST_ITEM_FOCUS_RECEIVED,	self.OnListItemSelected,	self)
+end
+
+function modio_load_order_dialog:getModListStringInOrder()
+	local s = ""
+	for id = 0,self.list_box:GetSize()-1,1 do
+		s = s..self.list_box:GetItemByIndex(id).id_name..";"
+	end
+	return s
+end
+function modio_load_order_dialog:OnBtnAccept()
+
+	if self.mm_is_controller then
+		self.sndDecline:play(nil, 0.0, sound_object.s2d)
+	end
+	self.owner.shniaga:SetVisibleMagnifier(true)
+	self:HideDialog()
+	self.owner:ShowInputLegend(true)
+
+	local console = get_console()
+	console:execute("save_mode_order "..self:getModListStringInOrder())
+	console:execute("cfg_save")
+
+end
+
+function modio_load_order_dialog:OnBtnDecline()
+
+	if self.mm_is_controller then
+		self.sndDecline:play(nil, 0.0, sound_object.s2d)
+	end
+	self.owner.shniaga:SetVisibleMagnifier(true)
+	self:HideDialog()
+	self.owner:ShowInputLegend(true)
+
+end
+
+
+function modio_load_order_dialog:OnKeyboard(dik, keyboard_action)
+	if keyboard_action == ui_events.WINDOW_KEY_PRESSED then
+		if self.mm_is_controller then
+			if is_binded(key_bindings.kUI_ACCEPT, dik) then
+				self:OnBtnAccept()
+				return true
+			elseif is_binded(key_bindings.kUI_BACK, dik)  then
+				self:OnBtnDecline()
+				return true
+			elseif is_binded(key_bindings.kUI_ACTION_2, dik) then
+				if self.editMode then
+					self.editMode = false
+					self.curColor = selColor
+				else
+					self.editMode = true
+					self.curColor = editColor
+				end
+				self:selectElement(selectedIdx,self.curColor)
+				return true
+			elseif is_binded(key_bindings.kUI_LEFT, dik)  then
+				return true
+			elseif is_binded(key_bindings.kUI_RIGHT, dik)  then
+				return true
+			elseif is_binded(key_bindings.kUI_DOWN, dik) then
+				if not any_binded_key_for_action_pressed_c(key_bindings.kUI_UP) then
+					self:OnElementChangeSelection(1, true)
+				end
+				action_repeaters():SetActionStarted(self, key_bindings.kUI_DOWN)
+				return true
+			
+			elseif is_binded(key_bindings.kUI_UP, dik) then
+				if not any_binded_key_for_action_pressed_c(key_bindings.kUI_DOWN) then
+					self:OnElementChangeSelection(-1, true)
+				end
+				action_repeaters():SetActionStarted(self, key_bindings.kUI_UP)
+				return true
+			end
+		else
+			if dik == DIK_keys.DIK_ESCAPE then
+				self:OnBtnDecline()
+				return true
+			end
+			return true
+		end
+	end
+
+	return CUIScriptWnd.OnKeyboard(self,dik,keyboard_action)
+end
+
+function modio_load_order_dialog:OnKeyboardHold(dik)
+	if self.mm_is_controller then
+		if is_binded(key_bindings.kUI_DOWN, dik) then
+			if action_repeaters():CanRepeatActionNow(self, key_bindings.kUI_DOWN) 
+			and not any_binded_key_for_action_pressed_c(key_bindings.kUI_UP) then
+				self:OnElementChangeSelection(1, false)
+			end
+			return true
+		
+		elseif is_binded(key_bindings.kUI_UP, dik) then
+			if action_repeaters():CanRepeatActionNow(self, key_bindings.kUI_UP) 
+			and not any_binded_key_for_action_pressed_c(key_bindings.kUI_DOWN) then
+				self:OnElementChangeSelection(-1, false) 
+			end
+			return true
+		
+		end
+	end
+
+	return CUIScriptWnd.OnKeyboardHold(self, dik)
+end
+
+function modio_load_order_dialog:Swap(Pos1, Pos2)
+	self.list_box:SwapItem(Pos1, Pos2)
+
+	self:refreshList()
+end
+
+function modio_load_order_dialog:OnElementChangeSelection(offset, loop)
+	local eltCount = self.list_box:GetSize()
+	local newFocusIndex = selectedIdx + offset
+
+	if eltCount == 0 then
+		return false
+	end
+
+	if newFocusIndex >= eltCount then
+		if loop then
+			newFocusIndex = 0
+		else 
+			return false
+		end
+	elseif newFocusIndex < 0 then
+		if loop then
+			newFocusIndex = eltCount
+		else
+			return false
+		end
+	end
+
+	return self:ChangeSelectionToID(newFocusIndex)
+end
+
+function modio_load_order_dialog:ChangeSelectionToID(id)
+	local eltCount = self.list_box:GetSize()
+
+	if eltCount == 0 or id >= eltCount then
+		return false
+	end
+
+	if self.editMode then
+		self:Swap(selectedIdx,id)
+	end
+
+	if self.mm_is_controller then
+		self.sndSwitch:play(nil, 0.0, sound_object.s2d)
+	end
+
+	self:selectElement(id,self.curColor)
+
+	return true
+end
+
+function modio_load_order_dialog:selectElement(index,color)
+	if index >= 0 and index < self.list_box:GetSize() then
+		local _olditem = self.list_box:GetItemByIndex(selectedIdx)
+		local _item = self.list_box:GetItemByIndex(index)
+
+		_olditem.fn:SetTextColor(defaulColor)
+		_olditem.name:SetTextColor(defaulColor)
+		_olditem.id:SetTextColor(defaulColor)
+
+		_item.fn:SetTextColor(color)
+		_item.name:SetTextColor(color)
+		_item.id:SetTextColor(color)
+
+		selectedIdx = index
+		self.list_box:SetSelectedIndex(index)
+	end
+end
+
+function modio_load_order_dialog:UnselectAllElement()
+	for id = 0,self.list_box:GetSize()-1,1 do
+		local _item = self.list_box:GetItemByIndex(id)
+
+		_item.fn:SetTextColor(defaulColor)
+		_item.name:SetTextColor(defaulColor)
+		_item.id:SetTextColor(defaulColor)
+	end
+end
+
+function modio_load_order_dialog:ChangeSelectedColor()
+	local _item = self.list_box:GetItemByIndex(self.list_box:GetSelectedIndex())
+
+	_item.fn:SetTextColor(self.curColor)
+	_item.name:SetTextColor(self.curColor)
+	_item.id:SetTextColor(self.curColor)
+end
+
+-- function modio_load_order_dialog:Update()
+	-- CUIScriptWnd.Update(self)
+
+-- end
+
+function modio_load_order_dialog:UpdateInputLegend()
+	self.owner:ShowInputLegend(false)
+	self.input_legend:ClearAll()
+
+	if self.mm_is_controller then
+		self.input_legend:AddItem('legend_ui_modio_edit_order', true)
+	else
+		self.input_legend:AddItem('legend_ui_modio_edit_order_pc', true)
+	end
+	
+	self.input_legend:UpdateText()
+end
+
+function modio_load_order_dialog:OnListItemSelected()
+	if not self.mm_is_controller and self.editMode then
+		self:ChangeSelectionToID(self.list_box:GetSelectedIndex())
+	end
+end
+
+function modio_load_order_dialog:OnListItemMouseUp()
+	XR_LOG("[modio_load_order_dialog:OnListItemMouseUp]")
+	if not self.mm_is_controller then
+		self.editMode = false
+		self.curColor = selColor
+		self:ChangeSelectedColor()
+	end
+end
+
+function modio_load_order_dialog:OnListItemMouseDown()
+	if not self.mm_is_controller then
+		self:ChangeSelectionToID(self.list_box:GetSelectedIndex())
+		if not self.editMode then
+			self.editMode = true
+		end
+		self.curColor = editColor
+		self:ChangeSelectedColor()
+	end
+end

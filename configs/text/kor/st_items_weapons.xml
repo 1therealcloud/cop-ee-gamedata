@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ammo-11.43x23-fmj">
+		<text>.45 ACP 일반탄</text>
+	</string>
+
+	<string id="ammo-11.43x23-fmj_descr">
+		<text>.45구경 풀 메탈 재킷 탄환입니다. 무거운 총알과 상대적으로 작은 추진 장약 덕분에 100년 이상 많은 인기를 누렸습니다. 결과적으로, 이 탄환에 든 총알은 상대적으로 느리지만 매우 정확하며 상당한 저지력을 제공합니다.</text>
+	</string>
+
+	<string id="ammo-11.43x23-fmj_s">
+		<text>.45 ACP</text>
+	</string>
+
+	<string id="ammo-11.43x23-hydro">
+		<text>.45 ACP 하이드로쇼크 탄</text>
+	</string>
+
+	<string id="ammo-11.43x23-hydro_descr">
+		<text>이 특이한 .45 ACP구경 탄환은 할로우가 확장된 재킷 소프트 포인트 탄과 강철 탄심으로 이루어져 있습니다. 재킷 확장 소프트 포인트와 철갑탄을 결합해, 두 탄환의 장점은 살리고 단점은 보완했습니다.</text>
+	</string>
+
+	<string id="ammo-11.43x23-hydro_s">
+		<text>.45 하이드로</text>
+	</string>
+
+	<string id="ammo-12x70-buck">
+		<text>12x70 산탄</text>
+	</string>
+
+	<string id="ammo-12x70-buck_descr">
+		<text>6mm 탄알을 채운 표준형 12구경 산탄입니다. 근거리에서 엄청난 살상력을 발휘합니다. 활강식 무기를 사용할 때만 적합합니다.</text>
+	</string>
+
+	<string id="ammo-12x70-buck_s">
+		<text>12x70 산탄</text>
+	</string>
+
+	<string id="ammo-12x76-zhekan">
+		<text>12x76 슬러그탄</text>
+	</string>
+
+	<string id="ammo-12x76-zhekan_descr">
+		<text>무거운 12구경 슬러그탄입니다. 보통 커다란 동물을 사냥할 때 쓰지만 다른 용도로도 활용할 수 있습니다. 육중한 총알이 방탄조끼를 예리하게 관통하는 대신 힘으로 뚫고 들어갑니다.</text>
+	</string>
+
+	<string id="ammo-12x76-zhekan_s">
+		<text>12x76 슬러그탄</text>
+	</string>
+
+	<string id="ammo-5.45x39-ap">
+		<text>5.45x39mm AP탄</text>
+	</string>
+
+	<string id="ammo-5.45x39-ap_descr">
+		<text>군용 5.45x39 7H22구경 철갑탄입니다. 바르샤바 조약 기구 회원국들이 사용하는 연사 무기에 주로 쓰입니다. 총알에는 경합금 관통체가 들어 있습니다. 방탄복에 효과적입니다.</text>
+	</string>
+
+	<string id="ammo-5.45x39-ap_s">
+		<text>5.45x39 AP</text>
+	</string>
+
+	<string id="ammo-5.45x39-fmj">
+		<text>5.45x39mm 일반탄</text>
+	</string>
+
+	<string id="ammo-5.45x39-fmj_descr">
+		<text>군용 5.45x39 7H10구경 고성능 관통탄입니다. 바르샤바 조약 기구 회원국들이 사용하는 연사 무기에 주로 쓰입니다. 반동이 줄고 사거리가 100m 늘어나 7.62구경보다 더 높은 명중률을 보입니다.</text>
+	</string>
+
+	<string id="ammo-5.45x39-fmj_s">
+		<text>5.45x39</text>
+	</string>
+
+	<string id="ammo-5.56x45-ap">
+		<text>5.56x45mm AP탄</text>
+	</string>
+
+	<string id="ammo-5.56x45-ap_descr">
+		<text>서방 안보 기관 및 특수 부대에서 널리 사용하는 NATO 군용 5.56x45구경 철갑탄입니다. SS190/M855 탄종을 채택한 것으로 유명합니다. 방탄복에 효과적입니다.</text>
+	</string>
+
+	<string id="ammo-5.56x45-ap_s">
+		<text>5.56x45mm AP</text>
+	</string>
+
+	<string id="ammo-5.56x45-ss190">
+		<text>5.56x45mm 일반탄</text>
+	</string>
+
+	<string id="ammo-5.56x45-ss190_descr">
+		<text>정확한 연사 사격을 위해 특별히 설계된 NATO 5.56x45구경 일반탄입니다. 사냥용 탄환을 기반으로 설계되어 우수한 탄도 능력을 제공합니다. SS109 탄종을 채택한 것으로 유명합니다.</text>
+	</string>
+
+	<string id="ammo-5.56x45-ss190_s">
+		<text>5.56x45</text>
+	</string>
+
+	<string id="ammo-7.62x54-7h14">
+		<text>7.62x54mm 7H1탄</text>
+	</string>
+
+	<string id="ammo-7.62x54-7h14_descr">
+		<text>SVD에 특별히 맞춘 강철 관통체가 든 7.62구경 저격탄입니다. 7H1탄은 기관총 탄약과 달리 촘촘한 탄착군과 뛰어난 관통력을 제공합니다.</text>
+	</string>
+
+	<string id="ammo-7.62x54-7h14_s">
+		<text>7.62x54 7H1</text>
+	</string>
+
+	<string id="ammo-7.62x54-ap">
+		<text>7.62x54mm PP탄</text>
+	</string>
+
+	<string id="ammo-7.62x54-ap_descr">
+		<text>염가형 7.62구경 기관총 탄약입니다. 저격 소총에 사용하기에는 부적합하여 RP-74 기관총에만 사용합니다.</text>
+	</string>
+
+	<string id="ammo-7.62x54-ap_s">
+		<text>7.62x54 PP</text>
+	</string>
+
+	<string id="ammo-9x18-fmj">
+		<text>9x18mm 일반탄</text>
+	</string>
+
+	<string id="ammo-9x18-fmj_descr">
+		<text>금속 덮개에 강철 관통기와 납으로 된 탄심이 든 풀 메탈 재킷 탄환입니다. 저지력이 탁월하지만 방탄복을 상대로 효율이 감소합니다.</text>
+	</string>
+
+	<string id="ammo-9x18-fmj_s">
+		<text>9x18</text>
+	</string>
+
+	<string id="ammo-9x18-pmm">
+		<text>9x18mm +P+탄</text>
+	</string>
+
+	<string id="ammo-9x18-pmm_descr">
+		<text>저지력을 강화한 탄약이 든 탄환입니다. 유러피안 +P+라는 명칭은 총구 속도가 30% 증가한 "초과 압력 탄약"임을 나타냅니다. 방탄복을 상대로 효율이 감소합니다.</text>
+	</string>
+
+	<string id="ammo-9x18-pmm_s">
+		<text>9x18 +P+</text>
+	</string>
+
+	<string id="ammo-9x19-fmj">
+		<text>9x19mm FMJ 탄</text>
+	</string>
+
+	<string id="ammo-9x19-fmj_descr">
+		<text>재킷 탄환 형태의 기본 9x19구경 탄환입니다. 생산하기 간편하면서도 탁월한 성능을 지니고 있습니다. 국제 협약에 따라 전투에서 확장 탄약의 사용이 금지되자 인기가 높아졌습니다. 방탄복을 상대로 효율이 감소합니다.</text>
+	</string>
+
+	<string id="ammo-9x19-fmj_s">
+		<text>9x19 FMJ</text>
+	</string>
+
+	<string id="ammo-9x19-pbp">
+		<text>9x19mm JHP 탄</text>
+	</string>
+
+	<string id="ammo-9x19-pbp_descr">
+		<text>탄두 전면을 더 넓게 파낸 9x19구경 재킷 할로우 포인트 탄약입니다. 저지력이 높으며 도탄 현상이 줄어듭니다. 경찰이나 호신용으로 사용합니다. 관통력이 낮아 방탄복에는 별 효과가 없습니다.</text>
+	</string>
+
+	<string id="ammo-9x19-pbp_s">
+		<text>9x19 JHP</text>
+	</string>
+
+	<string id="ammo-9x39-ap">
+		<text>9x39mm SP-6탄</text>
+	</string>
+
+	<string id="ammo-9x39-ap_descr">
+		<text>SP-6는 돌격 소총용 아음속 탄환입니다. 탄피에서 튀어나온 단단한 강철 탄심을 갖추고 탄두 끝부분에만 재킷을 입히지 않았습니다. 들키지 않고 발사하려면 소음기가 필요합니다. 바르샤바 조약 기구 회원국의 특수부대에서 사용합니다. 방탄복에 효율적입니다.</text>
+	</string>
+
+	<string id="ammo-9x39-ap_s">
+		<text>9x39 SP-6</text>
+	</string>
+
+	<string id="ammo-9x39-pab9">
+		<text>9x39mm SP-5탄</text>
+	</string>
+
+	<string id="ammo-9x39-pab9_descr">
+		<text>SP-5는 두 가지 금속을 접합해 탄피를 만든 아음속 저격탄입니다. 이 탄환에는 강철 탄심을 넣고 사이를 납으로 채웠습니다. 들키지 않고 발사하려면 소음기가 필요합니다. 바르샤바 조약 기구 회원국의 특수부대에서 사용합니다.</text>
+	</string>
+
+	<string id="ammo-9x39-pab9_s">
+		<text>9x39mm SP-5</text>
+	</string>
+
+	<string id="ammo-gauss">
+		<text>배터리</text>
+	</string>
+
+	<string id="ammo-m209">
+		<text>M203 유탄</text>
+	</string>
+
+	<string id="ammo-m209_descr">
+		<text>M203 언더배럴 유탄 발사기에 사용하는 40mm 유탄입니다. 탄환의 살상 구역은 5m에 달합니다. 일체형 FT-200M에도 활용할 수 있습니다.</text>
+	</string>
+
+	<string id="ammo-m209_s">
+		<text>M203</text>
+	</string>
+
+	<string id="ammo-og-7b">
+		<text>OG-7V 유탄</text>
+	</string>
+
+	<string id="ammo-og-7b_descr">
+		<text>RPG-7u에 사용하던 대인 세열 탄두입니다. 주요 목적은 RPG-7u 발사기를 이용해 수류탄의 사거리 밖에 존재하는 적군을 사살하는 것입니다.</text>
+	</string>
+
+	<string id="ammo-og-7b_s">
+		<text>OG-7V</text>
+	</string>
+
+	<string id="ammo-vog-25">
+		<text>VOG-25 유탄</text>
+	</string>
+
+	<string id="ammo-vog-25_descr">
+		<text>GP-25 코스터 언더배럴 유탄 발사기에 사용하는 정규 세열 유탄입니다. 이 유탄의 살상 구역은 5m에 달합니다. VOG-25 유탄은 썬더 S14 복합형 및 불독 6 리볼버형 유탄 발사기에도 사용할 수 있습니다.</text>
+	</string>
+
+	<string id="ammo-vog-25_s">
+		<text>VOG-25</text>
+	</string>
+
+	<string id="st_addon_scope">
+		<text>PSO-1m 조준경</text>
+	</string>
+
+	<string id="st_addon_scope_descr">
+		<text>사거리 눈금이 있는 흔한 소련제 5.0배율 고정 광학 조준경입니다. 바르샤바 조약 기구 회원국의 표준형 도브테일 마운트를 사용해 무기에 부착합니다.</text>
+	</string>
+
+	<string id="st_addon_scope_detector">
+		<text>PSS-2x 조준경</text>
+	</string>
+
+	<string id="st_addon_scope_detector_descr">
+		<text>고정 5.0배율 광학 조준경입니다. 인체의 일반적인 열원을 파악하는 사용되는 열 탐지기가 내장되었습니다. 특수 부대에서 사용하도록 설계되었습니다. 도브테일 마운트를 사용해 무기에 부착합니다.</text>
+	</string>
+
+	<string id="st_addon_scope_night_vision">
+		<text>NSPU-3 조준경</text>
+	</string>
+
+	<string id="st_addon_scope_night_vision_descr">
+		<text>이미지 강조형 5.0 고정 배율 야간 투시경입니다. 어둠 속에서도 전투를 수행할 수 있습니다. 도브테일 마운트를 사용해 무기에 부착합니다.</text>
+	</string>
+
+	<string id="st_addon_scope_susat">
+		<text>SUSAT 4배율 조준경</text>
+	</string>
+
+	<string id="st_addon_scope_susat_custom_descr">
+		<text>조정 가능한 장거리 1.6~4배율 조준경입니다. 자동 조정 기능을 통해 사격 효율을 대폭 개선할 수 있습니다. NATO 표준 피카티니 레일을 사용해 무기에 부착합니다.</text>
+	</string>
+
+	<string id="st_addon_scope_susat_descr">
+		<text>서방 국가에서 주로 생산하는 고정 4배율 조준경입니다. NATO 표준 피카티니 레일을 사용해 무기에 부착합니다. 중장거리에서 소형 무기로 정확히 사격할 때 자주 사용합니다.</text>
+	</string>
+
+	<string id="st_addon_scope_susat_dusk">
+		<text>SUSAT 트와일라잇 1.6배율 조준경</text>
+	</string>
+
+	<string id="st_addon_scope_susat_dusk_descr">
+		<text>조명이 감소한 환경에서 전투 시 사용하는 SUSAT 1.6배율 고대비 조준경입니다. NATO 표준 피카티니 레일을 사용해 무기에 부착합니다.</text>
+	</string>
+
+	<string id="st_addon_scope_susat_night_vision">
+		<text>SUSAT 4배율 야간 투시경</text>
+	</string>
+
+	<string id="st_addon_scope_susat_night_vision_descr">
+		<text>야간 투시경을 장착한 고정 4배율 조준경입니다. 어둠 속에서도 장거리 전투를 수행할 수 있습니다. NATO 표준 피카티니 레일을 사용해 무기에 부착합니다.</text>
+	</string>
+
+	<string id="st_addon_scope_susat_x1.6">
+		<text>SUSAT 1.6배율 조준경</text>
+	</string>
+
+	<string id="st_addon_scope_susat_x1.6_descr">
+		<text>단거리 및 중거리 전투를 위해 사용하는 SUSAT 1.6배율 광학 조준경입니다. NATO 표준 피카티니 레일을 사용해 무기에 부착합니다.</text>
+	</string>
+
+	<string id="st_addon_scope_x2.7">
+		<text>PSU-1 조준경</text>
+	</string>
+
+	<string id="st_addon_scope_x2.7_descr">
+		<text>중거리 전투를 위해 사용하는 2.7배율 광학 조준경입니다. 도브테일 마운트를 사용해 무기에 부착합니다.</text>
+	</string>
+
+	<string id="st_addon_silencer">
+		<text>소음기</text>
+	</string>
+
+	<string id="st_addon_silencer_descr">
+		<text>필요에 따라 이동 중 개조할 수 있는 뛰어난 소음기입니다. 총열 주변 소음기 본체에는 미세한 황동 재질 롤이 존재하며, 전면부는 총알이 지나는 구멍이 존재하는 일련의 금속 칸막이판으로 구성되어 있습니다. 이 세트의 경우 대부분의 무기에 맞는 어댑터 및 실링제가 포함됩니다. 보통은 주의를 끌지 않고 적의 병력을 줄일 때 사용합니다.</text>
+	</string>
+
+	<string id="st_grenade_f1">
+		<text>F1 수류탄</text>
+	</string>
+
+	<string id="st_grenade_f1_descr">
+		<text>파편으로 중급 방탄복까지 관통할 수 있는 방어용 수류탄입니다. 살상 반경은 7m입니다. 스토커들은 군과 거래해 F1 수류탄을 확보했으며, 기록에 따르면 이 수류탄으로 돌연변이와 싸웠다고 합니다.</text>
+	</string>
+
+	<string id="st_grenade_launcher">
+		<text>GP-25 코스터</text>
+	</string>
+
+	<string id="st_grenade_launcher_descr">
+		<text>바르샤바 조약 기구 회원국에서 만든 돌격 소총용 단발, 전면 장전, 강선식 언더배럴 유탄 발사기입니다. 발사 장치는 자체 잠금식으로 이루어지며, 소총에 잘못 장착할 경우를 대비해 수동 안전 장치 및 자동 발사 방지 장치를 갖추고 있습니다. VOG-25 유탄을 사용합니다.</text>
+	</string>
+
+	<string id="st_grenade_launcher_m203">
+		<text>M203</text>
+	</string>
+
+	<string id="st_grenade_launcher_m203_descr">
+		<text>3인치 짧아진 개조 M203 유탄 발사기입니다. 피카티니 레일을 사용해 무기에 부착합니다. 마운트 방식을 변경한 이후, 이 유탄 발사기는 세계적으로 널리 사용되고 있습니다.</text>
+	</string>
+
+	<string id="st_grenade_rgd5">
+		<text>RGD-5 수류탄</text>
+	</string>
+
+	<string id="st_grenade_rgd5_descr">
+		<text>5m의 좁은 살상 반경을 지닌 공격용 수류탄입니다. 스토커가 저렴한 비용으로 돌연변이를 "구워 버릴" 때 자주 사용합니다.</text>
+	</string>
+
+	<string id="st_grenade_smoke">
+		<text>연막탄</text>
+	</string>
+
+	<string id="st_grenade_smoke_descr">
+		<text>손으로 던지는 연막탄으로, 연막을 생성하는 데 사용합니다. 연막탄을 던진 후 10초가 지나면 연막이 확산됩니다.</text>
+	</string>
+
+	<string id="st_knife">
+		<text>대검</text>
+	</string>
+
+	<string id="st_wpn_abakan">
+		<text>AC-96/2</text>
+	</string>
+
+	<string id="st_wpn_ak74">
+		<text>AKM-74/2</text>
+	</string>
+
+	<string id="st_wpn_ak74u">
+		<text>AKM-74/2U</text>
+	</string>
+
+	<string id="st_wpn_beretta">
+		<text>마르타</text>
+	</string>
+
+	<string id="st_wpn_bm16">
+		<text>단총신 산탄총</text>
+	</string>
+
+	<string id="st_wpn_bm16_descr">
+		<text>두 개의 총열이 나란히 배열된 사냥용 소드오프 산탄총입니다. 정식 산탄총보다 훨씬 가볍고 간결합니다. 밴디트들 사이에 가장 인기가 많은 무기인데, 이는 은폐하기 쉬운 크기와 근거리에서의 엄청난 효율성 덕분입니다.</text>
+	</string>
+
+	<string id="st_wpn_colt1911">
+		<text>코라-919</text>
+	</string>
+
+	<string id="st_wpn_desert_eagle_nimble">
+		<text>스텝 이글</text>
+	</string>
+
+	<string id="st_wpn_desert_eagle_nimble_descr">
+		<text>블랙 카이트를 기반으로 직접 개조한 권총입니다. 부품을 세밀하게 조절해 권총치고 탁월한 명중률을 자랑합니다.</text>
+	</string>
+
+	<string id="st_wpn_eagle">
+		<text>블랙 카이트</text>
+	</string>
+
+	<string id="st_wpn_fn2000">
+		<text>FT-200M</text>
+	</string>
+
+	<string id="st_wpn_fort">
+		<text>포라-12</text>
+	</string>
+
+	<string id="st_wpn_g36">
+		<text>GP 37</text>
+	</string>
+
+	<string id="st_wpn_gauss">
+		<text>가우스 소총</text>
+	</string>
+
+	<string id="st_wpn_groza">
+		<text>썬더 S14</text>
+	</string>
+
+	<string id="st_wpn_groza_descr">
+		<text>유탄 발사기와 결합된 돌격 소총입니다. 신속대응반을 위해 만들어진 AKM 시리즈와 비슷합니다. 다만 주요한 차이점으로 9x39구경 탄약 사용, 불펍 구조 및 방대한 개조 선택지를 들 수 있습니다. 저지력도 뛰어날뿐만 아니라, 도심 전투에서 방탄복을 입고 간이 엄폐물 뒤에 숨은 적을 처치할 수 있는 능력 덕에 군 스토커들에게 높은 평가를 받고 있습니다.</text>
+	</string>
+
+	<string id="st_wpn_groza_nimble">
+		<text>스톰</text>
+	</string>
+
+	<string id="st_wpn_groza_nimble_descr">
+		<text>돌격 소총 겸 유탄 발사 체계를 갖춘 무기의 실험용 버전입니다. 기본 썬더 S14를 러시아에서 존 작전을 수행하는 부대에 맞게 개조해 냈습니다. 특히 탄창 용량이 늘어난 점에 주목할 만합니다.</text>
+	</string>
+
+	<string id="st_wpn_hpsa">
+		<text>HPSS-1m</text>
+	</string>
+
+	<string id="st_wpn_hpsa_descr">
+		<text>20세기 전반에 만들어진 권총을 개조한 모델로, 기존 모델만큼 안정적이고 강력하며 정확합니다. 이 제품군의 권총은 20세기 최고의 권총 중 하나로 유명하며, 존에서도 수요가 대단히 많습니다.</text>
+	</string>
+
+	<string id="st_wpn_l85">
+		<text>IL 86</text>
+	</string>
+
+	<string id="st_wpn_lr300">
+		<text>TRs 301</text>
+	</string>
+
+	<string id="st_wpn_mp5">
+		<text>바이퍼 5</text>
+	</string>
+
+	<string id="st_wpn_mp5_descr">
+		<text>높은 신뢰성과 사용하기 편한 구조, 명중률로 전 세계적으로 인기가 높은 기관단총입니다. 지난 수십 년 동안 전 세계 특수 부대 및 경찰에서 바이퍼 5를 사용했습니다. 전 세계 암시장에서 자주 발견되더니 존까지 흘러 들어 온 것도 어찌 보면 당연한 일입니다.</text>
+	</string>
+
+	<string id="st_wpn_mp5_nimble">
+		<text>프레이저</text>
+	</string>
+
+	<string id="st_wpn_mp5_nimble_descr">
+		<text>탁월한 바이퍼 5 모델을 기반으로 만든 시제품 기관단총입니다. 차세대 근거리전 무기를 목표로 설계한 덕에 구경, 발사 속도, 명중률이 개선되었습니다.</text>
+	</string>
+
+	<string id="st_wpn_pb">
+		<text>PB-1s</text>
+	</string>
+
+	<string id="st_wpn_pkm_zulus">
+		<text>줄루의 RP-74</text>
+	</string>
+
+	<string id="st_wpn_pkm_zulus_descr">
+		<text>예전에 줄루가 소유한 무기입니다. 이 무기만의 특징으로 커진 탄창과 안정적인 개폐 장치 설계를 들 수 있습니다. 개조 덕에 무기의 무게가 증가했지만, 마지막 주인에게는 별문제가 되지 않았습니다.</text>
+	</string>
+
+	<string id="st_wpn_pm">
+		<text>PMm</text>
+	</string>
+
+	<string id="st_wpn_pm_actor">
+		<text>기념품 PMm</text>
+	</string>
+
+	<string id="st_wpn_pm_actor_descr">
+		<text>덱탸레프가 "국가의 매우 위험한 명령을 성공적으로 수행했으며, 수행 과정에서 보여준 용맹과 용기"에 대한 보상으로 받은 오래된 PMm입니다.</text>
+	</string>
+
+	<string id="st_wpn_protecta">
+		<text>엘리미네이터</text>
+	</string>
+
+	<string id="st_wpn_rg6">
+		<text>불독 6</text>
+	</string>
+
+	<string id="st_wpn_rg6_descr">
+		<text>이 리볼버형 유탄 발사기는 6개의 강선식 전면 장전 총열을 사용하는데, 이는 언더배럴 부착물과 동일한 것입니다. 드럼 탄창도 전면 장전식을 채택했습니다. 개방된 공간에서 적의 사격 위치를 신속하게 제압하거나, 잘 방비된 고정 목표물을 공격하거나, 유달리 강력한 괴물과 싸울 때 널리 활용합니다.</text>
+	</string>
+
+	<string id="st_wpn_rp">
+		<text>RP-74</text>
+	</string>
+
+	<string id="st_wpn_rp_descr">
+		<text>벨트식 기관총입니다. 휴대용 개조를 진행해 복잡한 2단 장전 체계를 갖추었습니다. 무겁고 정밀도도 낮지만 존에서 많은 사랑을 받는 경기관총입니다. 주로 진영 분쟁 시 우세한 적군을 물리치거나 돌연변이 소굴을 소탕할 때 사용합니다.</text>
+	</string>
+
+	<string id="st_wpn_rpg7">
+		<text>RPG-7u</text>
+	</string>
+
+	<string id="st_wpn_sig220">
+		<text>SIP-t M200</text>
+	</string>
+
+	<string id="st_wpn_sig220_nimble">
+		<text>알파인</text>
+	</string>
+
+	<string id="st_wpn_sig220_nimble_descr">
+		<text>SIP-t M200 권총의 고유 모델입니다. 확인되지 않은 특수부대를 위해 제작한 소규모 한정판의 일부입니다. 이 모델의 특징으로 탄창 용량 증가, 고내구성 강철 총열, 마찬가지로 내구성이 엄청난 폴리머 총몸을 들 수 있습니다.</text>
+	</string>
+
+	<string id="st_wpn_sig550">
+		<text>SGI-5k</text>
+	</string>
+
+	<string id="st_wpn_sig550_descr">
+		<text>"트렌디한" 구조는 아니지만 비교적 최신형 기종에 속하는 돌격 소총으로, 전 세계적으로 인기가 많습니다. 이 시리즈의 무기는 신뢰성, 명중률, 편의성 등으로 유명한 동종 최고의 무기 중 하나입니다. 이 돌격 소총은 존에서 비교적 구하기 어렵지만, 그럼에도 노련한 스토커가 상당한 비용을 지불하고 주문하는 경우가 잦습니다.</text>
+	</string>
+
+	<string id="st_wpn_sig550_strelok">
+		<text>스트렐록의 SGI-5K</text>
+	</string>
+
+	<string id="st_wpn_sig550_strelok_descr">
+		<text>스위스제 SGI-5k 돌격 소총입니다. 신품은 아니지만, 그래도 이전 주인이 잘 관리한 듯합니다. 무기를 분해했다가 다시 조립하면서 모든 부품을 미세 조정하여, 최적의 성능을 확보하고 저지력을 높였습니다. 개머리판에는 16개의 작은 홈과 함께 "S"라는 글자가 새겨져 있습니다.</text>
+	</string>
+
+	<string id="st_wpn_spas12">
+		<text>SPSA-14</text>
+	</string>
+
+	<string id="st_wpn_spas12_m2">
+		<text>SPSA-AUT</text>
+	</string>
+
+	<string id="st_wpn_spas12_m2_descr">
+		<text>자동 공이식 산탄총인 SPSA-AUT는 듀티의 작업장에서만 만들어집니다. 이 무기는 돌연변이를 대규모로 상대하기 위해 만들어졌습니다. 장전 장치를 개선해 발사 속도가 빨라지고, 탄창 용량도 10발로 늘어났습니다. 12x70구경 산탄을 사용합니다.</text>
+	</string>
+
+	<string id="st_wpn_spas12_nimble">
+		<text>카라비너</text>
+	</string>
+
+	<string id="st_wpn_spas12_nimble_descr">
+		<text>SPSA-14를 기반으로 특공대를 위해 특별히 설계한 육군 산탄총입니다. 이전 모델처럼 연사 사격이 가능하지만, 균형 잡힌 충격 방지 장치 덕분에 반동 보정 기능이 개선되었습니다.</text>
+	</string>
+
+	<string id="st_wpn_svd">
+		<text>SVDm-2</text>
+	</string>
+
+	<string id="st_wpn_svd_descr">
+		<text>시장에 출시된 지 50년 이상 된 육군 저격 소총입니다. 독보적인 안정성과 편의성으로 유명합니다. SVDm-2는 보통 군대에서 부대의 유효 사거리를 늘리기 위해 사용하지만, 스토커들은 돌연변이의 가죽과 군대의 방탄복을 뚫을 정도로 강력한 장갑 관통력을 들어 이 무기를 높이 평가합니다.</text>
+	</string>
+
+	<string id="st_wpn_svd_nimble">
+		<text>링스</text>
+	</string>
+
+	<string id="st_wpn_svd_nimble_descr">
+		<text>SVDm-2 저격 소총을 수작업으로 재조립한 총기입니다. 외형은 별로 다르지 않지만, 명중률 및 저지력에 있어 이상적인 조합을 제공합니다.</text>
+	</string>
+
+	<string id="st_wpn_svu">
+		<text>SVUmk-2</text>
+	</string>
+
+	<string id="st_wpn_svu_nimble">
+		<text>SVU2-A</text>
+	</string>
+
+	<string id="st_wpn_svu_nimble_descr">
+		<text>SVUmk-2 저격 소총의 다음 진화형으로, 길이를 줄여 발사 속도를 높였습니다. 프리덤의 전설적인 수호자 맥스의 무기였습니다.</text>
+	</string>
+
+	<string id="st_wpn_toz34">
+		<text>사냥용 산탄총</text>
+	</string>
+
+	<string id="st_wpn_toz34_descr">
+		<text>매우 흔한 오버 앤 언더 사냥용 산탄총입니다. 탁월한 명중률과 저지력 덕분에 돌연변이를 더 효과적으로 방어할 수 있습니다. 존 외곽에서 활동하는 신참이 주로 사용합니다.</text>
+	</string>
+
+	<string id="st_wpn_umirotvoritel">
+		<text>정체불명의 무기</text>
+	</string>
+
+	<string id="st_wpn_umirotvoritel_descr">
+		<text>발사 방식도 정확히 밝혀지지 않은 미확인 무기입니다. 결함이 있는 것으로 보이며, 방아쇠를 눌러도 별다른 일이 없습니다.</text>
+	</string>
+
+	<string id="st_wpn_usp">
+		<text>UDP 콤팩트</text>
+	</string>
+
+	<string id="st_wpn_usp_descr">
+		<text>흠잡을 데 없는 안정과 내구성, 뛰어난 명중률이야말로 이 무기의 주요한 특정입니다. 상당한 크기, 상대적으로 높은 무게 중심, 거대한 볼트 등 여러 단점이 있어 은폐하기 어렵지만, 그래도 무기의 장점을 모조리 깎아 먹을 정도는 아닙니다. 특히 존의 베테랑들에게 인기가 많은 무기입니다.</text>
+	</string>
+
+	<string id="st_wpn_usp_nimble">
+		<text>마치</text>
+	</string>
+
+	<string id="st_wpn_usp_nimble_descr">
+		<text>짧은 볼트 이동 장치 및 가벼운 노리쇠 뭉치를 갖춘 소형 대구경 권총입니다. 원래 울프하운드라는 용병의 물건이었습니다. UDP 콤팩트 권총을 개조한 듯합니다.</text>
+	</string>
+
+	<string id="st_wpn_val">
+		<text>SA 아바란체</text>
+	</string>
+
+	<string id="st_wpn_vintorez">
+		<text>빈타 BC</text>
+	</string>
+
+	<string id="st_wpn_vintorez_descr">
+		<text>특수한 군 저격 소총입니다. 저격수를 먼저 발견하는 것이 중요한 특수 작전 시 소음, 소염 저격을 수행하기 위해 제작되었습니다. 빈타 BC는 높은 장갑 관통력과 저지력을 제공하며, 일체형 저격 및 광학 조준경을 갖추고 있습니다. 탄창은 작지만 실력에 상관없이 모든 스토커가 높이 평가하는 무기입니다.</text>
+	</string>
+
+	<string id="st_wpn_vintorez_nimble">
+		<text>타이드</text>
+	</string>
+
+	<string id="st_wpn_vintorez_nimble_descr">
+		<text>소음 제거 저격 소총을 기반으로 군부대를 위해 만든 무기입니다. 이전 모델은 빈타 BC보다 발사 속도가 느린 대신 저지력이 뛰어나, 사수가 발각당하지 않고도 적군을 한 명씩 제거할 수 있습니다.</text>
+	</string>
+
+	<string id="st_wpn_walther">
+		<text>워커 P9m</text>
+	</string>
+
+	<string id="st_wpn_wincheaster1300">
+		<text>체이서 13</text>
+	</string>
+
+	<string id="st_wpn_wincheaster1300_descr">
+		<text>탁월한 신뢰성과 빠른 재장전 속도 덕분에 세계적으로 매우 유명한 서방 활강식 산탄총입니다. 존의 사냥꾼들이 이 산탄총의 능력을 유달리 높이 평가합니다. 모든 부품에 부식 방지 화합물 코팅을 입혔습니다.</text>
+	</string>
+
+	<string id="st_wpn_wincheaster1300_trapper">
+		<text>프레데터</text>
+	</string>
+
+	<string id="st_wpn_wincheaster1300_trapper_descr">
+		<text>트래퍼가 사용하던 맞춤형 펌프 액션 산탄총입니다. 이 사냥꾼은 무기 제작을 의뢰하며 포식 동물을 죽일 정도로 강력하기만 하면 된다고 언급했습니다. 사냥꾼의 철학은 동물이 아무리 많은 사람을 죽여도 동물이므로, 고통을 주어서는 안 된다는 신념에 기반하고 있습니다.</text>
+	</string>
+
+	<string id="ammo-gauss_cardan">
+		<text>수제 배터리</text>
+	</string>
+
+	<string id="st_addon_scope_susat_custom">
+		<text>SUSAT 메라 조준경</text>
+	</string>
+
+	<string id="st_wpn_abakan_descr">
+		<text>낡은 AKM 74/2를 대체하기 위해 개발된 현대식 돌격 소총입니다. 차별화된 주요 특징으로 고속 2연발 점사 방식이 있습니다. 사격 시 두 발의 총알을 최대 100m까지 떨어진 표적의 정확히 같은 지점에 발사할 수 있습니다. 단발 발사 모드에 비하면 표적에 명중할 확률이 대폭 증가하여 살상력, 저지력, 장갑 관통력이 크게 향상됩니다.</text>
+	</string>
+
+	<string id="st_wpn_ak74_descr">
+		<text>1974년에 설계된 이 무기는 바르샤바 조약 기구의 국가들이 소구경 저충격탄을 사용하는 계기가 되었습니다. 세계에서 가장 유명한 돌격 소총의 후계인 AKM-74/2는 더욱 커진 포구 제퇴기를 채택해, 이미 감당 가능한 수준이었던 반동을 더욱 많이 줄였습니다. 덕분에 특히 단발 및 연사 사격 시 명중률이 탄착군이 개선되었습니다. 물론 이전 기종과 마찬가지로 매우 단순하며 신뢰성이 탁월합니다.</text>
+	</string>
+
+	<string id="st_wpn_ak74u_descr">
+		<text>무게와 크기, 전술적 용도는 기관단총과 비슷하나, 내부 운용 방식이 AKM 74/2와 비슷하여 돌격 소총으로 분류되는 무기입니다. 근거리 전투 시 기동성 및 장갑 관통력이 높기로 정평이 나 있습니다 다만 탄환에 비해 유효 사거리가 짧고 쉽게 과열되며, 도탄되는 경우가 잦다는 단점도 존재합니다.</text>
+	</string>
+
+	<string id="st_wpn_colt1911_descr">
+		<text>세련된 자동 권총을 개조한 무기입니다. 20세기에 발생한 모든 주요 분쟁에 화려하게 등장해, 다음 세기까지 굳건히 전장을 누비고 있습니다. 일반 및 개조 사양 모두 수십 개에 불과한 제조업체에서 생산하고 있습니다. 유일하게 탄창 용량이 작다는 단점이 있지만, 대신 강력한 탄약으로 대부분 보완합니다.</text>
+	</string>
+
+	<string id="st_wpn_eagle_descr">
+		<text>크고 무거우며 살상력 높은 궁극의 권총입니다. 몸집이 중형에서 대형에 이르는 동물 사냥은 물론, 50m 이상의 거리에서 철갑을 두른 표적을 쏴야 하는 상황에 특화되도록 개발했습니다. 존에서는 사용하려고 해도 찾아보기 쉽지가 않은데, 이는 다른 권총보다 2배나 높은 가격, 크기, 무게 때문일 수 있습니다.</text>
+	</string>
+
+	<string id="st_wpn_fn2000_descr">
+		<text>겉보기에는 불펍소총처럼 생겼으나, 실제로는 전자 사격 제어 모듈 및 40mm 유탄 발사기를 갖춘 소총-유탄 복합 무기로 구성된 양산형 모듈식 장치입니다. 겉보기에 부피가 커도 인체공학적으로 설계되어 사용하기 쉬우며, 기술적 사양도 우수한 편입니다.</text>
+	</string>
+
+	<string id="st_wpn_fort_descr">
+		<text>우크라이나에서 만든 법 집행 기관용 권총입니다. PMm보다 명중률이 높고, 인체공학적이며 탄창도 큽니다. 초기 설계 모델에 기술적 결함이 발생한 이후, 결함 있는 무기를 판매한다는 명목으로 존에 대량 유입되었습니다. 그럼에도 권총 자체의 전투 성능이 우수하여 스토커 사이에 수요가 많습니다.</text>
+	</string>
+
+	<string id="st_wpn_g36_descr">
+		<text>이 무기는 서방에서 만든 돌격 소총군에 포함되지만, 반개방형 노리쇠 뭉치를 갖춘 연사 장치에 기반하는 이전 시리즈 모델과 비교해 보면 현저히 다른 모습을 보입니다. 차라리 쇼트스트로크 가스피스톤 장치를 갖춘 미국의 자동 가스 작동식 돌격 소총과 비슷할 정도입니다. 이러한 변화 덕분에 이 소총은 가볍고 신뢰성이 높으며 인체공학적인 현대 화기의 최고 모범 사례로 남게 되었습니다.</text>
+	</string>
+
+	<string id="st_wpn_l85_descr">
+		<text>수많은 단점 때문에 후속 모델 무기로 교체된 후, 암시장을 통해 존으로 대량 유입된 소총입니다. 이 소총의 주요 장점으로 표준형 4배율 조준경, 높은 단발 명중률, 안정적인 개량 기술을 들 수 있습니다. 대신 연사 시에는 명중률이 대폭 감소하며, 명중률이 크게 떨어지고 소총의 기본 내부 장치가 불안정해지는 경향이 있습니다.</text>
+	</string>
+
+	<string id="st_wpn_lr300_descr">
+		<text>유명한 무기 제품군의 새로운 개발을 통해 만들어졌습니다. 총열, 가스관, 노리쇠 뭉치로 이루어진 강철 구조물의 상단부를 개조해, 무게를 줄이고 인체공학적 설계 및 가스 장치를 개선했습니다. 명중률이 매우 높지만 먼지가 끼기 쉬워, 존의 험난한 환경에는 그리 좋지 않습니다.</text>
+	</string>
+
+	<string id="st_wpn_pb_descr">
+		<text>20세기 후반에 특수 부대 및 수색대에서 주로 사용한 PMm을 기반으로 만든 권총입니다. 총신 전면에 일체형 소음기 붙어 있으며, 볼트 작동 장치가 짧은 탓에 뒤로 움직이는 스프링을 무기의 손잡이로 옮겼습니다. 엄밀히 말하면 지금은 별 쓸모가 없는 무기지만, 그래도 주인을 잘 만나면 여전히 강한 위력을 발휘합니다.</text>
+	</string>
+
+	<string id="st_wpn_pm_descr">
+		<text>소련의 유산이자 존에서 가장 널리 보급된 권총입니다. 존 안에서는 그나마 가장 간편한 호신용 소형 무기입니다. 작고 신뢰성이 높으며, 사용하기 쉽고 작동 상태를 유지하기도 쉽습니다. 대신 짧은 사거리, 낮은 발사 명중률, 낮은 저지력 등 몇 가지 단점이 존재하며, 무게와 탄창 면에서도 같은 유형의 최신 권총에 피해 떨어집니다.</text>
+	</string>
+
+	<string id="st_wpn_protecta_descr">
+		<text>군부대에 강한 화력을 제공하기 위해 탄생한 활강식 전투 리볼버형 산탄총입니다. 넓은 탄창과 높은 발사 속도가 장점이지만, 부피가 크고 상당히 무거우며 재장전 시간이 길다는 단점이 존재합니다. 존에서는 드물게 등장하며, 주로 돌연변이가 서식하는 폐쇄형 공간을 확보하는 데 사용합니다.</text>
+	</string>
+
+	<string id="st_wpn_rpg7_descr">
+		<text>1960년대에 군대 보급창에서 존으로 유입된 유탄 발사기입니다. 후방 개방형 튜브가 장착된 활강식 단발 무반동 발사 장치를 갖추고 있으며, PGO-7 2.7배율 광학 조준경이 함께 제공됩니다. 워낙에 크고 무거워 스토커들이 좋아하진 않지만, 엄청난 파괴력과 사용하기 편한 점 덕에 존에서도 선호하는 사람이 있기는 합니다.</text>
+	</string>
+
+	<string id="st_wpn_sig220_descr">
+		<text>세계적으로 유명한 권총 중에 유일하게 남은 양산형 모델입니다. 뛰어난 인체공학적 설계와 명중률로 유명해졌으며, 탄창은 비교적 작지만 강력한 탄약을 사용하며 스위스 시계처럼 정확하게 작동한다는 강점이 있습니다. 어떤 사람들은 SIP-t M200을 현존하는 최고의 대량 생산 .45 ACP 구경 권총으로 생각하기도 합니다. 노련한 스토커와 용병들에게 확실히 수요가 존재합니다.</text>
+	</string>
+
+	<string id="st_wpn_spas12_descr">
+		<text>20세기 후반에 특수한 목적으로 설계한 활강식 연사 산탄총입니다. 펌프 액션 및 자동 공이식 발사 형태를 갖추고 있습니다. 경찰 및 특공대가 다목적 무기로 활용합니다. 이 산탄총은 신뢰성 및 전술적 유연성으로 유명합니다. 매우 무겁고 장치가 복잡하며 비용도 높지만, 돌연변이를 상대로 위력이 강해 존에서 수요가 많습니다.</text>
+	</string>
+
+	<string id="st_wpn_svu_descr">
+		<text>SVDm-2 저격 소총의 최신 모델입니다. 신속 대응 병력의 주문을 받아 간결한 불펍 형태를 채택했습니다. 조준 사격 속도가 빨라졌으며 상당히 가벼우면서도, 이전 모델에 비해 중단거리에서의 단발 명중률을 그대로 유지하고 있습니다. 이러한 특성 덕분에 수많은 스토커의 찬사를 받고 있습니다.</text>
+	</string>
+
+	<string id="st_wpn_val_descr">
+		<text>소음 제거 빈타 BC 저격 소총의 개량형 버전입니다. 이 돌격 소총은 원래 특수부대용으로 제작되었습니다. 이 소총의 주요 목적은 사수의 위치를 노출하지 않고도 현대식 개인 보호장구를 착용한 적을 효과적으로 상대하는 것입니다. 일체형 소음기 및 극초음속 탄환을 갖춘 9x39구경 탄약으로 무기의 소음 및 총구 섬광을 최대한 줄였습니다.</text>
+	</string>
+
+	<string id="st_wpn_gauss_descr">
+		<text>62번 항목으로 알려진 초정밀 첨단 소총으로, 존 내부에 위치한 비밀 연구소에서 개발되었습니다. 이 무기는 전자석 장치를 이용해 탄환을 초고속으로 작동시켜, 반동을 거의 발생시키지 않고 엄청난 저지력을 제공합니다. 무기 동력은 캡슐로 만든 아티팩트 파편을 배터리에 넣어 공급합니다.</text>
+	</string>
+
+	<string id="st_wpn_beretta_descr">
+		<text>마르타는 세계적으로 다소 번거로워도 안정성이 높기로 정평이 난 권총입니다. 전 세계 무장 병력과 경찰은 물론, 다양한 군대와 법 집행 기관에서도 사용하고 있습니다. 강력한 탄환 및 대형 탄창 덕분에 지하 세계에서도 인기가 높습니다. 존에서 발견되는 마르타 권총은 보통 연식이 오래된 점으로 보아, 어렵지 않게 퇴역한 무기임을 짐작할 수 있습니다.</text>
+	</string>
+
+	<string id="st_wpn_walther_descr">
+		<text>우수한 서방 권총입니다. 높은 탄창 용량, 명중률과 함께 안정적인 성능으로 유명하며, 권총 중에서 인체공학적 요소를 가장 많이 고려했습니다. 존에서 가장 널리 보급된 권총 중 하나이자, 돈에 여유가 있는 전문가와 신입 모두 많이 찾는 무기입니다.</text>
+	</string>
+
+	<string id="ammo-gauss_descr">
+		<text>플래시 아티팩트의 캡슐 파편을 동력원으로 사용하는 배터리입니다. 제조하려면 첨단 장비가 필요합니다.</text>
+	</string>
+
+	<string id="ammo-gauss_cardan_descr">
+		<text>플래시 아티팩트의 캡슐 파편을 동력원으로 사용하는 저용량 배터리입니다. 임시로 생산하는 환경, 전문 장비 부족으로 인해 용량이 낮은 편입니다.</text>
+	</string>
+
+</string_table>

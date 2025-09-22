@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_press_any_key_PS4">
+		<text>Press any button to play</text>
+	</string>
+
+	<string id="ui_mm_mblur_pwr">
+		<text>Motion blur</text>
+	</string>
+
+	<string id="st_sp_achievement_1_desc_gdk">
+		<text>You’re willing to research the most recent developments in the Zone</text>
+	</string>
+
+	<string id="st_sp_achievement_2_desc_gdk">
+		<text>You don’t try to avoid dangerous mutants - you hunt them</text>
+	</string>
+
+	<string id="st_sp_achievement_3_desc_gdk">
+		<text>You uncovered the secret behind stalker disappearances at Skadovsk</text>
+	</string>
+
+	<string id="st_sp_achievement_4_desc_gdk">
+		<text>You showed the bandits and their leader who’s boss</text>
+	</string>
+
+	<string id="st_sp_achievement_5_desc_gdk">
+		<text>You helped Sultan outmaneuver the stalkers</text>
+	</string>
+
+	<string id="st_sp_achievement_6_desc_gdk">
+		<text>You brought the scumbag to justice</text>
+	</string>
+
+	<string id="st_sp_achievement_7_desc_gdk">
+		<text>You found every type of artifact known to Zone researchers</text>
+	</string>
+
+	<string id="st_sp_achievement_8_desc_gdk">
+		<text>Now Cardan has all the tools he’ll ever need</text>
+	</string>
+
+	<string id="st_sp_achievement_9_desc_gdk">
+		<text>Azot has all the tools a Zone technician could dream of</text>
+	</string>
+
+	<string id="st_sp_achievement_10_desc_gdk">
+		<text>There are no areas in the the Zone that you haven’t been to yet</text>
+	</string>
+
+	<string id="st_sp_achievement_11_desc_gdk">
+		<text>You put a great squad together and proved you're a leader.</text>
+	</string>
+
+	<string id="st_sp_achievement_12_desc_gdk">
+		<text>You know how to solve a problem peacefully</text>
+	</string>
+
+	<string id="st_sp_achievement_13_desc_gdk">
+		<text>Everyone in the scientists’ bunker considers you one of their own.</text>
+	</string>
+
+	<string id="st_sp_achievement_14_desc_gdk">
+		<text>You have provided plenty of help to Duty</text>
+	</string>
+
+	<string id="st_sp_achievement_15_desc_gdk">
+		<text>You have provided plenty of help to Freedom</text>
+	</string>
+
+	<string id="st_sp_achievement_16_desc_gdk">
+		<text>You didn’t side with either faction and always acted as a free stalker</text>
+	</string>
+
+	<string id="st_sp_achievement_17_desc_gdk">
+		<text>You’re not doing too badly at the moment, your wealth in considerable</text>
+	</string>
+
+	<string id="st_sp_achievement_18_desc_gdk">
+		<text>Your foresight has served you well</text>
+	</string>
+
+	<string id="st_sp_achievement_19_desc_gdk">
+		<text>You managed to survive an emission without taking cover thanks to the anabiotic pills</text>
+	</string>
+
+	<string id="st_sp_achievement_20_desc_gdk">
+		<text>When you get your hands on a piece of info, you always find the right buyer</text>
+	</string>
+
+	<string id="st_sp_achievement_21_desc_gdk">
+		<text>You’ve always helped out stalkers in trouble</text>
+	</string>
+
+	<string id="ui_eula_ps_tech_req">
+		<text>Any content purchased in an in-game store will be purchased from Sony Interactive Entertainment Network Europe Limited (“SIENE”) and be subject to PlayStation™Network Terms of Service and User Agreement which is available on the PlayStation®Store. Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game.</text>
+		<text_US>Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America.</text_US>
+	</string>
+
+	<string id="ui_elua_disclamer">
+		<text>This is the console version of S.T.A.L.K.E.R.: Call of Prypiat.\n \n In the world of the Zone, time stands still, frozen at the moment of the ChNPP catastrophe. While we've updated certain elements, some aspects that may seem controversial for us today, remain unchanged to retain the authenticity and atmosphere of the game.\n It's important to acknowledge that there are facets of the game that may not align with our current views or values. However, these unchanged elements are a part of the game's legacy, and we've chosen to maintain them as they were originally created.\n \n Any references included in the game serve to enhance the atmosphere and provide historical context within the artistic work. We hope you'll embrace the Zone and its mysteries, much like the many stalkers before you.\n \nHappy hunting!\n Sincerely,\n GSC Game World Team</text>
+		<text_ps5>This is the  PlayStation®5 console version of S.T.A.L.K.E.R.: Call of Prypiat\n \n In the world of the Zone, time stands still, frozen at the moment of the ChNPP catastrophe. While we've updated certain elements, some aspects that may seem controversial for us today, remain unchanged to retain the authenticity and atmosphere of the game.\n It's important to acknowledge that there are facets of the game that may not align with our current views or values. However, these unchanged elements are a part of the game's legacy, and we've chosen to maintain them as they were originally created.\n \n Any references included in the game serve to enhance the atmosphere and provide historical context within the artistic work. We hope you'll embrace the Zone and its mysteries, much like the many stalkers before you.\n \nHappy hunting!\n Sincerely,\n GSC Game World Team</text_ps5>
+	</string>
+
+	<string id="ui_pad_layout_lean_right">
+		<text>Lean right</text>
+	</string>
+
+	<string id="ui_pad_layout_lean_left">
+		<text>Lean left</text>
+	</string>
+
+	<string id="ui_pad_layout_crouch_cod">
+		<text>Crouch / (Hold) Low crouch</text>
+	</string>
+
+	<string id="ui_pad_layout_sprint_crouch_old">
+		<text>Sprint / Low crouch (when crouching)</text>
+	</string>
+	<string id="ui_pad_layout_crouch_old">
+		<text>Low crouch (when crouching)</text>
+	</string>
+
+	<string id="c_preset_default">
+		<text>Alternative</text>
+	</string>
+
+	<string id="c_type_general">
+		<text>General movement</text>
+	</string>
+
+	<string id="c_type_zomming">
+		<text>While zooming</text>
+	</string>
+
+	<string id="c_type_wheel">
+		<text>Wheel Menu</text>
+	</string>
+
+	<string id="c_type_talk">
+		<text>Talk Menu</text>
+	</string>
+
+	<string id="c_type_trade">
+		<text>Trade Menu</text>
+	</string>
+
+	<string id="c_type_inventory">
+		<text>Inventory Menu</text>
+	</string>
+
+	<string id="ui_mm_controlls_preset">
+		<text>Configuration</text>
+	</string>
+
+	<string id="ui_mm_goto_store">
+		<text>$$ACTION_UI_ACTION_2$$ Go To Microsoft Store</text>
+		<text_ps4>$$ACTION_UI_ACTION_2$$ Go to PlayStation®Store</text_ps4>
+		<text_nx64>$$ACTION_UI_ACTION_2$$ Go to Nintendo eShop</text_nx64>
+	</string>
+
+	<string id="ui_mm_goto_store_pc">
+		<text>Go To Store</text>
+		<text_ps4>Go to PlayStation®Store</text_ps4>
+		<text_xbox>Go To Microsoft Store</text_xbox>
+	</string>
+
+	<string id="energy_drink_name">
+		<text>NON STOP energy drink</text>
+	</string>
+
+	<string id="energy_drink_short_name">
+		<text>NON STOP energy drink</text>
+	</string>
+
+	<string id="ui_modio_open">
+		<text>Open browser</text>
+	</string>
+
+	<string id="ui_modio_loadorder">
+		<text>Mods load order</text>
+	</string>
+
+	<string id="ui_modio_logout">
+		<text>Log out</text>
+	</string>
+
+	<string id="ui_modio_email">
+		<text>Log in or sign up with Email</text>
+	</string>
+
+	<string id="ui_modio_sendcode">
+		<text>Email code</text>
+	</string>
+
+	<string id="ui_modio_code">
+		<text>Please check your email for your code and enter it here.</text>
+	</string>
+
+	<string id="ui_modio_state">
+		<text>Mod.io state</text>
+	</string>
+
+	<string id="ui_modio_state_ready">
+		<text>Ready to play</text>
+	</string>
+
+	<string id="ui_modio_state_downloading">
+		<text>Downloading mod</text>
+	</string>
+
+	<string id="ui_modio_state_updating">
+		<text>Updating mod</text>
+	</string>
+
+	<string id="ui_modio_state_removing">
+		<text>Removing mod</text>
+	</string>
+
+	<string id="ui_modio_user">
+		<text>User</text>
+	</string>
+
+	<string id="ui_modio_notlogged">
+		<text>Not logged</text>
+	</string>
+
+	<string id="ui_modio_loadorder_automatic">
+		<text>automatic</text>
+	</string>
+
+	<string id="ui_modio_loadorder_desc">
+		<text>Set order of loading modifications to prevent overriding files</text>
+	</string>
+
+	<string id="ui_mm_modmenu">
+		<text>Mod.io</text>
+	</string>
+
+	<string id="ui_mm_sws_menu">
+		<text>Steam Workshop</text>
+	</string>
+
+	<string id="ui_modio_managerbusy">
+		<text>Unable to start the game now! The mod.io manager is busy, please wait</text>
+	</string>
+
+	<string id="ui_modio_nomemory">
+		<text>Unable to install modification! There is no free space</text>
+	</string>
+
+	<string id="ui_modio_report">
+		<text>Report</text>
+	</string>
+
+	<string id="ui_modio_memory">
+		<text>Occupied memory: </text>
+	</string>
+
+	<string id="ui_terms_of_use">
+		<text>Terms of Use </text>
+	</string>
+
+	<string id="legend_ui_modio_edit_order">
+		<text>$$ACTION_UI_ACTION_2$$ Edit load order</text>
+	</string>
+
+	<string id="legend_ui_modio_edit_order_pc">
+		<text>Click to swap load order</text>
+		<text_ps5>Press to swap load order</text_ps5>
+		<text_xbox>Press to swap load order</text_xbox>
+	</string>
+
+	<string id="ui_modio_mod_name">
+		<text>Mod Name:</text>
+	</string>
+
+	<string id="ui_modio_mod_order">
+		<text>Order:</text>
+	</string>
+
+	<string id="ui_mm_adaptive_trigger">
+		<text>Adaptive triggers</text>
+	</string>
+
+	<string id="ui_mm_controller_speaker_enable">
+		<text>Controller Speaker</text>
+		<text_ps4>Speaker </text_ps4>
+	</string>
+
+	<string id="ui_mm_controller_speaker_volume">
+		<text>Controller Speaker volume</text>
+		<text_ps4>Speaker volume </text_ps4>
+	</string>
+
+	<string id="ui_mm_transfer_saves">
+		<text>Transfer saves</text>
+	</string>
+
+	<string id="ui_mm_enable_fsr">
+		<text>Upscale Type</text>
+	</string>
+
+	<string id="ui_mm_enable_fsr_sharpen">
+		<text>FSR Sharpening</text>
+	</string>
+
+	<string id="ui_mm_fsr_sharpeness">
+		<text>FSR Sharpness</text>
+	</string>
+
+	<string id="ui_mm_enable_fsr_frame_generation">
+		<text>FSR Frame Generation</text>
+	</string>
+
+	<string id="ui_mm_fsr_quality">
+		<text>Upscale Mode</text>
+	</string>
+	
+	<string id="ui_mm_modio_error">
+		<text>Encountered Mod.io error with code:\n</text>
+	</string>
+	<string id="ui_mm_modio_error_space">
+		<text>There is not enough memory to install modification:\n</text>
+	</string>
+	<string id="ui_mm_modio_error_video">
+		<text>Waring! Installed modifications require a lot of video memory. The game might be unstable</text>
+	</string>
+
+	<string id="ui_mm_recommended_note">
+		<text>*Recommended for Variable Refresh Rate screens. May cause screen tearing otherwise. </text>
+	</string>
+
+	<string id="ui_grass_distance">
+		<text>Grass Rendering Distance</text>
+	</string>
+
+	<string id="ui_mm_enable_screen_space_shadows">
+		<text>Screen Space Shadows</text>
+	</string>
+
+	<string id="ui_mm_enable_screen_space_reflections">
+		<text>Screen Space Reflections</text>
+	</string>
+
+	<string id="ui_mm_input_method">
+		<text>Input Method</text>
+	</string>
+
+	<string id="ui_mm_dynamic_music_volume">
+		<text>Dynamic music volume</text>
+	</string>
+
+	<string id="ui_mm_enable_screen_space_global_ilumination">
+		<text>Screen Space Global Illumination</text>
+	</string>
+
+    <string id="ui_mm_enable_async_compute">
+        <text>Async Compute</text>
+    </string>
+
+	<string id="ui_mm_wireless_controller">
+		<text>wireless controller</text>
+	</string>
+
+	<string id="ui_mm_quality_modes">
+		<text>Quality modes</text>
+	</string>
+
+	<string id="ui_opt_quality">
+		<text>Quality</text>
+	</string>
+
+	<string id="ui_opt_balanced">
+		<text>Balanced</text>
+	</string>
+
+	<string id="ui_opt_performance">
+		<text>Performance</text>
+	</string>
+
+	<string id="ui_controller_update_needed">
+		<text>DualSense® wireless controller needs update</text>
+	</string>
+
+	<string id="ui_control_type_dualsense">
+		<text>DualSense® wireless controller</text>
+	</string>
+
+	<string id="ui_modio_mod_unsubscribed">
+		<text>is not available on this platform! The mod has been unsubscribed</text>
+	</string>
+
+	<string id="ui_opt_native">
+		<text>Native </text>
+	</string>
+
+	<string id="ui_opt_ultra_performance">
+		<text>Ultra performance</text>
+	</string>
+
+	<string id="kb_current_task">
+		<text>Show current task</text>
+	</string>
+
+	<string id="30_mode">
+		<text>Quality</text>
+	</string>
+
+	<string id="40_mode">
+		<text>Balanced</text>
+	</string>
+
+	<string id="60_mode">
+		<text>Performance</text>
+	</string>
+
+	<string id="120_mode">
+		<text>Ultra performance</text>
+	</string>
+
+	<string id="120_mode*">
+		<text>Ultra performance*</text>
+	</string>
+
+	<string id="ui_mm_camera_bobbing">
+		<text>Camera shake</text>
+	</string>
+
+</string_table>

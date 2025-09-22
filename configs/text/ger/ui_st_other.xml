@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="Btn_Cancel">
+		<text>Abbrechen</text>
+	</string>
+	<string id="Btn_No">
+		<text>Nein</text>
+	</string>
+	<string id="Btn_OK">
+		<text>OK</text>
+	</string>
+	<string id="Btn_Yes">
+		<text>Ja</text>
+	</string>
+	<string id="bad">
+		<text>Schlecht</text>
+	</string>
+	<string id="enemy">
+		<text>Feind</text>
+	</string>
+	<string id="excellent">
+		<text>Hervorragend</text>
+	</string>
+	<string id="experienced">
+		<text>Erfahren</text>
+	</string>
+	<string id="friendly">
+		<text>Freund</text>
+	</string>
+	<string id="global_map">
+		<text>Karte der Zone</text>
+	</string>
+	<string id="good">
+		<text>Gut</text>
+	</string>
+	<string id="indifferent">
+		<text>Gleichgьltig</text>
+	</string>
+	<string id="master">
+		<text>Meister</text>
+	</string>
+	<string id="mm_mp_pda_hunt">
+		<text>PDA-Bonus</text>
+	</string>
+	<string id="mp_only_one_voting">
+		<text>Nur eine aktive Abstimmung gestattet.</text>
+	</string>
+	<string id="neutral">
+		<text>Neutral</text>
+	</string>
+	<string id="novice">
+		<text>Anfдnger</text>
+	</string>
+	<string id="st_game">
+		<text>Spiel</text>
+	</string>
+	<string id="st_item_used">
+		<text>Verwendet</text>
+	</string>
+	<string id="st_level">
+		<text>Stufe</text>
+	</string>
+	<string id="st_loading_ai_objects">
+		<text>KI-Objekte werden geladen</text>
+	</string>
+	<string id="st_loading_alife_simulator">
+		<text>Server: alife-Simulator werden geladen</text>
+	</string>
+	<string id="st_loading_cform">
+		<text>CFORM wird geladen</text>
+	</string>
+	<string id="st_loading_details">
+		<text>Details werden geladen</text>
+	</string>
+	<string id="st_loading_geometry">
+		<text>Geometrie wird geladen</text>
+	</string>
+	<string id="st_loading_saved_game">
+		<text>Spielstand wird geladen</text>
+	</string>
+	<string id="st_loading_sectors_portals">
+		<text>Sektoren &amp; Portale werden geladen</text>
+	</string>
+	<string id="st_loading_shaders">
+		<text>Shaders werden geladen</text>
+	</string>
+	<string id="st_loading_spatial_db">
+		<text>Spatial-DB wird geladen</text>
+	</string>
+	<string id="st_loading_textures">
+		<text>Texturen werden geladen</text>
+	</string>
+	<string id="st_mp_direct_ip">
+		<text>Direkte IP</text>
+	</string>
+	<string id="st_no_active_task">
+		<text>Kein aktiver Task</text>
+	</string>
+	<string id="st_not_enough_money">
+		<text>Nicht genьgend Speicher</text>
+	</string>
+	<string id="st_not_enough_money_npc">
+		<text>Der NSC hat nicht genьgend Geld</text>
+	</string>
+	<string id="st_opening_stream">
+		<text>Stream wird geцffnet</text>
+	</string>
+	<string id="st_prefetching_objects">
+		<text>Objekte werden abgerufen</text>
+	</string>
+	<string id="st_rubles">
+		<text>SR.</text>
+	</string>
+	<string id="st_server_connecting">
+		<text>SERVER: Verbindung wird aufgebaut</text>
+	</string>
+	<string id="st_server_starting">
+		<text>SERVER: Wird gestartet</text>
+	</string>
+	<string id="st_validating_cdkey">
+		<text>CD-Schlьssel wird geprьft</text>
+	</string>
+	<string id="st_video">
+		<text>Grafik</text>
+	</string>
+	<string id="terrible">
+		<text>Schrecklich</text>
+	</string>
+	<string id="ui_inv_repair">
+		<text>Reparieren</text>
+	</string>
+	<string id="ui_st_cant_run_r2">
+		<text>Render 2 kann auf Ihrem PC nicht ausgefьhrt werden.</text>
+	</string>
+	<string id="ui_st_community">
+		<text>Fraktion</text>
+	</string>
+	<string id="ui_st_conn_cdkey_disabled">
+		<text>Verbindungsfehler: Ihr CD-Schlьssel ist deaktiviert. Kontaktieren Sie den Kundenservice.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_in_use">
+		<text>Verbindungsfehler: CD-Schlьssel wird bereits verwendet.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_invalid">
+		<text>Verbindungsfehler: Ungьltiger CD-Schlьssel.</text>
+	</string>
+	<string id="ui_st_conn_invalid_host">
+		<text>Verbindungsfehler: Ungьltiger Host.</text>
+	</string>
+	<string id="ui_st_conn_invalid_pass">
+		<text>Verbindungsfehler: Falsches Passwort.</text>
+	</string>
+	<string id="ui_st_conn_new_patch">
+		<text>Ein neuer Patch steht zur Verfьgung.\nVersion: %s\nQuelle: %s\Wollen Sie den Patch herunterladen?</text>
+	</string>
+	<string id="ui_st_conn_no_new_patch">
+		<text>Momentan ist kein neuer Patch verfьgbar.</text>
+	</string>
+	<string id="ui_st_conn_rejected_server">
+		<text>Verbindungsfehler: Der Server hat die Verbindung abgelehnt.</text>
+	</string>
+	<string id="ui_st_conn_sess_full">
+		<text>Verbindungsfehler: Der Server ist voll.</text>
+	</string>
+	<string id="ui_st_conn_version_differs">
+		<text>Verbindungsfehler: Unterschiedliche Version.</text>
+	</string>
+	<string id="ui_st_connecting_to_masterserver">
+		<text>Verbindung zum Masterserver wird aufgebaut.</text>
+	</string>
+	<string id="ui_st_days">
+		<text>Tage</text>
+	</string>
+	<string id="ui_st_error">
+		<text>Fehler</text>
+	</string>
+	<string id="ui_st_error_loading">
+		<text>Fehler beim Laden</text>
+	</string>
+	<string id="ui_st_file_exist_owerwrite_q">
+		<text>Eine Datei mit diesem Namen existiert bereits. Wollen Sie sie ьberschreiben?</text>
+	</string>
+	<string id="ui_st_file_name_is_empty">
+		<text>Es wurde kein Dateiname eingegeben</text>
+	</string>
+	<string id="ui_st_hours">
+		<text>Stunden</text>
+	</string>
+	<string id="ui_st_kicked_by_battleye">
+		<text>Verbindung wurde durch das BattlEye-Schutzsystem getrennt:</text>
+	</string>
+	<string id="ui_st_kicked_by_server">
+		<text>Verbindung wurde getrennt. Grund:</text>
+	</string>
+	<string id="ui_st_leave">
+		<text>Verlassen</text>
+	</string>
+	<string id="ui_st_load_game_confirm">
+		<text>Wenn Sie diesen Spielstand laden, verlieren Sie alle nicht gespeicherten Daten. Fortfahren?</text>
+	</string>
+	<string id="ui_st_mins">
+		<text>Min.</text>
+	</string>
+	<string id="ui_st_months">
+		<text>Monate</text>
+	</string>
+	<string id="ui_st_opponent_items">
+		<text>Rucksack</text>
+	</string>
+	<string id="ui_st_params">
+		<text>Parameter</text>
+	</string>
+	<string id="ui_st_patch_download_error">
+		<text>Patch kann nicht heruntergeladen werden.</text>
+	</string>
+	<string id="ui_st_patch_download_success">
+		<text>Der Patch wurde erfolgreich heruntergeladen. Wollen Sie ihn installieren?</text>
+	</string>
+	<string id="ui_st_price">
+		<text>Preis</text>
+	</string>
+	<string id="ui_st_rank">
+		<text>Rang</text>
+	</string>
+	<string id="ui_st_relation">
+		<text>Gesinnung</text>
+	</string>
+	<string id="ui_st_reputation">
+		<text>Ruf</text>
+	</string>
+	<string id="ui_st_secs">
+		<text>Sek.</text>
+	</string>
+	<string id="ui_st_select_one_map">
+		<text>Wдhlen Sie bitte mindestens eine Karte aus</text>
+	</string>
+	<string id="ui_st_take_all">
+		<text>Alles nehmen</text>
+	</string>
+	<string id="ui_st_time_remains">
+		<text>Verbleibend</text>
+	</string>
+	<string id="ui_st_voting_disabled">
+		<text>Abstimmung fehlgeschlagen</text>
+	</string>
+	<string id="ui_st_want_to_leave_game_q">
+		<text>Wollen Sie das Spiel wirklich verlassen?</text>
+	</string>
+	<string id="ui_total_price">
+		<text>Gesamt</text>
+	</string>
+	<string id="very_bad">
+		<text>Sehr schlecht</text>
+	</string>
+	<string id="very_good">
+		<text>Sehr gut</text>
+	</string>
+	<string id="veteran">
+		<text>Veteran</text>
+	</string>
+	<string id="ui_st_inv_repair">
+		<text>Reparieren</text>
+	</string>
+	<string id="ui_repair_button_hint">
+		<text>Ausgewдhlten Gegenstand reparieren ($$ACTION_ACTORMENU_TAKE_ALL$$)</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ Ausgewдhlten Gegenstand reparieren </text_c>
+	</string>
+	<string id="st_key_notbinded">
+		<text>...</text>
+	</string>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<string id="ui_st_upgrade">
+		<text>Reparieren/Modifizieren</text>
+	</string>
+	<string id="ui_st_upgrade_console">
+		<text>$$ACTION_talk_trade_upgrade$$ Reparieren/Modifizieren</text>
+	</string>
+	<string id="ui_st_buy">
+		<text>Kaufen</text>
+	</string>
+	<string id="ui_st_sell">
+		<text>Verkaufen</text>
+	</string>
+	<string id="ui_st_trade">
+		<text>Handeln</text>
+	</string>
+	<string id="ui_st_exit_hint">
+		<text>Fenster schlieЯen ($$ACTION_QUIT$$)</text>
+		<text_c>$$ACTION_QUIT$$ Fenster schlieЯen </text_c>
+	</string>
+	<string id="ui_st_trade_hint">
+		<text>Handelsfenster цffnen ($$ACTION_ACTORMENU_TAKE_ALL$$)</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ Handelsfenster цffnen </text_c>
+	</string>
+	<string id="ui_st_upgrade_hint">
+		<text>Reparatur- und Modifikationsfenster цffnen ($$ACTION_ACTORMENU_TAKE_ALL$$)</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ Reparatur- und Modifikationsfenster цffnen </text_c>
+	</string>
+	<string id="ui_st_take_all_hint">
+		<text>Alle Gegenstдnde in den Rucksack legen ($$ACTION_ACTORMENU_TAKE_ALL$$)</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ Alle Gegenstдnde in den Rucksack legen </text_c>
+	</string>
+	<string id="ui_st_buy_hint">
+		<text>Ausgewдhlte Gegenstдnde kaufen ($$ACTION_ACTORMENU_TAKE_ALL$$)</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ Ausgewдhlte Gegenstдnde kaufen </text_c>
+	</string>
+	<string id="ui_st_sell_hint">
+		<text>Ausgewдhlte Gegenstдnde verkaufen ($$ACTION_ACTORMENU_TAKE_ALL$$)</text>
+		<text_c>$$ACTION_ACTORMENU_TAKE_ALL$$ Ausgewдhlte Gegenstдnde verkaufen </text_c>
+	</string>
+	
+</string_table>

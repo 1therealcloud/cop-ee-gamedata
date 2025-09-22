@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="csky_heavy_outfit_name">
+		<text>CS-3a 방탄복</text>
+	</string>
+
+	<string id="dolg_heavy_outfit_name">
+		<text>PSZ-9d 듀티 방탄복</text>
+	</string>
+
+	<string id="dolg_outfit_name">
+		<text>PS5-M 표준 보호구</text>
+	</string>
+
+	<string id="exo_outfit_name">
+		<text>외골격 전투복</text>
+	</string>
+
+	<string id="military_outfit_name">
+		<text>불랏 방탄복</text>
+	</string>
+
+	<string id="mp_exo_outfit_description">
+		<text>이 외골격 전투복은 기동성이 떨어지는 대신 총알 및 파편에 대한 방호력이 뛰어납니다. 철갑탄에 취약합니다.</text>
+	</string>
+
+	<string id="mp_exo_outfit_name">
+		<text>외골격 전투복</text>
+	</string>
+
+	<string id="mp_military_outfit_description">
+		<text>돌격 작전을 수행하기 위해 제작된 군용 방탄복입니다. 기동성을 유지하면서도 탄환 및 파편에 탁월한 방호력을 제공합니다. 대신 철갑탄에 취약합니다.</text>
+	</string>
+
+	<string id="mp_military_outfit_name">
+		<text>군용 방탄복</text>
+	</string>
+
+	<string id="novice_outfit_description">
+		<text>평범한 검은색 가죽 트렌치 코트입니다. 밤에 체온을 유지하거나 장님 개의 이빨을 막는 것 말고 특별한 목적이 없습니다. 트렌치 코트가 특별히 편안하진 않지만, 그래도 어둠 속에 숨거나 "멋진" 모습을 자랑하기 때문에 밴디트들이 종종 입고 다닙니다.</text>
+	</string>
+
+	<string id="novice_outfit_name">
+		<text>가죽 트렌치 코트</text>
+	</string>
+
+	<string id="scientific_outfit_name">
+		<text>SEVA 방호복</text>
+	</string>
+
+	<string id="specops_outfit_name">
+		<text>베릴-5M 방탄복</text>
+	</string>
+
+	<string id="st_helm_battle">
+		<text>스피어 M12 헬멧</text>
+	</string>
+
+	<string id="st_helm_battle_descr">
+		<text>바깥을 천으로 두른 알루미늄/티타늄 헬멧으로, 강철 장갑판 및 장갑 안면 보호대를 추가할 수 있는 수납 공간이 존재합니다. 스피어 M12는 일반적으로 PSZ 시리즈 스페츠나츠 방탄복을 착용할 때 함께 쓰곤 합니다. 호흡 장치 및 내장 1세대 야간 투시경이 내장되어 머리를 최대한 지켜 주므로 존에서 인기가 많습니다. 전자 장치 부착함이 함께 제공됩니다.</text>
+	</string>
+
+	<string id="st_helm_hardhat">
+		<text>강철 헬멧</text>
+	</string>
+
+	<string id="st_helm_hardhat_descr">
+		<text>아무 부착물이 없는 구식 강철 헬멧입니다. 이상 현상이나 방사능을 전혀 막을 수 없지만, 대신 총알을 튕겨낼 수 있습니다. 세력 간의 짧은 무력 분쟁 외에는 존에서 딱히 인기가 없었습니다.</text>
+	</string>
+
+	<string id="st_helm_protective">
+		<text>차단 헬멧</text>
+	</string>
+
+	<string id="st_helm_protective_descr">
+		<text>이상 현상을 차단하기 위해 밀폐형 바이저를 갖춘 경량형 헬멧입니다. 구조상으로 보아 SEVA 방호복을 만든 국방 연구소에서 제작한 제품입니다. 이상 현상 활동이 매우 빈번한 지역에서 작전을 수행할 때 군용 방호복과 함께 유용하게 활용됩니다.</text>
+	</string>
+
+	<string id="st_helm_respirator">
+		<text>방독면</text>
+	</string>
+
+	<string id="st_helm_respirator_descr">
+		<text>방사능 입자 및 독성 물질을 여과하는 데 사용하는 일반 플라스틱 및 고무 방독면입니다. 활용의 폭이 넓어 세력을 막론하고 다양한 신입 및 베테랑이 널리 사용합니다. 대신 신체 보호 기능은 제공하지 않습니다.</text>
+	</string>
+
+	<string id="st_helm_tactic">
+		<text>전술 헬멧</text>
+	</string>
+
+	<string id="st_helm_tactic_descr">
+		<text>위장이 없는 서양식 전술 헬멧 모델입니다. 어쩌다 이 존까지 들어왔는지는 알려지지 않았습니다. 이 헬멧은 분대장이 적보다 전략적 우위를 점할 수 있도록 수많은 스캐너와 위성 통신 장치를 내장하고 있습니다. 다만 헬멧 자체에는 설치되지 않고 다층 케블러 섬유 보호층 및 장갑 부품과 함께 추가되어 전자 부품을 보호합니다. 호흡 장치 및 1세대 야간 투시경이 포함됩니다.</text>
+	</string>
+
+	<string id="stalker_outfit_name">
+		<text>선라이즈 방탄복</text>
+	</string>
+
+	<string id="svoboda_heavy_outfit_name">
+		<text>자유의 수호자 방탄복</text>
+	</string>
+
+	<string id="svoboda_light_outfit_description">
+		<text>프리덤 장인들이 제작한 경량형 스토커 방탄복입니다. 호라이즌이라는 특수 용액으로 원단을 처리했는데, 이 용액은 세력에서 이상 현상 저항력을 높이기 위해 시행착오를 거쳐 만든 것입니다. 자유의 바람 방탄복은 선라이즈 방탄복과 마찬가지로 아티팩트 수납 공간을 포함하고 있습니다.</text>
+	</string>
+
+	<string id="svoboda_light_outfit_name">
+		<text>자유의 바람 방탄복</text>
+	</string>
+
+	<string id="dolg_outfit_description">
+		<text>현대식으로 개조한 듀티 방탄복입니다. 상대적으로 가벼운 방탄복에 익숙한 신입 스토커에게 더 적합합니다. PSZ 시리즈와 달리 권총 탄환 및 이상 현상에 대한 방호력 모두 뛰어납니다. 아티팩트 수납 공간을 개조할 수는 없으나, 대신 전투 지원 장치로 업그레이드할 수 있습니다.</text>
+	</string>
+
+	<string id="military_outfit_description">
+		<text>이상 현상 지역에서 돌격 작전을 수행하기 위해 설계한 현대식 군용 방탄복입니다. PSZ-12p 중형 군용 방탄복, 기본 상쇄용 복장, 이상 현상 보호용 전신복으로 이루어집니다. 이 방탄복은 착용자의 기동성을 유지하면서도 탄환 및 파편에 탁월한 방호력을 제공합니다. 대신 아티팩트 수납 공간은 존재하지 않습니다.</text>
+	</string>
+
+	<string id="mp_scientific_outfit_description">
+		<text>존에서 연구를 수행하기 위해 제작한 방호복입니다. 폐쇄형 순환 호흡 장치 및 외부 분리 코팅이 결합되어, 이상 현상에 대해 탁월한 방호력을 제공합니다. 물리적 충격에 대한 방호력이 약하기 때문에, 탄환 및 파편에 의한 피해는 막아주지 못합니다. 기본 아티팩트 운반 수납 공간이 함께 제공됩니다.</text>
+	</string>
+
+	<string id="scientific_outfit_description">
+		<text>키이우의 한 국방 연구소에서 개발한 방호복으로 수제 스토커 방호복의 탁월한 대체품이 됩니다. 내장된 방탄복은 권총탄만 막을 수 있으나, 이상 현상 및 방사능 방호 장치는 타의 추종을 불허합니다. 완전히 업그레이드할 수 있으며 2개의 아티팩트 수납 공간을 내장한 이 방호복은 노련한 스토커들이 많이 선택하는 장비입니다.</text>
+	</string>
+
+	<string id="specops_outfit_description">
+		<text>존에서 사용할 수 있도록 군용 PS5 시리즈 방탄복에 베릴륨 박막을 씌운 방탄복입니다. 방사능 고위험 지역에서 공격 작전을 진행하도록 설계한 대신, 이상 현상이 격렬한 지역에서는 비효율적입니다. 스토커들도 군인들을 통해 이 방탄복을 입수한 후, 다시 전리품으로 교환하곤 합니다. 아티팩트 수납 공간은 존재하지 않습니다.</text>
+	</string>
+
+	<string id="stalker_outfit_description">
+		<text>스토커들이 직접 제작한 방탄복으로, 두 겹으로 된 고무천 및 플렉시글라스 안감과 기본 방탄복을 결합했습니다. 방탄복의 경우 권총탄마저 제대로 막아내지 못하는 수준이지만, 낮은 비용 및 개량 가능성이 높아 많은 스토커들이 애용합니다. 아티팩트 수납 공간이 주어집니다.</text>
+	</string>
+
+	<string id="svoboda_heavy_outfit_description">
+		<text>프리덤 제작자가 만든 강화 방탄복을 장착한 스토커용 방탄복으로, 전투 및 이상 현상의 방호력 사이에 접점을 찾았습니다. 내장 방탄복의 경우 방어용 장갑판 및 10겹으로 된 케블러 섬유로 구성되어 권총 탄환을 무리 없이 막아냅니다. 또한 이상 현상을 막아내기 위해 상대적으로 비싼 소버린 화합물을 사용합니다. 1개의 아티팩트 수납 공간을 제공합니다.</text>
+	</string>
+
+	<string id="dolg_heavy_outfit_description">
+		<text>듀티 방탄복의 초기 모델인 이 방탄복은 스페츠나츠 PSZ-9 방탄복을 존에 맞게 개조한 물건입니다. 소총 탄환을 막아낼 수 있으나, 이 정도의 방호력을 제공하기 위해 무게와 부피를 늘려야 했습니다. 또한 이상 현상에 대한 방호력이 전무하다시피 합니다. 아티팩트 수납 공간을 개조할 수는 없으나, 대신 전투 지원 장치로 업그레이드할 수 있습니다.</text>
+	</string>
+
+	<string id="csky_heavy_outfit_description">
+		<text>한때 클리어 스카이 돌격대가 표준 장비로 사용했으나, 세력 자체가 사라진 이후 아무리 뛰어난 보호용 방탄복도 존의 경계선에선 안전을 보장할 수 없다는 증거로 남은 물건입니다. 권총 탄환을 막아낼 수 있으며, 이상 현상에도 괜찮은 방호력을 제공합니다. 기본 아티팩트 수납 공간이 함께 존재합니다.</text>
+	</string>
+
+	<string id="exo_outfit_description">
+		<text>군용 외골격 전투복의 실험용 표본입니다. 엄청난 비용과 설계상 결함으로 인해 대량 생산에 실패했습니다. 그럼에도 장비를 원하는 대로 들 수 있어 수요가 있으며, 그 덕분에 우크라이나 외부 지하 시설에서 소량으로 제작됩니다. 아티팩트 수납 공간이 내장되어 있습니다.</text>
+	</string>
+
+	<string id="mp_scientific_outfit_name">
+		<text>SEVA 방호복</text>
+	</string>
+
+</string_table>

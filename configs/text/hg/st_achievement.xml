@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_sp_achievement_new_1_name">
+		<text>A termйszet ajбndйkai</text>
+	</string>
+
+	<string id="st_sp_achievement_new_1_desc">
+		<text>Talбld meg a legendбs Oбzis szнvйt.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_2_name">
+		<text>Alfa predбtor</text>
+	</string>
+
+	<string id="st_sp_achievement_new_2_desc">
+		<text>300 mutбnst цltйl meg — a Zуna biztonsбgosabbб vбlt, legalбbb is egy kis idхre.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_3_name">
+		<text>Kбvйreaktor</text>
+	</string>
+
+	<string id="st_sp_achievement_new_3_desc">
+		<text>Megittбl 100 energiaitalt. a Zуna tъl nagy, hogy lassъ legyйl.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_4_name">
+		<text>Pinokkiу</text>
+	</string>
+
+	<string id="st_sp_achievement_new_4_desc">
+		<text>Hallgasd meg Flint цsszes sztorijбt.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_5_name">
+		<text>Detektortнv</text>
+	</string>
+
+	<string id="st_sp_achievement_new_5_desc">
+		<text>Minden detektor segнtsйgйvel talбlj legalбbb egy tбrgyat.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_6_name">
+		<text>Jуl idхzнtett tartalйk</text>
+	</string>
+
+	<string id="st_sp_achievement_new_6_desc">
+		<text>Mentsd meg a Kovalsky csoport цsszes orvvadбszбt a vйgsх kimenekнtйs sorбn.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_7_name">
+		<text>Minden szikla alatt</text>
+	</string>
+
+	<string id="st_sp_achievement_new_7_desc">
+		<text>Talбlj meg йs nyiss ki 100 rejtekhelyet.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_8_name">
+		<text>Szellemirtу</text>
+	</string>
+
+	<string id="st_sp_achievement_new_8_desc">
+		<text>Цlj meg hбrom poltergeistet.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_9_name">
+		<text>Elsьllyeszthetetlen</text>
+	</string>
+
+	<string id="st_sp_achievement_new_9_desc">
+		<text>Lйpj be Szkadovszkba elsх alkalommal.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_10_name">
+		<text>Bбrka nйlkьli</text>
+	</string>
+
+	<string id="st_sp_achievement_new_10_desc">
+		<text>Talбlkozz Noйval.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_11_name">
+		<text>Janovi vonat</text>
+	</string>
+
+	<string id="st_sp_achievement_new_11_desc">
+		<text>Lйpj be Janovba elsх alkalommal.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_12_name">
+		<text>Tцkйletlen tervek</text>
+	</string>
+
+	<string id="st_sp_achievement_new_12_desc">
+		<text>Kutasd бt az цsszes Stingray helikoptert.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_13_name">
+		<text>Elfelejtett utak</text>
+	</string>
+
+	<string id="st_sp_achievement_new_13_desc">
+		<text>Gyыjtsd цssze az embereket йs keljetek ъtra.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_14_name">
+		<text>Purgatуrium</text>
+	</string>
+
+	<string id="st_sp_achievement_new_14_desc">
+		<text>Lйpj be Laundromatba elsх alkalommal.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_15_name">
+		<text>62-es elem</text>
+	</string>
+
+	<string id="st_sp_achievement_new_15_desc">
+		<text>Talбld meg a jцvх fegyverйt.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_16_name">
+		<text>Kцnyvtбros</text>
+	</string>
+
+	<string id="st_sp_achievement_new_16_desc">
+		<text>Szerezd meg az цsszes dokumentumot az X-8-as laborbуl.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_17_name">
+		<text>Kimenekнtйs</text>
+	</string>
+
+	<string id="st_sp_achievement_new_17_desc">
+		<text>Fejezd be a jбtйkot egy helikopteres kimenekнtйssel.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_18_name">
+		<text>Нzig-vйrig orvvadбsz</text>
+	</string>
+
+	<string id="st_sp_achievement_new_18_desc">
+		<text>Fejezd be a jбtйkot йs dцnts a Zуnбban maradбs mellett.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_19_name">
+		<text>Mirone, te vagy az?</text>
+	</string>
+
+	<string id="st_sp_achievement_new_19_desc">
+		<text>Keresd meg Mirone-t.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_20_name">
+		<text>Rйgi ismerхsцk</text>
+	</string>
+
+	<string id="st_sp_achievement_new_20_desc">
+		<text>Talбlkozz Petruhбval, йs segнts neki kiszakadni az anomбliбbуl.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_22_name">
+		<text>Termйszeti katasztrуfa</text>
+	</string>
+
+	<string id="st_sp_achievement_new_22_desc">
+		<text>Pбrhuzamosan lбsd el a Snowflake, Flame, Stone Flower йs Moonlight egysйgeket. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_23_name">
+		<text>Ez kamu</text>
+	</string>
+
+	<string id="st_sp_achievement_new_23_desc">
+		<text>Fejezd be a jбtйkot Ъjonc nehйzsйggel. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_24_name">
+		<text>Titkos ьgynцk</text>
+	</string>
+
+	<string id="st_sp_achievement_new_24_desc">
+		<text>Fejezd be a jбtйkot Orvvadбsz nehйzsйggel. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_25_name">
+		<text>A Zуna emlйkezni fog rбnk</text>
+	</string>
+
+	<string id="st_sp_achievement_new_25_desc">
+		<text>Fejezd be a jбtйkot Veterбn vagy Mester nehйzsйggel. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_26_name">
+		<text>Visszautasнthatatlan hнvбs</text>
+	</string>
+
+	<string id="st_sp_achievement_new_26_desc">
+		<text>A S.T.A.L.K.E.R. elvйgzйse: Pripjaty hнvбsa. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_27_hint">
+		<text>pripyat_expert tipp</text>
+	</string>
+
+	<string id="st_sp_achievement_new_27_name">
+		<text>Pripjaty-szakember</text>
+	</string>
+
+	<string id="st_sp_achievement_new_27_desc">
+		<text_ps4>Szerezd meg az цsszes lehetsйges trуfeбt.</text_ps4>
+		<text>Szerezd meg az цsszes lehetsйges jutalmat.</text>
+	</string>
+
+	<string id="st_sp_achievement_state">
+		<text>Бllapot:</text>
+	</string>
+
+	<string id="st_sp_achievement_unlocked">
+		<text>Kioldva</text>
+	</string>
+
+	<string id="st_sp_achievement_locked">
+		<text>Zбrolva</text>
+	</string>
+
+	<string id="st_sp_achievement_hidden">
+		<text>Elrejtve</text>
+	</string>
+
+	<string id="st_sp_achievement_new_21_name">
+		<text>F-1 ьgynцk</text>
+	</string>
+
+	<string id="st_sp_achievement_new_21_desc">
+		<text>Цlj meg 100 ellensйget kйzigrбnбttal.</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<string_table>
+	<string id="ui_mm_language">
+        <text>Idioma</text>
+    </string>
+	<string id="ui_mm_language_sound">
+        <text>Lenguaje sonoro</text>
+    </string>
+   <string id="lang_cze">
+        <text>Čeština</text>
+    </string>
+    <string id="lang_eng">
+        <text>English</text>
+    </string>
+    <string id="lang_fra">
+        <text>Français</text>
+    </string>
+    <string id="lang_ger">
+        <text>Deutsch</text>
+    </string>
+    <string id="lang_ita">
+        <text>Italiano</text>
+    </string>
+    <string id="lang_jpn">
+        <text>日本語 </text>
+    </string>
+    <string id="lang_pol">
+        <text>Polski</text>
+    </string>
+    <string id="lang_rus">
+        <text>Русский</text>
+    </string>
+    <string id="lang_spa">
+        <text>Español</text>
+    </string>
+    <string id="lang_ukr">
+        <text>Українська</text>
+    </string>
+	<string id="lang_kor">
+		<text>한국어 </text>
+	</string>
+	<string id="lang_zh_cn">
+        <text>简体中文 </text>
+    </string>
+	<string id="lang_zh_tw">
+        <text>繁體中文 </text>
+    </string>
+	<string id="st_ui_health_sensor_utf8">
+		<text>Salud</text>
+	</string>
+
+	<string id="st_level_utf8">
+		<text>Nivel</text>
+	</string>
+
+	<string id="ui_inv_time_utf8">
+		<text>Tiempo</text>
+	</string>
+
+	<string id="zaton_utf8">
+		<text>Zaton</text>
+	</string>
+
+	<string id="jupiter_utf8">
+		<text>Área en torno a Júpiter</text>
+	</string>
+
+	<string id="jupiter_underground_utf8">
+		<text>Paso subterráneo Prypiat 1</text>
+	</string>
+
+	<string id="pripyat_utf8">
+		<text>Prypiat</text>
+	</string>
+
+	<string id="labx8_utf8">
+		<text>Laboratorio X8</text>
+	</string>
+
+	<string id="ui_mainmenu_autosave_utf8">
+		<text>Guardado automático - </text>
+	</string>
+
+	<string id="ui_mainmenu_manualsave_utf8">
+		<text>Guardado manual - </text>
+	</string>
+
+	<string id="ui_mainmenu_quicksave_utf8">
+		<text>Guardado rápido - </text>
+	</string>
+
+	<string id="ui_mmenu_new_savegame_utf8">
+		<text>Nueva partida</text>
+	</string>
+
+	<string id="ui_mmenu_no_savegames_utf8">
+		<text>No hay partidas guardadas</text>
+	</string>
+
+	<string id="st_game_saved_utf8">
+		<text>Partida guardada</text>
+	</string>
+
+	<string id="month_january_utf8">
+		<text>Enero</text>
+	</string>
+
+	<string id="month_february_utf8">
+		<text>Febrero</text>
+	</string>
+
+	<string id="month_march_utf8">
+		<text>March</text>
+	</string>
+
+	<string id="month_april_utf8">
+		<text>Abril</text>
+	</string>
+
+	<string id="month_may_utf8">
+		<text>Mayo</text>
+	</string>
+
+	<string id="month_june_utf8">
+		<text>Junio</text>
+	</string>
+
+	<string id="month_july_utf8">
+		<text>Julio</text>
+	</string>
+
+	<string id="month_august_utf8">
+		<text>Agosto</text>
+	</string>
+
+	<string id="month_september_utf8">
+		<text>Septiembre</text>
+	</string>
+
+	<string id="month_october_utf8">
+		<text>Octubre</text>
+	</string>
+
+	<string id="month_november_utf8">
+		<text>Noviembre</text>
+	</string>
+
+	<string id="month_december_utf8">
+		<text>Diciembre</text>
+	</string>
+
+	<string id="st_save_uni_travel_generic">
+		<text>moviendo en una misma zona</text>
+	</string>
+
+	<string id="st_save_uni_travel_zat_to_jup">
+		<text>moviendo de Zaton a Yaniv</text>
+	</string>
+
+	<string id="st_save_uni_travel_zat_to_pri">
+		<text>moviendo de Zaton a Prypiat</text>
+	</string>
+
+	<string id="st_save_uni_travel_jup_to_zat">
+		<text>moviendo de Yaniv a Zaton</text>
+	</string>
+
+	<string id="st_save_uni_travel_jup_to_pri">
+		<text>moviendo de Yaniv a Prypiat</text>
+	</string>
+
+	<string id="st_save_uni_travel_pri_to_zat">
+		<text>moviendo de Prypiat a Zaton</text>
+	</string>
+
+	<string id="st_save_uni_travel_pri_to_jup">
+		<text>moviendo de Prypiat a Yaniv</text>
+	</string>
+
+	<string id="st_save_uni_pri_to_labx8">
+		<text>moviendo de Prypiat a X8</text>
+	</string>
+
+	<string id="st_save_uni_labx8_to_pri">
+		<text>moviendo de X8 a Prypiat</text>
+	</string>
+
+	<string id="st_save_uni_surge_start">
+		<text>emisión</text>
+	</string>
+
+	<string id="st_save_zat_a1_game_start">
+		<text>inicio del juego</text>
+	</string>
+
+	<string id="st_save_zat_a2_reached_skadovsk">
+		<text>llegada a Skadovsk</text>
+	</string>
+
+	<string id="st_save_jup_b9_searched_heli_1">
+		<text>Pez Raya 1 inspeccionado</text>
+	</string>
+
+	<string id="st_save_zat_b100_searched_heli_2">
+		<text>Pez Raya 2 inspeccionado</text>
+	</string>
+
+	<string id="st_save_zat_b28_searched_heli_3">
+		<text>Pez Raya 3 inspeccionado</text>
+	</string>
+
+	<string id="st_save_jup_b8_searched_heli_4">
+		<text>Pez Raya 4 inspeccionado</text>
+	</string>
+
+	<string id="st_save_zat_b101_searched_heli_5">
+		<text>Pez Raya 5 inspeccionado</text>
+	</string>
+
+	<string id="st_save_zat_b18_noah_showed_teleport">
+		<text>llegada a la meseta</text>
+	</string>
+
+	<string id="st_save_jup_b217_arrived_to_jup">
+		<text>llegada a Yaniv</text>
+	</string>
+
+	<string id="st_save_jup_a9_got_underpass_docs">
+		<text>carretera a Prypiat encontrada</text>
+	</string>
+
+	<string id="st_save_jup_b15_drunk_with_zulu">
+		<text>Zulu se ha unido al escuadrón</text>
+	</string>
+
+	<string id="st_save_jup_a10_gonna_return_debt">
+		<text>Deuda de Vano saldada</text>
+	</string>
+
+	<string id="st_save_jup_b218_vano_in_squad">
+		<text>Vano se ha unido al escuadrón</text>
+	</string>
+
+	<string id="st_save_jup_b206_got_anomalous_plant">
+		<text>planta anómala recogida</text>
+	</string>
+
+	<string id="st_save_jup_b218_sokolov_in_squad">
+		<text>Sokolov se ha unido al escuadrón</text>
+	</string>
+
+	<string id="st_save_jup_b218_strider_in_squad">
+		<text>Strider se ha unido al escuadrón</text>
+	</string>
+
+	<string id="st_save_jup_b218_travel_jup_to_pas">
+		<text>escuadrón formado</text>
+	</string>
+
+	<string id="st_save_pas_b400_underpass_start">
+		<text>llegada al paso subterráneo</text>
+	</string>
+
+	<string id="st_save_uni_travel_pas_to_pri">
+		<text>llegada a Prypiat</text>
+	</string>
+
+	<string id="st_save_pri_a16_arrived_to_pri">
+		<text>fuerzas militares localizadas</text>
+	</string>
+
+	<string id="st_save_pri_a17_hospital_start">
+		<text>arma no identificada capturada</text>
+	</string>
+
+	<string id="st_save_pri_a20_found_dead_recon">
+		<text>escuadrón de reconocimiento encontrado</text>
+	</string>
+
+	<string id="st_save_pri_a18_met_reinforcement">
+		<text>los refuerzos han llegado</text>
+	</string>
+
+	<string id="st_save_pri_a18_searched_antenna">
+		<text>"antena" inspeccionada</text>
+	</string>
+
+	<string id="st_save_pri_a21_approached_mad_sentry">
+		<text>centinela desaparecido encontrado</text>
+	</string>
+
+	<string id="st_save_pri_a21_killed_controller">
+		<text>controlador cercano al centinela asesinado</text>
+	</string>
+
+	<string id="st_save_zat_a23_entered_test_center">
+		<text>taller de pruebas alcanzado</text>
+	</string>
+
+	<string id="st_save_zat_a23_got_gauss_docs">
+		<text>documentación de fusil Gauss encontrada</text>
+	</string>
+
+	<string id="st_save_pri_a22_found_dead_squad">
+		<text>cadáver de soldado encontrado</text>
+	</string>
+
+	<string id="st_save_pri_a25_gonna_place_explosive">
+		<text>entrada al jardín de infancia</text>
+	</string>
+
+	<string id="st_save_pri_a25_freed_medic">
+		<text>médico militar rescatado</text>
+	</string>
+
+	<string id="st_save_pri_a28_talked_with_ssu">
+		<text>comunicaciones con el cuartel general establecidas</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacutaion_start">
+		<text>Evacuación en Prypiat iniciada</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacuation_end">
+		<text>helicópteros de evacuación alcanzados</text>
+	</string>
+
+	<string id="st_save_uni_zone_to_reality">
+		<text>evacuación completada</text>
+	</string>
+
+	<string id="st_save_jup_b209_placed_mutant_scanner">
+		<text>detector de mutantes</text>
+	</string>
+
+	<string id="st_save_jup_a12_gave_artefact_for_hostage">
+		<text>rescate de rehén pagado</text>
+	</string>
+
+	<string id="st_save_jup_a12_met_with_liberators">
+		<text>rehén liberado</text>
+	</string>
+
+	<string id="st_save_jup_b6_arrived_to_ash_heap">
+		<text>medidas de la anomalía del Cenizal</text>
+	</string>
+
+	<string id="st_save_jup_b6_arrived_to_fen">
+		<text>Medidas de anomalías de Plavni</text>
+	</string>
+
+	<string id="st_save_zat_b38_met_with_grouse">
+		<text>guarida de chupasangres</text>
+	</string>
+
+	<string id="st_save_jup_b19_arrived_to_kopachy">
+		<text>enviado a Kopachi</text>
+	</string>
+
+	<string id="st_save_zat_b40_warned_by_mercs">
+		<text>acercamiento a la planta de procesamiento de basura</text>
+	</string>
+
+	<string id="st_save_zat_b7_met_with_robbers">
+		<text>stalker alcanzado</text>
+	</string>
+
+	<string id="st_save_zat_b33_got_container">
+		<text>contenedor hallado en escondite</text>
+	</string>
+
+	<string id="st_save_zat_b106_arrived_to_chimera_lair">
+		<text>caza de la quimera</text>
+	</string>
+
+	<string id="st_save_jup_b16_passed_labyrinth">
+		<text>Oasis encontrado</text>
+	</string>
+
+	<string id="st_save_pri_b35_ready_to_snipe">
+		<text>Operación Un disparo iniciada</text>
+	</string>
+
+	<string id="st_save_jup_b1_entered_railroad_tunnel">
+		<text>búsqueda del origen de las emisiones psíquicas</text>
+	</string>
+
+	<string id="st_save_jup_b47_got_admin_docs">
+		<text>documentos administrativos</text>
+	</string>
+
+	<string id="st_save_zat_b103_warned_by_mercs">
+		<text>acercamiento al taller de la subestación</text>
+	</string>
+
+	<string id="st_save_zat_b5_met_with_others">
+		<text>trato junto al puesto de guardabosques</text>
+	</string>
+
+	<string id="st_save_jup_b207_arrived_to_duty_depot">
+		<text>Almacén de Deber</text>
+	</string>
+
+	<string id="st_save_zat_b14_got_altered_wheel">
+		<text>origen del extraño brillo encontrado</text>
+	</string>
+
+	<string id="st_save_pri_b301_arrived_to_help_zulu">
+		<text>Zulu encontrado</text>
+	</string>
+
+	<string id="st_save_zat_b42_arrived_to_controler_lair">
+		<text>cueva peligrosa</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacuation_heli">
+		<text>despegue de helicóptero de evacuación</text>
+	</string>
+
+	<string id="ui_modio_nomemory_utf8">
+		<text>¡No se ha podido instalar la modificación! Falta espacio libre</text>
+	</string>
+	
+	<string id="ui_mm_modio_error">
+		<text>Error de Mod.io, código:\n</text>
+	</string>
+	<string id="ui_mm_modio_error_space">
+		<text>No hay suficiente memoria para instalar la modificación:\n</text>
+	</string>
+	<string id="ui_mm_modio_error_video">
+		<text>ˇAviso! Las modificaciones instaladas consumen mucha memoria gráfica. El juego puede ser inestable.</text>
+	</string>
+
+</string_table>

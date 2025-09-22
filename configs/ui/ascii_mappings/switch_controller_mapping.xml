@@ -1,0 +1,53 @@
+<w>
+<!-- x=[0-9a-zA-Z\"\=\s]+/> -->
+		<!-- for these ascii should match GamepadButton enum in c++ -->
+		<mapping ascii="65" texture_id="switch_controller_lt"/>
+		<mapping ascii="66" texture_id="switch_controller_rt"/>
+		<mapping ascii="67" texture_id="switch_controller_lb"/>
+		<mapping ascii="68" texture_id="switch_controller_rb"/>
+		<mapping ascii="69" texture_id="switch_controller_lsclick"/>
+		<mapping ascii="70" texture_id="switch_controller_rsclick"/>
+		<mapping ascii="71" texture_id="switch_controller_dpadl"/>
+		<mapping ascii="72" texture_id="switch_controller_dpadr"/>
+		<mapping ascii="73" texture_id="switch_controller_dpadu"/>
+		<mapping ascii="74" texture_id="switch_controller_dpadd"/>
+		<mapping ascii="75" texture_id="switch_controller_a"/>
+		<mapping ascii="76" texture_id="switch_controller_b"/>
+		<mapping ascii="77" texture_id="switch_controller_x"/>
+		<mapping ascii="78" texture_id="switch_controller_y"/>
+		<mapping ascii="79" texture_id="switch_controller_lmenu"/>
+		<mapping ascii="80" texture_id="switch_controller_rmenu"/>
+		<mapping ascii="81" texture_id="switch_controller_tpad"/>
+		<mapping ascii="82" texture_id="switch_controller_lsu"/>
+		<mapping ascii="83" texture_id="switch_controller_lsd"/>
+		<mapping ascii="84" texture_id="switch_controller_lsl"/>
+		<mapping ascii="85" texture_id="switch_controller_lsr"/>
+		<mapping ascii="86" texture_id="switch_controller_lsl"/>
+		<mapping ascii="87" texture_id="switch_controller_lsr"/>
+		<mapping ascii="88" texture_id="switch_controller_lsu"/>
+		<mapping ascii="89" texture_id="switch_controller_lsd"/>
+		<mapping ascii="90" texture_id="switch_controller_rsu"/>
+		<mapping ascii="91" texture_id="switch_controller_rsd"/>
+		<mapping ascii="92" texture_id="switch_controller_rsl"/>
+		<mapping ascii="93" texture_id="switch_controller_rsr"/>
+		<mapping ascii="94" texture_id="switch_controller_rsl"/>
+		<mapping ascii="95" texture_id="switch_controller_rsr"/>
+		<mapping ascii="96" texture_id="switch_controller_rsu"/>
+		<mapping ascii="97" texture_id="switch_controller_rsd"/>
+		
+		<!-- these should not match any particular enum, but 
+		should match ids used in text strings; For example ps4_controller is atlasid and dpad is icon id -->
+		<mapping ascii="150" texture_id="switch_controller_dpad"/>
+		<mapping ascii="151" texture_id="switch_controller_dpadh"/>
+		<mapping ascii="152" texture_id="switch_controller_dpadv"/>
+		<mapping ascii="153" texture_id="switch_controller_ls"/>
+		<mapping ascii="154" texture_id="switch_controller_lsh"/>
+		<mapping ascii="155" texture_id="switch_controller_lsv"/>
+		<mapping ascii="156" texture_id="switch_controller_rs"/>
+		<mapping ascii="157" texture_id="switch_controller_rsh"/>
+		<mapping ascii="158" texture_id="switch_controller_rsv"/>
+		<mapping ascii="159" texture_id="switch_controller_holda"/>
+		<mapping ascii="160" texture_id="switch_controller_holdb"/>
+		<mapping ascii="161" texture_id="switch_controller_holdx"/>
+		<mapping ascii="162" texture_id="switch_controller_holdy"/>
+</w>

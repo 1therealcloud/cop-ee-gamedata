@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<string_table>
+	<string id="ui_mm_language">
+        <text>Sprache</text>
+    </string>
+	<string id="ui_mm_language_sound">
+        <text>Klangsprache</text>
+    </string>
+   <string id="lang_cze">
+        <text>Čeština</text>
+    </string>
+    <string id="lang_eng">
+        <text>English</text>
+    </string>
+    <string id="lang_fra">
+        <text>Français</text>
+    </string>
+    <string id="lang_ger">
+        <text>Deutsch</text>
+    </string>
+    <string id="lang_ita">
+        <text>Italiano</text>
+    </string>
+    <string id="lang_jpn">
+        <text>日本語 </text>
+    </string>
+    <string id="lang_pol">
+        <text>Polski</text>
+    </string>
+    <string id="lang_rus">
+        <text>Русский</text>
+    </string>
+    <string id="lang_spa">
+        <text>Español</text>
+    </string>
+    <string id="lang_ukr">
+        <text>Українська</text>
+    </string>
+	<string id="lang_kor">
+		<text>한국어 </text>
+	</string>
+	<string id="lang_zh_cn">
+		<text>简体中文 </text>
+	</string>
+	<string id="lang_zh_tw">
+		<text>繁體中文 </text>
+	</string>
+	<string id="st_ui_health_sensor_utf8">
+		<text>Gesundheit</text>
+	</string>
+
+	<string id="st_level_utf8">
+		<text>Stufe</text>
+	</string>
+
+	<string id="ui_inv_time_utf8">
+		<text>Zeit</text>
+	</string>
+
+	<string id="zaton_utf8">
+		<text>Zaton</text>
+	</string>
+
+	<string id="jupiter_utf8">
+		<text>Die Gegend um die Jupiter-Anlage</text>
+	</string>
+
+	<string id="jupiter_underground_utf8">
+		<text>Unterführung "Prypiat 1"</text>
+	</string>
+
+	<string id="pripyat_utf8">
+		<text>Prypiat</text>
+	</string>
+
+	<string id="labx8_utf8">
+		<text>Labor X8</text>
+	</string>
+
+	<string id="ui_mainmenu_autosave_utf8">
+		<text>Automatisches Speichern - </text>
+	</string>
+
+	<string id="ui_mainmenu_manualsave_utf8">
+		<text>Manuelles Speichern - </text>
+	</string>
+
+	<string id="ui_mainmenu_quicksave_utf8">
+		<text>Schnellspeichern - </text>
+	</string>
+
+	<string id="ui_mmenu_new_savegame_utf8">
+		<text>Neues gespeichertes Spiel</text>
+	</string>
+
+	<string id="ui_mmenu_no_savegames_utf8">
+		<text>Keine gespeicherten Spiele</text>
+	</string>
+
+	<string id="st_game_saved_utf8">
+		<text>Spiel gespeichert</text>
+	</string>
+
+	<string id="month_january_utf8">
+		<text>Januar</text>
+	</string>
+
+	<string id="month_february_utf8">
+		<text>Februar</text>
+	</string>
+
+	<string id="month_march_utf8">
+		<text>März</text>
+	</string>
+
+	<string id="month_april_utf8">
+		<text>April</text>
+	</string>
+
+	<string id="month_may_utf8">
+		<text>Mai</text>
+	</string>
+
+	<string id="month_june_utf8">
+		<text>Juni</text>
+	</string>
+
+	<string id="month_july_utf8">
+		<text>Juli</text>
+	</string>
+
+	<string id="month_august_utf8">
+		<text>August</text>
+	</string>
+
+	<string id="month_september_utf8">
+		<text>September</text>
+	</string>
+
+	<string id="month_october_utf8">
+		<text>Oktober</text>
+	</string>
+
+	<string id="month_november_utf8">
+		<text>November</text>
+	</string>
+
+	<string id="month_december_utf8">
+		<text>Dezember</text>
+	</string>
+
+	<string id="st_save_uni_travel_generic">
+		<text>innerhalb eines Bereichs bewegen</text>
+	</string>
+
+	<string id="st_save_uni_travel_zat_to_jup">
+		<text>von Zaton nach Janiw</text>
+	</string>
+
+	<string id="st_save_uni_travel_zat_to_pri">
+		<text>von Zaton nach Prypiat</text>
+	</string>
+
+	<string id="st_save_uni_travel_jup_to_zat">
+		<text>von Janiw nach Zaton</text>
+	</string>
+
+	<string id="st_save_uni_travel_jup_to_pri">
+		<text>von Janiw nach Prypiat</text>
+	</string>
+
+	<string id="st_save_uni_travel_pri_to_zat">
+		<text>von Prypiat nach Zaton</text>
+	</string>
+
+	<string id="st_save_uni_travel_pri_to_jup">
+		<text>von Prypiat nach Janiw</text>
+	</string>
+
+	<string id="st_save_uni_pri_to_labx8">
+		<text>von Prypiat nach X8</text>
+	</string>
+
+	<string id="st_save_uni_labx8_to_pri">
+		<text>von X8 nach Prypiat</text>
+	</string>
+
+	<string id="st_save_uni_surge_start">
+		<text>Emission</text>
+	</string>
+
+	<string id="st_save_zat_a1_game_start">
+		<text>Beginn des Spiels</text>
+	</string>
+
+	<string id="st_save_zat_a2_reached_skadovsk">
+		<text>Ankunft an der Skadovsk</text>
+	</string>
+
+	<string id="st_save_jup_b9_searched_heli_1">
+		<text>Stingray 1 untersucht</text>
+	</string>
+
+	<string id="st_save_zat_b100_searched_heli_2">
+		<text>Stingray 2 untersucht</text>
+	</string>
+
+	<string id="st_save_zat_b28_searched_heli_3">
+		<text>Stingray 3 untersucht</text>
+	</string>
+
+	<string id="st_save_jup_b8_searched_heli_4">
+		<text>Stingray 4 untersucht</text>
+	</string>
+
+	<string id="st_save_zat_b101_searched_heli_5">
+		<text>Stingray 5 untersucht</text>
+	</string>
+
+	<string id="st_save_zat_b18_noah_showed_teleport">
+		<text>Zum Plateau</text>
+	</string>
+
+	<string id="st_save_jup_b217_arrived_to_jup">
+		<text>Ankunft in Janiw</text>
+	</string>
+
+	<string id="st_save_jup_a9_got_underpass_docs">
+		<text>Straße nach Prypiat gefunden</text>
+	</string>
+
+	<string id="st_save_jup_b15_drunk_with_zulu">
+		<text>Zulu schließt sich dem Trupp an</text>
+	</string>
+
+	<string id="st_save_jup_a10_gonna_return_debt">
+		<text>Vanos Schulden getilgt</text>
+	</string>
+
+	<string id="st_save_jup_b218_vano_in_squad">
+		<text>Vano schließt sich dem Trupp an</text>
+	</string>
+
+	<string id="st_save_jup_b206_got_anomalous_plant">
+		<text>anomale Pflanze gesammelt</text>
+	</string>
+
+	<string id="st_save_jup_b218_sokolov_in_squad">
+		<text>Sokolov schließt sich dem Trupp an</text>
+	</string>
+
+	<string id="st_save_jup_b218_strider_in_squad">
+		<text>Strider schließt sich dem Trupp an</text>
+	</string>
+
+	<string id="st_save_jup_b218_travel_jup_to_pas">
+		<text>Trupp versammelt</text>
+	</string>
+
+	<string id="st_save_pas_b400_underpass_start">
+		<text>Ankunft in der Unterführung</text>
+	</string>
+
+	<string id="st_save_uni_travel_pas_to_pri">
+		<text>Ankunft in Prypiat</text>
+	</string>
+
+	<string id="st_save_pri_a16_arrived_to_pri">
+		<text>Einheiten des Militärs entdeckt</text>
+	</string>
+
+	<string id="st_save_pri_a17_hospital_start">
+		<text>nicht identifizierte Waffe erbeutet</text>
+	</string>
+
+	<string id="st_save_pri_a20_found_dead_recon">
+		<text>Spähtrupp gefunden</text>
+	</string>
+
+	<string id="st_save_pri_a18_met_reinforcement">
+		<text>Verstärkung eingetroffen</text>
+	</string>
+
+	<string id="st_save_pri_a18_searched_antenna">
+		<text>„Antenne“ untersucht</text>
+	</string>
+
+	<string id="st_save_pri_a21_approached_mad_sentry">
+		<text>Vermisster Wächter gefunden</text>
+	</string>
+
+	<string id="st_save_pri_a21_killed_controller">
+		<text>Aufseher unweit des Wächters getötet</text>
+	</string>
+
+	<string id="st_save_zat_a23_entered_test_center">
+		<text>Testwerkstatt betreten</text>
+	</string>
+
+	<string id="st_save_zat_a23_got_gauss_docs">
+		<text>Gaußgewehr-Handbuch gefunden</text>
+	</string>
+
+	<string id="st_save_pri_a22_found_dead_squad">
+		<text>toter Kämpfer gefunden</text>
+	</string>
+
+	<string id="st_save_pri_a25_gonna_place_explosive">
+		<text>Eingang zum Kindergarten</text>
+	</string>
+
+	<string id="st_save_pri_a25_freed_medic">
+		<text>Sanitäter des Militärs gerettet</text>
+	</string>
+
+	<string id="st_save_pri_a28_talked_with_ssu">
+		<text>Kommunikation mit dem HQ hergestellt</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacutaion_start">
+		<text>Evakuierung von Prypiat eingeleitet</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacuation_end">
+		<text>Evakuierungshubschrauber erreicht</text>
+	</string>
+
+	<string id="st_save_uni_zone_to_reality">
+		<text>Evakuierung abgeschlossen</text>
+	</string>
+
+	<string id="st_save_jup_b209_placed_mutant_scanner">
+		<text>Mutanten-Detektor</text>
+	</string>
+
+	<string id="st_save_jup_a12_gave_artefact_for_hostage">
+		<text>Lösegeld für Geisel bezahlt</text>
+	</string>
+
+	<string id="st_save_jup_a12_met_with_liberators">
+		<text>Geisel befreit</text>
+	</string>
+
+	<string id="st_save_jup_b6_arrived_to_ash_heap">
+		<text>Messungen der Anomalie der Achsehalde</text>
+	</string>
+
+	<string id="st_save_jup_b6_arrived_to_fen">
+		<text>Messungen der Plavni-Anomalie</text>
+	</string>
+
+	<string id="st_save_zat_b38_met_with_grouse">
+		<text>Blutsaugerhöhle</text>
+	</string>
+
+	<string id="st_save_jup_b19_arrived_to_kopachy">
+		<text>nach Kopatschi geschickt</text>
+	</string>
+
+	<string id="st_save_zat_b40_warned_by_mercs">
+		<text>Zugang zur Abfallverwertungsanlage</text>
+	</string>
+
+	<string id="st_save_zat_b7_met_with_robbers">
+		<text>Stalker getroffen</text>
+	</string>
+
+	<string id="st_save_zat_b33_got_container">
+		<text>Behälter im Versteck gefunden</text>
+	</string>
+
+	<string id="st_save_zat_b106_arrived_to_chimera_lair">
+		<text>Jagd auf die Chimäre</text>
+	</string>
+
+	<string id="st_save_jup_b16_passed_labyrinth">
+		<text>Oase gefunden</text>
+	</string>
+
+	<string id="st_save_pri_b35_ready_to_snipe">
+		<text>Operation One Shot eingeleitet</text>
+	</string>
+
+	<string id="st_save_jup_b1_entered_railroad_tunnel">
+		<text>Suche nach der Quelle der Psy-Emission</text>
+	</string>
+
+	<string id="st_save_jup_b47_got_admin_docs">
+		<text>Verwaltungsdokumente</text>
+	</string>
+
+	<string id="st_save_zat_b103_warned_by_mercs">
+		<text>Zugang zur Umspannwerk-Wertstatt</text>
+	</string>
+
+	<string id="st_save_zat_b5_met_with_others">
+		<text>Deal an der Rangerstation</text>
+	</string>
+
+	<string id="st_save_jup_b207_arrived_to_duty_depot">
+		<text>Lagerdienst</text>
+	</string>
+
+	<string id="st_save_zat_b14_got_altered_wheel">
+		<text>Quelle eines seltsamen Glühens gefunden</text>
+	</string>
+
+	<string id="st_save_pri_b301_arrived_to_help_zulu">
+		<text>Zulu gefunden</text>
+	</string>
+
+	<string id="st_save_zat_b42_arrived_to_controler_lair">
+		<text>gefährliche Höhle</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacuation_heli">
+		<text>Start des Evakuierungshubschraubers</text>
+	</string>
+
+	<string id="ui_modio_nomemory_utf8">
+		<text>Mod kann nicht installiert werden! Nicht genug freier Speicherplatz</text>
+	</string>
+	
+	<string id="ui_mm_modio_error">
+		<text>Mod.io-Fehler entdeckt in Code:\n</text>
+	</string>
+	<string id="ui_mm_modio_error_space">
+		<text>Zu wenig Arbeitsspeicher für die Installation von Modifikation:\n</text>
+	</string>
+	<string id="ui_mm_modio_error_video">
+		<text>Warnung! Die installierten Modifikationen benötigen viel Videospeicher. Dies kann das Spiel destabilisieren</text>
+	</string>
+
+</string_table>

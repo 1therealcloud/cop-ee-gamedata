@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ui_mm_vertical_sense">
+		<text>Vertikбlnн citlivost</text>
+	</string>
+	<string id="ui_mm_horizontal_sense">
+		<text>Horizontбlnн citlivost</text>
+	</string>
+	
+	<string id="st_move_to_bag_all">
+		<text>pшesunout vљe do batohu</text>
+	</string>
+	<string id="st_move_to_dead_body">
+		<text>odevzdat</text>
+	</string>
+	<string id="st_move_to_dead_body_all">
+		<text>odevzdat vљe</text>
+	</string>
+
+	<string id="st_move_to_offer">
+		<text>nabнdnout</text>
+	</string>
+	<string id="st_move_to_offer_amount">
+		<text>nabнdnout mnoћstvн</text>
+	</string>
+	<string id="st_move_to_offer_all">
+		<text>nabнdnout vљe</text>
+	</string>
+	<string id="st_remove_from_offer">
+		<text>odebrat</text>
+	</string>
+	<string id="st_remove_from_offer_amount">
+		<text>odebrat mnoћstvн</text>
+	</string>
+	<string id="st_remove_from_offer_all">
+		<text>odebrat vљe</text>
+	</string>
+
+
+	<string id="st_move_to_cart">
+		<text>vybrat</text>
+	</string>
+	<string id="st_move_to_cart_amount">
+		<text>vybrat mnoћstvн</text>
+	</string>
+	<string id="st_move_to_cart_all">
+		<text>vybrat vљe</text>
+	</string>
+	<string id="st_remove_from_cart">
+		<text>odebrat</text>
+	</string>
+	<string id="st_remove_from_cart_amount">
+		<text>odebrat mnoћstvн</text>
+	</string>
+	<string id="st_remove_from_cart_all">
+		<text>odebrat vљe</text>
+	</string>
+	
+	<string id="st_upgrade">
+		<text>vylepљit</text>
+	</string>
+	<string id="st_repair">
+		<text>opravit</text>
+	</string>
+	
+	<string id="ui_mmenu_no_savegames">
+		<text>Ћбdnй pozice</text>
+	</string>
+	<string id="ui_mmenu_new_savegame">
+		<text>Novб pozice</text>
+	</string>
+
+	<string id="ui_mm_controller_type">
+    	<text>Typ ovladaиe</text>
+		<text_ps5>Metoda vstupu</text_ps5>
+		<text_xbox>Metoda vstupu</text_xbox>
+  	</string>
+	<string id="ui_mm_controller_icon_type">
+		<text>Typ zobrazenн ikon ovladaиe</text>
+	</string>
+  	<string id="controller">
+    	<text>Ovladaи</text>
+		<text_ps5>Bezdrбtovэ ovladaи DualSense®</text_ps5>
+  	</string>
+  	<string id="kbdmouse">
+    	<text>Klбvesnice a myљ</text>
+  	</string>
+	
+	<!-- INPUT LEGENDS -->
+	<!-- GENERAL -->
+	<string id="legend_ui_navigation_v">
+		<text>$$ICON$controller$lsv$$/$$ICON$controller$dpadv$$ Pohyb</text>
+	</string>
+	<string id="legend_ui_navigation">
+		<text>$$ICON$controller$ls$$/$$ICON$controller$dpad$$ Pohyb</text>
+	</string>
+	<string id="legend_ui_tabs">
+		<text>$$ACTION_UI_TAB_LEFT$$/$$ACTION_UI_TAB_RIGHT$$ Zбloћky</text>
+	</string>
+	<string id="legend_ui_back">
+		<text>$$ACTION_UI_BACK$$ Zpмt</text>
+	</string>
+	<string id="legend_ui_advanced">
+		<text>$$ACTION_UI_ACTION_2$$ Pokroиilй nastavenн grafiky</text>
+	</string>
+	<string id="legend_ui_basic">
+		<text>$$ACTION_UI_ACTION_2$$ Zбkladnн nastavenн grafiky</text>
+	</string>
+	
+	<!-- MAIN MENU -->
+	<string id="legend_ui_mmenu_select">
+		<text>$$ACTION_UI_ACCEPT$$ Vybrat poloћku nabнdky</text>
+	</string>
+	<string id="legend_ui_mmenu_select_difficulty">
+		<text>$$ACTION_UI_ACCEPT$$ Vybrat obtнћnost</text>
+	</string>
+	
+	<string id="legend_ui_savegame_load">
+		<text>$$ACTION_UI_ACCEPT$$ Naинst</text>
+	</string>
+	<string id="legend_ui_savegame_delete">
+		<text>$$ACTION_UI_ACTION_1$$ Smazat</text>
+	</string>
+	<string id="legend_ui_savegame_save">
+		<text>$$ACTION_UI_ACCEPT$$ Uloћit</text>
+	</string>
+	
+	<string id="legend_ui_options_save">
+		<text>$$ACTION_UI_ACTION_1$$ Pшijmout</text>
+	</string>	
+	<string id="legend_ui_options_toggle">
+		<text>$$ACTION_UI_ACCEPT$$ Pшepnout</text>
+	</string>
+	<string id="legend_ui_options_tune_item">
+		<text>$$ICON$controller$lsh$$/$$ICON$controller$dpadh$$ Naladit</text>
+	</string>
+	
+	<!-- INGAME UIs -->
+	
+	<!-- INVENTORY -->
+	<string id="legend_ui_scroll_info">
+		<text>$$ICON$controller$lt$$/$$ICON$controller$rt$$ Listovбnн informacemi</text>
+	</string>
+	<string id="legend_ui_actions">
+		<text>$$ACTION_UI_CONTEXT_MENU$$ Akce</text>
+	</string>
+	<string id="legend_ui_use">
+		<text>$$ACTION_UI_ACCEPT$$ Pouћнt</text>
+	</string>
+	<string id="legend_ui_info">
+		<text>$$ACTION_UI_HINT$$ Informace</text>
+	</string>
+
+	<string id="legend_ui_add10">
+		<text>$$ACTION_UI_TAB_LEFT$$/$$ACTION_UI_TAB_RIGHT$$ +/- 10</text>
+	</string>
+
+	<string id="legend_ui_add100">
+		<text>$$ACTION_PDA_TASKS_MAP_ZOOM_IN$$/$$ACTION_PDA_TASKS_MAP_ZOOM_OUT$$ +/- 100</text>
+	</string>
+	
+	<string id="legend_ui_selector">
+		<text>$$ICON$controller$ls$$/$$ICON$controller$dpad$$ Vэbмr</text>
+	</string>
+	<string id="legend_ui_area_selector">
+		<text>$$ICON$controller$rs$$ Zmмnit oblast</text>
+	</string>
+	
+	<string id="legend_ui_take_all">
+		<text>$$ACTION_actormenu_take_all$$ Vzнt vљe</text>
+	</string>
+	<string id="legend_ui_trade">
+		<text>$$ACTION_actormenu_trade$$ Obchodovat</text>
+	</string>
+	<string id="legend_ui_propbox_select">
+		<text>$$ACTION_UI_ACCEPT$$ Vybrat</text>
+	</string>
+	<string id="legend_ui_repair">
+		<text>$$ACTION_actormenu_action$$ Opravit</text>
+	</string>
+	<string id="legend_ui_upgrade">
+		<text>$$ACTION_UI_ACCEPT$$ Vylepљit</text>
+	</string>
+	
+	<!-- wheel menu -->
+	<string id="legend_ui_wheelmenu_select">
+		<text>$$ICON$controller$lb$$ + $$ICON$controller$rs$$ Vybrat sektor</text>
+	</string>
+	<string id="legend_ui_drop_weapon">
+		<text>$$ACTION_DROP$$ Zahodit zbraт</text>
+	</string>
+	<string id="legend_ui_night_vision">
+		<text>$$ACTION_NIGHT_VISION$$ Noиnн vidмnн</text>
+	</string>
+	<string id="legend_ui_wpn_func">
+		<text>$$ACTION_wpn_func$$ Dodateиnб zbraт</text>
+	</string>
+	<string id="legend_ui_fire_mode">
+		<text>$$ACTION_wpn_firemode_next$$ Kadence</text>
+	</string>
+	<string id="legend_ui_ammo_next">
+		<text>$$ACTION_wpn_next$$ Druh munice</text>
+	</string>
+	
+	<!-- talk dialog -->
+	<string id="legend_ui_talk_replies">
+		<text>$$ICON$controller$lsv$$/$$ICON$controller$dpadv$$ Vybrat</text>
+	</string>
+	<string id="legend_ui_talk_reply">
+		<text>$$ACTION_UI_ACCEPT$$ Promluvit si</text>
+	</string>
+	<string id="legend_ui_talk_log">
+		<text>$$ICON$controller$rsv$$ Zбznam</text>
+	</string>
+	<string id="legend_ui_talk_open_trade">
+		<text>$$ACTION_talk_trade_upgrade$$ Obchodovat</text>
+	</string>
+
+	<string id="legend_ui_talk_reply_PC">
+		<text>Vybrat ($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ Vybrat </text_c>
+	</string>
+	<string id="legend_ui_talk_select">
+		<text>Pohyb ($$ACTION_FORWARD$$)/($$ACTION_BACK$$)</text>
+	</string>
+	
+	<!-- PDA -->
+	<string id="legend_ui_tasks_show_on_map">
+		<text>$$ACTION_pda_tasks_show_on_map$$ Zobrazit na mapм</text>
+	</string>
+	<string id="legend_ui_tasks_track_on_map">
+		<text>$$ACTION_pda_tasks_track_on_map$$ Sledovat</text>
+	</string>
+	<string id="legend_ui_tasks_map_move">
+		<text>$$ICON$controller$rs$$ Pohyb kurzoru</text>
+	</string>
+	<string id="legend_ui_tasks_map_show_me">
+		<text>$$ACTION_pda_tasks_map_show_me$$ Aktuбlnн lokace</text>
+	</string>
+	<string id="legend_ui_tasks_map_zoom">
+		<text>$$ACTION_pda_tasks_map_zoom_out$$/$$ACTION_pda_tasks_map_zoom_in$$ Ъroveт pшiblнћenн</text>
+	</string>
+	<string id="legend_ui_tasks_filter_next">
+		<text>$$ACTION_pda_tasks_subtab_right$$ Filtry ъkolщ</text>
+	</string>
+	<string id="legend_ui_tasks_filter_toggle">
+		<text>$$ACTION_pda_tasks_filter_toggle$$ Pшepnout filtry</text>
+	</string>
+	<string id="legend_ui_pda_scroll_info">
+		<text>$$ICON$controller$rs$$ Listovбnн</text>
+	</string>
+	<string id="legend_ui_pda_show_mission">
+		<text>$$ACTION_pda_tasks_toggle_list$$ Zobrazit mise</text>
+	</string>
+	<string id="legend_ui_pda_hide_mission">
+		<text>$$ACTION_pda_tasks_toggle_list$$ Skrэt mise</text>
+	</string>
+	<string id="legend_ui_pda_toggle_legend">
+		<text>$$ACTION_pda_tasks_toggle_legend$$ Legenda</text>
+	</string>
+	
+	<!-- PDA Logs -->
+	
+	<string id="legend_ui_pda_log_to_start">
+		<text>$$ACTION_pda_log_to_start$$ Prvnн</text>
+	</string>
+	<string id="legend_ui_pda_log_to_end">
+		<text>$$ACTION_pda_log_to_end$$ Poslednн</text>
+	</string>
+	<string id="legend_ui_pda_log_date_prev">
+		<text>$$ACTION_pda_log_date_prev$$ Pшedchozн datum</text>
+	</string>
+	<string id="legend_ui_pda_log_date_next">
+		<text>$$ACTION_pda_log_date_next$$ Dalљн datum</text>
+	</string>
+	<string id="legend_ui_pda_log_show_news">
+		<text>$$ACTION_pda_log_show_news$$ Pшepnout zprбvy</text>
+	</string>
+	<string id="legend_ui_pda_log_show_dialogs">
+		<text>$$ACTION_pda_log_show_dialogs$$ Pшepnout dialogy</text>
+	</string>
+	
+	<string id="legend_ui_numpad_press">
+		<text>$$ACTION_UI_ACCEPT$$ Stiskni tlaинtko</text>
+	</string>
+	
+
+
+	<string id="legend_ui_sign_back_in">
+		<text>$$ACTION_UI_ACCEPT$$ Opмt se pшihlбsit</text>
+	</string>
+	<string id="legend_ui_title_screen">
+		<text>$$ACTION_UI_BACK$$ Ъvodnн obrazovka</text>
+	</string>
+	<!-- MTB-marcin.lawski Start: Remove duplication of text which crash debug>
+	<string id="st_change_user">
+		<text>The active user has disconnected the controller. Please reconnect or go back to the title screen to switch to a new user.</text>
+	</string>
+	<MTB-marcin.lawski Start: Remove duplication of text which crash debug -->
+
+	<!-- Controller Layout info -->
+
+	<string id="ui_pad_layout_PDA">
+		<text>Otevшнt PDA</text>
+	</string>
+	<string id="ui_pad_layout_wheel">
+		<text>Koleиko zbranн</text>
+	</string>
+	<string id="ui_pad_layout_aim">
+		<text>Mншenн</text>
+	</string>
+	<string id="ui_pad_layout_quckslot0">
+		<text>Prvnн pшedmмt na rychlй pozici</text>
+	</string>
+	<string id="ui_pad_layout_quckslot1">
+		<text>Druhэ pшedmмt na rychlй pozici</text>
+	</string>
+	<string id="ui_pad_layout_quckslot2">
+		<text>Tшetн pшedmмt na rychlй pozici</text>
+	</string>
+	<string id="ui_pad_layout_quckslot3">
+		<text>Иtvrtэ pшedmмt na rychlй pozici</text>
+	</string>
+	<string id="ui_pad_layout_strafe">
+		<text>Ъkrok</text>
+	</string>
+	<string id="ui_pad_layout_move">
+		<text>Pohyb</text>
+	</string>
+	<string id="ui_pad_layout_sprint">
+		<text>Sprint</text>
+	</string>
+
+	<string id="ui_pad_layout_menu">
+		<text>Nabнdka</text>
+	</string>
+	<string id="ui_pad_layout_jump">
+		<text>Skok</text>
+	</string>
+	<string id="ui_pad_layout_shoot">
+		<text>Stшelba</text>
+	</string>
+	<string id="ui_pad_layout_inventory">
+		<text>Inventбш</text>
+	</string>
+	<string id="ui_pad_layout_crouch">
+		<text>Skrиenн</text>
+	</string>
+	<string id="ui_pad_layout_reload">
+		<text>Pшebitн</text>
+	</string>
+	<string id="ui_pad_layout_action">
+		<text>Akce</text>
+	</string>
+	<string id="ui_pad_layout_lookx">
+		<text>Pohled X</text>
+	</string>
+	<string id="ui_pad_layout_Looky">
+		<text>Pohled Y</text>
+	</string>
+	<string id="ui_pad_layout_torch">
+		<text>Baterka</text>
+	</string>
+	<string id="ui_slider_amount">
+		<text>Mnoћstvн: %d</text>
+	</string>
+	<string id="ui_mm_ads_sens">
+		<text>Citlivost mншenн</text>
+	</string>
+	<string id="ui_mm_ads_scope_sens">
+		<text>Citlivost mншenн s optikou</text>
+	</string>
+	<string id="ui_mm_shoot_sens">
+		<text>Ovlбdбnн zpмtnйho rбzu</text>
+	</string>
+	<string id="ui_accept_eula">
+		<text>Pшijmout</text>
+	</string>
+	<string id="ui_elua_name">
+		<text>LICENИNН UJEDNБNН KONCOVЙHO UЋIVATELE</text>
+	</string>
+	<string id="ui_mm_nx64_setlang">
+		<text>Vyber si jazyk</text>
+	</string>
+	<string id="ui_elua_licence0_type">
+	<text>__HEADER__</text>
+</string>
+	<string id="ui_elua_licence0">
+		<text>S.T.A.L.K.E.R.: Call of Prypiat Enhanced Edition – LICENИNН UJEDNБNН KONCOVЙHO UЋIVATELE</text>
+	</string>
+	<string id="ui_elua_licence1_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence1">
+		<text>POSLEDNН AKTUALIZACE: 28. kvмtna 2025</text>
+	</string>
+	<string id="ui_elua_licence2">
+		<text>Toto LICENИNН UJEDNБNН KONCOVЙHO UЋIVATELE иi kteroukoliv jeho ибst si mщћete vytisknout do zбznamu a kvщli budoucн referenci.</text>
+	</string>
+	<string id="ui_elua_licence3_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence3">
+		<text>1. INFORMACE O TOMTO UJEDNБNН</text>
+	</string>
+	<string id="ui_elua_licence4">
+		<text>1.1. Toto Licenиnн ujednбnн koncovйho uћivatele (dбle jen jako - „Ujednбnн“) je prбvnм zбvaznб smlouva, kterб upravuje vztah mezi GSC Game World Global Ltd, s registrovanэm sнdlem na adrese Leontiou A, 159, MARYVONNE BUILDING, Floor 4 & 5, Office 402, 3022, Limassol, Cyprus (dбle jen jako „GSC“, „my“, „nбs“ иi „naљe“) a vбmi.</text>
+	</string>
+	<string id="ui_elua_licence5">
+		<text>Toto Ujednбnн se tэkб naљн hry S.T.A.L.K.E.R.: Call of Prypiat Enhanced Edition nehledм na zpщsob иi formu, kterэ byla zakoupena иi zнskбna, vиetnм hernнch klнищ/kуdщ (dбle jen jako „S.T.A.L.K.E.R.“ иi „hra“).</text>
+	</string>
+	<string id="ui_elua_licence6">
+		<text>1.2. Toto Ujednбnн se pro vбs i pro nбs stбvб zбvaznэm po staћenн, instalaci иi pouћitн hry S.T.A.L.K.E.R. (podle toho, co nastane dшнve). Pokud s Ujednбnнm nesouhlasнte, hru nestahujte, neinstaluje ani nepouћнvejte.</text>
+	</string>
+	<string id="ui_elua_licence7">
+		<text>1.3. Nбsledujнcн dokumenty jsou nedнlnou souибstн tohoto Ujednбnн a jejich pшijetн je povinnй pro staћenн, instalaci иi pouћнvбnн hry: (a) Pokyny pro tvorbu fanouљkovskйho obsahu (https://www.gsc-game.com/guidelines) – GSC vћdy oceтuje fanouљkovskэ obsah vytvoшenэ na zбkladм naљeho svмta, tento dokument vysvмtluje limity pro tvorbu takovйho obsahu; a (b) Zбsady ochrany soukromн GSC (www.gsc-game.com/privacy_policy) – kterй popisujн, jak GSC shromaћпuje, pouћнvб a chrбnн vaљe osobnн ъdaje. Tyto dokumenty jsou souибstн tohoto Ujednбnн, mohou bэt иas od иasu aktualizovбny a spoleиnм se oznaиujн jako „Podmнnky“. Podle platformy, na kterй byla hra distribuovбna, pak moћnб budete muset pшijmout a dodrћovat i podmнnky danй platformy.</text>
+	</string>
+	<string id="ui_elua_licence8_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence8">
+		<text>2. VAROVБNН A OMEZENН OHLEDNМ ZDRAVН, VМKU A OBSAHU</text>
+	</string>
+	<string id="ui_elua_licence9">
+		<text>2.1. Varovбnн pшed foto sensitivitou/zбchvaty. Velmi malй procento lidн mщћe zaћнt epileptickй zбchvaty иi vэpadky vмdomн, kdyћ jsou vystaveni urиitэm vizuбlщm, vиetnм svмtelnэch vzorcщ иi rychle blikajнcнm svмtlщm. Pokud zaиnete bмhem hranн hry pociќovat kterэkoliv z nбsledujнcнch pшнznakщ, okamћitм pшestaтte hrбt a poraпte se se svэm lйkaшem/doktorem, neћ budete pokraиovat: vэpadky vмdomн, zбchvaty, zбvratм, zmмnмnй vмdomн, zбљkuby v oku иi ve svalech, љkubбnн иi tшes v rukou иi nohou, ztrбta vмdomн, dezorientace, zmatenн, jakйkoliv mimodмиnй pohyby иi kшeиe.</text>
+	</string>
+	<string id="ui_elua_licence10">
+		<text>2.2. S.T.A.L.K.E.R. obdrћel minimбlnн vмkovou pшнstupnost (napш., PEGI, ESRB), kterб se mщћe liљit podle toho, kde se nachбzнte, a mмla by bэt uvedena bмhem nбkupu hry S.T.A.L.K.E.R.. Hru S.T.A.L.K.E.R. smнte hrбt pouze tehdy, pokud jste uvedenйho minimбlnнho vмku dovrљili.</text>
+	</string>
+	<string id="ui_elua_licence11">
+		<text>Pokud splтujete minimбlnн poћadavek na vмk nebo ho pшevyљujete a spadбte do jednй z nбsledujнcнch kategoriн:</text>
+	</string>
+	<string id="ui_elua_licence12">
+		<text>i. 18 let иi starљн (иi dosaћenн prбvnн dospмlosti ve vaљн jurisdikci), mщћete hru po pшijetн tohoto Ujednбnн pouћнvat;</text>
+	</string>
+	<string id="ui_elua_licence13">
+		<text>ii. pokud je vбm mezi 17 a 18 roky (иi prбvnн dospмlostн ve vaљн jurisdikci), vбљ rodiи иi zбkonnэ zбstupce musн souhlasit s tнm, ћe si pшeиte a odsouhlasн toto Ujednбnн vaљнm jmйnem (jelikoћ nмkterй jurisdikce neumoћтujн jedincщm, kteшн nedovrљili stanovenэ vмk, uzavнrat zбvaznй smlouvy, jako je toto Ujednбnн). Dбle by mмl dohlнћet na to, jak hrajete hru S.T.A.L.K.E.R.;</text>
+	</string>
+	<string id="ui_elua_licence14">
+		<text>iii. pokud je vбm mйnм neћ 17 nebo jste nedosбhli konkrйtnн prбvnн dospмlosti ve vaљн jurisdikci, nesmнte hru S.T.A.L.K.E.R. stahovat, hrбt ani jinak pouћнvat.</text>
+	</string>
+	<string id="ui_elua_licence15">
+		<text>2.3. S.T.A.L.K.E.R. obsahuje znбzornмnн nбsilн, slovnнch ъtokщ, sexuбlnнho obsahu, pouћнvбnн drog, coћ mщћe bэt pro urиitй jedince znepokojivй. Pokud jste na takovй materiбly citlivн nebo pokud by pro vбs takovэ obsah mohl bэt nepшнpustnэ, zvaћte prosнm tyto faktory, neћ zaиnete hru hrбt.</text>
+	</string>
+	<string id="ui_elua_licence16_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence16">
+		<text>3. POUЋНVБNН HRY S.T.A.L.K.E.R.</text>
+	</string>
+	<string id="ui_elua_licence17">
+		<text>3.1. GSC vбm poskytuje osobnн, omezenou, vratnou, neexkluzivnн, nepшenosnou a nepшiшaditelnou licenci zobrazovat, prohlнћet si, stahovat, instalovat, hrбt a pouћнvat hru S.T.A.L.K.E.R. (pшнpadnм spolu s Mody) na svйm osobnнm poинtaиi, hernнch konzolнch иi na dalљнch zaшнzenнch/platformбch, kterй jsou vэslovnм schvбlenй ze strany GSC a na kterй byla hra zakoupena. Tato licence je pouze pro vaљe osobnн pouћitн a neposkytuje vбm ћбdnб vlastnickб prбva na hru S.T.A.L.K.E.R.. Nemбte povolenн sublicencovat, prodбvat, pшiшazovat, darovat иi jinak pшevбdмt hru S.T.A.L.K.E.R. ћбdnй tшetн osobм ani hru S.T.A.L.K.E.R. jakkoliv komerиnм pouћнvat.</text>
+	</string>
+	<string id="ui_elua_licence18_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence18">
+		<text>4. MINIMБLNН SYSTЙMOVЙ POЋADAVKY A DLOUHODOBЙ SLEDOVБNН</text>
+	</string>
+	<string id="ui_elua_licence19">
+		<text>4.1. S.T.A.L.K.E.R. mб minimбlnн systйmovй poћadavky podle vaљeho zaшнzenн/systйmu/platformy, se kterэmi se mщћete seznбmit na webovэch strбnkбch hry S.T.A.L.K.E.R. jeљtм pшed zakoupenнm. Je dщleћitй, abyste tyto systйmovй poћadavky splnili jeљtм pшed nбkupem hry.</text>
+	</string>
+	<string id="ui_elua_licence20">
+		<text>4.2. Kvщli vylepљovбnн vaљeho hernнho zбћitku, zamezovбnн vмcн, kterй toto Ujednбnн zakazuje, ochranм integrity hry S.T.A.L.K.E.R. a v pшнpadм potшeby i vynucovбnн tohoto Ujednбnн, mщћeme pouћнvat specifickэ software, kterэ pobмћн na pozadн vaљeho systйmu иi na pшidruћenэch zaшнzenнch/periferiнch bмhem vaљeho pouћнvбnн hry S.T.A.L.K.E.R.. Vмtљina takovйho softwaru je volitelnб a vy budete mнt moћnost nбm povolit иi zakбzat jejich pouћнvбnн. V pшнpadм, ћe musнme pouћнvat libovolnй povinnй softwarovй nбstroje, vбs o nich budeme nejdшнv informovat (ve hшe nebo prostшednictvнm dalљнch zdrojщ spojenэch s hrou S.T.A.L.K.E.R.). Dodateиnй informace ohlednм takovэch softwarovэch nбstrojнch jsou dostupnй v naљich Zбsadбch ochrany soukromн.</text>
+	</string>
+	<string id="ui_elua_licence21_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence21">
+		<text>5. OPRAVY, AKTUALIZACE A ZMМNY</text>
+	</string>
+	<string id="ui_elua_licence22">
+		<text>5.1. S.T.A.L.K.E.R. se poskytuje „tak, jak je“ a „jak je dostupnэ“, coћ znamenб, ћe mщћe obsahovat chyby, chybnэ kуd, kterэ mщћe иas od иasu vйst k pбdu hry. Spoleиnost GSC vynaloћila rozumnй ъsilн, aby tomu pшedeљla, ale ћбdnэ software nenн ideбlnн. Podpora hry nemusн bэt dostupnб vћdy a nмkdy v budoucnu mщћe bэt zruљena.</text>
+	</string>
+	<string id="ui_elua_licence23">
+		<text>5.2. GSC si vyhrazuje prбvo (nemб vљak povinnost) hru S.T.A.L.K.E.R. postupem иasu opravovat, aktualizovat иi v nн dмlat zmмny (pшidбvat иi odebнrat funkce, шeљit softwarovй chyby a ladit vyvбћenн v rбmci hry). Takovй opravy иi zmмny budou nasazeny prostшednictvнm povinnэch иi automatickэch aktualizacн. Pokud si takovй aktualizace nenainstalujete, mщћe se stбt, ћe neaktualizovanй verze hry budou v budoucnu nepouћitelnй.</text>
+	</string>
+	<string id="ui_elua_licence24_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence24">
+		<text>6. PRБVA NA DUЉEVNН VLASTNICTVН</text>
+	</string>
+	<string id="ui_elua_licence25">
+		<text>6.1. Hra S.T.A.L.K.E.R., kterб obsahuje veљkerй svй strukturбlnн prvky, vиetnм napшнklad vizuбlnнch prvkщ, postav, pшнbмhovэch linek, artworkщ, animacн, designщ, prvkщ, hudby, zvukovэch efektщ, dialogщ, grafiky, poинtaиovйho kуdu, uћivatelskйho rozhranн, vizuбlnнho a operaиnнho stylu, hernнch mechanismщ, hratelnosti, audiovizuбlnнch prvkщ, textovйho obsahu, rozvrћenн, databбzн, dat a vљech dalљнch materiбlщ, spolu s jakэmikoliv pшidruћenэmi Prбvy na duљevnн vlastnictvн (dle definice nнћe) a vљech dalљнch zбkonnэch prбv a pouћнvбnн pшidruћenэch prбv, jsou buп majetkem GSC, nebo nбm byly шбdnм pшedбny v rбmci licence od tшetнch stran. Veљkerб prбva tэkajнcн se hry S.T.A.L.K.E.R. zщstбvajн zachovбna kromм tмch, kterб jsou vэslovnм objasnмna v tomto Ujednбnн. Nemбte povolenн pouћнvat a vydмlбvat na ћбdnйm aspektu hry S.T.A.L.K.E.R. kromм toho, co je uvedeno v tomto Ujednбnн a v souladu s naљimi Pokyny pro tvorbu fanouљkovskйho obsahu. Hra S.T.A.L.K.E.R. a jejн Prбva na duљevnн vlastnictvн jsou chrбnмnй v rбmci autorskйho prбva, obchodnнch znaиek иi dalљнch statusщ duљevnнho vlastnictvн po celйm svмtм.</text>
+	</string>
+	<string id="ui_elua_licence26">
+		<text>„Prбva k duљevnнmu vlastnictvн“ znamenajн veљkerб autorskб prбva, obchodnн znaиky, servisnн znaиky, loga, obchodnн obleиenн, renomй, design, nбzvy znaиek, obchodnн nбzvy иi nбzvy domйn, prбva na design, prбva na vytvбшenн databбze, prбva na postavy, patenty, prбva na vynбlezy, know-how, obchodnн tajemstvн a dщvмrnй informace, prбva k poинtaиovйmu softwaru (vиetnм zdrojovйho kуdu a objektovйho kуdu), morбlnн prбva, autorskб prбva, prбva na publicitu, prбva na plnмnн, prбva na synchronizaci, mechanickб prбva, prбva na publikovбnн, pronбjem, pщjиovбnн a pшenos a dalљн prбva duљevnнho vlastnictvн a vyuћнvбnн prбv obdobnйho иi odpovнdajнcнho charakteru, kterб mohou nynн nebo v budoucnu existovat v kterйkoli ибsti svмta, ve vљech pшнpadech, aќ uћ registrovanй nebo registrovatelnй, vиetnм vљech udмlenэch ћбdostн a vљech ћбdostн o registraci, rozdмlenн, pokraиovбnн, znovuvydбnн, obnovenн, rozљншenн a reverze tэkajнcн se иehokoli z toho.</text>
+	</string>
+	<string id="ui_elua_licence27">
+		<text>Tato sekce bude platit i po konci platnosti tohoto Ujednбnн.</text>
+	</string>
+	<string id="ui_elua_licence28_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence28">
+		<text>7. PODMНNKY POUЋНVБNН</text>
+	</string>
+	<string id="ui_elua_licence29">
+		<text>7.1 Nemбte poskytnutou licenci pro komerиnн pouћнvбnн hry S.T.A.L.K.E.R., pouze licenci pro osobnн pouћнvбnн, pokud nenн v nмkterй ибsti Ujednбnн uvedeno jinak kvщli konkrйtnнmu ъиelu.</text>
+	</string>
+	<string id="ui_elua_licence30">
+		<text>7.2. Mбte vэslovnм zakбzбno kopнrovat, pronajнmat, kupovat, prodбvat, pщjиovat, sdнlet, dбvat, sublicencovat, pшevбdмt, distribuovat, vydбvat иi veшejnм pшedvбdмt hru S.T.A.L.K.E.R. иi jakбkoliv vaљe prбva v rбmci tohoto Ujednбnн, pokud v tomto Ujednбnн nenн vэslovnм uvedeno svolenн.</text>
+	</string>
+	<string id="ui_elua_licence31">
+		<text>7.3. Mбte vэslovnм zakбzбno vytvбшet, pouћнvat, licencovat, sublicencovat, zpшнstupтovat иi distribuovat cheaty, kterй lze pouћнvat ve hшe S.T.A.L.K.E.R.. Cheaty znamenajн vyuћнvбnн chyb, automatickэ software, roboty, boty, hacky, pavouky, spyware, skripty, trainery, extrakиnн nбstroje иi dalљн software, kterэ mщћe interagovat s hrou S.T.A.L.K.E.R. nebo ji ovlivnit, a to jakэmkoliv zpщsobem, kterэ spoleиnost GSC nezamэљlela, vиetnм libovolnэch nepovolenэch programщ tшetнch stran, kterй shromaћпujн ъdaje иtenнm pamмti, kterou pouћнvб hra S.T.A.L.K.E.R. k uklбdбnн ъdajщ.</text>
+	</string>
+	<string id="ui_elua_licence32">
+		<text>7.4. Mбte zakбzбno modifikovat, spojovat, distribuovat, pшeklбdat, provбdмt zpмtnй inћenэrstvн иi se pokouљet zнskat иi pouћнvat zdrojovэ kуd, dekompilovat иi rozebнrat hru S.T.A.L.K.E.R., pokud vбm to vэslovnм neumoћnн pшнsluљnй zбkony.</text>
+	</string>
+	<string id="ui_elua_licence33">
+		<text>7.5. Mбte zakбzбno naruљovat zбkaznickou иi technickou podporu GSC иi do nн zasahovat nebo se za ni vydбvat.</text>
+	</string>
+	<string id="ui_elua_licence34">
+		<text>7.6. Mбte zakбzбno zachycovat, tмћit иi jinak shromaћпovat osobnн иi jakйkoliv dщvмrnй ъdaje ze hry S.T.A.L.K.E.R..</text>
+	</string>
+	<string id="ui_elua_licence35">
+		<text>7.7. Mбte zakбzбno zlomyslnм zasahovat, naruљovat иi pouћнvat zakбzanй oblasti naљeho иi externнho sнќovйho softwaru иi serverщ vиetnм tunelovбnн, vklбdбnн kуdu, zamezenн sluћby, modifikacн иi zmмn softwaru, pouћнvбnн jakйhokoliv podobnйho softwaru spolu s naљнm softwarem, prostшednictvнm emulace protokolu иi vytvбшenнm nebo pouћнvбnнm soukromэch serverщ иi jinэch obdobnэch sluћeb tэkajнcнch se GSC иi hry.</text>
+	</string>
+	<string id="ui_elua_licence36">
+		<text>7.8. Mбte zakбzбno provбdмt libovolnй akce, kterй mohou naruљovat jakйkoliv autorskй prбvo, obchodnн znaиku, patent, obchodnн tajemstvн, soukromн, publicitu иi jinб prбva GSC.</text>
+	</string>
+	<string id="ui_elua_licence37">
+		<text>7.9. Mбte zakбzбno nahrбvat jakйkoliv soubory, kterй obsahujн љkodlivэ kуd, vиetnм virщ, spyware, trojskэch konн, иervщ, иasovanэch bomb, zбmмrnм poљkozenэch dat a dalљнch souborщ, kterй obsahujн љkodlivэ kуd nebo kterй mohou nмjakэm zpщsobem poљkodit иi naruљit hru S.T.A.L.K.E.R..</text>
+	</string>
+	<string id="ui_elua_licence38">
+		<text>7.10. Mбte zakбzбno vytvбшet jakэkoliv obsah иi pouћнvat hru S.T.A.L.K.E.R. zpщsobem, kterэ je nebo mщћe bэt povaћovбn za rasistickэ, obtмћujнcн, xenofobnн, sexistickэ, diskriminaиnн, urбћlivэ, hanlivэ иi jinak nevhodnэ иi nezбkonnэ.</text>
+	</string>
+	<string id="ui_elua_licence39">
+		<text>7.11. Mбte zakбzбno odebнrat jakйkoliv oznбmenн o vlastnictvн иi љtнtky ze hry.</text>
+	</string>
+	<string id="ui_elua_licence40">
+		<text>7.12. Bмhem pouћнvбnн hry S.T.A.L.K.E.R. musнte dodrћovat veљkerй platnй zбkony a naшнzenн.</text>
+	</string>
+	<string id="ui_elua_licence41">
+		<text>Tato sekce bude platit i po konci platnosti tohoto Ujednбnн.</text>
+	</string>
+	<string id="ui_elua_licence42_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence42">
+		<text>8. FANOUЉKOVSKЭ OBSAH A MODY</text>
+	</string>
+	<string id="ui_elua_licence43">
+		<text>8.1. Pojem „Mod“ odkazuje na uћivatelsky generovanэ obsah иi zmмny provedenй v jednй иi vнce souибstн hry. Tytp modifikace se majн pouћнvat spolu s hrou, coћ vede k upravenйmu иi pozmмnмnйmu hernнmu zбћitku, jenћ se odchyluje od verze, kterou pщvodnм poskytlo studio GSC. Zбћitek z libovolnйho Modu se mщћe mezi uћivateli liљit.</text>
+	</string>
+	<string id="ui_elua_licence44">
+		<text>8.2. Do nejvyљљн mнry povolenй platnэmi zбkony se GSC zшнkб veљkerй odpovмdnosti za jakйkoliv Mody nahranй, sdнlenй иi distribuovanй vбmi nebo jakoukoliv tшetн stranou. Aиkoliv si GSC vyhrazuje prбvo (ale nikoliv povinnost) monitorovat, upravovat иi odebнrat jakйkoliv Mody, kterй na zбkladм vlastnнho uvбћenн studia poruљujн Podmнnky – napшнklad coby obsah, kterэ je protizбkonnэ, podvodnэ, zavбdмjнcн, urбћlivэ, obscйnnн, vэhruћnэ, pomlouvaиnэ, naruљujнcн soukromн, poruљujнcн autorskб prбva nebo obsahujнcн viry иi jinэ љkodlivэ kуd –, nepшebнrб ћбdnou odpovмdnost za odstranмnн takovэch Modщ ani za jejich neodstranмnн иi opoћdмnй odstranмnн.</text>
+	</string>
+	<string id="ui_elua_licence45">
+		<text>8.3. Mody poskytujн tшetн strany vиetnм fyzickэch a prбvnickэch osob nezбvislэch na GSC („Sluћby tшetнch stran“). GSC nedohlнћн na ћбdnй Sluћby tшetнch stran ani za nм nepшijнmб odpovмdnost, vиetnм napшнklad zpщsobu, jakэm takovй tшetн strany shromaћпujн, pouћнvajн иi uklбdajн vaљe ъdaje. Vaљe pouћнvбnн Modщ a nбslednм jakэchkoliv pшidruћenэch Sluћeb tшetнch stran vбs mщћe vystavit dodateиnэm poplatkщm, podmнnkбm иi zбsadбm zavedenэm tмmito tшetнmi stranami, vиetnм zбsad ochrany soukromн mimo rбmec kontroly GSC. Pouћнvбnнm jakэchkoliv Modщ иi integrovanэch Sluћeb tшetнch stran souhlasнte s tнm, ћe budete dodrћovat pшнsluљnй podmнnky a zбsady tмchto Sluћeb tшetнch stran.</text>
+	</string>
+	<string id="ui_elua_licence46">
+		<text>8.4. Berete na vмdomн a souhlasнt se s tнm, ћe pouћнvбnн Modщ je иistм na vaљe vlastnн riziko. GSC nepшebнrб ћбdnou odpovмdnost za vyhodnocovбnн иi ovмшovбnн obsahu, pшesnosti, kompletnosti, dostupnosti, nadиasovosti, platnosti, dodrћovбnн autorskэch prбv, legбlnosti, vhodnosti, kvality ani ћбdnй dalљн vlastnosti veљkerэch Modщ иi Sluћeb tшetнch stran. GSC nezaruиuje ani nepropaguje ћбdnй Sluћby tшetнch stran. Dбle souhlasнte s tнm, ћe GSC nenese ћбdnou odpovмdnost za pшнpadnй problйmy, ztrбty иi љkody, kterй mohou vyvstat kvщli pouћнvбnн takovэch Sluћeb tшetнch stran.</text>
+	</string>
+	<string id="ui_elua_licence47">
+		<text>8.5. Poruљenн autorskэch prбv</text>
+	</string>
+	<string id="ui_elua_licence48">
+		<text>Pokud se domnнvбte, ћe urиitэ Mod poruљuje vaљe autorskб prбva, zaљlete nбm prosнm tyto informace:</text>
+	</string>
+	<string id="ui_elua_licence49">
+		<text>a. Vaљe jmйno, adresa, e-mailovб adresa</text>
+	</string>
+	<string id="ui_elua_licence50">
+		<text>b. Popis dнla chrбnмnйho autorskэm prбvem, kterй podle vбs bylo poruљeno</text>
+	</string>
+	<string id="ui_elua_licence51">
+		<text>c. Pшesnй URL nebo popis kaћdйho mнsta, kde se dotyиnэ materiбl nachбzн</text>
+	</string>
+	<string id="ui_elua_licence52">
+		<text>d. Vaљe prohlбљenн, ћe se v dobrй vншe domnнvбte, ћe spornй pouћнvбnн nebylo schvбlenй vбmi, vaљнm zбstupcem ani zбkonem</text>
+	</string>
+	<string id="ui_elua_licence53">
+		<text>e. Vбљ elektronickэ иi fyzickэ podpis nebo elektronickэ иi fyzickэ podpis osoby oprбvnмnй jednat vaљнm jmйnem</text>
+	</string>
+	<string id="ui_elua_licence54">
+		<text>f. Vaљe prohlбљenн, ћe ъdaje ve vaљem oznбmenн jsou pшesnй, a ћe jste pod trestem kшivй pшнsahy oprбvnмnн jednat jmйnem majitele vэhradnнch prбv, kterй bylo ъdajnм poruљeno</text>
+	</string>
+	<string id="ui_elua_licence55">
+		<text>Vэљe uvedenй informace zaљlete na tuto adresu:</text>
+	</string>
+	<string id="ui_elua_licence56">
+		<text>Attention: Mod Copyright infringement</text>
+	</string>
+	<string id="ui_elua_licence57">
+		<text>E-mail: legal@gsc-game.com</text>
+	</string>
+	<string id="ui_elua_licence58">
+		<text>Pokud obdrћнme oznбmenн o tom, ћe nмjakэ Mod poruљuje autorskб prбva tшetн strany, mщћeme na zбkladм takovй ћбdosti dotyиnэ Mod ostranit.</text>
+	</string>
+	<string id="ui_elua_licence59">
+		<text>Pшeиtмte si naљe Pokyny pro tvorbu fanouљkovskйho obsahu (https://www.gsc-game.com/guidelines), abyste pochopili co a do jakй mнry smнte vytvбшet jakoћto fanouљkovskэ obsah zaloћenэ na hшe S.T.A.L.K.E.R..</text>
+	</string>
+	<string id="ui_elua_licence60_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence60">
+		<text>9. ZPМTNБ VAZBA A HLБЉENН O PБDECH</text>
+	</string>
+	<string id="ui_elua_licence61">
+		<text>9.1. GSC si vбћн zpмtnй vazby od komunity, takћe pokud nбm chcete шнct nмco uћiteиnйho, nevбhejte se nбm ozvat prostшednictvнm support@gsc-game.com/. Pokud vaљe nбvrhy budou nмjakэm zpщsobem zaиlenмny do hry, nemбme ћбdnou povinnost poskytnout vбm jakoukoliv kompenzaci (hmotnou ani jinou).</text>
+	</string>
+	<string id="ui_elua_licence62">
+		<text>9.2. Pokud vбm hra z nмjakйho dщvodu spadne, GSC vбs mщћe poћбdat, abyste nбm poskytli zбznam o pбdu kvщli vylepљenн zdrojovйho kуdu a zpшнjemnмnн vaљeho zбћitku dнky mйnм иastэm pбdщm. Hlбљenн o pбdech nejsou povinnй a v nмkterэch pшнpadech mohou obsahovat osobnн ъdaje (informace o tom, jakй druhy ъdajщ se mohou pшenбљet v rбmci takovйho hlбљenн o pбdu, najdete v naљich Zбsadбch ochrany soukromн).</text>
+	</string>
+	<string id="ui_elua_licence63_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence63">
+		<text>10. OBSAH TШETНCH STRAN</text>
+	</string>
+	<string id="ui_elua_licence64">
+		<text>10.1. V rбmci hry S.T.A.L.K.E.R. vбm mщћeme poskytnout hypertextovй odkazy na externн webovй strбnky иi obsah z externнch zdrojщ. Dбle mщћete mнt pшнstup ke hшe S.T.A.L.K.E.R. prostшednictvнm rщznэch zaшнzenн, systйmщ иi platforem. Rozhodnutн je pouћнvat zбleћн иistм na vбs a my nemщћeme zaruиit jejich funkиnost, kvalitu ani to, jestli budou dostupnй bezplatnм. Rщznб zaшнzenн, systйmy иi platformy navнc mohou mнt vlastnн zбkonnй podmнnky, kterй dщraznм doporuиujeme, abyste si pшed pouћнvбnнm pшeиetli.</text>
+	</string>
+	<string id="ui_elua_licence65_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence65">
+		<text>11. ZБRUKY A PROHLБЉENН</text>
+	</string>
+	<string id="ui_elua_licence66">
+		<text>11.1. GSC Warranties. GSC se zaruиuje, ћe mбme prбvo uzavшнt toto Ujednбnн a poskytnout vбm licenci pouћнvat hru S.T.A.L.K.E.R. k osobnнm zбbavnнm ъиelщm.</text>
+	</string>
+	<string id="ui_elua_licence67">
+		<text>11.2. Vaљe prohlбљenн a zбruky. Prohlaљujete a zaruиujete se, ћe mбte plnou moc a mщћete uzavшнt toto Ujednбnн a ћe budete jeho podmнnky dodrћovat ve vљech ohledech.</text>
+	</string>
+	<string id="ui_elua_licence68_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence68">
+		<text>12. ODPOVМDNOST</text>
+	</string>
+	<string id="ui_elua_licence69">
+		<text>12.1. Pokud nenн v jinй ибsti Ujednбnн vэslovnм uvedeno jinak, spoleиnost GSC a jejн poboиky, partneшi a licencoшi se zшнkajн veљkerэch implikovanэch иi vэslovnэch zбruk иi prohlбљenн ohlednм hry S.T.A.L.K.E.R.. S.T.A.L.K.E.R. se vбm poskytuje „tak, jak je“ a „jak je dostupnэ“ bez jakэchkoliv zбruk иi prohlбљenн, vэslovnэch иi implikovanэch, a my neneseme odpovмdnost za ћбdnй ztrбty, љkody иi ъjmu, jeћ vzejde z vaљeho pouћнvбnн hry иi neschopnosti hru pouћнvat. Pouћнvбte hru S.T.A.L.K.E.R. na vlastnн riziko.</text>
+	</string>
+	<string id="ui_elua_licence70">
+		<text>V maximбlnнm rozsahu povolenйm platnэmi zбkony odmнtбme veљkerй zбruky, vэslovnй nebo implikovanй, kterй se mohou vztahovat na hru S.T.A.L.K.E.R. vиetnм: implikovanэch zбruk vlastnictvн, neporuљenн prбv, obchodovatelnosti, uspokojivй kvality, vhodnosti pro urиitэ ъиel, jakэchkoli zбruk, kterй mohou vyplynout z prщbмhu obchodovбnн nebo plnмnн nebo pouћнvбnн obchodu, absence virщ, chyb иi zбvad nebo jakйkoli zбruky tэkajнcн se pшesnosti, zбkonnosti, spolehlivosti nebo kvality jakйhokoli obsahu nebo informacн obsaћenэch ve hшe S.T.A.L.K.E.R..</text>
+	</string>
+	<string id="ui_elua_licence71">
+		<text>GSC vэslovnм nezaruиuje, ћe hra S.T.A.L.K.E.R. bude nepшeruљenб иi bez chyb, ћe chyby budou opraveny ani ћe hra bude prostб virщ иi jinэch љkodlivэch souибstн.</text>
+	</string>
+	<string id="ui_elua_licence72">
+		<text>12.2. V MAXIMБLNНM ROZSAHU POVOLENЙM PLATNЭM ZБKONEM SPOLEИNOST GSC A JEJН POBOИKY, PARTNEШI A LICENCOШI NEMAJН VЩИI VБM ODPOVМDNOST ZA ЋБDNЙ ZTRБTY ZISKU, POPLATKY ANI NБKLADY, ZTRБTU DAT ANI JAKЙKOLI POЉKOZENН ИI ZTRБTU INFORMACН ANI ZTRБTU OBCHODNН PШНLEЋITOSTI ANI ZVLБЉTNН, NEPШНMЙ, TRESTNН, EXEMPLБRNН ANI NБSLEDNЙ ZTRБTY NEBO POЉKOZENН NEBO NARUЉENН JAKЙHOKOLI DRUHU, A TO V KAЋDЙM PШНPADМ, AЌ UЋ PROBLЙM VYVSTAL NA ZБKLADМ PORUЉENН SMLOUVY, PШEИINЩ (VИETNМ NEDBALOSTI, PORUЉENН STATUTБRNН POVINNOSTI, PORUЉENН SMLOUVY, PORUЉENН ZБRUKY ИI STRIKTNН ODPOVМDNOSTI), ЉPATNЙHO VЭKLADU, RESTITUCE NEBO JINAK, AЌ UЋ BYLA PШНSLUЉNБ STRANA UPOZORNМNA NA MOЋNOST TAKOVЙ ЉKODY, NEBO NE.</text>
+	</string>
+	<string id="ui_elua_licence73">
+		<text>V MAXIMБLNНM ROZSAHU POVOLENЙM PLATNЭM ZБKONEM V ЋБDNЙM PШНPADМ NEPONESOU SPOLEИNOST GSC A JEJН POBOИKY, PARTNEШI ANI LICENCOШI VЩИI VБM CELKOVOU ODPOVМDNOST V SOUVISLOSTI S HROU S.T.A.L.K.E.R. NEBO POKUD TATO SMLOUVA PШESAHUJE ИБSTKU ROVNOU ИБSTCE, KTEROU JSTE NБM SKUTEИNМ ZAPLATILI (POKUD VЩBEC) V SOUVISLOSTI SE ZБLEЋITOSTMI, KTERЙ JSOU ZБKLADNНMI NБROKY. VЭЉE UVEDENЙ JE VAЉН JEDINOU A VЭHRADNН NБHRADOU V SOUVISLOSTI S TНMTO UJEDNБNНM.</text>
+	</string>
+	<string id="ui_elua_licence74">
+		<text>12.3. Souhlasнte s tнm, ћe na poћбdбnн odљkodnнte spoleиnost GSC, jejн poboиky, licencory a partnery a budete je chrбnit pшed vљemi љkodami, zбvazky, nбroky a nбklady, vиetnм prбvnнch poplatkщ, v souvislosti s nбsledujнcнm:</text>
+	</string>
+	<string id="ui_elua_licence75_type">
+		<text>__OPTION__</text>
+	</string>
+	<string id="ui_elua_licence75">
+		<text>jakйkoliv ъdajnй иi skuteиnй poruљenн tohoto Ujednбnн z vaљн strany;</text>
+	</string>
+	<string id="ui_elua_licence76_type">
+		<text>__OPTION__</text>
+	</string>
+	<string id="ui_elua_licence76">
+		<text>pouћitн hry S.T.A.L.K.E.R. vбmi иi jinou osobou vaљнm jmйnem иi namнsto vбs (zбmмrnм иi nezбmмrnм); a</text>
+	</string>
+	<string id="ui_elua_licence77_type">
+		<text>__OPTION__</text>
+	</string>
+	<string id="ui_elua_licence77">
+		<text>poruљenн Prбv na duљevnн vlastnictvн spoleиnosti GSC, jejнch poboиek, licencorщ a partnerщ.</text>
+	</string>
+	<string id="ui_elua_licence78">
+		<text>Pokud proti nбm budou vzneseny nмjakй nбroky, budete plnм spolupracovat s GSC a my si vyhrazujeme prбvo pшevzнt a vйst obhajobu. Ћбdnй takovй nбroky nebudete urovnбvat zcela ani ибsteиnм bez naљeho pшedchozнho pнsemnйho souhlasu.</text>
+	</string>
+	<string id="ui_elua_licence79">
+		<text>12.4. Pшijetнm Ujednбnн potvrzujete, ћe jakбkoli ztrбta, љkoda nebo ъjma, kterou mщћete utrpмt, nenн nenapravitelnб a ћe jinй neћ soudnн pшнkazy nebo jinй spravedlivй nбpravy budou pшimмшenй a dostateиnй. Tнmto vэslovnм souhlasнte s tнm, ћe nemбte nбrok na soudnн pшнkaz ani jinou spravedlivou nбpravu vщиi spoleиnosti GSC, jejнm poboиkбm, licencorщm a partnerщm.</text>
+	</string>
+	<string id="ui_elua_licence80">
+		<text>Tato sekce bude platit i po konci platnosti tohoto Ujednбnн.</text>
+	</string>
+	<string id="ui_elua_licence81_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence81">
+		<text>13. UKONИENН</text>
+	</string>
+	<string id="ui_elua_licence82">
+		<text>13.1. Mбte prбvo Ujednбnн ukonиit kdykoliv, a to tak, ћe pшestanete pouћнvat hru S.T.A.L.K.E.R.. Takovй ukonиenн nebude mнt vliv na jiћ existujнcн prбva ani povinnosti z naљн иi vaљн strany.</text>
+	</string>
+	<string id="ui_elua_licence83">
+		<text>13.2. GSC vбm mщћe zablokovat иi ukonиit pшнstup ke hшe S.T.A.L.K.E.R. a k tomuto Ujednбnн, pokud materiбlnм poruљнte jakoukoliv podmнnku tohoto Ujednбnн. V pшнpadм, ћe se rozhodneme zablokovat иi ukonиit vбљ pшнstup ke hшe S.T.A.L.K.E.R. a k tomuto Ujednбnн v rбmci tйto sekce, nebudeme vщиi vбm mнt vщbec ћбdnй povinnosti ani odpovмdnost.</text>
+	</string>
+	<string id="ui_elua_licence84">
+		<text>13.3. V pшнpadм, ћe se GSC z jakйhokoliv dщvodu rozhodne natrvalo ukonиit pшнstup ke hшe S.T.A.L.K.E.R. jako k celku иi na konkrйtnн platformм, oznбmн vбm tuto skuteиnost alespoт devadesбt (90) dnщ pшedem rozumnм dostupnэm zpщsobem. Takovй ukonиenн sluћeb nebude mнt za nбsledek ћбdnй povinnosti ani odpovмdnost vщиi vбm.</text>
+	</string>
+	<string id="ui_elua_licence85_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence85">
+		<text>14. VYЉЉН MOC</text>
+	</string>
+	<string id="ui_elua_licence86">
+		<text>Nikdo z nбs nebude vщиi druhй stranм odpovмdnэ za jakйkoli plnмnн, neplnмnн nebo zpoћdмnн, zcela nebo ибsteиnм, z dщvodu vyљљн moci.</text>
+	</string>
+	<string id="ui_elua_licence87">
+		<text>„Vyљљн moc“ znamenб jakoukoli pшниinu brбnнcн nмkterй stranм plnit nмkterй nebo vљechny zбvazky, kterб vyplэvб z jednбnн, udбlostн, opomenutн nebo nehod, kterй jsou mimo pшimмшenou kontrolu danй strany, jнћ je takto zabrбnмno, vиetnм napшнklad stбvek, vэluk nebo jinэch prщmyslovэch sporщ, jadernй havбrie иi иinщ vyљљн moci, vбlky nebo teroristickй иinnosti, nepokojщ, obиanskэch nepokojщ, dodrћovбnн jakйhokoli zбkona иi vlбdnнho naшнzenн, pravidel, naшнzenн nebo smмrnice, protestnнch akcн zamмstnancщ pшнpadnэch poskytovatelщ elektrickй energie иi internetovйho pшipojenн, selhбnн technickэch zaшнzenн, hackovбnн, odepшenн sluћby nebo jinэch ъtokщ IT, nasazenн љkodlivэch IT virщ иi podobnй technologie, pandemie (napш. COVID-19), poћбru, povodnм иi bouшe nebo selhбnн dodavatelщ nebo subdodavatelщ.</text>
+	</string>
+	<string id="ui_elua_licence88_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence88">
+		<text>15. ROZHODNЙ PRБVO A ШEЉENН SPORЩ</text>
+	</string>
+	<string id="ui_elua_licence89">
+		<text>15.1. Toto Ujednбnн a jakйkoli problйmy z nн vyplэvajнcн se budou шнdit a vyklбdat v souladu se zбkony Kypru, s vэjimkou volby prбva иi konfliktщ prбvnнch naшнzenн. Vэhradnн mнsto pro veљkerй soudnн spory tэkajнcн se nebo vyplэvajнcн z tohoto Ujednбnн nebo ze hry bude na Kypru a vy souhlasнte s tнm, ћe se v pшнpadм takovйho nбroku иi sporu podшнdнte jurisdikci kyperskэch soudщ. Strana, kterб vyhraje spor v rбmci tohoto Ujednбnн, bude mнt nбrok na nбhradu svэch prбvnнch poplatkщ a vэdajщ.</text>
+	</string>
+	<string id="ui_elua_licence90">
+		<text>15.2. Pokud s nбmi budete mнt problйm, domnнvбme se, ћe je moћnй ho rychle vyшeљit. Ozvмte se nбm prosнm na support@gsc-game.com</text>
+	</string>
+	<string id="ui_elua_licence91">
+		<text>15.3. GSC i vy souhlasнte s tнm, ћe v dobrй vншe vynaloћнte pшimмшenй ъsilн k vyшeљenн jakйhokoli sporu mezi nбmi bez jakэchkoli tшetнch stran. Poибteиnн lhщta pro шeљenн sporu je tшicet (30) dnщ, pokud nenastanou nepшedvнdatelnй okolnosti, kterй mohou lhщtu prodlouћit aћ na љedesбt (60) dnщ.</text>
+	</string>
+	<string id="ui_elua_licence92">
+		<text>Pokud ti GSC vznesete nбrok, musнte odeslat fyzickou kopii na adresu „Legal Team, GSC Game World Global Ltd, Leontiou A, 159, MARYVONNE BUILDING, Floor 4 & 5, Office 402, 3022, Limassol, Cyprus“ a takй digitбlnн kopii na legal@gsc-game.com</text>
+	</string>
+	<string id="ui_elua_licence93">
+		<text>15.4. Zшeknutн se hromadnэch ћalob. V maximбlnнm rozsahu povolenйm platnэmi zбkony souhlasнte s tнm, ћe za ћбdnэch okolnostн nepodбte ani se nezъиastnнte hromadnй ћaloby ani ћaloby v zastoupenн, ћaloby soukromйho stбtnнho nбvladnнho ani kolektivnн arbitrбћe. To znamenб v plnйm rozsahu povolenйm zбkonem toto:</text>
+	</string>
+	<string id="ui_elua_licence94">
+		<text>i. ћбdnб arbitrбћ nebude spojena s ћбdnou jinou;</text>
+	</string>
+	<string id="ui_elua_licence95">
+		<text>ii. neexistuje ћбdnй prбvo ani pravomoc k tomu, aby byl jakэkoliv spor souzen na zбkladм skupinovй ћaloby nebo aby byly pouћity postupy skupinovй ћaloby; a</text>
+	</string>
+	<string id="ui_elua_licence96">
+		<text>iii. neexistuje ћбdnй prбvo ani pravomoc k tomu, aby byl jakэkoli spor pшedklбdбn v roli ъdajnйho zбstupce jmйnem љirokй veшejnosti nebo jakэchkoli jinэch osob.</text>
+	</string>
+	<string id="ui_elua_licence97">
+		<text>Pokud bude dohoda v tйto ибsti o tom, ћe nepodбte ani se nezъиastnнte hromadnй ћaloby ani ћaloby v zastoupenн, ћaloby soukromйho stбtnнho nбvladnнho ani kolektivnн arbitrбћe, shledбna nezбkonnou иi nevymahatelnou, vy a my souhlasнme s tнm, ћe nebude oddмlitelnб: celб tato sekce se bude povaћovat za nevymahatelnou a pшнpadnэ nбrok nebo spor bude proto шeљen soudnм.</text>
+	</string>
+	<string id="ui_elua_licence98">
+		<text>Tato sekce bude platit i po konci platnosti tohoto Ujednбnн.</text>
+	</string>
+	<string id="ui_elua_licence99">
+		<text>15.5. V pшнpadм stбtщ Evropskй unie mщћete mнt nбrok na podбnн stнћnosti prostшednictvнm Platformy pro шeљenн sporщ online provozovanй Evropskou komisн, jejнћ podrobnosti naleznete na adrese https://ec.europa.eu/consumers/odr.</text>
+	</string>
+	<string id="ui_elua_licence100_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence100">
+		<text>16. OBECNБ USTANOVENН</text>
+	</string>
+	<string id="ui_elua_licence101">
+		<text>16.1. Pokud bude nмkterй ustanovenн tohoto Ujednбnн prбvnм nevymahatelnй, ostatnн ustanovenн tohoto Ujednбnн zщstanou platnб v plnйm rozsahu. Spoleиnost GSC mщћe na zбkladм vlastnнho uvбћenн nahradit takovй nevymahatelnй ustanovenн za jinй, kterй se bude vэznamem co nejvнce blнћit pщvodnнmu ustanovenн.</text>
+	</string>
+	<string id="ui_elua_licence102">
+		<text>16.2. Toto Ujednбnн шнdн pouze nбљ vztah s vбmi (a naopak) a nezaklбdб ћбdnб prбva tшetнch stran pro kohokoliv, pokud nenн vэslovnм uvedeno jinak.</text>
+	</string>
+	<string id="ui_elua_licence103">
+		<text>16.3. Ъmluva OSN o smlouvбch o mezinбrodnнm prodeji zboћн se nevztahuje na hru S.T.A.L.K.E.R. ani na toto Ujednбnн.</text>
+	</string>
+	<string id="ui_elua_licence104">
+		<text>16.4. GSC mб prбvo kdykoliv pшiradit, subkontraktovat иi pшevйst toto Ujednбnн na tшetн stranu иi jinйho иlena skupina na zбkladм vlastnнho uvбћenн.</text>
+	</string>
+	<string id="ui_elua_licence105">
+		<text>16.5. Ћбdnй opomenutн ani prodlenн ze strany GSC pшi uplatnмnн jakйhokoli prбva nebo nбpravy stanovenйho tнmto Ujednбnнm иi zбkonem nebude pшedstavovat zшeknutн se tohoto prбva ani jakйhokoli jinйho prбva иi nбpravy ani nebude brбnit nebo omezovat dalљн plnмnн tohoto prбva ani jakйhokoli jinйho prбva иi nбpravy, nenн-li v tomto Ujednбnн vэslovnм uvedeno jinak. Ћбdnй jednotlivй ani ибsteиnй plnмnн takovйho prбva иi nбpravy ze strany GSC nevyluиuje ani neomezuje dalљн plnмnн tohoto prбva ani jakйhokoli jinйho prбva иi nбpravy.</text>
+	</string>
+	<string id="ui_elua_licence106">
+		<text>16.6. Toto Ujednбnн spolu s dalљнmi dokumenty, na kterй se zde odkazuje, pшedstavuje celou smlouvu mezi vбmi a nбmi ohlednм hry S.T.A.L.K.E.R. a nahrazuje veљkerй pшedchozн ъstnн иi psanй dohody.</text>
+	</string>
+	<string id="ui_elua_licence107_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence107">
+		<text>17. DODATKY K TOMUTO UJEDNБNН</text>
+	</string>
+	<string id="ui_elua_licence108">
+		<text>17.1. GSC si vyhrazuje prбvo zmмnit toto Ujednбnн na zбkladм vlastnнho uvбћenн. Oznбmenн obdrћнte ve hшe иi jinэm dostupnэm komunikaиnнm prostшedkem.</text>
+	</string>
+	<string id="ui_elua_licence109">
+		<text>17.2. Toto Ujednбnн bude ukonиeno okamћitм po vydбnн aktualizovanйho Ujednбnн a vy budete mнt pшнleћitost si ho pшeинst. Pokud budete hru nadбle pouћнvat a hrбt i po ъpravм Ujednбnн, bude se to povaћovat za vбљ souhlas s upravenэmi podmнnkami.</text>
+	</string>
+	<string id="ui_elua_licence110">
+		<text>Pokud s tмmito zmмnami nebudete souhlasit, nebudete moct pouћнvat hru S.T.A.L.K.E.R..</text>
+	</string>
+	<string id="ui_elua_licence111">
+		<text>Tнmto prohlaљuji, ћe jsem si pшeиetl(a) a pochopil(a) vљechny podmнnky a ustanovenн tohoto Ujednбnн. KLIKNUTНM NA „SOUHLASНM“ beru na vмdomн a souhlasнm, ћe budu vбzбn(a) vљemi podmнnkami a ustanovenнmi tohoto Ujednбnн, coћ pшedstavuje mщj vэslovnэ souhlas se Zбsadami ochrany soukromн a dalљнmi nedнlnэmi souибstmi tohoto Ujednбnн.</text>
+	</string>
+<string id="ui_pad_layout_weapon_zoom_in">
+		<text>Pшiblнћenн</text>
+	</string>
+
+	<string id="ui_pad_layout_weapon_zoom_out">
+		<text>Oddбlenн</text>
+	</string>
+
+</string_table>

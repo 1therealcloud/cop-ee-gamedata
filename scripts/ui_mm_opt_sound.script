@@ -1,0 +1,165 @@
+class "opt_sound" (CUIWindow)
+
+local ColorDisabled = {[0] = 255, [1] = 75, [2] = 75, [3] = 75}
+local CspkColorEnabled = nil
+local DynMusicColorEnabled = nil
+local bCspkOldState = true
+local bDynMusicOldState = true
+
+function opt_sound:__init() super()
+	self.mm_is_controller = main_menu.in_controller_mode()
+end
+
+function opt_sound:__finalize()
+
+end
+
+-- //MTB_Jakub_Jurek [JUD-72] multiline main menu scaling
+function lines_count(obj)
+	textObj = obj:TextControl()
+	textObj:SetWndSize( obj:GetWidth() ,obj:GetHeight())
+	local lineCount = textObj:GetLinesCount()
+	return lineCount
+end
+
+function opt_sound:max_lines_count()
+	local multiline = 1
+	for index, elem in ipairs(self.focusList) do
+		multiline =  math.max(multiline, lines_count(elem[1]))
+	end
+	return multiline
+end
+
+function adjust_to_offset(obj, offset)
+	local pos = obj:GetWndPos()
+	pos.y = pos.y + offset
+	obj:SetWndPos(pos)
+end 
+
+function opt_sound:adjust_position(offsetIncrement)
+	local offset = 0
+	for index, elem in ipairs(self.focusList) do
+		offset = offset + offsetIncrement
+		adjust_to_offset(elem[1],offset)
+		adjust_to_offset(elem[2],offset)
+	end
+end 
+-- //end MTB_Jakub_Jurek [JUD-72] multiline main menu scaling
+
+function opt_sound:InitControls(x, y, xml, handler) -- //MTB_Jakub_Jurek [JUD-72] multiline main menu scaling| changed order of initialization to as seen on screen, its nessecery for scaling to work correctly
+	self.forceUpdateCspk = true
+	self.forceUpdateDynMusic = true
+
+	self:SetWndPos(vector2():set(x,y))
+	self:SetWndSize(vector2():set(738,416))
+	self:SetAutoDelete(true)
+
+--	self.bk = xml:InitFrame("frame", self)
+
+	self.focusList = {}
+	local caption, element, platformStr
+	
+	platformStr = "tab_sound"
+
+	caption = xml:InitStatic		(platformStr..":cap_mastervolume",		self)
+	element = xml:InitTrackBar		(platformStr..":track_mastervolume",self)
+	table.insert(self.focusList, {caption, element} )
+
+	caption =  xml:InitStatic		(platformStr..":cap_musicvolume",			self)
+	element = xml:InitTrackBar		(platformStr..":track_musicvolume",	self)
+	table.insert(self.focusList, {caption, element} )
+
+	caption = xml:InitStatic		(platformStr..":cap_check_dynamic_music",	self)
+	element = xml:InitCheck			(platformStr..":check_dynamic_music",		self)
+	
+	-- mtb-bartlomiej.kunikowski Start: Add dynamic music volume setter	
+	self.check_dyn_music = {}
+	self.check_dyn_music.element = element
+	self.check_dyn_music.caption = caption
+
+	table.insert(self.focusList, {caption, element} )
+
+	caption =  xml:InitStatic		(platformStr..":cap_dynamic_music_volume",		self)
+	element = xml:InitTrackBar		(platformStr..":track_dynamic_music_volume",	self)
+	
+	self.track_dyn_music_vol = {}
+	self.track_dyn_music_vol.element = element
+	self.track_dyn_music_vol.caption = caption
+	
+	table.insert(self.focusList, {caption, element, self.track_dyn_music_vol} )
+	-- mtb-bartlomiej.kunikowski End: Add dynamic music volume setter
+
+	DynMusicColorEnabled = self.track_dyn_music_vol.caption:GetTextColor()
+
+	-- mtb-tomasz.tkaczuk controller speaker settings
+
+	if get_platform_id() == platform_ids.PLATFORM_ORBIS or get_platform_id() == platform_ids.PLATFORM_PROSPERO or get_platform_id() == platform_ids.PLATFORM_WIN64 then
+		caption = xml:InitStatic		(platformStr..":cap_cspk",		self)
+		element = xml:InitCheck			(platformStr..":check_cspk",	self)
+		self.check_cspk = {}
+		self.check_cspk.element = element
+		self.check_cspk.caption = caption
+		table.insert(self.focusList, {caption, element, self.check_cspk} )
+		caption = xml:InitStatic		(platformStr..":cap_cspk_vol",	self)
+		element = xml:InitTrackBar		(platformStr..":track_cspk_vol",self)
+		self.track_cspk_vol = {}
+		self.track_cspk_vol.element = element
+		self.track_cspk_vol.caption = caption
+		table.insert(self.focusList, {caption, element, self.track_cspk_vol} )
+	
+		CspkColorEnabled = self.track_cspk_vol.caption:GetTextColor()
+	end
+	-- mtb-tomasz.tkaczuk controller speaker settings end
+end
+
+function opt_sound:update_controller_speaker()
+	if get_platform_id() == platform_ids.PLATFORM_ORBIS or get_platform_id() == platform_ids.PLATFORM_PROSPERO or get_platform_id() == platform_ids.PLATFORM_WIN64 then
+		local state = self.check_cspk.element:GetCheck()
+
+		if CspkColorEnabled == nil then
+			CspkColorEnabled = self.track_cspk_vol.caption:GetTextColor()
+		end
+
+		if state == bCspkOldState and not self.forceUpdateCspk then
+			return
+		end
+
+		self.track_cspk_vol.hidden = not state
+		self.track_cspk_vol.element:SetVisible(state)
+
+		if state then
+			self.track_cspk_vol.caption:SetTextColorN(CspkColorEnabled)
+		else
+			self.track_cspk_vol.caption:SetTextColor(ColorDisabled[0], ColorDisabled[1], ColorDisabled[2], ColorDisabled[3])
+		end
+
+		bCspkOldState = state
+		self.forceUpdateCspk = false
+	end
+end
+
+-- mtb-bartlomiej.kunikowski Start: Add dynamic music volume setter
+function opt_sound:update_dynamic_music()
+	local state = self.check_dyn_music.element:GetCheck()
+
+	if DynMusicColorEnabled == nil then
+		DynMusicColorEnabled = self.track_dyn_music_vol.caption:GetTextColor()
+	end
+
+	if state == bDynMusicOldState and not self.forceUpdateDynMusic then
+		return
+	end
+
+	self.track_dyn_music_vol.hidden = not state
+	self.track_dyn_music_vol.element:SetVisible(state)
+
+	if state then
+		self.track_dyn_music_vol.caption:SetTextColorN(DynMusicColorEnabled)
+	else
+		self.track_dyn_music_vol.caption:SetTextColor(ColorDisabled[0], ColorDisabled[1], ColorDisabled[2], ColorDisabled[3])
+	end
+
+	bDynMusicOldState = state
+	self.forceUpdateDynMusic = false
+end
+-- mtb-bartlomiej.kunikowski End: Add dynamic music volume setter

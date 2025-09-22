@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ui_pad_layout_lean_right">
+		<text>向右傾斜</text>
+	</string>
+
+	<string id="ui_pad_layout_lean_left">
+		<text>向左傾斜</text>
+	</string>
+
+	<string id="ui_pad_layout_crouch_cod">
+		<text>蹲下/（長按）蹲得更低</text>
+	</string>
+
+	<string id="ui_pad_layout_sprint_crouch_old">
+		<text>衝刺/蹲伏（蹲下時）</text>
+	</string>
+	<string id="ui_pad_layout_crouch_old">
+		<text>蹲伏（蹲下時）</text>
+	</string>
+
+	<string id="c_preset_default">
+		<text>備選選項</text>
+	</string>
+
+	<string id="c_type_general">
+		<text>一般移動</text>
+	</string>
+
+	<string id="c_type_zomming">
+		<text>縮放時</text>
+	</string>
+
+	<string id="c_type_wheel">
+		<text>滾輪選單</text>
+	</string>
+
+	<string id="c_type_talk">
+		<text>談話選單</text>
+	</string>
+
+	<string id="c_type_trade">
+		<text> 交易選單</text>
+	</string>
+
+	<string id="c_type_inventory">
+		<text>庫存選單</text>
+	</string>
+
+	<string id="ui_mm_controlls_preset">
+		<text> 配置</text>
+	</string>
+
+	<string id="ui_elua_disclamer">
+		<text>這是《S.T.A.L.K.E.R.: Call of Prypiat》的主機版本。\n \n 在特異區的世界裡，時間停留在車諾比核災發生的那一刻。雖然我們已經更新了某些元素，一些在我們現在看來具有爭議性的東西還是維持不變，這都是爲了維持游戲的氛圍和真實性。\n 必須承認的是，游戲的某些方面可能與我們現在的觀點和價值不同。然而，那些維持不變的元素是這個游戲系列的遺產，而且我們選擇保持它們最初被設計成的樣子。\n \n 遊戲中所引用的任何内容，都是爲了營造氣氛，並作為游戲美術的歷史參考。我們希望你也會和其他眾多的潛行者一樣愛上變異區和它其中的秘密。\n \n祝你狩獵愉快！\n 真誠的，\n GSC Game World團隊敬上</text>
+		<text_ps5>此為《浩劫殺陣：普里皮亞季的召喚》PlayStation®5主機版本。\n \n 在特異區的世界裡，時間停留在車諾比核災發生的那一刻。雖然我們已經更新了某些元素，一些在我們現在看來具有爭議性的東西還是維持不變，這都是爲了維持游戲的氛圍和真實性。\n 必須承認的是，游戲的某些方面可能與我們現在的觀點和價值不同。然而，那些維持不變的元素是這個游戲系列的遺產，而且我們選擇保持它們最初被設計成的樣子。\n \n 遊戲中所引用的任何内容，都是爲了營造氣氛，並作為游戲美術的歷史參考。我們希望你也會和其他眾多的潛行者一樣愛上變異區和它其中的秘密。\n \n祝你狩獵愉快！\n 真誠的，\n GSC Game World團隊敬上</text_ps5>
+	</string>
+
+	<string id="ls_tip_92">
+		<text>暫停遊戲請按「$$ACTION_PAUSE$$」。</text>
+	</string>
+	<string id="legend_ui_add10">
+		<text>$$ACTION_UI_TAB_LEFT$$/$$ACTION_UI_TAB_RIGHT$$ +/- 10</text>
+	</string>
+
+	<string id="legend_ui_add100">
+		<text>$$ACTION_PDA_TASKS_MAP_ZOOM_IN$$/$$ACTION_PDA_TASKS_MAP_ZOOM_OUT$$ +/- 100</text>
+	</string>
+	<string id="st_press_any_key_PS4">
+		<text>按下任何按鍵開始遊玩</text>
+	</string>
+
+	<string id="ui_mm_mblur_pwr">
+		<text>動態模糊</text>
+	</string>
+
+	<string id="ui_mm_goto_store">
+		<text>$$ACTION_UI_ACTION_2$$ 前往Microsoft Store</text>
+		<text_ps4>$$ACTION_UI_ACTION_2$$ 前往 PlayStation®Store</text_ps4>
+		<text_nx64>$$ACTION_UI_ACTION_2$$ 前往 Nintendo eShop</text_nx64>
+	</string>
+
+	<string id="ui_mm_goto_store_pc">
+		<text>前往商店</text>
+		<text_ps4>前往 PlayStation®Store</text_ps4>
+		<text_xbox>前往Microsoft Store</text_xbox>
+	</string>
+
+	<string id="ui_eula_ps_tech_req">
+		<text>Any content purchased in an in-game store will be purchased from Sony Interactive \nEntertainment Network Europe Limited (“SIENE”) and be subject to PlayStation™Network \nTerms of Service and User Agreement which is available on the PlayStation®Store. Please check usage rights for each purchase as these may differ from item to item. Unless \notherwise shown, content available in any in-game store has the same age rating as the game.</text>
+		<text_US>Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment \nAmerica.</text_US>
+	</string>
+
+	<string id="energy_drink_name">
+		<text>「力不完」能量飲料</text>
+	</string>
+
+	<string id="energy_drink_short_name">
+		<text>「力不完」能量飲料</text>
+	</string>
+
+	<string id="ui_modio_open">
+		<text>開啟瀏覽器</text>
+	</string>
+
+	<string id="ui_modio_loadorder">
+		<text>Mod載入順序</text>
+	</string>
+
+	<string id="ui_modio_logout">
+		<text>登出</text>
+	</string>
+
+	<string id="ui_modio_email">
+		<text>使用電子郵件登入或註冊</text>
+	</string>
+
+	<string id="ui_modio_sendcode">
+		<text>電子郵件程式碼</text>
+	</string>
+
+	<string id="ui_modio_code">
+		<text>請檢視電子郵件以獲得代碼，並在此處輸入該代碼。</text>
+	</string>
+
+	<string id="ui_modio_state">
+		<text>Mod.io狀態</text>
+	</string>
+
+	<string id="ui_modio_state_ready">
+		<text>準備就緒，可以遊玩</text>
+	</string>
+
+	<string id="ui_modio_state_downloading">
+		<text>正在下載Mod</text>
+	</string>
+
+	<string id="ui_modio_state_updating">
+		<text>正在更新Mod</text>
+	</string>
+
+	<string id="ui_modio_state_removing">
+		<text>正在移除Mod</text>
+	</string>
+
+	<string id="ui_modio_user">
+		<text>使用者</text>
+	</string>
+
+	<string id="ui_modio_notlogged">
+		<text>未登入</text>
+	</string>
+
+	<string id="ui_modio_loadorder_automatic">
+		<text>自動</text>
+	</string>
+
+	<string id="ui_modio_loadorder_desc">
+		<text>設定載入Mod的順序，以免覆蓋檔案</text>
+	</string>
+
+	<string id="ui_mm_modmenu">
+		<text>Mod.io</text>
+	</string>
+
+	<string id="ui_mm_sws_menu">
+		<text>Steam 工作坊</text>
+	</string>
+
+	<string id="ui_modio_managerbusy">
+		<text>現在無法開始遊戲！mod.io管理器忙碌中，請稍候</text>
+	</string>
+
+	<string id="ui_modio_nomemory">
+		<text>沒有可用空間，無法安裝Mod！</text>
+	</string>
+
+	<string id="ui_modio_report">
+		<text>檢舉</text>
+	</string>
+
+	<string id="ui_modio_memory">
+		<text>佔用記憶體： </text>
+	</string>
+
+	<string id="ui_terms_of_use">
+		<text>使用條款 </text>
+	</string>
+
+	<string id="legend_ui_modio_edit_order">
+		<text>$$ACTION_UI_ACTION_2$$ 編輯載入順序</text>
+	</string>
+
+	<string id="legend_ui_modio_edit_order_pc">
+		<text>點擊交換載入順序</text>
+		<text_ps5>按下即可交換載入順序</text_ps5>
+		<text_xbox>按下即可交換載入順序</text_xbox>
+	</string>
+
+	<string id="ui_modio_mod_name">
+		<text>Mod名稱：</text>
+	</string>
+
+	<string id="ui_modio_mod_order">
+		<text>順序：</text>
+	</string>
+
+	<string id="ui_mm_adaptive_trigger">
+		<text>自適應扳機 </text>
+	</string>
+
+	<string id="ui_mm_controller_speaker_enable">
+		<text>控制器喇叭</text>
+		<text_ps4>喇叭 </text_ps4>
+	</string>
+
+	<string id="ui_mm_controller_speaker_volume">
+		<text>控制器喇叭音量</text>
+		<text_ps4>喇叭音量 </text_ps4>
+	</string>
+
+	<string id="ui_mm_transfer_saves">
+		<text>移轉存檔</text>
+	</string>
+
+	<string id="ui_mm_enable_fsr">
+		<text>升級類型</text>
+	</string>
+
+	<string id="ui_mm_enable_fsr_sharpen">
+		<text>FSR銳化</text>
+	</string>
+
+	<string id="ui_mm_fsr_sharpeness">
+		<text>FSR 銳化</text>
+	</string>
+
+	<string id="ui_mm_enable_fsr_frame_generation">
+		<text>FSR 畫格生成</text>
+	</string>
+
+	<string id="ui_mm_fsr_quality">
+		<text>升級模式</text>
+	</string>
+
+	<string id="ui_mm_recommended_note">
+		<text>*建議用於可變更新率螢幕，否則可能導致畫面撕裂。</text>
+	</string>
+
+	<string id="ui_grass_distance">
+		<text>草地顯示範圍</text>
+	</string>
+
+	<string id="ui_mm_enable_screen_space_shadows">
+		<text>Screen Space\nShadows</text>
+	</string>
+
+	<string id="ui_mm_enable_screen_space_reflections">
+		<text>Screen Space\nReflections</text>
+	</string>
+
+	<string id="ui_mm_input_method">
+		<text>輸入方式</text>
+	</string>
+
+	<string id="ui_mm_dynamic_music_volume">
+		<text>動態音樂音量</text>
+	</string>
+
+	<string id="ui_mm_enable_screen_space_global_ilumination">
+		<text>Screen Space Global\nIllumination</text>
+	</string>
+
+    <string id="ui_mm_enable_async_compute">
+        <text>Async Compute</text>
+    </string>
+
+	<string id="ui_mm_wireless_controller">
+		<text>無線控制器</text>
+	</string>
+
+	<string id="ui_mm_quality_modes">
+		<text>品質模式</text>
+	</string>
+
+	<string id="ui_opt_quality">
+		<text>品質</text>
+	</string>
+
+	<string id="ui_opt_balanced">
+		<text>平衡</text>
+	</string>
+
+	<string id="ui_opt_performance">
+		<text>性能</text>
+	</string>
+
+	<string id="ui_controller_update_needed">
+		<text>DualSense®無線控制器需要更新</text>
+	</string>
+
+	<string id="ui_control_type_dualsense">
+		<text>DualSense®無線控制器</text>
+	</string>
+
+	<string id="ui_modio_mod_unsubscribed">
+		<text>無法在當前平臺使用！ 已為你取消訂閱該Mod</text>
+	</string>
+
+	<string id="ui_opt_native">
+		<text>原生</text>
+	</string>
+
+	<string id="ui_opt_ultra_performance">
+		<text>超高性能</text>
+	</string>
+
+	<string id="kb_current_task">
+		<text>顯示目前的任務</text>
+	</string>
+
+	<string id="30_mode">
+		<text>品質 </text>
+	</string>
+
+	<string id="40_mode">
+		<text>平衡 </text>
+	</string>
+
+	<string id="60_mode">
+		<text>性能 </text>
+	</string>
+
+	<string id="120_mode">
+		<text>超高性能 </text>
+	</string>
+
+	<string id="120_mode*">
+		<text>超高性能*</text>
+	</string>
+
+	<string id="ui_mm_camera_bobbing">
+		<text>鏡頭搖晃</text>
+	</string>
+
+</string_table>

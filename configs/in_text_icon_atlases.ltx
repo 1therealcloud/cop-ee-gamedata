@@ -1,0 +1,63 @@
+[in_text_icon_atlases]
+in_text_icon_atlas_1
+in_text_icon_atlas_2
+in_text_icon_atlas_3
+in_text_icon_atlas_4
+
+; Reserved ascii codes
+; 129 - xbox1
+; 130 - dualshock (ALSO 131!!! - see ControllerTypeToAtlasId function, DUALSHOCK_JAPAN is 131)
+; 132 - dualsense
+; 133 - switch
+
+[in_text_icon_atlas_1]
+id = xbox1_controller
+ascii = 129
+shader = hud\default
+tex_path = ui\textures_descr
+tex_name = xbox1_controller.xml
+ascii_map_path = ui\ascii_mappings
+ascii_map_name = xbox1_controller_mapping.xml
+ps4 = false ;dont load for this platform, by default we load for all platforms
+ps5 = false
+switch = false
+
+[in_text_icon_atlas_2]
+id = ps4_controller
+ascii = 130
+shader = hud\default
+tex_path = ui\textures_descr
+tex_name = ps4_controller.xml
+ascii_map_path = ui\ascii_mappings
+ascii_map_name = ps4_controller_mapping.xml
+xbox1 = false
+ps5 = false
+switch = false
+
+[in_text_icon_atlas_3]
+id = ps5_controller
+ascii = 132
+shader = hud\default
+tex_path = ui\textures_descr
+tex_name = ps5_controller.xml
+ascii_map_path = ui\ascii_mappings
+ascii_map_name = ps5_controller_mapping.xml
+xbox1 = false
+ps4 = false
+switch = false
+
+[in_text_icon_atlas_4]
+id = switch_controller
+ascii = 133
+shader = hud\default
+tex_path = ui\textures_descr
+tex_name = switch_controller.xml
+ascii_map_path = ui\ascii_mappings
+ascii_map_name = switch_controller_mapping.xml
+xbox1 = false
+ps4 = false
+ps5 = false
+win64 = false
+
+; Additional atlases 
+; for example with UI icons (damage,protections,..)

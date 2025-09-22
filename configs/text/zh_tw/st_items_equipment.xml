@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_antirad">
+		<text>抗輻射藥</text>
+	</string>
+
+	<string id="st_antirad_descr">
+		<text>麥卡米輻射防護藥物在特異區內很常見。使用時，這種藥物會引起周邊血管收縮和缺氧，從而起到治療和預防輻射暴露的作用。該藥物沒有嚴重的副作用，但也有個別病例出現輕微噁心、頭暈、痙攣和胃痛的報告。</text>
+	</string>
+
+	<string id="st_bandage">
+		<text>繃帶</text>
+	</string>
+
+	<string id="st_bandage_descr">
+		<text>一種普通的彈性繃帶，用於止血和防止傷口感染。對於常規出血的情況，請小心地將繃帶包在傷口上。對於動脈出血，請緊急將繃帶綁在患處。</text>
+	</string>
+
+	<string id="st_binocular_descr">
+		<text>標準軍用雙筒望遠鏡，最大放大倍率為 7.5 倍。在特異區中很有用，因為可以讓持有者從遠處觀察事物。</text>
+	</string>
+
+	<string id="st_binocular_name">
+		<text>望遠鏡</text>
+	</string>
+
+	<string id="st_bread">
+		<text>麵包</text>
+	</string>
+
+	<string id="st_bread_descr">
+		<text>特異區裡從來沒有過麵包師傅，但是這個麵包既未受污染，也沒有放射性，而且新鮮可以食用。至少目前為止還沒人投訴過。</text>
+	</string>
+
+	<string id="st_conserva">
+		<text>「訪客的早餐」罐頭</text>
+	</string>
+
+	<string id="st_conserva_descr">
+		<text>據推測，這些罐頭食品是潛行者從一間軍隊糧倉劫來的。罐頭上沒有任何標籤，很難確定。如果你相信最佳食用日期，應該還能吃。</text>
+	</string>
+
+	<string id="st_detector1">
+		<text>迴聲探測器</text>
+	</string>
+
+	<string id="st_detector1_descr">
+		<text>這件過時的特異活動探測器會在接近特異點時發出警示，原因是異常粒子會進入其特殊的內部隔間。它也可顯示神器位置及測量最近神器的距離，距離由探測器發出聲音的頻率來指示。若要切換到神器搜尋模式，請打開設備的前蓋。由於其設計簡單，迴聲只能用於定位最常見的神器。</text>
+	</string>
+
+	<string id="st_detector2">
+		<text>「大熊」探測器</text>
+	</string>
+
+	<string id="st_detector3">
+		<text>貝萊斯探測器</text>
+	</string>
+
+	<string id="st_detector3_descr">
+		<text>下一代科學探測掃描儀。由於內建三個現代化的探測隔間，神器的位置會顯示在一個特殊的螢幕上。關閉時，設備僅記錄輻射和特異點。若要切換到神器搜尋模式，請開啟正面的 LED 顯示器。在搜尋模式下，探測器能夠定位科學已知的所有神器。</text>
+	</string>
+
+	<string id="st_detector4">
+		<text>史瓦羅格探測器原型機</text>
+	</string>
+
+	<string id="st_detector4_descr">
+		<text>擴展功能異常頻率掃描儀的原型機。該設備附帶一個程式，用於識別儲存在其資料庫中的異常活動的靜態區域，同時保留定位神器的能力。特異區域和神器的位置會顯示在特殊螢幕上。神器搜尋模式可透過開啟前置 LED 顯示器來啟用，該模式已被修改為探測目前科學未知的特異構造。</text>
+	</string>
+
+	<string id="st_device_torch_descr">
+		<text>標準頭戴式手電筒。對於天黑後外出的潛行者很有用，但如果使用不當可能會帶來麻煩。</text>
+	</string>
+
+	<string id="st_device_torch_name">
+		<text>手電筒</text>
+	</string>
+
+	<string id="st_drug_anabiotic">
+		<text>復甦劑</text>
+	</string>
+
+	<string id="st_drug_antidot">
+		<text>解毒劑</text>
+	</string>
+
+	<string id="st_drug_antidot_descr">
+		<text>IP2抗毒素是一種由多種解毒劑組成的複合型藥物，包含甲氧氯普胺、吡哆醇、硫胺素、肌苷和其他藥物。使用該藥物會將一系列抗生素與合成毒物吸收劑一起注射到血液中，以中和天然毒物。IP2在特異區並不是特別受歡迎，因為大多數潛行者都依靠防毒面具和防護服，但仍然有人會藏這種解毒劑。該藥物的作用效果是持久的。</text>
+	</string>
+
+	<string id="st_drug_booster">
+		<text>大力丸</text>
+	</string>
+
+	<string id="st_drug_coagulant">
+		<text>長春藥</text>
+	</string>
+
+	<string id="st_drug_coagulant_descr">
+		<text>烏克蘭產止血劑——一種維生素K的人工等效物。該藥物的主要作用是加快血液凝固速度。它在潛行者中需求很大，因為變異體的攻擊會造成癒合很緩慢的傷口和撕裂傷，而該藥可以加速癒合。該藥物的作用效果是持久的。</text>
+	</string>
+
+	<string id="st_drug_psy_blockade">
+		<text>心靈阻斷劑</text>
+	</string>
+
+	<string id="st_drug_psy_blockade_descr">
+		<text>一種阻斷雪崩樣神經衝動的藥物。服用會導致所有情感的短期喪失。專門用於在特異區中抵消特異心靈場域產生的影響。該藥物的作用效果是持久的。</text>
+	</string>
+
+	<string id="st_drug_radioprotector">
+		<text>輻射防護劑</text>
+	</string>
+
+	<string id="st_energy_drink">
+		<text>「力不完」能量飲料</text>
+	</string>
+
+	<string id="st_energy_drink_descr">
+		<text>潛行者在無法休息的長征中時常飲用。飲料中含有容易消化的碳水化合物，以及可刺激腎上腺素釋放的藥物。</text>
+	</string>
+
+	<string id="st_guitar_descr">
+		<text>一把可靠的吉他。</text>
+	</string>
+
+	<string id="st_guitar_name">
+		<text>吉他</text>
+	</string>
+
+	<string id="st_kolbasa">
+		<text>低脂香腸</text>
+	</string>
+
+	<string id="st_kolbasa_descr">
+		<text>不管好壞，這款香腸（以雞肉和大豆替代品混製而成）常常作為潛行者的三餐。由於其防腐劑含量高，可以長期保存。</text>
+	</string>
+
+	<string id="st_medkit">
+		<text>急救箱</text>
+	</string>
+
+	<string id="st_medkit_army">
+		<text>軍隊醫療包</text>
+	</string>
+
+	<string id="st_medkit_army_descr">
+		<text>用於為戰場上的傷者提供急救的專用醫療包，包括基於甲萘醌的凝血劑、止痛藥、抗生素和免疫增強劑，以及用於從體內取出子彈和碎片的套件。該醫療包作為標準補給發放給軍隊人員，有時也供紀律團使用。</text>
+	</string>
+
+	<string id="st_medkit_descr">
+		<text>通用一次性醫療包。方便治療各種傷害——創傷、瘀傷、普通燒傷和化學燒傷以及各種類型的中毒。在潛行者中很受歡迎。</text>
+	</string>
+
+	<string id="st_medkit_science">
+		<text>科學醫療包</text>
+	</string>
+
+	<string id="st_medkit_science_descr">
+		<text>特別設計給特異區使用的醫藥工具箱。包含了用於處理傷口、預防輻射中毒和減少體內累積輻射的用品。與其他醫療包不同，它還含有止血劑、鯊肝醇和萘甲唑啉。</text>
+	</string>
+
+	<string id="st_pda_descr">
+		<text>無資料。</text>
+	</string>
+
+	<string id="st_pda_name">
+		<text>PDA</text>
+	</string>
+
+	<string id="st_vodka">
+		<text>哥薩克伏特加</text>
+	</string>
+
+	<string id="st_vodka_descr">
+		<text>GSC 製造。順口，並可顯著降低輻射影響。應適度享用。</text>
+	</string>
+
+	<string id="st_detector2_descr">
+		<text>最後一代特異活動探測器可用於定位特異結構，並具有彩色二極體面板，不僅可以指示神器的方向，還可以測量到神器的距離。若要切換到神器搜尋模式，請開啟裝置的前蓋。遺憾的是，該設備在編程時使用的可探測神器清單有點過時。</text>
+	</string>
+
+	<string id="st_drug_anabiotic_descr">
+		<text>奧澤斯基教授為在特異區工作的科學研究團隊開發的實驗性藥物。該藥物的核心成分是河豚毒素，俗稱「殭屍粉」，它會導致人體中樞神經系統完全關閉，使人們能夠在能量釋放時的掩體外生存。該藥物尚未經過臨床或現場測試，這使其有效性受到質疑，並引發了可能的副作用問題。</text>
+	</string>
+
+	<string id="st_bolt">
+		<text>螺栓</text>
+	</string>
+
+	<string id="st_drug_booster_descr">
+		<text>該產品的主要成分是合成代謝雄激素，一種人造類固醇，其化學成分類似於睪固酮。潛行者經常在長時間的襲擊中使用它來減輕肌肉疲勞。它能顯著提升負重能力。該藥物的作用效果是持久的。</text>
+	</string>
+
+	<string id="st_drug_radioprotector_descr">
+		<text>B190 吲哚林輻射防護劑，包含在發給核電廠工作人員的醫療包中。用於取代之前在特異區使用的PC1胱胺鹽酸鹽，因毒性過大，重複使用經常導致死亡。它能減少伽瑪輻射對活體組織的影響。鑑於其並非是立竿見影的效果，最好在接觸輻射之前食用。該藥物的作用效果是持久的。</text>
+	</string>
+
+	<string id="st_harmonica_name">
+		<text>口琴</text>
+	</string>
+
+	<string id="st_harmonica_descr">
+		<text>適合藍調和監獄浪漫愛好者。</text>
+	</string>
+
+</string_table>

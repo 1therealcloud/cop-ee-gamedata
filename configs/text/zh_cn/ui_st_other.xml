@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="Btn_Cancel">
+		<text>取消</text>
+	</string>
+
+	<string id="Btn_No">
+		<text>否</text>
+	</string>
+
+	<string id="Btn_OK">
+		<text>确认</text>
+	</string>
+
+	<string id="Btn_Yes">
+		<text>是</text>
+	</string>
+
+	<string id="bad">
+		<text>差</text>
+	</string>
+
+	<string id="enemy">
+		<text>敌人</text>
+	</string>
+
+	<string id="excellent">
+		<text>杰出</text>
+	</string>
+
+	<string id="experienced">
+		<text>老手</text>
+	</string>
+
+	<string id="friendly">
+		<text>友军</text>
+	</string>
+
+	<string id="global_map">
+		<text>变异区地图</text>
+	</string>
+
+	<string id="good">
+		<text>好</text>
+	</string>
+
+	<string id="indifferent">
+		<text>冷淡</text>
+	</string>
+
+	<string id="master">
+		<text>大师</text>
+	</string>
+
+	<string id="mm_mp_pda_hunt">
+		<text>PDA 奖励分数</text>
+	</string>
+
+	<string id="mp_only_one_voting">
+		<text>只允许存在一个活跃投票。</text>
+	</string>
+
+	<string id="neutral">
+		<text>中立</text>
+	</string>
+
+	<string id="novice">
+		<text>菜鸟</text>
+	</string>
+
+	<string id="st_game">
+		<text>游戏</text>
+	</string>
+
+	<string id="st_item_used">
+		<text>使用过的</text>
+	</string>
+
+	<string id="st_level">
+		<text>等级</text>
+	</string>
+
+	<string id="st_loading_ai_objects">
+		<text>正在读取 AI 对象</text>
+	</string>
+
+	<string id="st_loading_alife_simulator">
+		<text>服务器：正在读取人工生命模拟器</text>
+	</string>
+
+	<string id="st_loading_cform">
+		<text>正在读取 CFORM</text>
+	</string>
+
+	<string id="st_loading_details">
+		<text>正在读取细节</text>
+	</string>
+
+	<string id="st_loading_geometry">
+		<text>正在读取地形</text>
+	</string>
+
+	<string id="st_loading_saved_game">
+		<text>正在读取游戏进度</text>
+	</string>
+
+	<string id="st_loading_sectors_portals">
+		<text>正在读取区域与入口</text>
+	</string>
+
+	<string id="st_loading_shaders">
+		<text>正在读取着色器</text>
+	</string>
+
+	<string id="st_loading_spatial_db">
+		<text>正在读取空间资料</text>
+	</string>
+
+	<string id="st_loading_textures">
+		<text>正在读取材质</text>
+	</string>
+
+	<string id="st_mp_direct_ip">
+		<text>直连 IP</text>
+	</string>
+
+	<string id="st_no_active_task">
+		<text>没有进行中的任务</text>
+	</string>
+
+	<string id="st_not_enough_money">
+		<text>金钱不足</text>
+	</string>
+
+	<string id="st_not_enough_money_npc">
+		<text>NPC 的金钱不足</text>
+	</string>
+
+	<string id="st_opening_stream">
+		<text>正在开启串流</text>
+	</string>
+
+	<string id="st_prefetching_objects">
+		<text>正在预载入资料</text>
+	</string>
+
+	<string id="st_rubles">
+		<text>金钱。</text>
+	</string>
+
+	<string id="st_server_connecting">
+		<text>服务器：正在连接</text>
+	</string>
+
+	<string id="st_server_starting">
+		<text>服务器：正在开始</text>
+	</string>
+
+	<string id="st_validating_cdkey">
+		<text>正在确认 CD Key</text>
+	</string>
+
+	<string id="st_video">
+		<text>视频</text>
+	</string>
+
+	<string id="terrible">
+		<text>可怕</text>
+	</string>
+
+	<string id="ui_inv_repair">
+		<text>修理</text>
+	</string>
+
+	<string id="ui_st_cant_run_r2">
+		<text>你的电脑无法执行着色 2</text>
+	</string>
+
+	<string id="ui_st_community">
+		<text>派系</text>
+	</string>
+
+	<string id="ui_st_conn_cdkey_disabled">
+		<text>连接错误：你的 CD-Key 被禁用。请联系客服。</text>
+	</string>
+
+	<string id="ui_st_conn_cdkey_in_use">
+		<text>连接错误：CD-Key 已被使用</text>
+	</string>
+
+	<string id="ui_st_conn_cdkey_invalid">
+		<text>连接错误：无效 CD-Key</text>
+	</string>
+
+	<string id="ui_st_conn_invalid_host">
+		<text>连接错误：无效主机</text>
+	</string>
+
+	<string id="ui_st_conn_invalid_pass">
+		<text>连接错误：无效密码</text>
+	</string>
+
+	<string id="ui_st_conn_new_patch">
+		<text>有新补丁可用。\n版本：%s\n位置：%s\n你想立即下载吗？</text>
+	</string>
+
+	<string id="ui_st_conn_no_new_patch">
+		<text>目前无新补丁可用</text>
+	</string>
+
+	<string id="ui_st_conn_rejected_server">
+		<text>连接错误：连接被服务器拒绝</text>
+	</string>
+
+	<string id="ui_st_conn_sess_full">
+		<text>连接错误：服务器已满员</text>
+	</string>
+
+	<string id="ui_st_conn_version_differs">
+		<text>连接错误：版本不同</text>
+	</string>
+
+	<string id="ui_st_connecting_to_masterserver">
+		<text>正在连接至主服务器</text>
+	</string>
+
+	<string id="ui_st_days">
+		<text>天</text>
+	</string>
+
+	<string id="ui_st_error">
+		<text>错误</text>
+	</string>
+
+	<string id="ui_st_error_loading">
+		<text>读取错误</text>
+	</string>
+
+	<string id="ui_st_file_exist_owerwrite_q">
+		<text>已存在同名文件。是否覆盖？</text>
+	</string>
+
+	<string id="ui_st_file_name_is_empty">
+		<text>文件名是空的</text>
+	</string>
+
+	<string id="ui_st_hours">
+		<text>小时</text>
+	</string>
+
+	<string id="ui_st_kicked_by_battleye">
+		<text>被 BattleEye 保护系统断开连接：</text>
+	</string>
+
+	<string id="ui_st_kicked_by_server">
+		<text>已断开连接。原因：</text>
+	</string>
+
+	<string id="ui_st_leave">
+		<text>离开</text>
+	</string>
+
+	<string id="ui_st_load_game_confirm">
+		<text>读取这个文件会导致未保存的数据丢失。要继续吗？</text>
+	</string>
+
+	<string id="ui_st_mins">
+		<text>分钟</text>
+	</string>
+
+	<string id="ui_st_months">
+		<text>月</text>
+	</string>
+
+	<string id="ui_st_opponent_items">
+		<text>背包</text>
+	</string>
+
+	<string id="ui_st_params">
+		<text>参数</text>
+	</string>
+
+	<string id="ui_st_patch_download_error">
+		<text>无法下载补丁。</text>
+	</string>
+
+	<string id="ui_st_patch_download_success">
+		<text>下载补丁成功。要安装吗？</text>
+	</string>
+
+	<string id="ui_st_price">
+		<text>价格</text>
+	</string>
+
+	<string id="ui_st_rank">
+		<text>等级</text>
+	</string>
+
+	<string id="ui_st_relation">
+		<text>态度</text>
+	</string>
+
+	<string id="ui_st_reputation">
+		<text>声望</text>
+	</string>
+
+	<string id="ui_st_secs">
+		<text>秒</text>
+	</string>
+
+	<string id="ui_st_select_one_map">
+		<text>请选择至少一个地图</text>
+	</string>
+
+	<string id="ui_st_take_all">
+		<text>全部拿取</text>
+	</string>
+
+	<string id="ui_st_time_remains">
+		<text>剩余</text>
+	</string>
+
+	<string id="ui_st_voting_disabled">
+		<text>投票失败</text>
+	</string>
+
+	<string id="ui_st_want_to_leave_game_q">
+		<text>是否离开游戏？</text>
+	</string>
+
+	<string id="ui_total_price">
+		<text>总计</text>
+	</string>
+
+	<string id="very_bad">
+		<text>很差</text>
+	</string>
+
+	<string id="very_good">
+		<text>很好</text>
+	</string>
+
+	<string id="veteran">
+		<text>老兵</text>
+	</string>
+
+	<string id="ui_st_inv_repair">
+		<text>修理</text>
+	</string>
+
+	<string id="ui_repair_button_hint">
+		<text>修理所选物品</text>
+	</string>
+
+	<string id="st_key_notbinded">
+		<text>…</text>
+	</string>
+
+	<string id="ui_st_upgrade">
+		<text>修理/改造</text>
+	</string>
+
+	<string id="ui_st_buy">
+		<text>购买</text>
+	</string>
+
+	<string id="ui_st_sell">
+		<text>出售</text>
+	</string>
+
+	<string id="ui_st_trade">
+		<text>交易</text>
+	</string>
+
+	<string id="ui_st_exit_hint">
+		<text>关闭窗口（$$ACTION_USE$$）</text>
+	</string>
+
+	<string id="ui_st_trade_hint">
+		<text>打开交易窗口（$$ACTION_run_or_lie_down$$）</text>
+	</string>
+
+	<string id="ui_st_upgrade_hint">
+		<text>打开修理与改造窗口（$$ACTION_run_or_lie_down$$）</text>
+	</string>
+
+	<string id="ui_st_take_all_hint">
+		<text>将所有物品移动到你的背包（$$ACTION_run_or_lie_down$$）</text>
+	</string>
+
+	<string id="ui_st_buy_hint">
+		<text>购买所选物品</text>
+	</string>
+
+	<string id="ui_st_sell_hint">
+		<text>出售所选物品</text>
+	</string>
+
+	<string id="ui_st_upgrade_console">
+		<text>$$ACTION_talk_trade_upgrade$$修理/改装</text>
+	</string>
+
+</string_table>

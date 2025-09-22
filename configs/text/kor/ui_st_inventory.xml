@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_drop_amount">
+		<text>폐기 합계</text>
+	</string>
+
+	<string id="quick_use_str_4">
+		<text>$$ACTION_QUICK_USE_4$$</text>
+	</string>
+
+	<string id="quick_use_str_1">
+		<text>$$ACTION_QUICK_USE_1$$</text>
+	</string>
+
+	<string id="st_detach_quickslot">
+		<text>퀵슬롯에서 해제</text>
+	</string>
+
+	<string id="st_move_to_quickslot">
+		<text>퀵슬롯에 장착</text>
+	</string>
+
+	<string id="not_enough_money_actor">
+		<text>돈이 부족합니다</text>
+	</string>
+
+	<string id="not_enough_money_partner">
+		<text>캐릭터 보유 금액이 부족합니다</text>
+	</string>
+
+	<string id="quick_use_str_2">
+		<text>$$ACTION_QUICK_USE_2$$</text>
+	</string>
+
+	<string id="quick_use_str_3">
+		<text>$$ACTION_QUICK_USE_3$$</text>
+	</string>
+
+	<string id="st_activate_artefact">
+		<text>아티팩트 활성화</text>
+	</string>
+
+	<string id="st_attach_gl_to_rifle">
+		<text>유탄 발사기 부착</text>
+	</string>
+
+	<string id="st_attach_scope_to_pistol">
+		<text>조준경 부착</text>
+	</string>
+
+	<string id="st_attach_silencer_to_pistol">
+		<text>소음기 부착</text>
+	</string>
+
+	<string id="st_base_cost">
+		<text>가격</text>
+	</string>
+
+	<string id="st_community">
+		<text>그룹:</text>
+	</string>
+
+	<string id="st_condition">
+		<text>내구도</text>
+	</string>
+
+	<string id="st_detach_gl">
+		<text>유탄 발사기 해제</text>
+	</string>
+
+	<string id="st_detach_scope">
+		<text>조준경 해제</text>
+	</string>
+
+	<string id="st_detach_silencer">
+		<text>소음기 해제</text>
+	</string>
+
+	<string id="st_dress_outfit">
+		<text>착용</text>
+	</string>
+
+	<string id="st_drop">
+		<text>버리기</text>
+	</string>
+
+	<string id="st_drop_all">
+		<text>전부 버리기</text>
+	</string>
+
+	<string id="st_eat">
+		<text>먹기</text>
+	</string>
+
+	<string id="st_kg">
+		<text>kg</text>
+	</string>
+
+	<string id="st_move_on_belt">
+		<text>허리띠에 부착</text>
+	</string>
+
+	<string id="st_move_to_bag">
+		<text>배낭으로 이동</text>
+	</string>
+
+	<string id="st_move_to_slot">
+		<text>슬롯으로 이동</text>
+	</string>
+
+	<string id="st_no_trade_tip_1">
+		<text>상인이 이런 종류의 아이템에 관심이 없습니다.</text>
+	</string>
+
+	<string id="st_no_trade_tip_2">
+		<text>아이템 손상이 심해서 거래할 수 없습니다.</text>
+	</string>
+
+	<string id="st_play">
+		<text>플레이</text>
+	</string>
+
+	<string id="st_sell_item">
+		<text>아이템 판매</text>
+	</string>
+
+	<string id="st_ui_armor_static">
+		<text>방어구 내구도</text>
+	</string>
+
+	<string id="st_ui_main_sensor">
+		<text>방사능 오염</text>
+	</string>
+
+	<string id="st_undress_outfit">
+		<text>복장 해제</text>
+	</string>
+
+	<string id="st_unload_magazine">
+		<text>탄창 비우기</text>
+	</string>
+
+	<string id="st_use">
+		<text>사용하기</text>
+	</string>
+
+	<string id="st_weight">
+		<text>무게</text>
+	</string>
+
+	<string id="ui_ammo_count">
+		<text>탄창 용량</text>
+	</string>
+
+	<string id="ui_inv_accuracy">
+		<text>명중률</text>
+	</string>
+
+	<string id="ui_inv_ammo_pistol">
+		<text>기본 권총 탄약 구입 (Q)</text>
+	</string>
+
+	<string id="ui_inv_ammo_rifle">
+		<text>소총 탄약 구입 (W)</text>
+	</string>
+
+	<string id="ui_inv_bleeding">
+		<text>부상 치유</text>
+	</string>
+
+	<string id="ui_inv_cancel">
+		<text>취소</text>
+	</string>
+
+	<string id="ui_inv_cant_buy_item">
+		<text>무기 구매 불가</text>
+	</string>
+
+	<string id="ui_inv_count_restr">
+		<text>수량 제한</text>
+	</string>
+
+	<string id="ui_inv_damage">
+		<text>위력</text>
+	</string>
+
+	<string id="ui_inv_default(F5)">
+		<text>기본 (F5)</text>
+	</string>
+
+	<string id="ui_inv_exit">
+		<text>뒤로</text>
+	</string>
+
+	<string id="ui_inv_granadelauncher_rifle">
+		<text>소총용 언더배럴 유탄 발사기 구입 (D)</text>
+	</string>
+
+	<string id="ui_inv_granades_rifle">
+		<text>언더배럴 유탄 발사기 유탄 구입 (E)</text>
+	</string>
+
+	<string id="ui_inv_handling">
+		<text>조작성</text>
+	</string>
+
+	<string id="ui_inv_has">
+		<text>현재</text>
+	</string>
+
+	<string id="ui_inv_health">
+		<text>체력 회복</text>
+	</string>
+
+	<string id="ui_inv_heavy_weapons">
+		<text>중화기</text>
+	</string>
+
+	<string id="ui_inv_last_buy">
+		<text>이전에 구매한 로드아웃 구입</text>
+	</string>
+
+	<string id="ui_inv_last_buy(F4)">
+		<text>이전 (F4)</text>
+	</string>
+
+	<string id="ui_inv_money">
+		<text>돈</text>
+	</string>
+
+	<string id="ui_inv_need">
+		<text>필요</text>
+	</string>
+
+	<string id="ui_inv_not_enought_money">
+		<text>자금이 부족합니다.</text>
+	</string>
+
+	<string id="ui_inv_ok">
+		<text>확인</text>
+	</string>
+
+	<string id="ui_inv_outfit_additional_weight">
+		<text>운반 무게</text>
+	</string>
+
+	<string id="ui_inv_outfit_burn_protection">
+		<text>화상 보호</text>
+	</string>
+
+	<string id="ui_inv_outfit_chemical_burn_protection">
+		<text>화학 화상 보호</text>
+	</string>
+
+	<string id="ui_inv_outfit_fire_wound_protection">
+		<text>방어력</text>
+	</string>
+
+	<string id="ui_inv_outfit_radiation_protection">
+		<text>방사능 보호</text>
+	</string>
+
+	<string id="ui_inv_outfit_shock_protection">
+		<text>전기 보호</text>
+	</string>
+
+	<string id="ui_inv_outfit_telepatic_protection">
+		<text>정신 보호</text>
+	</string>
+
+	<string id="ui_inv_outfit_wound_protection">
+		<text>충격 보호</text>
+	</string>
+
+	<string id="ui_inv_power">
+		<text>지구력 회복</text>
+	</string>
+
+	<string id="ui_inv_preset1(F1)">
+		<text>로드아웃 1 (F1)</text>
+	</string>
+
+	<string id="ui_inv_preset2(F2)">
+		<text>로드아웃 2 (F2)</text>
+	</string>
+
+	<string id="ui_inv_preset3(F3)">
+		<text>로드아웃 3 (F3)</text>
+	</string>
+
+	<string id="ui_inv_radiation">
+		<text>방사능</text>
+	</string>
+
+	<string id="ui_inv_rank_restr">
+		<text>계급 제한</text>
+	</string>
+
+	<string id="ui_inv_rate_of_fire">
+		<text>발사 속도</text>
+	</string>
+
+	<string id="ui_inv_reset_items(C)">
+		<text>비우기 (C)</text>
+	</string>
+
+	<string id="ui_inv_rifles">
+		<text>돌격 소총</text>
+	</string>
+
+	<string id="ui_inv_satiety">
+		<text>허기 해소</text>
+	</string>
+
+	<string id="ui_inv_scope_rifle">
+		<text>소총용 광학 조준경 구입 (S)</text>
+	</string>
+
+	<string id="ui_inv_sell_items(X)">
+		<text>배낭 아이템 전부 판매 (X)</text>
+	</string>
+
+	<string id="ui_inv_shotguns">
+		<text>소총</text>
+	</string>
+
+	<string id="ui_inv_silencer_pistol">
+		<text>권총용 소음기 구입 (A)</text>
+	</string>
+
+	<string id="ui_inv_silencer_rifle">
+		<text>소총용 소음기 구입 (F)</text>
+	</string>
+
+	<string id="ui_inv_sniper_rifles">
+		<text>저격 소총</text>
+	</string>
+
+	<string id="ui_inv_time">
+		<text>시간</text>
+	</string>
+
+	<string id="ui_inv_you_already_have">
+		<text>이미 1개 보유 중</text>
+	</string>
+
+	<string id="ui_st_err_gs_not_available">
+		<text>온라인 S.T.A.L.K.E.R. 서비스를 이용할 수 없습니다.</text>
+	</string>
+
+	<string id="ui_st_err_sb_master_server_conn_fail">
+		<text>마스터 서버에 연결할 수 없습니다.</text>
+	</string>
+
+	<string id="ui_st_outfit_protect">
+		<text>보호:</text>
+	</string>
+
+	<string id="ui_st_preset_def">
+		<text>기본</text>
+	</string>
+
+	<string id="ui_st_preset_stored_to">
+		<text>구입한 로드아웃 저장 -</text>
+	</string>
+
+	<string id="ui_total_weight">
+		<text>무게 합계:</text>
+	</string>
+
+	<string id="st_drink">
+		<text>마시기</text>
+	</string>
+
+	<string id="ui_inv_outfit_power_restore">
+		<text>지구력 회복</text>
+	</string>
+
+	<string id="st_ui_bleeding_sensor">
+		<text>출혈</text>
+	</string>
+
+	<string id="ui_inv_weight">
+		<text>최대 무게</text>
+	</string>
+
+	<string id="st_ui_health_sensor">
+		<text>체력</text>
+	</string>
+
+	<string id="ui_ammo_types">
+		<text>탄약</text>
+	</string>
+
+	<string id="ui_inv_effect_time">
+		<text>지속 시간</text>
+	</string>
+
+	<string id="ui_inv_seconds_short">
+		<text>초</text>
+	</string>
+
+	<string id="ui_inv_survive_surge">
+		<text>에미션 생존 허용</text>
+	</string>
+
+	<string id="st_undress_helmet">
+		<text>헬멧 착용</text>
+	</string>
+
+	<string id="st_dress_helmet">
+		<text>헬멧 벗기</text>
+	</string>
+
+</string_table>

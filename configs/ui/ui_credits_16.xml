@@ -1,0 +1,128 @@
+<credits_seq>
+  <over_main_menu>1</over_main_menu>
+  <persistent>1</persistent>
+  <global_wnd width="1024" height="768">
+
+	  <auto_static x="482" y="87" width="28" height="32" stretch="1">
+		  <texture width="32" height="32">ui\video_crow</texture>
+	  </auto_static>
+
+	  <auto_static x="85" y="0" width="854" height="768" stretch="1">
+		  <texture>ui_credits_background</texture>
+	  </auto_static>
+
+      <auto_static x="186" y="436" width="668" height="320" stretch="1">
+        <texture x="1" y="1" width="798" height="318">ui\video_tuman</texture>
+      </auto_static>
+
+      <auto_static x="0" y="0" width="85" height="768" stretch="1">
+        <texture>ui_credits_left_widepanel</texture>
+      </auto_static>
+      <auto_static x="938" y="0" width="86" height="768" stretch="1">
+        <texture>ui_credits_right_widepanel</texture>
+      </auto_static>
+
+    <function_on_stop>xr_effects.after_credits</function_on_stop>
+
+			<input_legend x="0" y="720" width="1024" height="50">
+				<scroll_area_margins left="30" right="30" top="0" bottom="0"/>
+				<text align="c" vert_align="c" font="graffiti22" color="ilegendtext"/>
+				<item string_id="legend_ui_back"/>
+			</input_legend>
+			
+  </global_wnd>
+#include "ui\ui_credits_jp2.xml"
+</credits_seq>
+
+<credits_seq_video64>
+<!-- only fix crow texture size (64x64) -->
+
+  <over_main_menu>1</over_main_menu>
+  <persistent>1</persistent>
+  <global_wnd width="1024" height="768">
+
+      <auto_static x="475" y="88" width="32" height="32" stretch="1">
+        <texture width="64" height="64">ui\video_crow</texture>
+      </auto_static>
+
+			<auto_static width="1024" height="768">
+				<texture>ui_credits_background</texture>
+			</auto_static>
+
+      <auto_static x="121" y="436" width="800" height="320" stretch="1">
+        <texture  x="1" y="1" width="798" height="318">ui\video_tuman</texture>
+      </auto_static>
+
+    <function_on_stop>xr_effects.after_credits</function_on_stop>
+  </global_wnd>
+
+#include "ui\ui_credits_jp2.xml"
+</credits_seq_video64>
+
+<!-- mtb-bartlomiej.kunikowski Start: Add one merged video as background -->
+<credits_seq_orbis>
+	<over_main_menu>1</over_main_menu>
+	<persistent>1</persistent>
+	<global_wnd width="1024" height="768">
+
+		<auto_static x="0" y="0" width="1024" height="768" stretch="1">
+			<texture x="0" y="0" width="1920" height="1080">ui\ui_mm_credits_back_new</texture>
+		</auto_static>
+
+		<function_on_stop>xr_effects.after_credits</function_on_stop>
+	</global_wnd>
+
+#include "ui\ui_credits_jp2.xml"
+</credits_seq_orbis>
+<!-- mtb-bartlomiej.kunikowski End -->
+
+<credits_seq_jp2>
+	<over_main_menu>1</over_main_menu>
+	<persistent>1</persistent>
+	<global_wnd width="1024" height="768">
+
+		<auto_static x="0" y="0" width="1024" height="768" stretch="1">
+			<texture x="0" y="0" width="1920" height="1080">ui\ui_mm_credits_back_new</texture>
+		</auto_static>
+
+		<function_on_stop>xr_effects.after_credits</function_on_stop>
+	</global_wnd>
+
+#include "ui\ui_credits_jp2.xml"
+</credits_seq_jp2>
+
+<!-- mtb-anna.galach Start: Add one merged video as background -->
+<credits_seq_4k>
+	<over_main_menu>1</over_main_menu>
+	<persistent>1</persistent>
+	<global_wnd width="1024" height="768">
+
+		<auto_static x="0" y="0" width="1024" height="768" stretch="1">
+			<texture x="0" y="0" width="3840" height="2160">ui\ui_mm_credits_back_new</texture>
+		</auto_static>
+
+		<function_on_stop>xr_effects.after_credits</function_on_stop>
+	</global_wnd>
+
+#include "ui\ui_credits_jp2.xml"
+</credits_seq_4k>
+<!-- mtb-anna.galach End -->
+
+<!-- MTB-Damian.Romanik [JP2-102] Start: Add credits for NX64 -->
+
+<credits_seq_nx64>
+	<over_main_menu>1</over_main_menu>
+	<persistent>1</persistent>
+	<global_wnd width="1024" height="768">
+
+		<auto_static x="0" y="0" width="1024" height="768" stretch="1">
+			<texture x="0" y="0" width="1280" height="720">ui\ui_mm_credits_back_nx64</texture>
+		</auto_static>
+
+		<function_on_stop>xr_effects.after_credits</function_on_stop>
+	</global_wnd>
+
+#include "ui\ui_credits_jp2.xml"
+</credits_seq_nx64>
+
+<!-- MTB-Damian.Romanik [JP2-102] End: Add credits for NX64 -->

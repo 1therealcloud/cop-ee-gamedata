@@ -1,0 +1,8 @@
+function debug_on()
+local c = get_console()
+end
+
+
+function debug_off()
+local c = get_console()
+end

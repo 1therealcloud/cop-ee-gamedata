@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ls_c_tip_82">
+		<text>有些地方即使蹲下也无法通过。如果你想尽可能地蹲得更低，长按$$ACTION_CROUCH$$。</text>
+	</string>
+	<string id="legend_ui_talk_reply">
+		<text>$$ACTION_UI_ACCEPT$$/$$ACTION_UI_ACTION_1$$ 谈话</text>
+	</string>
+</string_table>

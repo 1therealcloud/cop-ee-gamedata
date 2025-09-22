@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="pri_a17_get_gauss_rifle_documentation_name">
+		<text>62號物品：在測試場找文件</text>
+	</string>
+
+	<string id="pri_a17_get_gauss_rifle_documentation_text">
+		<text>你需要找到與62號物品有關的文件。文件應該能說明，該武器是否被用來擊落直升機。</text>
+	</string>
+
+	<string id="pri_a17_get_in_cover_name">
+		<text>不明武器：躲進建築物內</text>
+	</string>
+
+	<string id="pri_a17_get_in_cover_text">
+		<text>你必須躲進建築物內，並擊退黑石組的攻擊。</text>
+	</string>
+
+	<string id="pri_a17_get_info_name">
+		<text>不明武器：尋找資訊</text>
+	</string>
+
+	<string id="pri_a17_get_info_text">
+		<text>該武器無法使用，也不清楚如何能用。你需要找到了解這種不明武器的技術人員。</text>
+	</string>
+
+	<string id="pri_a17_kill_preacher_name">
+		<text>不明武器：殺死黑石組小隊的領袖</text>
+	</string>
+
+	<string id="pri_a17_kill_preacher_text">
+		<text>你必須殺死黑石組小隊的領袖，就是那個使用不明武器的人。</text>
+	</string>
+
+	<string id="pri_a17_maraud_name">
+		<text>不明武器：搜索死去的黑石組戰士</text>
+	</string>
+
+	<string id="pri_a17_maraud_text">
+		<text>黑石組戰士身上應該會有不明武器——找出來。</text>
+	</string>
+
+	<string id="pri_a17_stalker_tech_produce_62_get_info_name">
+		<text>不明武器：與卡丹交談</text>
+	</string>
+
+	<string id="pri_a17_stalker_tech_produce_62_get_info_text">
+		<text>卡丹應該已經宿醉醒了——是時候跟他聊聊不明武器了。</text>
+	</string>
+
+	<string id="pri_a17_stalker_tech_produce_62_show_name">
+		<text>不明武器：等卡丹清醒過來</text>
+	</string>
+
+	<string id="pri_a17_stalker_tech_produce_62_show_text">
+		<text>卡丹可能知道這個武器——等他醒來，你得和他談談。</text>
+	</string>
+
+	<string id="pri_a17_talk_with_kovalski_about_gauss_rifle_information_name">
+		<text>高斯步槍：告訴柯瓦斯基這件武器的事</text>
+	</string>
+
+	<string id="pri_a17_talk_with_kovalski_about_gauss_rifle_information_text">
+		<text>你得和柯瓦斯基說所有你知道的，與62號物品有關的資訊。</text>
+	</string>
+
+	<string id="pri_a17_task_find_gauss_rifle_name">
+		<text>不明武器：加入小隊</text>
+	</string>
+
+	<string id="pri_a17_task_find_gauss_rifle_text">
+		<text>你得加入特殊小隊，以一起奪取武器。</text>
+	</string>
+
+	<string id="pri_a17_task_get_gauss_rifle_from_preacher_name">
+		<text>不明武器：撿起武器</text>
+	</string>
+
+	<string id="pri_a17_task_get_gauss_rifle_from_preacher_text">
+		<text>你得撿起黑石組領袖的武器。</text>
+	</string>
+
+	<string id="pri_a17_task_give_gauss_rifle_to_kovalski_name">
+		<text>不明武器：把武器帶給柯瓦斯基</text>
+	</string>
+
+	<string id="pri_a17_task_give_gauss_rifle_to_kovalski_text">
+		<text>你有了武器——現在你應該給柯瓦斯基看看，並找出此武器是否造成直升機墜毀。</text>
+	</string>
+
+	<string id="pri_a17_watch_recons_six_name">
+		<text>不明武器：參與伏擊黑石組</text>
+	</string>
+
+	<string id="pri_a17_watch_recons_six_text">
+		<text>軍事偵查隊正在設埋伏攻擊黑石組小隊。你應該參與這場行動。</text>
+	</string>
+
+	<string id="pri_a18_get_reinforcement_name">
+		<text>黑石組部隊：與增援部隊會合</text>
+	</string>
+
+	<string id="pri_a18_get_reinforcement_text">
+		<text>科瓦斯基派遣增援來幫助你消滅藏在書店內的黑石組。</text>
+	</string>
+
+	<string id="pri_a18_go_post_name">
+		<text>黑石組部隊：清空書店</text>
+	</string>
+
+	<string id="pri_a18_go_post_text">
+		<text>你必須消滅建築內所有的黑石組兵力。大型黑石組單位對軍隊會造成威脅。</text>
+	</string>
+
+	<string id="pri_a18_use_idol_name">
+		<text>黑石組部隊：調查奇怪的結構</text>
+	</string>
+
+	<string id="pri_a18_use_idol_text">
+		<text>建築物內有個奇怪的裝置。調查這個裝置。</text>
+	</string>
+
+	<string id="pri_a19_lab_x8_investigation_name">
+		<text>X8 實驗室：找到實驗有關的文件</text>
+	</string>
+
+	<string id="pri_a19_lab_x8_investigation_text">
+		<text>你找到的資訊指的是X8中央實驗室。可能含有特異區內秘密實驗的資訊。</text>
+	</string>
+
+	<string id="pri_a20_check_recon_squad_task_name">
+		<text>失蹤的偵查隊：找到小隊</text>
+	</string>
+
+	<string id="pri_a20_check_recon_squad_task_text">
+		<text>柯瓦斯基派出的偵查隊在一次奇怪的通訊後失蹤。你必須找到他們，弄清楚發生了什麼事。</text>
+	</string>
+
+	<string id="pri_a21_chasovoi_body_search_name">
+		<text>失蹤的哨兵：調查哨兵死亡的區域</text>
+	</string>
+
+	<string id="pri_a21_chasovoi_body_search_text">
+		<text>哨兵死前的行為非常奇怪，所以你應該調查其原因。</text>
+	</string>
+
+	<string id="pri_a21_find_chasovoi_name">
+		<text>失蹤的哨兵：尋找哨兵</text>
+	</string>
+
+	<string id="pri_a21_find_chasovoi_text">
+		<text>其中一名士兵在他的崗哨失蹤了——你必須找到他，並找出他失蹤的原因。</text>
+	</string>
+
+	<string id="pri_a21_kill_kontroler_name">
+		<text>失蹤的哨兵：毀掉控制者</text>
+	</string>
+
+	<string id="pri_a21_kill_kontroler_text">
+		<text>失蹤的士兵附近有個控制者——它必須被摧毀。</text>
+	</string>
+
+	<string id="pri_a22_find_dead_squad_name">
+		<text>無線電干擾：尋找失蹤的小隊</text>
+	</string>
+
+	<string id="pri_a22_find_dead_squad_text">
+		<text>尋找無線電干擾源的小隊失蹤了——你必須找到他們。</text>
+	</string>
+
+	<string id="pri_a22_search_bodys_name">
+		<text>無線電干擾：搜屍體</text>
+	</string>
+
+	<string id="pri_a22_search_bodys_text">
+		<text>搜屍體——這可能有助於釐清他們的死因。</text>
+	</string>
+
+	<string id="pri_a22_search_yarmoshuk_body_name">
+		<text>無線電干擾：搜屍體</text>
+	</string>
+
+	<string id="pri_a22_search_yarmoshuk_body_text">
+		<text>搜屍體——這可能有助於釐清他的死因。</text>
+	</string>
+
+	<string id="pri_a25_blow_up_door_name">
+		<text>無線電干擾：炸掉大門 </text>
+	</string>
+
+	<string id="pri_a25_blow_up_door_text">
+		<text>你得使用炸藥炸掉大門才能進入建築物內。</text>
+	</string>
+
+	<string id="pri_a25_check_freezer_knock_name">
+		<text>無線電咁找：調查聲音來源</text>
+	</string>
+
+	<string id="pri_a25_check_freezer_knock_text">
+		<text>冰箱傳來噪音——看似有人被鎖在裡面。調查這件事。</text>
+	</string>
+
+	<string id="pri_a25_destroy_antenna_name">
+		<text>無線電干擾：消滅干擾源</text>
+	</string>
+
+	<string id="pri_a25_destroy_antenna_text">
+		<text>你已經找到了無線電的干擾源——你必須摧毀它。</text>
+	</string>
+
+	<string id="pri_a25_find_antenna_name">
+		<text>無線電干擾：找出干擾源</text>
+	</string>
+
+	<string id="pri_a25_find_antenna_text">
+		<text>無線電干擾源在建築物內——找出來。</text>
+	</string>
+
+	<string id="pri_a25_find_explosive_name">
+		<text>無線電干擾：尋找炸藥</text>
+	</string>
+
+	<string id="pri_a25_find_explosive_text">
+		<text>被派去找干擾源的小隊有帶炸藥。找到他們並清空建築物的入口。</text>
+	</string>
+
+	<string id="pri_a25_remove_source_of_hindrances_name">
+		<text>無線電干擾：進入幼稚園建築內</text>
+	</string>
+
+	<string id="pri_a25_remove_source_of_hindrances_text">
+		<text>訊號源在幼稚園建築內某處，你必須進去裡面。</text>
+	</string>
+
+	<string id="pri_a28_cover_militarys_name">
+		<text>撤離：掩護軍隊</text>
+	</string>
+
+	<string id="pri_a28_cover_militarys_text">
+		<text>史特列洛克可能死了，但你仍需要幫助軍隊去直升機那。</text>
+	</string>
+
+	<string id="pri_a28_cover_strelok_name">
+		<text>撤離：掩護史特列洛克</text>
+	</string>
+
+	<string id="pri_a28_cover_strelok_text">
+		<text>總部對史特列洛克提供的資訊很感興趣。你必須幫他去直升機那。</text>
+	</string>
+
+	<string id="pri_a28_go_hellis_name">
+		<text>撤離：去直升機</text>
+	</string>
+
+	<string id="pri_a28_go_hellis_text">
+		<text>所有人都死了——你得自己去直升機那。</text>
+	</string>
+
+	<string id="pri_a28_talk_with_kovalski_name">
+		<text>撤離：與柯瓦斯基交談</text>
+	</string>
+
+	<string id="pri_a28_talk_with_kovalski_text">
+		<text>在撤離開始前，你必須和柯瓦斯基交談。</text>
+	</string>
+
+	<string id="pri_a28_tell_kovalski_when_ready_name">
+		<text>撤離：告訴柯瓦斯基你已準備好</text>
+	</string>
+
+	<string id="pri_a28_tell_kovalski_when_ready_text">
+		<text>你應該通知柯瓦斯基，你已經準備好開始撤離。</text>
+	</string>
+
+	<string id="pri_a28_wait_surge_end_name">
+		<text>撤離：等到排放結束</text>
+	</string>
+
+	<string id="pri_a28_wait_surge_end_text">
+		<text>你必須等到排放結束。</text>
+	</string>
+
+	<string id="pri_b305_check_unknown_signal_1_name">
+		<text>未知：調查訊號源</text>
+	</string>
+
+	<string id="pri_b305_check_unknown_signal_1_text">
+		<text>基利爾洛夫在離基地不遠處發現奇怪的訊號。你必須調查訊號來源。</text>
+	</string>
+
+	<string id="pri_b305_check_unknown_signal_2_name">
+		<text>未知：跟隨訊號</text>
+	</string>
+
+	<string id="pri_b305_check_unknown_signal_2_text">
+		<text>訊號的座標再次出現，請跟著訊號。</text>
+	</string>
+
+	<string id="pri_b305_check_unknown_signal_3_name">
+		<text>未知：調查訊號最後出現的地方</text>
+	</string>
+
+	<string id="pri_b305_check_unknown_signal_3_text">
+		<text>訊號在建築的院子消失，請調查訊號最後出現的地方。</text>
+	</string>
+
+	<string id="pri_b305_check_unknown_signal_4_name">
+		<text>未知：為基地攻擊做準備</text>
+	</string>
+
+	<string id="pri_b305_check_unknown_signal_4_text">
+		<text>回到軍隊基地，為可能發生的攻擊做準備。</text>
+	</string>
+
+	<string id="pri_b305_kovalskiy_talk_name">
+		<text>無線電干擾：與柯瓦斯基交談</text>
+	</string>
+
+	<string id="pri_b305_kovalskiy_talk_text">
+		<text>柯瓦斯基上校再找你。</text>
+	</string>
+
+	<string id="pri_b306_task_1_name">
+		<text>X8 實驗室：進入電梯井</text>
+	</string>
+
+	<string id="pri_b306_task_1_text">
+		<text>地下實驗室的入口在尤比列尼服務中心下嚥，只有一個方法可以進入，就是利用電梯井。</text>
+	</string>
+
+	<string id="pri_b306_task_2_name">
+		<text>X8 實驗室：找到發電機</text>
+	</string>
+
+	<string id="pri_b306_task_2_text">
+		<text>電梯井的電源被切斷。要重新運作，你必須找到緊急發電機並啟用。</text>
+	</string>
+
+	<string id="pri_b306_task_3_name">
+		<text>X8 實驗室：下到實驗室</text>
+	</string>
+
+	<string id="pri_b306_task_3_text">
+		<text>你必須使用電梯，才能進入位在尤比列尼服務中心下的X8 實驗室。</text>
+	</string>
+
+	<string id="pri_b35_task_envoy_name">
+		<text>一擊必殺：消滅信使</text>
+	</string>
+
+	<string id="pri_b35_task_envoy_text">
+		<text>你必須消滅信使。他死了以後，傭兵就找不到實驗室了。</text>
+	</string>
+
+	<string id="pri_b35_task_envoy_wait_name">
+		<text>一擊必殺：等待客戶的人</text>
+	</string>
+
+	<string id="pri_b35_task_envoy_wait_text">
+		<text>等客戶的人出現，並殺死他們的領袖。他死了以後，傭兵就找不到實驗室了。</text>
+	</string>
+
+	<string id="pri_b35_task_merc_name">
+		<text>一擊必殺：殺死傭兵小隊的領袖</text>
+	</string>
+
+	<string id="pri_b35_task_merc_text">
+		<text>你必須殺死傭兵小隊的領袖。他死了以後，傭兵就會群龍無首，威脅性降低。</text>
+	</string>
+
+	<string id="pri_b35_task_merc_wait_name">
+		<text>一擊必殺：等待傭兵出現</text>
+	</string>
+
+	<string id="pri_b35_task_merc_wait_text">
+		<text>你必須等待傭兵小隊出現，並殺死他們的領袖。他死了以後，傭兵就會群龍無首，威脅性降低。</text>
+	</string>
+
+	<string id="pri_b35_task_reward_name">
+		<text>撤離：與柯瓦斯基交談</text>
+	</string>
+
+	<string id="pri_b35_task_reward_text">
+		<text>向柯瓦斯基回報任務結果。</text>
+	</string>
+
+	<string id="pri_a19_lab_x8_investigation_1_name">
+		<text>X8 實驗室：離開地下建築或繼續尋找文件</text>
+	</string>
+
+	<string id="pri_a19_lab_x8_investigation_1_text">
+		<text>你找到了文件，現在你可以離開實驗室，不過建築內可能還有其他的文件。</text>
+	</string>
+
+	<string id="pri_a19_lab_x8_investigation_2_name">
+		<text>X8 實驗室：離開地下建築或繼續尋找文件</text>
+	</string>
+
+	<string id="pri_a19_lab_x8_investigation_2_text">
+		<text>你找到了文件，現在你可以離開實驗室，不過建築內可能還有其他的文件。</text>
+	</string>
+
+	<string id="pri_a19_lab_x8_investigation_3_name">
+		<text>X8 實驗室：離開地下建築或繼續尋找文件</text>
+	</string>
+
+	<string id="pri_a19_lab_x8_investigation_3_text">
+		<text>看來你已經搜集到實驗室內的所有文件。現在你可以離開地下建築。</text>
+	</string>
+
+	<string id="pri_a18_wait_reinf_name">
+		<text>黑石組部隊：等待增援</text>
+	</string>
+
+	<string id="pri_a18_wait_reinf_text">
+		<text>你必須等待柯瓦斯基牌來的增援，以消滅書店內的黑石組部隊。</text>
+	</string>
+
+	<string id="pri_a22_talk_with_kovalski_name">
+		<text>悄悄話：與柯瓦斯基交談</text>
+	</string>
+
+	<string id="pri_a22_talk_with_kovalski_text">
+		<text>你必須和柯瓦斯基交談。他看起來有重要的事想說。</text>
+	</string>
+
+	<string id="pri_a28_defend_helis_name">
+		<text>撤離：堅守在直升機旁</text>
+	</string>
+
+	<string id="pri_a28_defend_helis_text">
+		<text>直升機起飛前，你必須保護直升機不受敵人攻擊。</text>
+	</string>
+
+	<string id="pri_a28_save_medic_name">
+		<text>撤離：讓醫護人員醒過來</text>
+	</string>
+
+	<string id="pri_a28_save_medic_text">
+		<text>看來醫護人員再次被未知的火力攻擊。盡快讓他醒來。</text>
+	</string>
+
+	<string id="pri_a28_return_to_helis_name">
+		<text>撤離：回到直升機旁</text>
+	</string>
+
+	<string id="pri_a28_return_to_helis_text">
+		<text>你必須回到直升機旁，它們隨時會起飛。</text>
+	</string>
+
+	<string id="pri_a28_helis_gonna_fly_name">
+		<text>撤離：盡快回到直升機旁</text>
+	</string>
+
+	<string id="pri_a28_helis_gonna_fly_text">
+		<text>直升機準備起飛。你必須立刻登上任一直升機——駕駛沒辦法等你太久。</text>
+	</string>
+
+</string_table>

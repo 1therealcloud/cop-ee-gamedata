@@ -1,0 +1,270 @@
+class "eula_dialog" (CUIScriptWnd)
+
+local MAX_SCROLL_SPEED = 90
+local MIN_SCROLL_SPEED = 10
+local SCROLL_INC = 4
+
+local STRING_ID_PREFIX = "ui_elua_licence"
+
+local PARAGRAPH_MARKER_HEADER = "__HEADER__"
+local PARAGRAPH_MARKER_OPTION = "__OPTION__"
+
+local PARAGRAPH_TYPE_REGULAR = "text_template"
+local PARAGRAPH_TYPE_HEADER = "text_header_template"
+local PARAGRAPH_TYPE_OPTION = "text_point_template"
+
+local seenDisclamer = false
+
+local endTime = 0
+local DURATION = 20
+
+function eula_dialog:__init() super()
+	self.mm_is_controller = main_menu.in_controller_mode()
+    self:InitControls()
+    self:InitCallBacks()
+	self.readEula = false
+	
+	if self.mm_is_controller then
+	 action_repeaters():Register(self, key_bindings.kUI_UP, 0, 0)
+	 action_repeaters():Register(self, key_bindings.kUI_DOWN, 0, 0)
+	end
+end
+
+function eula_dialog:__finalize()
+	if self.mm_is_controller then
+	action_repeaters():UnregisterOwner(self)
+	end
+end
+
+function get_text_height(obj)
+	textObj = obj:TextControl()
+	textObj:SetWndSize( obj:GetWidth() ,obj:GetHeight())
+	local h = textObj:GetVisibleHeight()
+	return h
+end
+
+function eula_dialog:InitEualDialog(xml)
+	self.dialog	= xml:InitStatic("main_dialog:dialog", self)
+	
+	local title = xml:InitStatic("main_dialog:dialog:cap_title", self.dialog)
+	if get_current_lang() == 7 or get_current_lang() == 9 then -- rus or ukr
+		title:TextControl():SetFont(GetFontGraffiti22Russian())
+	end
+	
+	local w = self.dialog:GetWidth()
+	local h = self.dialog:GetHeight()
+	self.dialog:SetWndPos(vector2():set((1024 - w) /2, (768 - h) /2))
+	
+	xml:InitStatic("main_dialog:dialog:sep_line", self.dialog)
+
+	self.scroll	= xml:InitScrollView("main_dialog:dialog:scroll_v", self.dialog	)
+
+	local i = 0
+	local local_text_id = STRING_ID_PREFIX..tostring(i)
+	while game.localized_string_exist(local_text_id) do
+		local local_text = game.translate_string(local_text_id)
+
+		local name = PARAGRAPH_TYPE_REGULAR
+
+		local local_text_type = game.translate_string(local_text_id .. "_type")
+		if local_text_type == PARAGRAPH_MARKER_HEADER then
+			name = PARAGRAPH_TYPE_HEADER
+		elseif local_text_type == PARAGRAPH_MARKER_OPTION then
+			name = PARAGRAPH_TYPE_OPTION
+		end
+
+		local text = xml:InitStatic("main_dialog:dialog:"..name, self.scroll)
+		if name == "text_point_template" then
+			local point = xml:InitStatic("main_dialog:dialog:"..name..":point", text)
+			local textWrap = xml:InitStatic("main_dialog:dialog:"..name..":text_wrap", text)
+			textWrap:TextControl():SetText(local_text)
+			w = textWrap:GetWidth()
+			h = get_text_height(textWrap)
+			textWrap:SetWndSize(vector2():set(w,h))
+			text:SetWndSize(vector2():set(w,h))
+			local x = point:GetWndPos().x
+			w = point:GetWidth()
+			point:SetWndPos(vector2():set(x, (h-w) /2))
+		else
+			text:TextControl():SetText(local_text)
+			w = text:GetWidth()
+			text:SetWndSize(vector2():set(w,get_text_height(text)))
+		end
+
+		i = i + 1
+		local_text_id = STRING_ID_PREFIX..tostring(i)
+	end
+	
+	if get_platform_id() == platform_ids.PLATFORM_ORBIS or get_platform_id() == platform_ids.PLATFORM_PROSPERO then
+		local text = xml:InitStatic("main_dialog:dialog:text_ps4_eula", self.scroll)
+		w = text:GetWidth()
+		text:SetWndSize(vector2():set(w,get_text_height(text)))
+	end
+	
+	self.scroll:ForceUpdate()
+
+	xml:InitStatic("main_dialog:dialog:sep_line_end", self.dialog)
+	
+	if get_platform_id() == platform_ids.PLATFORM_WIN64 then
+		self.btnAccept = xml:Init3tButton("main_dialog:dialog:btn_accept_pc", self.dialog)
+	else 
+		self.btnAccept = xml:Init3tButton("main_dialog:dialog:btn_accept", self.dialog)
+	end
+	self:Register(self.btnAccept, "btn_accept")
+	self.btnAccept:SetHighlighted(false)
+	self.btnAccept:Enable(false)
+end
+
+function eula_dialog:InitControls()
+
+
+	self:SetWndRect				(Frect():set(0,0,1024,768))
+	self:Enable					(true)
+
+	local xml					= CScriptXmlInit()
+	xml:ParseFile				("ui_eula.xml")
+
+	self.xml = xml
+	
+	if self.mm_is_controller then
+		self.sndSwitch	= sound_object("interface\\console\\menu_switch")
+		self.sndSelect	= sound_object("interface\\console\\menu_select")
+		self.sndDecline	= sound_object("interface\\console\\menu_decline")
+	end
+	
+	self.bg = xml:InitStatic("main_dialog:background", self)
+	self:InitEualDialog(xml)
+	
+	if get_platform_id() ~= platform_ids.PLATFORM_WIN64 then 
+		self.textDisc	= xml:InitStatic("main_dialog:cap_disclamer", self)
+		self.dialog:Show(false)
+		endTime = tonumber(os.clock() + DURATION)
+	else
+		seenDisclamer = true
+	end
+	
+end
+
+function eula_dialog:InitCallBacks()
+	self:AddCallback("btn_accept",			ui_events.BUTTON_CLICKED,	self.OnBtnAccept,			self)
+end
+
+
+function eula_dialog:OnBtnAccept()
+	if not self.readEula then
+		local prevPos = self.scroll:GetCurrentScrollPos()
+		local pos = prevPos + 10
+		self.scroll:SetScrollPos(pos)
+		if self.scroll:GetCurrentScrollPos() < pos then 
+			self.readEula = true
+			self.btnAccept:SetHighlighted(true)
+			self.btnAccept:Enable(true)
+		else
+			self.scroll:SetScrollPos(prevPos)
+			return
+		end
+	end
+	if self.mm_is_controller then
+		self.sndDecline:play(nil, 0.0, sound_object.s2d)
+	end
+	self.owner.shniaga:SetVisibleMagnifier(true)
+	self:HideDialog()
+	
+	local console = get_console()
+	console:execute("EULA_Accept 1")
+	console:execute("cfg_save")
+end
+
+function eula_dialog:OnKeyboard(dik, keyboard_action)
+
+	if keyboard_action == ui_events.WINDOW_KEY_PRESSED then
+		if not seenDisclamer then 
+			return true
+		end
+		if self.mm_is_controller then
+			if is_binded(key_bindings.kUI_ACCEPT, dik) then
+				if self.readEula then
+					self:OnBtnAccept() 
+				end
+				return true
+			elseif is_binded(key_bindings.kUI_DOWN, dik) then
+				if not any_binded_key_for_action_pressed_c(key_bindings.kUI_UP) then
+					self.vel = MIN_SCROLL_SPEED
+					self:OnScroll(1)
+				end
+				action_repeaters():SetActionStarted(self, key_bindings.kUI_DOWN)
+				return true
+			
+			elseif is_binded(key_bindings.kUI_UP, dik) then
+				if not any_binded_key_for_action_pressed_c(key_bindings.kUI_DOWN) then
+					self.vel = MIN_SCROLL_SPEED
+					self:OnScroll(-1)
+				end
+				action_repeaters():SetActionStarted(self, key_bindings.kUI_UP)
+				return true
+			end
+		else
+			return true
+		end
+	end
+
+	return CUIScriptWnd.OnKeyboard(self,dik,keyboard_action)
+end
+
+function eula_dialog:OnKeyboardHold(dik)
+	if not seenDisclamer then 
+		return true
+	end
+	if self.mm_is_controller then 	
+		if is_binded(key_bindings.kUI_DOWN, dik) then
+			if action_repeaters():CanRepeatActionNow(self, key_bindings.kUI_DOWN) 
+			and not any_binded_key_for_action_pressed_c(key_bindings.kUI_UP) then
+				self:OnScroll(1)
+			end
+			return true
+			
+		elseif is_binded(key_bindings.kUI_UP, dik) then
+			if action_repeaters():CanRepeatActionNow(self, key_bindings.kUI_UP) 
+			and not any_binded_key_for_action_pressed_c(key_bindings.kUI_DOWN) then
+				self:OnScroll(-1) 
+			end
+			return true
+		end
+	else
+			return true
+	end
+
+	return false
+end
+
+function eula_dialog:Update()
+	CUIScriptWnd.Update(self)
+	if get_platform_id() ~= platform_ids.PLATFORM_WIN64 then 
+		if not seenDisclamer and os.clock() > endTime then
+			seenDisclamer = true
+			self.textDisc:Show(false)
+			self.dialog:Show(true)
+		end
+	else
+		if self.scroll:GetCurrentScrollPos() + self.scroll:GetHeight() >= self.scroll:GetMaxScrollPos() then 
+			self.readEula = true
+			self.btnAccept:SetHighlighted(true)
+			self.btnAccept:Enable(true)
+		end		
+	end
+end
+
+function eula_dialog:OnScroll(dir)
+	local pos = self.scroll:GetCurrentScrollPos()
+	pos = pos + dir * self.vel
+	self.vel = self.vel + SCROLL_INC
+	if self.vel > MAX_SCROLL_SPEED then 
+		self.vel = MAX_SCROLL_SPEED
+	end
+	self.scroll:SetScrollPos(pos)
+	if self.scroll:GetCurrentScrollPos() < pos then 
+		self.readEula = true
+		self.btnAccept:SetHighlighted(true)
+		self.btnAccept:Enable(true)
+	end
+end

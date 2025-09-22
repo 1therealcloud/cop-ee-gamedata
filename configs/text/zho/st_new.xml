@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_press_any_key_PS4">
+		<text>按任意键开始</text>
+	</string>
+
+	<string id="ui_mm_mblur_pwr">
+		<text>动态模糊</text>
+	</string>
+
+	<string id="ui_eula_ps_tech_req">
+		<text>Any content purchased in an in-game store will be purchased from Sony Interactive Entertainment Network Europe Limited (“SIENE”) and be subject to PlayStation™Network Terms of Service and User Agreement which is available on the PlayStation™Store. Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game.</text>
+		<text_US>Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America.</text_US>
+	</string>
+
+	<string id="ui_elua_disclamer">
+		<text>這是《S.T.A.L.K.E.R.: Call of Prypiat》的主機版本。\n \n 在變異區的世界裡，時間停留在車諾比核災的當下。從那時起，這個地方就維持相同的樣子：符號、標語、貨幣，以及其他許多東西都保持沒變。\n 我們秉持著一貫的理念。有些東西我們現在會以不同方式處理，但會衷於原樣。遊戲中所有內容都是用來營造氣氛，並作為作品的歷史參考。我們希望你也會和其他眾多的潛行者一樣愛上變異區。\n \n 潛行者，祝你狩獵愉快！\n GSC Game World團隊敬上</text>
+	</string>
+	
+	<string id="ui_mm_modio_error">
+		<text>Encountered Mod.io error with code: </text>
+	</string>
+	<string id="ui_mm_modio_error_space">
+		<text>There is not enough memory to install modification: </text>
+	</string>
+	<string id="ui_mm_modio_error_video">
+		<text>Waring! Installed modifications require a lot of video memory. The game might be unstable</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,4155 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="zat_a2_linker_b14_quest_done_0">
+		<text>挖泥船上有一件奇怪的神器。就這個。</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_done_1">
+		<text>有意思——半件神器……這是你的報酬。你做得好，報酬就高……看來你受過很不錯的訓練，要是你需要工作的話就來找我吧。我經常能接到一些特定神器的委託，報酬非常豐厚。</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_init_0">
+		<text>有工作給我嗎？</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_init_1">
+		<text>有一個小任務……昨晚潛行者們看見挖泥船那邊有奇怪的閃光……哪怕是在這些地區也顯得很古怪。你要不去查看一下？</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_init_11">
+		<text>我會的。</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_init_111">
+		<text>一定要注意安全啊。我是在警告你，因為那個地方充滿輻射。別忘帶你的藥——你以後會感謝我的。</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_init_12">
+		<text>不是現在。</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_init_2">
+		<text>我已經把今天的所有任務都分派完畢了。</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_sell_artefact_0">
+		<text>拿走這件半神器。</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_sell_artefact_1">
+		<text>這是你應得的錢。你做得好，報酬就高……看來你受過很不錯的訓練，要是你需要工作的話就來找我吧。我經常能接到一些特定神器的委託，報酬非常豐厚。</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_strange_item_0">
+		<text>我在挖泥船上撿到了一件奇怪的神器。想看看嗎？</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_strange_item_1">
+		<text>有意思——半件神器……我想出錢買下它，公道價，3000 塊。</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_wrong_0">
+		<text>我看到有人給了你一件我找到的神器。</text>
+	</string>
+
+	<string id="zat_a2_linker_b14_quest_wrong_1">
+		<text>抱歉，不過我不想捲入這件事。我的規則很簡單：你交付，你拿錢。你知道特異區的行事方式——保持警惕，迅速行動，還有不要信任站在你射程之外的人。但如果你需要穩定的工作，可以來找我。我經常能接到一些特定神器的委託，報酬非常豐厚。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_0">
+		<text>你需要什麼神器？</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_11">
+		<text>我要拿一件「重力」。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_112">
+		<text>很好！很爽快。這是你的報酬。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_12">
+		<text>我要拿一件「眼睛」。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_13">
+		<text>我要拿一件「泡泡」。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_14">
+		<text>我要拿一件「貝殼」。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_15">
+		<text>我要拿一件「金魚」。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_16">
+		<text>我要拿一件「火焰球」。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_17">
+		<text>我要拿一件「螢火蟲」。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_18">
+		<text>我要拿一件「雪花」。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_19">
+		<text>我可以賣你一件「重力」。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_2">
+		<text>我遇到了一些糟心事。有人接了訂單後就失蹤了……我有種不祥的預感。得關店了。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_20">
+		<text>我可以賣你一件「眼睛」。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_21">
+		<text>我可以賣你一件「泡泡」。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_22">
+		<text>我可以賣你一件「貝殼」。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_23">
+		<text>我可以賣你一件「金魚」。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_24">
+		<text>我可以賣你一件「火焰球」。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_25">
+		<text>我可以賣你一件「螢火蟲」。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_26">
+		<text>我可以賣你一件「雪花」。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_27">
+		<text>我知道了。我遲點再來。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_3">
+		<text>兩個之前為我工作的團隊都失蹤了……我已經決定暫時不接任何訂單。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_give_adv_task_0">
+		<text>任務完成了。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_give_adv_task_1">
+		<text>很好！這是你的報酬。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_give_adv_task_2">
+		<text>給你。雖然不算很多，但也滿可觀的。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_info_0">
+		<text>告訴我關於你的神器訂單的事情。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_about_sci_guards_0">
+		<text>我可以僱誰去保護科學家？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_about_sci_guards_1">
+		<text>我的人——斯巴達克斯和他的小隊。他們經驗豐富，一些人在來特異區之前是做保全的，還有一些人甚至來自特種部隊，信不信由你。他們知道用什麼槍打什麼人……如果讓他們去做的話，肯定能保護得滴水不漏。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_about_sci_guards_2">
+		<text>我很想給你個建議，不過鑑於最近發生的事……斯巴達克斯小隊不復存在了，願他們安息。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_about_sci_helpers_0">
+		<text>我可以僱誰去為科學家做些測量工作？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_about_sci_helpers_1">
+		<text>你認識貢塔和他的手下嗎？在他們的狩獵季節之外，他們……呃哼……也很願意做一些兼職。特別是與射擊無關的事。他們想的是：「如果我對扣動扳機感到麻木了，我總是可以回歸打獵的。」</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_about_sci_helpers_2">
+		<text>沒什麼可推薦的，真的。我本來想推薦貢塔的小隊，不過我很久都沒聽到過任何他們的消息了。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_0">
+		<text>跟我講講這裡的生活是怎樣的。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_1">
+		<text>這個話題太泛了，盡量問一些具體的問題吧，我會盡我所能回答。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_1111">
+		<text>潛行者們在這裡做什麼？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_11111">
+		<text>問你自己啊，老兄。他們從斯卡多夫斯克上岸，探索地形，搜尋神器，對任何撲向他們的人也好東西也好開槍反擊。回到斯卡多夫斯克，他們就開始飲酒作樂胡言亂語……在下次突襲之前盡情消遣和娛樂。不過當能量釋放來臨時，就完全是另一幅場景了。那時我們都靜坐等待，對那些沒能及時找到掩體的人的下場印象深刻……</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_1112">
+		<text>潛行者為什麼要來特異區中心？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_11121">
+		<text>很有意思的問題。有人來是為了發現下一個神器寶庫，有人是聽信了綠洲的傳言，還有人想搜尋許願石。與之相伴的是人性最基本的欲望——貪婪和好奇……每個人都有各自的理由。我確信你也有你的。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_1113">
+		<text>你是怎麼淪落到這裡的？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_11131">
+		<text>在焦腦器被禁用後，我和松雞一起來的。不過我確信你不是想聽這個，對吧？我主要在經營神器生意。外面的東西已經都不值錢了，大客戶們想要些稀奇貨，所以我決定建立一個潛行者營地，在這裡可以找到真正有價值的東西。我的意思是，當潛行者帶著戰利品回來時，他真正需要的是什麼呢？冰啤酒在手，酒友全都有，就是這樣。這就是斯卡多夫斯克存在的意義。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_1114">
+		<text>你怎麼看待強盜？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_11141">
+		<text>嗯，是這樣，我對他們來斯卡多夫斯克沒意見，只要他們行事規矩。畢竟，你也不是那麼經常會遇到爛人的。他們中的一些人事實上以前還是潛行者。誰知道呢，他們中的某個可憐蟲也許上一秒剛決定金盆洗手，下一秒就吃了子彈……生活處處都有意外發生。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_1115">
+		<text>可以了，沒什麼要問的了。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_actor_info_11151">
+		<text>隨你嘍。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_army_0">
+		<text>告訴我，這裡有出現過軍隊嗎？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_army_1">
+		<text>怎麼可能。那些鍋蓋頭在我們的營地要做什麼？相信我，他們寧願離這裡遠遠的。我們中有太多人還記得在科頓的泥地裡匍匐前進的感覺，頭上就是他們該死的機槍砲火……</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_compass_0">
+		<text>告訴我關於羅盤的事情。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_compass_1">
+		<text>這件神器是傳說級別的。據說羅盤不會帶來有害的副作用，如果使用得當，它可以幫你擺脫任何一個特異點。你可以明白為什麼客人們會排隊想要它。就在前幾天，有人告訴我說挪亞知道一些關於它的事。他是個潛行者，住在這地方的南邊。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_compass_11">
+		<text>好的，我會去拜訪挪亞。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_compass_12">
+		<text>我會考慮看看。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_compass_2">
+		<text>正如我之前告訴你的，它是一件傳奇的神器。據說一位名叫挪亞的潛行者可能知道一些關於它的事，他住在這地方的南邊。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_halfart_jup_b1_0">
+		<text>我在亞尼夫不遠處撿到了一件奇怪的神器，你感興趣嗎？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_halfart_jup_b1_1">
+		<text>讓我看看……這確實是一件古怪的東西，不過我不覺得我找得到買家。我建議你回亞尼夫，把它給科學家看看。他們就喜歡奇形怪狀的東西。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_new_detector_0">
+		<text>貓頭鷹說你不打算繼續交易了。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_new_detector_1">
+		<text>我們之前說的很清楚：我得到探測器，將它們用於場域中，而他將得到收益的一部分。我已經向他支付了兩個探測器的費用，所以我完全遵守了條款。這就是我跟貓頭鷹的協議內容。如果你為他工作，你可以拿回第三個探測器——我不會再買下它了。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_new_detector_11">
+		<text>所以我該怎麼跟貓頭鷹說呢？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_new_detector_2">
+		<text>確實是這樣。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_about_new_detector_3">
+		<text>如果我是你，我就不會和貓頭鷹做生意。要是你想賺大錢，我可以幫你在搜尋神器中搶佔先機。兩到三個小時——足夠你擊敗其他任何人。另外，如果你感興趣，我還有一個特殊訂單。你知道的，我迫切需要一個叫羅盤的神器。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_compass_double_dialog_0">
+		<text>蘇丹設法截獲了羅盤。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_compass_double_dialog_1">
+		<text>那渾蛋的速度還真是快……好吧，不要緊。再去試著和挪亞談談。根據最新傳聞，這可能會……派上用場的。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_compass_give_dialog_0">
+		<text>我找到了羅盤。給你。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_compass_give_dialog_1">
+		<text>你真是我的救星，兄弟！可以肯定地說，我已經把這個大客戶收入囊中了。有傳聞說蘇丹想要接管我的生意，他就準備好吞下失望的苦果吧。給你，拿著這個——於情於理都是你應得的。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_compass_revert_dialog_0">
+		<text>我拒絕為你尋找羅盤。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_compass_revert_dialog_1">
+		<text>唉呀，真是遺憾啊。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_take_business_actor_dialog_0">
+		<text>蘇丹向你問好。順便一提，你的所有供貨管道都已經被切斷了。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_take_business_actor_dialog_1">
+		<text>現在很明顯誰是幕後黑手了……好吧，我不會離開斯卡多夫斯克。看來我沒得選擇，只能替你和蘇丹做事了。他會拿到屬於他的銷售份額，你每天來拿你的那份。錢等著你們。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_take_money_actor_dialog_0">
+		<text>把我的份額給我。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_take_money_actor_dialog_1">
+		<text>給你。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b30_take_money_actor_dialog_2">
+		<text>你來早了。我還沒拿到現金。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b52_about_nimble_0">
+		<text>你覺得小機靈有可能在做銷贓的生意嗎？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b52_about_nimble_1">
+		<text>我不覺得……以我對他的了解，他比較願意把不合法的事留給別人做。一個好商人是很注重他的名聲的。總之，我還沒聽到有誰說過小機靈的壞話。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b52_about_snag_0">
+		<text>我在找斯奈格，你知道他在哪裡嗎？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b52_about_snag_1">
+		<text>上次我見到他時，他正走出酒吧。如果我沒記錯的話，他在酒吧裡說要去碼頭吊車那裡。你可能會想去那邊找他。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b7_actor_start_0">
+		<text>有人正計劃搶劫一群潛行者，也是我們的人。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b7_actor_start_1">
+		<text>哇哦，老兄，我們這裡的強盜比兔子還能生，現在我們還要自相殘殺了嗎？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b7_actor_start_11">
+		<text>我接到了一個訂單，在夜裡襲擊舍甫琴科附近的營地。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b7_actor_start_111">
+		<text>渾蛋……實際上，你接下訂單也不錯，知道我的意思嗎？……這樣我就能給我的人報信，讓他們為我們的客人好好準備一個歡迎儀式。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b7_actor_start_1111">
+		<text>我同意。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b7_actor_start_11111">
+		<text>好，那就你去見那些蠢貨，我去通知我的人。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_b7_actor_start_1112">
+		<text>抱歉，你得靠你自己了。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_oasis_art_sell_0">
+		<text>我有一件來自綠洲的神器，你感興趣嗎？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_oasis_art_sell_1">
+		<text>綠洲之心？不了，我就算了。有關它的傳言眾說紛紜……雖然可能只是迷信，但我還是離它遠一點好。我覺得你最好還是把它交給科學家，讓他們去研究，幫助我們更好地瞭解它如何影響人類。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_start_dialog_11">
+		<text>你是新來的？沒關係，你很快就會適應這裡的……知道嗎，特異區是一個很嚴格的老師。我叫大鬍子，本地酒保。有任何問題就隨時找我，好嗎？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_start_dialog_21">
+		<text>說吧。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_start_dialog_31">
+		<text>你如何看待透過搜尋神器來賺錢？</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_start_dialog_32">
+		<text>我的訂單進展如何了？記住，潛行者的速度越快，賺的就越多……</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_start_dialog_33">
+		<text>你來晚了，有人已經交付神器了。不過如果你已經完成了訂單，我還是可以付你錢，只是不那麼多而已。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_start_dialog_41">
+		<text>有事發生了。傳言說幾個強盜正在計劃買一批武器。我們的人想跟蹤他們並破壞交易。如能提供幫助，我們將非常感激。</text>
+	</string>
+
+	<string id="zat_a2_stalker_barmen_start_dialog_51">
+		<text>嗯？</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_b40_about_merc_camp_0">
+		<text>僱傭兵在廢料處理站做什麼？</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_b40_about_merc_camp_1">
+		<text>你應該離那邊遠點，這不關你的事。</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_bunker_guarding_0">
+		<text>你們喜歡為科學家工作嗎？</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_bunker_guarding_1">
+		<text>很喜歡。很高興你從一堆人中選擇了我們。我們為科學家們提供無與倫比的保護措施。</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_come_with_me_0">
+		<text>我正在組建一支隊伍去普里皮亞季，你想加入嗎？</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_come_with_me_1">
+		<text>不了，還得留心照看科學家們……你也許可以去問問索科洛夫——我記得他好像想去普里皮亞季的。</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_come_with_me_2">
+		<text>不了，還得留心照看科學家們……畢竟，我們來這裡是守衛他們的。</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_come_with_me_3">
+		<text>嗯哼……不了，我暫時在這裡還有事幹。</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_0">
+		<text>你想為科學家工作嗎？</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_1">
+		<text>那得看情況……什麼樣的工作？</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_11">
+		<text>守衛地堡。</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_111">
+		<text>當然，謝謝你提供這個機會。</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_12">
+		<text>在特異點做測量工作。</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_121">
+		<text>那種工作不適合我們。最好去問潛行者。</text>
+	</string>
+
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_2">
+		<text>聽著，潛行者。我空空如也的胃快把我折磨死了，你的嘮叨只會讓它變本加厲……</text>
+	</string>
+
+	<string id="zat_b103_merc_dialog_about_supplies_0">
+		<text>我可以給你們帶些食物。</text>
+	</string>
+
+	<string id="zat_b103_merc_dialog_about_supplies_1">
+		<text>哈！可以啊，那就去吧。肉罐頭、香腸還有麵包……每樣來六個。確保帶夠吃的來，因為我們餓的要吃人了。</text>
+	</string>
+
+	<string id="zat_b103_merc_dialog_about_toolkit_0">
+		<text>我聽說附近可能會有工具。</text>
+	</string>
+
+	<string id="zat_b103_merc_dialog_about_toolkit_1">
+		<text>誰他媽知道？不過我希望你不要再這麼頻繁跑來跑去了，我們有太多工作要做——甚至都派不了人手去找吃的。</text>
+	</string>
+
+	<string id="zat_b103_merc_dialog_about_toolkit_2">
+		<text>誰他媽知道？不過願意的話你大可以去翻找這堆垃圾，也許能找到你要的。</text>
+	</string>
+
+	<string id="zat_b103_merc_dialog_find_supplies_0">
+		<text>給你食物。</text>
+	</string>
+
+	<string id="zat_b103_merc_dialog_find_supplies_1">
+		<text>哇，我都已經不抱任何希望了……謝謝你。這些能給我的人做一頓不錯的午餐了。那麼你想要什麼？翻垃圾堆？好吧，去做吧，也許能找到你要的。不過不要再揮舞你那把槍了！</text>
+	</string>
+
+	<string id="zat_b103_merc_dialog_find_supplies_2">
+		<text>哇，我都已經不抱任何希望了……謝謝你。這些能給我的人做一頓不錯的午餐了。聽著，如果你想檢視這個區域，那就去吧，不過不要再揮舞你那把槍了！</text>
+	</string>
+
+	<string id="zat_b103_merc_dialog_start_11">
+		<text>這裡不歡迎你。這是我們的營地，你無權在裡面徘徊。我的同伴們快餓死了，而且神經高度緊張……</text>
+	</string>
+
+	<string id="zat_b103_merc_dialog_start_12">
+		<text>忍著點吧，我的人餓到手指在扳機上發抖……</text>
+	</string>
+
+	<string id="zat_b103_merc_dialog_start_21">
+		<text>噢，潛行者……是有什麼要緊事嗎？如果沒有，我得回去工作了。</text>
+	</string>
+
+	<string id="zat_b106_hunt_himera_0">
+		<text>我準備好狩獵了。</text>
+	</string>
+
+	<string id="zat_b106_hunt_himera_1">
+		<text>好，我們走。</text>
+	</string>
+
+	<string id="zat_b106_hunt_himera_11">
+		<text>出發吧。</text>
+	</string>
+
+	<string id="zat_b106_hunt_himera_2">
+		<text>還不到時候，凌晨 3 點再來。</text>
+	</string>
+
+	<string id="zat_b106_hunt_himera_21">
+		<text>我明白了。</text>
+	</string>
+
+	<string id="zat_b106_hunt_himera_3">
+		<text>我們也是……除了能量釋放——奇美拉現在不可能在睡覺。我想我們得換個夜晚試試運氣……</text>
+	</string>
+
+	<string id="zat_b106_stalker_garmata_b106_after_hunt_11">
+		<text>貢塔死了，怎麼會這樣……你有可能會去亞尼夫嗎？貢塔的朋友特拉帕在那裡。你能告訴他奇美拉死了嗎？……我現在差不多要出發回家了。</text>
+	</string>
+
+	<string id="zat_b106_stalker_garmata_b106_after_hunt_111">
+		<text>保重。</text>
+	</string>
+
+	<string id="zat_b106_stalker_garmata_b106_after_hunt_12">
+		<text>滾開，多虧有你，貢塔死了……我們現在該怎麼辦……</text>
+	</string>
+
+	<string id="zat_b106_stalker_garmata_b106_after_hunt_121">
+		<text>保重。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_himself_0">
+		<text>跟我講講你自己。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_himself_1">
+		<text>我叫貢塔，狩獵小隊的首領。我們殺變異體來換錢。我們也可以活捉牠們——用於科學實驗或是有人想養奇異寵物的話……就像特拉帕說過的「每隻動物各有各的死法……」</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_0">
+		<text>跟我講講獵殺變異體的事。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_1">
+		<text>好吧，我不是經驗最豐富的獵人，但我可以告訴你很多關於動物們的有用知識，不只是成群結隊活動那麼簡單。變異家畜、野豬、盲狗、地獄犬、史諾克、倉鼠……我甚至還對吸血鬼略知一二。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_1111">
+		<text>跟我講講野豬和變異家畜。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_11111">
+		<text>好。變異家畜是最無害的變異體了。牠們盡量遠離潛行者，但如果你先發動攻擊，牠們也會反擊。如果說，變異家畜中混進了一隻野豬，那事情就麻煩了。300 公斤的怒火輕易可招架不住。當牠向你衝過來時，盡量不要站在牠的方向上……使用牠的衝力來對抗牠。像那樣重的龐然大物是不可能急轉向的，對吧？所以只要閃躲到一側，然後一刻不停朝牠射擊。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_1112">
+		<text>跟我講講盲狗和地獄犬。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_11121">
+		<text>獨行犬不危險，但一旦成群結隊，牠們就變得很難對付。牠們只有在飢餓的時候才會攻擊……問題在於，牠們幾乎每時每刻都很餓。如果你遭遇了一大群狗，試著從高處逐個擊殺牠們，否則牠們就會碾壓你，尤其是其中有成年地獄犬的時候。跟盲狗比起來，牠們沒有特別抗揍，但更狡猾也更危險……要是你看到一隻狗突然變成了一群，記住：你正遭受幻象攻擊。真正的本體地獄犬會畏縮不前，只在偶爾咬你一口……努力去分辨牠們，只要本體一死，幻象也就消失了。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_1113">
+		<text>跟我講講史諾克。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_11131">
+		<text>人類的殘軀……單隻史諾克對有經驗的獵人來說沒什麼威脅。你等牠跳到你身上前，在空中朝牠盡情開槍就好了。但如果有幾隻的話……你就得一邊躲避牠們的跳躍，一邊盡可能快的朝牠們開槍。牠們也知道這點，所以經常試著發動群體攻擊。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_1114">
+		<text>跟我講講倉鼠。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_11141">
+		<text>獵人的惡夢……要是你因為牠們的嬌小體型而低估牠們，這一定會是你犯下的最嚴重的錯。牠們超乎尋常的快和靈活，經常成群結隊行動。當你覺察到數十根小尖牙正在撕扯你——你便再也無法小看牠們並開始舉槍射擊……然後就是最可怕的地方：牠們非常難被擊中。這就是為什麼我總是讓潛行者攜帶一把上膛的散彈槍。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_1115">
+		<text>跟我講講吸血鬼。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_11151">
+		<text>牠們本身就是專業的獵人，以及偽裝高手。當牠們偽裝時，你幾乎無法看到牠們。如果你在追獵一隻吸血鬼，試著去驚嚇牠，牠在移動時才比較容易被看到……記住，吸血鬼會從你身後悄悄靠近，用牠的觸角在你的脖子周圍試探。真的超可怕的，老兄……如果你不幸碰到了幾隻吸血鬼，永遠記得當心背後。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_mutants_1116">
+		<text>好吧，那沒事了。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_soroka_actor_task_0">
+		<text>如果我看見了喜鵲，一定會跟你說的。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_soroka_actor_task_1">
+		<text>我不會讓你的付出白費……我會好好拔掉他的羽毛。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_soroka_dialog_0">
+		<text>喜鵲做了什麼傷害你的事？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_soroka_dialog_1">
+		<text>好吧，他有次來找我，說因為一隻控制者的關係，他沒法去拿他的戰利品。我的隊伍那時正好缺一個人，我們的探路員丹尼拉去追查吸血鬼巢穴了，所以我們就決定幫喜鵲拿到他的戰利品並帶他一起打獵。他唯一要做的就是在奇美拉的巢穴附近監視牠……</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_soroka_dialog_11">
+		<text>然後發生了什麼？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_about_soroka_dialog_111">
+		<text>然後發生的事就是——那個渾蛋跑了，不僅帶走了他的戰利品，還把我們的也偷走了。當奇美拉最後出現時，我們所有人都被打了個措手不及。比如高墨達，根本沒來得及反應，我是說，誰會來得及呢？……這場狩獵遊戲變成了我在拼命守護團隊。最後我打傷了奇美拉，但牠還是在狠狠劃傷了螃蟹後逃跑了。我們整整一周的準備全白費了。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_after_fight_11">
+		<text>你天生就適合打獵，老兄！這是我個人贈予你的獎品……特拉帕曾說過「技能是你的主要武器」……順便問一下，你要去亞尼夫嗎？要是能告訴特拉帕奇美拉已經死了就好了。我目前還是留在斯卡多夫斯克，等螃蟹好起來。你跟我們一起走嗎？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_after_fight_111">
+		<text>嗯，走吧。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_after_fight_112">
+		<text>不了，我在這附近逛逛。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_after_fight_12">
+		<text>我們做到了。這是我個人贈予你的小獎品……本來還能更順利些，不過無所謂了。特拉帕曾說過「有了經驗，誰還需要陷阱？」……順便問一下，你要去亞尼夫嗎？要是能告訴特拉帕奇美拉已經死了就好了。我目前還是留在斯卡多夫斯克，等螃蟹好起來。你跟我們一起走嗎？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_after_fight_13">
+		<text>高墨達死了……那隻奇美拉讓我們損失慘重。你要去亞尼夫，是嗎？我們應該告知特拉帕奇美拉已經死了。我目前還是留在斯卡多夫斯克，等螃蟹好起來。你走嗎？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_b22_about_stalker_vampire_0">
+		<text>我找到了丹尼拉。他死了，被已故的特雷莫爾殺了。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_b22_about_stalker_vampire_1">
+		<text>噢，老兄！為什麼好人總是不長命？……那個王八蛋特雷莫爾！居然殺了丹尼拉……他是那麼好的一個人啊！</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_b52_about_nimble_0">
+		<text>你覺得小機靈有可能在做銷贓的生意嗎？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_b52_about_nimble_1">
+		<text>贓物啊？你為什麼會這麼想？我認識小機靈很久了，定期從他那裡訂購武器，畢竟物美價廉。這是我第一次聽到這個說法，我猜他有新的競爭對手了，因為競爭不過而氣急敗壞散佈謠言之類的……</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_come_with_me_0">
+		<text>我正在組建一支隊伍去普里皮亞季，你想加入嗎？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_come_with_me_1">
+		<text>我跟科學家們還有一份合約要遵守。另外，我也不是很想去。你應該問問索科洛夫，他一直在跟我嘮叨，說什麼他有多想去普里皮亞季，但是沒有勇氣一個人去。那人是一個真正的軍人。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_come_with_me_2">
+		<text>我跟科學家們還有一份合約要遵守。另外，我也不是很想去。抱歉啊，老兄。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_come_with_me_3">
+		<text>不了，我不想去。這裡是打獵的勝地，你比大多數人更清楚這些地方還有多少隻變異體在遊蕩——足以讓一個優秀獵人打上幾輩子的獵。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_employ_stalkers_0">
+		<text>你想為科學家工作嗎？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_employ_stalkers_1">
+		<text>是什麼工作？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_employ_stalkers_11">
+		<text>守衛地堡。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_employ_stalkers_111">
+		<text>不了謝謝。我是一個獵人，我的工作都是和變異體相關的，而且變異體又不會對地堡產生威脅。至於人類，啊，工作性質就不同了。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_employ_stalkers_12">
+		<text>在特異點做測量工作。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_employ_stalkers_121">
+		<text>為什麼不呢？我們可以做的。我正式宣布狩獵季節結束！能夠從日常工作中擺脫出來喘口氣了。你知道的，每次去那裡都感覺心裡毛毛的……</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_employ_stalkers_2">
+		<text>不，不是現在。你也看到了，現在是狩獵季節。首先要跟這隻奇美拉好好算算帳。我們不能放任這個嗜血的變異體在特異區出沒，還到處抓傷潛行者。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_employ_stalkers_3">
+		<text>我現在想做的就是狠狠掐住喜鵲的喉嚨，然後我就能平心靜氣跟你談工作的事了。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_employ_stalkers_4">
+		<text>遲點說。我們自己都有夠多事要忙了——有一隻奇美拉要殺，有喜鵲要追蹤，所以沒時間做別的事。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_info_about_soroka_0">
+		<text>我找到了喜鵲。他在亞尼夫站，謊稱自己叫「弗林特」。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_info_about_soroka_1">
+		<text>那個畜生還活著？很好，他活不久了……拿著，這是給你提供情報的謝禮。我等不及要去見那個蠢貨了。叫弗林特是吧……</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_info_about_soroka_11">
+		<text>對，謝謝。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_info_about_soroka_start_11">
+		<text>老兄，你見到了這個叫喜鵲的傢伙嗎？你認識他？……不？好吧，如果你遇到了那個人渣，大可以往他頭上開一槍。或者你可以告訴我他在哪裡，我不會讓你白費心力的。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_start_11">
+		<text>嗯，你好啊。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_start_12">
+		<text>等等！……我們已經追蹤到了奇美拉，所以不能浪費任何時間。螃蟹還躺著，丹尼拉還沒回來，光靠我們兩個人去追殺那隻野獸是不明智的。我們還需要一個人。看來你是個值得信賴的人，你找到了喜鵲。我們一起去殺了那隻噁心的奇美拉，如何？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_start_13">
+		<text>等等！……我們已經追蹤到了奇美拉，所以不能浪費任何時間。螃蟹還躺著，丹尼拉……哎……只有兩個人的狩獵小隊也太蠢了。我們還需要一個人。看來你是個值得信賴的人，我們一起去殺了那隻噁心的奇美拉，如何？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_start_131">
+		<text>樂意之至。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_start_1311">
+		<text>正如特拉帕曾經說過的「要想打獵成功，打獵只是一半工作」……總之，聽著：在經過一夜的狩獵後，奇美拉會在凌晨三點左右回到巢穴，然後立即入睡。我們就在那個時候突襲牠……你準備好之後，在凌晨三點來這裡，我們一起出發。我們會在酒吧等你。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_start_132">
+		<text>我會考慮看看。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_start_1321">
+		<text>好吧，如果你決定了，就在凌晨三點來酒吧。那時奇美拉已經爬回了牠的巢穴準備做美夢了。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_start_14">
+		<text>日安。近況如何啊？你看上去精力充沛。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_start_15">
+		<text>啊，真不錯，世界真小啊，嘿。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_start_16">
+		<text>如何？獵殺奇美拉的時間到了……</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_start_17">
+		<text>打獵前是不是感到很緊張？</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_trapper_send_0">
+		<text>特拉帕讓我來幫助你們獵殺奇美拉。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_trapper_send_1">
+		<text>我知道了，他的直覺還是這麼準。問題在於，我們終於追蹤到了奇美拉，但不幸的是，螃蟹還躺著，丹尼拉也沒回來……所以只有我們三個人。不過既然特拉帕選擇了你，你一定是個很棒的獵人。聽著，在經過一夜的狩獵後，奇美拉會在凌晨三點左右回到巢穴，然後立即入睡。我們就在那個時候突襲牠……你準備好之後，在凌晨三點來這裡，我們一起出發。我們會在酒吧等你。</text>
+	</string>
+
+	<string id="zat_b14_stalker_at_bar_start_0">
+		<text>你把我當傻子嗎？</text>
+	</string>
+
+	<string id="zat_b14_stalker_at_bar_start_1">
+		<text>你本來就是。傻子就需要人教。</text>
+	</string>
+
+	<string id="zat_b14_stalker_at_bar_start_11">
+		<text>不要緊，世界很小的，特異區更小，我們會再碰面的。</text>
+	</string>
+
+	<string id="zat_b14_stalker_at_bar_start_111">
+		<text>滾……滾出去。斯卡多夫斯克不允許打架鬥毆。</text>
+	</string>
+
+	<string id="zat_b14_stalker_at_bar_start_1111">
+		<text>對，沒錯。</text>
+	</string>
+
+	<string id="zat_b14_stalker_at_bar_start_12">
+		<text>我承認，我犯了個錯。但你也違規了。</text>
+	</string>
+
+	<string id="zat_b14_stalker_at_bar_start_121">
+		<text>特異區是你建的吧。好了，別廢話了。</text>
+	</string>
+
+	<string id="zat_b14_stalker_at_bar_start_13">
+		<text>要是他讓神器就這麼沒了，那他就是一個徹頭徹尾的傻子。</text>
+	</string>
+
+	<string id="zat_b14_stalker_at_bar_start_131">
+		<text>好啦，現在不是哭的時候。學到了教訓，下次就記住了。為了讓你記得更牢，我請你喝一杯啤酒吧——它能讓你振作起來。</text>
+	</string>
+
+	<string id="zat_b14_stalker_at_bar_start_1311">
+		<text>我接受。</text>
+	</string>
+
+	<string id="zat_b14_stalker_at_bar_start_1312">
+		<text>不了謝謝，我可以自己買酒。</text>
+	</string>
+
+	<string id="zat_b14_stalker_robbery_0">
+		<text>你很強是吧？！閉嘴，站著別動！把神器交出來，蠢貨！</text>
+	</string>
+
+	<string id="zat_b14_stalker_robbery_1">
+		<text>渾蛋。拿著神器吧……希望它能嗆死你。</text>
+	</string>
+
+	<string id="zat_b14_stalker_robbery_2">
+		<text>去你媽的。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_0">
+		<text>兄弟！聽著，就是這一件神器，帶治療力量……我非常需要它。我的一個朋友因為這種怪病快死了，我們的藥物根本沒用……我試過去找那件神器，但撞進了一個瓦斯特異點裡。你還沒遭遇過它，對吧？</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_1">
+		<text>既然是這麼重要的事，給你吧。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_11">
+		<text>謝了兄弟！我不會忘記的。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_111">
+		<text>保重。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_2">
+		<text>我有一件，但我自己也需要它。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_21">
+		<text>噢，拜託了！我的朋友……他真的快死了！</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_211">
+		<text>在特異區裡，人人為己。保重。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_3">
+		<text>不，我沒見過。保重。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_last_chance_0">
+		<text>那件神器到頭來不會給你帶來任何好處的，記住我的話。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_last_chance_1">
+		<text>如果你迫切需要的話——給，拿著。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_last_chance_11">
+		<text>謝了兄弟！我不會忘記的。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_last_chance_111">
+		<text>保重。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_last_chance_2">
+		<text>等著瞧。</text>
+	</string>
+
+	<string id="zat_b14_stalker_start_last_chance_end_0">
+		<text>我跟你沒什麼好談的。</text>
+	</string>
+
+	<string id="zat_b18_noah_arc_0">
+		<text>為什麼你住在這個垃圾桶裡？</text>
+	</string>
+
+	<string id="zat_b18_noah_arc_1">
+		<text>這是一艘方舟！記住……只要你想，你就能活！當狂潮來襲，緊緊靠在一起。在這裡你有機會活下去。沒有變異體可以闖進來。</text>
+	</string>
+
+	<string id="zat_b18_noah_catastrophe_0">
+		<text>你提到了狂潮……</text>
+	</string>
+
+	<string id="zat_b18_noah_catastrophe_1">
+		<text>對，來勢洶洶的變異體狂潮，驅趕和碾壓特異區的人！而僥倖存活的可憐蟲們，無論是誰，都會被巨大的能量釋放一掃而光！！！它會席捲走特異區的每一條生命！……除了那些已經做好準備的人。</text>
+	</string>
+
+	<string id="zat_b18_noah_dog_0">
+		<text>你從哪裡得到這條狗的？</text>
+	</string>
+
+	<string id="zat_b18_noah_dog_1">
+		<text>這是萊西，一條可愛的小母狗……要不是她，我很久之前就已經在睡夢中被吃掉了。該死的變異體……我恨牠們！只要一閉上眼，牠們就向你撲來，你滿眼都是牠們嚇人的爪子、尖牙還有觸角……</text>
+	</string>
+
+	<string id="zat_b18_noah_first_artefact_0">
+		<text>我需要一個羅盤神器，你知道在哪裡可以找到嗎？</text>
+	</string>
+
+	<string id="zat_b18_noah_first_artefact_1">
+		<text>當變異體突然衝出來時，那種垃圾貨可救不了你的命！給，拿著這個，然後離我遠點。</text>
+	</string>
+
+	<string id="zat_b18_noah_first_artefact_11">
+		<text>謝謝。</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_0">
+		<text>你知道關於墜毀直升機的事嗎？</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_1">
+		<text>我知道關於其中一架的事……我知道它在高原上，那地方到處都是史諾克，我每隔幾天都要去射殺牠們……你幹嘛這麼看著我？僅僅一次可搞不定牠們那麼大一個巢穴。</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_11">
+		<text>我怎麼才能去到高原？</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_111">
+		<text>你也想去殺掉一些史諾克，對吧？了不起……我可以帶你去。</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_1111">
+		<text>出發吧。</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_1112">
+		<text>下次吧。</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_1121">
+		<text>一名潛行者。</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_11211">
+		<text>明白了。你在找什麼？</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_1122">
+		<text>不關你的事。</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_113">
+		<text>我會帶你去那裡。先在這待著，能量釋放要來了……明白嗎？能量釋放！！！</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_12">
+		<text>我之前打過巢穴。</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_121">
+		<text>是嗎？沒有辦法安撫好牠們……變異體只會越來越多，總有一天牠們會發動攻擊！牠們的狂潮將會蕩平特異區，清除所有沒做好準備的人！……</text>
+	</string>
+
+	<string id="zat_b18_noah_second_artefact_0">
+		<text>聽著，呃，你會不會剛好有一個羅盤？</text>
+	</string>
+
+	<string id="zat_b18_noah_second_artefact_1">
+		<text>你覺得它可以保護你不受能量釋放的傷害？哈，拿著它快滾吧！</text>
+	</string>
+
+	<string id="zat_b18_noah_second_artefact_11">
+		<text>謝謝。</text>
+	</string>
+
+	<string id="zat_b18_noah_start_11">
+		<text>你是誰？</text>
+	</string>
+
+	<string id="zat_b18_noah_start_111">
+		<text>一名潛行者。我們以前見過的。</text>
+	</string>
+
+	<string id="zat_b18_noah_start_1111">
+		<text>我不記得了……隨便吧，你需要什麼？</text>
+	</string>
+
+	<string id="zat_b18_noah_start_112">
+		<text>一名潛行者，僅此而已。</text>
+	</string>
+
+	<string id="zat_b18_noah_start_1121">
+		<text>明白了。想在方舟裡避難？請隨意吧。</text>
+	</string>
+
+	<string id="zat_b18_noah_start_113">
+		<text>不關你的事。</text>
+	</string>
+
+	<string id="zat_b18_noah_start_21">
+		<text>啊，是你。你想要什麼？</text>
+	</string>
+
+	<string id="zat_b18_noah_third_artefact_0">
+		<text>你有沒有多餘的羅盤可以分給我？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_0">
+		<text>跟我講講關於特異點的事。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_1">
+		<text>當你對付一個特異點時，記住：它要麼非常熱，要麼瀰漫著有毒氣體，要麼就是輻射熱點。也有那種心靈干擾的，不過目前不講這個。特異點的特質決定了一切，也就是熱能、瓦斯、電力……還有重力，但我希望你不會遇到這種。還有移動的特異點，不過那就完全是兩碼事了。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_1111">
+		<text>跟我講講熱能特異點。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_11111">
+		<text>如果你在炎熱的夏天看見人行道上有某種微光閃爍，像是水汽蒸騰——那就是熱能特異點。一旦有東西進入，那裡就會突然冒出極其炎熱的火焰。一開始人們以為那些是天然氣噴發，但後來這種論調就無聲無息消失了。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_1112">
+		<text>跟我講講瓦斯特異點。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_11121">
+		<text>這類特異點因其古怪、無休止的化學製程而得名。它們會生產酸液和有毒瓦斯，幾秒內就能腐蝕你的皮膚，侵蝕你的肺……好在瓦斯特異點很容易在露天區域被發現。一旦你走進一條漆黑的隧道——那就慘了。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_1113">
+		<text>跟我講講電型特異點。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_11131">
+		<text>這是一類很有意思的特異點，會累積大量的靜電荷。潛行者們通常會利用這一點，用任何金屬物品使它放電。他們會向裡面扔一個螺栓，然後趁它再次充電之前迅速衝過去。但我更願意繞行——再次充電的時間太快了。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_1114">
+		<text>跟我講講重力特異點。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_11141">
+		<text>它們一般是靜態的。當你看向一個特定的位置，注意到其後的物體在扭曲變形——那就是它了。而且你最好離它遠一點。所有已知的三個種類在任何物體觸碰到它們的那一刻都會立即做出反應。「跳板」會從它的下方大力扔出所有東西——通常能扔很遠。「漩渦」則正正相反：它會把物體吸入，用可怕的力量將其壓碎，幾秒之後，碎片就飛散了。「旋轉」會把它的受害者舉到空中，旋轉然後將其撕成碎片……不管哪種方式，死得都很慘。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_1115">
+		<text>跟我講講移動的特異點。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_11151">
+		<text>就我個人而言，我只遇到過「彗星」和「特斯拉」。前者是一個火球，直徑約有三英呎。但我可以跟你保證，你在離它非常非常遠的時候就能感覺到熱了……後者是一個閃電球，我找不到更好的描述了，因為它絕對就是一個球，而且自身還帶電。兩個特異點總是在不斷移動，但通常都是在閉環路徑中。謹慎的潛行者應該能夠輕鬆繞過它們……只是小心不要分心。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_anomalies_1116">
+		<text>好吧，那沒事了。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_himself_0">
+		<text>跟我講講你自己。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_himself_1">
+		<text>我的名字叫飛機師是有原因的，我只會使用安全的航線。我沒有收集神器或是打擊強盜的能力，所以……每個人都應該發揮自己的才能造福別人。當然，每項才能都是有代價的。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_surge_0">
+		<text>跟我講講關於能量釋放的事。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_maps_0">
+		<text>我有一些扎通和木星工廠之間區域的地圖，你想看看嗎？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_maps_1">
+		<text>讓我看下……很好，細節很多。在我們這一行，細節決定生死。太好了！這些地圖顯示在斯卡多夫斯克和亞尼夫之間有一條直通的安全路線。如果你不介意的話，我想把這些資料複製到我的PDA上。現在我可以給你一個不錯的折扣。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_start_11">
+		<text>或許你需要一名嚮導？帶你繞行所有的特異點，保證你不受能量釋放的傷害？飛機師為您服務。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_start_21">
+		<text>你需要一名嚮導的幫助嗎？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_start_31">
+		<text>很高興見到你，老飛機師能為你做什麼呢？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_start_41">
+		<text>又要上路了？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_start_51">
+		<text>祝您愉快。沒法在一個地方待很久吧？隨時為您效勞。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_start_61">
+		<text>哈嘍。如果你需要一個嚮導，我就是你要找的人。等能量釋放結束就走。與此同時，我們可以聊聊特異點來打發時間……</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_start_71">
+		<text>恐怕我現在無法擔任嚮導……能量釋放正處在活躍階段。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_jupiter_0">
+		<text>去亞尼夫站要多少錢？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_jupiter_1">
+		<text>很不幸，從這裡過去要走很遠，所以價格是 3000 塊。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_jupiter_11">
+		<text>沒問題，出發吧。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_jupiter_12">
+		<text>我身上沒有那麼多錢。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_jupiter_13">
+		<text>我還不打算走。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_jupiter_2">
+		<text>有你的地圖的話——只要 1000 塊。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_jupiter_21">
+		<text>沒問題，出發吧。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_jupiter_22">
+		<text>我身上沒有那麼多錢。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_jupiter_23">
+		<text>我還不打算走。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_jupiter_3">
+		<text>從這裡過去要走很遠，所以價格是 3000 塊。只要能量釋放一平息下來，我就可以走。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_jupiter_4">
+		<text>有你的地圖的話——只要 1000 塊。但我們必須等能量釋放結束。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_0">
+		<text>你能帶我去普里皮亞季嗎？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_3">
+		<text>不行。每個人有各自的專長。看見那邊的蓋瑞了嗎？我想他可以幫你。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_4">
+		<text>就我個人而言做不到，但給我 6000 塊，我就帶你去到亞尼夫站，然後安排你見蓋瑞。他可以從那裡帶你去普里皮亞季。你覺得如何？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_41">
+		<text>好，出發吧。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_42">
+		<text>我身上沒有那麼多錢。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_43">
+		<text>我還不打算走。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_5">
+		<text>就我個人而言做不到，但只要給我 4000 塊，我就帶你去到亞尼夫站，然後安排你見蓋瑞。他可以從那裡帶你去普里皮亞季。你覺得如何？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_51">
+		<text>好，出發吧。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_52">
+		<text>我身上沒有那麼多錢。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_53">
+		<text>我還不打算走。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_6">
+		<text>不行。每個人有各自的專長。看見那邊的蓋瑞了嗎？我想他可以幫你，等能量釋放結束之後。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_7">
+		<text>就我個人而言做不到，但給我 6000 塊，我就帶你去到亞尼夫站，然後安排你見蓋瑞。他可以從那裡帶你去普里皮亞季。當然，是在能量釋放結束之後。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_8">
+		<text>就我個人而言做不到，但只要給我 4000 塊，我就帶你去到亞尼夫站，然後安排你見蓋瑞。他可以從那裡帶你去普里皮亞季。當然，是在能量釋放結束之後。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_no_way_0">
+		<text>你能帶我去普里皮亞季嗎？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_no_way_1">
+		<text>普里皮亞季？不行。我目前的路線有足夠多的需求，不必尋找其他的。但我有一個好哥們，以前在木星工廠工作。他告訴我工廠底下有隧道通向普里皮亞季。他沒細講，不過他說他會先從工廠的行政區開始找起。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_pripyat_no_way_2">
+		<text>不行。你要是想去那裡，就試著找到那些在木星工廠地底下的隧道。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_zaton_0">
+		<text>去斯卡多夫斯克要多少錢？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_zaton_1">
+		<text>考慮到我們得繞路，價格是 3000 塊。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_zaton_11">
+		<text>沒問題，出發吧。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_zaton_12">
+		<text>我現在錢不夠。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_zaton_13">
+		<text>我還不打算走。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_zaton_2">
+		<text>有了新路線，只要 1000 塊。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_zaton_21">
+		<text>沒問題，出發吧。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_zaton_22">
+		<text>我現在錢不夠。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_zaton_23">
+		<text>我還不打算走。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_zaton_3">
+		<text>考慮到我們得繞路，價格是 3000 塊。只要能量釋放一平息下來，我就可以走。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_to_zaton_4">
+		<text>有了新路線，只要 1000 塊。但我們必須等能量釋放結束。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_where_to_0">
+		<text>你可以帶我去哪裡？</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_where_to_1">
+		<text>去亞尼夫站，就在離木星工廠不遠處。然後從那裡回到斯卡多夫斯克。我寧願只熟悉一條路，也不想宣稱自己知道很多條路。</text>
+	</string>
+
+	<string id="zat_b22_barmen_about_after_quest_b5_dealer_actor4_0">
+		<text>我破壞了強盜們的武器交易。</text>
+	</string>
+
+	<string id="zat_b22_barmen_about_after_quest_b5_dealer_actor4_1">
+		<text>謝謝你幫忙。我回想起了 90 年代，那時候的暴徒還帶著火箭榴彈，真令人不寒而慄……給，請收下它。有現金總是好的。</text>
+	</string>
+
+	<string id="zat_b22_barmen_about_vampire_actor1_0">
+		<text>我在找松雞，我們本應在這裡會面。</text>
+	</string>
+
+	<string id="zat_b22_barmen_about_vampire_actor1_1">
+		<text>松雞給你留了訊息。他說他正去往碼頭吊車那裡。他知道了一些新的有關失蹤潛行者的事。</text>
+	</string>
+
+	<string id="zat_b22_barmen_about_vampire_actor2_0">
+		<text>松雞死了。特雷莫爾殺了他，就像殺其他潛行者一樣……特雷莫爾也死了。</text>
+	</string>
+
+	<string id="zat_b22_barmen_about_vampire_actor2_1">
+		<text>特雷莫爾？該死。毒蛇就在我們眼皮底下。那本來可能是我們中的任何一人……我的意思是，不是松雞也會是其他人……謝謝你，朋友，你救了我們整個營地。給你。</text>
+	</string>
+
+	<string id="zat_b22_barmen_about_vampire_actor3_1">
+		<text>特雷莫爾？！……抱歉，老兄，我只是不太相信。如果能有某種證據的話，那可能……可憐的松雞。</text>
+	</string>
+
+	<string id="zat_b22_barmen_about_vampire_actor4_0">
+		<text>這是特雷莫爾的PDA，裡面有能證明他參與其中的證據。</text>
+	</string>
+
+	<string id="zat_b22_barmen_about_vampire_actor4_1">
+		<text>該死。毒蛇就在我們眼皮底下。那本來可能是我們中的任何一人……我的意思是，不是松雞也會是其他人……謝謝你，朋友，你救了我們整個營地。給你。</text>
+	</string>
+
+	<string id="zat_b22_barmen_b5_daring_quest_stalkers_0">
+		<text>我會幫你解決掉強盜。</text>
+	</string>
+
+	<string id="zat_b22_barmen_b5_daring_quest_stalkers_1">
+		<text>太好了。去遊騎兵哨所——我們的人在那裡，他們會告訴你詳情。</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_b52_about_nimble_0">
+		<text>你對小機靈瞭解多少？他會不會在買賣偷來的武器？</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_b52_about_nimble_1">
+		<text>我對他不太瞭解。我不覺得他會幹那種事。如果你經營的是搶手貨，你不會提前接下訂單……</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_11">
+		<text>我就知道我最後會暴露的。只不過是早晚的問題……</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_111">
+		<text>特雷莫爾？！……介意跟我解釋下發生了什麼事情嗎？</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_1111">
+		<text>我不再隱瞞什麼了，沒用的。你現在知道是我殺的松雞……還有丹尼拉和其他失蹤的潛行者。</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_11112">
+		<text>好，我懂了。不用再講了。</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_111121">
+		<text>你什麼都不懂，沒有人會懂我……</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_112">
+		<text>你為什麼這麼做？</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_1121">
+		<text>血紅素成癮……我不希望任何人得這個病……沒辦法擺脫它。有時你感覺自己可以一整個月不喝一滴血，這種情況確實也發生在我身上幾次，但之後……你的內部爆裂了，你就開始像瘋了一樣補回失去的血液……</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_113">
+		<text>你如何把這一切保密的？</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_1131">
+		<text>當我在外科診所工作時，很輕鬆就能掩蓋。捐血總會有剩的。但在特異區就不一樣了……我以為那種惡劣的環境能讓我不用理會我的狀況，但我錯了。我經曆了最可怕的爆裂，根本無法思考任何事。我決定讓殺戮看起來像是吸血鬼所為。通常我會挑選那些已經受傷的對象。</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_114">
+		<text>那丹尼拉和松雞呢？</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_1141">
+		<text>在吸血鬼突襲後，丹尼拉來找我幫忙。他受傷了。當他和松雞決定一起去獵殺吸血鬼的時候，我意識到我堅持不了多久了。我仍然努力守護我的秘密，但我的決心正在減弱……然後松雞出現了，他瞭解了情況並試圖殺了我。這就造成現在的局面了。我很抱歉殺了那些人，但我的憐憫不會讓他們起死回生。</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_11411">
+		<text>好，我懂了。不用再講了。</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_114111">
+		<text>你什麼都不懂，沒有人會懂我……</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_21">
+		<text>我在聽。</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_22">
+		<text>哈囉，需要幫忙嗎？</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_23">
+		<text>哈囉。</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_need_health_care_0">
+		<text>我需要醫療援助。</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_need_health_care_1">
+		<text>讓我看一下……</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_need_health_care_111">
+		<text>好了，就是這樣，你可以走了。</text>
+	</string>
+
+	<string id="zat_b29_rivals_start_dialog_11">
+		<text>你好啊！也在找神器嗎？</text>
+	</string>
+
+	<string id="zat_b29_rivals_start_dialog_12">
+		<text>嘿！我們去撿神器，對吧？啊，那裡一定有很多，人人都有。</text>
+	</string>
+
+	<string id="zat_b29_rivals_start_dialog_13">
+		<text>噢，嘿！也想搞到一些神器，對嗎？</text>
+	</string>
+
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_0">
+		<text>你好。你要把那件神器帶給大鬍子嗎？</text>
+	</string>
+
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_1">
+		<text>說不準。跟你有關嗎？</text>
+	</string>
+
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_11">
+		<text>我需要它。</text>
+	</string>
+
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_111">
+		<text>我也是……但我會用一把新槍來交換它。一款高檔貨喔。</text>
+	</string>
+
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_1111">
+		<text>我有一件很棒的武器，我們來交易吧……</text>
+	</string>
+
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_11111">
+		<text>好。</text>
+	</string>
+
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_1112">
+		<text>不，行不通。</text>
+	</string>
+
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_11121">
+		<text>那就他媽的給我滾。</text>
+	</string>
+
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_111211">
+		<text>好吧。</text>
+	</string>
+
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_12">
+		<text>好吧，確實也沒有。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_about_nimble_0">
+		<text>你知道有關小機靈的事嗎？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_about_nimble_1">
+		<text>噢，我知道的不多……我們不在一起做事。他在特異區裡找一件絕世神兵的工夫，我已經賣了一百枝常規槍了。他也挺自大的，從不和地頭蛇們打交道。所以他是一個不討人喜歡的貿易商人，這點其實對我還蠻有利的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_b30_actor_after_barmen_0">
+		<text>大鬍子跟我說你有不一樣的籌劃。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_b30_actor_after_barmen_1">
+		<text>「不一樣」個屁！那隻渾身長毛的豬越來越囂張了！該去提點他誰才是這裡的老大……聽著，扎通有一個真正有影響力的人物，他叫蘇丹。去拜訪下他吧——他會告訴你該怎麼做。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_b30_actor_after_barmen_11">
+		<text>我會去跟蘇丹談談的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_b30_actor_after_barmen_12">
+		<text>別管什麼蘇不蘇丹了，現在就把我的份額給我！</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_b30_actor_after_barmen_121">
+		<text>呃……好吧。錢在這裡……不過記住，大鬍子是在糊弄你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_0">
+		<text>我需要情報。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1">
+		<text>你想知道甚麼？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_11">
+		<text>我需要毒氣。我聽說該來問你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_111">
+		<text>確實。2000 塊，我就告訴你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1111">
+		<text>給你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_11111">
+		<text>聽好。以前這裡有個軍用電動機柱用來輸送氣體，不過沒用上。沒人知道發生了什麼，但氣罐應該還在這裡。明白了嗎？對了，那裡可能還有一些文件，如果你找到了它們就帶回來給我，我會給你報酬的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1112">
+		<text>太貴了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_11121">
+		<text>隨你便吧。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_12">
+		<text>我能去哪裡找到一個名叫喜鵲的潛行者？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_121">
+		<text>我可以給你提示……1000 塊。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1211">
+		<text>給你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_12111">
+		<text>你在這裡找不到他，但有人告訴我他可能會在木星工廠那裡，亞尼夫站附近吧。記住一點，如果有人在一個地方搞砸了事，那他去另一個地方後必定會改名換姓……他很可能還變了偽裝，就怕人們會在潛行者中找他。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_13">
+		<text>我在找斯奈格，你知道他在哪裡嗎？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_131">
+		<text>給我 1000 塊我就告訴你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1311">
+		<text>給你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_13111">
+		<text>斯奈格是一個貪婪的蠢貨，因為他跟危險的人扯上了關係。他已經斷了自己的後路，所以你應該去木星工廠附近找他，他沒別的地方可去。你不是唯一一個在找他的人。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_15">
+		<text>關於墜毀的直升機，你知道些什麼？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_151">
+		<text>嗯……這裡所有人都知道它們掉到了哪裡。一架掉在了高原南部，一架在沼澤地，還有一架正正落在了變電站輸電線塔的頂部。你說的是哪一個地方？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1511">
+		<text>高原南部。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1512">
+		<text>變電站。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1513">
+		<text>沼澤地。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1516">
+		<text>直升機的事就這樣吧。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_152">
+		<text>付錢吧，你欠我 200 塊。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1521">
+		<text>給你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_15211">
+		<text>是這樣，這架直升機就落在了一個史諾克巢穴邊上。據我所知，裡面是軍方的人，他們中的大多數人都逃出來了，把變異體殺乾淨後爬了下來。順便一提，如果你要去那裡，我可以給你提供一把很不錯的散彈槍和一些彈藥，讓你能去對付那些野獸。唯一的問題是，除了挪亞那個瘋癲的傢伙，沒人知道該怎麼爬上那座高原。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1522">
+		<text>太貴了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_15221">
+		<text>隨你便吧。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_153">
+		<text>給我 200 塊，我就告訴你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1531">
+		<text>給你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_154">
+		<text>給我 200 塊，我就告訴你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_1541">
+		<text>給你。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_99">
+		<text>現在沒什麼。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_0">
+		<text>有工作給我嗎？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_111">
+		<text>首先，有一個科學家委託的小任務。其次，我們需要有關僱傭兵營地的情報。還有就是，貿易商人仍然需要一個護衛小組。很多事情待辦，你自己挑吧。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_1111">
+		<text>跟我講講那個科學家委託的任務。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_11111">
+		<text>你需要找到三台貝萊斯探測器，並把它們交到木星工廠附近的科學家地堡裡。你到了那裡之後，去和諾維可夫交談，他說他會想辦法修好它們……一旦探測器開始實現盈利，我們就平分收益。清楚了嗎？那就去吧。這對你來說絕對是小菜一碟。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_111111">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_111112">
+		<text>也許下次吧。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_1112">
+		<text>跟我講講關於僱傭兵營地的工作。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_11121">
+		<text>某些僱傭兵出現在了廢料處理站，我非常想知道他們在做什麼……悄悄潛入他們的營地，盡可能發挖有關他們計畫的任何情報。PDA、紙本文件之類的，你找到什麼都帶來給我。明白了嗎？去吧。只要你安靜做事，這完全就是小兒科的任務。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_111211">
+		<text>我同意。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_111212">
+		<text>不是現在。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_1113">
+		<text>跟我講講關於保護貿易商人的工作。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_11131">
+		<text>貿易商人需要找人為一件生意提供護衛。你幾乎不需要做什麼，只要站在那裡，保證一切看上去合法就行……明白了嗎？貿易商人會在遊騎兵哨所等你，他會告訴你工作細節……</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_111311">
+		<text>好吧。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_111312">
+		<text>等等。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_1114">
+		<text>下次吧。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_112">
+		<text>科學家們有一個小任務，這是一個，第二個工作是我要請人去僱傭兵營地探聽情報。你選吧……</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_113">
+		<text>科學家們有一個小任務，這是一個，第二個工作是貿易商人要僱一個護衛。來吧，給你選。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_114">
+		<text>我要請人去僱傭兵營地探聽情報，這是一個，第二個工作是貿易商人要僱一個護衛。來吧，給你選。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_115">
+		<text>科學家們有一個小任務，真的很容易搞定——就是跑腿拿東西的事……</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_117">
+		<text>貿易商人需要找人為一件生意提供護衛。輕而易舉就能完成。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_118">
+		<text>沒活了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_0">
+		<text>我覺得也許你會感興趣。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_1">
+		<text>你有甚麼？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_11">
+		<text>挪亞的PDA。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_111">
+		<text>那個駁船上的瘋子？……我給你 1000 塊。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_1111">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_1112">
+		<text>不了謝謝。我暫時想留著它。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_11121">
+		<text>你最好確保留著它不會給你帶來麻煩……</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_12">
+		<text>一個外號叫「鉤子」的僱傭兵的PDA。我在廢料處理站找到的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_121">
+		<text>我給你 1000 塊。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_1211">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_12112">
+		<text>很有意思……幹得好，潛行者。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_13">
+		<text>一個外號叫「里奇」的僱傭兵的PDA。我在廢料處理站找到的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_131">
+		<text>我給你 1000 塊。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_1311">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_14">
+		<text>包含有黑石組寶物資訊的PDA。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_141">
+		<text>我給你 5000 塊。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_1411">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_15">
+		<text>一個與傭兵團客戶有關聯的人的PDA。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_151">
+		<text>我給你 4000 塊。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_1511">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_16">
+		<text>紀律團創始人之一、塔琴科將軍的PDA。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_161">
+		<text>我會花大價錢買它——2500 塊。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_1611">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_17">
+		<text>一個僱傭兵的PDA。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_171">
+		<text>我給你 1000 塊。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_1711">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_18">
+		<text>摩根的PDA。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_182">
+		<text>有關紀律團貿易商人的情報，就是那個四處販售武器的人。它會派上用場的。我付你 4000 塊。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_1821">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_19">
+		<text>史特列洛克團隊藏匿點處找到的筆記。寫給鬼魂的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_191">
+		<text>我給你 500 塊。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_1911">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_20">
+		<text>史特列洛克團隊藏匿點處找到的筆記。寫給史特列洛克的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_201">
+		<text>我給你 500 塊。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_2011">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_21">
+		<text>史特列洛克團隊藏匿點處找到的筆記。寫給方的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_211">
+		<text>我給你 500 塊。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_2111">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_22">
+		<text>從木星工廠找到的文件，包含有全面撤離命令。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_221">
+		<text>我給你 750 塊。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_2211">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_23">
+		<text>從木星工廠找到的文件，一份筆記紀錄。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_231">
+		<text>我給你 750 塊。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_2311">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_24">
+		<text>從木星工廠找到的文件，一份交貨時間表。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_241">
+		<text>我給你 750 塊。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_2411">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_25">
+		<text>從木星工廠找到的文件，一封要求只能從地下通道運送62號物品的政令文書。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_251">
+		<text>我給你 750 塊。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_2511">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_261">
+		<text>不了。有蘇丹插手，我還是不要介入了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_271">
+		<text>讓我看看……啊，這是個好東西。我能出錢買下它嗎？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_2711">
+		<text>當然，我留著它們沒用。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_30">
+		<text>在廢料處理站的僱傭兵營地找到的記事本。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_301">
+		<text>我給你 2000 塊。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_3011">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_311">
+		<text>呵……好吧，把它帶給大鬍子或是科學家們。我對來曆不明的貨沒興趣……我可不想在半夜染上什麼急性輻射病。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_321">
+		<text>那裡才是它應該待的地方。我不想冒不必要的風險。誰知道呢，也許那東西半夜會在它周圍形成一個特異點場域也說不準……你為什麼不把它交給科學家呢，讓他們去研究一下它之類的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_331">
+		<text>在我的廚房櫥櫃裡還有一枚核彈頭呢！不過也許你能討到科學家的歡心——他們就喜歡那種東西。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_34">
+		<text>斯奈格的PDA。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_341">
+		<text>讓我看看。嗯……沒什麼特別的。你大概率已經清空了那個藏匿點，所以我的出價是 200 塊。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_3411">
+		<text>我同意。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_35">
+		<text>一名蘇丹手下的PDA。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_351">
+		<text>有意思……也許會有用。我給你 1000 塊。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_3511">
+		<text>我同意。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_36">
+		<text>一台無人機上的記憶體模組。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_361">
+		<text>很有意思的發現……不過你靠它發不了財。誰知道我是不是第一個讀到這上面資訊的人啊？我的出價是 500 塊。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_3611">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_99">
+		<text>現在沒什麼。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_stages_0">
+		<text>關於那些探測器……</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_stages_1">
+		<text>怎麼了？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_stages_11">
+		<text>我可以在哪裡找到它們？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_stages_111">
+		<text>我不知道，找就是了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_stages_12">
+		<text>我拿到探測器了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_stages_121">
+		<text>那你為什麼還在這裡？去木星工廠附近的科學家地堡，把它們帶給諾維可夫。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_stages_13">
+		<text>我把探測器帶給諾維可夫了。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_stages_131">
+		<text>很好。現在我們需要等他修好它們。諾維可夫許諾說一旦他搞定了，就會派一個信得過的人把它們送過來。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_start_dialog_12">
+		<text>出了點問題。我們的小生意現在面臨不確定的情況。諾維可夫在那些探測器上做了相當多的工作——擴展了它的工作范圍，提高了靈敏度，還有其他等等……這些探測器能讓你以絕對優勢勝過其他任何神器獵人。我和大鬍子做了交易，這樣他僱傭的潛行者都會使用這些新的探測器……</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_start_dialog_121">
+		<text>所以？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_start_dialog_1211">
+		<text>我們的協定是平分收益，但潛行者們拒絕交出我們那一半。你得去見一下大鬍子，說服他履行他的義務……拜託，你也想要你的那份，對吧？</text>
+	</string>
+
+	<string id="zat_b30_stalker_rival_1_about_detector_0">
+		<text>我需要你的新探測器。</text>
+	</string>
+
+	<string id="zat_b30_stalker_rival_1_about_detector_1">
+		<text>哈。那我需要一枝重火力槍砲，如果你找到一件昂貴的優質武器，我就跟你交易。</text>
+	</string>
+
+	<string id="zat_b30_stalker_rival_1_about_detector_11">
+		<text>那就成交了。</text>
+	</string>
+
+	<string id="zat_b30_stalker_rival_1_about_detector_12">
+		<text>不了，謝謝。</text>
+	</string>
+
+	<string id="zat_b30_stalker_rival_2_about_detector_0">
+		<text>我需要你的新探測器。</text>
+	</string>
+
+	<string id="zat_b30_stalker_rival_2_about_detector_1">
+		<text>這是恐嚇嗎？顯然我也需要它。</text>
+	</string>
+
+	<string id="zat_b30_stalker_rival_2_about_detector_11">
+		<text>你沒聽懂，是吧？你的就是最後一台了。我把其他擁有者都處理完了，沒花費太大力氣……</text>
+	</string>
+
+	<string id="zat_b30_stalker_rival_2_about_detector_111">
+		<text>你做了什麼？……你把他們全殺了？拿走它，放我走吧。</text>
+	</string>
+
+	<string id="zat_b30_stalker_rival_2_about_detector_112">
+		<text>嘿，那你不如試試看來拿？</text>
+	</string>
+
+	<string id="zat_b30_stalker_rival_2_about_detector_12">
+		<text>我抽空會試試的。現在我好言好語跟你說，交出探測器。</text>
+	</string>
+
+	<string id="zat_b30_stalker_rival_2_about_detector_123">
+		<text>那我也在好言好語讓你試試來拿。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_11">
+		<text>潛行者，你想賺錢嗎？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_111">
+		<text>是什麼工作？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_1111">
+		<text>是這樣，我在這輛舊札波羅熱人汽車裡藏了戰利品。但後來地震了，車子掉入地下。我檢查過，似乎要去到汽車那裡沒問題……只不過，呃，那裡有變異體，就是史諾克。你敢信，我連控制者都不怕，但那些該死的史諾克真的太恐怖太噁了。如果你成功拿到那個帶著安全鎖的貨櫃，我們就平分戰利品。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_11111">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_111111">
+		<text>謝謝你，潛行者。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_11112">
+		<text>這是你的貨櫃嗎？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_111121">
+		<text>對，就是它！哇，你太厲害了！</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_11113">
+		<text>下次吧。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_111131">
+		<text>真是遺憾。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_112">
+		<text>不行，我現在太忙了。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_1121">
+		<text>沒事，你隨意。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_21">
+		<text>那麼，進展如何？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_about_cache_dialog_31">
+		<text>你想要什麼？沒看到我在忙嗎？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_0">
+		<text>嘿，那是我的槍！你從哪裡拿到的，你這個小偷？不久前我的剛剛被偷走了。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_1">
+		<text>你在說什麼啊？這是我最近買的。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_11">
+		<text>我不知道你是從哪裡以什麼手段拿到的，但這就是我被偷的那枝。你不會想要惹怒我的，所以把槍給我，這對我們都好。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_111">
+		<text>好吧，給你。我不想惹麻煩。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_1111">
+		<text>把它交出來。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_112">
+		<text>這槍是我的。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_1121">
+		<text>是嗎？！……我警告你，我上面有人的！這裡的人都認識我！你以為壞了名聲之後你還能在特異區存活多久，潛行者？你怎麼想的，蛤？不要指望這裡會有人願意幫你，因為你就是個要倒大楣的衰鬼！</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_11211">
+		<text>滾出去！</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_2">
+		<text>你確定這是你的槍？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_21">
+		<text>我當然確定。這槍在特異區並不算常見，不是嗎？所以它一定是我的。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_3">
+		<text>你搞錯了。現在收手，我們還能和平解決。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_31">
+		<text>什麼？我搞錯了？！你說話前最好三思，渾蛋！如果你要惹事，所有人都會站在我這邊。把槍還給我，這對我們都好。我甚至還能更友善，不會告訴任何人關於這枝槍的事。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_311">
+		<text>什麼？！你有沒有想過，我可以現在就用這把槍在你腦袋上開個洞？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_3111">
+		<text>好啦，冷靜點，老兄。我們的談話是有點激烈，但我現在冷靜下來了，你也別生氣。我肯定是犯了個無心的錯誤。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_refuse_task_0">
+		<text>關於那個貨櫃……</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_refuse_task_1">
+		<text>你找到它了嗎？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_refuse_task_11">
+		<text>沒，我還在找。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_refuse_task_12">
+		<text>我決定不再找它了。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_refuse_task_121">
+		<text>真是遺憾。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_refuse_task_2">
+		<text>好，讓我看看……</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_refuse_task_21">
+		<text>當然，稍等……</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_refuse_task_22">
+		<text>我決定留著那個貨櫃。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_refuse_task_221">
+		<text>噢你這個小……別妄想我會把這事忘了！</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_0">
+		<text>貨櫃在這裡。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_1">
+		<text>好，我們現在來分戰利品吧，如何？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11">
+		<text>好。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_111">
+		<text>讓我看看我們有什麼……我的老舊但致命的福拉手槍。很久以前我的叔叔親手改造過它。幾乎就像傳家寶一樣，沒錯……所以，我要留著它。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_1111">
+		<text>不，把它給我！</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11111">
+		<text>呃，好吧……</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_111111">
+		<text>看看下一件。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11112">
+		<text>不行，你已經拿了夠多東西了。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_111121">
+		<text>看看下一件。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_1112">
+		<text>行，拿著吧。裡面還有什麼？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_112">
+		<text>好的……讓我看看。一個很棒的醫療包，足夠對抗一隻熊甚至是一隻控制者了。它是我的了……</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_1121">
+		<text>事實上，我需要一個醫療包！</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11211">
+		<text>嗯……好吧。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_112111">
+		<text>看看下一件。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11212">
+		<text>不行，你已經拿了夠多東西了。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_112121">
+		<text>看看下一件。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_1122">
+		<text>你可以留著它。裡面還有什麼東西？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_113">
+		<text>好吧……哇。我覺得你可能都沒有拿過這種槍……一把增強型 AKM-74/2U。我之前給了一個紀律團的傢伙許多急救箱才換來的。那時自由團痛擊了一支紀律團小隊，他們的醫療用品都用光了。自那以後，這個寶貝救了我三次命……這肯定要給我。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_1131">
+		<text>也許我可以拿走它？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11311">
+		<text>嗯……這真的讓我心碎。不過說定的交易就不反悔，你拿著吧。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_113111">
+		<text>看看下一件。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11312">
+		<text>不行，你已經拿了夠多東西了。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_113121">
+		<text>看看下一件。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_1132">
+		<text>好吧，你留著它。下一件是什麼？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_114">
+		<text>噢噢噢……一個美麗又貴重的寶貝。這件神器的價值堪比一座金山！要知道，我是從一個特異點親自拿回來的，當時我都不止一次嚇屎了。這是我用血淚贏來的獎盃。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_1141">
+		<text>我覺得我比你更需要它。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11411">
+		<text>你簡直要殺了我，老兄……拿走吧——你絕對會長久記著我的慷慨的。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_114111">
+		<text>看看下一件。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11412">
+		<text>你已經拿了夠多東西了。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_114121">
+		<text>看看下一件。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_1142">
+		<text>留著吧，下一件是什麼？</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_115">
+		<text>最後但同樣重要的……一個絕佳的手作頭盔。前一陣子我們在科頓遇到了一個新人潛行者，他是個真正的手藝人，死之前做了一堆超酷的東西。這個頭盔就是其中之一，你在別處絕對找不到這樣的！……我要留著它。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_1151">
+		<text>看這裡，我是那個冒著生命危險拼死對抗那群史諾克的人……這個頭盔是我應得的。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11511">
+		<text>好吧……可以，好好享用它。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_115111">
+		<text>看看下一件。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11512">
+		<text>你已經拿了夠多了。我也要給我自己留點東西，不是嗎！</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_115121">
+		<text>看看下一件。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_1152">
+		<text>好吧，你留著吧。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11611">
+		<text>就這麼多，老兄，這是我所有的戰利品了。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_116111">
+		<text>那好吧，再見。</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_11621">
+		<text>就這麼多。不過我不會讓你空手離開的……給你，帶上我的手槍！</text>
+	</string>
+
+	<string id="zat_b33_stalker_snag_share_package_dialog_116211">
+		<text>祝好運。</text>
+	</string>
+
+	<string id="zat_b38_cop_about_himself_dialog_0">
+		<text>你是做什麼的？</text>
+	</string>
+
+	<string id="zat_b38_cop_about_himself_dialog_1">
+		<text>我提供服務和保護。我以前是個警探，現在在這裡算是個本地警長。我是跟大鬍子一起來的，然後他決定建立營地。既然沒有人知道怎麼去普里皮亞季，那為什麼要繼續前進呢？這裡有非常多神器，所以我們留了下來。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_about_sci_guards_0">
+		<text>我可以僱誰去保護科學家？</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_about_sci_guards_1">
+		<text>我們有一些不錯的傢伙。比如斯巴達克斯的團隊。他們很講義氣，是真正的專業人士，很多都有執法背景。如果你選他們，肯定能享受到最好的保護服務。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_about_sci_guards_2">
+		<text>不久前我還可以給你提供幾個人選，但現在沒有了。本地的潛行者們沒有願意做的。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_about_sci_helpers_0">
+		<text>我可以僱誰去為科學家做些測量工作？</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_about_sci_helpers_1">
+		<text>有一隊潛行者，貢塔是他們的話事人。去找他談談，他也許會加入……我相信他們願意從射殺變異體中解脫出來，放鬆一下。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_about_sci_helpers_2">
+		<text>如果貢塔和他的小隊還在這裡的話，我就會向你推薦他們……但既然他不在了……我想不到別的合適人選了。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_b52_about_nimble_0">
+		<text>你從小機靈那裡買過武器嗎？你知道他會不會在做贓物生意？</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_b52_about_nimble_1">
+		<text>你覺得他足夠鬼祟，能在我背後做這種骯髒事？……不，完全不可能。我的直覺告訴我，小機靈不是那種商人。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_b52_about_snag_0">
+		<text>我在找斯奈格，你知道他在哪裡嗎？</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_b52_about_snag_1">
+		<text>斯奈格——當然，我知道他。他是一個貨真價實的傻瓜。有人前幾天看見他在碼頭吊車那裡，肯定是他新的閒晃地點。去那裡找吧。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_start_dialog_11">
+		<text>你好潛行者。你想不想賺點錢的同時幫我們的營地一個忙？</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_start_dialog_12">
+		<text>你好潛行者。你還在這？要是你一直是這個速度，很快吸血鬼就要把我們都殺乾淨了。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_start_dialog_14">
+		<text>遲點再聊。我還有別的事要做。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_task_dialog_0">
+		<text>你能提供什麼樣的任務給我？</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_task_dialog_1">
+		<text>事情是這樣的。幾個潛行者失蹤了。沒有人聽說過他們的任何消息，但就在前不久他們發現了一具屍體。沒有暴力跡象，但血已經完全乾了。特雷莫爾檢查了屍體，他可以提供給你詳情……無論如何，那肯定是吸血鬼幹的！我跟獵人丹尼拉談過，他就去搜尋牠們的巢穴。從那以後他就消失的無影無蹤了。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_task_dialog_11">
+		<text>我需要做什麼？</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_task_dialog_111">
+		<text>你需要找到巢穴，最好有希望追蹤到丹尼拉。這份工作不好做，但我會好好酬謝你，可以嗎？</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_task_dialog_1111">
+		<text>我同意。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_task_dialog_11111">
+		<text>很好，很好，我已經指定了兩個需要先行檢查的地方。我把其中一個的座標上傳到了你的PDA。我要去辦點事然後檢查另一個地方。有發現了我就告訴你。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_task_dialog_111111">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_task_dialog_1112">
+		<text>我想我還是算了。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_task_dialog_11121">
+		<text>如果你改變主意了再回來吧。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_task_dialog_12">
+		<text>沒興趣。</text>
+	</string>
+
+	<string id="zat_b38_stalker_cop_task_dialog_2">
+		<text>還是同樣的事……只要附近有吸血鬼巢穴，我們的處境就相當危險。而且我們仍然沒有獵人丹尼拉的消息。你要幫我們解決問題嗎？</text>
+	</string>
+
+	<string id="zat_b38_stalker_medic_bloodsucker_dialog_0">
+		<text>松雞跟我說你檢查了一具失蹤潛行者的屍體。你覺得是吸血鬼殺了那個人嗎？</text>
+	</string>
+
+	<string id="zat_b38_stalker_medic_bloodsucker_dialog_1">
+		<text>對，我檢查了屍體……就跟其他死去的人一樣……沒有別的生物可以做到這一點，就是把人體內的血都吸乾。所有的證據都指向這是吸血鬼的襲擊……我還能得出什麼結論呢？</text>
+	</string>
+
+	<string id="zat_b38_stalker_medic_info_actor_dialog_0">
+		<text>跟我講講你自己。</text>
+	</string>
+
+	<string id="zat_b38_stalker_medic_info_actor_dialog_1">
+		<text>我是名醫生，訓練有素的腦外科醫生。你還想瞭解什麼？我可以用雷射精確切除下丘腦，但迄今為止我還沒在特異區接到任何像這樣的命令。在這裡我只是一名普通醫師，眾多醫生中的一員，對自己的行業瞭若指掌。</text>
+	</string>
+
+	<string id="zat_b38_stalker_medic_start_dialog_11">
+		<text>我在聽。</text>
+	</string>
+
+	<string id="zat_b3_stalker_mechanic_b207_about_dealer_pda_0">
+		<text>你能破譯一個黑盒嗎？</text>
+	</string>
+
+	<string id="zat_b3_stalker_mechanic_b207_about_dealer_pda_1">
+		<text>嗯……這不是我的專長。所有這些圖表和運算……不是我喜歡的。要是你給我的是一些基於簡單物理學的東西，那我可以馬上給你解決……這裡修修，那裡調調，一切就能恢復正常。</text>
+	</string>
+
+	<string id="zat_b3_stalker_mechanic_b52_about_nimble_0">
+		<text>你覺得小機靈有可能在做銷贓的生意嗎？</text>
+	</string>
+
+	<string id="zat_b3_stalker_mechanic_b52_about_nimble_1">
+		<text>哇哦，哇哦……小機靈和贓物？我絕對不信。當我還在建造我的工作室時，只有小機靈幫了我，而且一分錢都沒收……不管別人怎麼說，我知道小機靈是一個好人。</text>
+	</string>
+
+	<string id="zat_b3_stalker_mechanic_electro_toolkit_dialog_0">
+		<text>有什麼工作要我做的嗎？</text>
+	</string>
+
+	<string id="zat_b3_stalker_mechanic_electro_toolkit_dialog_1">
+		<text>噢，當然，我需要一些工具，但我沒時間去找它們。硬體設備就是這樣，佔用了你所有的時間。如果你能給我帶一些有用的小工具來，我就給你展示升級的奧妙，你還能賺到一點錢。</text>
+	</string>
+
+	<string id="zat_b3_stalker_mechanic_electro_toolkit_dialog_11">
+		<text>好，我會留意的。</text>
+	</string>
+
+	<string id="zat_b3_stalker_mechanic_electro_toolkit_dialog_12">
+		<text>不了，以後再說吧。</text>
+	</string>
+
+	<string id="zat_b3_stalker_mechanic_electro_toolkit_dialog_2">
+		<text>噢，當然，我需要工具，記得嗎？你幫我一點忙，我就給你一點錢。</text>
+	</string>
+
+	<string id="zat_b3_stalker_mechanic_ufo_memory_repair_0">
+		<text>你能解鎖記憶體模組嗎？</text>
+	</string>
+
+	<string id="zat_b3_stalker_mechanic_ufo_memory_repair_1">
+		<text>不行，老兄，幫不了你。所有這些現代電子設備、計算機……都不是我的專業領域。你最好找一個年輕點的人……他們像是一生下來就是吃這碗飯的。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_0">
+		<text>你有辦法闖進一個鋼造貨櫃中嗎？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_1">
+		<text>小事一樁。頂級服務，只要 500 塊。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_11">
+		<text>給你。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_111">
+		<text>好的，讓我來搞定它……抬高這個，推下這裡……成功！一切就緒！還沒有什麼是我用一個鐵撬和錘子打不開的。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_12">
+		<text>我沒有那麼多錢。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_121">
+		<text>夠錢的時候再回來吧，我哪也不會去的！</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_13">
+		<text>我會考慮看看。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_drink_1_0">
+		<text>我有酒，要來一點嗎？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_drink_1_2">
+		<text>不了，我戒酒了，老兄。當我看到62號物品時，我想的是「就是這樣，我要發達了」……看見沒，酒精就是會讓你搞砸事情。它也不是健康飲食的一部分。而且如果我走了，誰來給你的高斯來福槍製作彈藥呢？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_drink_2_0">
+		<text>再給你一瓶。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_drink_3_0">
+		<text>如果你要的話，我還有第三瓶。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_0">
+		<text>我給你帶了工具。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_1">
+		<text>很好，什麼樣的？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_11">
+		<text>基礎操作需要的。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_111">
+		<text>好極了！現在我只需要精細和校準操作的工具了。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_12">
+		<text>精細操作需要的。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_121">
+		<text>好極了！現在我只需要基礎和校準操作的工具了。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_13">
+		<text>校準需要的。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_131">
+		<text>好極了！現在我只需要基礎和校準操作的工具了。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_14">
+		<text>暫時還沒有。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_141">
+		<text>很棒！再來一些校準工具我就可以開工了。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_151">
+		<text>很棒！再來一些精細操作工具我就可以開工了。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_161">
+		<text>很棒！再來一些基礎操作工具我就可以開工了。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_instruments_171">
+		<text>太好了！幹得好！你的秘訣是什麼，老兄？現在我已經有全套模組了，哈哈！看我如何用打火機做出機槍來！</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_end_0">
+		<text>我帶了62號物品所需的原理圖和文件。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_end_1">
+		<text>你做到了！厲害啊！我就知道那些渾蛋不會來得及毀掉一切的。讓我看下……唔-唔……原來那些混帳東西是這麼做的。很好！我需要幾個小時來徹底搞懂它。把高斯來福槍給我，我會試著修復它。在這等著，我需要一點時間讓這個寶貝再次興奮起來！</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_make_battery_0">
+		<text>我的高斯來福槍需要電池。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_make_battery_1">
+		<text>我給你最優惠的價格：2000 塊。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_make_battery_11">
+		<text>給你。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_make_battery_12">
+		<text>我會考慮看看。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_make_battery_13">
+		<text>我現在還差一點錢。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_repair_gauss_0">
+		<text>你搞定那把高斯來福槍了嗎？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_repair_gauss_1">
+		<text>小事一樁。電力系統已經非常清楚了，如果它開始出問題，只要帶回這裡來進行調正即可。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_repair_gauss_2">
+		<text>還在努力。我真的很喜歡將自己投入到工作中……</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_show_0">
+		<text>我拿到了一件不知名型號的武器。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_show_1">
+		<text>「不知名」是什麼意思？拿過來，讓我看看……</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_show_2">
+		<text>看看吧……有見過這種嗎？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_start_0">
+		<text>啊哈，是你……我們之前玩得很開心，嘿嘿。我還做過夢，你給我帶了些來自過去的東西……我沒喝過的好酒之類的……</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_start_1">
+		<text>你夢裡沒出現過這件武器吧？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_start_11">
+		<text>哇哦，老兄……這麼說，那不是一個夢。這是高斯來福槍，或者按曾經的官方叫法「62號物品」。哦……那時我還在給木星工廠當合約工。要是記得沒錯的話，我負責設計武器，「基於透過電磁場的彈丸加速原理」。看到那些捲筒了嗎？都是我做的……很可惜他們在 2004 年終止了這個專案。我們從來沒有找到過足夠緊湊的能量來源。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_start_111">
+		<text>這枝來福槍以前被使用過。這會造成什麼變化？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_start_1111">
+		<text>誰他媽知道？老實說，我可不敢把螺絲起子插進那個電池裡。電力系統也存在一些機械損傷。如果有原理圖的話就會方便我修補。我之前工作的測試車間負責處理所有的生產文件。也許這枝高斯來福槍的原理圖和支援文件還在那裡……好玩的是，我還留著一張去車間的門禁卡……</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_start_11111">
+		<text>你可以把門禁卡給我嗎？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_start_111111">
+		<text>當然，嗯……我覺得可以。只是小心不要弄丟了。如果你能帶給我那些文件，我也許可以修好那把槍。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_return_access_card_0">
+		<text>這是還你的門禁卡，完好無損。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_return_access_card_1">
+		<text>謝謝。讓我想起了過去的好日子。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_1111">
+		<text>怎麼了？……你，呃呃……要是有壞掉的槍、全是洞的防護服什麼的，儘管帶來給我吧……我現在不如我清醒時的一半好用，但我會試試的……</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_1112">
+		<text>你去了哪裡？我很擔心，四處找你。我說，那個潛行者在哪……乾杯，來？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_1113">
+		<text>你好啊。很高興你來，請自便吧……你給我帶了什麼東西要修，還是什麼喝的？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_1211">
+		<text>喔！太爽了！我的手沒在抖，但我的頭說「再來一點」……再給我倒一杯吧，年青人！</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_1212">
+		<text>為什麼這麼慢？來吧，再開一瓶！讓我們為共同的目標乾杯。沒錯，伏特加激發了我的機械天賦，不騙你。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_1312">
+		<text>我希望小丑在這兒，這樣我們可以一起向巴奇舉杯……好吧，願他安息。他是個好人，一個真正的硬漢，像岩石那樣硬。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_1313">
+		<text>我希望巴奇在這兒，這樣我們可以一起向小丑舉杯……好吧，願他安息。他是個好人，總是樂於助人，從來不會食言。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_1314">
+		<text>嗚嗚……巴奇……小丑……事情怎麼會到這個地步的……所以是一環扣一環……</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_1315">
+		<text>唔-唔？……有什麼要做的？我明天再處理那把武裝衝鋒槍……別擔心，那沒什麼難的。有好酒在等我……</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_14">
+		<text>那個62號……我真想看一眼它的電路圖。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_15">
+		<text>明智的選擇，我的朋友。一定要讓你的槍保持完美狀態。如果你帶著一兩瓶酒的話，我可以在這裡對它進行大幅升級。想給你的散彈槍上縫一個降落傘嗎？我可以幫你，嘿嘿。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_16">
+		<text>你得看看這個！他們在電池裡裝入了一個靜電神器！哈！我就知道，這肯定是某種奇怪的特異現象！原理就是個花架子——現在我可以自己設計這些電池了。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_17">
+		<text>需要做什麼細節工作嗎？</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_18">
+		<text>這讀起來就像在胡言亂語。我想我應該是很久沒讀技術性文件了……</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_about_1">
+		<text>嗯，我是跟我的兩個同伴一起來扎通的，巴奇和小丑……都是年青人，活力無限！他們渴望得到堆積如山的神器，渴望成為第一個、最快的那個……而我看著那些充滿幹勁的眼睛，告訴自己，這對他們沒有好處。當然，擁有戰利品是好事，但不值得為此莽撞地把自己往變異體的嘴裡送。</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_about_11">
+		<text>所以，發生什麼事了？</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_about_111">
+		<text>是這樣的……某天晚上，我們在一起飲酒作樂，然後爭論起了下一步該做什麼——我們是該走還是留，如果要走，又要去哪。每個人都堅持己見，互不妥協。事情變得非常激烈，當爭論結束後，我們各走各的路，也包括我在內。我說他們還沒見識過生活是什麼樣，還講了些別的不愉快的話。老兄……要是我能再看到他們，我會為我當時說的話道歉……我們會像以前那樣聚在一起，重溫那些美好的時光……</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_apologies_barge_0">
+		<text>如果我見到了巴奇，我可以傳達你的歉意。</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_apologies_barge_1">
+		<text>那太好了。</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_apologies_both_0">
+		<text>如果我見到了你的同伴們，我可以傳達你的歉意。</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_apologies_both_1">
+		<text>那太好了。</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_apologies_joker_0">
+		<text>如果我見到了小丑，我可以傳達你的歉意。</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_apologies_joker_1">
+		<text>那太好了。</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_pda_0">
+		<text>我找到了這台PDA——看看吧。</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_pda_1">
+		<text>我需要一台PDA做什麼？這是誰的？</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_pda_111">
+		<text>巴奇死了？！……我不相信！……噢，老兄！他是個非常非常堅強的人啊……噢，巴奇……安息吧。我希望至少小丑能沒事。</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_pda_112">
+		<text>巴奇死了？！……我不相信！……噢，老兄！他是個非常非常堅強的人啊……噢，巴奇……還有小丑……願你們安息。事情怎麼會變成這樣的……</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_pda_131">
+		<text>他們死了？！……我不相信！……噢，老兄！巴奇是個非常非常堅強的人啊……還有小丑……噢，小丑……我們再也不嘲笑你的笑話了。願你們安息。事情怎麼會變成這樣的……</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_about_0">
+		<text>你可以回答我幾個問題嗎？</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_about_1">
+		<text>當然了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_about_1111">
+		<text>我的訂單什麼時候能好？</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_about_11111">
+		<text>那要取決於它有多難搞。通常來說需要一天，有時更短。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_about_1114">
+		<text>跟我講講你自己。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_about_11141">
+		<text>沒多少可講的。我的生活有起有落，跟大多數人一樣。踏進過幾個特異點，也當過強盜的人質……我在還是一個後生仔的時候就來了特異區，很久之前的事了。最初我只是一個雜工，搞一些抗輻射劑、穿甲彈藥之類的東西。後來我給西多羅維奇工作……報答他救了我的命。我在替他賣命的時候，建立了一些有用的人脈，並盡快拓展了自己的業務，好讓我能夠交付專屬訂單。迄今為止，我已經能夠避開生活給我設立的所有難題，但我有種感覺，我的好運氣要到頭了。與此同時，我也不想再為幾分錢而拼盡全力了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_about_1116">
+		<text>謝謝，我明白了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_about_11161">
+		<text>很高興能幫到你。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_0">
+		<text>你賣給我一件偷來的武器！</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_1">
+		<text>你在說什麼？我從不買賣贓物。我只做直接生意。如果你不相信我，那就去基地隨便找個人問，他們會告訴你我是個誠信的貿易商人，從不讓任何人失望。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_11">
+		<text>我遇到了一個潛行者，聲稱這槍是他的。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_111">
+		<text>他叫什麼？</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_1111">
+		<text>斯奈格。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_1112">
+		<text>這跟你有關嗎？</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_11121">
+		<text>這很重要，有人在戲弄你，潛行者。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_12">
+		<text>我們走著瞧。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_121">
+		<text>有人在戲弄你，潛行者。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_0">
+		<text>我是來拿我訂單要求的東西的。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_111">
+		<text>這是你的「草原之鷹」。比我預想的難搞一點。某個手槍愛好者對它表現出極大的興趣，好在我勉強及時搶走了它。你自己看下吧——這是一把手工製作的槍，所有組件都以無與倫比的精度進行過調整。有想象過一把完美的狙擊手槍會是什麼樣子的嗎？吶，就是這樣的。你還欠我 2800 塊。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_1111">
+		<text>好，給你。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_11111">
+		<text>給你，和你做生意挺不錯的。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_1112">
+		<text>我身上沒有那麼多錢。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_11121">
+		<text>好吧，我會替你留著這把槍一段時間。我希望你盡快籌到錢。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_1113">
+		<text>我不想買它了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_11131">
+		<text>如果你拒絕支付這筆訂單，下次我將不再信任你。我必須將風險評估加進價格中，並收取更多的預付款。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_111311">
+		<text>好吧，我還是不想支付這個訂單。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_1113111">
+		<text>好，隨便你。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_1114">
+		<text>我會考慮看看。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_11141">
+		<text>當然，由你決定。我會替你留著這把槍一段時間。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_112">
+		<text>這是你的超高精準度草原之鷹。你欠我 2800 塊。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_121">
+		<text>你看這把阿爾卑——是不是絕美。你可以放心，這枝手槍在整個特異區都是獨一無二的。非常獨特的型號，為一個特殊部隊單獨限量發行的。拿到它費了很多功夫，我甚至聯繫了一名我的海外合夥人。它配備了擴展彈匣、超硬鋼製槍管，以及由超強聚合物製成的機匣。付完剩下的 2800 塊，這件寶貝就是你的了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_122">
+		<text>這是你的阿爾卑手槍，配備了擴展彈匣。付完剩下的 2800 塊，這件寶貝就是你的了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_131">
+		<text>看，這就是馬奇手槍，以前屬於一名叫「狼狗」的僱傭兵。緊湊型高口徑槍，反衝作用短，槍機比較輕。狼狗是個不折不扣的敗類，但必須說，他很懂他的武器。據說他最喜歡的手段就是在受害者落地前依次打爆他的四肢和腦袋。總之，你得付 2800 塊。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_132">
+		<text>這是你的速射馬奇手槍。你欠我 2800 塊。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_211">
+		<text>給你——切割者，一把衝鋒槍。我直說吧，請不要介意它的外觀。這是一款全新型號，還沒有量產，是剛從軍械庫拿出來的原型機。設計師的意圖是製造出一款新一代近距離武器：集大口徑、高射速和精準度於一體。那麼你還要付 8000 塊。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_212">
+		<text>嗯，這就是切割者，一把速射衝鋒槍。你還要付 8000 塊。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_221">
+		<text>這是很不錯的樣品槍——卡拉賓，真正的軍用散彈槍。由於配備了平衡防震系統，它能夠在自動射擊的同時提供良好的反後座力。再付 8000 塊就給你。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_222">
+		<text>這是卡拉賓，一把自動散彈槍。再付 8000 塊就給你。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_231">
+		<text>我想這正是你需要的。滅絕者，最新開發的產品。整批貨本應運往中非，不過我經朋友特殊照顧，搞到了一把「樣品」。這枝自動散彈槍配備了大容量彈匣和出色的射速。只要 8000 塊就能帶走。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_232">
+		<text>當然，自動散彈槍「滅絕者」，配備有擴展彈匣。只要 8000 塊。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_311">
+		<text>當然。看看這把「風暴」，衝鋒槍和榴彈發射器的結合體。這件原型機是為在特異區執行任務的特種部隊而設計的，是常規武器的改良版本。我們斯拉夫兄弟的最佳技術創新……付我 16000 塊，它就是你的了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_312">
+		<text>當然，這是「風暴」，衝鋒槍和榴彈發射器的結合體，配備有擴展彈匣，還需支付 16000 塊。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_321">
+		<text>給——GP37，新一代突擊步槍。內建光學瞄準鏡，精準，可靠，而且方便。之前的擁有者是一名聯合國觀察員。他們的小隊被派往特異區進行調查，但情況卻變得更糟了……付我 16000 塊，這枝步槍就是你的了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_322">
+		<text>給——GP37，新一代突擊步槍。價格是 16000 塊。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_331">
+		<text>稍等。這是一款模組化 FT-200M 步槍，來自比利時槍械製造商的創作。精準，通用，對左撇子和右撇子都很友好，配備有光學瞄準鏡和榴彈發射器。我從一些不幸的聯合國觀察員那裡拿到的……你還要付 16000 塊。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_332">
+		<text>這是模組化 FT-200M 步槍。你還要付 16000 塊。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_411">
+		<text>這是「怒潮」。它以無聲狙擊步槍為基礎，特別為對抗喪屍的軍隊設計。「怒潮」的射速在停止力方面很有優勢，能夠讓其在不暴露位置的情況下逐個消滅喪屍。不過，後來人們發現，單憑潛行者就可以在通關口阻擋喪屍了，所以這把步槍從未能實現大規模生產。再付 16000 塊，這件寶貝就是你的了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_412">
+		<text>這是「怒潮」，具有加強型停止力的無聲狙擊步槍。再付 16000 塊，你就能盡情享用了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_421">
+		<text>給，這是 SVU2-A，一款射速較高的短款狙擊步槍。我從麥克手裡買的，就是那個傳奇的自由團護衛。他發誓說整個特異區找不到類似的。至少在這一帶，它是獨一無二的。你還要付 16000 塊。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_422">
+		<text>嗯，SVU2-A，一款射速較高的短款狙擊步槍。你還要付 16000 塊。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_431">
+		<text>當然，看看這枝「猞猁」，由本地專家手工製作，他現在已經死了，所以不會再有第二把了。它看上去和其他步槍沒什麼不同，但如果用它進行一些打靶練習，你就會感受到差異。它是精準度和停止力的完美結合。再給我 16000 塊，這件寶貝就是你的了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_432">
+		<text>嗯，「猞猁」——一款提升了精準度和停止力的狙擊步槍。再給我 16000 塊，它就是你的了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_511">
+		<text>看這個。我設法把我清單上的所有東西都搞到手了——一件配有頭盔的 CS-3a。頭盔本身沒什麼特別的，但它能夠安裝移動式戰術關聯物，包括高品質夜視系統和紅外線主動感應器。現在，這件 CS-3a 護甲稱得上是上品。它可以出色的防御子彈和特異點，對於像這樣輕便靈活的防護服來說實屬難得。整套裝備收你 32000 塊。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_512">
+		<text>嗯。一套帶有戰術頭盔的 CS-3a 護甲，一共 32000 塊。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_611">
+		<text>SEVA 防護服，專為你而打造。一切完美契合你的要求——封閉式循環呼吸組件，耐熱，電路保護，以及外層防腐材料。另外，它還額外配備了幾個內建神器收納袋。每個潛行者都必備的防護服。按照我們約定的，再付我 24000 塊，這就是你的了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_612">
+		<text>給你，一件 SEVA 防護服。按照約定，價格是 24000 塊。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_711">
+		<text>來了，一件戰鬥強化服，和真人一樣大小。這是你能在特異區獲得的最佳防護，可免受子彈、利爪或是榴彈碎片的傷害，但裝甲載具除外。不過它也效仿了裝甲載具，因為可以減輕你的重量負擔——當然是在合理范圍內。給我 48000 塊，它就是你的了，好壞都歸你……呃……我是指電池和伺服電機。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_712">
+		<text>就是這個，一件真人大小的戰斗強化服。給我 48000 塊，它就是你的了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_0">
+		<text>我想訂貨。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_1">
+		<text>沒問題，你需要什麼？</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_11">
+		<text>一把手槍。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_111">
+		<text>當然，3500 塊，其中 700 塊是預付款。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_1111">
+		<text>好，給你。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_11111">
+		<text>一旦貨到手我就會聯繫你。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_1112">
+		<text>我現在沒錢。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_11121">
+		<text>好吧，那等你有錢了再回來。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_1113">
+		<text>知道嗎，我改變心意了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_11131">
+		<text>好，如果你最後決定要訂貨，我隨時恭候。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_112">
+		<text>你不是一個信得過的客戶，所以手槍的價格是 4200 塊，而且我需要 1400 塊的預付款。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_113">
+		<text>很遺憾，最好的手槍已經賣掉了。如果你想要常規貨色，就去找貓頭鷹。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_12">
+		<text>一件近距離武器。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_121">
+		<text>當然。價格是 10000 塊，其中 2000 塊是預付款。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_122">
+		<text>上一次你拒絕交付訂單……所以這次的價格是 12000 塊，其中 4000 塊是預付款。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_123">
+		<text>嗯……老實說，這次我很可能幫不了你，需求太多了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_13">
+		<text>一件突擊武器。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_131">
+		<text>具備大口徑和高射速，明白了……正常價格是 20000 塊，其中 4000 塊為預付款，如何？</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_132">
+		<text>你是個難伺候的客人。我要收你 24000 塊，其中 8000 塊作為預付款，成交嗎？</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_133">
+		<text>現在不是個好時機……軍方正在科頓製造緊張局勢。有人不久前襲擊了他們的前哨站，這讓他們更難對付了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_14">
+		<text>一件狙擊武器。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_141">
+		<text>我可以給你最抵價，只要 20000 塊，但你得付我 4000 塊作為預付款。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_142">
+		<text>跟你做生意需要承擔一定的風險……我可以試著去搞到你要的，24000 塊，但你要先付 8000 塊給我當作定金。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_143">
+		<text>抱歉，這種武器目前很難搞到手。我在狙擊武器方面的聯繫人……就說他病了吧。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_15">
+		<text>一件裝甲防護服。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_151">
+		<text>好，我心裡有合適的目標了……價格是 40000 塊，但你得付我 8000 塊作為預付款。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_152">
+		<text>好，我心裡有合適的目標了……上一次你拒絕交付訂單，所以價格是 48000 塊，但你得付我 16000 塊作為預付款。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_153">
+		<text>我上一次給你的防護服是我能力范圍的極限了。那件已經是獨一無二且最好的了。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_16">
+		<text>一件配備有封閉式循環呼吸組件的防護服。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_161">
+		<text>這個要求有點苛刻……要拿到它絕非易事。給我 30000 塊，我可以試著去搞一件來，但你要先付 6000 塊預付款。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_162">
+		<text>上一次的訂單你讓我失望了，所以這次我要考慮一下。給我 36000 塊，我可以試著去搞一件來，但你要先付 12000 塊預付款。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_163">
+		<text>拿到之前那一件我已經是竭盡全力了，不要以為我可以再來這麼一次。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_17">
+		<text>一件強化服。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_171">
+		<text>你一定是經過了深思熟慮才做了這個選擇。我可以拿到一件戰鬥型的，但你要付 60000 塊。我知道這很貴，但絕對值得。記著，你現在需要付 12000 塊當作定金。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_172">
+		<text>你在上一次交易中沒有好好對我，所以這一次你要花費 72000 塊。記著，你現在需要付 24000 塊當作定金。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_173">
+		<text>辦不到。他們關閉了製造廠，所以現在通常只能在屍體上找閒置的強化服了……我實在不能接受那種方式。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_18">
+		<text>現在沒什麼。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_place_order_2">
+		<text>抱歉，我的商店現在關門了，訂單出貨暫時遇到了困難……</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_start_11">
+		<text>你好，我是小機靈。人們來我這裡購買獨特的武器，比如稀有的型號、原型機、獨特的槍械之類的，另外還有精銳的裝備和最新改造的防護服和戰鬥服。我會親自檢視每一件物品，所以品質絕對有保證。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_start_12">
+		<text>你好，你想訂貨嗎？</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_start_13">
+		<text>哈囉。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_start_14">
+		<text>你的訂單很快就能交付。</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_start_15">
+		<text>訂單已完成，請前來交付。</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_0">
+		<text>嘿！你是斯奈格的朋友嗎？</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_1">
+		<text>對，我認識他。</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_11">
+		<text>他跟我說你給我們帶了些戰利品……</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_111">
+		<text>我不記得有這種事。</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_111111">
+		<text>啊，好吧。我們可不是那種會伺候斯奈格的婊子。</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_1111111">
+		<text>再見。</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_11112">
+		<text>做不到！</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_111121">
+		<text>再好好想想。如果你還有點腦子的話，就該知道當你寡不敵眾時，最好表現的乖一點。</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_1111211">
+		<text>我說了不！</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_2">
+		<text>不，我不認識他。</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_11">
+		<text>啊啊……該死……我傷的很重……幫幫我，兄弟，我需要一個醫療包……我撐不了很久了……</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_111">
+		<text>拿上這個醫療包。</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_1111">
+		<text>呼！謝謝你，老兄。我差點要死在鍋爐房了，那樣的話變異狗可有的開心了……給你，帶上我的探測器吧。也許有天會派上用場的……謝謝你救了我的命，真的。我想我現在要在基地裡休息一下。</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_11111">
+		<text>祝好運。</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_1112">
+		<text>呼！謝謝你，老兄。我差點要死在鍋爐房了，那樣的話變異狗可有的開心了……給你，帶上這件神器吧。也許有天會派上用場的……謝謝你救了我的命，真的。我想我現在要在基地裡休息一下。</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_112">
+		<text>不行，我自己也需要它。</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_113">
+		<text>我沒有醫療包。</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_12">
+		<text>再次謝謝你！要不是你，我現在怕不是已經長眠了……</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_11">
+		<text>潛行者！快，來幫幫彼特魯哈！就在那裡，裂縫邊上！他被特異點擊中了！就連他的防護服都不管用！至於我，我沒有防護服。我和彼特魯哈湊了所有的錢才買了一件……如果我再走一步，我就完了！幫幫我們，拜託了！！</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_111">
+		<text>好，站著別動，我來試一下。</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_112">
+		<text>你們自己解決。</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_12">
+		<text>謝謝你救了彼特魯哈。該死，我們為什麼不多攢點錢買件好的！</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_13">
+		<text>你離我遠點。你眼睜睜讓彼特魯哈去死……你連他的一半都比不上！</text>
+	</string>
+
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_131">
+		<text>下次見。</text>
+	</string>
+
+	<string id="zat_b57_barman_reward_dialog_0">
+		<text>我把吸血鬼的巢穴清理乾淨了。</text>
+	</string>
+
+	<string id="zat_b57_barman_reward_dialog_1">
+		<text>很好，你為我們死去的兄弟們報仇了。願上帝保佑他們的靈魂……這是你應得的報酬。</text>
+	</string>
+
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_0">
+		<text>我在天線設施地底下發現了一個完整的吸血鬼巢穴。</text>
+	</string>
+
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_1">
+		<text>好。一定要剷除這個巢穴。讓我想一想……誰知道那些隧道裡有多少隻吸血鬼呢。也許我們可以用毒氣殺死牠們。我記得貓頭鷹講過關於瓦斯罐的事。你去跟他談談——我們關係不太好……如果你能拿到瓦斯罐，就把它和天線設施的通風系統連接起來，幾分鐘後一切就會結束了。</text>
+	</string>
+
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_11">
+		<text>好，我會去的。</text>
+	</string>
+
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_12">
+		<text>我會考慮看看。</text>
+	</string>
+
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_13">
+		<text>我已經拿到瓦斯罐了。</text>
+	</string>
+
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_131">
+		<text>哇，朋友，你很厲害。</text>
+	</string>
+
+	<string id="zat_b5_bandit_hide_dialog_11">
+		<text>啊，我們的潛行者來了，我們在等你呢。</text>
+	</string>
+
+	<string id="zat_b5_bandit_hide_dialog_111">
+		<text>計畫是什麼？</text>
+	</string>
+
+	<string id="zat_b5_bandit_hide_dialog_1111">
+		<text>我們打算去會面。你不用做什麼，至少我希望如此，只要站在一邊裝酷就可以了。</text>
+	</string>
+
+	<string id="zat_b5_bandit_hide_dialog_11111">
+		<text>好吧。</text>
+	</string>
+
+	<string id="zat_b5_bandit_hide_dialog_21">
+		<text>哈。我們做到了，他們一定悔不當初。射擊本領不錯啊，潛行者。嘿嘿。</text>
+	</string>
+
+	<string id="zat_b5_bandit_hide_dialog_211">
+		<text>祝好運。</text>
+	</string>
+
+	<string id="zat_b5_bandit_hide_dialog_31">
+		<text>你這個該死的自以為是的傢伙，本來能成的事被你搞砸了。現在給我滾。</text>
+	</string>
+
+	<string id="zat_b5_bandit_hide_dialog_311">
+		<text>再見。</text>
+	</string>
+
+	<string id="zat_b5_bandit_hide_dialog_41">
+		<text>你在急什麼？</text>
+	</string>
+
+	<string id="zat_b5_bandit_hide_dialog_411">
+		<text>沒什麼。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_11">
+		<text>貓頭鷹讓你來的？</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_111">
+		<text>對，他跟我說你需要幫助。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_1111">
+		<text>我確實需要幫助。我想你應該能做好。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_11111">
+		<text>好，是什麼事？</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_111111">
+		<text>為一宗交易提供保護。就這樣。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_1111111">
+		<text>我可以搞定。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_21">
+		<text>站在旁邊掩護我。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_211">
+		<text>懂了。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_31">
+		<text>我只跟負責人說話。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_311">
+		<text>隨你便吧。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_41">
+		<text>謝謝你，潛行者，你幫了大忙。我有預感，那些渾蛋會以某種方式把事情搞砸。他們被跟蹤了一路！這就是在給你找麻煩。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_411">
+		<text>祝好運。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_42">
+		<text>你是個稱職的懶鬼，差勁的保鏢！但既然我答應了付你錢，我不會食言的。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_421">
+		<text>祝好運。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_43">
+		<text>你是個稱職的懶鬼，差勁的保鏢！但既然我答應了付你錢，我不會食言的。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_431">
+		<text>祝好運。</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_44">
+		<text>你想要什麼？沒什麼好感謝你的。我好不容易才搞定……滾開！</text>
+	</string>
+
+	<string id="zat_b5_illicit_dealer_dialog_441">
+		<text>祝好運。</text>
+	</string>
+
+	<string id="zat_b5_stalker_commander_dialog_11">
+		<text>很好，謝謝你過來。我們想要偷偷靠近並監聽強盜們，然後我們就能知道發生什麼了。</text>
+	</string>
+
+	<string id="zat_b5_stalker_commander_dialog_111">
+		<text>我明白了。</text>
+	</string>
+
+	<string id="zat_b5_stalker_commander_dialog_21">
+		<text>謝謝你，潛行者。請收下我們的謝禮……你的大部分報酬在酒保那裡。</text>
+	</string>
+
+	<string id="zat_b5_stalker_commander_dialog_211">
+		<text>我明白了。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_0">
+		<text>跟我講講你在這邊的生活。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_1">
+		<text>可以肯定的是，絕不像在公園裡散步……你究竟想知道甚麼？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_1111">
+		<text>你們在這裡做什麼？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_11111">
+		<text>我們負責監視潛行者。你必須承認，你們中的一大半人更像是小孩而非成年人。你們帶著愚蠢的夢想來到特異區，要麼是有英雄情結，要麼只是因為生活太慘了。你們根本沒意識到在這裡等著你們的是什麼——通常情況下，是死神。這就是我們要照顧的那種人。我們在垃圾場找到一個，拿走他的裝備，再把他送回科頓。有些人醒悟過來，回到外面世界去了。那些拿著石頭回到這裡來的人，我們保護他們並向他們徵稅。我告訴你，沒有人膽敢進入我們的領地——無論是軍隊、僱傭兵，還是變異體。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_1112">
+		<text>你們為什麼要來特異區中心？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_11121">
+		<text>兩條腿帶著我們來的。我們是為了潛行者而來，還能為什麼？要是沒有我們在這裡維持秩序，這地方早他媽一團亂了。你搶來了戰利品，你留著它，可以，但誰來繳你的稅呢？就是和平與安全稅。比方說，你們中的一個人正在搜刮特異點，而我們負責警戒，阻止變異體靠近。如果他收穫不錯的話，我們就分一杯羹……作為維持秩序的回報，你懂的。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_1113">
+		<text>你是怎麼成為首領的？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_11131">
+		<text>我該從哪裡講起……我想這可以追溯到我的高中。那時我有一個好朋友，最好的朋友，也可以這麼說。我們一起玩，一起抽煙喝酒之類的。但他對快感的需求越來越大。他開始嗑藥：一開始是大麻，後來有點錢了就去吸白粉，然後是古柯鹼。我跟他說，「托利安，你必須把這戒了，趁還來得及。」但他不聽。某天他弄到了一些爛人命的東西，然後就出事了。我找到了賣他貨的毒品販子，為我兄弟報了仇……我被人拍到了，然後一切就失控了——我進了監獄，捲入了幫派鬥爭，被刀捅了肚子……出獄後，開始做生意，又被抓了……當我再次出來時，我把所有這些爛事都拋在腦後，把目標定在了特異區。我在這裡努力打拼了好幾個月，然後就被提拔了，所以現在我是這裡的話事人，負責維護本地的法紀。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_1114">
+		<text>你怎麼看待潛行者？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_11141">
+		<text>他們各有不同，有些人年青無知，在這裡待不了一個禮拜，有些人想著賺錢……還有些人仍然是好人，在科頓兩邊過著不一樣的生活。我們會敲詐第一種人，向第二種人徵稅。至於第三種人，這麼說吧，我們就盡量井水不犯河水。但很遺憾，你並不總是能第一時間區分他們的……</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_1115">
+		<text>噢，不用在意。沒事了。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_about_11151">
+		<text>你隨意吧。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_barmen_under_actor_dialog_0">
+		<text>現在大鬍子會為我們做事。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_barmen_under_actor_dialog_1">
+		<text>你知道他們怎麼說的，「有了奶牛，就去擠奶。」時不時去看看他，提醒他交錢。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_actor_dialog_0">
+		<text>大鬍子接了個重要訂單，找一件名叫「羅盤」的神器。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_actor_dialog_1">
+		<text>我們必須截下這件神器。大鬍子不會做小蝦米的生意。我的直覺告訴我，他需要這件神器來救他的老命……也就是維持他的生意。你一找到這個羅盤就帶來給我。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_give_actor_dialog_0">
+		<text>我找到羅盤了，給你。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_revert_actor_dialog_0">
+		<text>我拒絕為你尋找羅盤。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_revert_actor_dialog_1">
+		<text>嘿，聽著蠢貨，搞清楚這點：如果你拒絕做某件事，讓我失望了，那我之後就不會再喜歡你。而那些我不喜歡的人，他們的日子通常不會很好過，你明白了嗎？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_revert_actor_dialog_11">
+		<text>我會謹記在心的。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_detectors_actor_dialog_0">
+		<text>我會從潛行者那裡拿到那些探測器的。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_detectors_actor_dialog_1">
+		<text>很好。與此同時，我會處理這位客戶的其他管道的。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_refuse_af_dialog_0">
+		<text>有人告訴我你把羅盤給了大鬍子。現在聽好了，蠢貨：如果你拒絕做某件事，讓我失望了，那我之後就不會再喜歡你。而那些我不喜歡的人，他們的日子通常不會很好過，你明白了嗎？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_refuse_af_dialog_1">
+		<text>我會謹記在心的。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_ruin_actor_dialog_0">
+		<text>大鬍子現在沒了升級後的探測器。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_ruin_actor_dialog_1">
+		<text>非常好。當你不在的時候，我忙著把他的其他管道都切斷了。現在他的客戶都是我們的了，全盤收歸。去跟大鬍子聊聊天，跟他說蘇丹向他問好。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_0">
+		<text>大鬍子欠了我錢。貓頭鷹說你可以幫我。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_1">
+		<text>我想是的……這是我的計畫：我們把大鬍子搞破產，然後接管他的生意，你既拿回了錢，還能拿到生意利潤的份額，如何？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_11">
+		<text>成交。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_111">
+		<text>現在你的任務就是看看大鬍子在忙什麼。切斷他的供貨管道就能達到目的。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_12">
+		<text>我會考慮看看。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_121">
+		<text>記著，考慮太多不利於健康。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b52_about_nimble_0">
+		<text>你覺得小機靈有可能在做銷贓的生意嗎？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b52_about_nimble_1">
+		<text>小機靈？哼，他沒這個膽。貓頭鷹是我們本地的的搶手貨經銷商。無論你賣什麼，他都會買，而且不會問任何問題。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b52_about_snag_0">
+		<text>我在找斯奈格，你知道他在哪裡嗎？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b52_about_snag_1">
+		<text>我知道。我的人幾天前看見他在碼頭吊車那裡。我本應該去狠狠敲他一筆錢，他欠我的，但我一直忘記。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_11">
+		<text>我有一個任務給你。我的手下需要見貿易商人……你知道的，生意上的事。最近特異區局勢緊張，所以我想著多一把槍也無妨。確保事情進展順利。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_111">
+		<text>好吧。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_1111">
+		<text>很好。我的人會在遊騎兵哨所附近和你見面。座標已經傳到你的PDA上了。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_11111">
+		<text>我明白了。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_112">
+		<text>我沒興趣。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_31">
+		<text>你他媽還在這裡幹什麼？還不快去遊騎兵哨所。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_311">
+		<text>嗯哼。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_41">
+		<text>那麼，你下定決心了嗎？你跟著我們幹還是怎樣？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_411">
+		<text>我跟著你們。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_412">
+		<text>我跟著我自己。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_intro_0">
+		<text>你記住，我是蘇丹，所有這裡發生的一切要麼在我掌控之下，要麼很快就會歸我管。如果你想活得好，最好還是跟著我幹。如果不這麼做，你的生活會很慘。老兄，這就是我們這裡的生存法則。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_start_dialog_11">
+		<text>你需要甚麼？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_start_dialog_21">
+		<text>是什麼風把你吹來了？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_start_dialog_31">
+		<text>嗯？</text>
+	</string>
+
+	<string id="zat_b7_killed_self_actor_dialog_0">
+		<text>我自己把所有潛行者都殺了。</text>
+	</string>
+
+	<string id="zat_b7_killed_self_actor_dialog_1">
+		<text>哇哦，老兄……媽的，你真是個莽夫……走進來然後就這麼把他們都殺了，該死的。我究竟是為了什麼而僱你的……你沒給我們賺到錢，就帶來了衝突……冷靜點，老兄，聽見了嗎……</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_bunker_guarding_0">
+		<text>你們喜歡為科學家工作嗎？</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_bunker_guarding_1">
+		<text>挺不錯的。目前為止一切都好，沒什麼問題。科學家給了我們一些設備，所以一切都還不錯。</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_bunker_guarding_2">
+		<text>非常享受！工作很簡單，他們付的錢也多。我們在這裡的時候沒人來找科學家，連怪物們都沒來過。</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_come_with_me_0">
+		<text>我正在組建一支隊伍去普里皮亞季，你想加入嗎？</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_come_with_me_1">
+		<text>不了……不像其他人，我對普里皮亞季不感興趣……再說我們也有工作要做，保護科學家們……你也許可以帶著那個士兵一起去，這樣他就有機會去找他的戰友了，而且我們也能鬆口氣。那個傢伙人是還挺不錯啦，但這裡對他來說不是最好的地方……</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_come_with_me_2">
+		<text>不了……不像其他人，我對普里皮亞季不感興趣……再說我們也有工作要做，保護科學家們……</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_0">
+		<text>你想為科學家工作嗎？</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_1">
+		<text>是什麼工作？</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_11">
+		<text>守衛地堡。</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_111">
+		<text>好吧，護衛工作，嘿……不是第一次做了。我可以去。一旦準備好了，我們就出發去地堡。</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_12">
+		<text>在特異點做測量工作。</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_121">
+		<text>測量工作啊，嘿，你覺得我看上去像一個實驗室技術人員嗎？這真的不是我擅長的。</text>
+	</string>
+
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_2">
+		<text>我們遲點再說吧。最近這裡有太多新面孔的暴徒在到處走動，得把他們趕回他們該去的地方，之後也許我們可以再討論工作的事。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_actor_choose_dialog_1">
+		<text>好吧，讓我們離開這裡，給他們點顏色看看！</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_actor_teleport_dialog_11">
+		<text>好。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_actor_teleport_dialog_2">
+		<text>我們最好找些掩體，該死的能量釋放要來了！</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_15">
+		<text>讓我們離開這裡，給他們點顏色看看！保持冷靜，一切都會沒問題的。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_16">
+		<text>狠狠揍了他們一頓，嘿！這是給你的錢，朋友，如果我們還有這種「生意」要做，我就喊你一起來。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_18">
+		<text>哇哦，老兄……媽的，你真是個莽夫……走進來然後就這麼把他們都殺了，該死的。我究竟是為了什麼而僱你的……你沒給我們賺到錢，就帶來了衝突……冷靜點，老兄，聽見了嗎……</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_19">
+		<text>你沒搞清楚嗎？！潛行者們在哪，蛤？！……這他媽是什麼鬼？你告密了，是不是？不可能還有別人！我所有的兄弟這麼久以來一直跟著我……現在你這個蠢貨就要被潛行者擰掉腦袋了！你他媽在看什麼——還不把你的錢都交出來，混帳東西！</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_20">
+		<text>我們應該走了……去駁船。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_31">
+		<text>你好，長官。抱歉，我現在沒有聊天的心情。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_actor_choose_dialog_0">
+		<text>我會幫助你們。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_actor_choose_dialog_1">
+		<text>很好。我們將按照約定安排會面，然後你就出發。當他們出現後，我們將從四面八方向他們扔炸彈。確保你站的夠遠，不要被友軍誤傷。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_actor_choose_dialog_11">
+		<text>好吧。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_actor_choose_dialog_12">
+		<text>不，我不贊成這麼做。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_dialog_11">
+		<text>你好，潛行者。我現在很忙，我們遲點再聊，好嗎？</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_dialog_12">
+		<text>謝謝你的警告。也許你會支持我們的計畫？可以這麼說，這是從背後射殺那些渾蛋的好機會。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_dialog_13">
+		<text>我們會伏擊他們。當我們這麼做時，你就開始從後方朝那些白癡開槍。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_dialog_14">
+		<text>那些渾蛋死定了。謝謝你的提醒。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_dialog_15">
+		<text>謝謝你幫我們。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_dialog_31">
+		<text>你好啊。聽著，如果不是那麼緊急的話，我們遲點再聊，好嗎？</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_leader_start_dialog_11">
+		<text>哈囉。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_info_about_soroka_gone_0">
+		<text>我找到了喜鵲。他在亞尼夫站，改名叫「弗林特」。他已經被解決了。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_info_about_soroka_gone_1">
+		<text>被解決了？那真是遺憾。我肯定很願意親手捅那隻蟑螂一刀……噢，好吧，無論如何，這是一個好消息。給，拿著吧——我是個守信的人。</text>
+	</string>
+
+	<string id="zat_b106_stalker_gonta_info_about_soroka_gone_11">
+		<text>謝謝。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_leave_zone_0">
+		<text>我想離開特異區。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_leave_zone_1">
+		<text>你確定？那樣可沒有回頭路喔。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_leave_zone_11">
+		<text>我確定。出發吧。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_leave_zone_12">
+		<text>事實上……我暫時留下來吧。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_191">
+		<text>好，拿走錢吧，我不想打架。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_1911">
+		<text>蛤？把你所有的東西都給我，賤人！然後快滾，別再出現了！</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_19111">
+		<text>我走了。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_192">
+		<text>做不到！</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_need_health_care_2">
+		<text>讓我看一看……你的健康狀況如何？好吧，如果你狀況不好，我一定是死了或是怎樣……</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_start_dialog_13">
+		<text>聽著，有件緊急的事。我認識的一名貿易商人想做一筆生意。唯一的問題是，他的客戶是那種不好惹的類型，所以他想僱一個警衛以防萬一。你感興趣嗎？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_start_dialog_131">
+		<text>是的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_start_dialog_1311">
+		<text>好。貿易商人會在遊騎兵哨所等你，他會告訴你工作細節。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_start_dialog_132">
+		<text>不太感興趣。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_start_dialog_1321">
+		<text>隨便你。如果你能盡早改變主意，也許還能爭取到這份工作。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_0">
+		<text>你能提供什麼樣的任務給我？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_1">
+		<text>那種賺錢的。現在想想吧：為什麼我要問你？你是個新人，在這裡沒有人脈可言，但要是你做事做得好，你很快就能贏得當地人的尊重。你想知道我的打算嗎？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_11">
+		<text>嗯，當然。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_111">
+		<text>很好，那就聽著。我們打算去敲詐幾個大鬍子的潛行者。完全小兒科的事。深夜，你和我們的人去到舍甫琴科，在這些遊客弄清楚發生什麼事之前，你就綁了他們帶走。我們拿到錢，你得到靠山……懂我的意思了嗎？很好。看見站在那裡的納可了嗎？他會告訴你詳情的。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_12">
+		<text>不太感興趣。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_121">
+		<text>太遺憾了。花點時間好好想想……如果你知道什麼是對你有好處的，你會回來的，朋友。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_2">
+		<text>那種你想獲得成功而願意去做的事……想知道我的打算嗎？</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_pda_11">
+		<text>巴奇的PDA。在被焚毀的農場下面有一些洞穴，我在裡面找到了他的屍體。</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_pda_12">
+		<text>這是小丑的PDA。我在距離松櫟不遠處找到的，它的附近有一些裸露的骨頭。</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_pda_121">
+		<text>小丑的？！……那不可能！哇，我太難過了……小丑死了……噢小丑，我們不會再嘲笑你講的笑話了……願你安息……我希望至少巴奇沒事……</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_pda_122">
+		<text>小丑的？！……那不可能！哇，我太難過了……所以小丑也死了……噢小丑，我們不會再嘲笑你講的笑話了……願你安息……你也是，巴奇……事情怎麼會變這樣……</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_pda_13">
+		<text>巴奇和小丑的。我在松櫟附近的一具骷髏上找到了一個，另一個是在洞穴裡發現的一具屍體上，就在被焚毀的農場下面。</text>
+	</string>
+
+	<string id="zat_b215_stalker_guide_about_surge_1">
+		<text>實話跟你說，沒太多可講的。能量釋放特別危險，也幾乎是致命的。隨著天氣的變化，你可以感覺到這種現象逐漸出現，但在達到頂峰後很快就會退去。一旦有它來臨的跡象，就跑向最近的掩體——一個洞穴，或是一個由混凝土、磚塊或鋼鐵製成的東西……和其他人一樣，當我的背部開始疼痛時，我就能感覺到能量釋放正在來臨。至於能量釋放的性質，我沒有任何有用的資訊可以告訴你——我真的不知道。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_start_dialog_11">
+		<text>需要貨物嗎？還是情報？……或者說，你想出售情報？</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_actor_choose_dialog_0">
+		<text>蘇丹說你計劃敲詐那些潛行者。算我一個。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_actor_choose_dialog_2">
+		<text>很好。午夜之後去舍甫琴科吧——我們會等你的。只是不要到早上才出現。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_13">
+		<text>哦，是你啊，老兄。那麼，你和蘇丹達成什麼約定了？</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_14">
+		<text>那麼……午夜之後、日出之前去到駁船那裡——我們會等你的。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_actor_teleport_dialog_0">
+		<text>我覺得我最好還是跟著你。等到半夜後你就可以告訴我該怎麼去舍甫琴科。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_actor_teleport_dialog_1">
+		<text>沒問題，就在這附近待著吧。把你帶去駁船也不麻煩。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_actor_teleport_dialog_12">
+		<text>實際上……我還要去處理一些事。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_info_1">
+		<text>我在特異區外有一些重要客戶，他們定期會訂購特定的神器，這些神器必須在特定的時間內交付。只要你帶給我想要的東西，我就會付你很多錢。記住，這些訂單對我來說非常重要，這就是為什麼我試著一次委託多個代理人……只有先交貨，你才能拿到全額報酬。</text>
+	</string>
+
+	<string id="zat_b18_noah_plateau_way_112">
+		<text>經由那個被焚毀的農場。嗯……順便一提，你是誰？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_15311">
+		<text>他們也稱那個地方為「鋼鐵密林」。直升機狠狠撞上了輸電線塔。鍋蓋頭們沒一個活下來的……即使他們活下來了，也永遠無法活著走出去。吵鬧鬼們就是喜歡追趕人們進入電能特異點裡……那些渾蛋會對最微小的動作做出反應，我相信你也知道這一點。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_buy_info_15411">
+		<text>聽著……直升機降落後，有人看見那裡有五個軍人。顯然他們還成功地從那片沼澤地裡爬了出來……到達那個地方沒什麼大不了的，只要遠離水域，一直踩在堅實的地面上就可以了。另外，你還需要做好化學防護。因此，如果你打算去那裡，記得向醫生購買一些解毒劑。</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_1311">
+		<text>只可惜我的朋友小丑和巴奇不在這裡……我們曾經有那麼多的美好時光。我們就像親兄弟一樣，總是互相支援……事情怎麼會變成這個樣子的？……我還在這裡，但他們已經消失的無影無蹤了……</text>
+	</string>
+
+	<string id="zat_b3_tech_buddies_about_0">
+		<text>跟我講講關於小丑和巴奇的事。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_111213">
+		<text>我在那裡有所收獲。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_1112131">
+		<text>說說吧……你拿了什麼給我？</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_11111">
+		<text>嗯，那就說得通了。我知道他，他一直是個騙子，但最近他真的失控了，以這種方式欺騙潛行者……他需要被管教一下，認清自己的處境。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_choose_task_116">
+		<text>我需要僱傭兵營地的情報。沒有聽上去這麼難。</text>
+	</string>
+
+	<string id="zat_a2_linker_b29_actor_get_adv_task_111">
+		<text>好，那我就等著……記住，這份工作很緊急——它需要在兩天內完成。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_28">
+		<text>蘇丹的信使的PDA。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_281">
+		<text>沒那麼有意思。我給你 500 塊換它。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_2811">
+		<text>好吧。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_26">
+		<text>探測器原型機。你想買回它們嗎？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_27">
+		<text>秘密文件。我在橋上的電動機柱那裡找到的。想看一下嗎？</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_31">
+		<text>一件奇怪的神器。我在挖泥船上找到的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_32">
+		<text>一件奇怪的神器。我在亞尼夫站找到的。</text>
+	</string>
+
+	<string id="zat_b30_owl_stalker_trader_sell_items_33">
+		<text>神器「綠洲之心」。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_151">
+		<text>我們開始吧。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_152">
+		<text>等等。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_actor_start_dialog_0">
+		<text>一群潛行者計劃搶劫你們。保持警惕。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_actor_start_dialog_1">
+		<text>一群鼠輩……很好，那我們就熱烈歡迎他們……聽著，試著讓他們以為你是站在他們那邊的，這樣你就可以幫我們擊退他們了……我們會酬謝你的付出的……</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_1111">
+		<text>我才他媽不管你們約定了什麼。把它交出來！</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_1111212">
+		<text>好，給你。</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_21">
+		<text>你不這麼認為？……我們管你娘咧。交出來，你這白癡！</text>
+	</string>
+
+	<string id="zat_b52_robbery_port_bandits_1_11111">
+		<text>冷靜，冷靜……給你。</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_actor_start_dialog_2">
+		<text>一群鼠輩……很好，那我們就熱烈歡迎他們……聽著，可以的話幫我們擊退他們……我們會酬謝你的付出的……</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_dialog_21">
+		<text>狠狠揍了他們一頓，嘿！你沒參與，所以沒份拿錢。如果我們還有這種「生意」要做，我就喊你一起來。</text>
+	</string>
+
+	<string id="zat_b5_stalker_commander_dialog_31">
+		<text>你根本沒用……別指望拿到報酬。好吧，至少你來聊天了，也算做了點什麼。</text>
+	</string>
+
+	<string id="zat_b5_stalker_commander_dialog_311">
+		<text>再見。</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_give_actor_dialog_1">
+		<text>很好。現在要給我們的小客戶一點壓力了。我聽說大鬍子給了他的潛行者一些非常強力的探測器，旨在搜尋稀有的神器。所以你需要加入那些潛行者，讓那些探測器都乖乖跑進你的口袋裡，懂我的意思了嗎？</text>
+	</string>
+
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_2">
+		<text>沒機會勝過他。我試過擠佔他的供貨管道，但那個有鬍子的卑鄙小人還是設法拿到了羅盤。看上去他的現狀還不錯……暫時而已。</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_1111211">
+		<text>[繼續……]</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_1141111">
+		<text>[繼續……]</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_need_health_care_11">
+		<text>[繼續……]</text>
+	</string>
+
+	<string id="zat_b22_barmen_about_vampire_actor3_0">
+		<text>松雞死了。似乎是特雷莫爾殺了他……不過他也死了。</text>
+	</string>
+
+</string_table>

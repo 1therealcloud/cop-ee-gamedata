@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_press_any_key_PS4">
+		<text>Чтобы играть, нажмите любую кнопку</text>
+	</string>
+
+	<string id="ui_mm_mblur_pwr">
+		<text>Размытие в движении</text>
+	</string>
+
+	<string id="st_sp_achievement_1_desc_gdk">
+		<text>Помочь науке, первым исследуя все новые аномальные образования в Зоне.</text>
+	</string>
+
+	<string id="st_sp_achievement_2_desc_gdk">
+		<text>Успешно охотится на опасных мутантов.</text>
+	</string>
+
+	<string id="st_sp_achievement_3_desc_gdk">
+		<text>Раскрыть тайны исчезновения сталкеров со "Скадовска".</text>
+	</string>
+
+	<string id="st_sp_achievement_4_desc_gdk">
+		<text>Дать отпор бандитам во главе с Султаном.</text>
+	</string>
+
+	<string id="st_sp_achievement_5_desc_gdk">
+		<text>Помочь Султану перехватить инициативу у сталкеров.</text>
+	</string>
+
+	<string id="st_sp_achievement_6_desc_gdk">
+		<text>Не дать подлецу уйти от правосудия. Теперь его ждёт справедливая расплата.</text>
+	</string>
+
+	<string id="st_sp_achievement_7_desc_gdk">
+		<text>Найти все виды артефактов, известные исследователям Зоны.</text>
+	</string>
+
+	<string id="st_sp_achievement_8_desc_gdk">
+		<text>Достать Кардану наборы инструментов на любой случай. </text>
+	</string>
+
+	<string id="st_sp_achievement_9_desc_gdk">
+		<text>Достать Азоту наборы инструментов, о которых только может мечтать техник в Зоне.</text>
+	</string>
+
+	<string id="st_sp_achievement_10_desc_gdk">
+		<text>У центра Зоны почти не осталось доступных мест, где не ступила ваша нога.</text>
+	</string>
+
+	<string id="st_sp_achievement_11_desc_gdk">
+		<text>Соберите хороший отряд и докажите свои лидерские навыки.</text>
+	</string>
+
+	<string id="st_sp_achievement_12_desc_gdk">
+		<text>Необязательно применять силу, если все можно решить переговорами.</text>
+	</string>
+
+	<string id="st_sp_achievement_13_desc_gdk">
+		<text>Заслужите звание научного сотрудника в исследовательском бункере.</text>
+	</string>
+
+	<string id="st_sp_achievement_14_desc_gdk">
+		<text>Помочь группировке «Долг» и приобрести авторитет среди её бойцов.</text>
+	</string>
+
+	<string id="st_sp_achievement_15_desc_gdk">
+		<text>Помочь группировке «Свобода» и приобрести авторитет среди её бойцов.</text>
+	</string>
+
+	<string id="st_sp_achievement_16_desc_gdk">
+		<text>Не віддати перевагу якомусь з угруповань та залишитись одинаком.</text>
+	</string>
+
+	<string id="st_sp_achievement_17_desc_gdk">
+		<text>Вашим денежным сбережениям можно позавидовать. Такие покупатели — большая редкость!</text>
+	</string>
+
+	<string id="st_sp_achievement_18_desc_gdk">
+		<text>Вам нельзя отказать в предусмотрительности.</text>
+	</string>
+
+	<string id="st_sp_achievement_19_desc_gdk">
+		<text>Пережить выброс вне укрытия при помощи медикаментов.</text>
+	</string>
+
+	<string id="st_sp_achievement_20_desc_gdk">
+		<text>Не упустить возможность предоставить информацию интересующимся.</text>
+	</string>
+
+	<string id="st_sp_achievement_21_desc_gdk">
+		<text>Помочь сталкерам в беде.</text>
+	</string>
+
+	<string id="ui_eula_ps_tech_req">
+		<text>Любой товар, приобретенный во внутриигровом магазине, будет являться покупкой у компании Sony Interactive Entertainment Network Europe Limited (“SIENE”) и подчиняться Условиям предоставления услуг PlayStation™Network, с которыми можно ознакомиться в PlayStation®Store. Пожалуйста, ознакомьтесь с правами использования - они могут быть различными для разных продуктов. Если не указано иное, товар в любом внутриигровом магазине имеет ту же возрастную категорию, что и игра.</text>
+		<text_US>Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America.</text_US>
+	</string>
+
+	<string id="ui_elua_disclamer">
+		<text>Это консольная версия «S.T.A.L.K.E.R.: Зов Припяти».\n \n В мире Зоны время остановилось в момент катастрофы на ЧАЭС. Хотя мы и обновили некоторые элементы, отдельные аспекты, которые сегодня могут казаться нам противоречивыми, остались неизменными ради сохранения аутентичности и атмосферы игры.\n Важно подчеркнуть, что в игре есть составляющие, которые могут не совпадать с нашими сегодняшними взглядам и ценностями. Однако эти неизменные элементы — часть наследия игры, и мы решили оставить их такими, какими они были созданы изначально.\n \n Любые отсылки, содержащиеся в игре, служат для усиления атмосферы и дают исторический контекст творческому произведению. Мы надеемся, что в примете Зону с ее тайнами, как и многие сталкеры до вас.\n \nУдачной Охоты!\n Команда GSC Game World\n </text>
+		<text_ps5>Это версия S.T.A.L.K.E.R.: Call of Prypiat для консоли  PlayStation®5.\n \n В мире Зоны время остановилось в момент катастрофы на ЧАЭС. Хотя мы и обновили некоторые элементы, отдельные аспекты, которые сегодня могут казаться нам противоречивыми, остались неизменными ради сохранения аутентичности и атмосферы игры.\n Важно подчеркнуть, что в игре есть составляющие, которые могут не совпадать с нашими сегодняшними взглядам и ценностями. Однако эти неизменные элементы — часть наследия игры, и мы решили оставить их такими, какими они были созданы изначально.\n \n Любые отсылки, содержащиеся в игре, служат для усиления атмосферы и дают исторический контекст творческому произведению. Мы надеемся, что в примете Зону с ее тайнами, как и многие сталкеры до вас.\n \nУдачной Охоты!\n Команда GSC Game World\n</text_ps5>
+	</string>
+
+	<string id="ui_pad_layout_lean_right">
+		<text>Наклониться вправо</text>
+	</string>
+
+	<string id="ui_pad_layout_lean_left">
+		<text>Наклониться влево</text>
+	</string>
+
+	<string id="ui_pad_layout_crouch_cod">
+		<text>Присесть / Низко присесть (удерживать)</text>
+	</string>
+
+	<string id="ui_pad_layout_sprint_crouch_old">
+		<text>Бег / Низкий присед (в приседе)</text>
+	</string>
+	<string id="ui_pad_layout_crouch_old">
+		<text>Низкий присед (в приседе)</text>
+	</string>
+
+	<string id="c_preset_default">
+		<text>Альтерн.</text>
+	</string>
+
+	<string id="c_type_general">
+		<text>Движение</text>
+	</string>
+
+	<string id="c_type_zomming">
+		<text>При приближении</text>
+	</string>
+
+	<string id="c_type_wheel">
+		<text>Круговое меню</text>
+	</string>
+
+	<string id="c_type_talk">
+		<text>Меню разговора</text>
+	</string>
+
+	<string id="c_type_trade">
+		<text>Меню торговли</text>
+	</string>
+
+	<string id="c_type_inventory">
+		<text>Меню инвентаря</text>
+	</string>
+
+	<string id="ui_mm_controlls_preset">
+		<text>Конфигурация</text>
+	</string>
+
+	<string id="ui_mm_goto_store">
+		<text>$$ACTION_UI_ACTION_2$$ В Microsoft Store</text>
+		<text_ps4>$$ACTION_UI_ACTION_2$$ Перейти в PlayStation®Store</text_ps4>
+		<text_nx64>$$ACTION_UI_ACTION_2$$ Перейти в Nintendo eShop</text_nx64>
+	</string>
+
+	<string id="ui_mm_goto_store_pc">
+		<text>В МАГАЗИН</text>
+		<text_ps4>Перейти в PlayStation®Store</text_ps4>
+		<text_xbox>В Microsoft Store</text_xbox>
+	</string>
+
+	<string id="energy_drink_name">
+		<text>Энергетический напиток «NON STOP»</text>
+	</string>
+
+	<string id="energy_drink_short_name">
+		<text>Энергетический напиток «NON STOP»</text>
+	</string>
+
+	<string id="ui_modio_open">
+		<text>Открыть браузер</text>
+	</string>
+
+	<string id="ui_modio_loadorder">
+		<text>Порядок загрузки модов</text>
+	</string>
+
+	<string id="ui_modio_logout">
+		<text>Выйти из учетной записи</text>
+	</string>
+
+	<string id="ui_modio_email">
+		<text>Войдите в учетную запись или зарегистрируйтесь с эл. почтой.</text>
+	</string>
+
+	<string id="ui_modio_sendcode">
+		<text>Выслать код</text>
+	</string>
+
+	<string id="ui_modio_code">
+		<text>Проверьте свою почту и введите полученный код сюда. </text>
+	</string>
+
+	<string id="ui_modio_state">
+		<text>Состояние Mod.io</text>
+	</string>
+
+	<string id="ui_modio_state_ready">
+		<text>Готово к игре</text>
+	</string>
+
+	<string id="ui_modio_state_downloading">
+		<text>Загрузка мода</text>
+	</string>
+
+	<string id="ui_modio_state_updating">
+		<text>Обновление мода</text>
+	</string>
+
+	<string id="ui_modio_state_removing">
+		<text>Удаление мода</text>
+	</string>
+
+	<string id="ui_modio_user">
+		<text>Пользователь</text>
+	</string>
+
+	<string id="ui_modio_notlogged">
+		<text>Вы не вошли</text>
+	</string>
+
+	<string id="ui_modio_loadorder_automatic">
+		<text>авто</text>
+	</string>
+
+	<string id="ui_modio_loadorder_desc">
+		<text>Установите порядок загрузки модификаций, чтобы избежать перезаписи файлов.</text>
+	</string>
+
+	<string id="ui_mm_modmenu">
+		<text>Mod.io</text>
+	</string>
+
+	<string id="ui_mm_sws_menu">
+		<text>Мастерская STEAM</text>
+	</string>
+
+	<string id="ui_modio_managerbusy">
+		<text>Невозможно начать игру! Менеджер Mod.io занят, подождите.</text>
+	</string>
+
+	<string id="ui_modio_nomemory">
+		<text>Невозможно установить модификацию! Недостаточно свободного места.</text>
+	</string>
+
+	<string id="ui_modio_report">
+		<text>Отправить отчет</text>
+	</string>
+
+	<string id="ui_modio_memory">
+		<text>Занято памяти:</text>
+	</string>
+
+	<string id="ui_terms_of_use">
+		<text>Условия эксплуатации </text>
+	</string>
+
+	<string id="legend_ui_modio_edit_order">
+		<text>$$ACTION_UI_ACTION_2$$  Изменить порядок загрузки</text>
+	</string>
+
+	<string id="legend_ui_modio_edit_order_pc">
+		<text>Нажмите, чтобы поменять порядок загрузки</text>
+		<text_ps5>Нажмите, чтобы изменить последовательность загрузки</text_ps5>
+		<text_xbox>Нажмите, чтобы изменить последовательность загрузки</text_xbox>
+	</string>
+
+	<string id="ui_modio_mod_name">
+		<text>Название мода:</text>
+	</string>
+
+	<string id="ui_modio_mod_order">
+		<text>Порядок:</text>
+	</string>
+
+	<string id="ui_mm_adaptive_trigger">
+		<text>Адаптивные триггеры </text>
+	</string>
+
+	<string id="ui_mm_controller_speaker_enable">
+		<text>Динамик</text>
+		<text_ps4>Динамик </text_ps4>
+	</string>
+
+	<string id="ui_mm_controller_speaker_volume">
+		<text>Громкость динамика</text>
+		<text_ps4>Громкость динамика </text_ps4>
+	</string>
+
+	<string id="ui_mm_transfer_saves">
+		<text>Перенос сохранений</text>
+	</string>
+
+	<string id="ui_mm_enable_fsr">
+		<text>Тип масштабирования</text>
+	</string>
+
+	<string id="ui_mm_enable_fsr_sharpen">
+		<text>Повышение резкости FSR</text>
+	</string>
+
+	<string id="ui_mm_fsr_sharpeness">
+		<text>Резкость FSR</text>
+	</string>
+
+	<string id="ui_mm_enable_fsr_frame_generation">
+		<text>Генерация кадров FSR</text>
+	</string>
+
+	<string id="ui_mm_fsr_quality">
+		<text>Режим масштабирования</text>
+	</string>
+
+	<string id="ui_mm_recommended_note">
+		<text>*Рекомендовано для экранов с переменной частотой обновления. В других случаях может приводить к разрыву изображения.</text>
+	</string>
+
+	<string id="ui_grass_distance">
+		<text>Расстояние отображения травы</text>
+	</string>
+
+	<string id="ui_mm_enable_screen_space_shadows">
+		<text>Screen Space Shadows</text>
+	</string>
+
+	<string id="ui_mm_enable_screen_space_reflections">
+		<text>Screen Space Reflections</text>
+	</string>
+
+	<string id="ui_mm_input_method">
+		<text>Метод ввода</text>
+	</string>
+
+	<string id="ui_mm_dynamic_music_volume">
+		<text>Громкость динамической музыки</text>
+	</string>
+
+	<string id="ui_mm_enable_screen_space_global_ilumination">
+		<text>Screen Space Global Illumination</text>
+	</string>
+
+    <string id="ui_mm_enable_async_compute">
+        <text>Async Compute</text>
+    </string>
+    
+	<string id="ui_mm_wireless_controller">
+		<text>беспроводной контроллер</text>
+	</string>
+
+	<string id="ui_mm_quality_modes">
+		<text>Модификации качества</text>
+	</string>
+
+	<string id="ui_opt_quality">
+		<text>Качество</text>
+	</string>
+
+	<string id="ui_opt_balanced">
+		<text>Збалансировано</text>
+	</string>
+
+	<string id="ui_opt_performance">
+		<text>Производительность</text>
+	</string>
+
+	<string id="ui_controller_update_needed">
+		<text>Беспроводной контроллер DualSense® требует обновления</text>
+	</string>
+
+	<string id="ui_control_type_dualsense">
+		<text>Беспроводной контроллер DualSense®</text>
+	</string>
+
+	<string id="ui_modio_mod_unsubscribed">
+		<text>недоступен на этой платформе! Мод деактивирован</text>
+	</string>
+
+	<string id="ui_opt_native">
+		<text>Базовый</text>
+	</string>
+
+	<string id="ui_opt_ultra_performance">
+		<text>Ультрапроизводительность</text>
+	</string>
+
+	<string id="kb_current_task">
+		<text>Показать текущее задание</text>
+	</string>
+
+	<string id="30_mode">
+		<text>Качество </text>
+	</string>
+
+	<string id="40_mode">
+		<text>Збалансировано </text>
+	</string>
+
+	<string id="60_mode">
+		<text>Производительность </text>
+	</string>
+
+	<string id="120_mode">
+		<text>Ультрапроизводительность </text>
+	</string>
+
+	<string id="120_mode*">
+		<text>Ультрапроизводительность*</text>
+	</string>
+
+	<string id="ui_mm_camera_bobbing">
+		<text>Дрожание камеры</text>
+	</string>
+
+</string_table>

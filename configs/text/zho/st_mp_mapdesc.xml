@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ui_map_desc_mp_military_1_large">
+		<text>一个废弃的军事基地，停满了报废的卡车和装甲运兵车，总部和军营显露出一股破败气息。然而，千万不要被眼前的废弃景象所蒙蔽：这是一个真正的神器宝库，意味着敌人可能潜伏在任何角落。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_military_2_large">
+		<text>这个旧村庄堪称十恶不赦之地。如果你有勇气踏足此地，注意躲避四处袭来的子弹，这里处处凶险，愿瞄准镜和消音器伴你渡过难关！</text>
+	</string>
+
+	<string id="ui_map_desc_mp_military_2_short">
+		<text>这个旧村庄堪称十恶不赦之地。虽说你已经来到了这里，但现在可不是放松的时候。</text>
+	</string>
+
+	<string id="ui_map_desc_mp_military_1_short">
+		<text>一个废弃的军事基地，停满了报废的卡车和装甲运兵车，总部和军营显露出一股破败气息。</text>
+	</string>
+
+</string_table>

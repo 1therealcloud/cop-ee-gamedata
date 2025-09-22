@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="zat_a2_reach_base_name">
+		<text>대피처: 스카도프스크로 이동하라.</text>
+	</string>
+
+	<string id="zat_a2_reach_base_text">
+		<text>존에서 그나마 안전한 곳은 대형 야영지이며, 여기서 가장 가까운 대형 야영지는 스카도프스크라고 한다. 그곳으로 가야 한다.</text>
+	</string>
+
+	<string id="zat_b100_guide_maps_01_name">
+		<text>지역 지도: 지도에 관심 있는 사람을 찾아라.</text>
+	</string>
+
+	<string id="zat_b100_guide_maps_02_name">
+		<text>지역 지도: 파일럿에게 지도를 제안하라.</text>
+	</string>
+
+	<string id="zat_b100_guide_maps_02_text">
+		<text>지역 길잡이 파일럿이 자톤과 주피터 사이의 지역 지도에 관심을 가질 것 같다.</text>
+	</string>
+
+	<string id="zat_b100_heli_2_crash_name">
+		<text>스팅레이 2: 추락 현장을 조사하라.</text>
+	</string>
+
+	<string id="zat_b100_heli_2_crash_text">
+		<text>스팅레이 2 추락 현장을 조사하자.</text>
+	</string>
+
+	<string id="zat_b101_heli_5_crash_name">
+		<text>스팅레이 5: 추락 현장을 조사하라.</text>
+	</string>
+
+	<string id="zat_b101_heli_5_crash_name_02">
+		<text>스팅레이 5: 전류 폭발이 발생한 원인을 찾아라.</text>
+	</string>
+
+	<string id="zat_b101_heli_5_crash_name_03">
+		<text>스팅레이 분대: 헬리콥터 2대를 강타한 충격이 발생한 원인을 찾아내야 한다.</text>
+	</string>
+
+	<string id="zat_b101_heli_5_crash_text">
+		<text>스팅레이 5 추락 현장을 조사하자.</text>
+	</string>
+
+	<string id="zat_b101_heli_5_crash_text_02">
+		<text>스팅레이 5 헬리콥터를 강타한 전기 충격이 발생한 원인을 찾아내야 한다.</text>
+	</string>
+
+	<string id="zat_b101_heli_5_crash_text_03">
+		<text>스팅레이 4와 5의 전자장비가 고장 난 원인을 알아내야 한다. 아무래도 강력한 전기 충격에 당한 듯하다.</text>
+	</string>
+
+	<string id="zat_b103_merc_bring_supplies_name">
+		<text>음식: 용병에게 줄 음식을 획득하라.</text>
+	</string>
+
+	<string id="zat_b103_merc_bring_supplies_text">
+		<text>변전소 작업장의 용병 분대가 고기 통조림, 소시지나 빵 6개를 구해달라고 했다.</text>
+	</string>
+
+	<string id="zat_b103_merc_supplies_got_name">
+		<text>음식: 음식을 용병에게 전달하라.</text>
+	</string>
+
+	<string id="zat_b103_merc_supplies_got_text">
+		<text>음식을 변전소 작업장에 있는 용병에게 전달해야 한다.</text>
+	</string>
+
+	<string id="zat_b103_toolkit_2_substation_workshop_name">
+		<text>공구: 변전소 작업장을 조사하라.</text>
+	</string>
+
+	<string id="zat_b103_toolkit_2_substation_workshop_text">
+		<text>변전소 작업장에 공구가 있을 거라는 소문이 있다. 기술자가 찾고 있는 공구를 구할 수 있을지도 모르겠다.</text>
+	</string>
+
+	<string id="zat_b106_find_chimera_name">
+		<text>키메라 사냥: 돌연변이가 자고 있을 때 찾아내라.</text>
+	</string>
+
+	<string id="zat_b106_find_chimera_text">
+		<text>키메라가 일어나기 전에 찾아내야 한다.</text>
+	</string>
+
+	<string id="zat_b106_found_soroka_name">
+		<text>맥파이 수색: 곤타에게 정보를 전달해라.</text>
+	</string>
+
+	<string id="zat_b106_found_soroka_text">
+		<text>곤타의 분대를 함정에 빠뜨린 스토커 맥파이를 찾은 것 같다. 맥파이는 프리덤에 가입하고 이름도 플린트로 바꿨다.</text>
+	</string>
+
+	<string id="zat_b106_kill_chimera_name">
+		<text>키메라 사냥: 돌연변이를 처치하라.</text>
+	</string>
+
+	<string id="zat_b106_kill_chimera_text">
+		<text>키메라가 잠에서 깨어났다. 더 늦기 전에 놈을 처치해야 한다.</text>
+	</string>
+
+	<string id="zat_b106_meet_with_gonta_at_night_name">
+		<text>키메라 사냥: 오전 3시에 술집에서 곤타를 만나라.</text>
+	</string>
+
+	<string id="zat_b106_meet_with_gonta_at_night_text">
+		<text>동이 트기 전에 곤타를 만나서 키메라 사냥 분대에 합류해야 한다.</text>
+	</string>
+
+	<string id="zat_b106_receipt_reward_name">
+		<text>키메라 사냥: 트래퍼에게 결과를 알려라.</text>
+	</string>
+
+	<string id="zat_b106_receipt_reward_text">
+		<text>트래퍼로 불리는 스토커를 찾아가 키메라 사냥에 성공했다고 알려야 한다. 트래퍼가 보상을 줄 것이다.</text>
+	</string>
+
+	<string id="zat_b106_search_soroka_name">
+		<text>맥파이 수색: 스토커 맥파이를 찾아라.</text>
+	</string>
+
+	<string id="zat_b106_search_soroka_text">
+		<text>맥파이로 불리는 스토커가 곤타의 분대를 속여서 키메라의 공격을 받게 했다. 곤타 일행이 그 개자식을 찾아 달라고 부탁했다.</text>
+	</string>
+
+	<string id="zat_b107_evacuation_jupiter_name">
+		<text>대피 장소: B205 지점을 조사하라.</text>
+	</string>
+
+	<string id="zat_b107_evacuation_jupiter_text">
+		<text>헬리콥터 중 한 대에서 찾은 지도에 대피 장소가 표시되어 있었다. 군인들이 B205 지점으로 갔는지 확인해야 한다.</text>
+	</string>
+
+	<string id="zat_b107_evacuation_pripyat_1_name">
+		<text>대피 장소: B28 지점을 조사하라.</text>
+	</string>
+
+	<string id="zat_b107_evacuation_pripyat_1_text">
+		<text>헬리콥터 중 한 대에서 찾은 지도에 대피 장소가 표시되어 있었다. 군인들이 B28 지점으로 갔는지 확인해야 한다.</text>
+	</string>
+
+	<string id="zat_b107_evacuation_pripyat_2_name">
+		<text>대피 장소: B28 지점의 좌표를 찾아라.</text>
+	</string>
+
+	<string id="zat_b107_evacuation_pripyat_2_text">
+		<text>스팅레이 헬리콥터 중 한 대의 블랙박스를 확인했다. 내용을 보니 분대장이 분대 집결 장소를 지정했으며, 해당 위치는 B28 대피 지점이었다. 따라서 B28의 좌표를 찾아야 한다.</text>
+	</string>
+
+	<string id="zat_b107_evacuation_pripyat_3_name">
+		<text>대피 장소: B28 지점에 도달하라.</text>
+	</string>
+
+	<string id="zat_b107_evacuation_pripyat_3_text">
+		<text>분대가 집결하기로 했던 장소는 프리피야티에 있었다. 프리피야티에 갈 방법을 찾아야 한다.</text>
+	</string>
+
+	<string id="zat_b107_evacuation_zaton_name">
+		<text>대피 장소: B2 지점을 조사하라.</text>
+	</string>
+
+	<string id="zat_b107_evacuation_zaton_text">
+		<text>헬리콥터 중 한 대에서 찾은 지도에 대피 장소가 표시되어 있었다. 군인들이 B2 지점으로 갔는지 확인해야 한다.</text>
+	</string>
+
+	<string id="zat_b14_bring_strange_object_name">
+		<text>이상한 현상: 아티팩트를 비어드에게 가져가라.</text>
+	</string>
+
+	<string id="zat_b14_bring_strange_object_text">
+		<text>이상한 아티팩트가 이상한 빛의 근원이었다. 비어드가 이 아티팩트에 관심이 있을 듯하다.</text>
+	</string>
+
+	<string id="zat_b14_learn_about_strange_occurrence_by_stalkers_name">
+		<text>이상한 현상: 아티팩트에 관해 스토커들에게 물어봐라.</text>
+	</string>
+
+	<string id="zat_b14_learn_about_strange_occurrence_by_stalkers_text">
+		<text>스토커라면 이 이상한 아티팩트에 관해 알거나 이거에 대해 아는 사람을 알려줄 수도 있다. 스토커들과 대화해 보자.</text>
+	</string>
+
+	<string id="zat_b14_learn_about_strange_occurrence_name">
+		<text>이상한 현상: 하천 정비소에서 빛의 근원을 찾아라.</text>
+	</string>
+
+	<string id="zat_b14_learn_about_strange_occurrence_text">
+		<text>하천 정비소에서 이상한 빛이 관측됐다. 비어드가 빛의 근원을 알아봐달라고 요청했다.</text>
+	</string>
+
+	<string id="zat_b14_take_artefact_name">
+		<text>이상한 현상: 아티팩트를 가져가라.</text>
+	</string>
+
+	<string id="zat_b14_take_artefact_text">
+		<text>이상한 아티팩트가 이상한 빛의 근원이었다. 아티팩트를 가져가자.</text>
+	</string>
+
+	<string id="zat_b14_tell_svyaznoy_about_all_name">
+		<text>이상한 현상: 아티팩트에 관해 비어드에게 말하라.</text>
+	</string>
+
+	<string id="zat_b14_tell_svyaznoy_about_all_text">
+		<text>이상한 아티팩트가 이상한 빛의 근원이었다. 아티팩트를 확보하지는 못했지만 일단 비어드에게 보고하자.</text>
+	</string>
+
+	<string id="zat_b20_cross_the_teleport_name">
+		<text>고원을 향해: 이상 현상으로 들어가라.</text>
+	</string>
+
+	<string id="zat_b20_cross_the_teleport_text">
+		<text>이상 현상을 통과해야 고원으로 갈 수 있다. 이상 현상 안으로 들어가자.</text>
+	</string>
+
+	<string id="zat_b20_find_the_teleport_name">
+		<text>고원을 향해: 노아의 비밀 경로를 찾아라.</text>
+	</string>
+
+	<string id="zat_b20_find_the_teleport_text">
+		<text>노아의 PDA에 고원으로 가는 "비밀 길"이 있었다. 이 길을 찾아보자.</text>
+	</string>
+
+	<string id="zat_b20_plato_talk_to_noah_name">
+		<text>고원을 향해: 노아에게 고원으로 가는 길을 알아내라.</text>
+	</string>
+
+	<string id="zat_b20_plato_talk_to_noah_text">
+		<text>노아라는 스토커가 고원으로 가는 길을 안다고 한다. 고원으로 가는 길을 알아내야 한다.</text>
+	</string>
+
+	<string id="zat_b22_bring_proof_name">
+		<text>사라진 스토커들: 트레머가 개입했다는 증거를 가져가라.</text>
+	</string>
+
+	<string id="zat_b22_bring_proof_text">
+		<text>트레머의 기록이 있는 PDA를 스카도프스크로 가져가서 비어드에게 보여줘야 한다. 이 기록으로 스토커가 계속 사라진 이유가 트레머였음을 증명할 수 있다.</text>
+	</string>
+
+	<string id="zat_b22_find_proof_name">
+		<text>사라진 스토커들: 트레머가 개입했다는 증거를 찾아라.</text>
+	</string>
+
+	<string id="zat_b22_find_proof_text">
+		<text>스토커 실종 사건에 트레머가 개입한 증거가 남아있는지 조사해야 한다.</text>
+	</string>
+
+	<string id="zat_b28_heli_3_crash_name">
+		<text>스팅레이 3: 추락 현장을 조사하라.</text>
+	</string>
+
+	<string id="zat_b28_heli_3_crash_text">
+		<text>스팅레이 3 추락 현장을 조사하자.</text>
+	</string>
+
+	<string id="zat_b29_simple_bring_text_1">
+		<text>비어드한테 아티팩트를 전달해야 한다. 다만 미리 출발한 이점이 사라졌다는 사실을 명심하자. 다른 경쟁자들도 아티팩트를 찾기 시작했다.</text>
+	</string>
+
+	<string id="zat_b29_simple_bring_text_2">
+		<text>비어드한테 아티팩트를 전달해야 한다. 다른 경쟁자들도 아티팩트를 찾기 시작했다는 사실을 명심하자.</text>
+	</string>
+
+	<string id="zat_b29_simple_bring_text_3">
+		<text>비어드에게 아티팩트를 가져다줘야 하지만 다른 무리가 찾았다는 얘기가 들리고 있다. 신호를 추적해서 다른 경쟁자들보다 먼저 일을 완수해야 한다.</text>
+	</string>
+
+	<string id="zat_b29_simple_bring_text_4">
+		<text>비어드에게 아티팩트를 가져다줘야 하지만 다른 무리가 이미 일을 완수했다. 이제 아티팩트를 전달해도 보상의 반만 얻을 수 있다.</text>
+	</string>
+
+	<string id="zat_b29_simple_bring_text_5">
+		<text>비어드에게 아티팩트를 가져다줘야 한다.</text>
+	</string>
+
+	<string id="zat_b29_simple_bring_title_16">
+		<text>아티팩트 주문: 그래비를 전달하라.</text>
+	</string>
+
+	<string id="zat_b29_simple_bring_title_17">
+		<text>아티팩트 주문: 아이를 전달하라.</text>
+	</string>
+
+	<string id="zat_b29_simple_bring_title_18">
+		<text>아티팩트 주문: 버블을 전달하라.</text>
+	</string>
+
+	<string id="zat_b29_simple_bring_title_19">
+		<text>아티팩트 주문: 셸을 전달하라.</text>
+	</string>
+
+	<string id="zat_b29_simple_bring_title_20">
+		<text>아티팩트 주문: 골드피쉬를 전달하라.</text>
+	</string>
+
+	<string id="zat_b29_simple_bring_title_21">
+		<text>아티팩트 주문: 플레임을 전달하라.</text>
+	</string>
+
+	<string id="zat_b29_simple_bring_title_22">
+		<text>아티팩트 주문: 파이어플라이를 전달하라.</text>
+	</string>
+
+	<string id="zat_b29_simple_bring_title_23">
+		<text>아티팩트 주문: 스노우플레이크를 전달하라.</text>
+	</string>
+
+	<string id="zat_b29_simple_find_text_1">
+		<text>비어드에게 아티팩트를 가져다줘야 하지만 미리 출발한 것에 대한 이점이 사라졌다. 이제 다른 경쟁자들도 아티팩트를 찾기 시작했다.</text>
+	</string>
+
+	<string id="zat_b29_simple_find_text_2">
+		<text>비어드에게 줄 아티팩트를 찾아야 한다. 이제 다른 경쟁자들도 아티팩트를 찾기 시작했다는 점을 명심해야 한다.</text>
+	</string>
+
+	<string id="zat_b29_simple_find_text_3">
+		<text>비어드에게 아티팩트를 가져다줘야 하지만 다른 무리가 찾았다는 얘기가 들리고 있다. 신호를 추적해서 다른 경쟁자들보다 먼저 일을 완수해야 한다.</text>
+	</string>
+
+	<string id="zat_b29_simple_find_text_4">
+		<text>비어드에게 줄 아티팩트를 찾아야 하지만 다른 무리가 이미 해당 일을 완수했다. 이제 아티팩트를 전달해도 보상의 반만 얻을 수 있다.</text>
+	</string>
+
+	<string id="zat_b29_simple_find_text_5">
+		<text>비어드에게 줄 아티팩트를 찾아야 한다.</text>
+	</string>
+
+	<string id="zat_b29_simple_find_title_16">
+		<text>아티팩트 주문: 그래비를 찾아라.</text>
+	</string>
+
+	<string id="zat_b29_simple_find_title_17">
+		<text>아티팩트 주문: 아이를 찾아라.</text>
+	</string>
+
+	<string id="zat_b29_simple_find_title_18">
+		<text>아티팩트 주문: 버블을 찾아라.</text>
+	</string>
+
+	<string id="zat_b29_simple_find_title_19">
+		<text>아티팩트 주문: 셸을 찾아라.</text>
+	</string>
+
+	<string id="zat_b29_simple_find_title_20">
+		<text>아티팩트 주문: 골드피쉬를 찾아라.</text>
+	</string>
+
+	<string id="zat_b29_simple_find_title_21">
+		<text>아티팩트 주문: 플레임을 찾아라.</text>
+	</string>
+
+	<string id="zat_b29_simple_find_title_22">
+		<text>아티팩트 주문: 파이어플라이를 찾아라.</text>
+	</string>
+
+	<string id="zat_b29_simple_find_title_23">
+		<text>아티팩트 주문: 스노우플레이크를 찾아라.</text>
+	</string>
+
+	<string id="zat_b30_compass_to_barmen_task_find_name">
+		<text>나침반: 노아를 찾고 희귀한 아티팩트를 어디서 구할 수 있는지 알아내라.</text>
+	</string>
+
+	<string id="zat_b30_compass_to_barmen_task_find_text">
+		<text>오래된 배에서 노아를 찾고 나침반 아티팩트를 어디서 구할 수 있는지 알아내야 한다. 비어드가 이 아티팩트를 오랫동안 찾고 있었다. 이걸 찾아주면 후하게 보상해 줄 거라고 한다.</text>
+	</string>
+
+	<string id="zat_b30_compass_to_barmen_task_give_name">
+		<text>나침반: 아티팩트를 비어드에게 가져가라.</text>
+	</string>
+
+	<string id="zat_b30_compass_to_sultan_task_find_name">
+		<text>나침반: 노아를 통해 희귀한 아티팩트를 어디서 구할 수 있는지 알아내라.</text>
+	</string>
+
+	<string id="zat_b30_compass_to_sultan_task_find_text">
+		<text>술탄이 비어드가 아티팩트를 찾는 걸 방해하고 싶어 한다. 오래된 배에서 노아를 찾고 나침반 아티팩트를 어디서 구할 수 있는지 알아내야 한다.</text>
+	</string>
+
+	<string id="zat_b30_compass_to_sultan_task_give_name">
+		<text>나침반: 아티팩트를 술탄에게 가져가라.</text>
+	</string>
+
+	<string id="zat_b30_compass_to_sultan_task_give_text">
+		<text>노아가 준 아티팩트가 술탄이 찾던 나침반이다.</text>
+	</string>
+
+	<string id="zat_b30_percent_task_name">
+		<text>은밀한 사업: 비어드에게 돈을 받아라.</text>
+	</string>
+
+	<string id="zat_b30_percent_task_text">
+		<text>비어드의 수입 중 일부를 받아야 한다.</text>
+	</string>
+
+	<string id="zat_b30_sultan_task_1_name">
+		<text>흥미로운 사업: 술탄과 대화하라.</text>
+	</string>
+
+	<string id="zat_b30_sultan_task_1_text">
+		<text>상인 아울은 비어드가 합의를 지키지 않고 있다고 생각한다. 그래서 이 지역의 범죄 조직 보스인 술탄에게 도움을 요청하라고 제안했다.</text>
+	</string>
+
+	<string id="zat_b30_sultan_task_2_name">
+		<text>은밀한 사업: 스토커의 탐지기를 빼앗아라.</text>
+	</string>
+
+	<string id="zat_b30_sultan_task_2_text">
+		<text>비어드에게 줄 아티팩트를 찾고 있는 스토커의 프로토타입 탐지기를 어떻게든 빼앗아야 한다. 이 탐지기가 없으면 비어드는 술탄의 조건을 따를 수밖에 없기 때문이다.</text>
+	</string>
+
+	<string id="zat_b30_sultan_task_3_name">
+		<text>은밀한 사업: 술탄과 대화하라.</text>
+	</string>
+
+	<string id="zat_b30_sultan_task_3_text">
+		<text>비어드는 더 이상 탐지기가 없다. 이제 술탄이 비어드의 다른 공급책도 처리했는지 물어보자.</text>
+	</string>
+
+	<string id="zat_b30_sultan_task_4_name">
+		<text>은밀한 사업: 비어드가 술탄 밑에서 일하도록 해라.</text>
+	</string>
+
+	<string id="zat_b30_sultan_task_4_text">
+		<text>비어드가 공급책과 탐지기가 없으니 혼자 일할 수 없게 됐다. 이제 비어드가 술탄 밑에서 일하도록 압박하자.</text>
+	</string>
+
+	<string id="zat_b30_sultan_task_6_name">
+		<text>은밀한 사업: 비어드가 진행 중인 사업을 알아내라.</text>
+	</string>
+
+	<string id="zat_b30_sultan_task_6_text">
+		<text>현재 비어드가 진행 중인 사업이 뭔지 알아내야 한다. 알아내면 비어드의 공급망을 끊을 수 있다.</text>
+	</string>
+
+	<string id="zat_b30_sultan_task_7_name">
+		<text>은밀한 사업: 스토커의 두 번째 탐지기를 빼앗아라</text>
+	</string>
+
+	<string id="zat_b30_sultan_task_7_text">
+		<text>비어드에게 줄 아티팩트를 찾고 있는 스토커의 프로토타입 탐지기를 어떻게든 빼앗아야 한다. 이 탐지기가 없으면 비어드는 술탄의 조건을 따를 수밖에 없기 때문이다.</text>
+	</string>
+
+	<string id="zat_b30_task_1_name">
+		<text>흥미로운 사업: 노비코프에게 벨레스 탐지기 세 개를 가져다줘라.</text>
+	</string>
+
+	<string id="zat_b30_task_1_text">
+		<text>상인 아울이 수익성 좋은 사업에 참여하라고 제안했다. 벨레스 탐지기 세 개를 찾아서 과학자 방공호에 있는 노비코프에게 전달하면 된다.</text>
+	</string>
+
+	<string id="zat_b30_task_2_name">
+		<text>흥미로운 사업: 아울이 탐지기를 얻을 때까지 대기하라.</text>
+	</string>
+
+	<string id="zat_b30_task_2_text">
+		<text>노비코프가 탐지기를 받고 아울에게 다시 보내기로 약속했다. 탐지기 관련 일이 마무리될 때까지 기다린 다음에 아울에게 어떻게 됐는지 들어보자.</text>
+	</string>
+
+	<string id="zat_b30_task_3_name">
+		<text>흥미로운 사업: 아울과 대화하라.</text>
+	</string>
+
+	<string id="zat_b30_task_3_text">
+		<text>상인 아울이 무전기로 연락했다. 자기한테 문제가 생겨서 직접 보자고 한다.</text>
+	</string>
+
+	<string id="zat_b30_task_4_name">
+		<text>흥미로운 사업: 비어드가 합의한 것을 따르도록 설득하라.</text>
+	</string>
+
+	<string id="zat_b30_task_4_text">
+		<text>상인 아울은 비어드가 합의를 지키지 않고 있다고 생각한다. 비어드가 합의한 것을 지키도록 설득해야 한다.</text>
+	</string>
+
+	<string id="zat_b30_task_5_name">
+		<text>흥미로운 사업: 아울에게 돈을 달라고 요구하라.</text>
+	</string>
+
+	<string id="zat_b30_task_5_text">
+		<text>비어드는 자신이 아울에게 빚진 게 없다고 생각한다. 누구 말이 맞는지 알아낸 다음에 그 사람으로부터 돈을 받아야 한다.</text>
+	</string>
+
+	<string id="zat_b33_zaporojec_text_01">
+		<text>스낵이 자기 수납 공간을 가져와달라고 요청했다. 보관함은 낡은 자포로제츠 자동차 안에 있었는데 지진이 나면서 차가 갈라진 땅 사이로 떨어졌다. 근데 거기는 스노크로 가득해서 스낵이 직접 내려가는 것을 두려워하고 있다.</text>
+	</string>
+
+	<string id="zat_b33_zaporojec_text_02">
+		<text>스낵의 수납 공간을 획득했으니 원래 주인에게 가져간 뒤에 안에 담긴 물건을 공평하게 나눠야 한다.</text>
+	</string>
+
+	<string id="zat_b38_den_of_the_bloodsucker_inform_stalkers_name">
+		<text>블러드서커 소굴: 스토커들에게 보고하라.</text>
+	</string>
+
+	<string id="zat_b38_den_of_the_bloodsucker_inform_stalkers_text">
+		<text>크뤼그 안테나 단지 지하에 있는 블러드서커 소굴에 대해 스토커들에게 말해야 한다.</text>
+	</string>
+
+	<string id="zat_b38_den_of_the_bloodsucker_tell_barman_about_all_name">
+		<text>블러드서커 소굴: 비어드에게 보고하라.</text>
+	</string>
+
+	<string id="zat_b38_den_of_the_bloodsucker_tell_barman_about_all_text">
+		<text>크뤼그 안테나 단지 지하에 있는 블러드서커 소굴에 대해 비어드에게 말해야 한다. 그러면 비어드도 스토커들을 어떻게 보호할 수 있을지 알아낼 수 있다.</text>
+	</string>
+
+	<string id="zat_b38_disappearance_stalkers_clean_den_of_the_bloodsucker_name">
+		<text>사라진 스토커들: 그로우스를 따라가라.</text>
+	</string>
+
+	<string id="zat_b38_disappearance_stalkers_clean_den_of_the_bloodsucker_text">
+		<text>그로우스가 버려진 안테나 단지 건물을 같이 조사하자고 했다. 그로우스는 블러드서커를 발견해서 그 건물에 헌터가 있는지 확인하고 싶어 한다.</text>
+	</string>
+
+	<string id="zat_b38_disappearance_stalkers_deal_with_medic_name">
+		<text>사라진 스토커들: 무슨 일이 있었는지 조사하라.</text>
+	</string>
+
+	<string id="zat_b38_disappearance_stalkers_deal_with_medic_text">
+		<text>트레머의 잘못이 있는 듯하다. 무슨 일이 있었는지 조사해야 한다.</text>
+	</string>
+
+	<string id="zat_b38_disappearance_stalkers_find_cop_near_port_krans_name">
+		<text>사라진 스토커들: 그로우스를 찾아라.</text>
+	</string>
+
+	<string id="zat_b38_disappearance_stalkers_find_cop_near_port_krans_text">
+		<text>그로우스가 무슨 이유 때문인지 부둣가 크레인 쪽으로 갔다. 어쩌면 사라진 스토커에 대해 알아냈을 수도 있다. 거기서 그로우스를 찾아보자.</text>
+	</string>
+
+	<string id="zat_b38_disappearance_stalkers_find_out_where_is_cop_name">
+		<text>사라진 스토커들: 그로우스가 어디에 있는지 알아내라.</text>
+	</string>
+
+	<string id="zat_b38_disappearance_stalkers_find_out_where_is_cop_text">
+		<text>그로우스가 평소에 있던 곳에 없다. 어디로 갔는지 비어드에게 물어보자.</text>
+	</string>
+
+	<string id="zat_b38_disappearance_stalkers_find_to_be_missing_hunter_name">
+		<text>사라진 스토커들: 사라진 헌터를 찾아라.</text>
+	</string>
+
+	<string id="zat_b38_disappearance_stalkers_find_to_be_missing_hunter_text">
+		<text>그로우스가 사라진 헌터를 같이 찾아달라고 했다. 헌터는 블러드서커 소굴을 찾고 있었다고 한다. 지금 일단 가지고 있는 정보에 의하면 최근에 스토커들이 사라지는 이유는 블러드서커 때문이다.</text>
+	</string>
+
+	<string id="zat_b38_disappearance_stalkers_get_out_from_den_of_the_bloodsucker_name">
+		<text>사라진 스토커들: 블러드서커 소굴에서 탈출하라.</text>
+	</string>
+
+	<string id="zat_b38_disappearance_stalkers_get_out_from_den_of_the_bloodsucker_text">
+		<text>지하에 블러드서커 소굴을 발견했는데 이 괴물들도 어리둥절한 상태인 듯하다. 신속하고 조용하게 여기서 탈출해야 한다.</text>
+	</string>
+
+	<string id="zat_b38_disappearance_stalkers_meet_cop_24h_past_name">
+		<text>사라진 스토커들: 그로우스를 만나라.</text>
+	</string>
+
+	<string id="zat_b38_disappearance_stalkers_meet_cop_24h_past_text">
+		<text>그로우스를 만나서 사라진 헌터를 어떻게 찾을지 상의해 보자.</text>
+	</string>
+
+	<string id="zat_b38_disappearance_stalkers_meet_cop_later_name">
+		<text>사라진 스토커들: 나중에 그로우스를 만나라.</text>
+	</string>
+
+	<string id="zat_b38_disappearance_stalkers_meet_cop_later_text">
+		<text>안테나 단지 건물 안에서 헌터 다닐라의 흔적을 발견하지 못했다. 하지만 이 건물 안에서 무엇을 발견했는지 알려주자, 그로우스가 당황했다. 그로우스는 나중에 만나서 이 문제에 대해 더 자세히 논의하자고 했다.</text>
+	</string>
+
+	<string id="zat_b38_disappearance_stalkers_meet_ment_name">
+		<text>사라진 스토커들: 그로우스를 만나라.</text>
+	</string>
+
+	<string id="zat_b38_disappearance_stalkers_meet_ment_text">
+		<text>그로우스가 알려준 장소에는 헌터 다닐라가 없었고 죽은 블러드서커만 있었다. 근데 자기랑 같이 가자고 하는 것으로 보아 그로우스가 흥미로운 것을 발견한 듯하다.</text>
+	</string>
+
+	<string id="zat_b38_disappearance_stalkers_tell_barmen_about_medic_text">
+		<text>스토커들이 사라지는 게 블러드서커 때문이 아니었다. 범인은 스카도프스크의 의무병인 트레머였다.</text>
+	</string>
+
+	<string id="zat_b3_get_tools_1_2_name">
+		<text>도구: 카르단에게 도구를 전달하라.</text>
+	</string>
+
+	<string id="zat_b3_get_tools_1_2_text">
+		<text>카르단이 두 가지 도구 세트를 가져오라고 요청했다. 하나는 기본 작업용, 하나는 정밀 작업용이다. 도구를 기술자에게 전달하면 보상을 받고 고급 무기 및 방호구 개조를 진행할 수 있다.</text>
+	</string>
+
+	<string id="zat_b3_get_tools_1_3_name">
+		<text>도구: 카르단에게 도구를 전달하라.</text>
+	</string>
+
+	<string id="zat_b3_get_tools_1_3_text">
+		<text>카르단이 두 가지 도구 세트를 가져오라고 요청했다. 하나는 기본 작업용, 하나는 측정용이다. 도구를 기술자에게 전달하면 보상을 받고 고급 무기 및 방호구 개조를 진행할 수 있다.</text>
+	</string>
+
+	<string id="zat_b3_get_tools_1_name">
+		<text>도구: 카르단에게 도구를 전달하라.</text>
+	</string>
+
+	<string id="zat_b3_get_tools_1_text">
+		<text>카르단이 기본 작업용 도구 세트를 가져오라고 요청했다. 도구를 기술자에게 전달하면 보상을 받고 고급 무기 및 방호구 개조를 진행할 수 있다.</text>
+	</string>
+
+	<string id="zat_b3_get_tools_2_3_name">
+		<text>도구: 카르단에게 도구를 전달하라.</text>
+	</string>
+
+	<string id="zat_b3_get_tools_2_3_text">
+		<text>카르단이 두 가지 도구 세트를 가져오라고 요청했다. 하나는 정밀 작업용, 하나는 측정용이다. 도구를 기술자에게 전달하면 보상을 받고 고급 무기 및 방호구 개조를 진행할 수 있다.</text>
+	</string>
+
+	<string id="zat_b3_get_tools_2_name">
+		<text>도구: 카르단에게 도구를 전달하라.</text>
+	</string>
+
+	<string id="zat_b3_get_tools_2_text">
+		<text>카르단이 정밀 작업용 도구 세트를 가져오라고 요청했다. 도구를 기술자에게 전달하면 보상을 받고 고급 무기 및 방호구 개조를 진행할 수 있다.</text>
+	</string>
+
+	<string id="zat_b3_get_tools_3_name">
+		<text>도구: 카르단에게 도구를 전달하라.</text>
+	</string>
+
+	<string id="zat_b3_get_tools_3_text">
+		<text>카르단이 측정용 도구 세트를 가져오라고 요청했다. 도구를 기술자에게 전달하면 보상을 받고 고급 무기 및 방호구 개조를 진행할 수 있다.</text>
+	</string>
+
+	<string id="zat_b3_mechanic_toolkit_search_name">
+		<text>도구: 카르단에게 도구를 전달하라.</text>
+	</string>
+
+	<string id="zat_b3_mechanic_toolkit_search_text">
+		<text>카르단이 세 가지 도구 세트를 가져오라고 요청했다. 기본 작업용, 정밀 작업용, 측정용을 하나씩 가져오면 된다. 도구를 기술자에게 전달하면 보상을 받고 고급 무기 및 방호구 개조를 진행할 수 있다.</text>
+	</string>
+
+	<string id="zat_b40_reconnoitre_merc_camp_01_name">
+		<text>용병 야영지: 찾을 수 있는 정보를 다 가져가라.</text>
+	</string>
+
+	<string id="zat_b40_reconnoitre_merc_camp_01_text">
+		<text>상인 아울이 폐기물 처리장에 있는 용병 야영지에서 아무 정보나 가져오면 후하게 보상하겠다고 약속했다. 아울은 용병의 계획에 관심이 있다.</text>
+	</string>
+
+	<string id="zat_b40_reconnoitre_merc_camp_02_name">
+		<text>용병 야영지: 찾을 수 있는 정보를 다 가져가라.</text>
+	</string>
+
+	<string id="zat_b40_reconnoitre_merc_camp_02_text">
+		<text>상인 아울이 폐기물 처리장에 있는 용병 야영지에서 아무 정보나 가져오면 후하게 보상하겠다고 약속했다. 아울은 용병의 계획에 관심이 있다.</text>
+	</string>
+
+	<string id="zat_b44_tech_buddies_barge_name">
+		<text>3인의 동지: 바지의 신상을 확인하라.</text>
+	</string>
+
+	<string id="zat_b44_tech_buddies_barge_text">
+		<text>카르단이 동지에게 사과의 말을 전해달라고 했다. 그 동지는 바지라고 불리는 스토커다. 바지는 카르단과 다툰 뒤 알 수 없는 방향으로 떠났다는 모양이다.</text>
+	</string>
+
+	<string id="zat_b44_tech_buddies_both_name">
+		<text>3인의 동지: 바지와 조커의 신상을 확인하라.</text>
+	</string>
+
+	<string id="zat_b44_tech_buddies_both_text">
+		<text>카르단이 동지들에게 사과의 말을 전해달라고 했다. 그 동지는 바지와 조커라 불리는 스토커들이다. 그 둘이 카르단과 싸운 뒤 알 수 없는 방향으로 떠났다는 모양이다.</text>
+	</string>
+
+	<string id="zat_b44_tech_buddies_joker_name">
+		<text>3인의 동지: 조커의 신상을 확인하라.</text>
+	</string>
+
+	<string id="zat_b44_tech_buddies_joker_text">
+		<text>카르단이 동지에게 사과의 말을 전해달라고 했다. 그 동지는 조커라고 불리는 스토커다. 조커는 카르단과 다툰 뒤 알 수 없는 방향으로 떠났다는 모양이다.</text>
+	</string>
+
+	<string id="zat_b51_nimble_items_get_order_name">
+		<text>특별 주문: 상품을 수령하라.</text>
+	</string>
+
+	<string id="zat_b51_nimble_items_get_order_text">
+		<text>상품이 배달됐다. 님블에게서 물건을 찾을 시간이다.</text>
+	</string>
+
+	<string id="zat_b51_nimble_items_wait_order_name">
+		<text>특별 주문: 배달을 기다려라.</text>
+	</string>
+
+	<string id="zat_b51_nimble_items_wait_order_text">
+		<text>물건을 주문했다. 이제 님블이 물건을 배달받을 때까지 기다려야 한다.</text>
+	</string>
+
+	<string id="zat_b52_reputation_find_snag_name">
+		<text>평판: 스낵을 찾아라.</text>
+	</string>
+
+	<string id="zat_b52_reputation_find_snag_text">
+		<text>스낵을 찾아서 입 닥치게 해야 한다. 님블이 장물을 절대 취급하지 않는 것과 반대로, 스낵은 범죄의 유혹에 자주 넘어가는 듯하다. 부둣가 크레인에서 마지막으로 발견되었다고 하니, 아직 거기 있을지도 모른다.</text>
+	</string>
+
+	<string id="zat_b52_reputation_find_snag_text_2">
+		<text>스낵을 찾아서 입 닥치게 해야 한다. 부둣가 크레인에 가보니 스낵이 없었다. 밴디트들이 스낵의 행방을 알 듯하다.</text>
+	</string>
+
+	<string id="zat_b52_reputation_find_snag_text_3">
+		<text>스낵을 찾아서 입 닥치게 해야 한다. 밴디트들이 이 일에 연관된 것 같다. 그러니 밴디트들이 스낵의 행방을 알지도 모른다.</text>
+	</string>
+
+	<string id="zat_b52_reputation_find_snag_text_4">
+		<text>스낵을 찾아서 입 닥치게 해야 한다. 현재 스낵의 행방을 알려줄 단서가 전혀 없는 상황이다.</text>
+	</string>
+
+	<string id="zat_b52_reputation_find_snag_text_5">
+		<text>스낵을 찾아서 입 닥치게 해야 한다. 밴디트 중 한 명의 PDA 내용으로 봐서 술탄 패거리도 스낵을 찾는 모양이다. 아쉽게도 스낵을 찾을 만한 단서는 아직 없다.</text>
+	</string>
+
+	<string id="zat_b52_reputation_know_there_snog_name">
+		<text>평판: 스낵이 어디로 사라졌는지 찾아라.</text>
+	</string>
+
+	<string id="zat_b52_reputation_know_there_snog_text">
+		<text>스낵이 원래 있던 곳에서 사라졌다. 지역 주민들에게 행방을 물어보자.</text>
+	</string>
+
+	<string id="zat_b52_reputation_know_there_snog_text_2">
+		<text>스낵을 찾아서 입 닥치게 해야 한다. 스낵이 원래 있던 곳에서 사라졌다. 술탄이 스낵의 행방을 알지도 모른다.</text>
+	</string>
+
+	<string id="zat_b52_reputation_know_there_snog_text_3">
+		<text>스낵을 찾아서 입 닥치게 해야 한다. 스낵이 원래 있던 곳에서 사라졌다. 비어드가 스낵의 행방을 알지도 모른다.</text>
+	</string>
+
+	<string id="zat_b52_reputation_tell_snag_name">
+		<text>평판: 스낵과 대화하라.</text>
+	</string>
+
+	<string id="zat_b52_reputation_tell_snag_text">
+		<text>스낵을 찾아서 입 닥치게 해야 한다. 님블이 장물을 절대 취급하지 않는 것과 반대로, 스낵은 범죄의 유혹에 자주 넘어가는 듯하다.</text>
+	</string>
+
+	<string id="zat_b57_den_of_the_bloodsucker_destroy_lair_name">
+		<text>블러드서커 소굴: 환기구를 찾아라.</text>
+	</string>
+
+	<string id="zat_b57_den_of_the_bloodsucker_destroy_lair_text">
+		<text>환기구를 찾아서 블러드서커 소굴에 독가스를 살포해야 한다.</text>
+	</string>
+
+	<string id="zat_b57_den_of_the_bloodsucker_find_gas_name">
+		<text>블러드서커 소굴: 독가스를 찾아라.</text>
+	</string>
+
+	<string id="zat_b57_den_of_the_bloodsucker_find_gas_text">
+		<text>블러드서커 소굴을 처리하려면 독가스가 필요하다. 아울이 독가스를 구할 장소를 아는 모양이다.</text>
+	</string>
+
+	<string id="zat_b57_den_of_the_bloodsucker_find_gas_text_2">
+		<text>블러드서커 소굴을 처리하려면 독가스가 필요하다. 아울의 말로는 버려진 군용 호송차량에 가스통이 있다고 한다.</text>
+	</string>
+
+	<string id="zat_b57_den_of_the_bloodsucker_get_gas_name">
+		<text>블러드서커 소굴: 컨테이너 열쇠를 찾아라.</text>
+	</string>
+
+	<string id="zat_b57_den_of_the_bloodsucker_get_gas_text">
+		<text>찾아낸 문서에서 가스통 컨테이너 열쇠에 대한 얘기가 나왔다. 해당 열쇠를 찾아야 한다.</text>
+	</string>
+
+	<string id="zat_b57_den_of_the_bloodsucker_open_gas_box_name">
+		<text>블러드서커 소굴: 가스통 컨테이너를 열 방법을 찾아라.</text>
+	</string>
+
+	<string id="zat_b57_den_of_the_bloodsucker_open_gas_box_text">
+		<text>가스통이 담긴 컨테이너가 잠겨 있다. 열 방법을 찾아야 한다.</text>
+	</string>
+
+	<string id="zat_b57_den_of_the_bloodsucker_place_gas_name">
+		<text>블러드서커 소굴: 가스통을 옮겨라.</text>
+	</string>
+
+	<string id="zat_b57_den_of_the_bloodsucker_place_gas_text">
+		<text>안테나 단지 지하의 환기 시스템으로 가스통을 옮겨야 한다. 가스가 환풍구를 통해 지하 전체로 퍼지게 될 것이다. 그러면 블러드서커를 전부 처리할 수 있게 된다.</text>
+	</string>
+
+	<string id="zat_b57_den_of_the_bloodsucker_tell_stalkers_about_destroy_lair_name">
+		<text>블러드서커 소굴: 비어드에게 소굴이 정리됐다고 알려라.</text>
+	</string>
+
+	<string id="zat_b57_den_of_the_bloodsucker_tell_stalkers_about_destroy_lair_text">
+		<text>비어드에게 블러드서커 소굴이 정리됐다고 알려야 한다. 이제 스카도프스크의 스토커들은 안전해졌다.</text>
+	</string>
+
+	<string id="zat_b57_den_of_the_bloodsucker_twist_vintil_name">
+		<text>블러드서커 소굴: 밸브를 돌려라.</text>
+	</string>
+
+	<string id="zat_b57_den_of_the_bloodsucker_twist_vintil_text">
+		<text>밸브를 돌려야 한다. 그러면 환기구를 통해 블러드서커 소굴이 위치한 지하실에 독가스가 퍼질 것이다.</text>
+	</string>
+
+	<string id="zat_b57_den_of_the_bloodsucker_wait_destroy_name">
+		<text>블러드서커 소굴: 가스의 효과가 나타날 때까지 기다려라.</text>
+	</string>
+
+	<string id="zat_b57_den_of_the_bloodsucker_wait_destroy_text">
+		<text>가스가 블러드서커 소굴을 확실히 채웠으며, 블러드서커가 전부 죽었는지 확인해야 한다.</text>
+	</string>
+
+	<string id="zat_b5_come_to_bandits_name">
+		<text>거래: 밴디트를 산림 관리소에서 만나라.</text>
+	</string>
+
+	<string id="zat_b5_come_to_bandits_text">
+		<text>술탄이 너 보고 상인하고 거래하는 거에 와달라고 해. 상인을 따라다니면서 무슨 일이 생기면 보호해 주면 되는 거야.</text>
+	</string>
+
+	<string id="zat_b5_come_to_dealer_name">
+		<text>거래: 상인과 대화하라.</text>
+	</string>
+
+	<string id="zat_b5_come_to_dealer_text">
+		<text>아울이 일거리를 제안했다. 거래가 진행되는 동안 상인을 보호하면 된다. 위험한 거래 같으니 최악의 상황을 대비해야 한다.</text>
+	</string>
+
+	<string id="zat_b5_come_to_stalkers_name">
+		<text>거래: 스토커를 산림 관리소에서 만나라.</text>
+	</string>
+
+	<string id="zat_b5_come_to_stalkers_text">
+		<text>산림 관리소에서 스토커를 만난 다음, 밴디트하고 무기 상인의 거래를 방해하도록 도와야 한다.</text>
+	</string>
+
+	<string id="zat_b5_cover_dealer_name">
+		<text>거래: 상인을 보호하라.</text>
+	</string>
+
+	<string id="zat_b5_cover_dealer_text">
+		<text>상인이 어떻게 하면 되는지 설명해 줬다. 거래하는 동안 상인을 지키면 된다.</text>
+	</string>
+
+	<string id="zat_b5_intercept_talking_name">
+		<text>거래: 대화를 엿들어라.</text>
+	</string>
+
+	<string id="zat_b5_intercept_talking_text">
+		<text>스토커들이 밴디트들과 무기 상인 간의 대화를 엿듣고 싶어 한다.</text>
+	</string>
+
+	<string id="zat_b5_kill_dealer_name">
+		<text>거래: 무기 거래를 방해하라.</text>
+	</string>
+
+	<string id="zat_b5_kill_dealer_text">
+		<text>밴디트들과 무기 상인의 거래를 어떻게든 방해해야 한다.</text>
+	</string>
+
+	<string id="zat_b5_kill_stalkers_name">
+		<text>거래: 목격자를 처치하라.</text>
+	</string>
+
+	<string id="zat_b5_kill_stalkers_text">
+		<text>상인의 거래가 실패했으니 목격자를 처리해야 한다.</text>
+	</string>
+
+	<string id="zat_b5_protect_dealer_name">
+		<text>거래: 상인을 보호하라.</text>
+	</string>
+
+	<string id="zat_b5_protect_dealer_text">
+		<text>상인을 보호해야 한다. 게다가 상인이 자기 의뢰자를 비롯한 모든 목격자를 처치하라고 명령했다.</text>
+	</string>
+
+	<string id="zat_b5_search_body_name">
+		<text>거래: 상인을 수색하라.</text>
+	</string>
+
+	<string id="zat_b5_search_body_text">
+		<text>상인에게 언젠가 쓸만한 핵심 정보가 있을 수도 있다. 갖고 있는 물건을 가져가자.</text>
+	</string>
+
+	<string id="zat_b5_secure_bandits_name">
+		<text>거래: 거래가 진행되는 동안 밴디트를 보호하라.</text>
+	</string>
+
+	<string id="zat_b5_secure_bandits_text">
+		<text>밴디트들이 상인하고 거래하는 동안 경호원이 되어 보호해야 한다.</text>
+	</string>
+
+	<string id="zat_b5_speak_dealer_name">
+		<text>거래: 상인과 대화하라.</text>
+	</string>
+
+	<string id="zat_b5_speak_dealer_text">
+		<text>밴디트 측과 거래를 마쳤다. 이제 보상을 챙기자.</text>
+	</string>
+
+	<string id="zat_b5_talk_barmen_name">
+		<text>거래: 비어드로부터 보상을 챙겨라.</text>
+	</string>
+
+	<string id="zat_b5_talk_barmen_text">
+		<text>비어드는 밴디트들과 상인의 거래를 방해하면 보상을 주겠다고 약속했다. 거래를 방해했으니 보상을 받을 수 있다.</text>
+	</string>
+
+	<string id="zat_b5_talk_to_sultan_name">
+		<text>거래: 밴디트 우두머리와 대화하라.</text>
+	</string>
+
+	<string id="zat_b5_talk_to_sultan_text">
+		<text>밴디트 우두머리에게 거래에 참여할 준비가 됐다고 얘기하자.</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_name">
+		<text>습격: 어떻게 할지 결정하라.</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_raiders_name">
+		<text>습격: 스토커를 공격하라.</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_stalkers_reward_name">
+		<text>습격: 보상을 챙겨라.</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_stalkers_reward_text">
+		<text>야영지 공격을 막아내는 데 성공했다. 스토커한테 가면 보상을 얻을 수 있다. 공격받을 것이라는 사실을 몰랐으면 스토커들이 피해를 더 많이 받았을 수도 있다.</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_text">
+		<text>스토커 무리가 밴디트로 변질하여 동료를 약탈하고 있다. 강도의 습격에 참여할지, 스토커를 도울지 결정해야 한다. 아니면 개입을 안 할 수도 있다.</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_wait_name">
+		<text>습격: 합의한 시간까지 대기하라.</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_time_name">
+		<text>습격: 적당한 시간을 기다려라.</text>
+	</string>
+
+	<string id="zat_b33_zaporojec_name">
+		<text>갈 수 없는 은닉처: 스낵에게 수납 공간을 전달하라.</text>
+	</string>
+
+	<string id="zat_b5_talk_stalkers_name">
+		<text>거래: 스토커 분대의 우두머리와 대화하라.</text>
+	</string>
+
+	<string id="zat_b5_talk_stalkers_text">
+		<text>거래를 방해하고 상인을 처치했다. 스토커 분대의 우두머리와 대화하자.</text>
+	</string>
+
+	<string id="zat_b38_disappearance_stalkers_tell_barmen_about_medic_name">
+		<text>사라진 스토커들: 스카도프스크에 있는 사람들에게 무슨 일이 있었는지 말하라.</text>
+	</string>
+
+	<string id="zat_b57_den_of_the_bloodsucker_open_container_text">
+		<text>찾아낸 열쇠로 컨테이너를 열고 독가스가 담긴 통을 꺼내야 한다.</text>
+	</string>
+
+	<string id="zat_b57_den_of_the_bloodsucker_open_container_name">
+		<text>블러드서커 소굴: 컨테이너에서 가스통을 획득하라.</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_backstab_name">
+		<text>습격: 강도를 공격하라.</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_backstab_text">
+		<text>강도를 뒤에서 공격하면 스토커가 방어하는 데 유리해질 것이다.</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_meet_name">
+		<text>습격: 강도를 만나라.</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_raiders_text">
+		<text>습격에 참여하여 스토커 야영지를 공격하라.</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_stalkers_name">
+		<text>습격: 강도와 합류하라.</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_stalkers_text">
+		<text>스토커들이 강도의 공격을 같이 막아달라고 제안했다. 강도와 합류하는 편이 낫다. 공격이 시작되면 안전하게 스토커를 뒤에서 공격할 수 있기 때문이다.</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_meet_text">
+		<text>강도들은 셰브첸코에서 대기 중이다. 스토커를 공격하려면 강도들을 만나야 한다.</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_wait_text">
+		<text>강도들과 만날 때까지 대기해야 한다. 강도들은 자정이 지나고 한창 어두울 때 스토커 야영지를 공격하고자 한다. 만나기로 한 장소는 셰브첸코다.</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_raiders_reward_name">
+		<text>습격: 전리품의 일부를 받아라.</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_raiders_reward_text">
+		<text>스토커에 대한 공격에 성공해서 전리품의 일부를 받을 수 있다.</text>
+	</string>
+
+	<string id="zat_b7_stalkers_raiders_time_text">
+		<text>강도들이 공격하느라 정신없는 시점을 찾아야 한다. 강도들을 뒤에서 공격하면 셰브첸코에 있는 스토커들을 도울 수 있다.</text>
+	</string>
+
+	<string id="zat_b30_sultan_task_8_name">
+		<text>은밀한 사업: 비어드 밑에서 일하라.</text>
+	</string>
+
+	<string id="zat_b30_sultan_task_8_text">
+		<text>비어드 밑에서 일하는 스토커의 프로토타입 탐지기를 빼앗으려면 일단 위장 진입을 해야 한다. 이러면 경쟁자들이 어디 있는지 알 수 있다.</text>
+	</string>
+
+	<string id="zat_b33_zaporojec_text_03">
+		<text>수납 공간을 주인에게 전달해야 한다.</text>
+	</string>
+
+	<string id="zat_b100_guide_maps_01_text">
+		<text>스팅레이 2 내장 컴퓨터 안에 자톤과 주피터 사이의 지역 지도가 있었다. 이 지도가 필요한 사람을 찾아야 한다.</text>
+	</string>
+
+	<string id="zat_b20_ask_a_stalkers_name">
+		<text>고원을 향해: 스토커들과 대화하라.</text>
+	</string>
+
+	<string id="zat_b20_ask_a_stalkers_text">
+		<text>고원으로 바로 가는 길이 없어 보인다. 주변 스토커들에게 다른 길이 있는지 물어보자.</text>
+	</string>
+
+	<string id="zat_b30_compass_to_barmen_task_give_text">
+		<text>노아가 준 아티팩트가 비어드가 찾던 나침반이다.</text>
+	</string>
+
+</string_table>

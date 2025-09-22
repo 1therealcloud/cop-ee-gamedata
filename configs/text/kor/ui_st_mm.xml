@@ -1,0 +1,1416 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ui_mm_crouch_toggle">
+		<text>앉기/서기 모드</text>
+	</string>
+
+	<string id="ui_mm_restore_default_settings">
+		<text>기본 설정으로 돌아가시겠습니까?</text>
+	</string>
+
+	<string id="ui_mainmenu_autosave">
+		<text>자동 저장 - </text>
+	</string>
+
+	<string id="ui_mainmenu_manualsave">
+		<text>수동 저장 - </text>
+	</string>
+
+	<string id="ui_mainmenu_quicksave">
+		<text>빠른 저장 - </text>
+	</string>
+
+	<string id="ui_mm_frame_limit">
+		<text>프레임 제한</text>
+	</string>
+
+	<string id="st_opt_unlimited">
+		<text>무제한</text>
+	</string>
+
+	<string id="ui_mm_sprint_toggle">
+		<text>달리기 전환</text>
+	</string>
+
+	<string id="mp_close_combat">
+		<text>컨테이너 창고</text>
+	</string>
+
+	<string id="ui_mm_invert_mouse">
+		<text>마우스 반전</text>
+	</string>
+
+	<string id="mp_military_1">
+		<text>군대 창고</text>
+	</string>
+
+	<string id="st_display_mode_windowed">
+		<text>창 모드</text>
+	</string>
+
+	<string id="st_display_mode_borderless">
+		<text>테두리 없는 창 모드</text>
+	</string>
+
+	<string id="ui_mm_autoaim_enable">
+		<text>사격 보조 활성화</text>
+	</string>
+
+	<string id="ui_mm_autoaim_enabletracking">
+		<text>사격 보조 추적 활성화</text>
+	</string>
+
+	<string id="ui_mm_autoaim_strength">
+		<text>사격 보조 강도</text>
+	</string>
+
+	<string id="ui_mm_gyroscope_enable">
+		<text>자이로 센서 활성화</text>
+		<text_ps4>모션 센서 활성화</text_ps4>
+	</string>
+	<string id="ui_mm_gyroscope_sens_h">
+		<text>자이로 센서 수평 민감도</text>
+		<text_ps4>모션 센서 수평 민감도</text_ps4>
+	</string>
+	<string id="ui_mm_gyroscope_sens_v">
+		<text>자이로 센서 수직 민감도</text>
+		<text_ps4>모션 센서 수직 민감도</text_ps4>
+	</string>
+	<string id="ui_mm_gyro_smoothing">
+		<text>자이로 센서 평활화 활성화</text>
+		<text_ps4>모션 센서 평활화 활성화</text_ps4>
+	</string>
+	<string id="ui_mm_gyro_onlyaim">
+		<text>조준 시에만 자이로 센서 활성화</text>
+		<text_ps4>조준 시에만 모션 센서 활성화</text_ps4>
+	</string>
+	<string id="ui_mm_gyro_smooth_threshold2">
+		<text>자이로 센서 스테딩</text>
+		<text_ps4>모션 센서 스테딩</text_ps4>
+	</string>
+	<string id="ui_mm_gyro_invertH">
+		<text>자이로 센서 축 수평 반전</text>
+		<text_ps4>모션 센서 축 수평 반전</text_ps4>
+	</string>
+	<string id="ui_mm_gyro_invertV">
+		<text>자이로 센서 축 수직 반전</text>
+		<text_ps4>모션 센서 축 수직 반전</text_ps4>
+	</string>
+
+
+	<string id="ui_mm_fov">
+		<text>시야</text>
+	</string>
+
+	<string id="ui_mm_challenges">
+		<text>도전 과제</text>
+	</string>
+
+	<string id="ui_mm_display_mode">
+		<text>표시 모드</text>
+	</string>
+
+	<string id="ui_mm_overwrite_save">
+		<text>기존 세이브가 삭제되고 덮어 씌워집니다. 계속하시겠습니까?</text>
+	</string>
+
+	<string id="Clear">
+		<text>맑음</text>
+	</string>
+
+	<string id="Cloudy">
+		<text>흐림</text>
+	</string>
+
+	<string id="Default">
+		<text>중간</text>
+	</string>
+
+	<string id="Extreme">
+		<text>최대</text>
+	</string>
+
+	<string id="High">
+		<text>높음</text>
+	</string>
+
+	<string id="Low">
+		<text>낮음</text>
+	</string>
+
+	<string id="Minimum">
+		<text>최소</text>
+	</string>
+
+	<string id="Night">
+		<text>야간</text>
+	</string>
+
+	<string id="Rain">
+		<text>비</text>
+	</string>
+
+	<string id="game type">
+		<text>게임 유형</text>
+	</string>
+
+	<string id="gd_master">
+		<text>마스터</text>
+	</string>
+
+	<string id="gd_novice">
+		<text>신병</text>
+	</string>
+
+	<string id="gd_veteran">
+		<text>베테랑</text>
+	</string>
+
+	<string id="icon">
+		<text>아이콘</text>
+	</string>
+
+	<string id="map">
+		<text>지도</text>
+	</string>
+
+	<string id="mm_mp_actret_time">
+		<text>활성화에 의해 반환</text>
+	</string>
+
+	<string id="mm_mp_allowvoting">
+		<text>투표 허용</text>
+	</string>
+
+	<string id="mm_mp_anomalytime">
+		<text>이상 현상 시간 (분)</text>
+	</string>
+
+	<string id="mm_mp_artefactcapture">
+		<text>아티팩트 획득</text>
+	</string>
+
+	<string id="mm_mp_artefdelay">
+		<text>아티팩트 지연</text>
+	</string>
+
+	<string id="mm_mp_artefnum">
+		<text>아티팩트 수</text>
+	</string>
+
+	<string id="mm_mp_artefstay">
+		<text>아티팩트 시간</text>
+	</string>
+
+	<string id="mm_mp_artret_time">
+		<text>아티팩트 반환</text>
+	</string>
+
+	<string id="mm_mp_autoteambalance">
+		<text>자동 팀 밸런스</text>
+	</string>
+
+	<string id="mm_mp_autoteamswap">
+		<text>자동 팀 교체</text>
+	</string>
+
+	<string id="mm_mp_avail_maps">
+		<text>사용 가능 지도</text>
+	</string>
+
+	<string id="mm_mp_cancel">
+		<text>취소</text>
+	</string>
+
+	<string id="mm_mp_cd_key">
+		<text>CD 키</text>
+	</string>
+
+	<string id="mm_mp_check_cdkey">
+		<text>CD 키 확인</text>
+	</string>
+
+	<string id="mm_mp_client">
+		<text>클라이언트</text>
+	</string>
+
+	<string id="mm_mp_create">
+		<text>생성</text>
+	</string>
+
+	<string id="mm_mp_damageblock">
+		<text>무적 (초)</text>
+	</string>
+
+	<string id="mm_mp_damageblockindicator">
+		<text>무적 표시기</text>
+	</string>
+
+	<string id="mm_mp_deaths">
+		<text>사망</text>
+	</string>
+
+	<string id="mm_mp_dedicated">
+		<text>전용</text>
+	</string>
+
+	<string id="mm_mp_demo_play_list">
+		<text>데모 목록</text>
+	</string>
+
+	<string id="mm_mp_demo_play_players_stats">
+		<text>플레이어 통계</text>
+	</string>
+
+	<string id="mm_mp_demosave">
+		<text>데모 기록</text>
+	</string>
+
+	<string id="mm_mp_demosave_options">
+		<text>데모 기록 중</text>
+	</string>
+
+	<string id="mm_mp_empty">
+		<text>빈 방</text>
+	</string>
+
+	<string id="mm_mp_filters">
+		<text>필터</text>
+	</string>
+
+	<string id="mm_mp_forcerespawn">
+		<text>강제 리스폰 (초)</text>
+	</string>
+
+	<string id="mm_mp_fraglimit">
+		<text>처치 제한</text>
+	</string>
+
+	<string id="mm_mp_frags">
+		<text>처치</text>
+	</string>
+
+	<string id="mm_mp_freezetime">
+		<text>지연 시간</text>
+	</string>
+
+	<string id="mm_mp_friendlyfire">
+		<text>아군 피해</text>
+	</string>
+
+	<string id="mm_mp_friendlyindicators">
+		<text>아군 표시기</text>
+	</string>
+
+	<string id="mm_mp_friendlynames">
+		<text>아군 이름</text>
+	</string>
+
+	<string id="mm_mp_full">
+		<text>가득 참</text>
+	</string>
+
+	<string id="mm_mp_gamemode">
+		<text>모드</text>
+	</string>
+
+	<string id="mm_mp_host_port">
+		<text>IP/host:port</text>
+	</string>
+
+	<string id="mm_mp_internet">
+		<text>인터넷</text>
+	</string>
+
+	<string id="mm_mp_join">
+		<text>연결됨</text>
+	</string>
+
+	<string id="mm_mp_lan">
+		<text>LAN</text>
+	</string>
+
+	<string id="mm_mp_listenservers">
+		<text>리슨</text>
+	</string>
+
+	<string id="mm_mp_load_demo">
+		<text>반복</text>
+	</string>
+
+	<string id="mm_mp_mapratation">
+		<text>지도 목록</text>
+	</string>
+
+	<string id="mm_mp_maxplayers">
+		<text>플레이어 제한</text>
+	</string>
+
+	<string id="mm_mp_network_connection">
+		<text>네트워크 연결</text>
+	</string>
+
+	<string id="mm_mp_noanomalies">
+		<text>이상 현상 없음</text>
+	</string>
+
+	<string id="mm_mp_options">
+		<text>옵션</text>
+	</string>
+
+	<string id="mm_mp_password">
+		<text>비밀번호</text>
+	</string>
+
+	<string id="mm_mp_player_name">
+		<text>플레이어 이름:</text>
+	</string>
+
+	<string id="mm_mp_players">
+		<text>플레이어</text>
+	</string>
+
+	<string id="mm_mp_players_count">
+		<text>플레이어 수</text>
+	</string>
+
+	<string id="mm_mp_publicserver">
+		<text>인터넷 서버</text>
+	</string>
+
+	<string id="mm_mp_quickrefresh">
+		<text>빠른 새로고침</text>
+	</string>
+
+	<string id="mm_mp_rateofchange">
+		<text>계수 변경</text>
+	</string>
+
+	<string id="mm_mp_refresh">
+		<text>전부 새로고침</text>
+	</string>
+
+	<string id="mm_mp_reinforcement">
+		<text>증원군 (초)</text>
+	</string>
+
+	<string id="mm_mp_respawnoptions">
+		<text>리스폰 옵션</text>
+	</string>
+
+	<string id="mm_mp_sel_maps">
+		<text>선택한 지도</text>
+	</string>
+
+	<string id="mm_mp_server">
+		<text>서버</text>
+	</string>
+
+	<string id="mm_mp_server_list">
+		<text>서버 목록</text>
+	</string>
+
+	<string id="mm_mp_server_prop">
+		<text>서버 속성</text>
+	</string>
+
+	<string id="mm_mp_serverinfo">
+		<text>서버 정보</text>
+	</string>
+
+	<string id="mm_mp_serverlist">
+		<text>서버</text>
+	</string>
+
+	<string id="mm_mp_servername">
+		<text>서버 이름</text>
+	</string>
+
+	<string id="mm_mp_serversettings">
+		<text>서버 설정</text>
+	</string>
+
+	<string id="mm_mp_spectator">
+		<text>관전자</text>
+	</string>
+
+	<string id="mm_mp_spectator_firsteye">
+		<text>1인칭</text>
+	</string>
+
+	<string id="mm_mp_spectator_freefly">
+		<text>자유 카메라</text>
+	</string>
+
+	<string id="mm_mp_spectator_freelook">
+		<text>자유 고정</text>
+	</string>
+
+	<string id="mm_mp_spectator_lookat">
+		<text>3인칭</text>
+	</string>
+
+	<string id="mm_mp_spectator_options">
+		<text>관전자 설정</text>
+	</string>
+
+	<string id="mm_mp_spectator_teamonly">
+		<text>팀 전용</text>
+	</string>
+
+	<string id="mm_mp_startweather">
+		<text>초반 날씨</text>
+	</string>
+
+	<string id="mm_mp_team_stats">
+		<text>점수</text>
+	</string>
+
+	<string id="mm_mp_timelimit">
+		<text>시간 제한 (분)</text>
+	</string>
+
+	<string id="mm_mp_warmuptime">
+		<text>준비 시간 (초)</text>
+	</string>
+
+	<string id="mm_mp_weatheroptions">
+		<text>날씨 옵션</text>
+	</string>
+
+	<string id="mm_mp_withoutfriendlyfire">
+		<text>아군 사격 없음</text>
+	</string>
+
+	<string id="mm_mp_withoutpassword">
+		<text>비밀번호 없음</text>
+	</string>
+
+	<string id="mm_mp_withoutpunkbuster">
+		<text>PunkBuster 없음</text>
+	</string>
+
+	<string id="mm_mp_withpassword">
+		<text>비밀번호 있음</text>
+	</string>
+
+	<string id="mm_offline_mode">
+		<text>LAN</text>
+	</string>
+
+	<string id="mm_online_mode">
+		<text>인터넷</text>
+	</string>
+
+	<string id="mp_agroprom">
+		<text>농공단지 공장</text>
+	</string>
+
+	<string id="mp_atp">
+		<text>차량 정비소</text>
+	</string>
+
+	<string id="mp_bath">
+		<text>수영장</text>
+	</string>
+
+	<string id="mp_change_unick_success">
+		<text>고유 이름 변경 성공!</text>
+	</string>
+
+	<string id="mp_darkvalley">
+		<text>검은 계곡</text>
+	</string>
+
+	<string id="mp_factory">
+		<text>얀타 공장</text>
+	</string>
+
+	<string id="mp_gamespy_atlas_error">
+		<text>통계 서버 연결 오류</text>
+	</string>
+
+	<string id="mp_gamespy_ws_login_error">
+		<text>서버 로그인 연결 오류</text>
+	</string>
+
+	<string id="mp_login_success">
+		<text>인증 성공</text>
+	</string>
+
+	<string id="mp_lost_village">
+		<text>황량한 마을</text>
+	</string>
+
+	<string id="mp_nick_name_not_valid">
+		<text>잘못된 이름</text>
+	</string>
+
+	<string id="mp_pool">
+		<text>수영장</text>
+	</string>
+
+	<string id="mp_railroad">
+		<text>철도역</text>
+	</string>
+
+	<string id="mp_rostok">
+		<text>로스토크 공장</text>
+	</string>
+
+	<string id="mp_unique_nick_not_valid">
+		<text>잘못된 고유 이름</text>
+	</string>
+
+	<string id="mp_want_to_delete_demo">
+		<text>제거하시겠습니까? -</text>
+	</string>
+
+	<string id="mp_workshop">
+		<text>황폐한 공장</text>
+	</string>
+
+	<string id="ping">
+		<text>핑</text>
+	</string>
+
+	<string id="players">
+		<text>플레이어</text>
+	</string>
+
+	<string id="renderer_r1">
+		<text>스태틱 라이팅</text>
+	</string>
+
+	<string id="renderer_r2">
+		<text>풀 다이내믹 라이팅</text>
+	</string>
+
+	<string id="renderer_r2.5">
+		<text>인핸스드 풀 다이내믹 라이팅</text>
+	</string>
+
+	<string id="renderer_r2a">
+		<text>오브젝트 다이내믹 라이팅</text>
+	</string>
+
+	<string id="renderer_r3">
+		<text>인핸스드 풀 다이내믹 라이팅 (DX10)</text>
+	</string>
+
+	<string id="server name">
+		<text>서버 이름</text>
+	</string>
+
+	<string id="st_artefacthunt">
+		<text>아티팩트 사냥</text>
+	</string>
+
+	<string id="st_capture_the_artefact">
+		<text>아티팩트 획득</text>
+	</string>
+
+	<string id="st_deathmatch">
+		<text>난전</text>
+	</string>
+
+	<string id="st_mp_gsfilter">
+		<text>필터:</text>
+	</string>
+
+	<string id="st_opt_high">
+		<text>높음</text>
+	</string>
+
+	<string id="st_opt_low">
+		<text>낮음</text>
+	</string>
+
+	<string id="st_opt_medium">
+		<text>중간</text>
+	</string>
+
+	<string id="st_opt_off">
+		<text>비활성화</text>
+	</string>
+
+	<string id="st_rank_experienced">
+		<text>숙련자</text>
+	</string>
+
+	<string id="st_rank_legend">
+		<text>전설 스토커</text>
+	</string>
+
+	<string id="st_rank_novice">
+		<text>신병</text>
+	</string>
+
+	<string id="st_rank_professional">
+		<text>전문가</text>
+	</string>
+
+	<string id="st_rank_veteran">
+		<text>베테랑</text>
+	</string>
+
+	<string id="st_team_deathmatch">
+		<text>팀 플레이</text>
+	</string>
+
+	<string id="ui_mm_60_hz">
+		<text>주파수 60Hz</text>
+	</string>
+
+	<string id="ui_mm_action">
+		<text>행동</text>
+	</string>
+
+	<string id="ui_mm_advanced">
+		<text>고급</text>
+	</string>
+
+	<string id="ui_mm_alternative">
+		<text>대안</text>
+	</string>
+
+	<string id="ui_mm_anisotropic">
+		<text>비등방성 필터링</text>
+	</string>
+
+	<string id="ui_mm_apply">
+		<text>적용</text>
+	</string>
+
+	<string id="ui_mm_back">
+		<text>뒤로</text>
+	</string>
+
+	<string id="ui_mm_blood">
+		<text>혈흔</text>
+	</string>
+
+	<string id="ui_mm_brightness">
+		<text>밝기</text>
+	</string>
+
+	<string id="ui_mm_cancel">
+		<text>취소</text>
+	</string>
+
+	<string id="ui_mm_check_updates">
+		<text>게임 업데이트</text>
+	</string>
+
+	<string id="ui_mm_contrast">
+		<text>대비</text>
+	</string>
+
+	<string id="ui_mm_controls">
+		<text>조작</text>
+	</string>
+
+	<string id="ui_mm_credits">
+		<text>제작진</text>
+	</string>
+
+	<string id="ui_mm_crosshair_distance">
+		<text>조준점 거리 표시</text>
+	</string>
+
+	<string id="ui_mm_default">
+		<text>기본</text>
+	</string>
+	
+	<string id="legend_ui_default">
+		<text>$$ACTION_UI_ACTION_1$$ 기본</text>
+	</string>
+
+	<string id="ui_mm_delete">
+		<text>삭제</text>
+	</string>
+
+	<string id="ui_mm_delete_existing_file_q">
+		<text>이 파일을 삭제하시겠습니까?</text>
+	</string>
+
+	<string id="ui_mm_detail_density">
+		<text>잔디 세부 밀도</text>
+	</string>
+
+	<string id="ui_mm_difficulty">
+		<text>난이도</text>
+	</string>
+
+	<string id="ui_mm_disconnect">
+		<text>연결 해제</text>
+	</string>
+
+	<string id="ui_mm_disconnect_message">
+		<text>연결을 해제하시겠습니까?</text>
+	</string>
+
+	<string id="ui_mm_dof">
+		<text>피사계 심도</text>
+	</string>
+
+	<string id="ui_mm_dyn_crosshair">
+		<text>동적 조준점</text>
+	</string>
+
+	<string id="ui_mm_dynamic_music">
+		<text>동적 음악</text>
+	</string>
+
+	<string id="ui_mm_eax">
+		<text>EAX</text>
+	</string>
+
+	<string id="ui_mm_fullscreen">
+		<text>전체 화면</text>
+	</string>
+
+	<string id="ui_mm_gameplay">
+		<text>게임</text>
+	</string>
+
+	<string id="ui_mm_gamma">
+		<text>감마</text>
+	</string>
+
+	<string id="ui_mm_geometry_lod">
+		<text>오브젝트 디테일</text>
+	</string>
+
+	<string id="ui_mm_key">
+		<text>버튼</text>
+	</string>
+
+	<string id="ui_mm_keyboard_setup">
+		<text>키보드 설정</text>
+	</string>
+
+	<string id="ui_mm_last_save">
+		<text>마지막 저장</text>
+	</string>
+
+	<string id="ui_mm_light_distance">
+		<text>광원 거리</text>
+	</string>
+
+	<string id="ui_mm_load">
+		<text>불러오기</text>
+	</string>
+
+	<string id="ui_mm_load_game">
+		<text>게임 불러오기</text>
+	</string>
+
+	<string id="ui_mm_logout">
+		<text>프로필 종료</text>
+	</string>
+
+	<string id="ui_mm_master">
+		<text>마스터</text>
+	</string>
+
+	<string id="ui_mm_master_volume">
+		<text>효과음 볼륨</text>
+	</string>
+
+	<string id="ui_mm_mouse_sense">
+		<text>마우스 감도</text>
+	</string>
+
+	<string id="ui_mm_msaa_alphatest">
+		<text>알파 테스트 오브젝트 다듬기</text>
+	</string>
+
+	<string id="ui_mm_msaa_opt">
+		<text>다듬기 최적화</text>
+	</string>
+
+	<string id="ui_mm_multiplayer">
+		<text>멀티플레이</text>
+	</string>
+
+	<string id="ui_mm_multiplayer_n">
+		<text>멀티플레이</text>
+	</string>
+
+	<string id="ui_mm_music_volume">
+		<text>음악 볼륨</text>
+	</string>
+
+	<string id="ui_mm_need_restart">
+		<text>변경 사항은 게임을 다시 시작한 후 적용됩니다.</text>
+	</string>
+
+	<string id="ui_mm_network_game">
+		<text>멀티플레이</text>
+	</string>
+
+	<string id="ui_mm_newgame">
+		<text>새 게임</text>
+	</string>
+
+	<string id="ui_mm_novice">
+		<text>초보자</text>
+	</string>
+
+	<string id="ui_mm_npc_torch">
+		<text>NPC 손전등</text>
+	</string>
+
+	<string id="ui_mm_options">
+		<text>옵션</text>
+	</string>
+
+	<string id="ui_mm_options_n">
+		<text>옵션</text>
+	</string>
+
+	<string id="ui_mm_particles_distance">
+		<text>파티클 거리</text>
+	</string>
+
+	<string id="ui_mm_quality_presets">
+		<text>품질 설정</text>
+	</string>
+
+	<string id="ui_mm_quit2windows">
+		<text>윈도우로 나가기</text>
+	</string>
+
+	<string id="ui_mm_quit_game">
+		<text>게임 종료</text>
+	</string>
+
+	<string id="ui_mm_quit_game_message">
+		<text>게임을 종료하시겠습니까?</text>
+	</string>
+
+	<string id="ui_mm_quit_windows_message">
+		<text>윈도우로 나가시겠습니까?</text>
+	</string>
+
+	<string id="ui_mm_r2_detail_bump">
+		<text>디테일 범프</text>
+	</string>
+
+	<string id="ui_mm_r2_steep_parallax">
+		<text>스팁 패럴랙스</text>
+	</string>
+
+	<string id="ui_mm_r2_sun">
+		<text>태양 그림자</text>
+	</string>
+
+	<string id="ui_mm_r2_sun_details">
+		<text>잔디 그림자</text>
+	</string>
+
+	<string id="ui_mm_r2_sun_quality">
+		<text>태양 품질</text>
+	</string>
+
+	<string id="ui_mm_r3_DX10_1">
+		<text>DX10.1 사용</text>
+	</string>
+
+	<string id="ui_mm_r3_MSAA">
+		<text>전체 화면 다듬기</text>
+	</string>
+
+	<string id="ui_mm_r3_dynamic_wet_surfaces">
+		<text>젖은 표면</text>
+	</string>
+
+	<string id="ui_mm_r3_gbuffer_opt">
+		<text>지오메트릭 버퍼 최적화</text>
+	</string>
+
+	<string id="ui_mm_r3_volumetric_smoke">
+		<text>볼류메트릭 스모크</text>
+	</string>
+
+	<string id="ui_mm_render_2">
+		<text>Render 2</text>
+	</string>
+
+	<string id="ui_mm_renderer">
+		<text>렌더링 유형</text>
+	</string>
+
+	<string id="ui_mm_resolution">
+		<text>해상도</text>
+	</string>
+
+	<string id="ui_mm_return_game">
+		<text>게임으로 돌아가기</text>
+	</string>
+
+	<string id="ui_mm_save">
+		<text>저장</text>
+	</string>
+
+	<string id="ui_mm_save_game">
+		<text>게임 저장</text>
+	</string>
+	
+	<string id="ui_mm_show_crosshair">
+		<text>조준점 표시</text>
+	</string>
+
+	<string id="ui_mm_show_weapon">
+		<text>무기 표시</text>
+	</string>
+
+	<string id="ui_mm_simply">
+		<text>기본</text>
+	</string>
+
+	<string id="ui_mm_snd_device">
+		<text>사운드 장치</text>
+	</string>
+
+	<string id="ui_mm_soft_particles">
+		<text>부드러운 파티클</text>
+	</string>
+
+	<string id="ui_mm_soft_water">
+		<text>부드러운 물 표현</text>
+	</string>
+
+	<string id="ui_mm_sound">
+		<text>사운드</text>
+	</string>
+
+	<string id="ui_mm_sound_quality">
+		<text>사운드 품질</text>
+	</string>
+
+	<string id="ui_mm_stalker">
+		<text>스토커</text>
+	</string>
+
+	<string id="ui_mm_sun_quality">
+		<text>그림자 품질</text>
+	</string>
+
+	<string id="ui_mm_sun_shafts">
+		<text>태양 광선</text>
+	</string>
+
+	<string id="ui_mm_supersample">
+		<text>안티에일리어싱</text>
+	</string>
+
+	<string id="ui_mm_switch_torch">
+		<text>AI 손전등 사용</text>
+	</string>
+
+	<string id="ui_mm_texture_quality">
+		<text>텍스처 디테일</text>
+	</string>
+
+	<string id="ui_mm_texture_sharpness">
+		<text>텍스처 선명도 (밉맵 바이어스)</text>
+	</string>
+
+	<string id="ui_mm_texture_sharpness_note">
+		<text>더 높은 값을 설정한 경우, 아티팩트의 깜빡임 현상을 완화하기 위해 '네이티브'로 설정하시길 권합니다</text>
+	</string>
+
+	<string id="ui_mm_tips">
+		<text>NPC 신분 표시</text>
+	</string>
+
+	<string id="ui_mm_veteran">
+		<text>베테랑</text>
+	</string>
+
+	<string id="ui_mm_video">
+		<text>비디오</text>
+	</string>
+
+	<string id="ui_mm_vis_distance">
+		<text>시야 거리</text>
+	</string>
+
+	<string id="ui_mm_volumetric_light">
+		<text>볼류메트릭 라이트</text>
+	</string>
+
+	<string id="ui_mm_vsync">
+		<text>수직동기화</text>
+	</string>
+
+	<string id="ui_mp_gamespy_changing_unique_nick">
+		<text>고유 이름 변경</text>
+	</string>
+
+	<string id="ui_mp_gamespy_email_already_exist">
+		<text>이미 사용 중인 이메일입니다.</text>
+	</string>
+
+	<string id="ui_mp_internet">
+		<text>인터넷 사용</text>
+	</string>
+
+	<string id="ui_mp_localnet">
+		<text>LAN 사용</text>
+	</string>
+
+	<string id="ui_st_backstabks_in_row">
+		<text>백스텝</text>
+	</string>
+
+	<string id="ui_st_bleed_kills_in_row">
+		<text>출혈</text>
+	</string>
+
+	<string id="ui_st_explosive_kills_in_row">
+		<text>폭발</text>
+	</string>
+
+	<string id="ui_st_eye_kills_in_row">
+		<text>눈</text>
+	</string>
+
+	<string id="ui_st_headshots_in_row">
+		<text>머리</text>
+	</string>
+
+	<string id="ui_st_invalid_saved_game">
+		<text>저장 파일 버전이 게임 버전과 일치하지 않습니다.</text>
+	</string>
+
+	<string id="ui_st_kills_in_row">
+		<text>연속 처치</text>
+	</string>
+
+	<string id="ui_st_knife_kills_in_row">
+		<text>대검</text>
+	</string>
+
+	<string id="ui_st_last_set">
+		<text>이전 로드아웃</text>
+	</string>
+
+	<string id="ui_st_mp_local_network_login_page">
+		<text>멀티플레이 입장</text>
+	</string>
+
+	<string id="ui_st_mp_nickname">
+		<text>이름</text>
+	</string>
+
+	<string id="ui_st_mp_try_change">
+		<text>변경</text>
+	</string>
+
+	<string id="ui_st_preset1">
+		<text>로드아웃 1</text>
+	</string>
+
+	<string id="ui_st_preset2">
+		<text>로드아웃 2</text>
+	</string>
+
+	<string id="ui_st_preset3">
+		<text>로드아웃 3</text>
+	</string>
+
+	<string id="ui_st_reset">
+		<text>초기화</text>
+	</string>
+
+	<string id="ui_st_sell_all">
+		<text>전부 판매</text>
+	</string>
+
+	<string id="version">
+		<text>버전</text>
+	</string>
+
+	<string id="mp_pripyat">
+		<text>프리피야티</text>
+	</string>
+
+	<string id="ui_mm_important_save">
+		<text>자동 저장 중</text>
+	</string>
+
+	<string id="ui_mm_r1_detail_textures">
+		<text>세부 텍스처</text>
+	</string>
+
+	<string id="mm_mp_demo">
+		<text>영상</text>
+	</string>
+
+	<string id="ui_st_mp_login">
+		<text>입장</text>
+	</string>
+
+	<string id="ui_st_mp_logout">
+		<text>종료</text>
+	</string>
+
+	<string id="ui_st_mp_create">
+		<text>생성</text>
+	</string>
+
+	<string id="mp_gp_unknown_email_or_bad_password">
+		<text>잘못된 이메일 또는 비밀번호</text>
+	</string>
+
+	<string id="mp_gp_parameter_error">
+		<text>잘못된 프로필</text>
+	</string>
+
+	<string id="mp_gp_network_error">
+		<text>연결 오류</text>
+	</string>
+
+	<string id="mp_gp_server_error">
+		<text>현재 이용 불가능한 서버</text>
+	</string>
+
+	<string id="mp_gp_unknown_error_2">
+		<text>프로필 로그인 필요</text>
+	</string>
+
+	<string id="mp_gp_unknown_error_6">
+		<text>연결 오류</text>
+	</string>
+
+	<string id="mp_gp_unknown_error_7">
+		<text>연결 오류</text>
+	</string>
+
+	<string id="mp_gp_unknown_error_8">
+		<text>연결 오류</text>
+	</string>
+
+	<string id="mp_gp_unknown_error_513">
+		<text>잘못된 프로필 이름</text>
+	</string>
+
+	<string id="mp_gp_unknown_error_514">
+		<text>잘못된 비밀번호</text>
+	</string>
+
+	<string id="mp_gp_unknown_error_515">
+		<text>잘못된 고유 닉네임</text>
+	</string>
+
+	<string id="mp_gp_unknown_error_516">
+		<text>이미 사용 중인 고유 닉네임</text>
+	</string>
+
+	<string id="mp_first_need_to_login">
+		<text>프로필에 먼저 로그인해야 합니다</text>
+	</string>
+
+	<string id="mp_first_need_to_logout">
+		<text>프로필을 먼저 로그아웃해야 합니다</text>
+	</string>
+
+	<string id="mp_gamespy_http_error">
+		<text>프로필 서버 연결 오류</text>
+	</string>
+
+	<string id="ui_st_you_cannot_delete_profile_after_creation">
+		<text>생성한 후에는 프로필을 삭제할 수 없습니다.</text>
+	</string>
+
+	<string id="ui_mm_ssao_quality">
+		<text>SSAO 품질</text>
+	</string>
+
+	<string id="ui_mm_ssao_text">
+		<text>SSAO 모드</text>
+	</string>
+
+	<string id="ui_mm_ssao">
+		<text>기본</text>
+	</string>
+
+	<string id="ui_mm_hdao">
+		<text>HDAO</text>
+	</string>
+
+	<string id="ui_mm_hbao">
+		<text>HBAO</text>
+	</string>
+
+	<string id="ui_st_disable_hud">
+		<text>인터페이스 표시</text>
+	</string>
+
+	<string id="mp_gp_unique_nick_not_registred">
+		<text>고유 닉네임을 등록하지 않았습니다. 등록해 주세요.</text>
+	</string>
+
+	<string id="mp_gp_unique_nick_has_expired">
+		<text>고유 닉네임이 만료되었습니다. 다시 등록해 주세요.</text>
+	</string>
+
+	<string id="gd_stalker">
+		<text>스토커</text>
+	</string>
+
+	<string id="st_opt_extreme">
+		<text>최대</text>
+	</string>
+
+	<string id="renderer_r4">
+		<text>인핸스드 풀 다이내믹 라이팅 (DX11)</text>
+	</string>
+
+	<string id="mp_please_login">
+		<text>외부 서버에 연결하려면 로그인해야 합니다.</text>
+	</string>
+
+	<string id="mp_already_logged_in">
+		<text>현재 사용 중인 GameSpy ID입니다. 다른 GameSpy ID를 사용해 주세요.</text>
+	</string>
+
+	<string id="mp_gp_unknown_email">
+		<text>잘못된 이메일</text>
+	</string>
+
+	<string id="mp_gp_bad_password">
+		<text>잘못된 비밀번호</text>
+	</string>
+
+	<string id="mp_use_offline_mode">
+		<text>로컬 서버에 연결하기 위해 GameSpy ID를 사용할 수 없습니다. LAN 게임 모드를 사용해 주세요.</text>
+	</string>
+
+	<string id="st_kicked_by_server">
+		<text>서버에 의해 추방되었습니다.</text>
+	</string>
+
+	<string id="mp_you_have_been_banned_by">
+		<text>관리자에 의해 차단되었습니다:</text>
+	</string>
+
+	<string id="mp_you_have_been_banned_by_server">
+		<text>서버에 의해 차단되었습니다</text>
+	</string>
+
+	<string id="mp_server_info">
+		<text>서버 정보</text>
+	</string>
+
+	<string id="mp_gp_email_is_too_big">
+		<text>이메일 주소가 너무 깁니다. 최대 50자까지 입력할 수 있습니다.</text>
+	</string>
+
+	<string id="mp_gp_bad_email">
+		<text>잘못된 이메일</text>
+	</string>
+
+	<string id="mp_gp_password_is_too_small">
+		<text>비밀번호가 너무 짧습니다</text>
+	</string>
+
+	<string id="mp_gp_password_is_too_big">
+		<text>비밀번호가 너무 깁니다</text>
+	</string>
+
+	<string id="mp_gp_no_email">
+		<text>이메일을 찾을 수 업습니다</text>
+	</string>
+
+	<string id="mp_gp_no_unique_nick">
+		<text>설정된 고유 닉네임이 없습니다</text>
+	</string>
+
+	<string id="mp_gp_unique_nick_is_too_big">
+		<text>고유 닉네임이 너무 깁니다. 최대 30자까지 입력할 수 있습니다.</text>
+	</string>
+
+	<string id="mp_gp_unique_nick_must_contain_only">
+		<text>고유 닉네임에는 숫자, 로마자, 다음 특수 문자만 포함될 수 있습니다: "#$&amp;'()*+-./:;&lt;=>?@[]^_`{|}~</text>
+	</string>
+
+	<string id="mp_gp_unique_nick_must_contain_nospaces">
+		<text>고유 닉네임에는 공백이 포함될 수 없습니다</text>
+	</string>
+
+	<string id="mp_gp_unique_nick_bad_first_symbol">
+		<text>고유 닉네임은 숫자 또는 '@', '+', ':', ‘#’ 기호로 시작할 수 없습니다.</text>
+	</string>
+
+	<string id="st_opt_ultra">
+		<text>매우 높음</text>
+	</string>
+
+	<string id="ui_mm_r4_enable_tessellation">
+		<text>테셀레이션</text>
+	</string>
+
+	<string id="ui_mm_confirm_changes">
+		<text>변경 사항을 적용하시겠습니까? 모든 변경 사항이 취소될 때까지</text>
+	</string>
+
+	<string id="ui_mm_controlls_type">
+		<text>액션</text>
+	</string>
+	<string id="ui_pad_layout_select">
+		<text>선택</text>
+	</string>
+	<string id="ui_pad_layout_back">
+		<text>뒤로 가기</text>
+	</string>
+	<string id="ui_pad_layout_trade">
+		<text>거래</text>
+	</string>
+	<string id="ui_pad_layout_talk">
+		<text>대화하기</text>
+	</string>
+	<string id="ui_pad_layout_scroll_info">
+		<text>정보 스크롤</text>
+	</string>
+	<string id="ui_pad_layout_actions">
+		<text>액션</text>
+	</string>
+	<string id="ui_pad_layout_switch_area">
+		<text>구역 전환</text>
+	</string>
+	<string id="ui_pad_layout_wheelmenu_select">
+		<text>섹터 선택</text>
+	</string>
+	<string id="ui_pad_layout_fire_rate">
+		<text>사격 모드</text>
+	</string>
+	<string id="ui_pad_layout_drop">
+		<text>무기 버리기</text>
+	</string>
+	<string id="ui_pad_layout_grande_luncher">
+		<text>보조 무기</text>
+	</string>
+	<string id="ui_pad_layout_ammo_type">
+		<text>탄약 유형</text>
+	</string>
+	<string id="ui_pad_layout_night_vision">
+		<text>야간 투시경</text>
+	</string>
+	<string id="c_preset_cod_like">
+		<text>기본</text>
+	</string>
+	<string id="ui_pad_layout_reload_interact">
+		<text>재장전 / 액션</text>
+	</string>
+	<string id="ui_pad_layout_trade_upgrade">
+		<text>거래 / 업그레이드하기</text>
+	</string>
+	<string id="ui_pad_layout_inventory_info">
+		<text>정보</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ui_elua_licence0_type">
+	<text>__HEADER__</text>
+</string>
+	<string id="ui_elua_licence0">
+		<text>《浩劫殺陣：混沌召喚》強化版–使用者授權協議</text>
+	</string>
+	<string id="ui_elua_licence1_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence1">
+		<text>上次更新日期：2025 年 5 月 28 日</text>
+	</string>
+	<string id="ui_elua_licence2">
+		<text>您可以列印本《使用者授權協議》的任何部分，以供記錄和後續參閱之用。</text>
+	</string>
+	<string id="ui_elua_licence3_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence3">
+		<text>1. 關於本協議</text>
+	</string>
+	<string id="ui_elua_licence4">
+		<text>1.1. 本《使用者授權協議》（以下簡稱「協議」）是一份具有法律約束力的合約，規定了GSC Game World Global Ltd（以下簡稱「GSC」或「我們」）與您之間的關係。GSC註冊地址為：Leontiou A, 159, MARYVONNE BUILDING, Floor 4 & 5, Office 402, 3022, Limassol, Cyprus。</text>
+	</string>
+	<string id="ui_elua_licence5">
+		<text>本協議涵蓋了我們的遊戲《浩劫殺陣：混沌召喚》強化版（以下簡稱《浩劫殺陣》或「遊戲」），適用於以任何方式購買/取得的遊戲版本及內容，包括但不限於遊戲金鑰/遊戲代碼。</text>
+	</string>
+	<string id="ui_elua_licence6">
+		<text>1.2. 一旦您下載、安裝或實際遊玩《浩劫殺陣》（以先發生的事件為準），本協議就對您和我們具有約束力。如果您不同意，請勿下載、安裝或遊玩本遊戲。</text>
+	</string>
+	<string id="ui_elua_licence7">
+		<text>1.3. 以下文件是本協議的組成部分，是接受、下載、安裝或遊玩本遊戲的強制性要求：(a)《粉絲內容創作準則》(https://www.gsc-game.com/guidelines)，GSC始終歡迎各位玩家以我們的遊戲世界為基礎創作粉絲內容，此文件解釋了您在創作此類內容時應遵守的規定；(b)《GSC隱私權政策》(www.gsc-game.com/privacy_policy)，此文件詳細說明了GSC將如何收集、使用和保護您的個人資料。上述文件（統稱為「條款」）是本協議的一部分，並且可能會不時更新。此外，根據遊戲發佈平台的要求，您可能還需要接受和遵守該平台的條款和條件。</text>
+	</string>
+	<string id="ui_elua_licence8_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence8">
+		<text>2. 關於健康、年齡、內容的警告和限制</text>
+	</string>
+	<string id="ui_elua_licence9">
+		<text>2.1. 光敏性/癲癇警告。極少部分人在看到特定視覺圖像（包括但不限於光線圖案或快速閃爍的光效）時可能會出現癲癇發作或昏厥的症狀。如果您在遊戲過程中出現以下症狀，請立即停止遊戲，並在諮詢醫生後再決定是否繼續遊戲：昏厥、癲癇發作、頭暈、視覺改變、眼部或肌肉抽搐、手臂或腿部抽搐或顫抖、意識喪失、方向感缺失、精神錯亂、出現任何不自主的動作或抽搐。</text>
+	</string>
+	<string id="ui_elua_licence10">
+		<text>2.2.《浩劫殺陣》已通過遊戲年齡評級（例如，PEGI、ESRB），存在最低遊戲年齡限制。該年齡限制具體取決於您所在的地區而定，並將在您購買《浩劫殺陣》時顯示。只有當您的年齡超過規定的最低年齡時，您才可以玩《浩劫殺陣》。</text>
+	</string>
+	<string id="ui_elua_licence11">
+		<text>如果您已達到或超過最低年齡，並且屬於以下類別：</text>
+	</string>
+	<string id="ui_elua_licence12">
+		<text>i. 年滿或超過18足歲（或您所在司法管轄區的法定成年年齡），則您可以在接受本協議的情況下自由使用本遊戲。</text>
+	</string>
+	<string id="ui_elua_licence13">
+		<text>ii. 如果您的年齡介於17至18足歲（或您所在司法管轄區的法定成年年齡），則您的父母或監護人必須同意代您審查並接受本協議（因為部分司法管轄區限制未滿一定年齡的個人簽訂與本協議類似之具有法律約束力的協議）。此外，他們有責任監管您對《浩劫殺陣》的使用。</text>
+	</string>
+	<string id="ui_elua_licence14">
+		<text>iii. 如果您未滿17足歲或您所在司法管轄區規定的最低遊戲年齡，則您不得下載、遊玩或以其他方式使用《浩劫殺陣》。</text>
+	</string>
+	<string id="ui_elua_licence15">
+		<text>2.3.《浩劫殺陣》包含暴力、言語虐待、性、吸毒等內容，可能會令某些人感到不適。如果您對這些內容較為敏感，或者認為這些內容可能會對您產生誘導，請認真考慮這些因素後再開始玩本遊戲。</text>
+	</string>
+	<string id="ui_elua_licence16_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence16">
+		<text>3. 關於使用《浩劫殺陣》</text>
+	</string>
+	<string id="ui_elua_licence17">
+		<text>3.1. GSC向您授予有限的、可撤銷、非獨占、不可轉讓且不可分配的個人授權，供明確獲得GSC授權的您用於購買本遊戲的個人電腦、遊戲主機和/或其他裝置/平台上顯示、查看、下載、安裝、遊玩和使用《浩劫殺陣》（及其Mod，如適用）。此授權僅供您個人使用，不會向您提供任何形式的《浩劫殺陣》所有權。您無權向任何第三者轉授、出售、轉讓、贈送或以其他方式提供《浩劫殺陣》，或以商業方式使用《浩劫殺陣》。</text>
+	</string>
+	<string id="ui_elua_licence18_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence18">
+		<text>4. 最低系統要求及持續監控</text>
+	</string>
+	<string id="ui_elua_licence19">
+		<text>4.1.《浩劫殺陣》對系統有最低系統要求（取決於您的裝置/系統/平台而定），您可以在購買遊戲之前在《浩劫殺陣》網頁上查看這些要求。在購買遊戲之前，請務必確認您符合這些系統要求。</text>
+	</string>
+	<string id="ui_elua_licence20">
+		<text>4.2. 為了改善您的遊戲體驗，預防本協議禁止的行為，保護《浩劫殺陣》的完整性，以及在必要時強制執行本協議，我們可能會部署特定的軟體，並在您使用《浩劫殺陣》期間在您系統或相關裝置/週邊設備的背景執行該軟體。大多數此類軟體屬於可選項目，您可以允許或禁止我們部署這些軟體。如果我們需要使用任何強制性軟體工具，我們會事先通知您（透過遊戲內方式或與《浩劫殺陣》相關的其他資源）。如需有關此類軟體工具的其他資訊，請參閱我們的隱私權政策。</text>
+	</string>
+	<string id="ui_elua_licence21_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence21">
+		<text>5. 修補程式、更新和變更</text>
+	</string>
+	<string id="ui_elua_licence22">
+		<text>5.1. 我們在「現有」和「可用」的基礎上提供《浩劫殺陣》，這意味著遊戲可能會包含錯誤和錯誤代碼，這些問題可能會不時導致遊戲當機。GSC已盡力避免這種情況，但沒有任何軟體是完美無暇的。遊戲支援未必隨時可用，並且可能會在某個時間點中斷。</text>
+	</string>
+	<string id="ui_elua_licence23">
+		<text>5.2. GSC保留在今後對《浩劫殺陣》進行修復、更新或做出任何變更（新增或刪除功能、軟體除錯或調整遊戲平衡性）的權利（但沒有這項義務）。此類修補程式或變更將透過強制更新和/或自動更新進行部署。如果您未安裝此類更新，則有可能導致過期版本在將來無法使用。</text>
+	</string>
+	<string id="ui_elua_licence24_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence24">
+		<text>6. 智慧財產權</text>
+	</string>
+	<string id="ui_elua_licence25">
+		<text>6.1.《浩劫殺陣》及其所有結構要素，包括但不限於其視覺元素、角色、情節、美工、動畫、設計、素材、音樂、音效、對話、圖像、電腦程式碼、使用者介面、視覺和操作風格、遊戲機制、玩法、視聽元素、文本內容、佈局、資料庫、資料和所有其他材料，以及與之相關的任何智慧財產權（如下文所定義）和所有其他法律權利及與之相關的利用權，均屬於GSC擁有的權利或者我們經第三方合法授權獲得的權利。GSC保留關於《浩劫殺陣》的一切權利，除非本協議另有明確說明。您無權使用或利用《浩劫殺陣》任何方面的資源，除非本協議另有規定且此類行為遵守我們的《粉絲內容創作準則》。《浩劫殺陣》及其智慧財產權在全球範圍內受到版權、商標和其他智慧財產權法律的保護。</text>
+	</string>
+	<string id="ui_elua_licence26">
+		<text>「智慧財產權」係指任何及所有的版權、商標、服務標章、徽標、商業外觀、商譽、裝飾、品牌名稱、企業名稱或網域名稱、設計權、裝飾權、資料庫權、角色權、專利、發明權、專有技術、商業秘密和機密資訊、電腦軟體權（包括原始程式碼和目標程式碼）、道德權利、著作權、公開發表權、表演權、同步權、機械權、出版權、出租權、出借權、傳輸權以及其他現在或將來可能存在於世界各地的類似或具有相應性質的智慧財產權和利用權，無論是否已註冊或可註冊，包括所有已獲核准的申請，以及與前述任一項有關的所有註冊、分割、延續、再發行、續展、延期、恢復和歸還申請。</text>
+	</string>
+	<string id="ui_elua_licence27">
+		<text>在本協議終止後，本節規定依然有效。</text>
+	</string>
+	<string id="ui_elua_licence28_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence28">
+		<text>7. 使用條款</text>
+	</string>
+	<string id="ui_elua_licence29">
+		<text>7.1. 您未被授予《浩劫殺陣》的商業使用授權，只擁有個人使用授權，除非出於特定原因在本協議的任一部分中另有說明。</text>
+	</string>
+	<string id="ui_elua_licence30">
+		<text>7.2. 本協議明確禁止您複製、租賃、買賣、出借、分享、贈予、出租、轉授、轉讓、分發、發佈或公開展示《浩劫殺陣》或您在本協議下擁有的任何權利，除非在本協議中另有明確的授權說明。</text>
+	</string>
+	<string id="ui_elua_licence31">
+		<text>7.3. 本協議明確禁止您建立、使用、授權使用、轉授、提供和/或分發可能應用於《浩劫殺陣》的作弊軟體。作弊軟體包括漏洞利用、自動化軟體、機器人、駭客、爬蟲、間諜軟體、指令碼、訓練器、擷取工具，或其他可能以未經GSC授權的方式與《浩劫殺陣》互動或對其產生影響的軟體，包括在未經授權的情況下讀取《浩劫殺陣》用於儲存資訊的記憶體區域以收集資訊的第三方程式。</text>
+	</string>
+	<string id="ui_elua_licence32">
+		<text>7.4. 本協議禁止您修改、合併、分發、翻譯或者嘗試獲取或使用《浩劫殺陣》的原始程式碼，或者反編譯或反彙編《浩劫殺陣》，或對其進行逆向工程，除非您擁有適用法律的特別授權。</text>
+	</string>
+	<string id="ui_elua_licence33">
+		<text>7.5. 本協議禁止您中斷或干擾GSC的客戶支援或技術支援服務，或者冒充其工作人員。</text>
+	</string>
+	<string id="ui_elua_licence34">
+		<text>7.6. 本協議禁止您從《浩劫殺陣》攔截、挖掘或以其他方式收集個人或任何機密資料或資訊。</text>
+	</string>
+	<string id="ui_elua_licence35">
+		<text>7.7. 本協議禁止您透過隧道技術、程式碼注入或插入、拒絕服務、修改或更改軟體，借助協議模擬將任何其他類似軟體與我們的軟體一起使用，或者透過建立或使用私人伺服器或與GSC或本遊戲相關的任何類似服務，來惡意干擾、破壞或存取我們或第三方網路軟體或伺服器的受限區域。</text>
+	</string>
+	<string id="ui_elua_licence36">
+		<text>7.8. 本協議禁止您執行任何可能侵犯GSC的版權、商標、專利、商業機密、隱私權、宣傳權或其他權利的操作。</text>
+	</string>
+	<string id="ui_elua_licence37">
+		<text>7.9. 本協議禁止您上傳包含任何惡意程式碼的檔案，包括病毒、間諜軟體、特洛伊木馬、蠕蟲、定時炸彈、故意損壞的資料，以及任何其他包含惡意程式碼或以任何方式損害或干擾《浩劫殺陣》的檔案。</text>
+	</string>
+	<string id="ui_elua_licence38">
+		<text>7.10. 本協議禁止您以可能會被視為種族主義、騷擾、排外、性別歧視、歧視、辱駡、誹謗或以其他形式冒犯他人或違法的方式，建立任何內容或使用《浩劫殺陣》。</text>
+	</string>
+	<string id="ui_elua_licence39">
+		<text>7.11. 本協議禁止您刪除遊戲上的任何專有聲明或標籤。</text>
+	</string>
+	<string id="ui_elua_licence40">
+		<text>7.12. 在使用《浩劫殺陣》時，您必須遵守所有適用的法律和法規。</text>
+	</string>
+	<string id="ui_elua_licence41">
+		<text>在本協議終止後，本節規定依然有效。</text>
+	</string>
+	<string id="ui_elua_licence42_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence42">
+		<text>8. 粉絲內容及MOD</text>
+	</string>
+	<string id="ui_elua_licence43">
+		<text>8.1. 「模組（MOD）」一詞是指由使用者生成的內容，及/或針對本遊戲一項或多項組件所進行的修改。這些修改旨在與遊戲一起使用，從而產生與 GSC 最初提供的版本不同的客製化或改變後的遊戲體驗。任何特定模組所帶來的體驗可能因使用者而異。</text>
+	</string>
+	<string id="ui_elua_licence44">
+		<text>8.2. 在適用法律允許的最大範圍內，GSC對您或任何第三方上傳、分享或散佈的Mod概不負責，亦不承擔任何法律責任。GSC保留（但無義務）監督、修改或移除由其全權裁量，並認定違反本條款之Mod的權利——例如內容不法、詐欺、誤導、具攻擊性、猥褻、威脅、中傷、侵害隱私、侵犯智慧財產權，或含有病毒或其他惡意程式碼——惟對於該等Mod的移除、或未能即時執行移除所生之任何後果，GSC概不負責。</text>
+	</string>
+	<string id="ui_elua_licence45">
+		<text>8.3. Mod係由第三方提供，包括與GSC無關的個人或法人（以下簡稱「第三方服務」）。GSC不監管亦不對任何第三方服務負責，包括但不限於該第三方收集、使用或儲存您資訊的方式。您在使用Mod及相關第三方服務時，可能需遵守該等第三方所訂定的額外費用、條款及/或政策（包含超出GSC控制範圍的隱私權政策）。您一旦使用任何Mod或與之整合的第三方服務，即表示您同意遵守該等第三方所施行的所有適用條款、條件及政策。</text>
+	</string>
+	<string id="ui_elua_licence46">
+		<text>8.4. 您確認並同意，使用Mod的風險由您自行承擔。GSC不負責審查或驗證任何Mod或第三方服務的內容、準確性、完整性、可用性、即時性、有效性、著作權法遵性、合法性、適當性、品質或其他任何特性。GSC不對任何第三方服務作出保證或背書。此外您亦同意，因使用此類第三方服務而可能遭受的任何問題、損失或損害，GSC概不負責。</text>
+	</string>
+	<string id="ui_elua_licence47">
+		<text>8.5. 著作權侵權行為</text>
+	</string>
+	<string id="ui_elua_licence48">
+		<text>若您認為某個Mod侵犯了您的著作權，請提供以下資料給我們：</text>
+	</string>
+	<string id="ui_elua_licence49">
+		<text>a. 您的姓名、地址及電子郵件地址；</text>
+	</string>
+	<string id="ui_elua_licence50">
+		<text>b. 您享有著作權並主張遭到侵權的作品之說明；</text>
+	</string>
+	<string id="ui_elua_licence51">
+		<text>c. 涉嫌侵權內容的確切網址，或所在的每一處位置之說明；</text>
+	</string>
+	<string id="ui_elua_licence52">
+		<text>d. 您的聲明，表明您有充分理由認為系爭使用情況未經您、您的代理人或法律授權；</text>
+	</string>
+	<string id="ui_elua_licence53">
+		<text>e. 您的電子或實體簽名，或經授權代表您行事之人員的電子或實體簽名；以及</text>
+	</string>
+	<string id="ui_elua_licence54">
+		<text>f. 您的聲明，表明通知內容正確無誤，並且您已取得授權，代表據稱遭侵權的專屬權利所有人行事，若有不實，願承擔偽證罪法律後果。</text>
+	</string>
+	<string id="ui_elua_licence55">
+		<text>上述資訊請以傳送至：</text>
+	</string>
+	<string id="ui_elua_licence56">
+		<text>注意：Mod著作權侵權行為</text>
+	</string>
+	<string id="ui_elua_licence57">
+		<text>電子郵件地址：legal@gsc-game.com</text>
+	</string>
+	<string id="ui_elua_licence58">
+		<text>若我們收到通知指出特定Mod侵犯第三方的智慧財產權，我們可能會依據請求移除該Mod。</text>
+	</string>
+	<string id="ui_elua_licence59">
+		<text>請參閱我們的《粉絲內容創作準則》(https://www.gsc-game.com/guidelines)，瞭解您可以在何種程度上以《浩劫殺陣》為基礎創作粉絲內容。</text>
+	</string>
+	<string id="ui_elua_licence60_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence60">
+		<text>9. 回饋和當機報告</text>
+	</string>
+	<string id="ui_elua_licence61">
+		<text>9.1. GSC重視社群回饋，如果您想提供建設性的意見，歡迎隨時透過support@gsc-game.com/向我們傳送訊息。如果您的建議以任何方式被納入遊戲中，我們沒有義務向您提供任何（物質或其他方面的）報酬。</text>
+	</string>
+	<string id="ui_elua_licence62">
+		<text>9.2. 如果您的遊戲工作階段因任何原因當機，GSC可能會要求您向我們提供當機記錄，以便我們改進原始程式碼，為您創造更愉快的遊戲體驗，並減少當機情況的發生。提供當機報告並非強制要求，在某些情況下，該報告可能包含某些個人資訊（您可以參閱我們的隱私權政策，瞭解可以同此類當機報告一起傳輸的資料類型）。</text>
+	</string>
+	<string id="ui_elua_licence63_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence63">
+		<text>10. 第三方內容</text>
+	</string>
+	<string id="ui_elua_licence64">
+		<text>10.1. 我們可能會在《浩劫殺陣》中向您提供指向外部網站或第三方來源內容的超連結。此外，您可以選擇透過各種裝置、系統或平台存取《浩劫殺陣》。您可以自行決定是否使用這些裝置、系統或平台，但我們無法保證它們的功能、品質或者收費情況。另外，不同裝置、系統或平台的法律條款和條件可能會有所不同，我們強烈建議您在與其互動之前查看這些條款和條件。</text>
+	</string>
+	<string id="ui_elua_licence65_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence65">
+		<text>11. 保證和聲明</text>
+	</string>
+	<string id="ui_elua_licence66">
+		<text>11.1. GSC保證。GSC保證我們有權簽訂本協議，並將授予您出於個人娛樂目的使用《浩劫殺陣》的授權。</text>
+	</string>
+	<string id="ui_elua_licence67">
+		<text>11.2. 您的聲明和保證。您聲明並保證您具有完全的權力和能力來簽訂本協議，並將在所有方面遵守其條款。</text>
+	</string>
+	<string id="ui_elua_licence68_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence68">
+		<text>12. 責任</text>
+	</string>
+	<string id="ui_elua_licence69">
+		<text>12.1. 除非本協議另有明確規定，否則GSC及其附屬公司、合作夥伴和授權方不作任何關於《浩劫殺陣》的暗示或明示的保證或聲明。《浩劫殺陣》是在「現有」和「可用」的基礎上向您提供，不帶有任何明示或暗示的保證或聲明，對於您因使用或無法使用本遊戲而造成的任何損失、損害或傷害，我們概不負責。您需自行承擔使用《浩劫殺陣》的風險。</text>
+	</string>
+	<string id="ui_elua_licence70">
+		<text>在適用法律允許的最大範圍內，我們不作任何可能適用於《浩劫殺陣》的明示或暗示的保證，包括：所有權、無侵權、適銷性、品質令人滿意、適合特定用途的暗示性保證；任何可能在交易過程、履行過程或貿易使用過程中產生的保證；任何關於無病毒、無錯誤、無缺陷的保證；和/或對《浩劫殺陣》所包含的任何內容或資訊的準確性、合法性、可靠性或品質的保證。</text>
+	</string>
+	<string id="ui_elua_licence71">
+		<text>GSC明確表示：不保證《浩劫殺陣》不會發生中斷或不會發生錯誤，不保證糾正遊戲缺陷，亦不保證遊戲中不會出現病毒或其他有害元件。</text>
+	</string>
+	<string id="ui_elua_licence72">
+		<text>12.2. 在適用法律允許的最大範圍內，GSC及其附屬公司、合作夥伴和授權方在任何情況下，均不對任何利潤損失、收費或費用、資料損失、任何資訊損壞或損失、任何商業機會損失，或者任何特殊的、間接的、懲罰性的、懲戒性的或後果性的損失、損害或任何類型的中斷承擔責任，無論這是否由違約、侵權行為（包括疏忽、違反法定義務、違反協議、違反保證或嚴格責任）、虛假陳述、賠償或其他原因導致，無論相關方是否已被告知發生此類損害的可能性。</text>
+	</string>
+	<string id="ui_elua_licence73">
+		<text>在適用法律允許的最大範圍內，在任何情況下，就《浩劫殺陣》或本協議而言，GSC及其附屬公司、合作夥伴和授權方對您負有的全部責任不會超過您就索賠事項已向我們實際支付的金額（如有）。上述內容是您可透過本協議獲得的唯一專有補償。</text>
+	</string>
+	<string id="ui_elua_licence74">
+		<text>12.3. 您同意根據需要（持續）保護和賠償GSC及其附屬公司、授權方和合作夥伴，使其免受與以下情況有關的所有損害、責任、索賠和費用（包括法律費用）：</text>
+	</string>
+	<string id="ui_elua_licence75_type">
+		<text>__OPTION__</text>
+	</string>
+	<string id="ui_elua_licence75">
+		<text>您被指控違反或實際違反本協議；</text>
+	</string>
+	<string id="ui_elua_licence76_type">
+		<text>__OPTION__</text>
+	</string>
+	<string id="ui_elua_licence76">
+		<text>您或任何人代表/代替您（有意或無意地）使用《浩劫殺陣》；以及</text>
+	</string>
+	<string id="ui_elua_licence77_type">
+		<text>__OPTION__</text>
+	</string>
+	<string id="ui_elua_licence77">
+		<text>侵犯GSC及其附屬公司、授權方和合作夥伴的智慧財產權。</text>
+	</string>
+	<string id="ui_elua_licence78">
+		<text>如有針對我們提出的索賠，那麼您應充分配合GSC，同時，我們有權接管並進行抗辯。未經我們事先書面同意，您不得擅自解決所有或部分此類索賠。</text>
+	</string>
+	<string id="ui_elua_licence79">
+		<text>12.4. 接受本協議即表明您確認您可能遭受的任何損失、損害或傷害是可以彌補的，且禁令救濟或其他衡平法救濟之外的補救是充足且充分的。您在此明確同意，您無權向GSC及其附屬公司、授權方和合作夥伴尋求禁令救濟或其他衡平法救濟。</text>
+	</string>
+	<string id="ui_elua_licence80">
+		<text>在本協議終止後，本節規定依然有效。</text>
+	</string>
+	<string id="ui_elua_licence81_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence81">
+		<text>13. 終止</text>
+	</string>
+	<string id="ui_elua_licence82">
+		<text>13.1. 您有權隨時透過停用《浩劫殺陣》來終止本協議。協議終止不會影響我們或您已經存在的權利或義務。</text>
+	</string>
+	<string id="ui_elua_licence83">
+		<text>13.2. 如果您嚴重違反本協議的任何條款，GSC可能會暫停或終止您存取《浩劫殺陣》和本協議的授權。如果我們決定根據本條規定暫停或終止您存取《浩劫殺陣》和本協議的授權，我們將不對您承擔任何義務或責任。</text>
+	</string>
+	<string id="ui_elua_licence84">
+		<text>13.3. 如果GSC因任何原因決定永久停止提供《浩劫殺陣》的存取權限（全面停止提供或僅在特定平台停止提供），則GSC將透過合理可行的方式，至少提前九十(90)天通知您。在這種情況下停止服務時，我們無需對您承擔任何義務和責任。</text>
+	</string>
+	<string id="ui_elua_licence85_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence85">
+		<text>14. 不可抗力</text>
+	</string>
+	<string id="ui_elua_licence86">
+		<text>對於因不可抗力導致的全部或部分履約、不履約或延遲履約，任一方均不對另一方承擔責任。</text>
+	</string>
+	<string id="ui_elua_licence87">
+		<text>「不可抗力」係指阻止一方履行其任何或全部義務的任何原因，由該方合理控制範圍以外的行為、事件、疏忽或事故造成，包括但不限於罷工、封鎖或其他勞資糾紛、核事故或天災、戰爭或恐怖主義活動、暴動、騷亂、惡意破壞、遵從任何法律或政府命令/規則/法規或指示、任何電力或網際網路連線供應商的員工開展勞工行動、技術設施故障、駭客攻擊、拒絕服務或其他IT攻擊、部署IT病毒惡意軟體或類似技術、流行病（例如新冠肺炎）、火災、洪水、風暴或供應商/分包商違約。</text>
+	</string>
+	<string id="ui_elua_licence88_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence88">
+		<text>15. 適用法律和爭議解決方法</text>
+	</string>
+	<string id="ui_elua_licence89">
+		<text>15.1. 本協議以及由此產生的任何問題將根據賽普勒斯法律進行管轄和解釋，不包括其法律選擇和/或有關法律衝突的法規。賽普勒斯應作為與本協議和/或遊戲有關的或由本協議和/或遊戲引起的所有訴訟的唯一審判地，並且您同意接受賽普勒斯法院對任何此類索賠或訴訟的管轄。根據本協議贏得訴訟的一方有權獲得對其法律費用和開支的補償。</text>
+	</string>
+	<string id="ui_elua_licence90">
+		<text>15.2. 如果您對我們有任何意見，請透過support@gsc-game.com聯絡我們，我們相信這些分歧能夠迅速得到解決。</text>
+	</string>
+	<string id="ui_elua_licence91">
+		<text>15.3. GSC和您均同意在沒有第三方介入的情況下，以誠信的態度採取合理的措施來解決我們之間的任何爭議。初始爭議解決期限為三十(30)天，如果出現不可預知的情況，則該期限可延長至六十(60)天。</text>
+	</string>
+	<string id="ui_elua_licence92">
+		<text>如果您向GSC提起訴訟，您必須將相關書面文件寄送至「Legal Team, GSC Game World Global Ltd, Leontiou A, 159, MARYVONNE BUILDING, Floor 4 & 5, Office 402, 3022, Limassol, Cyprus」，並將該文件的電子版傳送到legal@gsc-game.com</text>
+	</string>
+	<string id="ui_elua_licence93">
+		<text>15.4. 集體訴訟棄權。在適用法律允許的最大範圍內，您同意在任何情況下均不提起或參與集體訴訟/代表人訴訟、私人檢察官訴訟或集體仲裁。這代表您在法律允許的最大範圍內：</text>
+	</string>
+	<string id="ui_elua_licence94">
+		<text>i. 不得將任何仲裁與任何其他仲裁合併；</text>
+	</string>
+	<string id="ui_elua_licence95">
+		<text>ii. 無權在集體訴訟的基礎上對任何爭議進行仲裁，無權使用集體訴訟程序；以及</text>
+	</string>
+	<string id="ui_elua_licence96">
+		<text>iii. 無權以所謂的代表身分，代表公眾或其他人提出爭議。</text>
+	</string>
+	<string id="ui_elua_licence97">
+		<text>如果本節中關於不提起或不參與集體訴訟/代表人訴訟、私人檢察官訴訟或集體仲裁的協議被認定為非法或不可執行，則您和我們同意其內容不可分割：本節的所有內容將被視為不可執行，而索賠和爭議將由法庭解決。</text>
+	</string>
+	<string id="ui_elua_licence98">
+		<text>在本協議終止後，本節規定依然有效。</text>
+	</string>
+	<string id="ui_elua_licence99">
+		<text>15.5. 如果您居住在歐盟成員國，則您可能有權透過歐盟委員會營運的線上爭議解決平台提交投訴，請造訪https://ec.europa.eu/consumers/odr/，瞭解相關詳細資訊。</text>
+	</string>
+	<string id="ui_elua_licence100_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence100">
+		<text>16. 一般條款</text>
+	</string>
+	<string id="ui_elua_licence101">
+		<text>16.1. 如果本協議的任何條款在法律上無法執行或變得無法執行，本協議的其餘條款仍將完全有效。GSC可自行決定將該類不可執行的條款替換為與該類條款涵義最接近的條款。</text>
+	</string>
+	<string id="ui_elua_licence102">
+		<text>16.2. 本協議僅管轄我們與您之間的關係（反之亦然），不會為任何人創造任何第三方權利，除非另有明確說明。</text>
+	</string>
+	<string id="ui_elua_licence103">
+		<text>16.3.《聯合國國際貨物銷售合約公約》不適用於《浩劫殺陣》或本協議。</text>
+	</string>
+	<string id="ui_elua_licence104">
+		<text>16.4. GSC有權在任何時候自行決定將本協議分配、分包或轉讓給第三方或者本集團的其他成員。</text>
+	</string>
+	<string id="ui_elua_licence105">
+		<text>16.5. 除非本協議另有明確規定，否則GSC未能或延遲行使本協議或法律規定的任何權利/補救措施不構成對該權利/補救措施或任何其他權利/補救措施的棄權，也不會排除或限制GSC進一步行使該權利/補救措施或任何其他權利/補救措施。GSC單獨或部分行使此類權利/補救措施不會排除或限制其進一步行使該權利/補救措施或任何其他權利/補救措施。</text>
+	</string>
+	<string id="ui_elua_licence106">
+		<text>16.6. 本協議及本協議中所提及的其他文件，構成您與我們之間關於《浩劫殺陣》的完整協議，並取代之前的任何口頭或書面協議。</text>
+	</string>
+	<string id="ui_elua_licence107_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence107">
+		<text>17. 本協議的修訂</text>
+	</string>
+	<string id="ui_elua_licence108">
+		<text>17.1. GSC保留自行決定更改本協議的權利。您將在遊戲中收到相關通知，或透過其他可用的通訊方式收到相關通知。</text>
+	</string>
+	<string id="ui_elua_licence109">
+		<text>17.2. 本協議將在其更新版本推出後立即終止，您將有機會參閱更新版協議。在本協議修改後繼續使用和遊玩本遊戲即代表您接受任何修改後的條款。</text>
+	</string>
+	<string id="ui_elua_licence110">
+		<text>如果您不同意我們對本協議作出的更改，您將無法使用《浩劫殺陣》。</text>
+	</string>
+	<string id="ui_elua_licence111">
+		<text>本人在此確認我已閱讀並理解本協議中的所有條款和條件。點選「同意」即代表我承認並同意接受本協議所有條款和條件的約束，包括明確同意接受隱私權政策和本協議的其他組成部分。</text>
+	</string>
+<string id="ui_elua_name">
+		<text>使用者授權協議</text>
+	</string>
+	<string id="ui_mm_nx64_setlang">
+		<text>選擇語言</text>
+	</string>
+
+	<string id="controller">
+		<text>控制器</text>
+		<text_ps5>DualSense®無線控制器</text_ps5>
+	</string>
+
+	<string id="kbdmouse">
+		<text>鍵盤與滑鼠</text>
+	</string>
+
+	<string id="legend_ui_actions">
+		<text>$$ACTION_UI_CONTEXT_MENU$$ 操作</text>
+	</string>
+
+	<string id="legend_ui_advanced">
+		<text>$$ACTION_UI_HINT$$ 高級影像選項</text>
+	</string>
+
+	<string id="legend_ui_ammo_next">
+		<text>$$ACTION_wpn_next$$ 彈藥類型</text>
+	</string>
+
+	<string id="legend_ui_area_selector">
+		<text>$$ICON$controller$rs$$ 切換區域</text>
+	</string>
+
+	<string id="legend_ui_back">
+		<text>$$ACTION_UI_BACK$$ 返回</text>
+	</string>
+
+	<string id="legend_ui_basic">
+		<text>$$ACTION_UI_HINT$$ 基本影像選項</text>
+	</string>
+
+	<string id="legend_ui_drop_weapon">
+		<text>$$ACTION_DROP$$ 丟棄武器</text>
+	</string>
+
+	<string id="legend_ui_fire_mode">
+		<text>$$ACTION_wpn_firemode_next$$ 射擊速率</text>
+	</string>
+
+	<string id="legend_ui_info">
+		<text>$$ACTION_UI_HINT$$ 資訊</text>
+	</string>
+
+	<string id="legend_ui_mmenu_select">
+		<text>$$ACTION_UI_ACCEPT$$ 選擇選單物品</text>
+	</string>
+
+	<string id="legend_ui_mmenu_select_difficulty">
+		<text>$$ACTION_UI_ACCEPT$$ 選擇難度</text>
+	</string>
+
+	<string id="legend_ui_navigation">
+		<text>$$ICON$controller$ls$$/$$ICON$controller$dpad$$ 導航</text>
+	</string>
+
+	<string id="legend_ui_navigation_v">
+		<text>$$ICON$controller$lsv$$/$$ICON$controller$dpadv$$ 導航</text>
+	</string>
+
+	<string id="legend_ui_night_vision">
+		<text>$$ACTION_NIGHT_VISION$$ 夜視</text>
+	</string>
+
+	<string id="legend_ui_numpad_press">
+		<text>$$ACTION_UI_ACCEPT$$ 按下按鍵</text>
+	</string>
+
+	<string id="legend_ui_options_save">
+		<text>$$ACTION_UI_ACTION_1$$ 接受</text>
+	</string>
+
+	<string id="legend_ui_options_toggle">
+		<text>$$ACTION_UI_ACCEPT$$ 切換</text>
+	</string>
+
+	<string id="legend_ui_options_tune_item">
+		<text>$$ICON$controller$lsh$$/$$ICON$controller$dpadh$$ 調整</text>
+	</string>
+
+	<string id="legend_ui_pda_hide_mission">
+		<text>$$ACTION_pda_tasks_toggle_list$$ 隱藏任務</text>
+	</string>
+
+	<string id="legend_ui_pda_log_date_next">
+		<text>$$ACTION_pda_log_date_next$$下一個日期</text>
+	</string>
+
+	<string id="legend_ui_pda_log_date_prev">
+		<text>$$ACTION_pda_log_date_prev$$ 上一個日期</text>
+	</string>
+
+	<string id="legend_ui_pda_log_show_dialogs">
+		<text>$$ACTION_pda_log_show_dialogs$$ 切換對話</text>
+	</string>
+
+	<string id="legend_ui_pda_log_show_news">
+		<text>$$ACTION_pda_log_show_news$$ 切換消息</text>
+	</string>
+
+	<string id="legend_ui_pda_log_to_end">
+		<text>$$ACTION_pda_log_to_end$$ 最後</text>
+	</string>
+
+	<string id="legend_ui_pda_log_to_start">
+		<text>$$ACTION_pda_log_to_start$$ 最前</text>
+	</string>
+
+	<string id="legend_ui_pda_scroll_info">
+		<text>$$ICON$controller$rsv$$ 滑動</text>
+	</string>
+
+	<string id="legend_ui_pda_show_mission">
+		<text>$$ACTION_pda_tasks_toggle_list$$ 顯示任務</text>
+	</string>
+
+	<string id="legend_ui_pda_toggle_legend">
+		<text>$$ACTION_pda_tasks_toggle_legend$$ 說明</text>
+	</string>
+
+	<string id="legend_ui_propbox_select">
+		<text>$$ACTION_UI_ACCEPT$$ 選擇</text>
+	</string>
+
+	<string id="legend_ui_repair">
+		<text>$$ACTION_actormenu_action$$ 修理</text>
+	</string>
+
+	<string id="legend_ui_savegame_delete">
+		<text>$$ACTION_UI_ACTION_1$$ 刪除</text>
+	</string>
+
+	<string id="legend_ui_savegame_load">
+		<text>$$ACTION_UI_ACCEPT$$ 讀取</text>
+	</string>
+
+	<string id="legend_ui_savegame_save">
+		<text>$$ACTION_UI_ACCEPT$$ 儲存</text>
+	</string>
+
+	<string id="legend_ui_scroll_info">
+		<text>$$ICON$controller$lt$$/$$ICON$controller$rt$$ 滑動資訊</text>
+	</string>
+
+	<string id="legend_ui_selector">
+		<text>$$ICON$controller$ls$$/$$ICON$controller$dpad$$ 選擇器</text>
+	</string>
+
+	<string id="legend_ui_sign_back_in">
+		<text>$$ACTION_UI_ACCEPT$$ 重新登入</text>
+	</string>
+
+	<string id="legend_ui_tabs">
+		<text>$$ACTION_UI_TAB_LEFT$$／$$ACTION_UI_TAB_RIGHT$$ 分頁</text>
+	</string>
+
+	<string id="legend_ui_take_all">
+		<text>$$ACTION_actormenu_action$$ 全部拿取</text>
+	</string>
+
+	<string id="legend_ui_talk_log">
+		<text>$$ICON$controller$rsv$$ 紀錄</text>
+	</string>
+
+	<string id="legend_ui_talk_open_trade">
+		<text>$$ACTION_talk_trade_upgrade$$ 交易</text>
+	</string>
+
+	<string id="legend_ui_talk_replies">
+		<text>$$ICON$controller$lsv$$/$$ICON$controller$dpadv$$ 選擇</text>
+	</string>
+
+	<string id="legend_ui_talk_reply_PC">
+		<text>選擇（$$ACTION_USE$$）</text>
+	</string>
+
+	<string id="legend_ui_talk_select">
+		<text>導航（$$ACTION_FORWARD$$）／（$$ACTION_BACK$$）</text>
+	</string>
+
+	<string id="legend_ui_tasks_filter_next">
+		<text>$$ICON$controller$dpadh$$ 任務篩選器</text>
+	</string>
+
+	<string id="legend_ui_tasks_filter_toggle">
+		<text>$$ACTION_pda_tasks_filter_toggle$$ 切換篩選</text>
+	</string>
+
+	<string id="legend_ui_tasks_map_move">
+		<text>$$ICON$controller$rs$$ 移動游標</text>
+	</string>
+
+	<string id="legend_ui_tasks_map_show_me">
+		<text>$$ACTION_pda_tasks_map_show_me$$ 目前位置</text>
+	</string>
+
+	<string id="legend_ui_tasks_map_zoom">
+		<text>$$ACTION_pda_tasks_map_zoom_out$$/$$ACTION_pda_tasks_map_zoom_in$$ 放大程度</text>
+	</string>
+
+	<string id="legend_ui_tasks_show_on_map">
+		<text>$$ACTION_pda_tasks_show_on_map$$ 在地圖上顯示</text>
+	</string>
+
+	<string id="legend_ui_tasks_track_on_map">
+		<text>$$ACTION_pda_tasks_track_on_map$$ 追蹤</text>
+	</string>
+
+	<string id="legend_ui_title_screen">
+		<text>$$ACTION_UI_BACK$$ 主畫面</text>
+	</string>
+
+	<string id="legend_ui_trade">
+		<text>$$ACTION_actormenu_action$$ 交易</text>
+	</string>
+
+	<string id="legend_ui_upgrade">
+		<text>$$ACTION_UI_ACCEPT$$ 升級</text>
+	</string>
+
+	<string id="legend_ui_use">
+		<text>$$ACTION_UI_ACCEPT$$ 使用</text>
+	</string>
+
+	<string id="legend_ui_wheelmenu_select">
+		<text>$$ICON$controller$lb$$+$$ICON$controller$rs$$ 選擇區域</text>
+	</string>
+
+	<string id="legend_ui_wpn_func">
+		<text>$$ACTION_wpn_func$$ 額外武器</text>
+	</string>
+
+	<string id="st_move_to_bag_all">
+		<text>全部移到背包裡</text>
+	</string>
+
+	<string id="st_move_to_cart">
+		<text>選擇</text>
+	</string>
+
+	<string id="st_move_to_cart_all">
+		<text>全部選擇</text>
+	</string>
+
+	<string id="st_move_to_cart_amount">
+		<text>選擇多個</text>
+	</string>
+
+	<string id="st_move_to_dead_body">
+		<text>贈送</text>
+	</string>
+
+	<string id="st_move_to_dead_body_all">
+		<text>全部贈送</text>
+	</string>
+
+	<string id="st_move_to_offer">
+		<text>給予</text>
+	</string>
+
+	<string id="st_move_to_offer_all">
+		<text>全部給予</text>
+	</string>
+
+	<string id="st_move_to_offer_amount">
+		<text>給予多個</text>
+	</string>
+
+	<string id="st_remove_from_cart">
+		<text>卸下</text>
+	</string>
+
+	<string id="st_remove_from_cart_all">
+		<text>全部卸下</text>
+	</string>
+
+	<string id="st_remove_from_cart_amount">
+		<text>卸下多個</text>
+	</string>
+
+	<string id="st_remove_from_offer">
+		<text>卸下</text>
+	</string>
+
+	<string id="st_remove_from_offer_all">
+		<text>全部卸下</text>
+	</string>
+
+	<string id="st_remove_from_offer_amount">
+		<text>卸下多個</text>
+	</string>
+
+	<string id="st_repair">
+		<text>修理</text>
+	</string>
+
+	<string id="st_upgrade">
+		<text>升級</text>
+	</string>
+
+	<string id="ui_mm_ads_scope_sens">
+		<text>瞄準鏡靈敏度</text>
+	</string>
+
+	<string id="ui_mm_ads_sens">
+		<text>瞄準靈敏度</text>
+	</string>
+
+	<string id="ui_mm_controller_icon_type">
+		<text>控制器圖像顯示類型</text>
+	</string>
+
+	<string id="ui_mm_controller_type">
+		<text>控制器類型</text>
+		<text_ps5>輸入方式</text_ps5>
+		<text_xbox>輸入方式</text_xbox>
+	</string>
+
+	<string id="ui_mm_horizontal_sense">
+		<text>水平靈敏度</text>
+	</string>
+
+	<string id="ui_mm_shoot_sens">
+		<text>後座力控制</text>
+	</string>
+
+	<string id="ui_mm_vertical_sense">
+		<text>垂直靈敏度</text>
+	</string>
+
+	<string id="ui_mmenu_new_savegame">
+		<text>新遊戲存檔</text>
+	</string>
+
+	<string id="ui_mmenu_no_savegames">
+		<text>沒有遊戲存檔</text>
+	</string>
+
+	<string id="ui_pad_layout_Looky">
+		<text>查看 Y</text>
+	</string>
+
+	<string id="ui_pad_layout_PDA">
+		<text>開啟PDA</text>
+	</string>
+
+	<string id="ui_pad_layout_action">
+		<text>行動</text>
+	</string>
+
+	<string id="ui_pad_layout_aim">
+		<text>瞄準</text>
+	</string>
+
+	<string id="ui_pad_layout_crouch">
+		<text>蹲下</text>
+	</string>
+
+	<string id="ui_pad_layout_inventory">
+		<text>物品</text>
+	</string>
+
+	<string id="ui_pad_layout_jump">
+		<text>跳躍</text>
+	</string>
+
+	<string id="ui_pad_layout_lookx">
+		<text>查看 X</text>
+	</string>
+
+	<string id="ui_pad_layout_menu">
+		<text>選單</text>
+	</string>
+
+	<string id="ui_pad_layout_move">
+		<text>移動</text>
+	</string>
+
+	<string id="ui_pad_layout_quckslot0">
+		<text>快捷欄第一件物品</text>
+	</string>
+
+	<string id="ui_pad_layout_quckslot1">
+		<text>快捷欄第二件物品</text>
+	</string>
+
+	<string id="ui_pad_layout_quckslot2">
+		<text>快捷欄第三件物品</text>
+	</string>
+
+	<string id="ui_pad_layout_quckslot3">
+		<text>快捷欄第四件物品</text>
+	</string>
+
+	<string id="ui_pad_layout_reload">
+		<text>裝填</text>
+	</string>
+
+	<string id="ui_pad_layout_shoot">
+		<text>射擊</text>
+	</string>
+
+	<string id="ui_pad_layout_sprint">
+		<text>衝刺</text>
+	</string>
+
+	<string id="ui_pad_layout_strafe">
+		<text>迅速移動</text>
+	</string>
+
+	<string id="ui_pad_layout_torch">
+		<text>手電筒</text>
+	</string>
+
+	<string id="ui_pad_layout_wheel">
+		<text>武器輪盤</text>
+	</string>
+
+	<string id="ui_slider_amount">
+		<text>數量：%d</text>
+	</string>
+
+	<string id="ui_accept_eula">
+		<text>接受</text>
+	</string>
+
+	<string id="ui_pad_layout_weapon_zoom_in">
+		<text>放大</text>
+	</string>
+
+	<string id="ui_pad_layout_weapon_zoom_out">
+		<text>縮小</text>
+	</string>
+
+</string_table>

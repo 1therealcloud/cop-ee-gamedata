@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="actor_inventory_box_use">
+		<text>打開個人儲物盒($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="cant_walk">
+		<text>你因精力耗盡而無法繼續行走</text>
+	</string>
+
+	<string id="cant_walk_weight">
+		<text>你因負載過重而無法繼續行走</text>
+	</string>
+
+	<string id="car_character_use">
+		<text>開門($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="character_use">
+		<text>說話($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="dead_character_use">
+		<text>搜尋屍體($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="dead_character_use_or_drag">
+		<text>搜尋屍體（($$ACTION_USE$$)\n拖曳屍體(SHIFT+$$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ 搜尋屍體（\n $$ACTION_run_or_lie_down$$ + $$ACTION_USE$$ 拖曳屍體</text_c>
+	</string>
+
+	<string id="general_complete_task">
+		<text>完成的任務：</text>
+	</string>
+
+	<string id="general_fail_task">
+		<text>失敗的任務：</text>
+	</string>
+
+	<string id="general_in_item">
+		<text>收到物品。</text>
+	</string>
+
+	<string id="general_in_money">
+		<text>收到金錢。</text>
+	</string>
+
+	<string id="general_new_task">
+		<text>新的排放</text>
+	</string>
+
+	<string id="general_out_item">
+		<text>失去物品。</text>
+	</string>
+
+	<string id="general_out_money">
+		<text>失去金錢。</text>
+	</string>
+
+	<string id="general_reverse_task">
+		<text>取消的任務：</text>
+	</string>
+
+	<string id="general_update_task">
+		<text>更新的任務：</text>
+	</string>
+
+	<string id="gun_jammed">
+		<text>你的武器卡彈。請重新裝彈。</text>
+	</string>
+
+	<string id="inventory_box_use">
+		<text>搜尋盒子($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="inventory_item_use">
+		<text>拿起物品($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="jup_b10_ufo_searching_tips">
+		<text>搜尋神器($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="jup_b1_bar_door">
+		<text>門被卡住</text>
+	</string>
+
+	<string id="jup_b1_door_is_closed">
+		<text>這扇門從內部上鎖</text>
+	</string>
+
+	<string id="jup_b202_treasures_closed">
+		<text>保險箱已上鎖</text>
+	</string>
+
+	<string id="jup_b205_tip_door_closed">
+		<text>需要密碼</text>
+	</string>
+
+	<string id="jup_b205_tip_door_decode">
+		<text>輸入密碼($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="jup_b206_use_plant">
+		<text>摘採植物($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="jup_b209_scanner_place_tips">
+		<text>安裝掃描儀($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="jup_b209_scanner_remove_tips">
+		<text>拿掃描儀($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="lx8_raduga">
+		<text>「彩虹」侵略抑制器\n外部排放綜合模型\n比例1:20</text>
+	</string>
+
+	<string id="pas_b400_tip_switcher">
+		<text>啟動開關($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="pri_a18_use_idol">
+		<text>檢查裝置($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="pri_a25_blow_up_enter_door">
+		<text>埋設爆裂物($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="pri_a28_talk_with_stupid_medic">
+		<text>恢復($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="pri_b306_elevator_door_locked_used">
+		<text>電梯沒有電</text>
+	</string>
+
+	<string id="pri_b306_generator_use">
+		<text>啟動發電機 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="sleep_ok_button">
+		<text>睡覺</text>
+	</string>
+
+	<string id="sleep_warning_all_pleasures">
+		<text>你不能睡！你正在大失血，且受到輻射影響。請使用藥物或找醫護員。</text>
+	</string>
+
+	<string id="sleep_warning_bleeding">
+		<text>你不能睡！你正在大失血。請使用藥物或找醫護員。</text>
+	</string>
+
+	<string id="sleep_warning_radiation">
+		<text>你不能睡！你受到輻射影響。請使用藥物或找醫護員。</text>
+	</string>
+
+	<string id="sleep_zone_tip">
+		<text>睡覺($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="st_ach_balance_advocate">
+		<text>你已獲得成就「平衡之人」。</text>
+	</string>
+
+	<string id="st_ach_battle_systems_master">
+		<text>你已獲得成就「武器系統大師」。</text>
+	</string>
+
+	<string id="st_ach_detective">
+		<text>你已獲得成就「偵探」。</text>
+	</string>
+
+	<string id="st_ach_diplomat">
+		<text>你已獲得成就「外交官」。</text>
+	</string>
+
+	<string id="st_ach_friend_of_duty">
+		<text>你已獲得成就「紀律團之友」。</text>
+	</string>
+
+	<string id="st_ach_friend_of_freedom">
+		<text>你已獲得成就「自由團之友」。</text>
+	</string>
+
+	<string id="st_ach_friend_of_stalkers">
+		<text>你已獲得成就「潛行者之友」。</text>
+	</string>
+
+	<string id="st_ach_herald_of_justice">
+		<text>你已獲得成就「正義使者」。</text>
+	</string>
+
+	<string id="st_ach_high_tech_master">
+		<text>你已獲得成就「高科技專家」。</text>
+	</string>
+
+	<string id="st_ach_information_dealer">
+		<text>你已獲得成就「情報販子」。</text>
+	</string>
+
+	<string id="st_ach_keeper_of_secrets">
+		<text>你已獲得成就「秘密守護者」。</text>
+	</string>
+
+	<string id="st_ach_kingpin">
+		<text>你已獲得成就「老大」。</text>
+	</string>
+
+	<string id="st_ach_leader">
+		<text>你已獲得成就「領袖」。</text>
+	</string>
+
+	<string id="st_ach_mutant_hunter">
+		<text>你已獲得成就「變異體獵手」。</text>
+	</string>
+
+	<string id="st_ach_one_of_the_lads">
+		<text>你已獲得成就「我們的一員」。</text>
+	</string>
+
+	<string id="st_ach_pioneer">
+		<text>你已獲得成就「先鋒」。</text>
+	</string>
+
+	<string id="st_ach_research_man">
+		<text>你已獲得成就「研究助理」。</text>
+	</string>
+
+	<string id="st_ach_seeker">
+		<text>你已獲得成就「神器獵手」。</text>
+	</string>
+
+	<string id="st_ach_skilled_stalker">
+		<text>你已獲得成就「老練潛行者」。</text>
+	</string>
+
+	<string id="st_ach_wealthy">
+		<text>你已獲得成就「富有顧客」。</text>
+	</string>
+
+	<string id="st_autosave">
+		<text>自動存檔⋯⋯</text>
+	</string>
+
+	<string id="st_can_use_weapon_now">
+		<text>現在你可以拿出武器了。</text>
+	</string>
+
+	<string id="st_codelock">
+		<text>密碼鎖($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="st_detective_news">
+		<text>醫療用品已放置於斯卡多夫斯克號上的個人儲物箱內，可用以解開失蹤潛行者的秘密。</text>
+	</string>
+
+	<string id="st_duty_first_reward_news">
+		<text>PS5-M 通用防護系統已放置於亞尼夫的個人儲物箱內，可用以幫助紀律團。</text>
+	</string>
+
+	<string id="st_duty_second_reward_news">
+		<text>PSZ-9d 紀律團護甲已放置於亞尼夫的個人儲物箱內，可用以幫助紀律團。</text>
+	</string>
+
+	<string id="st_freedom_first_reward_news">
+		<text>風之自由服已放置於亞尼夫的個人儲物箱內，可用以幫助自由團。</text>
+	</string>
+
+	<string id="st_freedom_second_reward_news">
+		<text>自由守衛服已放置於亞尼夫的個人儲物箱內，可用以幫助自由團。</text>
+	</string>
+
+	<string id="st_freeplay_text_ok">
+		<text>你沒能抵達直升機，撤離團隊已離開特異區。</text>
+	</string>
+
+	<string id="st_freeplay_text_yes_no">
+		<text>你準備好離開特異區了嗎？走了就無法回來。</text>
+	</string>
+
+	<string id="st_game_over">
+		<text>遊戲結束。</text>
+	</string>
+
+	<string id="st_game_over_press_jump">
+		<text>按下($$ACTION_JUMP$$)離開回到主選單。</text>
+	</string>
+
+	<string id="st_game_paused">
+		<text>暫停</text>
+	</string>
+
+	<string id="st_game_saved">
+		<text>遊戲儲存</text>
+	</string>
+
+	<string id="st_herald_of_justice_news">
+		<text>神器已放置於斯卡多夫斯克號上的個人儲物箱內，可用以揭穿喜鵲。</text>
+	</string>
+
+	<string id="st_jup_b41_door_locked">
+		<text>你必須等到船塢密不透風</text>
+	</string>
+
+	<string id="st_lx8_button_press_true">
+		<text>允許進入</text>
+	</string>
+
+	<string id="st_lx8_lift_button">
+		<text>搭電梯上樓($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="st_pri_b306_go_down">
+		<text>搭電梯下樓($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="st_psy_danger">
+		<text>心靈輻射水平臨界。立刻離開危險區域。</text>
+	</string>
+
+	<string id="st_radiation_danger">
+		<text>危險的輻射污染等級，需有防護才能通行。</text>
+	</string>
+
+	<string id="st_search_helicopter">
+		<text>檢查直升機($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="st_search_treasure">
+		<text>搜尋藏匿點($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="st_sleep_hours">
+		<text>時</text>
+	</string>
+
+	<string id="st_tip">
+		<text>訊息</text>
+	</string>
+
+	<string id="tip_door_blocked">
+		<text>門是鎖上的</text>
+	</string>
+
+	<string id="tip_door_close">
+		<text>關門($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="tip_door_closed_base_alarm">
+		<text>門是鎖上的——營地處於警戒狀態</text>
+	</string>
+
+	<string id="tip_door_closed_hide_weapon">
+		<text>門是鎖上的——你必須收起武器</text>
+	</string>
+
+	<string id="tip_door_locked">
+		<text>門是鎖上的</text>
+	</string>
+
+	<string id="tip_door_no_electricity">
+		<text>門沒有供電</text>
+	</string>
+
+	<string id="tip_door_open">
+		<text>開門($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="tip_gate_locked">
+		<text>大門被堵住</text>
+	</string>
+
+	<string id="tip_need_access_card">
+		<text>使用門禁卡($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="tip_no_access_card">
+		<text>需要門禁卡</text>
+	</string>
+
+	<string id="tip_open_another_site">
+		<text>門無法從這側開啟</text>
+	</string>
+
+	<string id="ui_st_mp_experience_grow">
+		<text>-</text>
+	</string>
+
+	<string id="zat_b12_conteiner_full_locked">
+		<text>箱子是鎖上的。需要兩把鑰匙才能打開。</text>
+	</string>
+
+	<string id="zat_b12_conteiner_has_one_key">
+		<text>使用鑰匙($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="zat_b12_conteiner_has_two_key">
+		<text>使用鑰匙($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="zat_b12_conteiner_locked">
+		<text>箱子是鎖上的。你需要第二把鑰匙才能打開。</text>
+	</string>
+
+	<string id="zat_b12_conteiner_open">
+		<text>打開箱子($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="zat_b14_door_locked_hint">
+		<text>這扇門的機械裝置從內部堵住了。</text>
+	</string>
+
+	<string id="zat_b57_balon_use_hint">
+		<text>連接瓦斯桶($$ACTION_USE$$)。</text>
+	</string>
+
+	<string id="zat_b57_gas_warning">
+		<text>警告！化學危險！</text>
+	</string>
+
+	<string id="zat_b57_vintil_press">
+		<text>轉動閥門 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="zat_b33_car_searching_tip">
+		<text>搜尋車輛($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="st_resupply_ready">
+		<text>拜訪羅格維茨中尉和基利爾洛夫中尉，你可以補充醫療用品和彈藥。</text>
+	</string>
+
+	<string id="st_surge_while_asleep">
+		<text>特異區最近發生了一場排放。</text>
+	</string>
+
+	<string id="st_ach_marked_by_zone">
+		<text>你獲得了成就「被特異區標記」。</text>
+	</string>
+
+	<string id="st_mutant_hunter_news">
+		<text>彈藥已放置於亞尼夫的個人儲物箱內，可用以消滅危險的變異體。</text>
+	</string>
+
+	<string id="st_found_old_treasure">
+		<text>收到已發現的藏匿點的座標。</text>
+	</string>
+
+	<string id="st_got_treasure">
+		<text>找到的藏匿點</text>
+	</string>
+
+	<string id="st_found_new_treasure">
+		<text>收到藏匿點座標</text>
+	</string>
+
+	<string id="st_press_any_key">
+		<text>按下任何按鈕開始遊戲</text>
+		<text_nx64>繼續</text_nx64>
+	</string>
+
+</string_table>

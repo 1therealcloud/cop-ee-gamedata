@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ls_c_tip_82">
+		<text>Hay lugares por los que es imposible pasar, incluso agachбndote. Para agacharte al mбximo posible, pulsa $$ACTION_CROUCH$$ y despuйs $$ACTION_RUN_OR_LIE_DOWN$$.</text>
+	</string>
+	<string id="legend_ui_talk_reply">
+		<text>$$ACTION_UI_ACCEPT$$ Hablar</text>
+	</string>
+</string_table>

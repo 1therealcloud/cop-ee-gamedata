@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ls_header">
+		<text>ゾーンで生き残る100のヒント</text>
+	</string>
+	<string id="ls_mp_tip_16">
+		<text>敵のアーマー・レベルにかかわらず、しっかり敵を見て撃つことで即死させられる。</text>
+	</string>
+	<string id="ls_mp_tip_19">
+		<text>AC-96/2は、独特の2弾丸射撃モードを持っている。このモードでは、発射された両方の弾丸が同じスポットに当たる。</text>
+	</string>
+	<string id="ls_mp_tip_21">
+		<text>二連式ショットガンは、両方のバレルをほとんど同時に発射できる。</text>
+	</string>
+	<string id="ls_mp_tip_25">
+		<text>ピストルを過小評価しないこと。かなりの阻止能を提供し、外装が貧弱な目標に対して非常に有効になり得る。</text>
+	</string>
+	<string id="ls_mp_tip_32">
+		<text>狙撃用ライフルは、水平性特性と精度特性により、長距離射撃に理想的だ。近距離ではそれほど有効ではない。</text>
+	</string>
+	<string id="ls_mp_tip_33">
+		<text>動きながらの発砲は、静止して立つか、かがんで撃つ場合ほど正確ではない。</text>
+	</string>
+	<string id="ls_mp_tip_34">
+		<text>武器と防護スーツは、ゾーンの厳しい状況では速く消耗する。疲弊した武器は精度が落ち、ミスファイアが起こる。</text>
+	</string>
+	<string id="ls_mp_tip_54">
+		<text>スクリーンショットをとるには "$$ACTION_SCREENSHOT$$"キーを押す。</text>
+	</string>
+	<string id="ls_mp_tip_9">
+		<text>アーティファクトが遠くにある場合は、ミニマップ上の矢印がその方向を示す。</text>
+	</string>
+	<string id="ls_tip_37">
+		<text>AC-96/2は、独特の2弾丸射撃モードを持っている。このモードでは、発射された両方の弾丸が同じスポットに当たる。</text>
+	</string>
+	<string id="ls_tip_39">
+		<text>二連式ショットガンは、両方のバレルをほとんど同時に発射できる。</text>
+	</string>
+	<string id="ls_tip_43">
+		<text>ピストルを過小評価しないこと。かなりの阻止能を提供し、外装が貧弱な目標に対して非常に有効になり得る。</text>
+	</string>
+	<string id="ls_tip_50">
+		<text>狙撃用ライフルは、水平性特性と精度特性により、長距離射撃に理想的だ。近距離ではそれほど有効ではない。</text>
+	</string>
+	<string id="ls_tip_52">
+		<text>武器と防護スーツは、ゾーンの厳しい状況では速く消耗する。疲弊した武器は精度が落ち、ミスファイアが起こる。</text>
+	</string>
+	<string id="ls_tip_56">
+		<text>いくつかの医療品は独特の特性を持つ。たとえば、ヘラクレス錠剤は一時的により多くの重量を持てるようになる。</text>
+	</string>
+	<string id="ls_tip_83">
+		<text>スクリーンショットを取るには "$$ACTION_SCREENSHOT$$"キーを押す。</text>
+	</string>
+	<string id="ls_tip_number">
+		<text>ヒント #</text>
+	</string>
+	<string id="ls_tip_1">
+		<text>ウォツカは、安物の抗放射線の代用薬になり、身体に対する放射線の影響を弱める最も容易な方法。</text>
+	</string>
+	<string id="ls_tip_10">
+		<text>"$$ACTION_SCORES$$"キーを押せば、現在のミッションに関する詳細情報にアクセスできる。</text>
+	</string>
+	<string id="ls_tip_13">
+		<text>アーティファクトを探索するには、検出器が必要。</text>
+	</string>
+	<string id="ls_tip_14">
+		<text>武器を隠すには、適切なキーを押す。("$$ACTION_WPN_1$$"、 "$$ACTION_WPN_2$$"、 "$$ACTION_WPN_3$$"、 "$$ACTION_WPN_4$$")</text>
+	</string>
+	<string id="ls_tip_15">
+		<text>ボルトを投げることにより、アノマリーの周囲の位置がわかる。"$$ACTION_WPN_6$$"キーを押す。</text>
+	</string>
+	<string id="ls_tip_17">
+		<text>食料は空腹を満たし、いくらかのヘルスを増進する。</text>
+	</string>
+	<string id="ls_tip_18">
+		<text>エナジードリンクは一時的に耐久性を回復し、潜在的な可動性を増加させる。</text>
+	</string>
+	<string id="ls_tip_20">
+		<text>低い耐久性では、決定的な瞬間に敵の攻撃に動けず、脆弱になってしまう。</text>
+	</string>
+	<string id="ls_tip_21">
+		<text>画面の左上隅にあるノイズ／敵検知インジケータを使うと、自分の潜伏状態をモニターできる。</text>
+	</string>
+	<string id="ls_tip_22">
+		<text>検出器を手に持っても、もう一方の手でナイフ、ピストル、ボルトを扱える。</text>
+	</string>
+	<string id="ls_tip_23">
+		<text>いくつかの医療品は、身体への悪影響に対する抵抗を増加させる。</text>
+	</string>
+	<string id="ls_tip_27">
+		<text>バックパック中のアイテムの上にカーソルを置き、右マウスボタンでコンテキスト・メニューが表示できる。</text>
+	</string>
+	<string id="ls_tip_28">
+		<text>アーティファクトは放射性を持つが、放射能を吸収するアーティファクトの使用により相殺できる。</text>
+	</string>
+	<string id="ls_tip_29">
+		<text>火器を持つ敵に対して、ナイフは効果がない。接近戦、あるいは秘かに倒すのにそれを使用する。</text>
+	</string>
+	<string id="ls_tip_3">
+		<text>運んでいる重量は耐久性を下げる。重量を完全にオーバーすると移動できなくなる。</text>
+	</string>
+	<string id="ls_tip_30">
+		<text>検出器は、アノマリーエリアにアーティファクトがあるかをチェックする唯一の信頼できる方法である。</text>
+	</string>
+	<string id="ls_tip_31">
+		<text>アーティファクトはアノマリーエリア内で動き回るので、検出器によって識別しないと、ほとんどが目に見えない。</text>
+	</string>
+	<string id="ls_tip_32">
+		<text>ミュータントは夜間にさらに活発になる。そのため、ストーカーたちは日の出を待ってゾーンを探索する。</text>
+	</string>
+	<string id="ls_tip_33">
+		<text>重大な放射線被曝を受けた場合は、抗放射線薬を使用する。何もない場合、回復キットを使用する。</text>
+	</string>
+	<string id="ls_tip_34">
+		<text>経験を積んだガイドだけが離れたエリアヘ安全に速く導くことができるが、これには巨費がかかる。</text>
+	</string>
+	<string id="ls_tip_35">
+		<text>アーティファクトを売るだけが現金を作る方法ではない。無用の装備を売ることも、有益なビジネスとなる。</text>
+	</string>
+	<string id="ls_tip_38">
+		<text>武器からスコープなどを分離するには、バックパック中の武器を右クリックで該当アクションを選ぶ。</text>
+	</string>
+	<string id="ls_tip_40">
+		<text>歩行移動は"$$ACTION_ACCEL$$"キーを、かがんで移動するには"$$ACTION_CROUCH$$"キーを押す。</text>
+	</string>
+	<string id="ls_tip_41">
+		<text>ショットガンは接近戦用の武器で、敵が遠いとそれほど有効ではない。</text>
+	</string>
+	<string id="ls_tip_42">
+		<text>携帯火器に対して防護をとる場合、コンクリート壁などの何か硬いものの後ろに隠れる。</text>
+	</string>
+	<string id="ls_tip_44">
+		<text>頭を撃つと大きなダメージとなり、ほとんどの敵にとって致命的になる。</text>
+	</string>
+	<string id="ls_tip_45">
+		<text>ゾーンの各タイプのミュータントは、それぞれの格闘特性を持っている。</text>
+	</string>
+	<string id="ls_tip_46">
+		<text>グレネードを投げるのには、"$$ACTION_WPN_ZOOM$$"キーを押し続ける長さで距離を調整できる。</text>
+	</string>
+	<string id="ls_tip_47">
+		<text>敵もグレネードを使用する。グレネード・インジケータが表示されたら、その殺傷範囲からすぐに出ること。</text>
+	</string>
+	<string id="ls_tip_48">
+		<text>ジャンプする前に助走してスピードを上げれば、大きな割れ目を飛ぶことが可能になる。</text>
+	</string>
+	<string id="ls_tip_49">
+		<text>ヘルスと耐久性を示す重要なインジケータは、画面の右下隅にある。</text>
+	</string>
+	<string id="ls_tip_53">
+		<text>ゾーンにはそれ自身の営みがある。すでに一掃したエリアでも、敵ストーカーとの遭遇が常にある。</text>
+	</string>
+	<string id="ls_tip_54">
+		<text>すでに調査したアノマリーエリアへ戻る場合、前には信頼できた通路が、利用できないこともある。</text>
+	</string>
+	<string id="ls_tip_58">
+		<text>一般のストーカーたちに話しかけると、役立つ情報を引き出せるかもしれない。</text>
+	</string>
+	<string id="ls_tip_60">
+		<text>ふたつの武器スロットには、どんな武器も使用できる。</text>
+	</string>
+	<string id="ls_tip_61">
+		<text>ストーカーのキャンプの中で出逢うすべてのトレーダーは、彼の独自のアイテムを提供してくれる。</text>
+	</string>
+	<string id="ls_tip_62">
+		<text>傷ついたり放射線中毒になった場合、ストーカー・キャンプへ行けば、医者からの無料介護を利用できる。</text>
+	</string>
+	<string id="ls_tip_63">
+		<text>不要なものを持ち歩かなくて済むように、所持品をキャンプのパーソナルボックスの中に置くことができる。</text>
+	</string>
+	<string id="ls_tip_64">
+		<text>スリープ・エリアを見つけて"$$ACTION_USE$$"キーを押し、スライダーで起きる時間を決める。</text>
+	</string>
+	<string id="ls_tip_65">
+		<text>ヘルメットのナイトビジョン装置は次世代バージョンにアップグレードできる。その視界範囲を相当に拡張する。</text>
+	</string>
+	<string id="ls_tip_67">
+		<text>ゾーンでは、外を歩く場合は2～3つの予備マガジンを持っていること。</text>
+	</string>
+	<string id="ls_tip_68">
+		<text>何度も同じ場所をプレイするのを防ぐために、忘れずに規則的にゲームをセーブする。</text>
+	</string>
+	<string id="ls_tip_69">
+		<text>薬が何に効くかを知り、適切に使用する。その薬の説明を読み、効果を知ること。</text>
+	</string>
+	<string id="ls_tip_70">
+		<text>グレネードを使用する際、友軍戦士を傷つけないように、グレネードの殺傷半径を覚えておくこと。</text>
+	</string>
+	<string id="ls_tip_71">
+		<text>バックパックからアイテムを廃棄するには、アイテムを右クリックして、該当アクションを選ぶ。</text>
+	</string>
+	<string id="ls_tip_72">
+		<text>各ポイントでゲームの進行を自動的にセーブするには、オプション・メニューで設定をする。</text>
+	</string>
+	<string id="ls_tip_73">
+		<text>キャンプに戻った時は、装備を修理し、無用のアイテムを売り、弾薬と医療品を仕入れる。</text>
+	</string>
+	<string id="ls_tip_75">
+		<text>ゾーンの中での行動では、防護服、アーティファクトあるいは適切な薬を使用する。</text>
+	</string>
+	<string id="ls_tip_77">
+		<text>敵の死体には、武器や弾薬の他に、情報の入ったPDAのような価値のあるアイテムが見つかる場合がある。</text>
+	</string>
+	<string id="ls_tip_78">
+		<text>アーティファクトは価値のある埋蔵品とは異なるが、軽くて高価で、しばしば非常に有用な効果を持っている。</text>
+	</string>
+	<string id="ls_tip_79">
+		<text>多くのミュータントが放射性であり、適切な被曝防護なしでそれらに接近することは非常に危険である。</text>
+	</string>
+	<string id="ls_tip_8">
+		<text>出血を止めるために、包帯、軍用回復キットあるいはヴィンカ薬を使用できる。</text>
+	</string>
+	<string id="ls_tip_80">
+		<text>長距離スコープ範囲を調節するには、"$$ACTION_NEXT_SLOT$$"または"$$ACTION_PREV_SLOT$$"キーを押す。</text>
+	</string>
+	<string id="ls_tip_82">
+		<text>できるだけ低くかがむには、"$$ACTION_CROUCH$$"と"$$ACTION_ACCEL$$"キーを同時に押し続ける。</text>
+	</string>
+	<string id="ls_tip_84">
+		<text>横に動きながら撃ち返すには、"$$ACTION_LLOOKOUT$$"あるいは"$$ACTION_RLOOKOUT$$"キーを押す。</text>
+	</string>
+	<string id="ls_tip_85">
+		<text>双眼鏡を出すには、"$$ACTION_WPN_5$$"キーを押す。</text>
+	</string>
+	<string id="ls_tip_86">
+		<text>懐中電灯のオン／オフは、"$$ACTION_TORCH$$"キーを押す。</text>
+	</string>
+	<string id="ls_tip_87">
+		<text>ボルトを出すには、"$$ACTION_WPN_6$$"キーを押す。</text>
+	</string>
+	<string id="ls_tip_88">
+		<text>ヘルメットにナイトビジョン装置を組み込めば、"$$ACTION_NIGHT_VISION$$"キーを押してオン／オフができる。</text>
+	</string>
+	<string id="ls_tip_89">
+		<text>クイック・アクセスパネルを利用するには、"$$ACTION_QUICK_USE_1$$"、"$$ACTION_QUICK_USE_2$$"、"$$ACTION_QUICK_USE_3$$"、"$$ACTION_QUICK_USE_4$$"キーを押す。</text>
+	</string>
+	<string id="ls_tip_9">
+		<text>薬の効果はすぐには表れない。また、いくつかの薬は効果が長期間持続する。</text>
+	</string>
+	<string id="ls_tip_91">
+		<text>アーティファクトの探索には検出器が必要。使用には、"$$ACTION_SHOW_DETECTOR$$"キーを押す。</text>
+	</string>
+	<!-->string id="ls_tip_92">
+		<text>ゲームをポーズするには、"$$ACTION_PAUSE$$"キーを押す。</text>
+	</string-->
+	<string id="ls_tip_94">
+		<text>走るのは最も速い移動方法だが、一番疲れる。走るには、"$$ACTION_SPRINT_TOGGLE$$"キーを押す。</text>
+	</string>
+	<string id="ls_tip_95">
+		<text>早撃ちするよりも、しっかり狙う方がはるかに精度が高い。狙うには、"$$ACTION_WPN_ZOOM$$"キーを押す。</text>
+	</string>
+	<string id="ls_tip_96">
+		<text>アンダーバレル・グレネードランチャーを持っていれば、"$$ACTION_WPN_FUNC$$"キーで切替え。</text>
+	</string>
+	<string id="ls_tip_97">
+		<text>いくつかのタイプの弾薬を持っていれば、"$$ACTION_WPN_NEXT$$"キーを押して切り替えられる。</text>
+	</string>
+	<string id="ls_tip_98">
+		<text>マガジンが空になる前に武器にリロードするには、"$$ACTION_WPN_RELOAD$$"キーを押す。</text>
+	</string>
+	<string id="ls_tip_99">
+		<text>現在の武器を捨てるには、"$$ACTION_DROP$$"キーを押す。</text>
+	</string>
+	<string id="ls_tip_6">
+		<text>光熱放射が過ぎるのを待つには、信頼できる建物か地下で防御する。最も近い防御地がPDAにマークされる。</text>
+	</string>
+	<string id="ls_tip_12">
+		<text>アイテムをクイックアクセススロットで使用するには、バックパックから4つのスロットのひとつにドラッグする。</text>
+	</string>
+	<string id="ls_tip_24">
+		<text>画面の右下隅の血液アイコン表示について、アイコンの色で、出血がどれくらい重大かを示している。</text>
+	</string>
+	<string id="ls_tip_25">
+		<text>画面の右下隅の放射線危険アイコンは、放射線にさらされたことを警告している。</text>
+	</string>
+	<string id="ls_tip_4">
+		<text>フィルタを使用して、PDAマップのマーカーを選択して表示／非表示ができる。</text>
+	</string>
+	<string id="ls_tip_55">
+		<text>通常、アーティファクトは静止しておらず、アノマリーエリア内で移動する傾向がある。</text>
+	</string>
+	<string id="ls_tip_57">
+		<text>いくらかのストーカーは、情報や特別のアイテムを提供するか、または特定のアーティファクトの注文を与えてくれる。</text>
+	</string>
+	<string id="ls_tip_59">
+		<text>すでに調査したアノマリーエリアでも、光熱放射の後に新しいアーティファクトが現われることがある。</text>
+	</string>
+	<string id="ls_tip_74">
+		<text>ゲーム・オプション・メニュー中で、ゲームの難易度をいつでも変更できる。</text>
+	</string>
+	<string id="ls_tip_2">
+		<text>ストーカー・キャンプの技術者は武器、スーツおよびヘルメットの改造ができる。</text>
+	</string>
+	<string id="ls_tip_66">
+		<text>生き残りたいなら、放射能とアノマリーへの接近を警告するガイガー・カウンターの音を常に聞くこと。</text>
+	</string>
+	<string id="ls_tip_26">
+		<text>人々との関係は、購入したい商品・サービスの価格に直接影響する。</text>
+	</string>
+	<string id="ls_tip_11">
+		<text>より多くの弾薬を得るために、見つけた武器から取り出すことができる。</text>
+	</string>
+	<string id="ls_mp_tip_1">
+		<text>敵を殺しアーティファクトを得ると、ランクを上げるのに必要なポイントを得られる。</text>
+	</string>
+	<string id="ls_mp_tip_11">
+		<text>スモークグレネードは、アーティファクトを盗むか防御を作るために使用される。</text>
+	</string>
+	<string id="ls_mp_tip_13">
+		<text>購買メニューの左側には5つのタブがある：ピストル、メインの武器、装備、弾薬および医療用品。</text>
+	</string>
+	<string id="ls_mp_tip_14">
+		<text>購買メニュー右側に、クイック購買スロットがある。アイコンを押すと装備がセーブされ、番号を押すとロードされる。</text>
+	</string>
+	<string id="ls_mp_tip_15">
+		<text>2つ以上の武器を持っている場合、"$$ACTION_WPN_3$$"キーを押すと切り替えられる。</text>
+	</string>
+	<string id="ls_mp_tip_17">
+		<text>"$$ACTION_ARTEFACT$$"を押しながら"$$ACTION_WPN_FIRE$$"を押し続けるとアーティファクトアノマリーが現れる。</text>
+	</string>
+	<string id="ls_mp_tip_18">
+		<text>科学的スーツは、アノマリーおよび放射性エリアの中で生き残る助けになる。</text>
+	</string>
+	<string id="ls_mp_tip_2">
+		<text>アーティファクト・ハント：勝つためには、決まった数のアーティファクトを基地に持ってこなければならない。</text>
+	</string>
+	<string id="ls_mp_tip_20">
+		<text>バックパック中の武器を右クリックして、コンテキスト・メニューから該当アクションを選ぶ。</text>
+	</string>
+	<string id="ls_mp_tip_22">
+		<text>歩行移動には"$$ACTION_ACCEL$$"キーを、かがんで移動するには"$$ACTION_CROUCH$$"キーを押す。</text>
+	</string>
+	<string id="ls_mp_tip_23">
+		<text>ショットガンは接近戦用の武器で、敵が遠いとそれほど有効ではない。</text>
+	</string>
+	<string id="ls_mp_tip_24">
+		<text>携帯火器に対して防護をとる場合、コンクリート壁などの硬いものの後ろに隠れる。</text>
+	</string>
+	<string id="ls_mp_tip_26">
+		<text>頭を撃つと大きなダメージとなり、ほとんどの敵にとって致命的になる。</text>
+	</string>
+	<string id="ls_mp_tip_27">
+		<text>速い移動、ジャンプ、そして傷は著しく耐久性を縮小する。</text>
+	</string>
+	<string id="ls_mp_tip_28">
+		<text>グレネードを投げるのに、 "$$ACTION_WPN_ZOOM$$"キーを押し続ける長さで距離を調整できる。</text>
+	</string>
+	<string id="ls_mp_tip_29">
+		<text>敵もグレネードを使用する。グレネード・インジケータが表示されたら、その殺傷範囲からすぐに出ること。</text>
+	</string>
+	<string id="ls_mp_tip_3">
+		<text>デスマッチ：勝つには最多の殺害ポイントを得る。</text>
+	</string>
+	<string id="ls_mp_tip_30">
+		<text>ジャンプする前に助走してスピードを上げれば、大きな割れ目を飛ぶことが可能になる。</text>
+	</string>
+	<string id="ls_mp_tip_31">
+		<text>ヘルスと耐久性を示す重要なインジケータは、画面の右下隅にある。</text>
+	</string>
+	<string id="ls_mp_tip_35">
+		<text>ミニマップの矢が上を指している場合、アーティファクトは現在の場所の上方にある。</text>
+	</string>
+	<string id="ls_mp_tip_36">
+		<text>現金をさらに獲得するために敵のバックパックの中身を集める。余分の装備は基地で売ることができる。</text>
+	</string>
+	<string id="ls_mp_tip_37">
+		<text>自分のチームのアーティファクトを持ったメンバーを援護しなくてはならない。</text>
+	</string>
+	<string id="ls_mp_tip_38">
+		<text>グレネードを使用する際、友軍戦士を傷つけないように、グレネードの殺傷半径を覚えておくこと。</text>
+	</string>
+	<string id="ls_mp_tip_39">
+		<text>ボイスメッセージは、"$$ACTION_SPEECH_MENU_0$$"または"$$ACTION_SPEECH_MENU_1$$"キーを押す。</text>
+	</string>
+	<string id="ls_mp_tip_4">
+		<text>チーム・デスマッチ：勝つためには、チームは敵より多くの殺害ポイントを得なくてはならない。</text>
+	</string>
+	<string id="ls_mp_tip_40">
+		<text>"$$ACTION_VOTE_BEGIN$$"キーを押して投票を始められる。</text>
+	</string>
+	<string id="ls_mp_tip_41">
+		<text>ゲーム・スコアを見るには、"$$ACTION_SCORES$$"キーを押す。</text>
+	</string>
+	<string id="ls_mp_tip_42">
+		<text>待機期間が終了したら、"$$ACTION_JUMP$$"キーを押して復活する。</text>
+	</string>
+	<string id="ls_mp_tip_43">
+		<text>購買メニューを開くには、基地内にいる時に、"$$ACTION_BUY_MENU$$"キーを押す。</text>
+	</string>
+	<string id="ls_mp_tip_44">
+		<text>"$$ACTION_CHAT$$"キーで全体チャットを、チーム内通信は"$$ACTION_CHAT_TEAM$$"キーを押す。</text>
+	</string>
+	<string id="ls_mp_tip_45">
+		<text>走るのは最も速い移動方法だが、一番疲れる。走るには、"$$ACTION_SPRINT_TOGGLE$$"キーを押す。</text>
+	</string>
+	<string id="ls_mp_tip_46">
+		<text>早撃ちよりも、しっかり狙う方がはるかに精度が高い。狙うには、"$$ACTION_WPN_ZOOM$$"キーを押す。</text>
+	</string>
+	<string id="ls_mp_tip_47">
+		<text>アンダーバレル・グレネードランチャーは"$$ACTION_WPN_FUNC$$"で通常射撃モードと切り替えられる。</text>
+	</string>
+	<string id="ls_mp_tip_48">
+		<text>武器にいくつかのタイプの弾薬を持っていれば、"$$ACTION_WPN_NEXT$$"キーを押して切り替えられる。</text>
+	</string>
+	<string id="ls_mp_tip_49">
+		<text>マガジンが空になる前に武器にリロードするには、"$$ACTION_WPN_RELOAD$$"キーを押す。</text>
+	</string>
+	<string id="ls_mp_tip_5">
+		<text>アーティファクト奪取：勝つためには、決まった数の敵のアーティファクトを基地に持ってこなければならない。</text>
+	</string>
+	<string id="ls_mp_tip_50">
+		<text>現在の武器を捨てるには、"$$ACTION_DROP$$"キーを押す。</text>
+	</string>
+	<string id="ls_mp_tip_51">
+		<text>バックパックの中を見るには、"$$ACTION_INVENTORY$$"キーを押す。</text>
+	</string>
+	<string id="ls_mp_tip_52">
+		<text>射撃モードの切替は、"$$ACTION_WPN_FIREMODE_NEXT$$"または"$$ACTION_WPN_FIREMODE_PREV$$"を押す。</text>
+	</string>
+	<string id="ls_mp_tip_53">
+		<text>できるだけ低くかがむには、"$$ACTION_CROUCH$$"と"$$ACTION_ACCEL$$"キーを同時に押し続ける。</text>
+	</string>
+	<string id="ls_mp_tip_55">
+		<text>コーナーをぐるっと見るには、"$$ACTION_LLOOKOUT$$"または"$$ACTION_RLOOKOUT$$"キーを押す。</text>
+	</string>
+	<string id="ls_mp_tip_6">
+		<text>アーティファクト奪取：自分の基地にアーティファクトを持っていくには、"$$ACTION_USE$$"を押して拾い上げる。</text>
+	</string>
+	<string id="ls_mp_tip_7">
+		<text>アーティファクトハント：アーティファクトの破壊は、"$$ACTION_ARTEFACT$$"を押して取り出し、"$$ACTION_WPN_FIRE$$"を押し続ける。</text>
+	</string>
+	<string id="ls_mp_tip_8">
+		<text>アーティファクトを運んでいる間は走ることができない。</text>
+	</string>
+	<string id="ls_tip_100">
+		<text>バックパックの中を見るには、"$$ACTION_INVENTORY$$"キーを押す。</text>
+	</string>
+	<string id="ls_tip_36">
+		<text>アイテムを修理するためには技術者を見つけ、改造ウィンドウでアイテムを選択し、修理ボタンをクリックする。</text>
+	</string>
+	<string id="ls_tip_81">
+		<text>射撃モードの切替えは、"$$ACTION_WPN_FIREMODE_NEXT$$"または"$$ACTION_WPN_FIREMODE_PREV$$"を押す。</text>
+	</string>
+	<string id="ls_tip_7">
+		<text>武器の水平性は、弾丸軌道に影響し、発砲後に元の位置に戻って狙うまでの時間を決定する。</text>
+	</string>
+	<string id="ls_tip_5">
+		<text>いくつかのスーツには統合ヘルメットが付いている。そのようなスーツには他のヘルメットを使用することはできない。</text>
+	</string>
+	<string id="ls_tip_76">
+		<text>武器はそれぞれ独自の精度、扱い易さ、ダメージ、連射速度がある。</text>
+	</string>
+	<string id="ls_tip_51">
+		<text>移動中には、銃の射撃精度はかなり落ちる。静止して立つか、かがむ方が良い。</text>
+	</string>
+	<string id="ls_mp_tip_10">
+		<text>エナジードリンクは一時的に回復を速め、長いダッシュができる。</text>
+	</string>
+	<string id="ls_mp_tip_12">
+		<text>デスマッチ・モード・プレイでは、無制限に弾薬を持っている。</text>
+	</string>
+	<string id="ls_tip_16">
+		<text>重大な被曝はヘルスを損ない、十分な治療をしないと致死的になる。</text>
+	</string>
+	<string id="ls_tip_19">
+		<text>長期の戦闘に出かける場合は食料を摂ること。空腹になると、耐久力の回復に非常に苦しむ。</text>
+	</string>
+	<string id="ls_c_tip_90">
+		<text>PDAには、マップ、現在のミッションに関する情報、統計情報、メッセージログがあります。PDAを開くには、$$ACTION_ACTIVE_JOBS$$を押してください。</text>
+	</string>
+
+	<string id="ls_c_tip_24">
+		<text>画面右下の血のしずくマークは、出血とそれを止める必要性を警告しています。マークの色は、出血の程度を表しています。</text>
+	</string>
+
+	<string id="ls_c_tip_46">
+		<text>$$ACTION_WPN_ZOOM$$を長押しすることで、グレネードを投げる距離を調整することができます。</text>
+	</string>
+
+	<string id="ls_c_tip_71">
+		<text>バックパックからアイテムを捨てるには、$$ACTION_UI_CONTEXT_MENU$$を押して、コンテキストメニューから適切なアクションを選択します。</text>
+	</string>
+
+	<string id="ls_c_tip_74">
+		<text>ゲームのオプションメニューから、ゲームの難易度をいつでも変更することができます。</text>
+	</string>
+
+	<string id="ls_c_tip_31">
+		<text>ほとんどのアーティファクトは、検出器で識別されるまでアノマリー区域内を移動し続けるため、目視で確認できません。</text>
+	</string>
+
+	<string id="ls_c_tip_18">
+		<text>エナジードリンクはスタミナの回復を一時的に高めて、移動能力のポテンシャルを引き上げます。</text>
+	</string>
+
+	<string id="ls_c_tip_21">
+		<text>画面の左上にあるノイズと敵の検知表示で、自分の潜伏ステータスを確認することができます。</text>
+	</string>
+
+	<string id="ls_c_tip_25">
+		<text>被曝すると、画面右下にある放射線危険度のマークが反応します。このようなときは、放射線対策用の薬を使いましょう。マークの色は、被爆の程度を表します。</text>
+	</string>
+
+	<string id="ls_c_tip_62">
+		<text>負傷や被爆した状態でストーカーキャンプに来ると、現地のアシスタントから無料で治療を受けることができます。</text>
+	</string>
+
+	<string id="ls_c_tip_95">
+		<text>手当たり次第に射撃するよりも、エイムした方が弾道の精度が劇的に高まります。エイムを行うには、$$ACTION_WPN_ZOOM$$を押します。</text>
+	</string>
+
+	<string id="ls_c_tip_86">
+		<text>フラッシュライトのオン・オフは、$$ACTION_TORCH$$を押して切り替えられます。</text>
+	</string>
+
+	<string id="ls_c_tip_17">
+		<text>食料は、空腹を解消するだけでなく、体力も少量回復してくれます。</text>
+	</string>
+
+	<string id="ls_c_tip_65">
+		<text>ヘルメットに搭載されたナイトビジョン機器は、次世代バージョンにアップグレードできます。これにより、射程範囲が大幅に広がります。</text>
+	</string>
+
+	<string id="ls_c_tip_35">
+		<text>アーティファクトを売却するほかにも、いらなくなった装備品を売ることで所持金を増やすことができます。ただし、損傷が激しいものには、商人は興味を示さないでしょう。</text>
+	</string>
+
+	<string id="ls_c_tip_15">
+		<text>ボルトを投げることで、アノマリー区域の境界を特定できます。</text>
+	</string>
+
+	<string id="ls_c_tip_23">
+		<text>医療用品の一部は、有害的な効果に対する体の耐性を高めるものがあります。これを使用すれば、アノマリー区域内でのミッションでの生存率を高めてくれます。</text>
+	</string>
+
+	<string id="ls_c_tip_1">
+		<text>ウォッカは抗放射線剤の安価な代替品で、放射線による身体への影響を軽減する最も簡単な方法です。</text>
+	</string>
+
+	<string id="ls_c_tip_78">
+		<text>アーティファクトは、ただ売却価値が高い品物ではありません。軽くて高価なことに加え、とても役に立つ効果を備えていることが多くあります。</text>
+	</string>
+
+	<string id="ls_c_tip_34">
+		<text>ストーカーの多くは目的地の近場まで案内してくれますが、遠方まで安全かつ迅速に案内してくれるのは、経験豊富なガイドだけです。それにもかかわらず、彼らは高額な料金を請求してきます。</text>
+	</string>
+
+	<string id="ls_c_tip_26">
+		<text>周りの人との人間関係は、購入する商品やサービスの価格に直接影響します。もし、人間関係がが険悪なら、値引きはあまり期待できません。もし、人間関係が良好であれば、取引先が何か特別なサービスを提供してくれるかもしれません。</text>
+	</string>
+
+	<string id="ls_tip_90">
+		<text>PDAを開くには、"$$ACTION_ACTIVE_JOBS$$"キーを押す。</text>
+	</string>
+
+	<string id="ls_c_tip_48">
+		<text>ジャンプする前にスピードアップすることで、大きな隙間や亀裂を超えることができます。</text>
+	</string>
+
+	<string id="ls_c_tip_20">
+		<text>スタミナが低くなっていると、肝心な時の移動力が下がり、敵からの攻撃を受けやすくなります。</text>
+	</string>
+
+	<string id="ls_c_tip_44">
+		<text>ヘッドショットは会心ダメージを与え、ほとんどの敵にとって致命的な効果があります。</text>
+	</string>
+
+	<string id="ls_c_tip_51">
+		<text>動いていると、射撃精度が著しく下がってしまいます。立ち止まったり、しゃがんだりして精度を上げましょう。</text>
+	</string>
+
+	<string id="ls_c_tip_37">
+		<text>AC-96/2には、特徴的な2ラウンド連射モードがあります。このモードでは、連射される2発の弾が同じ場所に命中します。</text>
+	</string>
+
+	<string id="ls_c_tip_84">
+		<text>敵の弾が当たる可能性を低くするためには、死角を利用して応戦しましょう。死角となっている場所から、$$ACTION_WPN_ZOOM$$を長押しして$$ACTION_UI_TAB_LEFT$$/$$ACTION_UI_TAB_RIGHT$$押します。</text>
+	</string>
+
+	<string id="ls_c_tip_33">
+		<text>重度の被爆をした場合は、抗放射線薬品を使いましょう。もし何も所持していなければ、初期症状にはメディキットで対応しながら、メディックのところに行きましょう。</text>
+	</string>
+
+	<string id="ls_c_tip_16">
+		<text>ゾーンの中で最も身近な脅威の1つは放射線です。重度の被曝は体力を減らし、適切な治療を受けなければ命に関わる問題になります。</text>
+	</string>
+
+	<string id="ls_c_tip_96">
+		<text>アンダーバレル・グレネード・ランチャーを持っている場合は、$$ACTION_WPN_FUNC$$を押して通常の射撃モードと切り替えることができます。</text>
+	</string>
+
+	<string id="ls_c_tip_76">
+		<text>それぞれの武器には、発砲する際の精度・操作性・ダメージ・発射速度に個性があり、豊富な選択肢の中から自分に合ったものを選ぶことが可能です。</text>
+	</string>
+
+	<string id="ls_c_tip_69">
+		<text>薬品を適切に使うには、その効果を分かっておく必要があります。特定の薬の効果を知るには、薬の説明を確認しましょう。</text>
+	</string>
+
+	<string id="ls_c_tip_82">
+		<text>しゃがむだけでは通れない場所もあります。$$ACTION_CROUCH$$を長押しすることでさらに低くしゃがむことができます。</text>
+	</string>
+
+	<string id="ls_c_tip_94">
+		<text>走ることは、最も早く移動できる反面、最も体力の消耗が激しい移動手段です。$$ACTION_run_or_lie_down$$を押すことで走れます。</text>
+	</string>
+
+	<string id="ls_tip_93">
+		<text>クイックセーブは"$$ACTION_QUICK_SAVE$$"キーを、クイックロードは"$$ACTION_QUICK_LOAD$$"キーを押す。</text>
+	</string>
+
+	<string id="ls_c_tip_91">
+		<text>アーティファクトを探すには、検出器を取り出す必要があります。</text>
+	</string>
+
+	<string id="ls_c_tip_40">
+		<text>雑音を最小限に抑えながら移動したい場合は、左スティックを少し傾けて歩くか、$$ACTION_CROUCH$$を押してしゃがみましょう。</text>
+	</string>
+
+	<string id="ls_c_tip_100">
+		<text>バックパックの中身を見るには、$$ACTION_INVENTORY$$を押します。</text>
+	</string>
+
+	<string id="ls_c_tip_13">
+		<text>アーティファクトを探すには、検出器が必要です。優れた検出器は、探索を容易にして、より価値が高いアーティファクトを検出することができます。</text>
+	</string>
+
+	<string id="ls_c_tip_77">
+		<text>敵の死体には、武器や弾薬だけでなく、情報が入ったPDAのような価値が高いものがあることがあります。</text>
+	</string>
+
+	<string id="ls_c_tip_59">
+		<text>エミッションの完了後も、すでに探索したアノマリー区域で新たなアーティファクトが見つかることもあります。</text>
+	</string>
+
+	<string id="ls_c_tip_41">
+		<text>ショットガンは、接近戦闘用の武器です。敵から離れれば離れるほど、威力が低くなってしまいます。</text>
+	</string>
+
+	<string id="ls_c_tip_50">
+		<text>スナイパーライフルは、安定した平坦度と射撃精度があるため、遠距離から敵を抹殺するのに最適です。ただし、近距離戦ではあまり効果を発揮しません。</text>
+	</string>
+
+	<string id="ls_c_tip_19">
+		<text>レイドに向かうときは、食料をいくつか持っていきましょう。空腹度が高くなると、スタミナの回復に大きな悪影響が及びます。</text>
+	</string>
+
+	<string id="ls_c_tip_54">
+		<text>ゾーンの中では、古い情報に頼らず、常に注意を配りましょう。すでに探索したアノマリー区域に戻ると、以前使った道が使えなくなっていることがあります。</text>
+	</string>
+
+	<string id="ls_c_tip_98">
+		<text>弾が切れる前に武器のリロードを行うには、$$ACTION_WPN_RELOAD$$を押します。</text>
+	</string>
+
+	<string id="ls_c_tip_7">
+		<text>銃身の平坦度は弾道に影響します。武器の操作性は、発砲後に照準が元の位置に戻るまでの時間を決定します。</text>
+	</string>
+
+	<string id="ls_c_tip_85">
+		<text>双眼鏡には、目標物特定機能が内蔵されているため、遠くのものをよく見るだけでなく、敵の位置を特定することもできます。</text>
+	</string>
+
+	<string id="ls_c_tip_28">
+		<text>役に立つ効果があるものの、ほとんどのアーティファクトは放射線を放っています。これは、放射線を吸収するアーティファクトで埋め合わせることができます。</text>
+	</string>
+
+	<string id="ls_c_tip_58">
+		<text>いつものストーカーに話しかけると、新しいエリアや最近の出来事について、有益な情報を得られるかもしれません。</text>
+	</string>
+
+	<string id="ls_c_tip_39">
+		<text>ダブルバレルのショットガンは、両方のバレルをほぼ同時に発射させることができます。</text>
+	</string>
+
+	<string id="ls_c_tip_68">
+		<text>同じ部分を繰り返しプレイする必要がないように、定期的にゲームをセーブするようにしましょう。</text>
+	</string>
+
+	<string id="ls_c_tip_4">
+		<text>PDA内のマップ上で、フィルターを使うことで、マーカーを隠したり表示したりすることができます。フィルターボタンは、マップ上の、進行中のミッションラインの下にあります。</text>
+	</string>
+
+	<string id="ls_c_tip_97">
+		<text>現在使用している武器に対して、複数の種類の弾薬を持っている場合、$$ACTION_WPN_NEXT$$を押してそれらを切り替えることができます。</text>
+	</string>
+
+	<string id="ls_c_tip_99">
+		<text>現在の武器を手放すには、$$ACTION_DROP$$を押します。</text>
+	</string>
+
+	<string id="ls_c_tip_45">
+		<text>ゾーンの中にいる変異者は、種族ごとに戦闘特性があります。それを考慮すれば、生存率が劇的に上がるでしょう。</text>
+	</string>
+
+	<string id="ls_c_tip_2">
+		<text>ストーカーキャンプにいる技術者たちは、武器・装備・ヘルメットをアップグレードしてくれます。</text>
+	</string>
+
+	<string id="ls_c_tip_47">
+		<text>敵もグレネードを使ってくることがあります。グレネードサインを見たら、即座に致死ゾーンから離れましょう。</text>
+	</string>
+
+	<string id="ls_c_tip_53">
+		<text>ゾーンは独自の生態系を持っており、すでに探索した場所でも変異者や敵のストーカーに出くわす可能性が常にあります。</text>
+	</string>
+
+	<string id="ls_c_tip_72">
+		<text>オプションメニューにある特殊設定を使うと、キーポイントでゲームの進行を自動的にセーブすることができる。</text>
+	</string>
+
+	<string id="ls_c_tip_29">
+		<text>銃器を持って武装している敵に対して、ナイフは役に立ちません。接近戦や、暗殺のために使いましょう。</text>
+	</string>
+
+	<string id="ls_c_tip_49">
+		<text>体力やスタミナなどの重要なステータスは、画面の右下に表示されます。</text>
+	</string>
+
+	<string id="ls_c_tip_30">
+		<text>検出器だけが、アノマリー区域にアーティファクトが潜んでいるか確認する効果的な方法です。</text>
+	</string>
+
+	<string id="ls_c_tip_9">
+		<text>薬品には即効性はないものの、かなり長い間効果が続くものもあります。</text>
+	</string>
+
+	<string id="ls_c_tip_32">
+		<text>ストーカーがゾーンに侵入する前に太陽の光を待つ傾向にあるのは、変異者に夜になるとより活動的になる性質があるためです。</text>
+	</string>
+
+	<string id="ls_c_tip_88">
+		<text>ヘルメットにナイトビジョンが搭載されている場合、$$ACTION_NIGHT_VISION$$を押してオン・オフを切り替えられます。</text>
+	</string>
+
+	<string id="ls_c_tip_55">
+		<text>アーティファクトは、通常同じ場所に留まらず、アノマリー区域内を移動する傾向があります。アーティファクトの捕獲に夢中になってしまうと、ついアノマリー区域に迷い込んでしまうでしょう。</text>
+	</string>
+
+	<string id="ls_c_tip_5">
+		<text>一部の装備にはヘルメットがセットになっているものがあります。そのような装備には、他のヘルメットを使うことはできません。</text>
+	</string>
+
+	<string id="ls_c_tip_42">
+		<text>小型銃による攻撃から身を守るには、必ず頑丈なものの後ろに隠れるようにしましょう。コンクリートの壁と比べて、木製の板や、薄い鉄では、安全な場所にはなりません。</text>
+	</string>
+
+	<string id="ls_c_tip_64">
+		<text>特定の時間まで待つ必要がある場合は、キャンプで仮眠をとって時間をつぶすことができます。これを行うには、まずスリープ・エリアを見つけ、$$ACTION_USE$$を押して、起きる時間を決めます。</text>
+	</string>
+
+	<string id="ls_c_tip_63">
+		<text>キャンプでは個人用の箱に荷物を預けることができます。これにより、不要な荷物を持ち歩かないで済みます。</text>
+	</string>
+
+	<string id="ls_c_tip_12">
+		<text>アイテムをクイックスロットで使用するには、バックパック内のアイテムを選択し、「アクション」メニューから「クイックスロットに追加」を選択し、スロットを指定します。</text>
+	</string>
+
+	<string id="ls_c_tip_27">
+		<text>バックパックの中にあるアイテムのコンテキストメニューを表示するには、アイテムをハイライトして、$$ACTION_UI_CONTEXT_MENU$$を押します。</text>
+	</string>
+
+	<string id="ls_c_tip_3">
+		<text>装備重量は、スタミナを低下させます。過剰な重量は移動を制限し、完全な重量過多状態になると、全く移動できなくなります。</text>
+	</string>
+
+	<string id="ls_c_tip_79">
+		<text>ゾーンの環境上、多くの変異者が放射線を放っています。十分な放射線防護をせずに近づくことは非常に危険です。</text>
+	</string>
+
+	<string id="ls_c_tip_43">
+		<text>ピストルを侮ってはなりません。かなりの中断性能を有しており、装甲の薄い相手には非常に有効です。</text>
+	</string>
+
+	<string id="ls_c_tip_52">
+		<text>ゾーンの過酷な環境では、武器や防護服はすぐに消耗してしまいます。消耗した武器は精度が落ち、誤射しやすくなり、装備は身を守れなくなってしまいます。</text>
+	</string>
+
+	<string id="ls_c_tip_22">
+		<text>片手に探知機を持っていても、もう片方の手でナイフやピストル、ボルトを使うことができます。</text>
+	</string>
+
+	<string id="ls_c_tip_60">
+		<text>両方の武器スロットにおいて任意の武器を使用することができます。これにより、アサルトライフルとショットガン、ピストルとスナイパーライフルのような柔軟な武器の組み合わせが可能になります。</text>
+	</string>
+
+	<string id="ls_c_tip_66">
+		<text>生き残るためには、ガイガーカウンターが放射能に反応したときに発するパチパチという音と、アノマリーに近づいたことを知らせるアノマリー危険信号を常に把握することが大切です。</text>
+	</string>
+
+	<string id="ls_c_tip_57">
+		<text>ストーカーの一部には、情報や限定品を提供したり、特定のアーティファクトについての依頼してくる人もいます。</text>
+	</string>
+
+	<string id="ls_c_tip_75">
+		<text>ゾーンへの突入時にアノマリー区域による悪影響を軽減するために、防護服やアーティファクトを使用したり、適切な薬品を服用しましょう。</text>
+	</string>
+
+	<string id="ls_c_tip_38">
+		<text>サイレンサー、スコープ、アンダーバレルグレネードランチャーを武器から取り外すには、バックパック内の武器を選択し、コンテキストメニューから適切なアクションを選択します。</text>
+	</string>
+
+	<string id="ls_c_tip_70">
+		<text>グレネードを使うことで、遮蔽物の向こう側にいる敵を攻撃することができます。グレネード使用時は爆発範囲に注意して、味方を巻き込まないようにしましょう。</text>
+	</string>
+
+	<string id="ls_c_tip_81">
+		<text>ほとんどの武器は初期状態から複数の射撃モードを持っており、後から改造品を購入して新たな射撃モードを追加することができます。射撃モードを切り替えるには、$$ACTION_WPN_FIREMODE_NEXT$$または$$ACTION_WPN_FIREMODE_PREV$$を押します。</text>
+	</string>
+
+	<string id="ls_c_tip_8">
+		<text>出血は、包帯、軍用医療キット、ヴィンカドラッグを使用して止めることができます。出血は素早く対処しないと、体力に深刻なダメージを受けます。</text>
+	</string>
+
+	<string id="ls_c_tip_73">
+		<text>キャンプに戻ったら、装備を修理し、不要な戦利品を売却し、弾薬や医療品を補充する必要があります。</text>
+	</string>
+
+	<string id="ls_c_tip_67">
+		<text>ゾーンに立ち入るときは、予備の弾薬を複数持っておくと、何かと重宝することでしょう。</text>
+	</string>
+
+	<string id="ls_c_tip_56">
+		<text>医療用品の中には、固有の特性を持つものがあります。例えば、ヘラクレス錠は一時的に装備重量を増やすことができ、サイブロック薬はサイエミッションへの耐性を増やします。</text>
+	</string>
+
+	<string id="ls_c_tip_6">
+		<text>放出をやり過ごすには、信頼できる建物や地下に避難してください。放出が近づくと、PDAに最も近い避難場所が表示されます。</text>
+	</string>
+
+	<string id="ls_c_tip_36">
+		<text>アイテムを修理するには、技術者を探し、改造画面でアイテムを選択した後、修理ボタンをクリックする必要があります。また、同じウィンドウ内でアイテムの$$ACTION_UI_CONTEXT_MENU$$を押して、コンテキストメニューから適切なアクションを選択することもできます。</text>
+	</string>
+
+	<string id="ls_c_tip_14">
+		<text>ストーカーたちは、武装状態のままの人をキャンプに入れてくれません。</text>
+	</string>
+
+	<string id="ls_c_tip_11">
+		<text>見つけた武器から弾薬を抜き取ることで、より多くの弾薬を手に入れることができます。これを行うには、バックパックにある武器の$$ACTION_UI_CONTEXT_MENU$$を押して、コンテキストメニューから適切なアクションを選択します。</text>
+	</string>
+
+	<string id="ls_c_tip_61">
+		<text>ストーカーキャンプで出会える商人たちには、それぞれ独自の品揃えがあります。例えば、メディックであれば医療品を最もよく揃えているはずです。</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ui_mm_crouch_toggle">
+		<text>Guggolбs vбltу</text>
+	</string>
+
+	<string id="ui_mm_restore_default_settings">
+		<text>Biztosan vissza akarod бllнtani az alapйrtelmezett beбllнtбsokat?</text>
+	</string>
+
+	<string id="ui_mainmenu_autosave">
+		<text>Automatikus mentйs - </text>
+	</string>
+
+	<string id="ui_mainmenu_manualsave">
+		<text>Manuбlis mentйs - </text>
+	</string>
+
+	<string id="ui_mainmenu_quicksave">
+		<text>Gyors mentйs - </text>
+	</string>
+
+	<string id="ui_mm_frame_limit">
+		<text>Frame korlбt</text>
+	</string>
+
+	<string id="st_opt_unlimited">
+		<text>korlбtlan</text>
+	</string>
+
+	<string id="ui_mm_sprint_toggle">
+		<text>Sprint vбltбs</text>
+	</string>
+
+	<string id="mp_close_combat">
+		<text>Kontйner raktбr</text>
+	</string>
+
+	<string id="ui_mm_invert_mouse">
+		<text>Kamera megfordнtбsa</text>
+	</string>
+
+	<string id="mp_military_1">
+		<text>Katonai raktбrak</text>
+	</string>
+
+	<string id="st_display_mode_windowed">
+		<text>Ablakos</text>
+	</string>
+
+	<string id="st_display_mode_borderless">
+		<text>Ablakos hatбr nйlkьli</text>
+	</string>
+
+	<string id="ui_mm_autoaim_enable">
+		<text>Segнtsйg engedйlyezve</text>
+	</string>
+
+	<string id="ui_mm_autoaim_enabletracking">
+		<text>Kцvetйsi asszisztens engedйlyezve</text>
+	</string>
+
+	<string id="ui_mm_autoaim_strength">
+		<text>Erх asszisztens</text>
+	</string>
+
+	<string id="ui_mm_challenges">
+		<text>Kihнvбsok</text>
+	</string>
+
+	<string id="ui_mm_display_mode">
+		<text>Megjelenнtйsi mуd</text>
+	</string>
+
+	<string id="ui_mm_overwrite_save">
+		<text>A bejegyzйs tцrlйsre йs felьlнrбsra kerьl. Folytatod?</text>
+	</string>
+
+</string_table>

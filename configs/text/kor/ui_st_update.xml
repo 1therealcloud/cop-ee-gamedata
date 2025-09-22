@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="legend_ui_pda_show_mission">
+		<text>$$ACTION_pda_tasks_toggle_list$$ 미션 보이기</text>
+	</string>
+
+	<string id="legend_ui_pda_hide_mission">
+		<text>$$ACTION_pda_tasks_toggle_list$$ 미션 숨기기</text>
+	</string>
+
+	<string id="legend_ui_pda_toggle_legend">
+		<text>$$ACTION_pda_tasks_toggle_legend$$ 범례</text>
+	</string>
+
+	<string id="legend_ui_tasks_filter_next">
+		<text>$$ACTION_pda_tasks_subtab_right$$ 과제 필터</text>
+	</string>
+
+	<string id="legend_ui_tasks_filter_toggle">
+		<text>$$ACTION_pda_tasks_filter_toggle$$ 필터 전환</text>
+	</string>
+
+	<string id="legend_ui_info">
+		<text>$$ACTION_UI_HINT$$ 정보</text>
+	</string>
+
+	<string id="legend_ui_repair">
+		<text>$$ACTION_actormenu_action$$ 수리하기</text>
+	</string>
+
+	<string id="ui_mm_controller_type">
+		<text>컨트롤러 유형</text>
+		<text_ps5>입력 방법</text_ps5>
+		<text_xbox>입력 방법</text_xbox>
+	</string>
+
+	<string id="controller">
+		<text>컨트롤러</text>
+		<text_ps5>DualSense® 무선 컨트롤러</text_ps5>
+	</string>
+
+	<string id="kbdmouse">
+		<text>키보드와 마우스</text>
+	</string>
+
+	<string id="ui_pad_layout_PDA">
+		<text>PDA 열기</text>
+	</string>
+
+	<string id="ui_pad_layout_wheel">
+		<text>무기 휠</text>
+	</string>
+
+	<string id="ui_pad_layout_aim">
+		<text>조준</text>
+	</string>
+
+	<string id="ui_pad_layout_strafe">
+		<text>좌우 이동</text>
+	</string>
+
+	<string id="ui_pad_layout_move">
+		<text>이동</text>
+	</string>
+
+	<string id="ui_pad_layout_sprint">
+		<text>달리기</text>
+	</string>
+
+	<string id="ui_pad_layout_menu">
+		<text>메뉴</text>
+	</string>
+
+	<string id="ui_pad_layout_jump">
+		<text>점프</text>
+	</string>
+
+	<string id="ui_pad_layout_shoot">
+		<text>사격</text>
+	</string>
+
+	<string id="ui_pad_layout_inventory">
+		<text>인벤토리</text>
+	</string>
+
+	<string id="ui_pad_layout_crouch">
+		<text>앉기</text>
+	</string>
+
+	<string id="ui_pad_layout_reload">
+		<text>재장전</text>
+	</string>
+
+	<string id="ui_pad_layout_action">
+		<text>액션</text>
+	</string>
+
+	<string id="ui_pad_layout_lookx">
+		<text>X축 시점 전환</text>
+	</string>
+
+	<string id="ui_pad_layout_Looky">
+		<text>Y축 시점 전환</text>
+	</string>
+
+	<string id="ui_pad_layout_torch">
+		<text>손전등</text>
+	</string>
+
+	<string id="ui_pad_layout_quckslot0">
+		<text>퀵슬롯의 첫 번째 아이템</text>
+	</string>
+
+	<string id="ui_pad_layout_quckslot1">
+		<text>퀵슬롯의 두 번째 아이템</text>
+	</string>
+
+	<string id="ui_pad_layout_quckslot2">
+		<text>퀵슬롯의 세 번째 아이템</text>
+	</string>
+
+	<string id="ui_pad_layout_quckslot3">
+		<text>퀵슬롯의 네 번째 아이템</text>
+	</string>
+
+	<string id="legend_ui_talk_reply_PC">
+		<text>($$ACTION_USE$$) 선택</text>
+	</string>
+
+	<string id="legend_ui_talk_select">
+		<text>($$ACTION_FORWARD$$)/($$ACTION_BACK$$) 이동</text>
+	</string>
+
+	<string id="ui_mm_controller_icon_type">
+		<text>컨트롤러 아이콘 표시 유형</text>
+	</string>
+
+	<string id="ui_slider_amount">
+		<text>합계: %d</text>
+	</string>
+
+	<string id="st_move_to_offer_amount">
+		<text>판매 합계</text>
+	</string>
+
+	<string id="st_remove_from_offer_amount">
+		<text>제거 합계</text>
+	</string>
+
+	<string id="st_move_to_cart_amount">
+		<text>선택 합계</text>
+	</string>
+
+	<string id="st_remove_from_cart_amount">
+		<text>제거 합계</text>
+	</string>
+
+	<string id="st_move_to_dead_body">
+		<text>대상으로 옮기기</text>
+	</string>
+
+	<string id="st_remove_from_offer_all">
+		<text>모두 제거</text>
+	</string>
+
+	<string id="st_move_to_cart">
+		<text>선택</text>
+	</string>
+
+	<string id="legend_ui_area_selector">
+		<text>$$ICON$controller$rs$$ 구역 전환</text>
+	</string>
+
+	<string id="st_repair">
+		<text>수리하기</text>
+	</string>
+
+	<string id="legend_ui_talk_open_trade">
+		<text>$$ACTION_talk_trade_upgrade$$ 거래</text>
+	</string>
+
+	<string id="legend_ui_use">
+		<text>$$ACTION_UI_ACCEPT$$ 사용하기</text>
+	</string>
+
+	<string id="legend_ui_actions">
+		<text>$$ACTION_UI_CONTEXT_MENU$$ 액션</text>
+	</string>
+
+	<string id="st_remove_from_offer">
+		<text>삭제</text>
+	</string>
+
+	<string id="legend_ui_take_all">
+		<text>$$ACTION_actormenu_action$$ 모두 가져가기</text>
+	</string>
+
+	<string id="legend_ui_ammo_next">
+		<text>$$ACTION_wpn_next$$ 탄약 유형</text>
+	</string>
+
+	<string id="legend_ui_tasks_map_zoom">
+		<text>$$ACTION_pda_tasks_map_zoom_out$$/$$ACTION_pda_tasks_map_zoom_in$$ 축소/확대 수준</text>
+	</string>
+
+	<string id="legend_ui_talk_log">
+		<text>$$ICON$controller$rsv$$ 로그</text>
+	</string>
+
+	<string id="legend_ui_pda_scroll_info">
+		<text>$$ICON$controller$rsv$$ 스크롤</text>
+	</string>
+
+	<string id="legend_ui_trade">
+		<text>$$ACTION_actormenu_action$$ 거래</text>
+	</string>
+
+	<string id="ui_mmenu_new_savegame">
+		<text>신규 저장 게임</text>
+	</string>
+
+	<string id="legend_ui_options_save">
+		<text>$$ACTION_UI_ACCEPT$$ 확인</text>
+	</string>
+
+	<string id="legend_ui_selector">
+		<text>$$ICON$controller$ls$$/$$ICON$controller$dpad$$ 셀렉터</text>
+	</string>
+
+	<string id="legend_ui_fire_mode">
+		<text>$$ACTION_wpn_firemode_next$$ 사격 모드</text>
+	</string>
+
+	<string id="legend_ui_tasks_show_on_map">
+		<text>$$ACTION_pda_tasks_show_on_map$$ 지도에 보이기</text>
+	</string>
+
+	<string id="st_upgrade">
+		<text>업그레이드</text>
+	</string>
+
+	<string id="legend_ui_wheelmenu_select">
+		<text>$$ACTION_WHEELMENU_SELECT$$ 섹터 선택</text>
+	</string>
+
+	<string id="st_move_to_cart_all">
+		<text>전부 선택</text>
+	</string>
+
+	<string id="legend_ui_mmenu_select_difficulty">
+		<text>$$ACTION_UI_ACCEPT$$ 난이도 선택</text>
+	</string>
+
+	<string id="st_remove_from_cart">
+		<text>삭제</text>
+	</string>
+
+	<string id="st_move_to_offer_all">
+		<text>전부 판매</text>
+	</string>
+
+	<string id="legend_ui_night_vision">
+		<text>$$ACTION_NIGHT_VISION$$ 야간 투시경</text>
+	</string>
+
+	<string id="legend_ui_talk_replies">
+		<text>$$ICON$controller$lsv$$/$$ICON$controller$dpadv$$ 선택</text>
+	</string>
+
+	<string id="legend_ui_drop_weapon">
+		<text>$$ACTION_DROP$$ 무기 버리기</text>
+	</string>
+
+	<string id="st_move_to_bag_all">
+		<text>모두 배낭으로 옮기기</text>
+	</string>
+
+	<string id="legend_ui_navigation">
+		<text>$$ICON$controller$ls$$/$$ICON$controller$dpad$$ 네비게이션</text>
+	</string>
+
+	<string id="legend_ui_back">
+		<text>$$ACTION_UI_BACK$$ 뒤로 가기</text>
+	</string>
+
+	<string id="legend_ui_mmenu_select">
+		<text>$$ACTION_UI_ACCEPT$$ 메뉴 항목 선택</text>
+	</string>
+
+	<string id="legend_ui_tasks_track_on_map">
+		<text>$$ACTION_pda_tasks_track_on_map$$ 추적하기</text>
+	</string>
+
+	<string id="st_remove_from_cart_all">
+		<text>모두 제거</text>
+	</string>
+
+	<string id="legend_ui_propbox_select">
+		<text>$$ACTION_UI_ACCEPT$$ 선택</text>
+	</string>
+
+	<string id="ui_mm_vertical_sense">
+		<text>수직 민감도</text>
+	</string>
+
+	<string id="legend_ui_sign_back_in">
+		<text>$$ACTION_UI_ACCEPT$$ 재접속</text>
+	</string>
+
+	<string id="st_move_to_dead_body_all">
+		<text>모두 대상으로 옮기기</text>
+	</string>
+
+	<string id="legend_ui_savegame_delete">
+		<text>$$ACTION_UI_ACTION_1$$ 삭제</text>
+	</string>
+
+	<string id="st_move_to_offer">
+		<text>판매</text>
+	</string>
+
+	<string id="legend_ui_tabs">
+		<text>$$ACTION_UI_TAB_LEFT$$/$$ACTION_UI_TAB_RIGHT$$ 탭</text>
+	</string>
+
+	<string id="legend_ui_tasks_map_show_me">
+		<text>$$ACTION_pda_tasks_map_show_me$$ 현재 위치</text>
+	</string>
+
+	<string id="legend_ui_savegame_load">
+		<text>$$ACTION_UI_ACCEPT$$ 불러오기</text>
+	</string>
+
+	<string id="ui_mm_horizontal_sense">
+		<text>수평 민감도</text>
+	</string>
+
+	<string id="legend_ui_title_screen">
+		<text>$$ACTION_UI_BACK$$ 타이틀 화면</text>
+	</string>
+
+	<string id="legend_ui_scroll_info">
+		<text>$$ICON$controller$lt$$/$$ICON$controller$rt$$ 정보 스크롤</text>
+	</string>
+
+	<string id="legend_ui_options_tune_item">
+		<text>$$ICON$controller$lsh$$/$$ICON$controller$dpadh$$ 개조</text>
+	</string>
+
+	<string id="legend_ui_navigation_v">
+		<text>$$ICON$controller$lsv$$/$$ICON$controller$dpadv$$ 네비게이션</text>
+	</string>
+
+	<string id="legend_ui_talk_reply">
+		<text>$$ACTION_UI_ACCEPT$$ 대화하기</text>
+	</string>
+
+	<string id="ui_mmenu_no_savegames">
+		<text>저장 게임 없음</text>
+	</string>
+
+	<string id="legend_ui_savegame_save">
+		<text>$$ACTION_UI_ACCEPT$$ 저장하기</text>
+	</string>
+
+	<string id="legend_ui_wpn_func">
+		<text>$$ACTION_wpn_func$$ 보조 무기</text>
+	</string>
+
+	<string id="legend_ui_numpad_press">
+		<text>$$ACTION_UI_ACCEPT$$ 버튼 누르기</text>
+	</string>
+
+	<string id="legend_ui_pda_log_to_start">
+		<text>$$ACTION_pda_log_to_start$$ 처음으로</text>
+	</string>
+
+	<string id="legend_ui_pda_log_to_end">
+		<text>$$ACTION_pda_log_to_end$$ 마지막으로</text>
+	</string>
+
+	<string id="legend_ui_pda_log_date_prev">
+		<text>$$ACTION_pda_log_date_prev$$ 이전 날짜</text>
+	</string>
+
+	<string id="legend_ui_pda_log_date_next">
+		<text>$$ACTION_pda_log_date_next$$ 다음 날짜</text>
+	</string>
+
+	<string id="legend_ui_pda_log_show_news">
+		<text>$$ACTION_pda_log_show_news$$ 뉴스 보이기/숨기기</text>
+	</string>
+
+	<string id="legend_ui_pda_log_show_dialogs">
+		<text>$$ACTION_pda_log_show_dialogs$$ 대화 보이기/숨기기</text>
+	</string>
+
+	<string id="legend_ui_tasks_map_move">
+		<text>$$ICON$controller$rs$$ 커서 이동</text>
+	</string>
+
+	<string id="legend_ui_options_toggle">
+		<text>$$ACTION_UI_ACCEPT$$ 전환</text>
+	</string>
+
+	<string id="legend_ui_advanced">
+		<text>$$ACTION_UI_HINT$$ 고급 비디오 옵션</text>
+	</string>
+
+	<string id="legend_ui_basic">
+		<text>$$ACTION_UI_HINT$$ 기본 비디오 옵션</text>
+	</string>
+
+	<string id="legend_ui_upgrade">
+		<text>$$ACTION_UI_ACCEPT$$ 업그레이드하기</text>
+	</string>
+	<string id="ui_accept_eula">
+		<text>확인</text>
+	</string>
+	<string id="ui_elua_name">
+		<text>최종 사용자 라이선스 계약</text>
+	</string>
+	<string id="ui_mm_nx64_setlang">
+		<text>언어 선택</text>
+	</string>
+	<string id="ui_elua_licence0_type">
+	<text>__HEADER__</text>
+</string>
+	<string id="ui_elua_licence0">
+		<text>S.T.A.L.K.E.R.: Call of Prypiat 인핸스드 에디션 - 최종 사용자 라이선스 계약</text>
+	</string>
+	<string id="ui_elua_licence1_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence1">
+		<text>마지막 업데이트: 2025년 5월 28일</text>
+	</string>
+	<string id="ui_elua_licence2">
+		<text>사용자는 기록 및 향후 참조 목적을 위해 본 최종 사용자 라이선스 계약의 일부를 어느 부분이건 인쇄할 수 있습니다.</text>
+	</string>
+	<string id="ui_elua_licence3_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence3">
+		<text>1. 본 계약 관련 정보</text>
+	</string>
+	<string id="ui_elua_licence4">
+		<text>1.1. 본 최종 사용자 라이선스 계약(이하 '계약')은 법적 구속력이 있는 계약으로 Leontiou A, 159, MARYVONNE BUILDING, Floor 4 & 5, Office 402, 3022, Limassol, Cyprus에 주소가 등록된 GSC Game World Global Ltd(이하 'GSC', '당사' 또는 '저희')와 사용자 간의 관계를 규정합니다.</text>
+	</string>
+	<string id="ui_elua_licence5">
+		<text>본 계약은 구매/취득 방식에 상관없이 당사 게임인 S.T.A.L.K.E.R.: Call of Prypiat 인핸스드 에디션 (이하 "S.T.A.L.K.E.R." 또는 "게임")에 적용되며, 적용 대상은 게임 키/코드를 포함하되 이에 국한되지는 않습니다.</text>
+	</string>
+	<string id="ui_elua_licence6">
+		<text>1.2. 본 계약은 S.T.A.L.K.E.R.의 다운로드, 설치, 또는 실제 사용 시점(세 가지 시점 중 이른 시점)부터 사용자와 당사에 대한 구속력을 가집니다. 이에 동의하지 않는다면 게임을 다운로드, 설치, 또는 사용하지 마십시오.</text>
+	</string>
+	<string id="ui_elua_licence7">
+		<text>1.3. 이하의 문서들은 본 계약의 필수적인 부분이며 게임의 수락, 다운로드, 설치, 또는 이용에 반드시 필요합니다. (a) 팬 콘텐츠 제작 가이드라인 (https://www.gsc-game.com/guidelines) - GSC는 당사 세계관을 기반으로 제작된 팬 콘텐츠를 항상 즐겨 왔으며, 해당 문서는 사용자가 팬 콘텐츠를 제작할 때 적용되는 한도에 대해 설명합니다. (b) GSC 개인정보 보호 정책 (www.gsc-game.com/privacy_policy) - GSC의 사용자 개인 데이터 수집, 사용 및 보호에 대해 자세히 설명하는 문서입니다. 해당 두 문서는 본 계약의 일부이며, 수시로 업데이트될 수 있고, 이를 통틀어 "약관"이라고 지칭합니다. 또한 게임이 배포된 플랫폼에 따라, 사용자는 해당 플랫폼의 이용약관에 동의하고 이를 준수해야 할 수도 있습니다.</text>
+	</string>
+	<string id="ui_elua_licence8_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence8">
+		<text>2. 건강, 연령, 콘텐츠 경고 및 제한 사항</text>
+	</string>
+	<string id="ui_elua_licence9">
+		<text>2.1. 광과민성/발작 경고. 극소수의 사람들은 광 패턴이나 빠르게 깜박이는 불빛 등의 특정한 시각적 요소에 노출되었을 때 간질 발작이나 실신을 경험할 수 있습니다. 게임 플레이 중 다음과 같은 증상이 나타나기 시작한다면, 즉시 게임을 중단하고 의사와 상담한 후에 게임을 다시 플레이하십시오: 실신, 발작, 현기증, 시력 저하, 눈 또는 근육 경련, 팔이나 다리의 갑작스러운 움직임 또는 떨림, 의식 상실, 방향 감각 상실, 혼란, 의식적으로 통제할 수 없는 움직임 또는 경련.</text>
+	</string>
+	<string id="ui_elua_licence10">
+		<text>2.2. S.T.A.L.K.E.R.는 사용자의 거주 지역에 따라 다를 수 있는 최소 연령 등급(예: PEGI, ESRB)을 받았으며, 해당 등급은 S.T.A.L.K.E.R. 구매 시 확인할 수 있습니다. 지정된 최소 연령 이상인 사용자만 S.T.A.L.K.E.R.를 플레이할 수 있습니다.</text>
+	</string>
+	<string id="ui_elua_licence11">
+		<text>사용자가 최소 연령 요건을 충족하거나 초과하며, 다음 항목 중 하나에 속하는 경우:</text>
+	</string>
+	<string id="ui_elua_licence12">
+		<text>i. 만 18세(또는 해당 관할권의 법적 성년 연령) 이상인 경우, 사용자는 본 계약을 수락하는 조건으로 게임을 자유롭게 이용할 수 있습니다.</text>
+	</string>
+	<string id="ui_elua_licence13">
+		<text>ii. 만 17세~18세(또는 해당 관할권의 법적 성년 연령)인 경우, 사용자의 부모 또는 보호자가 사용자를 대신하여 본 계약을 검토하고 승인하는 데 동의해야 합니다(일부 관할권에서는 특정 연령 미만의 개인이 본 계약과 같은 구속력 있는 계약을 체결하는 행위를 제한하기 때문입니다). 또한 사용자의 부모 또는 보호자는 사용자의 S.T.A.L.K.E.R. 이용을 감독해야 합니다.</text>
+	</string>
+	<string id="ui_elua_licence14">
+		<text>iii. 만 17세 미만이거나 관할권에서 지정한 최소 연령 미만인 경우, 사용자는 S.T.A.L.K.E.R.를 다운로드, 플레이하거나 기타 방식으로 이용할 수 없습니다.</text>
+	</string>
+	<string id="ui_elua_licence15">
+		<text>2.3. S.T.A.L.K.E.R.에는 폭력, 언어 폭력, 성적인 내용, 약물 사용에 대한 묘사가 등장하며, 이러한 내용은 특정 개인에게 불쾌감을 줄 수 있습니다. 이러한 소재에 민감하거나 이러한 소재가 자극원이 될 수 있다면, 게임을 시작하기 전에 이러한 요소를 고려하시기 바랍니다.</text>
+	</string>
+	<string id="ui_elua_licence16_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence16">
+		<text>3. S.T.A.L.K.E.R. 이용</text>
+	</string>
+	<string id="ui_elua_licence17">
+		<text>3.1. GSC는 사용자의 개인용 컴퓨터, 게임 콘솔 및/또는 GSC가 명시적으로 승인하고 게임을 구매한 기타 장치/플랫폼에서 S.T.A.L.K.E.R.(적용되는 경우, 모드 포함)를 표시, 확인, 다운로드, 설치, 플레이 및 이용할 수 있는 개인적이고, 제한적이며, 철회 가능하고, 비독점적이며, 양도 및 양수가 불가능한 라이선스를 사용자에게 부여합니다. 해당 라이선스는 사용자의 개인적인 이용으로만 제한되며, S.T.A.L.K.E.R.에 대한 어떠한 유형의 소유권도 부여하지 않습니다. 사용자는 S.T.A.L.K.E.R.를 라이선스 이용 허가, 판매, 양도, 증여 또는 기타 방식으로 제3자에게 양도하거나 상업적으로 이용할 수 없습니다.</text>
+	</string>
+	<string id="ui_elua_licence18_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence18">
+		<text>4. 최소 시스템 요구 사양 및 지속적인 모니터링</text>
+	</string>
+	<string id="ui_elua_licence19">
+		<text>4.1. S.T.A.L.K.E.R.는 장치/시스템/플랫폼에 따라 달라지는 최소 시스템 요구 사양을 갖추고 있으며, 이는 구매 전 S.T.A.L.K.E.R. 웹페이지에서 확인할 수 있습니다. 게임을 구매하기 전에 이러한 시스템 요구 사양을 충족하는 것이 중요합니다.</text>
+	</string>
+	<string id="ui_elua_licence20">
+		<text>4.2. 사용자의 게임 내 경험을 개선하고, 본 계약에서 금지하는 행위를 방지하며, S.T.A.L.K.E.R.의 무결성을 보호하고, 필요 시 본 계약을 이행하기 위해, 당사는 사용자가 S.T.A.L.K.E.R.를 이용하는 동안 사용자의 시스템 또는 관련 장치/주변 장치의 백그라운드에서 실행되는 특정 소프트웨어를 배포할 수 있습니다. 이러한 소프트웨어는 대부분 선택 사항이며, 사용자는 이러한 소프트웨어의 배포를 허용하거나 금지할 수 있습니다. 당사가 필수 소프트웨어 도구를 사용해야 하는 경우, 당사는 게임 내 수단이나 S.T.A.L.K.E.R.에 연결된 기타 리소스를 이용해 사용자에게 미리 통보할 것입니다. 이러한 소프트웨어 도구에 관한 추가 정보는 당사의 개인정보 보호 정책에서 확인할 수 있습니다.</text>
+	</string>
+	<string id="ui_elua_licence21_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence21">
+		<text>5. 패치, 업데이트 및 변경</text>
+	</string>
+	<string id="ui_elua_licence22">
+		<text>5.1. S.T.A.L.K.E.R.는 '있는 그대로', 그리고 '이용 가능한 상태'로 제공되므로, 때때로 게임 충돌을 유발할 수 있는 버그나 오류 코드가 포함될 수 있습니다. GSC는 이를 방지하기 위해 합리적인 노력을 수행하였으나, 어떤 소프트웨어도 완벽할 수는 없습니다. 게임 지원이 항상 제공되지는 않으며 특정 시점에 중단될 수 있습니다.</text>
+	</string>
+	<string id="ui_elua_licence23">
+		<text>5.2. GSC는 시간 경과에 따라 S.T.A.L.K.E.R.를 패치, 업데이트 또는 변경(기능 추가 또는 제거, 소프트웨어 버그의 디버깅 또는 게임 내 밸런스 미세 조정)할 수 있는 권리(그러나 의무는 아님)를 보유합니다. 이러한 패치 또는 변경은 필수 및/또는 자동 업데이트를 통해 배포됩니다. 본 계약에 동의한 후 이러한 업데이트를 설치하지 않을 시, 업데이트되지 않은 버전은 향후 사용할 수 없게 될 수도 있습니다.</text>
+	</string>
+	<string id="ui_elua_licence24_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence24">
+		<text>6. 지적재산권</text>
+	</string>
+	<string id="ui_elua_licence25">
+		<text>6.1. S.T.A.L.K.E.R.의 시각적 요소, 캐릭터, 줄거리, 아트워크, 애니메이션, 디자인, 에셋, 음악, 음향 효과, 대화, 그래픽, 컴퓨터 코드, 사용자 인터페이스, 시각 및 운영 스타일, 게임 메커니즘, 게임 플레이, 시청각 요소, 텍스트 콘텐츠, 레이아웃, 데이터베이스, 데이터 및 기타 모든 자료, 그리고 관련된 모든 지적재산권(아래 정의 참조)과 기타 모든 관련 법적 권리 및 이용권을 포함하되 이에 국한되지 않는 모든 구조적 요소는 GSC가 소유하거나 제3자로부터 정식으로 라이선스를 취득한 것입니다. 본 계약에 명시적으로 명시된 권리를 제외한 모든 S.T.A.L.K.E.R. 관련 권리는 유지됩니다. 사용자는 본 계약에 명시된 경우와 당사의 팬 콘텐츠 제작 가이드라인에 따른 경우 외에는 S.T.A.L.K.E.R.의 어떠한 요소도 활용하거나 자본화할 수 없습니다. S.T.A.L.K.E.R.와 S.T.A.L.K.E.R.의 지적재산권은 전 세계 저작권, 상표권 및 기타 지적재산권 관련 법령에 따라 보호됩니다.</text>
+	</string>
+	<string id="ui_elua_licence26">
+		<text>'지적재산권'이란 모든 저작권, 상표, 서비스표, 로고, 트레이드 드레스, 영업권, 겟업, 상호, 비즈니스 또는 도메인 이름, 디자인 권리, 겟업 관련 권리, 데이터베이스 권리, 캐릭터 관련 권리, 특허, 발명 관리 권리, 노하우, 영업 비밀 및 기밀 정보, 컴퓨터 소프트웨어(소스 코드 및 오브젝트 코드 포함) 관련 권리, 저작인격권, 저작자 권리, 퍼블리시티권, 공연권, 동기화 권리, 기계적 권리, 출판, 대여, 임대 및 전송 권리, 그리고 현재 또는 미래에 전 세계 어디에서든 존속할 수 있는 이와 유사하거나 이에 상응하는 성격의 기타 지적재산권과 이용권을 의미합니다. 이는 등록 또는 등록 가능 여부와 무관하며, 동일한 항목에 대해 부여된 모든 신청 및 이와 관련된 모든 등록, 분할, 지속, 재발급, 갱신, 연장, 복원 및 취소 신청도 포함합니다.</text>
+	</string>
+	<string id="ui_elua_licence27">
+		<text>이 섹션은 본 계약이 종료된 후에도 계속 적용됩니다.</text>
+	</string>
+	<string id="ui_elua_licence28_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence28">
+		<text>7. 이용 약관</text>
+	</string>
+	<string id="ui_elua_licence29">
+		<text>7.1. 사용자는 계약에 달리 명시되지 않는 한 S.T.A.L.K.E.R.에 대한 상업적 사용 라이선스가 부여되지 않으며, 특정 사유로 인한 개인적 사용 라이선스만 부여됩니다.</text>
+	</string>
+	<string id="ui_elua_licence30">
+		<text>7.2. 본 계약에 따라 명시적으로 승인된 경우를 제외하고, 사용자는 S.T.A.L.K.E.R. 또는 본 계약에 따른 자신의 권리를 복사, 대여, 구매, 판매, 대여, 공유, 제공, 임대, 재라이선스, 양도, 배포, 출판 또는 공개적으로 전시할 수 없습니다.</text>
+	</string>
+	<string id="ui_elua_licence31">
+		<text>7.3. 사용자는 S.T.A.L.K.E.R.에 적용될 수 있는 치트를 생성, 사용, 라이선스, 하위 라이선스, 제공 및/또는 배포할 수 없습니다. 치트는 취약점 공격, 자동화 소프트웨어, 로봇, 봇, 핵, 스파이더, 스파이웨어, 스크립트, 트레이너, 추출 도구 또는 GSC가 의도하지 않은 방식으로 S.T.A.L.K.E.R.와 상호작용하거나 S.T.A.L.K.E.R.에 영향을 줄 수 있는 기타 소프트웨어(S.T.A.L.K.E.R.가 정보를 저장하는 데 사용하는 메모리 영역을 읽어 정보를 수집하는 승인되지 않은 제삼자 프로그램 포함)를 말합니다.</text>
+	</string>
+	<string id="ui_elua_licence32">
+		<text>7.4. 관련 법률에서 특별히 허용하지 않는 한, 사용자는 S.T.A.L.K.E.R.의 소스 코드를 수정, 병합, 배포, 번역, 역설계하거나 획득, 사용, 디컴파일 또는 분해를 시도해선 안 됩니다.</text>
+	</string>
+	<string id="ui_elua_licence33">
+		<text>7.5. 사용자는 GSC 고객이나 기술 지원 담당자를 방해 또는 간섭해선 안 되며, GSC 직원을 사칭해서도 안 됩니다.</text>
+	</string>
+	<string id="ui_elua_licence34">
+		<text>7.6. 사용자는 S.T.A.L.K.E.R 2로부터 개인 또는 기밀 데이터나 정보를 가로채거나, 채굴하거나, 다른 방식으로 수집할 수 없습니다.</text>
+	</string>
+	<string id="ui_elua_licence35">
+		<text>7.7. 사용자는 터널링, 코드 인젝션 또는 삽입, 서비스 거부, 소프트웨어 수정 또는 변경, 기타 유사한 소프트웨어를 당사 소프트웨어와 함께 사용, 프로토콜 에뮬레이션을 이용하는 방법, GSC 또는 게임과 관련된 사설 서버 또는 유사 서비스의 생성 또는 사용을 포함한 방법을 이용해 당사 또는 제삼자 네트워크 소프트웨어나 서버를 악의적으로 방해하거나, 중단하거나, 제한된 영역에 액세스할 수 없습니다.</text>
+	</string>
+	<string id="ui_elua_licence36">
+		<text>7.8. 사용자는 GSC의 저작권, 상표, 특허, 영업 비밀, 개인정보 보호, 퍼블리시티 또는 기타 권리를 침해하는 일체의 행위를 할 수 없습니다.</text>
+	</string>
+	<string id="ui_elua_licence37">
+		<text>7.9. 사용자는 바이러스, 스파이웨어, 트로이 목마, 웜, 시한폭탄, 의도적으로 손상된 데이터, 기타 악성 코드가 포함되어 있거나 어떤 식으로든 S.T.A.L.K.E.R.를 손상 또는 방해할 수 있는 파일을 업로드할 수 없습니다.</text>
+	</string>
+	<string id="ui_elua_licence38">
+		<text>7.10. 사용자는 인종차별, 괴롭힘, 외국인 혐오, 성차별, 차별, 모욕, 명예훼손 또는 다른 공격적이거나 불법적인 행위에 속하거나 이러한 행위로 간주될 수 있는 방식으로 콘텐츠를 제작하거나 S.T.A.L.K.E.R.를 사용할 수 없습니다.</text>
+	</string>
+	<string id="ui_elua_licence39">
+		<text>7.11. 사용자는 게임에서 소유권 고지나 라벨을 제거할 수 없습니다.</text>
+	</string>
+	<string id="ui_elua_licence40">
+		<text>7.12. 사용자는 S.T.A.L.K.E.R.를 이용할 때 모든 관련 법률 및 규정을 준수해야 합니다.</text>
+	</string>
+	<string id="ui_elua_licence41">
+		<text>이 섹션은 본 계약이 종료된 후에도 계속 적용됩니다.</text>
+	</string>
+	<string id="ui_elua_licence42_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence42">
+		<text>8. 팬 콘텐츠</text>
+	</string>
+	<string id="ui_elua_licence43">
+		<text>8.1. "모드"란 사용자 제작 콘텐츠 및/또는 하나 이상의 요소 변경을 지칭하는 용어입니다. 이러한 변경은 게임과 함께 사용할 의도를 내포하며, 그 결과 GSC가 본래 제공하는 버전에서 벗어난 사용자 맞춤형 또는 변경된 게임플레이 경험을 제공합니다. 모드에 따른 경험은 사용자에 따라 달라질 수 있습니다.</text>
+	</string>
+	<string id="ui_elua_licence44">
+		<text>8.2. 관련 법률이 허용하는 최대 한도 내에서, GSC는 귀하 또는 기타 제3자에 의해 업로드, 공유, 혹은 배포된 모든 모드에 대한 일체의 책임 및 의무를 부인합니다. GSC는 불법이거나, 기만적이거나, 오인을 야기하거나, 불쾌하거나, 외설적이거나, 위협적이거나, 중상 모략적이거나, 개인의 권리를 침해하거나, 지적재산권을 침해하거나, 바이러스 혹은 악성 코드를 포함하고 있는 등, 약관을 위배하는 모든 모드를 감시, 수정 또는 수정할 수 있는 의무가 아닌 권리를 보유하며, 이러한 모드의 제거, 제거 이행 실패 또는 지연에 대한 법적 책임을 지지 않습니다.</text>
+	</string>
+	<string id="ui_elua_licence45">
+		<text>8.3. 모드의 제공자는 GSC와 무관한 개인 및 객체를 비롯한 제3자입니다("제3자 서비스"). GSC는 어떠한 제3자 서비스를 감시하지도, 이에 대한 책임도 지지 않으며, 여기에는 제3자가 사용자의 정보를 어떻게 수집하고, 활용하고, 저장하는지를 포함하되 이에 국한되지 않습니다. 사용자는 모드 및 그에 따른 관련 제3자 서비스 사용으로 인해 해당 제3자가 설정한 추가 요금, GSC의 권한을 벗어난 개인정보 보호 정책을 비롯한 약관 및/또는 정책의 대상이 될 수 있습니다. 모든 모드 또는 통합된 제3자 서비스를 활용함으로써, 사용자는 해당 제3자 서비스가 부과하는 약관, 조건 및 정책을 준수하는 데에 동의하게 됩니다.</text>
+	</string>
+	<string id="ui_elua_licence46">
+		<text>8.4. 사용자는 모드 사용의 위험이 전적으로 본인에게 달려 있음을 이해하고 이에 동의합니다. GSC에는 어떠한 모드 또는 제3자 서비스의 내용, 정확성, 완성도, 유효성, 시의성, 타당성, 저작권 준수, 합법성, 적절성, 품질, 혹은 기타 모든 특성을 평가 또는 검증할 책임을 지지 않습니다. GSC는 어떠한 제3자 서비스도 보장하거나 장려하지 않습니다. 또한, 사용자는 이러한 제3자 서비스의 이용 결과 발생하는 일체의 문제, 손실, 혹은 피해에 대해 GSC가 어떠한 법적 책임도 지지 않음에 동의합니다.</text>
+	</string>
+	<string id="ui_elua_licence47">
+		<text>8.5. 저작권 침해</text>
+	</string>
+	<string id="ui_elua_licence48">
+		<text>특정 모드가 저작권을 침해한다고 여길 경우, 이하의 데이터를 당사에 제공해 주시기 바랍니다.</text>
+	</string>
+	<string id="ui_elua_licence49">
+		<text>a. 귀하의 이름, 주소, 이메일 주소</text>
+	</string>
+	<string id="ui_elua_licence50">
+		<text>b. 침해되었다고 생각되는 저작권 작품에 대한 설명</text>
+	</string>
+	<string id="ui_elua_licence51">
+		<text>c. 침해가 의심되는 요소의 각 위치에 대한 정확한 URL 또는 설명</text>
+	</string>
+	<string id="ui_elua_licence52">
+		<text>d. 분쟁의 대상이 되는 사용이 귀하, 귀하의 대리인, 혹은 법에 의해 승인되지 않았다는 선의의 믿음이 있다는 귀하의 진술</text>
+	</string>
+	<string id="ui_elua_licence53">
+		<text>e. 귀하의 전자 혹은 물리 서명 혹은 귀하를 대리할 권한이 있는 인물의 전자 혹은 물리 서명</text>
+	</string>
+	<string id="ui_elua_licence54">
+		<text>f. 귀하의 신고에 담긴 정보가 정확하고, 귀하에게 침해가 의심되는 독점권의 소유자를 대리할 권한이 있으며, 위증 시 처벌을 감수하겠다는 귀하의 진술</text>
+	</string>
+	<string id="ui_elua_licence55">
+		<text>상기 정보는 다음을 통해 제출되어야 합니다.</text>
+	</string>
+	<string id="ui_elua_licence56">
+		<text>안내: 모드 저작권 침해</text>
+	</string>
+	<string id="ui_elua_licence57">
+		<text>이메일: legal@gsc-game.com</text>
+	</string>
+	<string id="ui_elua_licence58">
+		<text>모드가 제3자의 지적재산권을 침해했다는 신고가 접수될 경우, 당사는 요청에 따라 해당 모드를 제거할 수 있습니다.</text>
+	</string>
+	<string id="ui_elua_licence59">
+		<text>팬 콘텐츠 제작 가이드라인 (https://www.gsc-game.com/guidelines) 을 참고하여, S.T.A.L.K.E.R.를 이용해 제작할 수 있는 팬 콘텐츠의 유형 및 범위를 확인하시기 바랍니다.</text>
+	</string>
+	<string id="ui_elua_licence60_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence60">
+		<text>9. 피드백 및 충돌 보고</text>
+	</string>
+	<string id="ui_elua_licence61">
+		<text>9.1. GSC는 커뮤니티 피드백을 소중히 여기고 있습니다. 유용한 의견이 있으시면 언제든지 support@gsc-game.com/으로 메시지를 보내주십시오. 사용자의 제안이 어떤 방식으로든 게임에 반영되는 경우, 당사는 사용자에게 어떠한 (물질적 또는 기타 방식의) 보상도 제공할 의무가 없습니다.</text>
+	</string>
+	<string id="ui_elua_licence62">
+		<text>9.2. 어떤 이유로든 게임 세션에서 충돌이 발생하는 경우, GSC는 소스 코드를 개선하고 보다 즐겁고 충돌이 적은 사용자 경험을 제공하기 위해 귀하에게 충돌 로그 제공을 요청할 수 있습니다. 충돌 보고는 의무가 아니며, 일부 개인정보가 포함될 수도 있습니다(충돌 보고와 함께 전송될 수 있는 데이터 유형은 당사의 개인정보 보호 정책에서 확인할 수 있습니다).</text>
+	</string>
+	<string id="ui_elua_licence63_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence63">
+		<text>10. 제삼자 콘텐츠</text>
+	</string>
+	<string id="ui_elua_licence64">
+		<text>10.1. 당사는 사용자에게 외부 웹사이트로 연결되는 하이퍼링크나 S.T.A.L.K.E.R. 내 제삼자 출처에서 제공하는 콘텐츠를 제공할 수 있습니다. 또한 사용자는 다양한 장치, 시스템 또는 플랫폼을 통해 S.T.A.L.K.E.R.에 액세스할 수도 있습니다. 이러한 요소 사용 여부는 전적으로 사용자가 결정하며, 당사는 이러한 요소의 기능, 품질 또는 무료 제공 여부를 보장하지 않습니다. 또한 다양한 기기, 시스템 또는 플랫폼에는 저마다 고유한 법적 약관이 적용될 수 있으므로, 이러한 요소를 이용하기 전에 약관을 검토할 것을 강력하게 권장합니다.</text>
+	</string>
+	<string id="ui_elua_licence65_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence65">
+		<text>11. 보증 및 진술</text>
+	</string>
+	<string id="ui_elua_licence66">
+		<text>11.1. GSC 보증. GSC는 본 계약을 체결하고 사용자에게 개인 엔터테인먼트 목적으로 S.T.A.L.K.E.R.를 사용할 수 있는 라이선스를 부여할 권리가 당사에 있음을 보증합니다.</text>
+	</string>
+	<string id="ui_elua_licence67">
+		<text>11.2. 사용자의 진술 및 보증. 사용자는 자신에게 본 계약을 체결하는 데 필요한 모든 권한과 능력이 있으며 본 계약의 모든 측면에서 계약 조건을 준수할 것을 진술하고 보증합니다.</text>
+	</string>
+	<string id="ui_elua_licence68_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence68">
+		<text>12. 책임</text>
+	</string>
+	<string id="ui_elua_licence69">
+		<text>12.1. 계약의 다른 부분에 명시적으로 언급되지 않는 한, GSC와 그 계열사, 제휴사와 라이선스 허가자는 S.T.A.L.K.E.R.에 관한 묵시적 또는 명시적 보증이나 진술을 부인합니다. S.T.A.L.K.E.R.는 명시적이거나 묵시적인 어떠한 종류의 보증이나 진술도 없이 '있는 그대로', 그리고 '이용 가능한 상태'로 사용자에게 제공되며, 당사는 사용자의 S.T.A.L.K.E.R. 이용 또는 이용 불가능으로 인해 발생하는 어떤 종류의 손실, 손해 또는 피해에 대해서도 책임을 지지 않습니다. S.T.A.L.K.E.R. 이용의 책임은 전적으로 사용자에게 있습니다.</text>
+	</string>
+	<string id="ui_elua_licence70">
+		<text>관련 법률이 허용하는 최대 한도 내에서, 당사는 S.T.A.L.K.E.R.에 적용될 수 있는 모든 명시적 또는 묵시적 보증을 부인합니다. 여기에는 소유권, 비침해성, 상품성, 만족스러운 품질, 특정 목적에의 적합성, 거래 과정이나 거래 이행 또는 사용 과정에서 발생할 수 있는 모든 보증, 바이러스 또는 오류나 결함 없음 및/또는 S.T.A.L.K.E.R.에 포함된 콘텐츠 또는 정보의 정확성, 적법성, 신뢰성 또는 품질에 대한 모든 보증이 포함됩니다.</text>
+	</string>
+	<string id="ui_elua_licence71">
+		<text>GSC는 S.T.A.L.K.E.R.가 중단되지 않거나 오류가 없으며, 결함이 수정되거나, 게임에 바이러스 또는 기타 유해한 요소가 없다고 명시적으로 보증하지 않습니다.</text>
+	</string>
+	<string id="ui_elua_licence72">
+		<text>12.2. 관련 법률이 허용하는 최대 한도 내에서, GSC와 그 계열사, 제휴사와 라이선스 허가자는 계약 위반, 불법행위(과실, 법적 의무 위반, 계약 위반, 보증 또는 무과실 책임 위반 포함), 허위 진술, 배상 또는 기타 관련 당사자가 그러한 손해의 가능성을 사전에 고지받았는지의 여부에 관계없이, 사용자의 이익, 요금 또는 비용의 손실, 데이터 손실, 정보의 손상 또는 손실, 사업 기회 손실, 또는 어떠한 특별, 간접, 징벌적, 본보기성 또는 결과적 손실이나 손해 또는 중단에 대해 책임을 지지 않습니다.</text>
+	</string>
+	<string id="ui_elua_licence73">
+		<text>관련 법률이 허용하는 최대 한도 내에서, GSC와 그 계열사, 제휴사 및 라이선스 허가자가 S.T.A.L.K.E.R. 또는 본 계약과 관련하여 사용자에 대해 지는 총 책임은 어떠한 경우에도 청구의 기반이 되는 문제와 관련하여 사용자가 실제로 당사에 지불한 금액(존재하는 경우)을 초과할 수 없습니다. 전술한 내용은 본 계약과 관련하여 사용자에게 주어지는 유일하고 배타적인 구제책입니다.</text>
+	</string>
+	<string id="ui_elua_licence74">
+		<text>12.3. 사용자는 GSC와 그 계열사, 라이선스 허가자 및 제휴사를 다음과 관련한 모든 손해, 책임, 청구 및 비용(법률 비용 포함)으로부터 면책하고 보호한다는 데(그리고 이들을 지속적으로 면책하고 보호한다는 데) 동의합니다.</text>
+	</string>
+	<string id="ui_elua_licence75_type">
+		<text>__OPTION__</text>
+	</string>
+	<string id="ui_elua_licence75">
+		<text>사용자의 본 계약 위반 혐의 또는 실제 위반.</text>
+	</string>
+	<string id="ui_elua_licence76_type">
+		<text>__OPTION__</text>
+	</string>
+	<string id="ui_elua_licence76">
+		<text>사용자 또는 사용자 대리인의 (의도적 또는 비의도적) S.T.A.L.K.E.R. 이용.</text>
+	</string>
+	<string id="ui_elua_licence77_type">
+		<text>__OPTION__</text>
+	</string>
+	<string id="ui_elua_licence77">
+		<text>GSC 및 GSC의 계열사, 라이선스 허가자 및 제휴사가 보유한 지적재산권 침해.</text>
+	</string>
+	<string id="ui_elua_licence78">
+		<text>당사를 상대로 소송이 제기되는 경우, 사용자는 GSC에 전적으로 협조해야 하며 당사는 인수 및 방어 행위를 수행할 권리를 보유합니다. 사용자는 당사의 사전 서면 동의 없이는 이러한 소송의 전부 또는 일부를 합의할 수 없습니다.</text>
+	</string>
+	<string id="ui_elua_licence79">
+		<text>12.4. 본 계약을 수락하면 사용자는 자신이 입을 수 있는 손실, 손해 또는 피해가 복구 불가능한 것이 아니며, 금지명령 또는 기타 공평한 구제 이외의 구제책이 적절하고 충분함을 확인하게 됩니다. 사용자는 GSC와 GSC 계열사, 라이선스 허가자 및 제휴사를 상대로 금지명령 또는 기타 공평한 구제를 받을 자격이 없음에 명시적으로 동의합니다.</text>
+	</string>
+	<string id="ui_elua_licence80">
+		<text>이 섹션은 본 계약이 종료된 후에도 계속 적용됩니다.</text>
+	</string>
+	<string id="ui_elua_licence81_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence81">
+		<text>13. 종료</text>
+	</string>
+	<string id="ui_elua_licence82">
+		<text>13.1. 사용자는 언제든 S.T.A.L.K.E.R. 사용을 중단하여 종료할 권리가 있습니다. 이러한 종료는 당사 또는 사용자의 기존 권리나 의무에 영향을 미치지 않습니다.</text>
+	</string>
+	<string id="ui_elua_licence83">
+		<text>13.2. 사용자가 본 계약의 조건을 중대하게 위반하는 경우, GSC는 S.T.A.L.K.E.R. 및 본 계약에 대한 사용자의 접근을 일시 중지하거나 종료할 수 있습니다. 본 조항에 따라 당사가 S.T.A.L.K.E.R. 및 본 계약에 대한 사용자의 접근을 일시 중단하거나 종료하기로 하는 경우, 당사는 사용자에 대한 어떠한 의무나 책임도 지지 않습니다.</text>
+	</string>
+	<string id="ui_elua_licence84">
+		<text>13.3. GSC가 어떤 이유로든 전체 또는 특정 플랫폼으로서의 S.T.A.L.K.E.R. 접근을 영구적으로 정지하기로 한 경우, GSC는 합리적으로 이용 가능한 수단을 통해 최소 90일 전에 사용자에게 이를 통지할 수 있습니다. 이러한 서비스 중단은 사용자에 대한 의무나 책임을 유발하지 않습니다.</text>
+	</string>
+	<string id="ui_elua_licence85_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence85">
+		<text>14. 불가항력</text>
+	</string>
+	<string id="ui_elua_licence86">
+		<text>양 당사자는 다른 당사자를 상대로 불가항력으로 인한 이행, 불이행 또는 이행 지연의 전부 또는 일부를 책임지지 않습니다.</text>
+	</string>
+	<string id="ui_elua_licence87">
+		<text>'불가항력'이란 파업, 직장폐쇄 또는 기타 산업 분쟁, 원자력 사고 또는 천재지변, 전쟁 또는 테러 활동, 폭동, 시민 소요, 악의적 피해, 법률 또는 정부 명령, 규칙, 규정 또는 지시 준수, 전력 또는 인터넷 연결 공급업체 직원의 노동 쟁의 행위, 기술 시설 고장, 해킹, 서비스 거부 또는 기타 IT 공격, IT 바이러스 악성 코드 또는 유사한 기술의 배포, 전염병(예: COVID-19), 화재, 홍수, 폭풍 또는 공급업체 또는 하청업체의 채무 불이행을 포함하나 이에 국한되지 않는, 당사자의 합리적인 통제를 벗어난 행위, 사건, 누락 또는 사고로 인해 발생하거나 이에 기인하는, 당사자가 자신의 의무 일부 또는 전부를 이행하지 못하게 하는 모든 원인을 의미합니다.</text>
+	</string>
+	<string id="ui_elua_licence88_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence88">
+		<text>15. 준거법 및 분쟁 해결</text>
+	</string>
+	<string id="ui_elua_licence89">
+		<text>15.1. 본 계약 및 본 계약으로 인해 발생하는 모든 문제에는 키프로스의 법률이 적용되고 이에 따라 해석됩니다. 단, 법률 선택 및/또는 법률 규정 상충은 예외입니다. 본 계약 및/또는 게임과 관련하여, 또는 이로 인해 발생하는 모든 소송의 배타적 관할지는 키프로스이며, 사용자는 이러한 청구 또는 소송에 대해 키프로스 법원의 관할권을 따른다는 데 동의합니다. 분쟁에서 승소하는 당사자는 본 계약에 따라 법적 수수료 및 비용을 회수할 수 있습니다.</text>
+	</string>
+	<string id="ui_elua_licence90">
+		<text>15.2. 당사와 관련된 문제가 있는 경우, 이러한 문제는 당사에서 빠르게 해결할 수 있을 것입니다. support@gsc-game.com으로 문의하십시오.</text>
+	</string>
+	<string id="ui_elua_licence91">
+		<text>15.3. GSC와 사용자는 제3자 없이 서로의 분쟁을 해결할 수 있도록 합리적이고 성실하게 노력할 것임에 동의합니다. 최초 분쟁 해결 기간은 30일이며, 예측할 수 없는 상황이 발생한 경우 최대 60일까지 연장할 수 있습니다.</text>
+	</string>
+	<string id="ui_elua_licence92">
+		<text>GSC를 상대로 소송을 제기하는 경우, 사용자는 실제 사본을 "Legal Team, GSC Game World Global Ltd, Leontiou A, 159, MARYVONNE BUILDING, Floor 4 & 5, Office 402, 3022, Limassol, Cyprus"로 보내고, 디지털 사본 또한 legal@gsc-game.com으로 보내야 합니다.</text>
+	</string>
+	<string id="ui_elua_licence93">
+		<text>15.4. 집단 소송 포기. 관련 법률이 허용하는 최대 한도 내에서, 사용자는 어떠한 경우에도 집단 또는 대표 소송, PAGA 또는 집단 중재를 제기하거나 이에 참여하지 않는다는 데 동의합니다. 이는 법률이 허용하는 최대 한도 내에서 다음을 의미합니다.</text>
+	</string>
+	<string id="ui_elua_licence94">
+		<text>i. 어떠한 중재도 다른 중재와 병합되지 않습니다.</text>
+	</string>
+	<string id="ui_elua_licence95">
+		<text>ii. 분쟁을 집단 소송 방식으로 중재하거나 집단 소송 절차를 활용할 권리나 권한은 존재하지 않습니다.</text>
+	</string>
+	<string id="ui_elua_licence96">
+		<text>iii. 일반 대중 또는 다른 사람을 대신하여 대리인 자격으로 분쟁을 제기할 수 있는 권리나 권한은 존재하지 않습니다.</text>
+	</string>
+	<string id="ui_elua_licence97">
+		<text>집단 또는 대표 소송, PAGA 또는 집단 중재를 제기하거나 이에 참여하지 않기로 하는 본 조항의 합의가 불법이거나 실행 불가능한 것으로 판명되는 경우, 사용자와 당사는 이 조항을 분리할 수 없다는 데 동의합니다. 이 경우 본 조항 전체가 실행 불가능한 것으로 간주되며, 따라서 모든 청구 또는 분쟁은 법정에서 해결됩니다.</text>
+	</string>
+	<string id="ui_elua_licence98">
+		<text>이 섹션은 본 계약이 종료된 후에도 계속 적용됩니다.</text>
+	</string>
+	<string id="ui_elua_licence99">
+		<text>15.5. 유럽연합 국가의 경우 사용자는 유럽연합 집행위원회에서 운영하는 온라인 분쟁 해결 플랫폼을 통해 불만을 제출할 수 있습니다. 자세한 내용은 https://ec.europa.eu/consumers/odr/에서 확인할 수 있습니다.</text>
+	</string>
+	<string id="ui_elua_licence100_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence100">
+		<text>16. 일반 조항</text>
+	</string>
+	<string id="ui_elua_licence101">
+		<text>16.1. 본 계약의 특정 조항을 법적으로 이행할 수 없게 되는 경우, 본 계약의 나머지 조항은 완전한 효력을 유지합니다. GSC는 단독 재량으로 이러한 이행 불가능한 조항을 원래 조항의 의미에 가장 근접한 조항으로 대체할 수 있습니다.</text>
+	</string>
+	<string id="ui_elua_licence102">
+		<text>16.2. 본 계약은 당사와 사용자와의 관계에만 적용되며, 달리 명시되지 않는 한, 누구를 위한 제3자 권리도 생성하지 않습니다.</text>
+	</string>
+	<string id="ui_elua_licence103">
+		<text>16.3. 국제 물품 매매 계약에 관한 유엔 협약은 S.T.A.L.K.E.R. 또는 본 계약에 적용되지 않습니다.</text>
+	</string>
+	<string id="ui_elua_licence104">
+		<text>16.4. GSC는 자신의 단독 재량으로 언제든지 본 계약을 제삼자 또는 당사 그룹의 다른 구성원에게 양도, 하청 또는 이전할 권리를 가집니다.</text>
+	</string>
+	<string id="ui_elua_licence105">
+		<text>16.5. GSC가 본 계약 또는 법률에 의해 제공되는 권리 또는 구제책을 행사하지 못하거나 행사에 지연이 발생하더라도, 본 계약에 달리 명시되지 않는 한, 이러한 권리 또는 구제책의 포기로 간주되지 않으며, 이러한 권리 또는 구제책의 추가 행사가 배제되거나 제한되지도 않습니다. GSC가 이러한 권리 또는 구제책을 단독으로 행사하거나 부분적으로 행사하더라도, 해당 권리 또는 구제책이나 기타 권리 또는 구제책의 추가 행사는 배제되거나 제한되지 않습니다.</text>
+	</string>
+	<string id="ui_elua_licence106">
+		<text>16.6. 본 계약은 본 계약에 언급된 다른 문서와 함께 S.T.A.L.K.E.R.에 관한 사용자와 당사 간의 완전한 합의를 구성하며, 이전의 모든 구두 또는 서면 합의를 대체합니다.</text>
+	</string>
+	<string id="ui_elua_licence107_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence107">
+		<text>17. 본 계약의 수정</text>
+	</string>
+	<string id="ui_elua_licence108">
+		<text>17.1. GSC는 단독 재량으로 본 계약을 변경할 수 있는 권리를 보유합니다. 사용자는 게임 내에서 또는 다른 이용 가능한 통신 수단을 통해 통보를 받게 됩니다.</text>
+	</string>
+	<string id="ui_elua_licence109">
+		<text>17.2. 본 계약은 업데이트된 계약이 도입되는 즉시 종료되며, 본 계약을 검토할 기회가 사용자에게 제공됩니다. 본 계약이 수정된 후에도 게임을 계속 이용하고 플레이하면, 사용자는 수정된 약관에 동의하는 것으로 간주됩니다.</text>
+	</string>
+	<string id="ui_elua_licence110">
+		<text>변경 사항에 동의하지 않는다면 S.T.A.L.K.E.R.를 사용할 수 없습니다.</text>
+	</string>
+	<string id="ui_elua_licence111">
+		<text>본인은 본 계약의 모든 이용 약관을 읽고 이해했음을 인정합니다. "동의"를 클릭함으로써, 본인은 본 계약의 모든 이용약관을 인정하고 이를 준수하는 데에 동의하며, 여기에는 개인정보 보호 정책 및 본 계약의 기타 필수적인 부분에 대한 명시적인 동의가 포함됩니다.</text>
+	</string>
+<string id="ui_mm_ads_sens">
+		<text>조준 감도</text>
+	</string>
+
+	<string id="ui_mm_ads_scope_sens">
+		<text>저격 조준 감도</text>
+	</string>
+
+	<string id="ui_mm_shoot_sens">
+		<text>반동 제어</text>
+	</string>
+
+	<string id="ui_pad_layout_weapon_zoom_in">
+		<text>확대</text>
+	</string>
+
+	<string id="ui_pad_layout_weapon_zoom_out">
+		<text>축소</text>
+	</string>
+
+</string_table>

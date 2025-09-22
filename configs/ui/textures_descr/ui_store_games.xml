@@ -1,0 +1,25 @@
+<w>
+	<file name="ui\ui_store_games">
+		<texture id="ui_store_soc" 	x="0"   y="0"   width="512" height="288"/>
+		<texture id="ui_store_cs"  	x="512" y="0"   width="512" height="288"/>
+		<texture id="ui_store_cop" 	x="0"   y="288" width="512" height="288"/>
+		<texture id="ui_store_s2" 	x="0"   y="576" width="512" height="288"/>
+		<texture id="ui_store_s2_cs" x="512" y="288" width="512" height="288"/>
+		
+		<texture id="ui_frame_04_t" x="129" y="960" width="126" height="64" />
+		<texture id="ui_frame_04_rt" x="384" y="896" width="64" height="64" />
+		<texture id="ui_frame_04_rb" x="384" y="960" width="64" height="64" />
+		<texture id="ui_frame_04_r" x="0" y="896" width="64" height="128" />
+		<texture id="ui_frame_04_lt" x="256" y="896" width="64" height="64" />
+		<texture id="ui_frame_04_lb" x="256" y="960" width="64" height="64" />
+		<texture id="ui_frame_04_l" x="64" y="896" width="64" height="128" />
+		<texture id="ui_frame_04_back" x="960" y="960" width="64" height="64" />
+		<texture id="ui_frame_04_b" x="129" y="896" width="126" height="64" />
+		
+		<texture id="ui_btn_mm_d" x="512" y="768" width="256" height="32"/>
+		<texture id="ui_btn_mm_e" x="512" y="832" width="256" height="32"/>
+		<texture id="ui_btn_mm_h" x="512" y="896" width="256" height="32"/>
+		<texture id="ui_btn_mm_t" x="512" y="960" width="256" height="32"/>
+	</file>
+
+</w>

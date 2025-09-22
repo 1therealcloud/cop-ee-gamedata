@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ui_mm_vertical_sense">
+		<text>Sensibilitй verticale</text>
+	</string>
+	<string id="ui_mm_horizontal_sense">
+		<text>Sensibilitй horizontale</text>
+	</string>
+	
+	<string id="st_move_to_bag_all">
+		<text>tout dйplacer vers le sac а dos</text>
+	</string>
+	<string id="st_move_to_dead_body">
+		<text>Donner</text>
+	</string>
+	<string id="st_move_to_dead_body_all">
+		<text>tout donner</text>
+	</string>
+
+	<string id="st_move_to_offer">
+		<text>offrir</text>
+	</string>
+	<string id="st_move_to_offer_amount">
+		<text>montant de l'offre</text>
+	</string>
+	<string id="st_move_to_offer_all">
+		<text>tout offrir</text>
+	</string>
+	<string id="st_remove_from_offer">
+		<text>retirer</text>
+	</string>
+	<string id="st_remove_from_offer_amount">
+		<text>retirer le montant</text>
+	</string>
+	<string id="st_remove_from_offer_all">
+		<text>tout retirer</text>
+	</string>
+
+
+	<string id="st_move_to_cart">
+		<text>sйlectionner</text>
+	</string>
+	<string id="st_move_to_cart_amount">
+		<text>choisir le montant</text>
+	</string>
+	<string id="st_move_to_cart_all">
+		<text>tout sйlectionner</text>
+	</string>
+	<string id="st_remove_from_cart">
+		<text>retirer</text>
+	</string>
+	<string id="st_remove_from_cart_amount">
+		<text>retirer le montant</text>
+	</string>
+	<string id="st_remove_from_cart_all">
+		<text>tout retirer</text>
+	</string>
+	
+	<string id="st_upgrade">
+		<text>amйliorer</text>
+	</string>
+	<string id="st_repair">
+		<text>rйparer</text>
+	</string>
+	
+	<string id="ui_mmenu_no_savegames">
+		<text>Pas de sauvegardes</text>
+	</string>
+	<string id="ui_mmenu_new_savegame">
+		<text>Nouvelle sauvegarde</text>
+	</string>
+
+	<string id="ui_mm_controller_type">
+    	<text>Type de manette</text>
+		<text_ps5>Mйthode d'entrйe</text_ps5>
+		<text_xbox>Mйthode d'entrйe</text_xbox>
+  	</string>
+	<string id="ui_mm_controller_icon_type">
+		<text>Type d'affichage des icфnes de la manette</text>
+	</string>
+  	<string id="controller">
+    	<text>Manette</text>
+		<text_ps5>Manette sans fil DualSense®</text_ps5>
+  	</string>
+  	<string id="kbdmouse">
+    	<text>Clavier et souris</text>
+  	</string>
+	
+	<!-- INPUT LEGENDS -->
+	<!-- GENERAL -->
+	<string id="legend_ui_navigation_v">
+		<text>$$ICON$controller$lsv$$/$$ICON$controller$dpadv$$ Navigation</text>
+	</string>
+	<string id="legend_ui_navigation">
+		<text>$$ICON$controller$ls$$/$$ICON$controller$dpad$$ Navigation</text>
+	</string>
+	<string id="legend_ui_tabs">
+		<text>$$ACTION_UI_TAB_LEFT$$/$$ACTION_UI_TAB_RIGHT$$ Onglets</text>
+	</string>
+	<string id="legend_ui_back">
+		<text>$$ACTION_UI_BACK$$ Retour</text>
+	</string>
+	<string id="legend_ui_advanced">
+		<text>$$ACTION_UI_ACTION_2$$ Options vidйo avancйes</text>
+	</string>
+	<string id="legend_ui_basic">
+		<text>$$ACTION_UI_ACTION_2$$ Options vidйo de base</text>
+	</string>
+	
+	<!-- MAIN MENU -->
+	<string id="legend_ui_mmenu_select">
+		<text>$$ACTION_UI_ACCEPT$$ Sйlectionner le menu de l'objet</text>
+	</string>
+	<string id="legend_ui_mmenu_select_difficulty">
+		<text>$$ACTION_UI_ACCEPT$$ Sйlectionner la difficultй</text>
+	</string>
+	
+	<string id="legend_ui_savegame_load">
+		<text>$$ACTION_UI_ACCEPT$$ Charger</text>
+	</string>
+	<string id="legend_ui_savegame_delete">
+		<text>$$ACTION_UI_ACTION_1$$ Supprimer</text>
+	</string>
+	<string id="legend_ui_savegame_save">
+		<text>$$ACTION_UI_ACCEPT$$ Sauvegarder</text>
+	</string>
+	
+	<string id="legend_ui_options_save">
+		<text>$$ACTION_UI_ACTION_1$$ Accepter</text>
+	</string>	
+	<string id="legend_ui_options_toggle">
+		<text>$$ACTION_UI_ACCEPT$$ Activer/dйsactiver</text>
+	</string>
+	<string id="legend_ui_options_tune_item">
+		<text>$$ICON$controller$lsh$$/$$ICON$controller$dpadh$$ Rйgler</text>
+	</string>
+	
+	<!-- INGAME UIs -->
+	
+	<!-- INVENTORY -->
+	<string id="legend_ui_scroll_info">
+		<text>$$ICON$controller$lt$$/$$ICON$controller$rt$$ Dйfilement informations</text>
+	</string>
+	<string id="legend_ui_actions">
+		<text>$$ACTION_UI_CONTEXT_MENU$$ Actions</text>
+	</string>
+	<string id="legend_ui_use">
+		<text>$$ACTION_UI_ACCEPT$$ Utiliser</text>
+	</string>
+	<string id="legend_ui_info">
+		<text>$$ACTION_UI_HINT$$ Infos</text>
+	</string>
+
+	<string id="legend_ui_add10">
+		<text>$$ACTION_UI_TAB_LEFT$$/$$ACTION_UI_TAB_RIGHT$$ +/- 10</text>
+	</string>
+
+	<string id="legend_ui_add100">
+		<text>$$ACTION_PDA_TASKS_MAP_ZOOM_IN$$/$$ACTION_PDA_TASKS_MAP_ZOOM_OUT$$ +/- 100</text>
+	</string>
+	
+	<string id="legend_ui_selector">
+		<text>$$ICON$controller$ls$$/$$ICON$controller$dpad$$ Sйlecteur</text>
+	</string>
+	<string id="legend_ui_area_selector">
+		<text>$$ICON$controller$rs$$ Changer de zone</text>
+	</string>
+	
+	<string id="legend_ui_take_all">
+		<text>$$ACTION_actormenu_action$$ Tout prendre</text>
+	</string>
+	<string id="legend_ui_trade">
+		<text>$$ACTION_actormenu_action$$ Йchanger</text>
+	</string>
+	<string id="legend_ui_propbox_select">
+		<text>$$ACTION_UI_ACCEPT$$ Sйlectionner</text>
+	</string>
+	<string id="legend_ui_repair">
+		<text>$$ACTION_actormenu_action$$ Rйparer</text>
+	</string>
+	<string id="legend_ui_upgrade">
+		<text>$$ACTION_UI_ACCEPT$$ Amйliorer</text>
+	</string>
+	
+	<!-- wheel menu -->
+	<string id="legend_ui_wheelmenu_select">
+		<text>$$ICON$controller$lb$$ + $$ICON$controller$rs$$ Choisir le secteur</text>
+	</string>
+	<string id="legend_ui_drop_weapon">
+		<text>$$ACTION_DROP$$ Lвcher l'arme</text>
+	</string>
+	<string id="legend_ui_night_vision">
+		<text>$$ACTION_NIGHT_VISION$$ Vision nocturne</text>
+	</string>
+	<string id="legend_ui_wpn_func">
+		<text>$$ACTION_wpn_func$$ Arme supplйmentaire</text>
+	</string>
+	<string id="legend_ui_fire_mode">
+		<text>$$ACTION_wpn_firemode_next$$ Rate Cadence de tir</text>
+	</string>
+	<string id="legend_ui_ammo_next">
+		<text>$$ACTION_wpn_next$$ Type de munitions</text>
+	</string>
+	
+	<!-- talk dialog -->
+	<string id="legend_ui_talk_replies">
+		<text>$$ICON$controller$lsv$$/$$ICON$controller$dpadv$$ Choisir</text>
+	</string>
+	<string id="legend_ui_talk_reply">
+		<text>$$ACTION_UI_ACCEPT$$ Parler</text>
+	</string>
+	<string id="legend_ui_talk_log">
+		<text>$$ICON$controller$rsv$$ Journal</text>
+	</string>
+	<string id="legend_ui_talk_open_trade">
+		<text>$$ACTION_talk_trade_upgrade$$ Йchanger</text>
+	</string>
+
+	<string id="legend_ui_talk_reply_PC">
+		<text>Sйlectionner ($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ Sйlectionner </text_c>
+	</string>
+	<string id="legend_ui_talk_select">
+		<text>Naviguer ($$ACTION_FORWARD$$)/($$ACTION_BACK$$)</text>
+	</string>
+	
+	<!-- PDA -->
+	<string id="legend_ui_tasks_show_on_map">
+		<text>$$ACTION_pda_tasks_show_on_map$$ Afficher sur la carte</text>
+	</string>
+	<string id="legend_ui_tasks_track_on_map">
+		<text>$$ACTION_pda_tasks_track_on_map$$ Suivre</text>
+	</string>
+	<string id="legend_ui_tasks_map_move">
+		<text>$$ICON$controller$rs$$ Dйplacer le curseur</text>
+	</string>
+	<string id="legend_ui_tasks_map_show_me">
+		<text>$$ACTION_pda_tasks_map_show_me$$ Emplacement actuel</text>
+	</string>
+	<string id="legend_ui_tasks_map_zoom">
+		<text>$$ACTION_pda_tasks_map_zoom_out$$/$$ACTION_pda_tasks_map_zoom_in$$ Niveau de zoom</text>
+	</string>
+	<string id="legend_ui_tasks_filter_next">
+		<text>$$ICON$controller$dpadh$$ Filtre des tвches</text>
+	</string>
+	<string id="legend_ui_tasks_filter_toggle">
+		<text>$$ACTION_pda_tasks_filter_toggle$$ Activer/dйsactiver le filtre</text>
+	</string>
+	<string id="legend_ui_pda_scroll_info">
+		<text>$$ICON$controller$rsv$$ Dйfilement</text>
+	</string>
+	<string id="legend_ui_pda_show_mission">
+		<text>$$ACTION_pda_tasks_toggle_list$$ Afficher les missions</text>
+	</string>
+	<string id="legend_ui_pda_hide_mission">
+		<text>$$ACTION_pda_tasks_toggle_list$$ Masquer les missions</text>
+	</string>
+	<string id="legend_ui_pda_toggle_legend">
+		<text>$$ACTION_pda_tasks_toggle_legend$$ Lйgende</text>
+	</string>
+	
+	<!-- PDA Logs -->
+	
+	<string id="legend_ui_pda_log_to_start">
+		<text>$$ACTION_pda_log_to_start$$ Premier</text>
+	</string>
+	<string id="legend_ui_pda_log_to_end">
+		<text>$$ACTION_pda_log_to_end$$ Dernier</text>
+	</string>
+	<string id="legend_ui_pda_log_date_prev">
+		<text>$$ACTION_pda_log_date_prev$$ Date prйcйdente</text>
+	</string>
+	<string id="legend_ui_pda_log_date_next">
+		<text>$$ACTION_pda_log_date_next$$ Date suivante</text>
+	</string>
+	<string id="legend_ui_pda_log_show_news">
+		<text>$$ACTION_pda_log_show_news$$ Activer/dйsactiver les nouvelles</text>
+	</string>
+	<string id="legend_ui_pda_log_show_dialogs">
+		<text>$$ACTION_pda_log_show_dialogs$$ Activer/dйsactiver les dialogues</text>
+	</string>
+	
+	<string id="legend_ui_numpad_press">
+		<text>$$ACTION_UI_ACCEPT$$ Appuyer sur le bouton</text>
+	</string>
+	
+
+
+	<string id="legend_ui_sign_back_in">
+		<text>$$ACTION_UI_ACCEPT$$ Se reconnecter</text>
+	</string>
+	<string id="legend_ui_title_screen">
+		<text>$$ACTION_UI_BACK$$ Йcran de titre</text>
+	</string>
+	<!-- MTB-marcin.lawski Start: Remove duplication of text which crash debug>
+	<string id="st_change_user">
+		<text>The active user has disconnected the controller. Please reconnect or go back to the title screen to switch to a new user.</text>
+	</string>
+	<MTB-marcin.lawski Start: Remove duplication of text which crash debug -->
+
+	<!-- Controller Layout info -->
+
+	<string id="ui_pad_layout_PDA">
+		<text>Ouvrir PDA</text>
+	</string>
+	<string id="ui_pad_layout_wheel">
+		<text>Roue des armes</text>
+	</string>
+	<string id="ui_pad_layout_aim">
+		<text>Viser</text>
+	</string>
+	<string id="ui_pad_layout_quckslot0">
+		<text>Premier objet de la barre d'accиs rapide</text>
+	</string>
+	<string id="ui_pad_layout_quckslot1">
+		<text>Deuxiиme objet de la barre d'accиs rapide</text>
+	</string>
+	<string id="ui_pad_layout_quckslot2">
+		<text>Troisiиme objet de la barre d'accиs rapide</text>
+	</string>
+	<string id="ui_pad_layout_quckslot3">
+		<text>Quatriиme objet de la barre d'accиs rapide</text>
+	</string>
+	<string id="ui_pad_layout_strafe">
+		<text>Dйplacement latйral</text>
+	</string>
+	<string id="ui_pad_layout_move">
+		<text>Dйplacement</text>
+	</string>
+	<string id="ui_pad_layout_sprint">
+		<text>Sprint</text>
+	</string>
+
+	<string id="ui_pad_layout_menu">
+		<text>Menu</text>
+	</string>
+	<string id="ui_pad_layout_jump">
+		<text>Sauter</text>
+	</string>
+	<string id="ui_pad_layout_shoot">
+		<text>Tirer</text>
+	</string>
+	<string id="ui_pad_layout_inventory">
+		<text>Inventaire</text>
+	</string>
+	<string id="ui_pad_layout_crouch">
+		<text>S'accroupir</text>
+	</string>
+	<string id="ui_pad_layout_reload">
+		<text>Recharger</text>
+	</string>
+	<string id="ui_pad_layout_action">
+		<text>Action</text>
+	</string>
+	<string id="ui_pad_layout_lookx">
+		<text>Regarder - X</text>
+	</string>
+	<string id="ui_pad_layout_Looky">
+		<text>Regarder - Y</text>
+	</string>
+	<string id="ui_pad_layout_torch">
+		<text>Lampe torche</text>
+	</string>
+	<string id="ui_slider_amount">
+		<text>Montant : %d</text>
+	</string>
+	<string id="ui_mm_ads_sens">
+		<text>Sensibilitй de la visйe</text>
+	</string>
+	<string id="ui_mm_ads_scope_sens">
+		<text>Sensibilitй avec lunette de visйe</text>
+	</string>
+	<string id="ui_mm_shoot_sens">
+		<text>Contrфle du recul</text>
+	</string>
+	<string id="ui_accept_eula">
+		<text>Accepter</text>
+	</string>
+	<string id="ui_elua_name">
+		<text>CONTRAT DE LICENCE DE L'UTILISATEUR FINAL</text>
+	</string>
+	<string id="ui_mm_nx64_setlang">
+		<text>Choisir une langue</text>
+	</string>
+	<string id="ui_elua_licence0_type">
+	<text>__HEADER__</text>
+</string>
+	<string id="ui_elua_licence0">
+		<text>S.T.A.L.K.E.R.: Call of Prypiat Enhanced Edition – CONTRAT DE LICENCE D'UTILISATEUR FINAL</text>
+	</string>
+	<string id="ui_elua_licence1_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence1">
+		<text>DERNIИRE MISE А JOUR : 28 mai 2025</text>
+	</string>
+	<string id="ui_elua_licence2">
+		<text>Vous pouvez imprimer une copie de tout ou partie du prйsent CONTRAT DE LICENCE D'UTILISATEUR FINAL pour l'enregistrer et vous y rйfйrer ultйrieurement.</text>
+	</string>
+	<string id="ui_elua_licence3_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence3">
+		<text>1. А PROPOS DE CE CONTRAT</text>
+	</string>
+	<string id="ui_elua_licence4">
+		<text>1.1. Le prйsent Contrat de licence d'utilisateur final (ci-aprиs dйnommй “Contrat”) est un Contrat juridiquement contraignant rйgissant les relations entre GSC Game World Global Ltd, dont l'adresse est Leontiou A, 159, MARYVONNE BUILDING, йtages 4 et 5, bureau 402, 3022, Limassol, Chypre (ci-aprиs dйnommй "GSC", "nous" ou "notre") et vous.</text>
+	</string>
+	<string id="ui_elua_licence5">
+		<text>Le prйsent contrat couvre notre jeu S.T.A.L.K.E.R.: Call of Prypiat Enhanced Edition, nonobstant la forme sous laquelle il a йtй achetй/acquis, y compris, mais sans s'y limiter, les clйs/codes de jeu (ci-aprиs "S.T.A.L.K.E.R." ou le "jeu").</text>
+	</string>
+	<string id="ui_elua_licence6">
+		<text>1.2. Le prйsent Contrat vous lie а nous dиs le tйlйchargement, l'installation ou l'utilisation effective de S.T.A.L.K.E.R. (selon ce qui se produit le plus tфt). Si vous ne l'acceptez pas, ne tйlйchargez pas, n'installez pas et n'utilisez pas le jeu.</text>
+	</string>
+	<string id="ui_elua_licence7">
+		<text>1.3. Les documents suivants font partie intйgrante du prйsent Contrat et sont obligatoires pour accepter, tйlйcharger, installer ou utiliser le jeu : (a) Lignes directrices pour la crйation de contenu par les fans (https://www.gsc-game.com/guidelines) – GSC a toujours apprйciй le contenu crйй par les fans а partir de notre univers, ce document explique les limites pour que vous puissiez en crйer ; et (b) Politique de confidentialitй de GSC (www.gsc-game.com/privacy_policy) – qui dйtaille la collecte, l'utilisation et la protection de vos donnйes а caractиre personnel par GSC. Ces documents font partie du prйsent Contrat, peuvent кtre mis а jour de temps а autre, et sont collectivement dйsignйs sous le nom "Conditions". En outre, en fonction de la plateforme par laquelle le jeu a йtй distribuй, il se peut que vous deviez aussi accepter et suivre les conditions gйnйrales de ces plateformes.</text>
+	</string>
+	<string id="ui_elua_licence8_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence8">
+		<text>2. AVERTISSEMENT ET RESTRICTIONS CONCERNANT LA SANTЙ, L'ВGE ET LE CONTENU</text>
+	</string>
+	<string id="ui_elua_licence9">
+		<text>2.1. Avertissement sur la photosensibilitй et les crises d'йpilepsie. Un trиs faible pourcentage de personnes peut souffrir de crises d'йpilepsie ou d'йvanouissements lorsqu'elles sont exposйes а certains йlйments visuels, y compris, mais sans s'y limiter, des motifs lumineux ou des lumiиres qui clignotent rapidement. Si vous commencez а ressentir l'un des symptфmes suivants pendant que vous jouez, arrкtez immйdiatement et consultez votre mйdecin avant de reprendre le jeu : perte de conscience, crises d'йpilepsie, vertiges, altйration de la vision, contractions oculaires ou musculaires, secousses des bras ou des jambes, perte de conscience, dйsorientation, confusion, tout mouvement involontaire ou convulsions.</text>
+	</string>
+	<string id="ui_elua_licence10">
+		<text>2.2. S.T.A.L.K.E.R. a reзu des classifications d'вge minimum (par exemple, PEGI, ESRB) qui peuvent кtre diffйrentes selon l'endroit oщ vous rйsidez et qui seront affichйes quand vous achиterez S.T.A.L.K.E.R.. Vous n'кtes autorisй а jouer а S.T.A.L.K.E.R. que si vous avez l'вge minimum requis.</text>
+	</string>
+	<string id="ui_elua_licence11">
+		<text>Si vous atteignez ou dйpassez l'вge minimum requis et que vous entrez dans l'une des catйgories suivantes :</text>
+	</string>
+	<string id="ui_elua_licence12">
+		<text>i. 18 ans ou plus (ou l'вge lйgal de la majoritй dans votre juridiction), vous кtes libre d'utiliser le jeu sous rйserve d'accepter le prйsent Contrat ;</text>
+	</string>
+	<string id="ui_elua_licence13">
+		<text>ii. si vous avez entre 17 et 18 ans (ou l'вge lйgal de la majoritй dans votre juridiction), votre parent ou tuteur doit consentir а examiner et а approuver le prйsent Contrat en votre nom (car certaines juridictions interdisent aux personnes n'ayant pas atteint un certain вge de conclure des Contrats contraignants comme le prйsent Contrat). En outre, ils doivent superviser votre engagement avec S.T.A.L.K.E.R.;</text>
+	</string>
+	<string id="ui_elua_licence14">
+		<text>iii. si vous avez moins de 17 ans ou moins que l'вge minimum spйcifiй dans votre juridiction, il vous est interdit de tйlйcharger, de jouer ou d'utiliser de quelque maniиre S.T.A.L.K.E.R..</text>
+	</string>
+	<string id="ui_elua_licence15">
+		<text>2.3. S.T.A.L.K.E.R. contient des reprйsentations de violence, de langage grossier, de contenu sexuel, de consommation de drogues qui peuvent кtre dйstabilisantes pour certaines personnes. Si vous кtes sensible а ce type de contenu ou s'il peut constituer un йlйment dйclencheur pour vous, veuillez prendre ces facteurs en considйration avant de commencer а jouer.</text>
+	</string>
+	<string id="ui_elua_licence16_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence16">
+		<text>3. UTILISATION DE S.T.A.L.K.E.R.</text>
+	</string>
+	<string id="ui_elua_licence17">
+		<text>3.1. GSC vous accorde une licence personnelle, limitйe, rйvocable, non exclusive, non transfйrable et non cessible pour afficher, visualiser, tйlйcharger, installer, jouer et utiliser S.T.A.L.K.E.R. (ainsi que ses mods, si applicable) sur votre ordinateur personnel, votre console de jeux et/ou d'autres appareils/plateformes explicitement autorisйs par GSC et pour lesquels le jeu a йtй achetй. Cette licence est uniquement destinйe а votre usage personnel et ne vous confиre aucun droit de propriйtй sur S.T.A.L.K.E.R.. Vous n'кtes pas autorisй а concйder des sous-licences, а vendre, а cйder, а offrir ou а transfйrer S.T.A.L.K.E.R. а une tierce personne, ni а utiliser S.T.A.L.K.E.R. а des fins commerciales de quelque faзon qu'il soit.</text>
+	</string>
+	<string id="ui_elua_licence18_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence18">
+		<text>4. EXIGENCES MINIMALES DU SYSTИME ET SURVEILLANCE CONTINUE</text>
+	</string>
+	<string id="ui_elua_licence19">
+		<text>4.1. S.T.A.L.K.E.R. requiert une configuration minimale en fonction de votre appareil/systиme/plateforme. Vous pouvez vous renseigner sur le site de S.T.A.L.K.E.R. avant d'acheter le jeu. Il est essentiel que vous rйpondiez а ces exigences avant d'acheter le jeu.</text>
+	</string>
+	<string id="ui_elua_licence20">
+		<text>4.2. Dans le but d'amйliorer votre expйrience de jeu, d'empкcher des actes interdits par le prйsent Contrat, de protйger l'intйgritй de S.T.A.L.K.E.R. et, si nйcessaire, de faire respecter le prйsent Contrat, nous pouvons dйployer des logiciels spйcifiques qui fonctionneront en arriиre-plan sur votre systиme ou sur les pйriphйriques connexes pendant que vous utilisez S.T.A.L.K.E.R.. La plupart de ces logiciels sont facultatifs et vous aurez la possibilitй de nous autoriser ou de nous interdire de les dйployer. Si nous devons utiliser des outils logiciels obligatoires, nous vous en informerons au prйalable (par le biais du jeu ou d'autres ressources liйes а S.T.A.L.K.E.R.). Des informations supplйmentaires concernant ces outils logiciels sont disponibles dans notre Politique de confidentialitй.</text>
+	</string>
+	<string id="ui_elua_licence21_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence21">
+		<text>5. CORRECTIFS, MISES А JOUR ET MODIFICATIONS</text>
+	</string>
+	<string id="ui_elua_licence22">
+		<text>5.1. S.T.A.L.K.E.R. est fourni “en l'йtat” et “tel que disponible”, ce qui signifie qu'il peut contenir des bugs et des erreurs dans le code qui peuvent entraоner un plantage du jeu de temps а autre. GSC a fait des efforts raisonnables pour йviter cela, mais aucun logiciel n'est idйal. L'assistance du jeu n'est pas toujours disponible et peut кtre interrompue а un moment donnй.</text>
+	</string>
+	<string id="ui_elua_licence23">
+		<text>5.2. GSC se rйserve le droit (mais n'a cependant aucune obligation) d'apporter des correctifs, des mises а jour ou des modifications а S.T.A.L.K.E.R. au fil du temps (ajout ou suppression de fonctionnalitйs, dйbogage de bugs logiciels ou amйlioration de l'йquilibre du jeu). Ces correctifs ou modifications seront dйployйs par le biais de mises а jour obligatoires et/ou automatiques. Si vous n'installez pas ces mises а jour, les versions non mises а jour pourraient devenir inutilisables а l'avenir.</text>
+	</string>
+	<string id="ui_elua_licence24_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence24">
+		<text>6. DROITS DE PROPRIЙTЙ INTELLECTUELLE</text>
+	</string>
+	<string id="ui_elua_licence25">
+		<text>6.1. S.T.A.L.K.E.R., qui englobe tous ses йlйments structurels, y compris, mais sans s'y limiter, ses йlйments visuels, ses personnages, ses intrigues, ses illustrations, ses animations, ses dessins, ses actifs, sa musique, ses effets sonores, ses dialogues, ses graphismes, son code informatique, son interface utilisateur, son style visuel et opйrationnel, ses mйcanismes de jeu, son gameplay, ses йlйments audiovisuels, son contenu textuel, sa mise en page, ses bases de donnйes, ses donnйes et tous les autres matйriaux, ainsi que tous les droits de propriйtй intellectuelle associйs (tels que dйfinis ci-dessous) et tous les autres droits lйgaux et droits d'exploitation qui s'y rapportent, sont soit la propriйtй de GSC, soit dыment concйdйs sous licence par nous а des tiers. Tous les droits concernant S.T.A.L.K.E.R. sont conservйs, а l'exception de ce qui est explicitement stipulй dans le prйsent Contrat. Vous n'кtes pas autorisй а employer ou а capitaliser sur tout aspect de S.T.A.L.K.E.R., sauf si cela est stipulй dans nos Directives de crйation de contenu par les fans. S.T.A.L.K.E.R. et ses droits de propriйtй intellectuelle sont protйgйs par des droits d'auteur, des marques commerciales et d'autres statuts de propriйtй intellectuelle dans le monde entier.</text>
+	</string>
+	<string id="ui_elua_licence26">
+		<text>“Droits de propriйtй intellectuelle” signifie tous les droits d'auteur, marques de commerce, marques de service, logos, habillages commerciaux, fonds de commerce, noms de marque, noms d'entreprise ou de domaine, droits de conception, droits sur les habillages, droits sur les bases de donnйes, droits sur les personnages, brevets, droits sur les inventions, savoir-faire, secrets commerciaux et informations confidentielles, droits sur les logiciels informatiques (y compris le code source et le code objet), droits moraux, droits d'auteur, droits de publicitй, droits d'exйcution, droits de synchronisation, droits mйcaniques, droits d'йdition, de location, de prкt et de transmission et autres droits de propriйtй intellectuelle et droits d'exploitation de caractиre similaire ou correspondant qui existeraient actuellement ou а l'avenir dans n'importe quelle partie du monde, dans tous les cas, qu'ils soient ou non enregistrйs ou enregistrables, y compris toutes les demandes accordйes et toutes les demandes d'enregistrement, de division, de continuation, de redйlivrance, de renouvellement, d'extension, de restauration et de rйversion concernant l'un ou l'autre de ces titres.</text>
+	</string>
+	<string id="ui_elua_licence27">
+		<text>Cette section survivra а la rйsiliation du prйsent Contrat.</text>
+	</string>
+	<string id="ui_elua_licence28_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence28">
+		<text>7. CONDITIONS D'UTILISATION</text>
+	</string>
+	<string id="ui_elua_licence29">
+		<text>7.1. Il ne vous est pas accordй de licence d'utilisation commerciale pour S.T.A.L.K.E.R., mais uniquement une licence d'utilisation personnelle, sauf indication contraire dans une partie quelconque du Contrat, pour une cause particuliиre.</text>
+	</string>
+	<string id="ui_elua_licence30">
+		<text>7.2.   Il vous est explicitement interdit de copier, louer, acheter, vendre, prкter, partager, donner, louer, sous-licencier, transfйrer, distribuer, publier ou afficher publiquement S.T.A.L.K.E.R. ou n'importe lequel de vos droits en vertu du prйsent Contrat, sauf autorisation expresse en vertu du prйsent Contrat.</text>
+	</string>
+	<string id="ui_elua_licence31">
+		<text>7.3. Il vous est explicitement interdit de crйer, d'utiliser, de concйder des licences, des sous-licences, de mettre а disposition et/ou de distribuer des procйdйs de triche pouvant кtre appliquйs а S.T.A.L.K.E.R.. Les procйdйs de triche sont des abus, des logiciels d'automatisation, des robots, des bots, des hacks, des spiders, des spywares, des scripts, des trainers, des outils d'extraction ou d'autres logiciels qui peuvent interagir avec ou affecter S.T.A.L.K.E.R. d'une maniиre non prйvue par GSC, y compris tout programme tiers non autorisй qui collecte des informations en lisant des zones de mйmoire utilisйes par S.T.A.L.K.E.R. pour stocker des informations.</text>
+	</string>
+	<string id="ui_elua_licence32">
+		<text>7.4. Il vous est interdit de modifier, fusionner, distribuer, traduire, faire de la rйtro-ingйnierie ou tenter d'obtenir ou d'utiliser le code source de S.T.A.L.K.E.R., de le dйcompiler ou de le dйsassembler, а moins qu'une loi applicable ne vous y autorise expressйment.</text>
+	</string>
+	<string id="ui_elua_licence33">
+		<text>7.5. Il vous est interdit d'interrompre ou d'interfйrer avec l'assistance technique ou а la clientиle de GSC ou d'usurper l'identitй de son personnel.</text>
+	</string>
+	<string id="ui_elua_licence34">
+		<text>7.6. Il vous est interdit d'intercepter, d'extraire ou de collecter de quelque maniиre que ce soit des donnйes ou des informations personnelles ou confidentielles provenant de S.T.A.L.K.E.R..</text>
+	</string>
+	<string id="ui_elua_licence35">
+		<text>7.7. Il vous est interdit d'interfйrer de maniиre malveillante, de perturber ou d'accйder а des zones restreintes de nos logiciels ou serveurs ou de ceux de tiers, y compris par le biais de tunnels, d'injection ou d'insertion de code, de dйni de service, de modification ou de changement du logiciel, d'utilisation de tout autre logiciel similaire avec notre logiciel, par l'йmulation de protocole, ou par la crйation ou l'utilisation de serveurs privйs ou de tout service analogue concernant GSC ou le jeu.</text>
+	</string>
+	<string id="ui_elua_licence36">
+		<text>7.8. Il vous est interdit d'effectuer des actions susceptibles de porter atteinte aux droits d'auteur, marques, brevets, secrets commerciaux, а la confidentialitй, а la publicitй ou а d'autres droits de GSC.</text>
+	</string>
+	<string id="ui_elua_licence37">
+		<text>7.9. Il vous est interdit de tйlйcharger des fichiers contenant des codes malveillants, y compris des virus, des logiciels espions, des chevaux de Troie, des vers, des bombes а retardement, des donnйes intentionnellement corrompues, tout autre fichier contenant des codes malveillants ou susceptible de quelque maniиre que ce soit de causer des dйgвts ou des interfйrences avec S.T.A.L.K.E.R..</text>
+	</string>
+	<string id="ui_elua_licence38">
+		<text>7.10. Il vous est interdit de crйer du contenu ou d'utiliser S.T.A.L.K.E.R. d'une maniиre qui soit ou puisse кtre considйrйe comme raciste, harcelante, xйnophobe, sexiste, discriminatoire, abusive, diffamatoire ou autrement offensante ou illйgale.</text>
+	</string>
+	<string id="ui_elua_licence39">
+		<text>7.11. Il vous est interdit de supprimer toute mention ou йtiquette de propriйtй sur le jeu.</text>
+	</string>
+	<string id="ui_elua_licence40">
+		<text>7.12. Vous devez vous conformer а toutes les lois et rйglementations applicables quand vous utilisez S.T.A.L.K.E.R..</text>
+	</string>
+	<string id="ui_elua_licence41">
+		<text>Cette section survivra а la rйsiliation du prйsent Contrat.</text>
+	</string>
+	<string id="ui_elua_licence42_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence42">
+		<text>8. CONTENU CRЙЙ PAR LES FANS ET MODS</text>
+	</string>
+	<string id="ui_elua_licence43">
+		<text>8.1. Le terme "Mods" dйsigne le contenu gйnйrй par l'utilisateur et/ou les altйrations apportйes а un ou plusieurs composantes du jeu. Ces modifications sont apportйes pour кtre utilisйes avec le jeu et entraоnent une expйrience de gameplay personnalisйe ou altйrйe qui s'йloigne de la version originellement fournie par GSC. L'expйrience apportйe par un mod peut кtre diffйrente en fonction de l'utilisateur.</text>
+	</string>
+	<string id="ui_elua_licence44">
+		<text>8.2. Dans toute la mesure permise par la loi applicable, GSC dйcline toute responsabilitй concernant les mods publiйs, partagйs, ou distribuйs par vous ou une tierce partie. Bien que GSC se rйserve le droit, sans en avoir l'obligation, de surveiller, modifier ou supprimer tout mod qu'il considиre, а son entiиre discrйtion, comme enfreignant les Conditions (tel que du contenu illйgal, frauduleux, trompeur, offensant, obscиne, menaзant, diffamatoire, violant la vie privйe, les droits de propriйtй intellectuelle, ou contenant des virus ou autres types de code а intention malicieuse), il n'assume aucune responsabilitй pour la suppression de tels mods ou pour tout manquement ou retard dans l'exйcution de celle-ci.</text>
+	</string>
+	<string id="ui_elua_licence45">
+		<text>8.3. Les mods sont fournis par des parties tierces, y compris des individus et entitйs indйpendants de GSC ("services tiers"). GSC ne contrфle ni n'accepte aucune responsabilitй liйe aux services tiers, y compris, mais sans s'y limiter, а la maniиre dont ces services collectent, utilisent ou stockent vos informations. Votre utilisation des mods, et de tous les services tiers qui en dйcoulent, peut vous exposer а des frais, conditions et/ou politiques supplйmentaires йtablis par ces services tiers, y compris des politiques de confidentialitй indйpendantes du contrфle du GSC. En utilisant des mods ou services tiers intйgrйs, vous acceptez d'adhйrer aux conditions et politiques imposйes par ces services tiers.</text>
+	</string>
+	<string id="ui_elua_licence46">
+		<text>8.4. Vous reconnaissez et acceptez que l'utilisation de mods ne concerne que vous. GCS n'assume aucune responsabilitй concernant l'йvaluation et la vйrification du contenu, la vйracitй, la complйtude, la disponibilitй, l'exactitude, la validitй, le respect des droits d'auteur, la lйgalitй, le caractиre appropriй, la qualitй, et toute autre caractйristique d'un mod ou d'un service tiers. GSC ne garantit ni ne soutient aucun service tiers. De plus, vous acceptez que GSC n'est responsable d'aucun problиme, perte, ou dommage que vous pourriez subir en utilisant ces services tiers.</text>
+	</string>
+	<string id="ui_elua_licence47">
+		<text>8.5. Violation des droits d'auteur</text>
+	</string>
+	<string id="ui_elua_licence48">
+		<text>Si vous pensez qu'un mod enfreint vos droits d'auteur, veuillez nous fournir les informations suivantes :</text>
+	</string>
+	<string id="ui_elua_licence49">
+		<text>a. votre nom, prйnom, adresse, adresse e-mail ;</text>
+	</string>
+	<string id="ui_elua_licence50">
+		<text>b. une description de l'њuvre protйgйe par droits d'auteur ayant d'aprиs vous йtй enfreints ;</text>
+	</string>
+	<string id="ui_elua_licence51">
+		<text>c. l'URL exacte, ou bien une description de chaque endroit oщ le matйriel en infraction est localisй ;</text>
+	</string>
+	<string id="ui_elua_licence52">
+		<text>d. une dйclaration de bonne foi de votre part йtablissant que ni vous, ni votre agent, ni la loi n'avez autorisй l'utilisation en question ;</text>
+	</string>
+	<string id="ui_elua_licence53">
+		<text>e. votre signature йlectronique ou physique, ou la signature йlectronique ou physique de la personne autorisйe а agir en votre nom ; et</text>
+	</string>
+	<string id="ui_elua_licence54">
+		<text>f. une dйclaration de votre part dйtaillant que les informations renseignйes sont correctes et que, sous peine de dйlit de faux tйmoignage, vous avez le droit d'agir au nom du propriйtaire d'un droit exclusif ayant йtй prйtendument enfreint.</text>
+	</string>
+	<string id="ui_elua_licence55">
+		<text>Les informations mentionnйes ci-dessus doivent кtre envoyйes а :</text>
+	</string>
+	<string id="ui_elua_licence56">
+		<text>Objet : Violation de droits d'auteur</text>
+	</string>
+	<string id="ui_elua_licence57">
+		<text>Adresse e-mail : legal@gsc-game.com</text>
+	</string>
+	<string id="ui_elua_licence58">
+		<text>Si nous recevons un avis nous dйclarant qu'un mod enfreint les droits d'auteur d'une tierce partie, nous pourrions supprimer le mod concernй par cette demande.</text>
+	</string>
+	<string id="ui_elua_licence59">
+		<text>Veuillez consulter nos Directives de crйation de contenu par les fans (https://www.gsc-game.com/guidelines) pour comprendre ce qu'il vous est permis de crйer comme contenu basй sur S.T.A.L.K.E.R. et dans quelle mesure.</text>
+	</string>
+	<string id="ui_elua_licence60_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence60">
+		<text>9. COMMENTAIRES ET RAPPORTS DE PLANTAGE</text>
+	</string>
+	<string id="ui_elua_licence61">
+		<text>9.1. GSC apprйcie le retour d'information de la communautй. Si vous avez quelque chose d'utile а dire, n'hйsitez pas а nous envoyer un message а l'adresse suivante : support@gsc-game.com/. Dans le cas oщ vos suggestions seraient intйgrйes au jeu de quelque maniиre que ce soit, nous ne sommes pas tenus de vous fournir une quelconque contrepartie (matйrielle ou autre).</text>
+	</string>
+	<string id="ui_elua_licence62">
+		<text>9.2. Si votre session de jeu se bloque pour une raison quelconque, GSC peut vous demander de lui fournir un journal des plantages afin d'amйliorer le code source et de rendre votre expйrience plus agrйable et avec moins de pannes. Les rapports de plantage ne sont pas obligatoires et peuvent parfois contenir des informations personnelles (vous pouvez consulter notre Politique Confidentialitй pour vous familiariser avec les types de donnйes qui peuvent кtre transfйrйes avec un tel rapport de plantage).</text>
+	</string>
+	<string id="ui_elua_licence63_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence63">
+		<text>10. CONTENU DE TIERS</text>
+	</string>
+	<string id="ui_elua_licence64">
+		<text>10.1. Nous pouvons vous fournir des hyperliens vers des sites web externes ou du contenu provenant de sources tierces dans S.T.A.L.K.E.R.. En outre, vous avez la possibilitй d'accйder а S.T.A.L.K.E.R. par le biais de divers appareils, systиmes ou plateformes. La dйcision de les utiliser est entiиrement laissйe а votre discrйtion et nous ne pouvons pas garantir leur fonctionnalitй, leur qualitй ou leur gratuitй. En outre, diffйrents appareils, systиmes ou plateformes peuvent avoir leurs propres conditions juridiques distinctes, que nous vous conseillons vivement d'examiner avant de les utiliser.</text>
+	</string>
+	<string id="ui_elua_licence65_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence65">
+		<text>11. GARANTIES ET DЙCLARATIONS</text>
+	</string>
+	<string id="ui_elua_licence66">
+		<text>11.1. Garanties de GSC. GSC garantit avoir le droit de conclure le prйsent Contrat et de vous accorder la licence vous permettant d'utiliser S.T.A.L.K.E.R. а des fins de divertissement personnel.</text>
+	</string>
+	<string id="ui_elua_licence67">
+		<text>11.2. Vos dйclarations et garanties. Vous dйclarez et garantissez que vous avez le plein pouvoir et la pleine capacitй de conclure le prйsent Contrat et que vous en respecterez les termes а tous йgards.</text>
+	</string>
+	<string id="ui_elua_licence68_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence68">
+		<text>12. RESPONSABILITЙ</text>
+	</string>
+	<string id="ui_elua_licence69">
+		<text>12.1. Sauf disposition contraire explicite dans le Contrat, GSC et ses affiliйs, partenaires et concйdants de licence dйclinent toute garantie ou reprйsentation implicite ou explicite concernant S.T.A.L.K.E.R.. S.T.A.L.K.E.R. vous est fourni “en l'йtat” et “tel que disponible”, sans garantie ni dйclaration d'aucune sorte, expresse ou implicite, et nous ne sommes pas responsables des pertes, dommages ou prйjudices de quelque nature que ce soit rйsultant de votre utilisation ou de votre incapacitй а l'utiliser. Vous utilisez S.T.A.L.K.E.R. а vos propres risques.</text>
+	</string>
+	<string id="ui_elua_licence70">
+		<text>Dans toute la mesure permise par la loi applicable, nous dйclinons toute garantie, expresse ou implicite, qui pourrait s'appliquer а S.T.A.L.K.E.R. y compris les garanties implicites de titre, d'absence de contrefaзon, de qualitй marchande, de qualitй satisfaisante, d'adйquation а un usage particulier, toute garantie pouvant rйsulter de la conduite habituelle ou de l'usage du commerce, de l'absence de virus, d'erreurs ou de dйfauts, et/ou toute garantie quant а l'exactitude, la lйgalitй, la fiabilitй ou la qualitй du contenu ou des informations contenues dans le site S.T.A.L.K.E.R..</text>
+	</string>
+	<string id="ui_elua_licence71">
+		<text>GSC ne garantit pas expressйment que S.T.A.L.K.E.R. sera ininterrompu ou exempt d'erreurs, que les dйfauts seront corrigйs ou que le jeu sera exempt de virus ou d'autres composants nuisibles.</text>
+	</string>
+	<string id="ui_elua_licence72">
+		<text>12.2. DANS TOUTE LA MESURE PERMISE PAR LA LOI APPLICABLE, GSC ET SES AFFILIЙS, PARTENAIRES ET CONCЙDANTS DE LICENCE NE SERONT PAS RESPONSABLES ENVERS VOUS DE TOUTE PERTE DE PROFITS, FRAIS OU DЙPENSES, PERTE DE DONNЙES OU TOUTE CORRUPTION OU PERTE D'INFORMATIONS OU TOUTE PERTE D'OPPORTUNITЙ COMMERCIALE OU TOUTE PERTE OU DOMMAGE SPЙCIAL, INDIRECT, PUNITIF, EXEMPLAIRES OU CONSЙCUTIFS, DE QUELQUE NATURE QUE CE SOIT, QU'ELLES SOIENT FONDЙES SUR UNE RUPTURE DE CONTRAT, UN DЙLIT CIVIL (Y COMPRIS LA NЙGLIGENCE, LA VIOLATION D'UNE OBLIGATION LЙGALE, LA RUPTURE D'UN CONTRAT, LA VIOLATION D'UNE GARANTIE OU LA RESPONSABILITЙ STRICTE), UNE FAUSSE DЙCLARATION, UNE RESTITUTION OU AUTRE, QUE LA PARTIE CONCERNЙE AIT ЙTЙ OU NON INFORMЙE DE LA POSSIBILITЙ DE TELS DOMMAGES.</text>
+	</string>
+	<string id="ui_elua_licence73">
+		<text>DANS LA MESURE MAXIMALE AUTORISЙE PAR LA LOI APPLICABLE, LA RESPONSABILITЙ TOTALE DE GSC ET DE SES AFFILIЙS, PARTENAIRES ET CONCЙDANTS DE LICENCE А VOTRE ЙGARD EN RAPPORT AVEC S.T.A.L.K.E.R. OU LE PRЙSENT CONTRAT NE DЙPASSERA EN AUCUN CAS UN MONTANT ЙGAL А CELUI QUE VOUS NOUS AVEZ EFFECTIVEMENT PAYЙ (LE CAS ЙCHЙANT) EN RAPPORT AVEC LES QUESTIONS SOUS-JACENTES А TOUTE(S) RЙCLAMATION(S). CE QUI PRЙCИDE CONSTITUE VOTRE SEUL ET UNIQUE RECOURS DANS LE CADRE DE CE CONTRAT.</text>
+	</string>
+	<string id="ui_elua_licence74">
+		<text>12.3. Vous acceptez d'indemniser et de dйgager de toute responsabilitй sur demande de GSC, ses sociйtйs affiliйes, ses concйdants de licence et ses partenaires (et de les tenir indemnes et dйgagйs de toute responsabilitй) pour tous les dommages, responsabilitйs, rйclamations et dйpenses, y compris les frais de justice, en rapport avec :</text>
+	</string>
+	<string id="ui_elua_licence75_type">
+		<text>__OPTION__</text>
+	</string>
+	<string id="ui_elua_licence75">
+		<text>toute violation prйsumйe ou rйelle du prйsent Contrat de votre part ;</text>
+	</string>
+	<string id="ui_elua_licence76_type">
+		<text>__OPTION__</text>
+	</string>
+	<string id="ui_elua_licence76">
+		<text>l'utilisation de S.T.A.L.K.E.R. par vous ou par toute personne agissant en votre nom ou а votre place (intentionnellement ou non) ; et</text>
+	</string>
+	<string id="ui_elua_licence77_type">
+		<text>__OPTION__</text>
+	</string>
+	<string id="ui_elua_licence77">
+		<text>la violation des droits de propriйtй intellectuelle de GSC, de ses affiliйs, de ses concйdants de licence et de ses associйs.</text>
+	</string>
+	<string id="ui_elua_licence78">
+		<text>Si une plainte est dйposйe contre nous, vous devez coopйrer pleinement avec GSC et nous nous rйservons le droit de prendre en charge et d'assurer la dйfense. Vous ne rйglerez pas ces rйclamations, en tout ou en partie, sans notre accord йcrit prйalable.</text>
+	</string>
+	<string id="ui_elua_licence79">
+		<text>12.4. En acceptant le Contrat, vous confirmez que toute perte, tout dйgвt ou tout prйjudice que vous pourriez subir n'est pas irrйparable, et que les recours autres que l'injonction ou toute autre mesure йquitable seront adйquats et suffisants. Vous acceptez explicitement par la prйsente que vous n'avez pas droit а une injonction ou а une autre mesure йquitable а l'encontre de GSC, de ses sociйtйs affiliйes, de ses concйdants de licence et de ses associйs.</text>
+	</string>
+	<string id="ui_elua_licence80">
+		<text>Cette section survivra а la rйsiliation du prйsent Contrat.</text>
+	</string>
+	<string id="ui_elua_licence81_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence81">
+		<text>13. RЙSILIATION</text>
+	</string>
+	<string id="ui_elua_licence82">
+		<text>13.1. Vous avez le droit de rйsilier а tout moment, en cessant d'utiliser S.T.A.L.K.E.R.. Cette rйsiliation n'affectera pas les droits ou obligations dйjа existants de nous ou de vous.</text>
+	</string>
+	<string id="ui_elua_licence83">
+		<text>13.2. GSC peut suspendre ou rйsilier votre accиs а S.T.A.L.K.E.R. et au prйsent Contrat en cas de violation substantielle de l'une des conditions du prйsent Contrat. Si nous dйcidons de suspendre ou de rйsilier votre accиs а S.T.A.L.K.E.R. et au prйsent Contrat en vertu du prйsent article, nous n'aurons aucune obligation ou responsabilitй а votre йgard.</text>
+	</string>
+	<string id="ui_elua_licence84">
+		<text>13.3. Au cas oщ GSC dйciderait d'arrкter dйfinitivement l'accиs а S.T.A.L.K.E.R. dans son ensemble ou sur une plateforme spйcifique pour quelque raison que ce soit, GSC peut vous en avertir au moins quatre-vingt-dix (90) jours а l'avance par des moyens qui seront raisonnablement disponibles. Une telle cessation des services n'entraоnera aucune obligation ni responsabilitй а votre йgard.</text>
+	</string>
+	<string id="ui_elua_licence85_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence85">
+		<text>14. FORCE MAJEURE</text>
+	</string>
+	<string id="ui_elua_licence86">
+		<text>Aucun d'entre nous ne sera responsable envers l'autre de toute exйcution, inexйcution ou retard, en tout ou en partie, dы а un cas de Force Majeure.</text>
+	</string>
+	<string id="ui_elua_licence87">
+		<text>On entend par “Force Majeure” toute cause empкchant une partie d'exйcuter tout ou partie de ses obligations, qui rйsulte ou est imputable а des actes, йvйnements, omissions ou accidents йchappant au contrфle raisonnable de la partie empкchйe, y compris, mais non limitй а des grиves, blocages ou autres conflits du travail (а l'exception de tout conflit impliquant la main-d'њuvre de la partie empкchйe), les accidents nuclйaires ou les catastrophes naturelles, la guerre ou l'activitй terroriste, йmeutes, troubles civils, dommages malveillants, respect d'une loi ou d'un ordre, d'une rиgle, d'une rйglementation ou d'une directive gouvernementale, grиve des employйs de tout prestataire d'йnergie йlectrique ou de connectivitй а Internet, dйfaillance des installations techniques, piratage, dйni de service ou autre attaque informatique, dйploiement d'un virus informatique, d'un malware ou d'une technologie similaire, pandйmies (par ex. COVID-19), incendie, inondation, tempкte ou dйfaillance des fournisseurs ou sous-traitants.</text>
+	</string>
+	<string id="ui_elua_licence88_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence88">
+		<text>15. DROIT APPLICABLE ET RИGLEMENT DES LITIGES</text>
+	</string>
+	<string id="ui_elua_licence89">
+		<text>15.1. Le prйsent Contrat et tout problиme en dйcoulant seront rйgis et interprйtйs conformйment aux lois de Chypre, excluant son choix de la loi et/ou des rиgles de conflit de lois. Le lieu exclusif de tout litige concernant ou dйcoulant de ce Contrat et/ou du jeu sera а Chypre et vous acceptez de vous soumettre а la juridiction des tribunaux de Chypre pour toute rйclamation ou litige de ce type. La partie qui remporte le litige dans le cadre du prйsent Contrat a le droit de rйcupйrer ses frais de justice et ses dйpenses.</text>
+	</string>
+	<string id="ui_elua_licence90">
+		<text>15.2. Si vous avez un problиme nous concernant, nous pensons qu'il est possible de le rйsoudre rapidement. Veuillez nous contacter а l'adresse suivante : support@gsc-game.com</text>
+	</string>
+	<string id="ui_elua_licence91">
+		<text>15.3. GSC et vous acceptez tous deux de faire des efforts raisonnables et de bonne foi pour rйsoudre tout litige entre les deux parties sans faire appel а des tiers. Le dйlai initial de rйsolution des litiges est de trente (30) jours, а moins que des circonstances imprйvisibles ne prolongent ce dйlai jusqu'а soixante (60) jours.</text>
+	</string>
+	<string id="ui_elua_licence92">
+		<text>Si vous dйposez une plainte contre GSC, vous devez envoyer une copie physique а “Legal Team, GSC Game World Global Ltd, Leontiou A, 159, MARYVONNE BUILDING, Floor 4 & 5, Office 402, 3022, Limassol, Cyprus” ainsi qu'une copie numйrique а l'adresse suivante legal@gsc-game.com</text>
+	</string>
+	<string id="ui_elua_licence93">
+		<text>15.4. Renonciation aux recours collectifs. Dans toute la mesure permise par la loi applicable, vous vous engagez а n'intenter en aucun cas une action collective ou reprйsentative, une action privйe de procureur gйnйral ou un arbitrage collectif, et а ne pas y participer. En d'autres termes, dans toute la mesure permise par la loi :</text>
+	</string>
+	<string id="ui_elua_licence94">
+		<text>i. aucun arbitrage ne peut кtre joint а un autre ;</text>
+	</string>
+	<string id="ui_elua_licence95">
+		<text>ii. il n'existe aucun droit ou autoritй pour qu'un litige soit arbitrй sur la base d'une action collective ou pour utiliser des procйdures d'action collective ; et</text>
+	</string>
+	<string id="ui_elua_licence96">
+		<text>iii. il n'existe pas de droit ou d'autoritй pour qu'un litige soit introduit en tant que prйtendu reprйsentant au nom du grand public ou de toute autre personne.</text>
+	</string>
+	<string id="ui_elua_licence97">
+		<text>Si l'engagement pris dans la prйsente section de ne pas intenter ou participer а une action collective ou reprйsentative, а une action de procureur gйnйral privй ou а un arbitrage collectif est jugй illйgal ou inapplicable, vous et nous convenons qu'il ne sera pas dissociable : l'ensemble de cette section sera considйrй comme inapplicable et toute rйclamation ou tout litige sera par consйquent rйsolu devant un tribunal.</text>
+	</string>
+	<string id="ui_elua_licence98">
+		<text>Cette section survivra а la rйsiliation du prйsent Contrat.</text>
+	</string>
+	<string id="ui_elua_licence99">
+		<text>15.5. Pour les Йtats membres de l'Union europйenne, vous pouvez кtre autorisй а dйposer une plainte par l'intermйdiaire de la plateforme de rиglement en ligne des litiges gйrйe par la Commission europйenne, dont vous trouverez les coordonnйes а l'adresse suivante https://ec.europa.eu/consumers/odr/.</text>
+	</string>
+	<string id="ui_elua_licence100_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence100">
+		<text>16. CLAUSES GЙNЙRALES</text>
+	</string>
+	<string id="ui_elua_licence101">
+		<text>16.1. Si une disposition du prйsent Contrat est ou devient juridiquement inapplicable, les autres dispositions du prйsent Contrat restent pleinement en vigueur. GSC peut, а sa seule discrйtion, remplacer la disposition inapplicable par celle qui se rapproche le plus de la signification de la disposition originale.</text>
+	</string>
+	<string id="ui_elua_licence102">
+		<text>16.2. Le prйsent Contrat rйgit uniquement notre relation avec vous (et vice versa) et ne crйe aucun droit de tiers pour qui que ce soit, sauf indication contraire explicite.</text>
+	</string>
+	<string id="ui_elua_licence103">
+		<text>16.3. La Convention des Nations unies sur les Contrats de vente internationale de marchandises ne s'applique pas а S.T.A.L.K.E.R. ni au prйsent Contrat.</text>
+	</string>
+	<string id="ui_elua_licence104">
+		<text>16.4. GSC a le droit de cйder, de sous-traiter ou de transfйrer le prйsent Contrat а un tiers ou а un autre membre de notre groupe, а sa seule discrйtion et а tout moment.</text>
+	</string>
+	<string id="ui_elua_licence105">
+		<text>16.5. Aucun manquement ou retard de la part de GSC dans l'exercice d'un droit ou d'un recours prйvu par le prйsent Contrat ou par la loi ne constituera une renonciation а ce droit ou recours ou а tout autre droit ou recours, ni n'empкchera ou ne limitera l'exercice ultйrieur de ce droit ou recours ou de tout autre droit ou recours, sauf indication contraire expresse dans le prйsent Contrat. Aucun exercice unique ou partiel d'un tel droit ou recours par GSC n'empкchera ou ne limitera l'exercice ultйrieur de ce droit ou recours ou de tout autre droit ou recours.</text>
+	</string>
+	<string id="ui_elua_licence106">
+		<text>16.6. Le prйsent Contrat, ainsi que les autres documents auxquels il fait rйfйrence, constitue l'intйgralitй du Contrat entre vous et nous concernant S.T.A.L.K.E.R. et remplace tout autre Contrat oral ou йcrit antйrieur.</text>
+	</string>
+	<string id="ui_elua_licence107_type">
+		<text>__HEADER__</text>
+	</string>
+	<string id="ui_elua_licence107">
+		<text>17. MODIFICATIONS DU PRЙSENT CONTRAT</text>
+	</string>
+	<string id="ui_elua_licence108">
+		<text>17.1. GSC se rйserve le droit de modifier le prйsent Contrat а sa seule discrйtion. Vous recevrez une notification dans le jeu ou par d'autres moyens de communication disponibles.</text>
+	</string>
+	<string id="ui_elua_licence109">
+		<text>17.2. Le prйsent Contrat sera rйsiliй dиs l'introduction d'un Contrat mis а jour, et vous aurez la possibilitй de l'examiner. Le fait que vous continuiez а utiliser le jeu et а jouer au jeu aprиs une modification du Contrat sera considйrй comme une acceptation de votre part des conditions modifiйes.</text>
+	</string>
+	<string id="ui_elua_licence110">
+		<text>Si vous n'acceptez pas les modifications, vous ne pourrez pas utiliser Si vous n'acceptez pas les modifications, vous ne pourrez pas utiliser S.T.A.L.K.E.R..</text>
+	</string>
+	<string id="ui_elua_licence111">
+		<text>Je reconnais par la prйsente que j'ai lu et compris tous les termes et conditions du prйsent Contrat. EN CLIQUANT SUR "ACCEPTER", je reconnais et j'accepte d'кtre liй par tous les termes et conditions du prйsent Contrat, ce qui inclut mon consentement exprиs а la Politique de Confidentialitй et aux autres parties intйgrantes du prйsent Contrat.</text>
+	</string>
+<string id="ui_pad_layout_weapon_zoom_in">
+		<text>Zoom avant</text>
+	</string>
+
+	<string id="ui_pad_layout_weapon_zoom_out">
+		<text>Zoom arriиre</text>
+	</string>
+
+</string_table>

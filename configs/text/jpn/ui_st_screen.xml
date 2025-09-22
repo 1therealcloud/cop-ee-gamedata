@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="actor_inventory_box_use">
+		<text>パーソナルボックスを開ける ($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ パーソナルボックスを開ける</text_c>
+	</string>
+	<string id="cant_walk">
+		<text>疲れ切って、歩くことができない。</text>
+	</string>
+	<string id="cant_walk_weight">
+		<text>続けるには、荷物が重すぎる。</text>
+	</string>
+	<string id="car_character_use">
+		<text>ドアを開ける ($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ ドアを開ける</text_c>
+	</string>
+	<string id="character_use">
+		<text>話す ($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ 話す</text_c>
+	</string>
+	<string id="dead_character_use">
+		<text>身体を探る ($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ 身体を探る</text_c>
+	</string>
+	<string id="dead_character_use_or_drag">
+		<text>身体を探る ($$ACTION_USE$$)\n身体を引き摺る(SHIFT+$$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ 身体を探る\n $$ACTION_run_or_lie_down$$ + $$ACTION_USE$$ 身体を引き摺る</text_c>
+	</string>
+	<string id="general_complete_task">
+		<text>任務を完遂：</text>
+	</string>
+	<string id="general_fail_task">
+		<text>任務を失敗：</text>
+	</string>
+	<string id="general_in_item">
+		<text>アイテムを受領：</text>
+	</string>
+	<string id="general_in_money">
+		<text>金を受領：</text>
+	</string>
+	<string id="general_new_task">
+		<text>新しい任務：</text>
+	</string>
+	<string id="general_out_item">
+		<text>渡したアイテム：</text>
+	</string>
+	<string id="general_out_money">
+		<text>使った金：</text>
+	</string>
+	<string id="general_reverse_task">
+		<text>中止した任務：</text>
+	</string>
+	<string id="general_update_task">
+		<text>アップーデートした任務：</text>
+	</string>
+	<string id="gun_jammed">
+		<text>武器が作動しない。再装填する必要がある。</text>
+	</string>
+	<string id="inventory_box_use">
+		<text>ボックスを探る($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ ボックスを探る</text_c>
+	</string>
+	<string id="inventory_item_use">
+		<text>アイテムを拾う($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ アイテムを拾う</text_c>
+	</string>
+	<string id="jup_b10_ufo_searching_tips">
+		<text>機体を探る($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ 機体を探る</text_c>
+	</string>
+	<string id="jup_b1_bar_door">
+		<text>ドアが作動しない。</text>
+	</string>
+	<string id="jup_b1_door_is_closed">
+		<text>ドアは内部からロックされている。</text>
+	</string>
+	<string id="jup_b202_treasures_closed">
+		<text>金庫がロックされている。</text>
+	</string>
+	<string id="jup_b205_tip_door_closed">
+		<text>コードが必要。</text>
+	</string>
+	<string id="jup_b205_tip_door_decode">
+		<text>コードを入力($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ コードを入力</text_c>
+	</string>
+	<string id="jup_b206_use_plant">
+		<text>植物を取る($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ 植物を取る</text_c>
+	</string>
+	<string id="jup_b209_scanner_place_tips">
+		<text>スキャナを設置 ($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ スキャナを設置 </text_c>
+	</string>
+	<string id="jup_b209_scanner_remove_tips">
+		<text>スキャナを取る ($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ スキャナを取る </text_c>
+	</string>
+	<string id="lx8_raduga">
+		<text>レインボウ攻撃抑制\n外部放射複合施設モデル\nスケール1:20</text>
+	</string>
+	<string id="pas_b400_tip_switcher">
+		<text>スイッチを入れる($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ スイッチを入れる</text_c>
+	</string>
+	<string id="pri_a18_use_idol">
+		<text>装置を検査 ($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ 装置を検査 </text_c>
+	</string>
+	<string id="pri_a25_blow_up_enter_door">
+		<text>爆発物を設置 ($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ 爆発物を設置 </text_c>
+	</string>
+	<string id="pri_a28_talk_with_stupid_medic">
+		<text>回復する($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ 回復する</text_c>
+	</string>
+	<string id="pri_b306_elevator_door_locked_used">
+		<text>エレベータに電気が来ていない。</text>
+	</string>
+	<string id="pri_b306_generator_use">
+		<text>発電機を入れる($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ 発電機を入れる</text_c>
+	</string>
+	<string id="sleep_ok_button">
+		<text>眠る</text>
+	</string>
+	<string id="sleep_warning_all_pleasures">
+		<text>眠ることはできない！危険なほど出血し、また放射線被曝で苦しんでいる。薬を使用するか、あるいは医者に連絡するんだ。</text>
+	</string>
+	<string id="sleep_warning_bleeding">
+		<text>眠ることはできない！危険なほど出血している。薬を使用するか、あるいは医者に連絡するんだ。</text>
+	</string>
+	<string id="sleep_warning_radiation">
+		<text>眠ることはできない！放射線被曝で苦しんでいる。薬を使用するか、あるいは医者に連絡するんだ。</text>
+	</string>
+	<string id="sleep_zone_tip">
+		<text>眠る ($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ 眠る </text_c>
+	</string>
+	<string id="st_ach_balance_advocate">
+		<text>バランスマンの業績を達成した。</text>
+	</string>
+	<string id="st_ach_battle_systems_master">
+		<text>武器システム・マスターの業績を達成した。</text>
+	</string>
+	<string id="st_ach_detective">
+		<text>探偵の業績を達成した。</text>
+	</string>
+	<string id="st_ach_diplomat">
+		<text>外交官の業績を達成した。</text>
+	</string>
+	<string id="st_ach_friend_of_duty">
+		<text>デューティー・フレンドの業績を達成した。</text>
+	</string>
+	<string id="st_ach_friend_of_freedom">
+		<text>フリーダム・フレンドの業績を達成した。</text>
+	</string>
+	<string id="st_ach_friend_of_stalkers">
+		<text>ストーカー・フレンドの業績を達成した。</text>
+	</string>
+	<string id="st_ach_herald_of_justice">
+		<text>司法官の業績を達成した。</text>
+	</string>
+	<string id="st_ach_high_tech_master">
+		<text>ハイテク・エキスパートの業績を達成した。</text>
+	</string>
+	<string id="st_ach_information_dealer">
+		<text>情報密売人の業績を達成した。</text>
+	</string>
+	<string id="st_ach_keeper_of_secrets">
+		<text>秘密監視員の業績を達成した。</text>
+	</string>
+	<string id="st_ach_kingpin">
+		<text>ボスの業績を達成した。</text>
+	</string>
+	<string id="st_ach_leader">
+		<text>リーダーの業績を達成した。</text>
+	</string>
+	<string id="st_ach_mutant_hunter">
+		<text>ミュータント・ハンターの業績を達成した。</text>
+	</string>
+	<string id="st_ach_one_of_the_lads">
+		<text>第一人者の業績を達成した。</text>
+	</string>
+	<string id="st_ach_pioneer">
+		<text>パイオニアの業績を達成した。</text>
+	</string>
+	<string id="st_ach_research_man">
+		<text>研究助手の業績を達成した。</text>
+	</string>
+	<string id="st_ach_seeker">
+		<text>アーティファクト・ハンターの業績を達成した。</text>
+	</string>
+	<string id="st_ach_skilled_stalker">
+		<text>熟練ストーカーの業績を達成した。</text>
+	</string>
+	<string id="st_ach_wealthy">
+		<text>富裕クライアントの業績を達成した。</text>
+	</string>
+	<string id="st_autosave">
+		<text>オートセーブ中…</text>
+	</string>
+	<string id="st_can_use_weapon_now">
+		<text>今、武器を取り出せる。</text>
+	</string>
+	<string id="st_codelock">
+		<text>コード・ロック($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ コード・ロック</text_c>
+	</string>
+	<string id="st_detective_news">
+		<text>行方不明ストーカーたちの秘密解明のために、医療用品が、スカドフスクのパーソナルボックスに置かれた。</text>
+	</string>
+	<string id="st_duty_first_reward_news">
+		<text>デューティー支援のために、PS5-Mユニバーサル防護スーツが、ヤニフのパーソナルボックスに置かれた。</text>
+	</string>
+	<string id="st_duty_second_reward_news">
+		<text>デューティー支援のために、PSZ-9dデューティー・アーマースーツが、ヤニフのパーソナルボックスに置かれた。</text>
+	</string>
+	<string id="st_freedom_first_reward_news">
+		<text>フリーダム支援のために、ウィンド・オブ・フリーダム・スーツが、ヤニフのパーソナルボックスに置かれた。</text>
+	</string>
+	<string id="st_freedom_second_reward_news">
+		<text>フリーダム支援のために、フリーダム・ガーディアン・スーツが、ヤニフのパーソナルボックスに置かれた。</text>
+	</string>
+	<string id="st_freeplay_text_ok">
+		<text>ヘリに到達できなかった。そして、撤退チームはゾーンを去ってしまった。</text>
+	</string>
+	<string id="st_freeplay_text_yes_no">
+		<text>ゾーンを去る準備はできたか？戻る道はない。</text>
+	</string>
+	<string id="st_game_over">
+		<text>ゲーム・オーバー</text>
+	</string>
+	<string id="st_game_over_press_jump">
+		<text>($$ACTION_JUMP$$) キーを押してメインメニューに出る</text>
+		<text_c>$$ACTION_JUMP$$ キーを押してメインメニューに出る</text_c>
+	</string>
+	<string id="st_game_paused">
+		<text>ポーズ</text>
+	</string>
+	<string id="st_game_saved">
+		<text>ゲームをセーブしました</text>
+	</string>
+	<string id="st_herald_of_justice_news">
+		<text>マグパイ摘発の支援のために、アーティファクトが、スカドフスクのパーソナルボックスに置かれた。</text>
+	</string>
+	<string id="st_jup_b41_door_locked">
+		<text>ドックが気密になるのを待たなければならない。</text>
+	</string>
+	<string id="st_lx8_button_press_true">
+		<text>アクセスを許可</text>
+	</string>
+	<string id="st_lx8_lift_button">
+		<text>エレベータを上げる($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ エレベータを上げる</text_c>
+	</string>
+	<string id="st_pri_b306_go_down">
+		<text>エレベータを下げる($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ エレベータを下げる</text_c>
+	</string>
+	<string id="st_psy_danger">
+		<text>プサイ放射の臨界レベル。危険区域を直ちに退去。</text>
+	</string>
+	<string id="st_radiation_danger">
+		<text>危険な放射能レベル。通過するには防護が必要。</text>
+	</string>
+	<string id="st_search_helicopter">
+		<text>ヘリを検査($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ ヘリを検査</text_c>
+	</string>
+	<string id="st_search_treasure">
+		<text>隠し場所を探す($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ 隠し場所を探す</text_c>
+	</string>
+	<string id="st_sleep_hours">
+		<text>h</text>
+	</string>
+	<string id="st_tip">
+		<text>メッセージ</text>
+	</string>
+	<string id="tip_door_blocked">
+		<text>閉鎖されたドア</text>
+	</string>
+	<string id="tip_door_close">
+		<text>ドアを閉める($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ ドアを閉める</text_c>
+	</string>
+	<string id="tip_door_closed_base_alarm">
+		<text>ドアをロック：キャンプは警戒中</text>
+	</string>
+	<string id="tip_door_closed_hide_weapon">
+		<text>ドアをロック：武器をしまわなくてはならない</text>
+	</string>
+	<string id="tip_door_locked">
+		<text>ドアをロック</text>
+	</string>
+	<string id="tip_door_no_electricity">
+		<text>動力がドアに供給されていない</text>
+	</string>
+	<string id="tip_door_open">
+		<text>ドアを開ける($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ ドアを開ける</text_c>
+	</string>
+	<string id="tip_gate_locked">
+		<text>封鎖された門</text>
+	</string>
+	<string id="tip_need_access_card">
+		<text>アクセス・カードを使用($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ アクセス・カードを使用</text_c>
+	</string>
+	<string id="tip_no_access_card">
+		<text>アクセス・カードが必要</text>
+	</string>
+	<string id="tip_open_another_site">
+		<text>ドアをこちら側から開くことはできない</text>
+	</string>
+	<string id="ui_st_mp_experience_grow">
+		<text>-</text>
+	</string>
+	<string id="zat_b12_conteiner_full_locked">
+		<text>コンテナはロックされている。開くには鍵が2つ必要。</text>
+	</string>
+	<string id="zat_b12_conteiner_has_one_key">
+		<text>鍵を使う($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ 鍵を使う</text_c>
+	</string>
+	<string id="zat_b12_conteiner_has_two_key">
+		<text>鍵を使う($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ 鍵を使う</text_c>
+	</string>
+	<string id="zat_b12_conteiner_locked">
+		<text>コンテナはロックされている。開くには2番目の鍵が必要。</text>
+	</string>
+	<string id="zat_b12_conteiner_open">
+		<text>コンテナを開ける($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ コンテナを開ける</text_c>
+	</string>
+	<string id="zat_b14_door_locked_hint">
+		<text>ドア・メカニズムは内部から閉鎖されている。</text>
+	</string>
+	<string id="zat_b57_balon_use_hint">
+		<text>ガスタンクに接続($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ ガスタンクに接続</text_c>
+	</string>
+	<string id="zat_b57_gas_warning">
+		<text>警告！化学的な危険！</text>
+	</string>
+	<string id="zat_b57_vintil_press">
+		<text>バルブを回す($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ バルブを回す</text_c>
+	</string>
+	<string id="zat_b33_car_searching_tip">
+		<text>車を探す($$ACTION_USE$$)</text>
+		<text_c>$$ACTION_USE$$ 車を探す</text_c>
+	</string>
+	<string id="st_resupply_ready">
+		<text>ロホベツ中尉とキリロフ中尉を訪ねれば、医療用品と弾薬を再度仕入れることができる。</text>
+	</string>
+	<string id="st_surge_while_asleep">
+		<text>最近、ひとつの光熱放射がゾーンで起こった。</text>
+	</string>
+	<string id="st_ach_marked_by_zone">
+		<text>ゾーン業績により、水準に到達した。</text>
+	</string>
+	<string id="st_mutant_hunter_news">
+		<text>危険なミュータントの排除のために、弾薬がヤニフのパーソナルボックスに置かれた。</text>
+	</string>
+	<string id="st_found_old_treasure">
+		<text>すでに発見された隠し場所の受信座標。</text>
+	</string>
+	<string id="st_got_treasure">
+		<text>隠し場所発見</text>
+	</string>
+	<string id="st_found_new_treasure">
+		<text>隠し場所座標を受信</text>
+	</string>
+	<string id="st_press_any_key">
+		<text>どれかキーを押すと開始します</text>
+		<text_ps4>いずれかのボタンを押してプレイ</text_ps4>
+		<text_nx64>続ける</text_nx64>
+	</string>
+</string_table>

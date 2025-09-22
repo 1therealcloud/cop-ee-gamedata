@@ -1,0 +1,1207 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="jup_b15_zulus_b301_after_fight_0">
+		<text>哈！給他們點顏色看看！謝謝你幫我，要不是你，那些渾蛋們很可能早就把我生吞活剝了。知道嗎，說到底你是一個很好的潛行者……抱歉我之前發了火，但你應該早點告訴我你是烏克蘭國家安全局的人。</text>
+	</string>
+
+	<string id="jup_b15_zulus_b301_after_fight_1">
+		<text>沒問題，我們最好去軍隊營地——那裡更安全。</text>
+	</string>
+
+	<string id="jup_b15_zulus_b301_after_fight_11">
+		<text>好吧，這肯定要比我一個人在普里皮亞季瞎逛要好。</text>
+	</string>
+
+	<string id="jup_b15_zulus_b301_after_fight_111">
+		<text>那就出發吧。</text>
+	</string>
+
+	<string id="jup_b15_zulus_b301_after_fight_112">
+		<text>這裡我還有些事沒搞定，你先走吧。營地就在自助洗衣店那幢樓裡。</text>
+	</string>
+
+	<string id="jup_b15_zulus_b301_after_fight_2">
+		<text>我該走了。</text>
+	</string>
+
+	<string id="jup_b15_zulus_b301_reward_dialog_0">
+		<text>等等……帶上這個……這可是特異區最可靠的機槍了。</text>
+	</string>
+
+	<string id="jup_b15_zulus_b301_reward_dialog_1">
+		<text>等等，你不需要它了嗎？</text>
+	</string>
+
+	<string id="jup_b15_zulus_b301_reward_dialog_11">
+		<text>要打倒幾個變異體的話，我手頭不會缺武器的，另外，我也決定回去了——蓋瑞會帶我去木星工廠。所以你比我更需要它。收著吧，好好利用。</text>
+	</string>
+
+	<string id="jup_b15_zulus_b301_reward_dialog_111">
+		<text>祝你好運。</text>
+	</string>
+
+	<string id="jup_b15_zulus_b301_reward_dialog_2">
+		<text>謝謝，這是一件很棒的武器。</text>
+	</string>
+
+	<string id="jup_b15_zulus_b301_reward_dialog_21">
+		<text>哈！這不是很棒，這是特異區最棒的。它被改造過，所以會比較重，但帶著這種卡農槍你就不需要跑了——該逃的是敵人！</text>
+	</string>
+
+	<string id="jup_b15_zulus_b301_reward_dialog_211">
+		<text>再見。</text>
+	</string>
+
+	<string id="jup_b15_zulus_b301_reward_dialog_3">
+		<text>酷！</text>
+	</string>
+
+	<string id="jup_b43_stalker_assistant_b301_about_zulus_0">
+		<text>你知道祖魯去了哪裡嗎？</text>
+	</string>
+
+	<string id="jup_b43_stalker_assistant_b301_about_zulus_1">
+		<text>他走了……他讓我帶他去木星工廠，我們在工廠不遠處就分道揚鑣了。他沒告訴我他要去哪裡。</text>
+	</string>
+
+	<string id="jup_b43_stalker_assistant_b35_about_merc_0">
+		<text>等下……我想跟你分享一次非常不愉快的經歷……幾個僱傭兵讓我帶他們去普里皮亞季。起初他們許諾給我一大筆錢，但我很快意識到我惹上了麻煩……他們寸步不離地監視著我，還持槍威脅我。在我們快到普里皮亞季的時候，我設法逃了出來，但他們現在肯定還在城市裡，所以小心一點。</text>
+	</string>
+
+	<string id="jup_b43_stalker_assistant_b35_about_merc_1">
+		<text>你有沒有聽到過僱傭兵談論過什麼？</text>
+	</string>
+
+	<string id="jup_b43_stalker_assistant_b35_about_merc_11">
+		<text>聽到過一些，他們很明顯沒有想讓我活下來，所以也沒隱瞞過他們的計畫。他們討論的主要是去見客戶的人，那些人會給他們展示什麼東西，還有就是他們任務的目標。</text>
+	</string>
+
+	<string id="jup_b43_stalker_assistant_b35_about_merc_111">
+		<text>他們要在哪裡會面？</text>
+	</string>
+
+	<string id="jup_b43_stalker_assistant_b35_about_merc_1111">
+		<text>附近，在公寓大樓的院子裡。</text>
+	</string>
+
+	<string id="jup_b43_stalker_assistant_b35_about_merc_2">
+		<text>謝謝你的資訊。</text>
+	</string>
+
+	<string id="jup_b43_stalker_assistant_b35_about_merc_actor_0">
+		<text>你提到了僱傭兵——你有沒有聽到他們談論過什麼？</text>
+	</string>
+
+	<string id="jup_b43_stalker_assistant_b35_about_merc_actor_1">
+		<text>聽到過一些，他們很明顯沒有想讓我活下來，所以也沒隱瞞過他們的計畫。他們討論的主要是去見客戶的人，那些人會給他們展示什麼東西，還有就是他們任務的目標。</text>
+	</string>
+
+	<string id="jup_b43_stalker_assistant_b35_about_merc_actor_11">
+		<text>他們要在哪裡會面？</text>
+	</string>
+
+	<string id="jup_b43_stalker_assistant_b35_about_merc_actor_111">
+		<text>附近，在公寓大樓的院子裡。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_arranged_outfit_0">
+		<text>我跟科學家約好要談一下防護服的事——要去見赫爾曼。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_arranged_outfit_1">
+		<text>好……在哪裡會面？</text>
+	</string>
+
+	<string id="pri_a15_sokolov_arranged_outfit_11">
+		<text>亞尼夫站附近，在祖魯的地盤上。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_arranged_outfit_111">
+		<text>那裡都是潛行者！要不你帶我去吧，要是我獨自出現在那裡可能會有麻煩。但如果有你在，他們就不會開槍了，畢竟認識你。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_evacuation_point_0">
+		<text>你去了哪一個撤離點？</text>
+	</string>
+
+	<string id="pri_a15_sokolov_evacuation_point_1">
+		<text>抱歉，我不能說——這是機密。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_goto_zulus_0">
+		<text>我們去找祖魯。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_goto_zulus_1">
+		<text>好的，但首先我們要去見赫爾曼，去拿到科學防護服。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_goto_zulus_11">
+		<text>出發吧。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_goto_zulus_2">
+		<text>我會去的……不過現在有能量釋放，我們等一會？</text>
+	</string>
+
+	<string id="pri_a15_sokolov_jupiter_0">
+		<text>你是怎麼淪落到這裡的？</text>
+	</string>
+
+	<string id="pri_a15_sokolov_jupiter_1">
+		<text>我的直升機迫降在了木星工廠上，還穿過屋頂掉了下來。我是唯一一個倖存者——我設法從木星工廠走了出來，去往最近的撤離點，但那裡空無一人。然後我遇到了蓋瑞，他帶我來了地堡。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_need_outfit_0">
+		<text>你們需要一件配備有封閉式循環呼吸組件的防護服才能去普里皮亞季。 </text>
+	</string>
+
+	<string id="pri_a15_sokolov_occupation_0">
+		<text>你們在這裡做什麼？</text>
+	</string>
+
+	<string id="pri_a15_sokolov_occupation_1">
+		<text>我接到的指令是繼續前往撤離點，但特異區太危險了。我是個飛機師，不是突擊兵！這也是為什麼我在這裡等的原因，希望行動完成後我能夠被接走。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_pripyat_group_0">
+		<text>我正在組建一支隊伍去普里皮亞季，你想加入嗎？</text>
+	</string>
+
+	<string id="pri_a15_sokolov_pripyat_group_1">
+		<text>普里皮亞季？我想我會去的……也許我的一些同伴活下來了並去了那裡……在普里皮亞季有一個撤離點，那實際上才是我的目的地。我一個人肯定到不了，所以我願意試試和你的隊伍一起去。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_pripyat_ready_0">
+		<text>你準備好出發了嗎？</text>
+	</string>
+
+	<string id="pri_a15_sokolov_pripyat_ready_1">
+		<text>我想可以這麼說吧。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_start_dialog_11">
+		<text>哈囉，潛行者。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_start_dialog_12">
+		<text>嘿。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_start_dialog_13">
+		<text>哈囉。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_start_dialog_14">
+		<text>你好，少校。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_where_from_0">
+		<text>你從哪裡拿到軍隊制服的？</text>
+	</string>
+
+	<string id="pri_a15_sokolov_where_from_1">
+		<text>嘿……好吧，我猜現在每個人都知道有軍用直升機墜毀了……我是索科洛夫中尉，其中一架直升機的副機師。 </text>
+	</string>
+
+	<string id="pri_a16_colonel_a21_about_sentry_dialog_0">
+		<text>關於那個哨兵……</text>
+	</string>
+
+	<string id="pri_a16_colonel_a21_about_sentry_dialog_1">
+		<text>他的信號是從舊雜貨店發出的，但他沒有回覆……也許他弄丟了無線電……目前很難確認，我們得找到他……</text>
+	</string>
+
+	<string id="pri_a16_colonel_a21_about_sentry_dialog_11">
+		<text>謝謝你，上校！我想我會搞定的。</text>
+	</string>
+
+	<string id="pri_a16_colonel_a21_about_sentry_pass_task_dialog_0">
+		<text>關於那個哨兵……</text>
+	</string>
+
+	<string id="pri_a16_colonel_a21_about_sentry_pass_task_dialog_1">
+		<text>好吧，一切都是因為那個控制者……很有可能偵查隊也有相同的遭遇。牠讓他們互相開槍射殺對方……牠們是特異區最可怕的生物之一，而且我們還沒有被訓練過如何與牠們戰鬥。對我們而言，控制者完全就像是一個意外打擊，我們又一次損兵折將了……</text>
+	</string>
+
+	<string id="pri_a16_colonel_a21_about_sentry_pass_task_dialog_11">
+		<text>至少這隻控制者已經被解決了。</text>
+	</string>
+
+	<string id="pri_a16_colonel_a21_about_sentry_pass_task_dialog_111">
+		<text>我希望現在事態能稍微平息一點……我很感激你的幫忙，少校。我想你在這次行動過程中一定使用了很多彈藥……去找基利爾洛夫中尉，讓他發給你必要的裝備補給。</text>
+	</string>
+
+	<string id="pri_a16_colonel_a21_about_sentry_pass_task_dialog_1111">
+		<text>謝謝你，上校！</text>
+	</string>
+
+	<string id="pri_a16_colonel_a21_about_sentry_pass_task_dialog_12">
+		<text>別擔心，上校……我會解決掉那隻變異體的。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_dialog_1_0">
+		<text>你能提供給我更多關於任務的資訊嗎？</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_dialog_1_11">
+		<text>他是誰？</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_a25_base_reminding_1_0">
+		<text>如果我們不盡快找到干擾源，我們別無選擇只能等死。第一次大規模的黑石組襲擊將會把軍隊撕成碎片……而且行動將招致無可挽回的失敗……</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_a25_base_reminding_1_1">
+		<text>我會努力盡快找到干擾源的。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_a25_base_reminding_2_0">
+		<text>如何，上校？你找到無線電干擾源了嗎？</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_a25_base_reminding_2_1">
+		<text>沒，我還在問……</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_about_merc_start_0">
+		<text>蓋瑞告訴了我有關僱傭兵的事……</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_about_merc_start_1">
+		<text>對，他也告訴我了……蓋瑞一逃出來就來這裡了，害怕再被追。幸運的是——不管是對他還是對我們——僱傭兵沒有跟蹤他……我們一直在監視僱傭兵和客戶的人見面的地方，但一切是如此平靜……我很想知道僱傭兵們在這裡找什麼……</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_0">
+		<text>我有情報說僱傭兵在找普里皮亞季的一間秘密實驗室。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_1">
+		<text>一間秘密實驗室，在普里皮亞季？你是從哪裡得到這個情報的？</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_11">
+		<text>在扎通找到的一本僱傭兵記事本裡。一個名叫雅爾叔叔的潛行者也向我證實了它。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_111">
+		<text>嗯……你還知道什麼別的嗎？</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_1111">
+		<text>他們在找中央實驗室。我在調查過程中找到了它的座標。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_11111">
+		<text>如果是真的，那就意味著除了喪屍和狂熱分子之外，我們又多了一個敵人……需要決定下應對行動了。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_111111">
+		<text>如果可能的話，我們必須監視該會面並消滅客戶方代表——那將確保短期內無人能前往 X8 實驗室。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_1111111">
+		<text>這是一個好方法，儘管因此我們並不能找出其他對實驗室知情的人，但至少可以確保僱傭兵不會接觸到它。與此同時，傭兵團一定會對此迅速做出回應，到時他們將成為我們的一大威脅。可以的話，將雙方目標對象都幹掉。我會命令基利爾洛夫中尉隨行。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_11111111">
+		<text>好吧。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_11111112">
+		<text>等等，也許我們應該選擇另一個目標對象。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_111111121">
+		<text>選一個優先級目標。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_111112">
+		<text>我們需要消滅僱傭兵首領——這樣一來僱傭兵隊伍就群龍無首，構不成威脅了。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_1111121">
+		<text>這是一個不錯的方法，但信使有可能會逃走並把有關實驗室的情報遞送到別處，最終僱傭兵還是會找到那裡。可以的話，將雙方目標對象都幹掉。我會命令基利爾洛夫中尉隨行。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_111113">
+		<text>我沒空做這個。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_12">
+		<text>在扎通找到的一本僱傭兵記事本裡。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_13">
+		<text>一個名叫雅爾叔叔的潛行者跟我講的，他來自亞尼夫站。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_reward_0">
+		<text>關於僱傭兵……</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_reward_1">
+		<text>幹得好——兩個目標人物都被殺了。現在傭兵團不會再擋路了，也能防止再有人對實驗室產生不必要的興趣。你可以留著來福槍。這裡是更多的子彈。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_reward_2">
+		<text>很好，既然首領已經死了，傭兵團不會再對我們造成威脅了。不過，鑑於客戶的人還活著，他們很有可能在實驗室出現。保持警惕……你可以留著來福槍。這裡是更多的子彈。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_reward_3">
+		<text>很好，既然知道實驗室位址的人已經死了，傭兵團不會再找到它了。不過話說回來，我不認為他們會離開普里皮亞季，那就意味著他們將會長久地威脅到我們。保持警惕……你可以留著來福槍。這裡是更多的子彈。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_reward_4">
+		<text>所以，你在最後時刻更換了目標人物？好吧，這是一個不錯的決定。既然首領已經死了，傭兵團不會再對我們造成威脅了。不過，鑑於客戶的人還活著，他們很有可能在實驗室出現。保持警惕……你可以留著來福槍。這裡是更多的子彈。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_reward_5">
+		<text>所以，你在最後時刻更換了目標人物？好吧，這是一個不錯的決定。既然知道實驗室位址的人已經死了，傭兵團不會再找到它了。不過話說回來，我不認為他們會離開普里皮亞季，那就意味著他們將會長久地威脅到我們。保持警惕……你可以留著來福槍。這裡是更多的子彈。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_b35_reward_6">
+		<text>事情不太順啊。僱傭兵首領和客戶的人都還活著。現在僱傭兵知道了我們的情況，他們將成為和黑石組不相上下的威脅勢力。而且，他們還知道實驗室的位址，那麼他們到那裡也就是時間問題了。保持警惕……你可以留著來福槍。這裡是更多的子彈。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_evacuation_ready_0">
+		<text>讓你的士兵準備好，上校。我要出發了。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_evacuation_ready_1">
+		<text>好。掩護史特列洛克，少校。我們會顧好自己。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_evacuation_start_11">
+		<text>那麼……我們之中你和史特列洛克在特異區的經驗最豐富，區別是我們都只是聽說過史特列洛克的經歷，但你的專業性卻是有目共睹的。我想說的是，我指望你了，少校。盯著史特列洛克——我們不剩幾個人了。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_evacuation_start_12">
+		<text>隊伍已經準備好出發了，就等你了，少校。</text>
+	</string>
+
+	<string id="pri_a17_military_recon_squad_after_scene_dialog_0">
+		<text>看上去那些瘋子們都死了。拿上那把來福槍，趁還來得及就快走。</text>
+	</string>
+
+	<string id="pri_a17_military_recon_squad_after_scene_dialog_1">
+		<text>言之有理。</text>
+	</string>
+
+	<string id="pri_a17_military_recon_squad_ambush_actor_ready_0">
+		<text>準備好了，我們走吧。</text>
+	</string>
+
+	<string id="pri_a17_military_recon_squad_ambush_actor_ready_1">
+		<text>好，隊伍已經準備完畢。</text>
+	</string>
+
+	<string id="pri_a17_military_recon_squad_ambush_actor_ready_11">
+		<text>出發。</text>
+	</string>
+
+	<string id="pri_a17_military_recon_squad_ambush_actor_ready_2">
+		<text>我們得等一會。我不想能量釋放帶走我們的人。</text>
+	</string>
+
+	<string id="pri_a17_military_recon_squad_ambush_dialog_0">
+		<text>我是塔拉索夫上尉。你雖然是少校，但這裡我做主，也就是說，我的命令不容置喙。隊伍裡的每條人命都依賴於此。計畫是這樣的：我們去到醫院西區就位，等待黑石組勢力出現。我們必須迅速行動，以防引起不必要的關注。</text>
+	</string>
+
+	<string id="pri_a17_military_recon_squad_ambush_dialog_1">
+		<text>收到，出發吧。</text>
+	</string>
+
+	<string id="pri_a17_military_recon_squad_ambush_dialog_11">
+		<text>好，隊伍已經準備完畢。</text>
+	</string>
+
+	<string id="pri_a17_military_recon_squad_ambush_dialog_111">
+		<text>出發。</text>
+	</string>
+
+	<string id="pri_a17_military_recon_squad_ambush_dialog_12">
+		<text>我們得等一會。我不想能量釋放帶走我們的人。</text>
+	</string>
+
+	<string id="pri_a17_military_recon_squad_ambush_dialog_2">
+		<text>等一下，上尉，我還沒準備好。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_about_rfi_source_0">
+		<text>干擾方面有什麼新消息？</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_about_rfi_source_1">
+		<text>我識別到了很多來源，其中一個就在這附近。如果它被破壞了，我們很可能可以與總部通訊。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_about_rfi_source_2">
+		<text>我找到了干擾源的座標。它一定是某種專用高頻波甚至是微波的傳送器。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_about_rfi_source_3">
+		<text>你破壞的那個設備就是干擾源——它們可能有很多，但我們已經與總部建立聯繫了。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_about_signal_0">
+		<text>告訴我關於信號的事情。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_about_signal_1">
+		<text>信號時斷時續，不過每次它的出現都在逐漸接近基地。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_about_signal_11">
+		<text>就這樣嗎？</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_about_signal_111">
+		<text>不完全是——問題在於，該信號傳送的頻率很少被用於無線電通訊。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_about_signal_12">
+		<text>我明白了。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_b35_about_merc_0">
+		<text>帶上這把槍和子彈……你可以暫時休息一下，我會從另一邊監視該位置，一旦他們出現了就立即聯繫你。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_b35_about_merc_1">
+		<text>好吧。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_start_dialog_11">
+		<text>日安。我是基利爾洛夫中尉。我負責武器維護和彈藥儲存。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_start_dialog_111">
+		<text>你有彈藥嗎？</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_start_dialog_1111">
+		<text>有，之前我們闖進了一個黑石組的倉庫，所有你能在特異區找到的武器的彈藥，那裡應有盡有……我想知道他們是怎樣在這裡搞到這麼多軍火的……我猜一定是某個邊界守衛賣給他們的……</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_start_dialog_112">
+		<text>那麼你也可以維修我的槍吧？</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_start_dialog_1121">
+		<text>當然。我們受過訓練的，能修各式各樣的武器。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_start_dialog_113">
+		<text>我明白了。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_start_dialog_12">
+		<text>日安。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_start_dialog_13">
+		<text>這傷腦筋的東西是哪裡得來的……</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_start_dialog_14">
+		<text>來了，關鍵時刻——我在想我們能不能聽得到……</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_ammo_0">
+		<text>我需要彈藥。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_ammo_1">
+		<text>沒問題……你需要什麼樣的？</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_ammo_11">
+		<text>9x18 手槍子彈……</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_ammo_111">
+		<text>給你……還要別的嗎？</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_ammo_112">
+		<text>給你……</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_ammo_12">
+		<text>9x19 手槍子彈……</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_ammo_13">
+		<text>11.43x23 手槍子彈……</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_ammo_14">
+		<text>散彈槍子彈……</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_ammo_15">
+		<text>5.45x39 突擊步槍子彈……</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_ammo_16">
+		<text>5.56x45 突擊步槍子彈……</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_ammo_17">
+		<text>9x39 突擊步槍子彈……</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_ammo_18">
+		<text>狙擊步槍子彈……</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_ammo_19">
+		<text>機槍子彈……</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_ammo_2">
+		<text>我給不了你更多了，少校……上校的命令是要節約彈藥。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_ammo_20">
+		<text>好吧，那沒事了。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_grenade_0">
+		<text>我需要榴彈。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_grenade_1">
+		<text>沒問題……哪種？</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_grenade_11">
+		<text>手榴彈。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_grenade_111">
+		<text>給你……</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_grenade_12">
+		<text>VOG-25 發射器榴彈。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_grenade_13">
+		<text>M209 發射器榴彈。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_grenade_14">
+		<text>事實上，算了吧。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_grenade_2">
+		<text>我給不了你更多了，少校……上校的命令是要節約彈藥。</text>
+	</string>
+
+	<string id="pri_a25_army_medic_need_health_care_0">
+		<text>我需要醫療援助。</text>
+	</string>
+
+	<string id="pri_a25_army_medic_need_health_care_1">
+		<text>我一向樂於助人。讓我看下……</text>
+	</string>
+
+	<string id="pri_a25_army_medic_need_health_care_111">
+		<text>好了，你又能活蹦亂跳了。</text>
+	</string>
+
+	<string id="pri_a25_army_medic_rescued_0">
+		<text>這一切發生後，你感覺如何？</text>
+	</string>
+
+	<string id="pri_a25_army_medic_rescued_1">
+		<text>我現在感覺很好……我在幼稚園後面時還比較懵，不過能量釋放一開始我就馬上振作起來了……</text>
+	</string>
+
+	<string id="pri_a25_army_medic_start_dialog_12">
+		<text>日安。</text>
+	</string>
+
+	<string id="pri_a25_army_medic_start_dialog_13">
+		<text>重要的是要去到直升機那裡。</text>
+	</string>
+
+	<string id="pri_a25_army_medic_supply_medicine_0">
+		<text>我需要醫療用品。</text>
+	</string>
+
+	<string id="pri_a25_army_medic_supply_medicine_1">
+		<text>我看看我有些什麼。給，拿著這個……</text>
+	</string>
+
+	<string id="pri_a25_army_medic_supply_medicine_2">
+		<text>抱歉，我也不剩下多少了，所以給不了你了。</text>
+	</string>
+
+	<string id="pri_b305_strelok_about_base_0">
+		<text>我們監聽了你的無線電信號。</text>
+	</string>
+
+	<string id="pri_b305_strelok_about_base_1">
+		<text>對。我聯繫了一名叫「嚮導」的潛行者，他告訴了我如何通過地下隧道去到這個地方。</text>
+	</string>
+
+	<string id="pri_b305_strelok_about_base_11">
+		<text>「嚮導」是誰？</text>
+	</string>
+
+	<string id="pri_b305_strelok_about_base_111">
+		<text>他是位傳奇的潛行者——據說他可以帶你去特異區的任何地方……那些軍隊士兵們所幸遇見了他——不然他們可活不了多久。</text>
+	</string>
+
+	<string id="pri_b305_strelok_about_base_12">
+		<text>你怎麼知道軍方的人在這裡？</text>
+	</string>
+
+	<string id="pri_b305_strelok_about_base_121">
+		<text>嚮導告訴我的——就是他把柯瓦斯基和他的隊伍帶來這裡的。</text>
+	</string>
+
+	<string id="pri_b305_strelok_about_base_13">
+		<text>我明白了。</text>
+	</string>
+
+	<string id="pri_b305_strelok_about_information_0">
+		<text>你想交給政府的情報是什麼？</text>
+	</string>
+
+	<string id="pri_b305_strelok_about_information_1">
+		<text>很多事……我確定我擁有的情報足可以用來摧毀特異區。我本來以為我可以自己去做的……不過事實遠比想的複雜得多。開始這一切的人已經不再掌權了……一旦我們走了出去，我就會把一切解釋給你聽。</text>
+	</string>
+
+	<string id="pri_b305_strelok_about_station_0">
+		<text>你在石棺裡見到了什麼？</text>
+	</string>
+
+	<string id="pri_b305_strelok_about_station_1">
+		<text>都是假的……黑石組也好，許願石也好，都只是一個謊言，一個蒙蔽你心靈的詭計。而背後操縱它的人正躲在別處……</text>
+	</string>
+
+	<string id="pri_b305_strelok_about_station_11">
+		<text>你知道誰是幕後操縱者嗎？</text>
+	</string>
+
+	<string id="pri_b305_strelok_about_station_111">
+		<text>知道也不知道……我不知道還能相信什麼了……儘管如此，我還是發現了他們不想讓我知道的事。</text>
+	</string>
+
+	<string id="pri_b305_strelok_about_station_12">
+		<text>好了，夠了。</text>
+	</string>
+
+	<string id="pri_b305_strelok_dialog_11">
+		<text>我會分享我知道的一切，只要這情報能傳達給合適的人。</text>
+	</string>
+
+	<string id="pri_b305_strelok_note_0">
+		<text>我在來這裡的路上找到了你的隊伍的藏匿點……</text>
+	</string>
+
+	<string id="pri_b305_strelok_note_1">
+		<text>我很好奇你是怎麼找到的……裡面應該會有一些紀錄，你找到了嗎？</text>
+	</string>
+
+	<string id="pri_b305_strelok_note_11">
+		<text>對，我找到了三份筆記。</text>
+	</string>
+
+	<string id="pri_b305_strelok_note_111">
+		<text>謝謝……鬼魂和方是我的朋友……我們一起設法闖過焦腦器的阻礙到達了切爾諾貝爾核電站。不幸的是，他們都死了。我們回來後就分開了——我因為受了傷，和博士一起待在了沼澤地。後來我就沒再見過他們……直到很久以後，我才得知方被僱傭兵殺了，鬼魂死於錯付了對科學家的信任……無論如何，逝者已逝……現在我很明白該怎樣做才能確保我的朋友們沒有白白送命。</text>
+	</string>
+
+	<string id="pri_b305_strelok_note_12">
+		<text>對，這是你給鬼魂的訊息。</text>
+	</string>
+
+	<string id="pri_b305_strelok_note_121">
+		<text>謝謝……鬼魂是我的朋友……我們和方一起設法闖過焦腦器的阻礙到達了切爾諾貝爾核電站。從中央區回來後，我們分開了——我因為受了傷，和博士一起待在了沼澤地。後來我就沒再見過他們……直到很久以後，我才得知方被僱傭兵殺了，鬼魂死於錯付了對科學家的信任……</text>
+	</string>
+
+	<string id="pri_b305_strelok_note_13">
+		<text>對，這是方給你的筆記。</text>
+	</string>
+
+	<string id="pri_b305_strelok_note_131">
+		<text>謝謝……方是我的朋友……我們和鬼魂一起設法闖過焦腦器的阻礙到達了切爾諾貝爾核電站。從中央區回來後，我們分開了——我因為受了傷，和博士一起待在了沼澤地。後來我就沒再見過他們……直到很久以後，我才得知方被僱傭兵殺了，鬼魂死於錯付了對科學家的信任……</text>
+	</string>
+
+	<string id="pri_b305_strelok_note_14">
+		<text>對，這是你給方的訊息。</text>
+	</string>
+
+	<string id="pri_b305_strelok_note_141">
+		<text>謝謝……方是我的朋友……我們和鬼魂一起設法闖過焦腦器的阻礙到達了切爾諾貝爾核電站。從中央區回來後，我們分開了——我因為受了傷，和博士一起待在了沼澤地。後來我就沒再見過他們……直到很久以後，我才得知方被僱傭兵殺了，鬼魂死於錯付了對科學家的信任……</text>
+	</string>
+
+	<string id="pri_b305_strelok_note_15">
+		<text>對，這是你留給鬼魂和方留給你的筆記。</text>
+	</string>
+
+	<string id="pri_b305_strelok_note_151">
+		<text>謝謝……鬼魂和方是我的朋友……我們一起設法闖過焦腦器的阻礙到達了切爾諾貝爾核電站。不幸的是，他們都死了。回來後我們就分開了——我因為受了傷，和博士一起待在了沼澤地。後來我就沒再見過他們……直到很久以後，我才得知方被僱傭兵殺了，鬼魂死於錯付了對科學家的信任……</text>
+	</string>
+
+	<string id="pri_b305_strelok_note_16">
+		<text>對，這是你留給鬼魂和方的兩份筆記。</text>
+	</string>
+
+	<string id="pri_b305_strelok_note_161">
+		<text>謝謝……鬼魂和方是我的朋友……我們一起設法闖過焦腦器的阻礙到達了切爾諾貝爾核電站。不幸的是，他們都死了。回來後我們就分開了——我因為受了傷，和博士一起待在了沼澤地。後來我就沒再見過他們……直到很久以後，我才得知方被僱傭兵殺了，鬼魂死於錯付了對科學家的信任……</text>
+	</string>
+
+	<string id="pri_b305_strelok_note_17">
+		<text>對，這是你留給方和他留給你的訊息。</text>
+	</string>
+
+	<string id="pri_b305_strelok_note_171">
+		<text>謝謝……方是我的朋友……我們和鬼魂一起設法闖過焦腦器的阻礙到達了切爾諾貝爾核電站。從中央區回來後，我們分開了——我因為受了傷，和博士一起待在了沼澤地。後來我就沒再見過他們……直到很久以後，我才得知方被僱傭兵殺了，鬼魂死於錯付了對科學家的信任……</text>
+	</string>
+
+	<string id="pri_b305_strelok_note_18">
+		<text>對，不過很可惜，我現在沒帶著它們。</text>
+	</string>
+
+	<string id="pri_a25_army_medic_need_health_care_2">
+		<text>讓我看看……您有麻煩了，少校……我的意思是，您大概率會通過太空計畫的醫學檢查，但除此之外，您的身體狀態特別糟糕！哈！</text>
+	</string>
+
+	<string id="pri_a17_military_recon_squad_ambush_dialog_21">
+		<text>快點啊，少校。黑石組的人可等不起。</text>
+	</string>
+
+	<string id="pri_a16_colonel_a21_about_sentry_start_0">
+		<text>少校，我們的一位哨兵失蹤了——他離開了他的崗哨。他的信號塔正從雜貨店傳送信號，但他並沒有回覆。天知道那裡發生了什麼。他可能已經崩潰了——直升機的墜毀給這個孩子帶來了沉重的打擊。你願意替我檢查一下那個信號塔信號嗎？</text>
+	</string>
+
+	<string id="pri_a16_colonel_a21_about_sentry_start_1">
+		<text>我會的。</text>
+	</string>
+
+	<string id="pri_a16_colonel_a21_about_sentry_start_2">
+		<text>我不能保證什麼。</text>
+	</string>
+
+	<string id="pri_a16_military_colonel_a20_find_recon_squd_dialog_0">
+		<text>少校，我們要找到偵查隊。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_dialog_1_1">
+		<text>你和突擊小隊需要前往 A17 目的地——塔拉索夫上尉會指給你看。目標是以過道相連的醫院兩翼。黑石組戰士目前在西翼，你們要做的就是在另一側佈下埋伏。他們應該有配備來福槍，可能是最大隻的那個怪人帶著。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_dialog_1_111">
+		<text>他很可能就是那支隊伍的首領。我們的人看見過他給手下說教。不會錯！小心點——誰知道他會搞什麼沒見過的花招。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_dialog_1_12">
+		<text>收到，上校。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_task_dialog_0">
+		<text>日安。我是柯瓦斯基上校，這支部隊的指揮官。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_task_dialog_1">
+		<text>我是捷格加列夫少校，隸屬烏克蘭國家安全局。我授命前來調查航道行動失敗的原因。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_task_dialog_11">
+		<text>我明白了。那麼聽好了，少校，航道行動和我們的直升機一起泡湯了，我沒了一半的兵，還跟總部聯繫不上。我跟你一樣都想知道為什麼行動會失敗。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_task_dialog_111">
+		<text>有什麼想法嗎？</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_task_dialog_1111">
+		<text>我唯一的想法就是直升機是被擊落的，被某種我們知之甚少的超強力武器擊落。黑石組戰士曾在切爾諾貝爾核電站的第一次突襲中用它對抗過我們……我計劃奪取一件此種武器並進行調查。如果你想加入的話，攜帶此種武器的黑石組小隊已經被追蹤到了，突擊隊正等待我指示以開始行動。你覺得如何？</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_task_dialog_11111">
+		<text>我對你向我提供所有資訊和完全行動自由的行為表示肯定。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_a23_about_gauss_labx8_0">
+		<text>我有關於那件不明武器——高斯來福槍的情報。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_a23_about_gauss_labx8_1">
+		<text>哇！它威力如何？能用它擊落一架直升機嗎？</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_a23_about_gauss_labx8_11">
+		<text>從技術角度來說可以，不過加速後的子彈會在直升機上留下彈孔，但現實是沒有。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_a23_about_gauss_labx8_111">
+		<text>該死……那就走進死胡同了。我沒別的想法了。我們現在能做的就是在特異區中心坐等它們衝向我們……好吧，牢騷發夠了，我們還是關心眼下我們力所能及的事吧。多虧了你，我們才知道躲在掩體後面擋不住那些加速後的子彈，這已經足夠重要了。謝謝你，少校，如果有新消息我會再聯繫你。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_a23_about_gauss_labx8_12">
+		<text>從技術角度來說可以，不過魔鬼魚 4 號與 5 號是由於電子故障才墜毀的。加速後的子彈可做不到這點。</text>
+	</string>
+
+	<string id="pri_a17_got_gauss_0">
+		<text>行動進展如何了？</text>
+	</string>
+
+	<string id="pri_a17_got_gauss_1">
+		<text>莫洛索夫中士被殺了。黑石組戰士以犧牲他們隊員為誘餌，引我們落入了圈套裡。</text>
+	</string>
+
+	<string id="pri_a17_got_gauss_11">
+		<text>渾蛋！他們不可能知道我們的計畫……所以我們沒了狙擊手。那行動的目標呢？</text>
+	</string>
+
+	<string id="pri_a17_got_gauss_2">
+		<text>我們損失了些人手……黑石組戰士以犧牲他們隊員為誘餌，引我們落入了圈套裡。</text>
+	</string>
+
+	<string id="pri_a17_got_gauss_21">
+		<text>渾蛋！他們不可能知道我們的計畫……所以我們沒了幾個戰友。那行動的目標呢？</text>
+	</string>
+
+	<string id="pri_a17_got_gauss_3">
+		<text>小隊全軍覆沒……黑石組戰士以犧牲他們隊員為誘餌，引我們落入了圈套裡。</text>
+	</string>
+
+	<string id="pri_a17_got_gauss_31">
+		<text>渾蛋！他們不可能知道我們的計畫……所以我們沒了塔拉索夫和他的兵。那行動的目標呢？</text>
+	</string>
+
+	<string id="pri_a17_got_gauss_4">
+		<text>我拿到了武器。它在戰鬥中受損了。</text>
+	</string>
+
+	<string id="pri_a17_got_gauss_41">
+		<text>所以我們沒法肯定它是不是被用來擊落直升機的。聽著，少校：你和潛行者們打過交道，有可能他們以前見過這種武器。他們之中應該有技術人員。你能試著和他們談談嗎？</text>
+	</string>
+
+	<string id="pri_a17_got_gauss_411">
+		<text>好吧。</text>
+	</string>
+
+	<string id="pri_a17_got_gauss_4111">
+		<text>很好……噢，順便一說：還有一個潛行者從木星工廠來這裡了——先跟他談談吧，如果你願意的話。</text>
+	</string>
+
+	<string id="pri_a17_got_gauss_5">
+		<text>我正在努力。</text>
+	</string>
+
+	<string id="pri_a17_got_gauss_51">
+		<text>我知道了，少校，我們需要那件武器。我敢肯定你明白這有多重要。</text>
+	</string>
+
+	<string id="pri_a17_got_gauss_511">
+		<text>嗯哼。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_evacuation_note_0">
+		<text>我找到了你留在沃爾霍夫戒酒無名會綜合大樓的筆記，拿著。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_evacuation_note_1">
+		<text>聽著……噢，算了。不管怎樣，我覺得我們的人應該不會來這裡了。如果你有留意到這附近有軍隊，就告訴我，好嗎？先謝謝你了……</text>
+	</string>
+
+	<string id="pri_a25_army_medic_freezer_0">
+		<text>少校……謝天謝地！我得救了！</text>
+	</string>
+
+	<string id="pri_a25_army_medic_freezer_1">
+		<text>你是怎麼淪落到這裡的？</text>
+	</string>
+
+	<string id="pri_a25_army_medic_freezer_11">
+		<text>呃……我記不太清了……我當時太害怕了，根本不知道也不敢想究竟是什麼東西這麼可怕。我只是有種感覺，我必須躲起來，所以我逃了……我記得跑了幾條街又拐了幾個彎之後……我就到了這個洞裡。門從外面鎖上了……我以為我會死在這裡。你們怎麼找到我的？話說，我們要不先出去，離基地近一點。這個地方讓我心裡發毛……</text>
+	</string>
+
+	<string id="pri_a25_army_medic_freezer_111">
+		<text>我們走。</text>
+	</string>
+
+	<string id="pri_a25_army_medic_start_dialog_11">
+		<text>嗨。你需要醫療援助嗎？我不是醫生，但必要的時候，我可以幫忙取出子彈和縫合傷口。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_0">
+		<text>我需要情報。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1">
+		<text>問吧。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11">
+		<text>關於航道行動……</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111">
+		<text>關於它的什麼？</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1111">
+		<text>直升機還在空中的時候有發生什麼不尋常的事嗎？</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11111">
+		<text>沒有，直到直升機開始迫降。我們嚴格遵照行動計畫：在能量釋放開始前 90 秒起飛，啟動我們的保護程序，把直升機設定為自動駕駛。我們飛的是最短的安全航線，用特異點地圖計算過的。事實上，可視度為零並不會影響任務執行，因為航道足夠寬。按照計畫，我們應該在 12 分半鐘到達發電廠。9 分鐘後我們和魔鬼魚4號失去了聯繫，然後其它直升機也像蒼蠅一樣掉下來。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111111">
+		<text>我還有一些關於行動的問題……</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1112">
+		<text>直升機出了什麼事？</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11121">
+		<text>我知道的不多。對魔鬼魚2號和4號完全不知情。我既不知道它們是在哪裡墜毀的，也不清楚機上人員的狀況。有關其它直升機的事都是聽那些逃出來的人說的，所以不可能提供給你詳細的情況，我們還有別的事要關心。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111211">
+		<text>告訴我關於魔鬼魚1號的事情。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11121111">
+		<text>你是怎麼來這裡的？</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111211111">
+		<text>我們在地雷區不遠處遇到了一個潛行者。我覺得他應該是聽到了地雷爆炸的聲音。一個奇怪的傢伙……他說自己叫嚮導。他沒問任何問題，只是說可以帶我們去普里皮亞季。這正好跟我們的計畫一致，所以我同意了。我們一直盯著他以防萬一，但一切真的太順了……直到我們到了他都沒說過一句話，然後他就很突然的消失了。我叫我的人不用去追他。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111212">
+		<text>告訴我關於魔鬼魚3號的事情。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1112121">
+		<text>塔拉索夫上尉說兩台發動機都壞了。他們不得不在 B2 地點附近的山上著陸。幸運的是他們實現了軟著陸，但技術人員沒時間去檢查故障的原因，因為他們遭到了史諾克的襲擊，死了三個人。其他人決定不在附近逗留了——他們聯繫了魔鬼魚5號並前去會面。他們在路上遇到了一支全副武裝的敵人小隊，不過所幸在交戰中全身而退了。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11121211">
+		<text>他們怎麼去到普里皮亞季的？</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111212111">
+		<text>魔鬼魚3號和5號的機組人員設法會面了，就在離墜機地點不遠處的某艘駁船附近。報告說，那個住在那裡的人非常瘋癲：當我的人試圖拘留他時，他居然想要反過來拘留他們！我的意思是，那個可憐的渾蛋可是在以一敵十一啊。不管怎樣，當他們偶然發現這個潛行者實際上對改善局面有幫助時，兩方協商一致，他把這個小隊幾乎是毫發無損的帶到了普里皮亞季。唯一有受傷的是斯捷岑科中尉，他在來這裡的路上被一處重力特異點奪走了幾個腳趾。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111213">
+		<text>告訴我關於魔鬼魚5號的事情。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1112131">
+		<text>電子元件發生故障，魔鬼魚5號直接掉進了一個沼澤地裡。五個人活了下來。在他們從直升機裡把裝備拿出來的時候，魔鬼魚3號的人聯繫了他們。小隊指揮官，尼博斯基少校，死在了去會面點的路上。這個可憐蟲被一隻掃描站附近的吸血鬼殺了……其他人都平安無事抵達了普里皮亞季，但之後還有一個人死了——巴提亞伊高級中士，其中一名狙擊手，死在了和黑石組成員的打鬥之中。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11121311">
+		<text>他們怎麼去到普里皮亞季的？</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111213111">
+		<text>魔鬼魚3號和5號的機組人員設法會面了，就在離墜機地點不遠處的某艘駁船附近。報告說，那個住在那裡的人非常瘋癲：當我的人試圖拘留他時，他居然想要反過來拘留他們！我的意思是，那個可憐的渾蛋可是在以一敵十一啊。不管怎樣，當他們偶然發現這個潛行者實際上對改善局面有幫助時，兩方協商一致，他把這個小隊幾乎是毫發無損的帶到了普里皮亞季。唯一有受傷的是斯捷岑科中尉，他在來這裡的路上被一處重力特異點奪走了幾個腳趾。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11122">
+		<text>我知道的不多。對魔鬼魚2號完全不知情。我既不知道它是在哪裡墜毀的，也不清楚機上人員的狀況。至於魔鬼魚4號，你知道的應該比我多。索科洛夫中尉，就是那個和你一起來的人，是那架直升機上的唯一倖存者。有關其它直升機的事都是聽那些逃出來的人說的，所以不可能提供給你詳細的情況，我們還有別的事要關心。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11123">
+		<text>我知道的不多。對魔鬼魚2號完全不知情。我既不知道它是在哪裡墜毀的，也不清楚機上人員的狀況。至於魔鬼魚4號，你可以自己去問索科洛夫中尉，他是那架直升機上唯一抵達普里皮亞季的人。有關其它直升機的事都是聽那些逃出來的人說的，所以不可能提供給你詳細的情況，我們還有別的事要關心。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1113">
+		<text>我需要別的情報。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1114">
+		<text>我沒有別的問題了。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_12">
+		<text>普里皮亞季的現狀如何？</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_121">
+		<text>要多糟有多糟。普里皮亞季現在到處都是黑石組的狂熱分子們和喪屍。能量釋放一次接著一次，還一直需要防備變異體和特異點……歡迎來到地獄。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1211">
+		<text>你怎麼解決裝備和補給問題？</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_13">
+		<text>告訴我關於黑石組的事情。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_131">
+		<text>他們就是一群狂熱分子，徹頭徹尾的。我不知道是什麼在驅使著他們，反正他們一直都很好鬥。即便是寡不敵眾或火力不足，他們都不退卻……這在這個地方倒是很罕見。似乎他們定期從切爾諾貝爾核電站那裡獲得強化。該死的，因為他們的襲擊，我們已經損失了好幾個不錯的人了……</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1311">
+		<text>你試過審訊他們嗎？</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_13111">
+		<text>沒用的。首先，他們會奮戰到死。其次，我們的人曾經設法活捉了一個人，趁他被手榴彈擊暈的時候，但也沒多大用。我們只不過把視線移開了幾秒鐘，他就把自己的頭往墻上撞，撞到腦漿迸裂，像個敲碎的生雞蛋。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_14">
+		<text>你們現在要做什麼？</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_141">
+		<text>我認為航道行動應該是進展不下去了，你的出現證實了這點。我的計畫是守住基地，等待直升機出現。我知道幾個可能的撤退日期。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1411">
+		<text>在我們知道魔鬼魚號墜毀的原因之前，不會有直升機來的。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_14111">
+		<text>那麼就這樣了……好吧，我們靠走是走不出這裡的！天知道這鬼地方有多大，而且特異區裡到處都是潛行者，我們的關係根本沒多好。那就意味著我們的唯一出路就是自己進行調查，然後不要在這過程中死掉。少校，我們現在的行動方向是一致的。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_15">
+		<text>不是現在。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_start_0">
+		<text>我在聽，少校。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_12111">
+		<text>我們現有的唯一裝備就是我們自己帶的那些。哦，我們還設法搶了些黑石組的東西，主要是彈藥。那就意味著在分發它們時必須非常謹慎。食物也一樣——我們只有口糧，還有從黑石組倉庫裡拿到的一些食物。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_12112">
+		<text>我們現有的唯一裝備就是我們自己帶的那些。哦，我們還設法搶了些黑石組的東西，主要是彈藥。那就意味著在分發它們時必須非常謹慎。至於補給，其實差不多一樣，只不過我和蓋瑞做了交易。他會給我們帶罐裝食品，我們要讓他留在基地，而且要對他出去找神器的事睜一隻眼閉一隻眼……不管怎麼說，我們也沒別的選擇。</text>
+	</string>
+
+	<string id="pri_a18_altar_destroyed_soldiers_start_11">
+		<text>我們給我們的同伴報仇了……做你需要做的，然後我們就回去。我可不想在這裡閒逛。</text>
+	</string>
+
+	<string id="pri_a18_altar_destroyed_soldiers_start_12">
+		<text>我們不要在這浪費時間了，好嗎？我想盡快回基地……</text>
+	</string>
+
+	<string id="pri_a18_altar_destroyed_soldiers_start_111">
+		<text>好吧。</text>
+	</string>
+
+	<string id="pri_a18_altar_destroyed_vano_start_11">
+		<text>就在那邊，那個奇怪的東西！你覺得他們需要它做什麼？啊，隨便吧。來吧兄弟，做你的事，然後我們就回基地。</text>
+	</string>
+
+	<string id="pri_a18_altar_destroyed_vano_start_12">
+		<text>你搞定了嗎？如果你打算回基地去吃點東西，我會舉雙手贊成……</text>
+	</string>
+
+	<string id="pri_a18_altar_destroyed_vano_start_111">
+		<text>好吧。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_pripyat_how_are_you_0">
+		<text>你最近如何？</text>
+	</string>
+
+	<string id="pri_a15_sokolov_pripyat_how_are_you_1">
+		<text>糟透了。和自己同類在一起的感覺很好，但我不太樂意和其他人一起待在同一個破地方。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_acquaintance_after_jorney_0">
+		<text>我之前在這沒見過你，你是新來的嗎？</text>
+	</string>
+
+	<string id="pri_a15_sokolov_acquaintance_after_jorney_1">
+		<text>是，我是索科洛夫中尉，魔鬼魚4號的副機師。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_about_journey_0">
+		<text>你是怎麼來這裡的？</text>
+	</string>
+
+	<string id="pri_a15_sokolov_about_journey_1">
+		<text>我跟一個名叫蓋瑞的潛行者來的。在他尋找來普里皮亞季的路的時候，我請他帶著我一起走。相信我，旅途很漫長！好在我們一到普里皮亞季就直接見到了我們的偵查隊。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_helicopter_0">
+		<text>魔鬼魚4號發生了什麼事？</text>
+	</string>
+
+	<string id="pri_a15_sokolov_helicopter_1">
+		<text>誰他媽知道？我對整件事有不祥的感覺……我們當時正在自動飛行，設備運行正常，但突然間我們撞上了一片該死的金屬，所有的電子元件失靈了。我和飛機師試圖降落在平地上但沒成功。我們直直撞到了木星工廠的主工作室，從屋頂上掉了進去……我是唯一一個活下來的人。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_outfit_0">
+		<text>我需要護身盔甲。</text>
+	</string>
+
+	<string id="pri_a22_army_signaller_supply_outfit_1">
+		<text>好。先是頭盔……然後是護甲——我希望它是你的碼，不過我們也沒別的碼可挑了。我做了修補，所以現在應該狀況不錯。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_task_dialog_111111">
+		<text>當然，少校……考慮到當前情況，我能給的很有限……順便一說，去找基利爾洛夫中尉吧，他能給你發一些裝備。</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_9">
+		<text>關於直升機……</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_91">
+		<text>我在聽。</text>
+	</string>
+
+	<string id="pri_a25_army_medic_start_dialog_14">
+		<text>老兄，那太瘋狂了……我都能想象之後基利爾洛夫求我給他阿斯匹靈了。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_evacuation_start_21">
+		<text>等待是最糟糕的。它會慢慢磨平你……</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_evacuation_start_1111">
+		<text>好了，少校，士兵們準備好出發了。如果你需要的話，可以去拜訪下羅格維茨和基利爾洛夫來囤貨。你準備好了就跟我說一聲。 </text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_evacuation_start_11111">
+		<text>好吧。</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_evacuation_ready_11">
+		<text>出發。</text>
+	</string>
+
+	<string id="pri_a15_sokolov_need_outfit_1">
+		<text>好吧，那樣的話我們需要它堅如磐石，就像科學家們的那些一樣。話說回來，要說服赫爾曼給我一件防護服肯定不容易。我感覺，比起在他們的地堡裡佔據寶貴的一席之地，他更想讓我一絲不掛的去特異區邊界……我想你可以問下奧澤斯基。他更友善一點，也許會同意給我發一件防護服。</text>
+	</string>
+
+	<string id="pri_a17_military_recon_squad_ambush_dialog_second_0">
+		<text>所以呢，少校？</text>
+	</string>
+
+	<string id="pri_a17_military_colonel_kovalski_evacuation_start_111">
+		<text>[繼續……]</text>
+	</string>
+
+	<string id="pri_a25_army_medic_need_health_care_11">
+		<text>[繼續……]</text>
+	</string>
+
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1112111">
+		<text>我就在它上面。和魔鬼魚4號失去聯繫後，我就馬上告知了其他人在普里皮亞季的指定撤離點——我以為我們可以走去發電廠。幾乎是在直升機遭襲的一瞬間，我就聞到了燒焦的氣味——發動機著火了。飛機師盡力把直升機降落在木星工廠附近的停機坪上，但他們都因撞擊而身亡了。然後我們失去了西利亞琴中士，通向停機坪的路上盡是地雷……我們在普里皮亞季還死了一個同伴，一名高級中尉，死在了和黑石組勢力爭奪大樓的打鬥中。</text>
+	</string>
+
+</string_table>

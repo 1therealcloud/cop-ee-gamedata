@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_sp_achievement_new_1_name">
+		<text>자연의 선물 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_1_desc">
+		<text>전설적인 오아시스의 심장을 찾으십시오.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_2_name">
+		<text>최강의 포식자 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_2_desc">
+		<text>300명의 돌연변이를 처치했습니다. 존은 당분간은 보다 안전한 장소가 되었습니다. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_3_name">
+		<text>커피 반응기 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_3_desc">
+		<text>100병의 에너지 음료를 마셨습니다. 느긋하게 다니기엔 존은 너무나 큽니다. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_4_name">
+		<text>피노키오 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_4_desc">
+		<text>플린트의 이야기를 모두 들으십시오. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_5_name">
+		<text>디텍터 탐정 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_5_desc">
+		<text>각각의 디텍터의 도움을 받아 최소한 하나의 아티팩트를 찾으십시오. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_6_name">
+		<text>절묘한 타이밍의 지원 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_6_desc">
+		<text>마지막 철수에서 코발스키의 스토커들을 전부 구하십시오. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_7_name">
+		<text>바위마다 들춰 보기 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_7_desc">
+		<text>자톤에서 무기가 든 은닉처를 모두 찾아 획득하십시오.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_8_name">
+		<text>고스트버스터 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_8_desc">
+		<text>폴터가이스트 3마리를 해치우십시오. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_9_name">
+		<text>가라앉지 않는 자 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_9_desc">
+		<text>스카도프스크에 처음으로 발을 들였습니다. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_10_name">
+		<text>방주가 없는 자 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_10_desc">
+		<text>노아를 만나십시오. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_11_name">
+		<text>야노프행 기차 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_11_desc">
+		<text>야노프에 처음으로 발을 들였습니다. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_12_name">
+		<text>불완전한 계획 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_12_desc">
+		<text>모든 스팅레이 헬리콥터를 수색하십시오.</text>
+	</string>
+
+	<string id="st_sp_achievement_new_13_name">
+		<text>잊혀진 길 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_13_desc">
+		<text>분대를 모으고 육교로 향하십시오. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_14_name">
+		<text>연옥 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_14_desc">
+		<text>빨래방에 처음으로 발을 들였습니다. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_15_name">
+		<text>아이템 62 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_15_desc">
+		<text>미래 무기를 찾으십시오. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_16_name">
+		<text>사서 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_16_desc">
+		<text>X-8 연구소에서 모든 문서를 수집하십시오. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_17_name">
+		<text>철수 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_17_desc">
+		<text>헬리콥터를 타고 철수함으로써 게임을 클리어하십시오. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_18_name">
+		<text>타고난 스토커 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_18_desc">
+		<text>게임을 클리어하고 존에 남아있기로 하십시오. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_19_name">
+		<text>미론, 너야? </text>
+	</string>
+
+	<string id="st_sp_achievement_new_19_desc">
+		<text>미론을 찾으십시오. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_20_name">
+		<text>오랜 지인 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_20_desc">
+		<text>페트루하를 만나서 이상 현상에서 그를 구하십시오. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_22_name">
+		<text>자연 재해</text>
+	</string>
+
+	<string id="st_sp_achievement_new_22_desc">
+		<text>스노우플레이크, 플레임, 스톤 플라워와 문라이트를 동시에 장착하십시오. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_23_name">
+		<text>가짜 게임 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_23_desc">
+		<text>게임을 초보자 난이도로 클리어하십시오. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_24_name">
+		<text>첩보 요원 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_24_desc">
+		<text>게임을 스토커 난이도로 클리어하십시오. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_25_name">
+		<text>존은 우리를 기억할 것입니다 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_25_desc">
+		<text>게임을 베테랑 또는 마스터 난이도로 클리어하십시오. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_26_name">
+		<text>거부할 수 없는 부름 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_26_desc">
+		<text>S.T.A.L.K.E.R.: Call of Prypiat을 클리어하십시오. </text>
+	</string>
+
+	<string id="st_sp_achievement_new_27_hint">
+		<text>pripyat_expert hint</text>
+	</string>
+
+	<string id="st_sp_achievement_new_27_name">
+		<text>프리피야트 전문가</text>
+	</string>
+
+	<string id="st_sp_achievement_new_27_desc">
+		<text_ps4>가능한 모든 트로피를 획득하십시오.</text_ps4>
+		<text>가능한 모든 트로피를 획득하십시오.</text>
+	</string>
+
+	<string id="st_sp_achievement_popup">
+		<text>잠금 해제된 도전: </text>
+	</string>
+	<string id="st_sp_achievement_state">
+		<text>업적 진행 상황: </text>
+	</string>
+
+	<string id="st_sp_achievement_unlocked">
+		<text>해금</text>
+	</string>
+
+	<string id="st_sp_achievement_locked">
+		<text>미해금</text>
+	</string>
+
+	<string id="st_sp_achievement_hidden">
+		<text>숨겨진 업적</text>
+	</string>
+
+	<string id="st_sp_achievement_new_21_name">
+		<text>F-1 요원</text>
+	</string>
+
+	<string id="st_sp_achievement_new_21_desc">
+		<text>수류탄으로 적을 100명 처치하십시오.</text>
+	</string>
+
+	<string id="st_achievement_10_descr">
+		<text>당신에게 연속으로 10번이나 당하면서도 한 번도 복수하지 못했으니, 적군이 얼마나 치욕스러울까요? 그렇다고 해서 당신이 잔인하다는 건 아닙니다. 그저 상대방에게 연습의 중요성을 알려준 것뿐이니까요.</text>
+	</string>
+
+	<string id="st_achievement_10_name">
+		<text>수확의 시간</text>
+	</string>
+
+	<string id="st_achievement_11_descr">
+		<text>무시무시하군요! 돌 하나로 두 마리 토끼를 잡다니... 가우스 소총으로 적 둘을 뚫어 버렸습니다.</text>
+	</string>
+
+	<string id="st_achievement_11_name">
+		<text>꼬챙이</text>
+	</string>
+
+	<string id="st_achievement_12_descr">
+		<text>당신의 침착하고 계획적인 접근이 적을 죽음으로 몰아넣었습니다. 몇 초 사이에 이중 총열 산탄총으로 적 두 명을 사살했습니다.</text>
+	</string>
+
+	<string id="st_achievement_12_name">
+		<text>이타이피</text>
+	</string>
+
+	<string id="st_achievement_13_descr">
+		<text>스토커가 된다는 게 어떤 의미인지 확실히 아시는 분 같군요. 그러니까 전설의 스토커 1위에 올랐겠죠!</text>
+	</string>
+
+	<string id="st_achievement_13_name">
+		<text>야심가</text>
+	</string>
+
+	<string id="st_achievement_14_descr">
+		<text>칼 하나로 외골격 전투복을 잘라냈다고요? 발골 작업을 참 좋아하시나 보네요.</text>
+	</string>
+
+	<string id="st_achievement_14_name">
+		<text>통조림 따개</text>
+	</string>
+
+	<string id="st_achievement_15_descr">
+		<text>적들은 아마 당신을 끝장낸 줄 알았을 겁니다. 하지만 당신은 죽음을 앞둔 상황에서도 적 다섯을 학살해 버렸죠. 이제 누가 대장인지 모두들 눈치챘을 겁니다!</text>
+	</string>
+
+	<string id="st_achievement_15_name">
+		<text>다이하드</text>
+	</string>
+
+	<string id="st_achievement_16_descr">
+		<text>아드레날린이 솟구칩니다! 총알 세례로 적들을 쓸어버렸군요. 5초 동안 적 5명을 처리했습니다! 대단하군요!</text>
+	</string>
+
+	<string id="st_achievement_16_name">
+		<text>분노 조절 불가</text>
+	</string>
+
+	<string id="st_achievement_17_descr">
+		<text>사격 실력 한번 끝내주는데요! 적의 눈을 맞춰 한 발로 두 명을 사살했습니다.</text>
+	</string>
+
+	<string id="st_achievement_17_name">
+		<text>눈 전문가</text>
+	</string>
+
+	<string id="st_achievement_18_descr">
+		<text>구석에 숨어 기습해 봐야 당신에게는 아무 소용 없습니다. 왜냐고요? 당신은 조준 따위 하지 않아도 적을 벌집으로 만들 수 있으니까요!</text>
+	</string>
+
+	<string id="st_achievement_18_name">
+		<text>뛰어난 반사신경</text>
+	</string>
+
+	<string id="st_achievement_19_descr">
+		<text>실컷 달리게 두세요. 어차피 당신이 쏜 총에 맞아 죽을 녀석이니까요.</text>
+	</string>
+
+	<string id="st_achievement_19_name">
+		<text>러너를 막아라</text>
+	</string>
+
+	<string id="st_achievement_1_descr">
+		<text>죽지 않고 연속으로 적 20명을 처치했습니다! 피로 샤워를 해도 되겠는데요!</text>
+	</string>
+
+	<string id="st_achievement_1_name">
+		<text>대학살</text>
+	</string>
+
+	<string id="st_achievement_20_descr">
+		<text>적 셋이 저격 소총으로 무장하고 덤벼들었지만, 당신에게는 어림도 없었습니다.</text>
+	</string>
+
+	<string id="st_achievement_20_name">
+		<text>일등사수</text>
+	</string>
+
+	<string id="st_achievement_21_descr">
+		<text>총을 쏘지 않아도 저 야만인들을 충분히 제압할 수 있습니다.</text>
+	</string>
+
+	<string id="st_achievement_21_name">
+		<text>평화의 사절</text>
+	</string>
+
+	<string id="st_achievement_22_descr">
+		<text>진짜배기 저격수에게 거리 따위는 아무 문제도 되지 않습니다! 120미터 밖에서도 표적을 맞출 수 있거든요.</text>
+	</string>
+
+	<string id="st_achievement_22_name">
+		<text>완벽한 명중률</text>
+	</string>
+
+	<string id="st_achievement_23_descr">
+		<text>적에게 당했지만, 깜짝 선물을 남겨뒀군요. 바로 핀 뽑힌 수류탄입니다!</text>
+	</string>
+
+	<string id="st_achievement_23_name">
+		<text>나를 기억해</text>
+	</string>
+
+	<string id="st_achievement_24_descr">
+		<text>적들이 동료를 죽였습니다. 놈들을 처절하게 응징해야 합니다. 우리 편 시체가 셋이라면 적 시체도 셋이어야 합니다. 그게 바로 정의니까요.</text>
+	</string>
+
+	<string id="st_achievement_24_name">
+		<text>복수자</text>
+	</string>
+
+	<string id="st_achievement_25_descr">
+		<text>당신은 동료들의 수호천사입니다. 아티팩트를 옮기는 동료를 두 번이나 구해냈습니다.</text>
+	</string>
+
+	<string id="st_achievement_25_name">
+		<text>케루브</text>
+	</string>
+
+	<string id="st_achievement_26_descr">
+		<text>1점이라도 점수를 내어 당신과 팀원들의 체면을 지켰습니다.</text>
+	</string>
+
+	<string id="st_achievement_26_name">
+		<text>체면 수호자</text>
+	</string>
+
+	<string id="st_achievement_27_descr">
+		<text>다음 아티팩트가 나타나는 위치를 훤히 알고 계신 건가요? 생성된 아티팩트를 수 초 안에 획득했습니다!</text>
+	</string>
+
+	<string id="st_achievement_27_name">
+		<text>스토커의 직감</text>
+	</string>
+
+	<string id="st_achievement_28_descr">
+		<text>운이 좋네요. 탄창에 남은 마지막 총알로 적을 처치했습니다! 그래도 당신보단 적이 죽는 게 훨씬 낫잖아요?</text>
+	</string>
+
+	<string id="st_achievement_28_name">
+		<text>운 좋은 자식</text>
+	</string>
+
+	<string id="st_achievement_29_descr">
+		<text>적군 여덟 명을 연속 처치했습니다. 적들에게 당신이 그은 선을 넘을 용기가 있는지 지켜봅시다.</text>
+	</string>
+
+	<string id="st_achievement_29_name">
+		<text>블랙리스트</text>
+	</string>
+
+	<string id="st_achievement_2_descr">
+		<text>경각심을 갖고 조심스럽게 행동하면 죽음을 피할 수 있습니다. 게임 도중 죽지 않고 15점 이상 획득했습니다.</text>
+	</string>
+
+	<string id="st_achievement_2_name">
+		<text>편집증</text>
+	</string>
+
+	<string id="st_achievement_30_descr">
+		<text>소음기를 사용해 이목을 끌지 않고 적을 처리했습니다. 죽음이 찾아오는 방향을 굳이 적에게 알려줄 필요는 없으니까요!</text>
+	</string>
+
+	<string id="st_achievement_30_name">
+		<text>고요한 죽음</text>
+	</string>
+
+	<string id="st_achievement_3_descr">
+		<text>수많은 적을 처치하여 적군 최다 득점자 점수의 두 배를 얻고 승리했습니다.</text>
+	</string>
+
+	<string id="st_achievement_3_name">
+		<text>압도적인 우위</text>
+	</string>
+
+	<string id="st_achievement_4_descr">
+		<text>대담한 계획으로 게임을 시작하자마자 아티팩트를 획득했습니다. 게임을 시작하고 3분 이내에 팀 점수를 획득했습니다.</text>
+	</string>
+
+	<string id="st_achievement_4_name">
+		<text>급습</text>
+	</string>
+
+	<string id="st_achievement_5_descr">
+		<text>아티팩트를 하나도 빼앗기지 않고 적을 도륙해 버렸습니다. 이게 바로 훌륭한 팀워크의 힘입니다.</text>
+	</string>
+
+	<string id="st_achievement_5_name">
+		<text>완봉승!</text>
+	</string>
+
+	<string id="st_achievement_6_descr">
+		<text>최다 처치, 최다 아티팩트 획득, 최소 사망을 기록해 모든 분야에서 1위를 차지했습니다! 대단하네요!</text>
+	</string>
+
+	<string id="st_achievement_6_name">
+		<text>다재다능</text>
+	</string>
+
+	<string id="st_achievement_7_descr">
+		<text>엄청난 검술입니다! 20초 이내에 근접 무기로 적 세 명을 살해했습니다.</text>
+	</string>
+
+	<string id="st_achievement_7_name">
+		<text>분노</text>
+	</string>
+
+	<string id="st_achievement_8_descr">
+		<text>어떤 적이든 약점이 존재합니다. 보조 무기로 적의 머리를 명중시켰습니다.</text>
+	</string>
+
+	<string id="st_achievement_8_name">
+		<text>아킬레스건</text>
+	</string>
+
+	<string id="st_achievement_9_descr">
+		<text>적군의 총알도 당신 앞에서는 무용지물입니다. 상처 하나 없이 포화를 뚫고 적군을 처치했습니다!</text>
+	</string>
+
+	<string id="st_achievement_9_name">
+		<text>총알보다 빠르게</text>
+	</string>
+
+	<string id="st_sp_achievement_1_descr">
+		<text>존에서 이루어지는 최신 연구에 기꺼이 참여했습니다. 덕분에 이상 현상에서 지금까지 발견된 적 없는 새 물질을 찾아내 존의 이해에 크게 기여했습니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_1_name">
+		<text>개척자</text>
+	</string>
+
+	<string id="st_sp_achievement_2_hint">
+		<text>스토커들의 평가가 상승했습니다.\n스토커들이 노고에 대한 감사의 표시로 탄약을 야노우 역에 있는 개인 상자에 가져다 두었습니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_2_descr">
+		<text>위험한 돌연변이들을 굳이 피해 다닐 필요는 없습니다. 사냥해버리면 그만이니까요. 훌륭한 사냥꾼은 스토커 사이에서도 좋은 대우를 받습니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_2_name">
+		<text>돌연변이 사냥꾼</text>
+	</string>
+
+	<string id="st_sp_achievement_3_hint">
+		<text>스토커들의 평가가 상승했습니다.\n스토커들이 노고에 대한 감사의 표시로 의약품을 스카도프스크에 있는 개인 상자에 가져다 두었습니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_3_descr">
+		<text>당신은 스카도프스크에서 발생한 스토커 실종 사건의 내막을 밝혔습니다. 범인은 돌연변이보다 훨씬 위험한 사람이었습니다. 진실을 성공적으로 밝히자 스토커들이 존경하기 시작했습니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_3_name">
+		<text>탐정</text>
+	</string>
+
+	<string id="st_sp_achievement_4_hint">
+		<text>스토커들의 평가가 상승했습니다.\n상인 아울이 스토커들의 부탁을 받고 할인 혜택을 제공합니다. \n비어드가 더 높은 가격으로 아티팩트를 구매합니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_4_descr">
+		<text>밴디트 두목 술탄과 졸개들에게 본때를 보여준 덕분에 스토커 사이에서 유명 인사가 되었습니다. 스카도프스크는 언제나 당신을 환영합니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_4_name">
+		<text>우리의 일원</text>
+	</string>
+
+	<string id="st_sp_achievement_5_hint">
+		<text>밴디트들의 존경을 얻었습니다.\n해코지를 당할까 봐 겁에 질린 상인 아울이 할인 혜택을 제공합니다. \n비어드가 전에 합의한 대로 사업 수익의 일부를 상납합니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_5_descr">
+		<text>술탄을 도와 스토커들의 허를 찔렀습니다. 심지어 비어드의 사업까지 손에 넣었죠. 당신은 자톤에서 존경과 두려움의 대상이 되었습니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_5_name">
+		<text>두목</text>
+	</string>
+
+	<string id="st_sp_achievement_6_hint">
+		<text>스토커들은 맥파이가 거짓말과 속임수로 모은 전리품을 더 가치 있게 쓸 사람에게 주기로 했습니다. 스토커들이 맥파이의 물건을 야노우에 있는 개인 상자에 넣어 두었습니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_6_descr">
+		<text>정의의 이름으로 쓰레기 같은 놈을 처단했습니다. 맥파이는 부정한 방법으로 수많은 스토커를 기만했죠. 이제 그놈 차례입니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_6_name">
+		<text>정의의 배달부</text>
+	</string>
+
+	<string id="st_sp_achievement_7_hint">
+		<text>스토커들의 평가가 상승했습니다.\n존을 탐험할 때마다 밴디트들이 추적해 옵니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_7_descr">
+		<text>존 연구자들이 발견한 유형의 아티팩트를 전부 수집했습니다. 덕분에 스토커들의 존경을 얻었지만, 동시에 밴디트들의 주목도 받게 되었습니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_7_name">
+		<text>아티팩트 사냥꾼</text>
+	</string>
+
+	<string id="st_sp_achievement_8_hint">
+		<text>카르단이 외골격 전투복 고유 업그레이드를 진행할 수 있습니다. 외골격 전투복에 유압식 동력 모터 부스터를 탑재하여 더 빠르게 이동할 수 있습니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_8_descr">
+		<text>카르단은 평생 쓰고도 남을 도구를 얻었습니다. 이제 더 복잡하고 정교한 업그레이드를 수행할 수 있습니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_8_name">
+		<text>병기 전문가</text>
+	</string>
+
+	<string id="st_sp_achievement_9_hint">
+		<text>아조트가 고유 전술 헬멧 업그레이드를 진행할 수 있습니다. 헬멧에 적외선 스캐너를 설치하여 주변 인간을 탐지할 수 있게 됩니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_9_descr">
+		<text>아조트는 존의 기술자라면 누구나 꿈꿀 만한 장비를 모두 갖추게 되었습니다. 이제 첨단 업그레이드를 수행할 수 있습니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_9_name">
+		<text>첨단 기술 전문가</text>
+	</string>
+
+	<string id="st_sp_achievement_10_hint">
+		<text>쌓은 경험을 바탕으로 희귀한 아티팩트를 더 자주 찾을 수 있게 되었습니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_10_descr">
+		<text>존의 중심부에서 갈 수 있는 모든 곳을 둘러보고, 거의 모든 이상 현상을 몸소 겪어보았습니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_10_name">
+		<text>노련한 스토커</text>
+	</string>
+
+	<string id="st_sp_achievement_11_hint">
+		<text>탁월한 지도력 덕분에 팀원들의 생존 확률이 상승합니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_11_descr">
+		<text>팀 단위 작전에서 훌륭한 분대를 꾸리고 대원들에게 훌륭한 지도자임을 몸소 보여주었습니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_11_name">
+		<text>지도자</text>
+	</string>
+
+	<string id="st_sp_achievement_12_hint">
+		<text>프리덤, 듀티, 자유 스토커에 심지어 밴디트까지 뛰어난 협상 능력을 인정하게 되었습니다. 모든 세력의 존경을 받습니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_12_descr">
+		<text>당신은 평화적으로 문제를 해결할 줄 아는 사람입니다. 말 몇 마디로 분쟁을 끝낼 수 있는데 무력을 쓸 필요는 없잖아요? 물론 총부터 쏴대는 인간들도 있으니 항상 조심해야 합니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_12_name">
+		<text>외교관</text>
+	</string>
+
+	<string id="st_sp_achievement_13_descr">
+		<text>과학자들과 워낙 오래 협력하다 보니 어엿한 연구 조수가 되었습니다. 과학자 방공호에 있는 사람들도 자신과 같은 과학자로 여길 정도입니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_13_name">
+		<text>연구 조수</text>
+	</string>
+
+	<string id="st_sp_achievement_14_hint">
+		<text>듀티와의 관계가 개선되었습니다. 위험에 처할 때 듀티 대원들이 도와줍니다.\n듀티에 우호적인 기술자 아조트가 할인 혜택을 제공합니다. \n프리덤과의 관계가 악화되었습니다. \n프리덤에 우호적인 상인 하와이안이 상품을 더 비싸게 판매합니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_14_descr">
+		<text>듀티에게 도움의 손길을 수없이 건네 듀티 대원들의 존경을 얻었습니다. 그래도 존에 있는 모두가 듀티에 우호적인 건 아니라는 사실을 명심하세요.</text>
+	</string>
+
+	<string id="st_sp_achievement_14_name">
+		<text>듀티의 친구</text>
+	</string>
+
+	<string id="st_sp_achievement_15_hint">
+		<text>프리덤과의 관계가 개선되었습니다. 위험에 처할 때 프리덤 대원들이 도와줍니다.\n프리덤에 우호적인 상인 하와이안이 할인 혜택을 제공합니다. \n듀티와의 관계가 악화되었습니다. \n듀티에 우호적인 기술자 아조트가 상품을 더 비싸게 판매합니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_15_descr">
+		<text>프리덤에게 도움의 손길을 수없이 건네 프리덤 대원들의 존경을 얻었습니다. 그래도 존에 있는 모두가 프리덤에 우호적인 건 아니라는 사실을 명심하세요.</text>
+	</string>
+
+	<string id="st_sp_achievement_15_name">
+		<text>프리덤의 친구</text>
+	</string>
+
+	<string id="st_sp_achievement_16_hint">
+		<text>야노우의 스토커들은 듀티와 프리덤이 힘의 균형을 유지해야 한다고 생각합니다. 기술자와 상인 모두가 할인 혜택을 제공합니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_16_descr">
+		<text>어떤 세력의 편도 들지 않고 언제나 자유 스토커의 신분으로 행동했습니다. 적을 만들지도, 친구를 사귀지도 않았습니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_16_name">
+		<text>균형의 달인</text>
+	</string>
+
+	<string id="st_sp_achievement_17_hint">
+		<text>상인이 더 희귀하고 비싼 상품을 제공합니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_17_descr">
+		<text>당신도 한때는 돈이 없어 힘든 시간을 보냈습니다. 하지만 이젠 나쁘지 않네요. 나쁘지 않은 정도가 아니라 많은 재산을 쌓았죠. 상인들은 돈 많은 손님을 아주 중요하게 생각합니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_17_name">
+		<text>부유한 손님</text>
+	</string>
+
+	<string id="st_sp_achievement_18_hint">
+		<text>스트렐록은 기록을 받고 새로운 삶의 이유를 찾았습니다. 어떠한 대가를 치르더라도 이뤄내야 하는 목표가 생긴 것입니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_18_descr">
+		<text>선견지명이 빛을 발했습니다. 스트렐록 일당의 은닉처에서 발견한 기록이 정당한 주인을 만날 때까지 잘 보관하고 있었으니까요.</text>
+	</string>
+
+	<string id="st_sp_achievement_18_name">
+		<text>비밀 관리자</text>
+	</string>
+
+	<string id="st_sp_achievement_19_descr">
+		<text>당신은 소생제 알약 덕분에 에미션을 3번이나 정통으로 맞고도 살아남았습니다. 이 알약이 정신에 미치는 부작용은 아직 밝혀지지 않았지만, 머릿속에 뭔가 기묘한 침묵이 이어집니다. 마치 끝없이 이어지던 생각의 흐름이 뚝 끊긴 기분입니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_19_name">
+		<text>존의 표식</text>
+	</string>
+
+	<string id="st_sp_achievement_20_hint">
+		<text>상인 아울이 최고의 정보원이자 파트너가 되어 준 대가로 할인 혜택을 제공합니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_20_descr">
+		<text>당신한테는 획득한 정보를 언제나 적절한 구매자한테 팔 줄 아는 비결이 있습니다. 정보를 팔 때마다 내가 얻을 이익이 무엇인지 고민해 보면 되는 문제입니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_20_name">
+		<text>정보 거래상</text>
+	</string>
+
+	<string id="st_sp_achievement_21_hint">
+		<text>스토커들과의 관계가 개선되었습니다. 위험에 처할 때 스토커들이 도와줍니다.\n의무병 스토커들이 의약품을 원가에 판매하기로 했습니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_21_descr">
+		<text>당신은 곤경에 처한 스토커를 그냥 지나치지 않습니다. 스토커 집단의 결속력이 약하긴 하지만, 그래도 이제 비공식 형제들이 생겼습니다. 전투를 비롯해 다양하게 힘을 보탤 것입니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_21_name">
+		<text>스토커의 친구</text>
+	</string>
+
+	<string id="st_sp_achievement_1_hint">
+		<text>헤르만과 오제르스키 교수는 여러 새로운 정보를 바탕으로 존에서 사용할 수 있는 새로운 소생제 시약을 개발하는 데 성공했습니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_19_hint">
+		<text>신체만 건강하다면 약물의 도움 없이도 에미션으로부터 생존할 가능성이 생겼습니다.</text>
+	</string>
+
+	<string id="st_sp_achievement_13_hint">
+		<text>능력을 알아본 헤르만 교수가 원가에 방공호 인원만 얻을 수 있는 의약품과 장비를 제공하기로 했습니다.\n노비코프도 함께 일하는 데에 너무 익숙해진 나머지, 앞으로 장비를 개조할 때 부품값만 받기로 했습니다.</text>
+	</string>
+
+</string_table>

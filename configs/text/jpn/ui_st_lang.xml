@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='utf-8'?>
+<string_table>
+	<string id="ui_mm_language">
+        <text>言語</text>
+    </string>
+	<string id="ui_mm_language_sound">
+        <text>音声言語</text>
+    </string>
+    <string id="lang_cze">
+        <text>Čeština</text>
+    </string>
+    <string id="lang_eng">
+        <text>English</text>
+    </string>
+    <string id="lang_fra">
+        <text>Français</text>
+    </string>
+    <string id="lang_ger">
+        <text>Deutsch</text>
+    </string>
+    <string id="lang_ita">
+        <text>Italiano</text>
+    </string>
+    <string id="lang_jpn">
+        <text>日本語 </text>
+    </string>
+    <string id="lang_pol">
+        <text>Polski</text>
+    </string>
+    <string id="lang_rus">
+        <text>Русский</text>
+    </string>
+    <string id="lang_spa">
+        <text>Español</text>
+    </string>
+    <string id="lang_ukr">
+        <text>Українська</text>
+    </string>
+	<string id="lang_kor">
+		<text>한국어 </text>
+	</string>
+	<string id="lang_zh_cn">
+        <text>简体中文 </text>
+    </string>
+	<string id="lang_zh_tw">
+        <text>繁體中文 </text>
+    </string>
+	
+	<string id="st_ui_health_sensor_utf8">
+		<text>ヘルス</text>
+	</string>
+
+	<string id="st_level_utf8">
+		<text>レベル</text>
+	</string>
+
+	<string id="ui_inv_time_utf8">
+		<text>時間</text>
+	</string>
+
+	<string id="zaton_utf8">
+		<text>ザトン</text>
+	</string>
+
+	<string id="jupiter_utf8">
+		<text>ジュピター周囲エリア</text>
+	</string>
+
+	<string id="jupiter_underground_utf8">
+		<text>プリピャチ第一地下道</text>
+	</string>
+
+	<string id="pripyat_utf8">
+		<text>プリピャチ</text>
+	</string>
+
+	<string id="labx8_utf8">
+		<text>X8研究所</text>
+	</string>
+
+	<string id="ui_mainmenu_autosave_utf8">
+		<text>オートセーブ - </text>
+	</string>
+
+	<string id="ui_mainmenu_manualsave_utf8">
+		<text>手動セーブ - </text>
+	</string>
+
+	<string id="ui_mainmenu_quicksave_utf8">
+		<text>クイックセーブ - </text>
+	</string>
+
+	<string id="ui_mmenu_new_savegame_utf8">
+		<text>新規セーブゲーム</text>
+	</string>
+
+	<string id="ui_mmenu_no_savegames_utf8">
+		<text>セーブゲームはありません</text>
+	</string>
+
+	<string id="st_game_saved_utf8">
+		<text>ゲームをセーブしました</text>
+	</string>
+
+	<string id="month_january_utf8">
+		<text>1月</text>
+	</string>
+
+	<string id="month_february_utf8">
+		<text>2月</text>
+	</string>
+
+	<string id="month_march_utf8">
+		<text>4月</text>
+	</string>
+
+	<string id="month_april_utf8">
+		<text>4月</text>
+	</string>
+
+	<string id="month_may_utf8">
+		<text>5月</text>
+	</string>
+
+	<string id="month_june_utf8">
+		<text>6月</text>
+	</string>
+
+	<string id="month_july_utf8">
+		<text>7月</text>
+	</string>
+
+	<string id="month_august_utf8">
+		<text>8月</text>
+	</string>
+
+	<string id="month_september_utf8">
+		<text>9月</text>
+	</string>
+
+	<string id="month_october_utf8">
+		<text>10月</text>
+	</string>
+
+	<string id="month_november_utf8">
+		<text>11月</text>
+	</string>
+
+	<string id="month_december_utf8">
+		<text>12月</text>
+	</string>
+
+	<string id="st_save_uni_travel_generic">
+		<text>エリア内を移動中</text>
+	</string>
+
+	<string id="st_save_uni_travel_zat_to_jup">
+		<text>ザトンからヤニフに移動中</text>
+	</string>
+
+	<string id="st_save_uni_travel_zat_to_pri">
+		<text>ザトンからプリピャチに移動中</text>
+	</string>
+
+	<string id="st_save_uni_travel_jup_to_zat">
+		<text>ヤニフからザトンに移動中</text>
+	</string>
+
+	<string id="st_save_uni_travel_jup_to_pri">
+		<text>ヤニフからプリピャチに移動中</text>
+	</string>
+
+	<string id="st_save_uni_travel_pri_to_zat">
+		<text>プリピャチからザトンに移動中</text>
+	</string>
+
+	<string id="st_save_uni_travel_pri_to_jup">
+		<text>プリピャチからヤニフに移動中</text>
+	</string>
+
+	<string id="st_save_uni_pri_to_labx8">
+		<text>プリピャチからX8に移動中</text>
+	</string>
+
+	<string id="st_save_uni_labx8_to_pri">
+		<text>X8からプリピャチに移動中</text>
+	</string>
+
+	<string id="st_save_uni_surge_start">
+		<text>放出</text>
+	</string>
+
+	<string id="st_save_zat_a1_game_start">
+		<text>ゲームの序盤</text>
+	</string>
+
+	<string id="st_save_zat_a2_reached_skadovsk">
+		<text>スカドフスクに到着</text>
+	</string>
+
+	<string id="st_save_jup_b9_searched_heli_1">
+		<text>スティングレー1が検査されました</text>
+	</string>
+
+	<string id="st_save_zat_b100_searched_heli_2">
+		<text>スティングレー2が検査されました</text>
+	</string>
+
+	<string id="st_save_zat_b28_searched_heli_3">
+		<text>スティングレー3が検査されました</text>
+	</string>
+
+	<string id="st_save_jup_b8_searched_heli_4">
+		<text>スティングレー4が検査されました</text>
+	</string>
+
+	<string id="st_save_zat_b101_searched_heli_5">
+		<text>スティングレー5が検査されました</text>
+	</string>
+
+	<string id="st_save_zat_b18_noah_showed_teleport">
+		<text>高原に移動中</text>
+	</string>
+
+	<string id="st_save_jup_b217_arrived_to_jup">
+		<text>ヤニフに到着</text>
+	</string>
+
+	<string id="st_save_jup_a9_got_underpass_docs">
+		<text>プリピャチへの道を発見しました</text>
+	</string>
+
+	<string id="st_save_jup_b15_drunk_with_zulu">
+		<text>ズールが部隊に加わりました</text>
+	</string>
+
+	<string id="st_save_jup_a10_gonna_return_debt">
+		<text>ヴァノの負債が返済されました</text>
+	</string>
+
+	<string id="st_save_jup_b218_vano_in_squad">
+		<text>ヴァノが部隊に加わりました</text>
+	</string>
+
+	<string id="st_save_jup_b206_got_anomalous_plant">
+		<text>異常植物を入手しました</text>
+	</string>
+
+	<string id="st_save_jup_b218_sokolov_in_squad">
+		<text>ソコロフが部隊に加わりました</text>
+	</string>
+
+	<string id="st_save_jup_b218_strider_in_squad">
+		<text>ストライダーが部隊に加わりました</text>
+	</string>
+
+	<string id="st_save_jup_b218_travel_jup_to_pas">
+		<text>部隊が編制されました</text>
+	</string>
+
+	<string id="st_save_pas_b400_underpass_start">
+		<text>地下道に到着</text>
+	</string>
+
+	<string id="st_save_uni_travel_pas_to_pri">
+		<text>プリピャチに到着</text>
+	</string>
+
+	<string id="st_save_pri_a16_arrived_to_pri">
+		<text>軍隊を発見しました</text>
+	</string>
+
+	<string id="st_save_pri_a17_hospital_start">
+		<text>未確認の武器を入手しました</text>
+	</string>
+
+	<string id="st_save_pri_a20_found_dead_recon">
+		<text>偵察隊を発見しました</text>
+	</string>
+
+	<string id="st_save_pri_a18_met_reinforcement">
+		<text>増援部隊が到着しました</text>
+	</string>
+
+	<string id="st_save_pri_a18_searched_antenna">
+		<text>「アンテナ」が検査されました</text>
+	</string>
+
+	<string id="st_save_pri_a21_approached_mad_sentry">
+		<text>行方不明の歩哨を発見しました</text>
+	</string>
+
+	<string id="st_save_pri_a21_killed_controller">
+		<text>歩哨付近の操縦者を殺害しました</text>
+	</string>
+
+	<string id="st_save_zat_a23_entered_test_center">
+		<text>テストワークショップにアクセスしました</text>
+	</string>
+
+	<string id="st_save_zat_a23_got_gauss_docs">
+		<text>ガウスライフルの資料を発見しました</text>
+	</string>
+
+	<string id="st_save_pri_a22_found_dead_squad">
+		<text>死亡した兵士を発見しました</text>
+	</string>
+
+	<string id="st_save_pri_a25_gonna_place_explosive">
+		<text>幼稚園への入口</text>
+	</string>
+
+	<string id="st_save_pri_a25_freed_medic">
+		<text>衛生兵が救出されました</text>
+	</string>
+
+	<string id="st_save_pri_a28_talked_with_ssu">
+		<text>確立された本部との通信</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacutaion_start">
+		<text>プリピャチの退避が開始しました</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacuation_end">
+		<text>退避ヘリコプターの到着</text>
+	</string>
+
+	<string id="st_save_uni_zone_to_reality">
+		<text>退避が完了しました</text>
+	</string>
+
+	<string id="st_save_jup_b209_placed_mutant_scanner">
+		<text>ミュータント探知機</text>
+	</string>
+
+	<string id="st_save_jup_a12_gave_artefact_for_hostage">
+		<text>人質の身代金が支払われました</text>
+	</string>
+
+	<string id="st_save_jup_a12_met_with_liberators">
+		<text>人質が解放されました</text>
+	</string>
+
+	<string id="st_save_jup_b6_arrived_to_ash_heap">
+		<text>アッシュヒープアノマリーの測定</text>
+	</string>
+
+	<string id="st_save_jup_b6_arrived_to_fen">
+		<text>プラヴニのアノマリー測定</text>
+	</string>
+
+	<string id="st_save_zat_b38_met_with_grouse">
+		<text>ブラッドサッカーの巣穴</text>
+	</string>
+
+	<string id="st_save_jup_b19_arrived_to_kopachy">
+		<text>コパチーに派遣しました</text>
+	</string>
+
+	<string id="st_save_zat_b40_warned_by_mercs">
+		<text>廃棄物処理場への接近</text>
+	</string>
+
+	<string id="st_save_zat_b7_met_with_robbers">
+		<text>ストーカーヒット</text>
+	</string>
+
+	<string id="st_save_zat_b33_got_container">
+		<text>隠し場所でコンテナを発見しました</text>
+	</string>
+
+	<string id="st_save_zat_b106_arrived_to_chimera_lair">
+		<text>キメラ狩り</text>
+	</string>
+
+	<string id="st_save_jup_b16_passed_labyrinth">
+		<text>オアシスを発見</text>
+	</string>
+
+	<string id="st_save_pri_b35_ready_to_snipe">
+		<text>オペレーション・ワンショットが開始しました</text>
+	</string>
+
+	<string id="st_save_jup_b1_entered_railroad_tunnel">
+		<text>サイエミッション源の探索</text>
+	</string>
+
+	<string id="st_save_jup_b47_got_admin_docs">
+		<text>行政文書</text>
+	</string>
+
+	<string id="st_save_zat_b103_warned_by_mercs">
+		<text>変電所ワークショップへの接近</text>
+	</string>
+
+	<string id="st_save_zat_b5_met_with_others">
+		<text>レンジャーステーションの契約</text>
+	</string>
+
+	<string id="st_save_jup_b207_arrived_to_duty_depot">
+		<text>義務倉庫</text>
+	</string>
+
+	<string id="st_save_zat_b14_got_altered_wheel">
+		<text>謎の光源を発見しました</text>
+	</string>
+
+	<string id="st_save_pri_b301_arrived_to_help_zulu">
+		<text>ズールを発見しました</text>
+	</string>
+
+	<string id="st_save_zat_b42_arrived_to_controler_lair">
+		<text>危険な洞窟</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacuation_heli">
+		<text>退避ヘリコプターの離陸</text>
+	</string>
+
+	<string id="ui_modio_nomemory_utf8">
+		<text>空き容量がないため、MODをインストールできません。</text>
+	</string>
+	
+	<string id="ui_mm_modio_error">
+		<text>以下のコードでMod.ioエラーが発生しました：\n</text>
+	</string>
+	<string id="ui_mm_modio_error_space">
+		<text>改造をインストールするためのメモリが不足しています：\n</text>
+	</string>
+	<string id="ui_mm_modio_error_video">
+		<text>警告：インストールされた改造には多くのビデオメモリが必要です。ゲームが不安定になる可能性があります。</text>
+	</string>
+
+</string_table>

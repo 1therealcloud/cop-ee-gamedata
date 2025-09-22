@@ -1,0 +1,163 @@
+class "opt_video" (CUIWindow)
+
+local ColorDisabled = {[0] = 255, [1] = 75, [2] = 75, [3] = 75}
+local ColorEnabled = nil
+
+function opt_video:__init() super()
+	self.mm_is_controller = main_menu.in_controller_mode()
+end
+
+function opt_video:__finalize()
+
+end
+
+-- //MTB_Jakub_Jurek [JUD-72] multiline main menu scaling
+function lines_count(obj)
+	textObj = obj:TextControl()
+	textObj:SetWndSize( obj:GetWidth() ,obj:GetHeight())
+	local lineCount = textObj:GetLinesCount()
+	return lineCount
+end
+
+function opt_video:max_lines_count()
+	local multiline = 1
+	for index, elem in ipairs(self.focusList) do
+		multiline =  math.max(multiline, lines_count(elem[1]))
+	end
+	return multiline
+end
+
+function adjust_to_offset(obj, offset)
+	local width = obj:GetWidth()
+	local height = obj:GetHeight() + offset
+	obj:SetWndSize(vector2():set(width,height))
+end 
+
+function opt_video:adjust_position(offsetIncrement)
+	for index, elem in ipairs(self.focusList) do
+		adjust_to_offset(elem[1]:GetParent(),offsetIncrement)
+	end
+	self.scroll_v:ForceUpdate()
+end 
+-- //end MTB_Jakub_Jurek [JUD-72] multiline main menu scaling
+
+function opt_video:add_element(xml ,cap_name, elem_name, elem_init_func)
+	local _st = xml:InitStatic("tab_video:templ_item", self.scroll_v)
+	
+	_st.caption = xml:InitStatic(cap_name, _st)
+	local capX = _st.caption:GetWndPos().x
+	_st.caption:SetWndPos(vector2():set(capX,3))
+	
+	_st.element = elem_init_func(xml, elem_name, _st)
+	local elemX = _st.element:GetWndPos().x
+	_st.element:SetWndPos(vector2():set(elemX,3))
+	
+	table.insert(self.focusList, {_st.caption, _st.element, _st} )
+	return _st
+end 
+
+function opt_video:InitControls(x, y, xml, handler) -- //MTB_Jakub_Jurek [JUD-72] multiline main menu scaling| changed order of initialization to as seen on screen, its nessecery for scaling to work correctly
+
+	self:SetWndPos(vector2():set(x,y))
+	self:SetWndSize(vector2():set(738,416))
+	self:SetAutoDelete(true)
+	
+	local caption, element
+	self.focusList = {}
+	
+	self.scroll_v = xml:InitScrollView("tab_video:scroll_v", self)
+	
+	if not is_gaming_console() then
+	--	self.bk = xml:InitFrame			("frame", self)
+
+		btn		= xml:Init3tButton		("tab_video:btn_advanced",	self)
+		handler:Register				(btn, "btn_advanced_graphic")
+	end 
+	--	self.bk = xml:InitFrame			("frame", self)
+	if is_gaming_console() then
+		
+		self:add_element(xml,"tab_video_console:cap_gamma", "tab_video_console:track_gamma", xml.InitTrackBar)
+		-- MTB-Damian.Romanik [JUD-1035] Start: Add frame limit option only for next gen consoles
+		if is_next_gen() then
+			self.frame_limit = self:add_element(xml,"tab_video_console:cap_frame_limit", "tab_video_console:list_frame_limit", xml.InitComboBox)
+		end
+		-- MTB-Damian.Romanik [JUD-1035] End: Add frame limit option only for next gen consoles
+
+		-- MTB-Damian.Romanik [JP2-444] Start: Hidden motion blur on NX64
+		if get_platform_id() ~= platform_ids.PLATFORM_NX64 then
+			self:add_element(xml,"tab_video_console:cap_mblur_pwr","tab_video_console:track_mblur_pwr", xml.InitTrackBar) --//mtb-denys.hoida: [JUD-837] Add mblur slider
+		end
+		-- MTB-Damian.Romanik [JP2-444] End: Hidden motion blur on NX64
+		
+		if is_next_gen() then
+			self.recommended_note = self:add_element(xml,"tab_video_console:cap_recommended_note","tab_video_console:cap_recommended_note_empty", xml.InitStatic)
+			handler:Register(self.frame_limit.element, "combo_frame_limit")
+			handler:AddCallback("combo_frame_limit",	ui_events.LIST_ITEM_SELECT,	self.OnFrameRateLimitChange,	self)
+			self.frame_limit.element:SetCurrentOptValue()
+			self:OnFrameRateLimitChange()
+		end
+		
+	else
+		local _st = xml:InitStatic("tab_video:templ_item", self.scroll_v)
+		caption = xml:InitStatic		("tab_video:cap_preset",			_st)
+		handler.combo_preset			= xml:InitComboBox("tab_video:list_presets",	_st)
+		handler:Register				(handler.combo_preset,				"combo_preset")
+		table.insert(self.focusList, {caption, handler.combo_preset} )
+
+		self:add_element(xml,"tab_video:cap_display_mode","tab_video:list_display_mode", xml.InitComboBox) 
+		self:add_element(xml,"tab_video:cap_resolution","tab_video:list_resolution", xml.InitComboBox)
+		self.vsync = self:add_element(xml,"tab_video:cap_vsync","tab_video:check_vsync", xml.InitCheck)
+		self.frame_limit = self:add_element(xml,"tab_video:cap_frame_limit","tab_video:list_frame_limit", xml.InitComboBox)
+		handler:Register(self.frame_limit.element, "combo_frame_limit")
+		handler:AddCallback("combo_frame_limit",	ui_events.LIST_ITEM_SELECT,	self.OnFrameRateLimitChange,	self)
+		self.frame_limit.element:SetCurrentOptValue()
+		
+		self:add_element(xml,"tab_video:cap_gamma","tab_video:track_gamma", xml.InitTrackBar)
+		self:add_element(xml,"tab_video:cap_contrast","tab_video:track_contrast", xml.InitTrackBar)
+		self:add_element(xml,"tab_video:cap_brightness","tab_video:track_brightness", xml.InitTrackBar)
+		self:add_element(xml,"tab_video:cap_fov","tab_video:track_fov", xml.InitTrackBar)
+	
+		ColorEnabled = self.vsync.caption:GetTextColor()
+	end
+end
+
+function opt_video:is_vsync_enabled()
+	if self.vsync ~= nil then
+		return self.vsync.element:GetCheck()
+	end
+
+	return false
+end
+
+function opt_video:enable_vsync_settings(enable)
+	if self.vsync ~= nil then
+		if self.vsync.enabled == nil or enable ~= self.vsync.enabled then
+			self.vsync.enabled = enable
+			if enable then
+				self.vsync.caption:SetTextColorN(ColorEnabled)
+			else
+				self.vsync.element:SetCheck(false)
+				self.vsync.caption:SetTextColor(ColorDisabled[0], ColorDisabled[1], ColorDisabled[2], ColorDisabled[3])
+			end
+			self.vsync.element:SetVisible(enable)
+		end
+	end
+end
+
+function opt_video:OnFrameRateLimitChange()	
+	if self.frame_limit ~= nil then
+		text = self.frame_limit.element:GetText()
+		if is_gaming_console() and is_next_gen() then
+			self.recommended_note:Show(text:find("*") ~= nil)
+			self.scroll_v:ForceUpdate()
+			self.recommended_note.hidden = true
+		end
+		
+		text = text:gsub('%D','')
+		fps = tonumber(text) == nil and 0 or tonumber(text)
+		if fps <= 60 and #text ~= 0 then
+			local console = get_console()	
+			console:execute	("mtb_fsr_frame_generation off")
+		end
+	end
+end

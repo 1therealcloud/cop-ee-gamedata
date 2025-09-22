@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_drop_amount">
+		<text>丢弃数量</text>
+	</string>
+
+	<string id="quick_use_str_4">
+		<text>$$ACTION_QUICK_USE_4$$</text>
+	</string>
+
+	<string id="quick_use_str_1">
+		<text>$$ACTION_QUICK_USE_1$$</text>
+	</string>
+
+	<string id="st_detach_quickslot">
+		<text>从快捷栏移除</text>
+	</string>
+
+	<string id="st_move_to_quickslot">
+		<text>添加到快捷栏</text>
+	</string>
+
+</string_table>

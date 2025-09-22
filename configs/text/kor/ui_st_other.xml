@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="ui_st_upgrade">
+		<text>수리/개조</text>
+	</string>
+
+	<string id="ui_st_upgrade_console">
+		<text>$$ACTION_talk_trade_upgrade$$ 수정/변경하기</text>
+	</string>
+
+	<string id="Btn_Cancel">
+		<text>취소</text>
+	</string>
+
+	<string id="Btn_No">
+		<text>아니요</text>
+	</string>
+
+	<string id="Btn_OK">
+		<text>확인</text>
+	</string>
+
+	<string id="Btn_Yes">
+		<text>예</text>
+	</string>
+
+	<string id="bad">
+		<text>나쁨</text>
+	</string>
+
+	<string id="enemy">
+		<text>적</text>
+	</string>
+
+	<string id="excellent">
+		<text>훌륭함</text>
+	</string>
+
+	<string id="experienced">
+		<text>숙련자</text>
+	</string>
+
+	<string id="friendly">
+		<text>친구</text>
+	</string>
+
+	<string id="global_map">
+		<text>존의 지도</text>
+	</string>
+
+	<string id="good">
+		<text>좋음</text>
+	</string>
+
+	<string id="indifferent">
+		<text>무관심함</text>
+	</string>
+
+	<string id="master">
+		<text>마스터</text>
+	</string>
+
+	<string id="mm_mp_pda_hunt">
+		<text>PDA 보너스</text>
+	</string>
+
+	<string id="mp_only_one_voting">
+		<text>투표는 하나만 활성화할 수 있습니다.</text>
+	</string>
+
+	<string id="neutral">
+		<text>중립</text>
+	</string>
+
+	<string id="novice">
+		<text>신입</text>
+	</string>
+
+	<string id="st_game">
+		<text>게임</text>
+	</string>
+
+	<string id="st_item_used">
+		<text>사용됨</text>
+	</string>
+
+	<string id="st_level">
+		<text>레벨</text>
+	</string>
+
+	<string id="st_loading_ai_objects">
+		<text>AI 오브젝트 불러오는 중</text>
+	</string>
+
+	<string id="st_loading_alife_simulator">
+		<text>서버: 인공지능 시뮬레이터 불러오는 중</text>
+	</string>
+
+	<string id="st_loading_cform">
+		<text>CFORM 불러오는 중</text>
+	</string>
+
+	<string id="st_loading_details">
+		<text>디테일 불러오는 중</text>
+	</string>
+
+	<string id="st_loading_geometry">
+		<text>지오메트리 불러오는 중</text>
+	</string>
+
+	<string id="st_loading_saved_game">
+		<text>저장 게임 불러오는 중</text>
+	</string>
+
+	<string id="st_loading_sectors_portals">
+		<text>섹터 &amp; 포털 불러오는 중</text>
+	</string>
+
+	<string id="st_loading_shaders">
+		<text>셰이더 불러오는 중</text>
+	</string>
+
+	<string id="st_loading_spatial_db">
+		<text>공간 DB 불러오는 중</text>
+	</string>
+
+	<string id="st_loading_textures">
+		<text>텍스처 불러오는 중</text>
+	</string>
+
+	<string id="st_mp_direct_ip">
+		<text>Direct IP</text>
+	</string>
+
+	<string id="st_no_active_task">
+		<text>활성화 임무 없음</text>
+	</string>
+
+	<string id="st_not_enough_money">
+		<text>돈이 부족합니다.</text>
+	</string>
+
+	<string id="st_not_enough_money_npc">
+		<text>NPC 보유 금액이 부족합니다.</text>
+	</string>
+
+	<string id="st_opening_stream">
+		<text>스트림 실행 중</text>
+	</string>
+
+	<string id="st_prefetching_objects">
+		<text>오브젝트 프리패치 중</text>
+	</string>
+
+	<string id="st_rubles">
+		<text>SR</text>
+	</string>
+
+	<string id="st_server_connecting">
+		<text>서버: 연결 중</text>
+	</string>
+
+	<string id="st_server_starting">
+		<text>서버: 시작 중</text>
+	</string>
+
+	<string id="st_validating_cdkey">
+		<text>CD 키 확인 중</text>
+	</string>
+
+	<string id="st_video">
+		<text>비디오</text>
+	</string>
+
+	<string id="terrible">
+		<text>끔찍함</text>
+	</string>
+
+	<string id="ui_inv_repair">
+		<text>수리</text>
+	</string>
+
+	<string id="ui_st_cant_run_r2">
+		<text>PC에서 Render 2 실행 불가</text>
+	</string>
+
+	<string id="ui_st_community">
+		<text>세력</text>
+	</string>
+
+	<string id="ui_st_conn_cdkey_disabled">
+		<text>연결 오류: CD 키가 비활성화되었습니다. 고객지원팀에 문의하세요.</text>
+	</string>
+
+	<string id="ui_st_conn_cdkey_in_use">
+		<text>연결 오류: 사용 중인 CD 키</text>
+	</string>
+
+	<string id="ui_st_conn_cdkey_invalid">
+		<text>연결 오류: 잘못된 CD 키</text>
+	</string>
+
+	<string id="ui_st_conn_invalid_host">
+		<text>연결 오류: 잘못된 호스트</text>
+	</string>
+
+	<string id="ui_st_conn_invalid_pass">
+		<text>연결 오류: 잘못된 비밀번호</text>
+	</string>
+
+	<string id="ui_st_conn_new_patch">
+		<text>신규 패치를 이용할 수 있습니다.\n 버전: %s\n 위치: %s\n다운로드하시겠습니까?</text>
+	</string>
+
+	<string id="ui_st_conn_no_new_patch">
+		<text>사용할 수 있는 신규 패치 없음</text>
+	</string>
+
+	<string id="ui_st_conn_rejected_server">
+		<text>연결 오류: 서버에서 연결 거부</text>
+	</string>
+
+	<string id="ui_st_conn_sess_full">
+		<text>연결 오류: 서버가 가득 찼습니다.</text>
+	</string>
+
+	<string id="ui_st_conn_version_differs">
+		<text>연결 오류: 버전이 미일치</text>
+	</string>
+
+	<string id="ui_st_connecting_to_masterserver">
+		<text>마스터 서버 연결 중</text>
+	</string>
+
+	<string id="ui_st_days">
+		<text>일</text>
+	</string>
+
+	<string id="ui_st_error">
+		<text>오류</text>
+	</string>
+
+	<string id="ui_st_error_loading">
+		<text>불러오기 오류</text>
+	</string>
+
+	<string id="ui_st_file_exist_owerwrite_q">
+		<text>이미 동일한 파일명이 존재합니다. 덮어쓰시겠습니까?</text>
+	</string>
+
+	<string id="ui_st_file_name_is_empty">
+		<text>파일 이름이 비어 있습니다.</text>
+	</string>
+
+	<string id="ui_st_hours">
+		<text>시간</text>
+	</string>
+
+	<string id="ui_st_kicked_by_battleye">
+		<text>배틀아이 시스템에 의해 연결이 끊겼습니다:</text>
+	</string>
+
+	<string id="ui_st_kicked_by_server">
+		<text>연결이 끊겼습니다. 원인:</text>
+	</string>
+
+	<string id="ui_st_leave">
+		<text>떠나기</text>
+	</string>
+
+	<string id="ui_st_load_game_confirm">
+		<text>게임을 불러오면 저장하지 않은 데이터가 사라집니다. 계속하시겠습니까?</text>
+	</string>
+
+	<string id="ui_st_mins">
+		<text>분</text>
+	</string>
+
+	<string id="ui_st_months">
+		<text>달</text>
+	</string>
+
+	<string id="ui_st_opponent_items">
+		<text>배낭</text>
+	</string>
+
+	<string id="ui_st_params">
+		<text>파라미터</text>
+	</string>
+
+	<string id="ui_st_patch_download_error">
+		<text>패치를 다운로드할 수 없습니다.</text>
+	</string>
+
+	<string id="ui_st_patch_download_success">
+		<text>패치 다운로드를 완료했습니다. 설치하시겠습니까?</text>
+	</string>
+
+	<string id="ui_st_price">
+		<text>가격</text>
+	</string>
+
+	<string id="ui_st_rank">
+		<text>계급</text>
+	</string>
+
+	<string id="ui_st_relation">
+		<text>태도</text>
+	</string>
+
+	<string id="ui_st_reputation">
+		<text>명성</text>
+	</string>
+
+	<string id="ui_st_secs">
+		<text>초</text>
+	</string>
+
+	<string id="ui_st_select_one_map">
+		<text>지도를 1개 이상 선택하세요.</text>
+	</string>
+
+	<string id="ui_st_take_all">
+		<text>전부 획득</text>
+	</string>
+
+	<string id="ui_st_time_remains">
+		<text>남은 시간</text>
+	</string>
+
+	<string id="ui_st_voting_disabled">
+		<text>투표 실패</text>
+	</string>
+
+	<string id="ui_st_want_to_leave_game_q">
+		<text>게임에서 나가시겠습니까?</text>
+	</string>
+
+	<string id="ui_total_price">
+		<text>합계</text>
+	</string>
+
+	<string id="very_bad">
+		<text>매우 나쁨</text>
+	</string>
+
+	<string id="very_good">
+		<text>매우 좋음</text>
+	</string>
+
+	<string id="veteran">
+		<text>베테랑</text>
+	</string>
+
+	<string id="ui_st_inv_repair">
+		<text>수리</text>
+	</string>
+
+	<string id="ui_repair_button_hint">
+		<text>선택한 아이템 수리</text>
+	</string>
+
+	<string id="st_key_notbinded">
+		<text>...</text>
+	</string>
+
+	<string id="ui_st_buy">
+		<text>구입</text>
+	</string>
+
+	<string id="ui_st_sell">
+		<text>판매</text>
+	</string>
+
+	<string id="ui_st_trade">
+		<text>거래</text>
+	</string>
+
+	<string id="ui_st_exit_hint">
+		<text>창 닫기 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="ui_st_trade_hint">
+		<text>거래 창 열기 ($$ACTION_SPRINT_TOGGLE$$)</text>
+	</string>
+
+	<string id="ui_st_upgrade_hint">
+		<text>수리 및 개조 칸 열기 ($$ACTION_SPRINT_TOGGLE$$)</text>
+	</string>
+
+	<string id="ui_st_take_all_hint">
+		<text>모든 아이템을 배낭에 넣기 ($$ACTION_SPRINT_TOGGLE$$)</text>
+	</string>
+
+	<string id="ui_st_buy_hint">
+		<text>선택한 아이템 구입</text>
+	</string>
+
+	<string id="ui_st_sell_hint">
+		<text>선택한 아이템 판매</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="name_bandit_0">
+		<text>사넥</text>
+	</string>
+
+	<string id="name_bandit_1">
+		<text>스후리크</text>
+	</string>
+
+	<string id="name_bandit_10">
+		<text>바디아</text>
+	</string>
+
+	<string id="name_bandit_11">
+		<text>바시안</text>
+	</string>
+
+	<string id="name_bandit_12">
+		<text>바세크</text>
+	</string>
+
+	<string id="name_bandit_13">
+		<text>비튜카</text>
+	</string>
+
+	<string id="name_bandit_14">
+		<text>베탈</text>
+	</string>
+
+	<string id="name_bandit_15">
+		<text>보반</text>
+	</string>
+
+	<string id="name_bandit_16">
+		<text>츠요르카</text>
+	</string>
+
+	<string id="name_bandit_17">
+		<text>그리시카</text>
+	</string>
+
+	<string id="name_bandit_18">
+		<text>그리시코</text>
+	</string>
+
+	<string id="name_bandit_19">
+		<text>디몬</text>
+	</string>
+
+	<string id="name_bandit_2">
+		<text>레카</text>
+	</string>
+
+	<string id="name_bandit_20">
+		<text>디무카</text>
+	</string>
+
+	<string id="name_bandit_21">
+		<text>츠예카</text>
+	</string>
+
+	<string id="name_bandit_22">
+		<text>핌카</text>
+	</string>
+
+	<string id="name_bandit_23">
+		<text>일류카</text>
+	</string>
+
+	<string id="name_bandit_24">
+		<text>코스탼</text>
+	</string>
+
+	<string id="name_bandit_25">
+		<text>밋카</text>
+	</string>
+
+	<string id="name_bandit_26">
+		<text>밋칼</text>
+	</string>
+
+	<string id="name_bandit_27">
+		<text>미카</text>
+	</string>
+
+	<string id="name_bandit_28">
+		<text>미카스</text>
+	</string>
+
+	<string id="name_bandit_29">
+		<text>콜리안</text>
+	</string>
+
+	<string id="name_bandit_3">
+		<text>톨랸</text>
+	</string>
+
+	<string id="name_bandit_30">
+		<text>파블루카</text>
+	</string>
+
+	<string id="name_bandit_31">
+		<text>사쇼크</text>
+	</string>
+
+	<string id="name_bandit_32">
+		<text>스텝카</text>
+	</string>
+
+	<string id="name_bandit_33">
+		<text>스테푸카</text>
+	</string>
+
+	<string id="name_bandit_34">
+		<text>티모카</text>
+	</string>
+
+	<string id="name_bandit_35">
+		<text>펠카</text>
+	</string>
+
+	<string id="name_bandit_36">
+		<text>유라스</text>
+	</string>
+
+	<string id="name_bandit_37">
+		<text>야시카</text>
+	</string>
+
+	<string id="name_bandit_4">
+		<text>안드류카</text>
+	</string>
+
+	<string id="name_bandit_5">
+		<text>토카</text>
+	</string>
+
+	<string id="name_bandit_6">
+		<text>아르카샤</text>
+	</string>
+
+	<string id="name_bandit_7">
+		<text>템카</text>
+	</string>
+
+	<string id="name_bandit_8">
+		<text>보리안</text>
+	</string>
+
+	<string id="name_bandit_9">
+		<text>보디아</text>
+	</string>
+
+	<string id="name_captain_0">
+		<text>대위</text>
+	</string>
+
+	<string id="name_lieutenant_0">
+		<text>중위</text>
+	</string>
+
+	<string id="name_private_0">
+		<text>이병</text>
+	</string>
+
+	<string id="name_science_0">
+		<text>안드레이</text>
+	</string>
+
+	<string id="name_science_1">
+		<text>안톤</text>
+	</string>
+
+	<string id="name_science_10">
+		<text>올렉</text>
+	</string>
+
+	<string id="name_science_11">
+		<text>로만</text>
+	</string>
+
+	<string id="name_science_12">
+		<text>알렉산드르</text>
+	</string>
+
+	<string id="name_science_13">
+		<text>세르게이</text>
+	</string>
+
+	<string id="name_science_14">
+		<text>아나톨리</text>
+	</string>
+
+	<string id="name_science_15">
+		<text>유리</text>
+	</string>
+
+	<string id="name_science_2">
+		<text>보단</text>
+	</string>
+
+	<string id="name_science_3">
+		<text>벤야민</text>
+	</string>
+
+	<string id="name_science_4">
+		<text>비탈리</text>
+	</string>
+
+	<string id="name_science_5">
+		<text>블라디미르</text>
+	</string>
+
+	<string id="name_science_6">
+		<text>드미트리</text>
+	</string>
+
+	<string id="name_science_7">
+		<text>이반</text>
+	</string>
+
+	<string id="name_science_8">
+		<text>콘스탄틴</text>
+	</string>
+
+	<string id="name_science_9">
+		<text>알렉세이</text>
+	</string>
+
+	<string id="name_stalker_0">
+		<text>사냐</text>
+	</string>
+
+	<string id="name_stalker_1">
+		<text>사넥</text>
+	</string>
+
+	<string id="name_stalker_10">
+		<text>아르투르</text>
+	</string>
+
+	<string id="name_stalker_100">
+		<text>야시카</text>
+	</string>
+
+	<string id="name_stalker_101">
+		<text>야릭</text>
+	</string>
+
+	<string id="name_stalker_102">
+		<text>야라</text>
+	</string>
+
+	<string id="name_stalker_103">
+		<text>슬라바</text>
+	</string>
+
+	<string id="name_stalker_11">
+		<text>보랴</text>
+	</string>
+
+	<string id="name_stalker_12">
+		<text>보르카</text>
+	</string>
+
+	<string id="name_stalker_13">
+		<text>보단</text>
+	</string>
+
+	<string id="name_stalker_14">
+		<text>슬라비크</text>
+	</string>
+
+	<string id="name_stalker_15">
+		<text>바딤</text>
+	</string>
+
+	<string id="name_stalker_16">
+		<text>바디아</text>
+	</string>
+
+	<string id="name_stalker_17">
+		<text>바디크</text>
+	</string>
+
+	<string id="name_stalker_18">
+		<text>발리크</text>
+	</string>
+
+	<string id="name_stalker_19">
+		<text>발레라</text>
+	</string>
+
+	<string id="name_stalker_2">
+		<text>스후리크</text>
+	</string>
+
+	<string id="name_stalker_20">
+		<text>바샤</text>
+	</string>
+
+	<string id="name_stalker_21">
+		<text>바스카</text>
+	</string>
+
+	<string id="name_stalker_22">
+		<text>바스코</text>
+	</string>
+
+	<string id="name_stalker_23">
+		<text>베냐</text>
+	</string>
+
+	<string id="name_stalker_24">
+		<text>비티아</text>
+	</string>
+
+	<string id="name_stalker_25">
+		<text>비트카</text>
+	</string>
+
+	<string id="name_stalker_26">
+		<text>비탈리크</text>
+	</string>
+
+	<string id="name_stalker_27">
+		<text>블라드</text>
+	</string>
+
+	<string id="name_stalker_28">
+		<text>보바</text>
+	</string>
+
+	<string id="name_stalker_29">
+		<text>보브카</text>
+	</string>
+
+	<string id="name_stalker_3">
+		<text>레냐</text>
+	</string>
+
+	<string id="name_stalker_30">
+		<text>세바</text>
+	</string>
+
+	<string id="name_stalker_31">
+		<text>세브카</text>
+	</string>
+
+	<string id="name_stalker_32">
+		<text>게나</text>
+	</string>
+
+	<string id="name_stalker_33">
+		<text>겐카</text>
+	</string>
+
+	<string id="name_stalker_34">
+		<text>게오르게</text>
+	</string>
+
+	<string id="name_stalker_35">
+		<text>고샤</text>
+	</string>
+
+	<string id="name_stalker_36">
+		<text>츠요라</text>
+	</string>
+
+	<string id="name_stalker_37">
+		<text>마크</text>
+	</string>
+
+	<string id="name_stalker_38">
+		<text>글렙</text>
+	</string>
+
+	<string id="name_stalker_39">
+		<text>그리샤</text>
+	</string>
+
+	<string id="name_stalker_4">
+		<text>알렉스</text>
+	</string>
+
+	<string id="name_stalker_40">
+		<text>그리시카</text>
+	</string>
+
+	<string id="name_stalker_41">
+		<text>그리시코</text>
+	</string>
+
+	<string id="name_stalker_42">
+		<text>다냐</text>
+	</string>
+
+	<string id="name_stalker_43">
+		<text>키류카</text>
+	</string>
+
+	<string id="name_stalker_44">
+		<text>단코</text>
+	</string>
+
+	<string id="name_stalker_45">
+		<text>데니스</text>
+	</string>
+
+	<string id="name_stalker_46">
+		<text>디마</text>
+	</string>
+
+	<string id="name_stalker_47">
+		<text>딤카</text>
+	</string>
+
+	<string id="name_stalker_48">
+		<text>드미트로</text>
+	</string>
+
+	<string id="name_stalker_49">
+		<text>츠예냐</text>
+	</string>
+
+	<string id="name_stalker_5">
+		<text>레시카</text>
+	</string>
+
+	<string id="name_stalker_50">
+		<text>츠옌카</text>
+	</string>
+
+	<string id="name_stalker_51">
+		<text>예고르</text>
+	</string>
+
+	<string id="name_stalker_52">
+		<text>예고르카</text>
+	</string>
+
+	<string id="name_stalker_53">
+		<text>피마</text>
+	</string>
+
+	<string id="name_stalker_54">
+		<text>바냐</text>
+	</string>
+
+	<string id="name_stalker_55">
+		<text>반카</text>
+	</string>
+
+	<string id="name_stalker_56">
+		<text>이고레크</text>
+	</string>
+
+	<string id="name_stalker_57">
+		<text>일리아</text>
+	</string>
+
+	<string id="name_stalker_58">
+		<text>코스티아</text>
+	</string>
+
+	<string id="name_stalker_59">
+		<text>코스티크</text>
+	</string>
+
+	<string id="name_stalker_6">
+		<text>톨릭</text>
+	</string>
+
+	<string id="name_stalker_60">
+		<text>레바</text>
+	</string>
+
+	<string id="name_stalker_61">
+		<text>레냐</text>
+	</string>
+
+	<string id="name_stalker_62">
+		<text>리온카</text>
+	</string>
+
+	<string id="name_stalker_63">
+		<text>막스</text>
+	</string>
+
+	<string id="name_stalker_64">
+		<text>마트베이</text>
+	</string>
+
+	<string id="name_stalker_65">
+		<text>미탸</text>
+	</string>
+
+	<string id="name_stalker_66">
+		<text>미샤</text>
+	</string>
+
+	<string id="name_stalker_67">
+		<text>미시카</text>
+	</string>
+
+	<string id="name_stalker_68">
+		<text>니키타</text>
+	</string>
+
+	<string id="name_stalker_69">
+		<text>닉</text>
+	</string>
+
+	<string id="name_stalker_7">
+		<text>안톤</text>
+	</string>
+
+	<string id="name_stalker_70">
+		<text>콜랴</text>
+	</string>
+
+	<string id="name_stalker_71">
+		<text>올렉</text>
+	</string>
+
+	<string id="name_stalker_72">
+		<text>파샤</text>
+	</string>
+
+	<string id="name_stalker_73">
+		<text>파시카</text>
+	</string>
+
+	<string id="name_stalker_74">
+		<text>페트로</text>
+	</string>
+
+	<string id="name_stalker_75">
+		<text>페탸</text>
+	</string>
+
+	<string id="name_stalker_76">
+		<text>페트카</text>
+	</string>
+
+	<string id="name_stalker_77">
+		<text>로마</text>
+	</string>
+
+	<string id="name_stalker_78">
+		<text>롬카</text>
+	</string>
+
+	<string id="name_stalker_79">
+		<text>로스티크</text>
+	</string>
+
+	<string id="name_stalker_8">
+		<text>토시카</text>
+	</string>
+
+	<string id="name_stalker_80">
+		<text>루스</text>
+	</string>
+
+	<string id="name_stalker_81">
+		<text>사바</text>
+	</string>
+
+	<string id="name_stalker_82">
+		<text>세묜</text>
+	</string>
+
+	<string id="name_stalker_83">
+		<text>세마</text>
+	</string>
+
+	<string id="name_stalker_84">
+		<text>세레가</text>
+	</string>
+
+	<string id="name_stalker_85">
+		<text>루시크</text>
+	</string>
+
+	<string id="name_stalker_86">
+		<text>쉬테판</text>
+	</string>
+
+	<string id="name_stalker_87">
+		<text>쉬테파</text>
+	</string>
+
+	<string id="name_stalker_88">
+		<text>티마</text>
+	</string>
+
+	<string id="name_stalker_89">
+		<text>팀카</text>
+	</string>
+
+	<string id="name_stalker_9">
+		<text>아르템</text>
+	</string>
+
+	<string id="name_stalker_90">
+		<text>페도르</text>
+	</string>
+
+	<string id="name_stalker_91">
+		<text>페디아</text>
+	</string>
+
+	<string id="name_stalker_92">
+		<text>페드카</text>
+	</string>
+
+	<string id="name_stalker_93">
+		<text>필리아</text>
+	</string>
+
+	<string id="name_stalker_94">
+		<text>필카</text>
+	</string>
+
+	<string id="name_stalker_95">
+		<text>예디크</text>
+	</string>
+
+	<string id="name_stalker_96">
+		<text>유르카</text>
+	</string>
+
+	<string id="name_stalker_97">
+		<text>유릭</text>
+	</string>
+
+	<string id="name_stalker_98">
+		<text>유르코</text>
+	</string>
+
+	<string id="name_stalker_99">
+		<text>야샤</text>
+	</string>
+
+	<string id="name_private_1">
+		<text>상사</text>
+	</string>
+
+	<string id="name_sergeant_0">
+		<text>병장</text>
+	</string>
+
+</string_table>

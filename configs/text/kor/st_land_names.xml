@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_zat_b55_name">
+		<text>클로 이상 현상</text>
+	</string>
+
+	<string id="st_zat_b100_name">
+		<text>철의 숲 이상 현상</text>
+	</string>
+
+	<string id="st_zat_b104_name">
+		<text>제재소</text>
+	</string>
+
+	<string id="st_zat_b38_name">
+		<text>크뤼그 안테나 단지</text>
+	</string>
+
+	<string id="st_zat_b40_name">
+		<text>폐기물 처리장</text>
+	</string>
+
+	<string id="st_zat_b56_name">
+		<text>서커스 이상 현상</text>
+	</string>
+
+	<string id="st_zat_b5_name">
+		<text>산림 관리소</text>
+	</string>
+
+	<string id="st_zat_a2_name">
+		<text>스카도프스크</text>
+	</string>
+
+	<string id="st_zat_b20_name">
+		<text>불탄 농장</text>
+	</string>
+
+	<string id="st_zat_b53_name">
+		<text>보일러 이상 현상</text>
+	</string>
+
+	<string id="st_zat_b101_name">
+		<text>늪지</text>
+	</string>
+
+	<string id="st_zat_b106_name">
+		<text>이즘루드노이예</text>
+	</string>
+
+	<string id="st_zat_b7_name">
+		<text>셰브첸코</text>
+	</string>
+
+	<string id="st_zat_b14_name">
+		<text>하천 정비소</text>
+	</string>
+
+	<string id="st_zat_b52_name">
+		<text>부둣가 크레인</text>
+	</string>
+
+	<string id="st_zat_b39_name">
+		<text>오크파인 이상 현상</text>
+	</string>
+
+	<string id="st_zat_b33_name">
+		<text>주유소</text>
+	</string>
+
+	<string id="st_zat_b18_name">
+		<text>오래된 배</text>
+	</string>
+
+	<string id="st_zat_b54_name">
+		<text>스카 이상 현상</text>
+	</string>
+
+	<string id="st_zat_b12_name">
+		<text>프레오브라젠스키 다리</text>
+	</string>
+
+	<string id="st_zat_b28_name">
+		<text>남쪽 고원</text>
+	</string>
+
+	<string id="st_zat_b103_name">
+		<text>변전소 작업장</text>
+	</string>
+
+	<string id="st_jup_b1_name">
+		<text>잿더미 이상 현상</text>
+	</string>
+
+	<string id="st_jup_b46_name">
+		<text>냉각탑</text>
+	</string>
+
+	<string id="st_jup_b202_name">
+		<text>변전소</text>
+	</string>
+
+	<string id="st_jup_b211_name">
+		<text>갈대밭 이상 현상</text>
+	</string>
+
+	<string id="st_jup_b200_name">
+		<text>시멘트 공장</text>
+	</string>
+
+	<string id="st_jup_b19_name">
+		<text>코파치</text>
+	</string>
+
+	<string id="st_jup_a6_name">
+		<text>야노우</text>
+	</string>
+
+	<string id="st_jup_b25_name">
+		<text>채석장</text>
+	</string>
+
+	<string id="st_jup_b6_name">
+		<text>과학자 방공호</text>
+	</string>
+
+	<string id="st_jup_b205_name">
+		<text>볼코프 대공 방어시설</text>
+	</string>
+
+	<string id="st_jup_b206_name">
+		<text>이상 현상 숲</text>
+	</string>
+
+	<string id="st_jup_b32_name">
+		<text>주차장</text>
+	</string>
+
+	<string id="st_jup_a10_name">
+		<text>검문소</text>
+	</string>
+
+	<string id="st_jup_b209_name">
+		<text>아스팔트 이상 현상</text>
+	</string>
+
+	<string id="st_jup_b208_name">
+		<text>동쪽 터널</text>
+	</string>
+
+	<string id="st_jup_a12_name">
+		<text>컨테이너 창고</text>
+	</string>
+
+	<string id="st_jup_b212_name">
+		<text>환기 시설</text>
+	</string>
+
+	<string id="st_jup_b9_name">
+		<text>헬리콥터 착륙장</text>
+	</string>
+
+	<string id="st_jup_b201_name">
+		<text>콘크리트 수조 이상 현상</text>
+	</string>
+
+	<string id="st_jup_a9_name">
+		<text>주피터 공장</text>
+	</string>
+
+	<string id="st_pri_a28_name">
+		<text>프로메테우스 영화관</text>
+	</string>
+
+	<string id="st_pri_b36_name">
+		<text>내항</text>
+	</string>
+
+	<string id="st_pri_b303_name">
+		<text>오래된 서비스 센터</text>
+	</string>
+
+	<string id="st_pri_b301_name">
+		<text>학교</text>
+	</string>
+
+	<string id="st_pri_a17_name">
+		<text>병원</text>
+	</string>
+
+	<string id="st_pri_b306_name">
+		<text>유빌레이니 서비스 센터</text>
+	</string>
+
+	<string id="st_pri_a16_name">
+		<text>빨래방</text>
+	</string>
+
+	<string id="st_pri_a25_name">
+		<text>유치원</text>
+	</string>
+
+	<string id="st_pri_b35_name">
+		<text>아파트 단지</text>
+	</string>
+
+	<string id="st_pri_a21_name">
+		<text>식료품점</text>
+	</string>
+
+	<string id="st_pri_b304_name">
+		<text>백화점</text>
+	</string>
+
+	<string id="st_pri_a18_name">
+		<text>서점</text>
+	</string>
+
+	<string id="st_pri_b307_name">
+		<text>화산 이상 현상</text>
+	</string>
+
+	<string id="st_pri_b302_name">
+		<text>덩굴 이상 현상</text>
+	</string>
+
+</string_table>

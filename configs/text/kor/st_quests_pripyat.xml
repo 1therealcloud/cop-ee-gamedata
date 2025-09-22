@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="pri_a17_get_gauss_rifle_documentation_name">
+		<text>아이템 62: 테스트 작업장에서 문서를 찾아라.</text>
+	</string>
+
+	<string id="pri_a17_get_gauss_rifle_documentation_text">
+		<text>아이템 62에 관한 문서를 찾아야 하네. 문서를 확보하면 그 무기 때문에 헬리콥터가 추락했는지 여부를 알 수 있을 거야.</text>
+	</string>
+
+	<string id="pri_a17_get_in_cover_name">
+		<text>정체불명의 무기: 건물 안에 숨어라.</text>
+	</string>
+
+	<string id="pri_a17_get_in_cover_text">
+		<text>건물 안에 숨어서 모노리스 공격을 막아내야 한다.</text>
+	</string>
+
+	<string id="pri_a17_get_info_name">
+		<text>정체불명의 무기: 정보를 수집하라.</text>
+	</string>
+
+	<string id="pri_a17_get_info_text">
+		<text>이 무기는 작동불능 상태이며 어떤 원리로 작동하는지도 불명확하다. 이걸 다룰 줄 아는 기술자를 찾아야 한다.</text>
+	</string>
+
+	<string id="pri_a17_kill_preacher_name">
+		<text>정체불명의 무기: 모노리스 분대장을 처치하라.</text>
+	</string>
+
+	<string id="pri_a17_kill_preacher_text">
+		<text>정체불명의 무기를 사용하고 있는 모노리스 분대장을 처치해야 한다.</text>
+	</string>
+
+	<string id="pri_a17_maraud_name">
+		<text>정체불명의 무기: 모노리스 대원의 시신을 수색하라.</text>
+	</string>
+
+	<string id="pri_a17_maraud_text">
+		<text>모노리스 대원들이 정체불명의 무기를 소지하고 있을 테니 찾아야 한다.</text>
+	</string>
+
+	<string id="pri_a17_stalker_tech_produce_62_get_info_name">
+		<text>정체불명의 무기: 카르단과 대화하라.</text>
+	</string>
+
+	<string id="pri_a17_stalker_tech_produce_62_get_info_text">
+		<text>이제 카르단도 숙취에서 깨어났을 듯하다. 카르단한테 가서 정체불명의 무기에 관해 물어보자.</text>
+	</string>
+
+	<string id="pri_a17_stalker_tech_produce_62_show_name">
+		<text>정체불명의 무기: 카르단이 정신 차릴 때까지 대기하라.</text>
+	</string>
+
+	<string id="pri_a17_stalker_tech_produce_62_show_text">
+		<text>카르단이 무기에 대해서 알 듯하다. 카르단이 일어나면 물어보자.</text>
+	</string>
+
+	<string id="pri_a17_talk_with_kovalski_about_gauss_rifle_information_name">
+		<text>가우스 소총: 코발스키한테 무기에 대해 보고하라.</text>
+	</string>
+
+	<string id="pri_a17_talk_with_kovalski_about_gauss_rifle_information_text">
+		<text>아이템 62에 대한 모든 정보를 코발스키한테 보고해야 한다.</text>
+	</string>
+
+	<string id="pri_a17_task_find_gauss_rifle_name">
+		<text>정체불명의 무기: 분대에 합류하라.</text>
+	</string>
+
+	<string id="pri_a17_task_find_gauss_rifle_text">
+		<text>무기를 같이 노획하려면 특수 분대에 합류해야 한다.</text>
+	</string>
+
+	<string id="pri_a17_task_get_gauss_rifle_from_preacher_name">
+		<text>정체불명의 무기: 무기를 습득하라.</text>
+	</string>
+
+	<string id="pri_a17_task_get_gauss_rifle_from_preacher_text">
+		<text>모노리스 분대장의 무기를 습득해야 한다.</text>
+	</string>
+
+	<string id="pri_a17_task_give_gauss_rifle_to_kovalski_name">
+		<text>정체불명의 무기: 무기를 코발스키한테 가져가라.</text>
+	</string>
+
+	<string id="pri_a17_task_give_gauss_rifle_to_kovalski_text">
+		<text>무기를 획득했다. 이제 코발스키한테 이걸 보여주고 이 무기 때문에 헬리콥터가 추락했는지 알아내야 한다.</text>
+	</string>
+
+	<string id="pri_a17_watch_recons_six_name">
+		<text>정체불명의 무기: 모노리스 습격에 참여하라.</text>
+	</string>
+
+	<string id="pri_a17_watch_recons_six_text">
+		<text>군 정찰대가 모노리스 분대를 공격하기 위해 매복을 준비 중이다. 이 작전에 참여해야 한다.</text>
+	</string>
+
+	<string id="pri_a18_get_reinforcement_name">
+		<text>모노리스 세력: 지원군을 만나라.</text>
+	</string>
+
+	<string id="pri_a18_get_reinforcement_text">
+		<text>서점을 장악한 모노리스 분대를 제거하기 위해 코발스키가 지원군을 보냈다.</text>
+	</string>
+
+	<string id="pri_a18_go_post_name">
+		<text>모노리스 세력: 서점에 있는 적을 모두 처치하라.</text>
+	</string>
+
+	<string id="pri_a18_go_post_text">
+		<text>건물 안에 있는 모노리스 세력을 전부 제거해야 한다. 대규모 모노리스 부대는 군 야영지에 위협이 되기 때문이다.</text>
+	</string>
+
+	<string id="pri_a18_use_idol_name">
+		<text>모노리스 세력: 이상한 장치를 조사하라.</text>
+	</string>
+
+	<string id="pri_a18_use_idol_text">
+		<text>건물 안에 이상한 장치가 있었다. 이 장치를 조사하자.</text>
+	</string>
+
+	<string id="pri_a20_check_recon_squad_task_name">
+		<text>사라진 정찰대: 분대를 찾아라.</text>
+	</string>
+
+	<string id="pri_a20_check_recon_squad_task_text">
+		<text>코발스키가 보낸 정찰대가 이상한 교신을 보내고 사라졌다. 무슨 일이 있었는지 알아내려면 이 정찰대를 찾아야 한다.</text>
+	</string>
+
+	<string id="pri_a21_chasovoi_body_search_name">
+		<text>사라진 파수꾼: 파수꾼이 쓰러진 지역을 조사하라.</text>
+	</string>
+
+	<string id="pri_a21_chasovoi_body_search_text">
+		<text>파수꾼이 계속 기괴하게 행동했다. 이렇게 행동한 이유를 조사해 보자.</text>
+	</string>
+
+	<string id="pri_a21_find_chasovoi_name">
+		<text>사라진 파수꾼: 파수꾼을 찾아라.</text>
+	</string>
+
+	<string id="pri_a21_find_chasovoi_text">
+		<text>초소에서 군인 한 명이 사라졌다. 이 군인을 찾고 왜 사라졌는지 알아내자.</text>
+	</string>
+
+	<string id="pri_a21_kill_kontroler_name">
+		<text>사라진 파수꾼: 컨트롤러를 처치하라.</text>
+	</string>
+
+	<string id="pri_a21_kill_kontroler_text">
+		<text>사라진 파수꾼 근처에 컨트롤러가 있었다. 이 컨트롤러를 처치해야 한다.</text>
+	</string>
+
+	<string id="pri_a22_find_dead_squad_name">
+		<text>전파 방해: 사라진 분대를 찾아라.</text>
+	</string>
+
+	<string id="pri_a22_find_dead_squad_text">
+		<text>전파 방해의 원인을 조사하고 있던 분대가 사라졌다. 이 분대를 찾아보자.</text>
+	</string>
+
+	<string id="pri_a22_search_bodys_name">
+		<text>전파 방해: 시신을 조사하라.</text>
+	</string>
+
+	<string id="pri_a22_search_bodys_text">
+		<text>시신을 조사하면 죽은 이유를 알아낼 수도 있다.</text>
+	</string>
+
+	<string id="pri_a22_search_yarmoshuk_body_name">
+		<text>전파 방해: 시신을 조사하라.</text>
+	</string>
+
+	<string id="pri_a22_search_yarmoshuk_body_text">
+		<text>시신을 조사하면 죽은 이유를 알아낼 수도 있다.</text>
+	</string>
+
+	<string id="pri_a25_blow_up_door_name">
+		<text>전파 방해: 문을 폭파하라.</text>
+	</string>
+
+	<string id="pri_a25_blow_up_door_text">
+		<text>건물 안으로 들어가려면 폭발물로 문을 파괴해야 한다.</text>
+	</string>
+
+	<string id="pri_a25_check_freezer_knock_name">
+		<text>전파 방해: 소리를 조사하라.</text>
+	</string>
+
+	<string id="pri_a25_check_freezer_knock_text">
+		<text>냉장고에서 어떤 소리가 들린다. 누가 안에 갇힌 모양이니 조사해 보자.</text>
+	</string>
+
+	<string id="pri_a25_destroy_antenna_name">
+		<text>전파 방해: 전파 방해의 원인을 제거하라.</text>
+	</string>
+
+	<string id="pri_a25_destroy_antenna_text">
+		<text>전파 방해의 원인을 찾아냈으니 파괴해야 한다.</text>
+	</string>
+
+	<string id="pri_a25_find_antenna_name">
+		<text>전파 방해: 전파 방해의 원인을 찾아라.</text>
+	</string>
+
+	<string id="pri_a25_find_antenna_text">
+		<text>건물 안에 전파를 방해하는 원인이 있으니 찾아야 한다.</text>
+	</string>
+
+	<string id="pri_a25_find_explosive_name">
+		<text>전파 방해: 폭발물을 찾아라.</text>
+	</string>
+
+	<string id="pri_a25_find_explosive_text">
+		<text>전파 방해의 원인을 찾던 분대가 폭발물을 가지고 있었다. 폭발물을 찾아서 활용하면 건물 안으로 들어갈 수 있다.</text>
+	</string>
+
+	<string id="pri_a25_remove_source_of_hindrances_name">
+		<text>전파 방해: 유치원 건물로 진입하라.</text>
+	</string>
+
+	<string id="pri_a25_remove_source_of_hindrances_text">
+		<text>신호 발신지가 유치원 건물 안에 있는 듯하다. 이 건물 안으로 들어가자.</text>
+	</string>
+
+	<string id="pri_a28_cover_militarys_name">
+		<text>대피: 군대를 보호하라.</text>
+	</string>
+
+	<string id="pri_a28_cover_militarys_text">
+		<text>스트렐록이 쓰러졌지만 군대가 헬리콥터까지 갈 수 있도록 보호해야 한다.</text>
+	</string>
+
+	<string id="pri_a28_cover_strelok_name">
+		<text>대피: 스트렐록을 보호하라.</text>
+	</string>
+
+	<string id="pri_a28_cover_strelok_text">
+		<text>본부에서 스트렐록이 아는 정보를 궁금해하고 있다. 스트렐록을 헬리콥터에 꼭 태워야 한다.</text>
+	</string>
+
+	<string id="pri_a28_go_hellis_name">
+		<text>대피: 헬리콥터에 탑승하라.</text>
+	</string>
+
+	<string id="pri_a28_go_hellis_text">
+		<text>모두가 쓰러졌으니, 혼자라도 헬리콥터에 탑승해야 한다.</text>
+	</string>
+
+	<string id="pri_a28_talk_with_kovalski_name">
+		<text>대피: 코발스키와 대화하라.</text>
+	</string>
+
+	<string id="pri_a28_talk_with_kovalski_text">
+		<text>대피가 시작되기 전에 코발스키와 대화해야 한다.</text>
+	</string>
+
+	<string id="pri_a28_tell_kovalski_when_ready_name">
+		<text>대피: 준비됐다고 코발스키에게 보고하라.</text>
+	</string>
+
+	<string id="pri_a28_tell_kovalski_when_ready_text">
+		<text>대피를 시작할 준비가 됐다고 코발스키에게 보고해야 한다.</text>
+	</string>
+
+	<string id="pri_a28_wait_surge_end_name">
+		<text>대피: 에미션이 끝날 때까지 대기하라.</text>
+	</string>
+
+	<string id="pri_a28_wait_surge_end_text">
+		<text>에미션이 끝날 때까지 대기해야 한다.</text>
+	</string>
+
+	<string id="pri_b305_check_unknown_signal_1_name">
+		<text>미확인: 신호 발신지를 조사하라.</text>
+	</string>
+
+	<string id="pri_b305_check_unknown_signal_1_text">
+		<text>키릴로프가 기지 근처에서 이상한 신호를 감지했다. 이 신호의 발신지를 조사해야 한다.</text>
+	</string>
+
+	<string id="pri_b305_check_unknown_signal_2_name">
+		<text>미확인: 신호를 추적하라.</text>
+	</string>
+
+	<string id="pri_b305_check_unknown_signal_2_text">
+		<text>신호 좌표를 다시 확인할 수 있게 됐다. 좌표까지 가보자.</text>
+	</string>
+
+	<string id="pri_b305_check_unknown_signal_3_name">
+		<text>미확인: 가장 최근에 신호가 잡힌 곳을 조사하라.</text>
+	</string>
+
+	<string id="pri_b305_check_unknown_signal_3_text">
+		<text>가장 최근에 신호가 잡힌 곳은 건물 마당이었다. 해당 장소를 조사하자.</text>
+	</string>
+
+	<string id="pri_b305_check_unknown_signal_4_name">
+		<text>미확인: 기지 공격에 대비하라.</text>
+	</string>
+
+	<string id="pri_b305_check_unknown_signal_4_text">
+		<text>군대 기지로 돌아가 공격에 대비해야 한다.</text>
+	</string>
+
+	<string id="pri_b305_kovalskiy_talk_name">
+		<text>전파 방해: 코발스키와 대화하라.</text>
+	</string>
+
+	<string id="pri_b305_kovalskiy_talk_text">
+		<text>코발스키 대령님이 만나고 싶어 하던데.</text>
+	</string>
+
+	<string id="pri_b306_task_1_name">
+		<text>X8 연구소: 엘리베이터 통로로 진입하라.</text>
+	</string>
+
+	<string id="pri_b306_task_1_text">
+		<text>지하 연구소 입구는 유빌레이니 서비스 센터 밑에 있다. 연구소에 들어가려면 엘리베이터 통로로 진입할 수밖에 없다.</text>
+	</string>
+
+	<string id="pri_b306_task_2_name">
+		<text>X8 연구소: 발전기를 찾아라.</text>
+	</string>
+
+	<string id="pri_b306_task_2_text">
+		<text>엘리베이터 통로 문의 전력이 끊어진 상태다. 이 문을 열려면 비상 발전기를 찾아서 작동시켜야 한다.</text>
+	</string>
+
+	<string id="pri_b306_task_3_name">
+		<text>X8 연구소: 연구소 지하로 내려가라.</text>
+	</string>
+
+	<string id="pri_b306_task_3_text">
+		<text>X8 연구소로 가려면 엘리베이터를 타야 한다. 이 엘리베이터는 유빌레이니 서비스 센터 밑에 있다.</text>
+	</string>
+
+	<string id="pri_b35_task_envoy_name">
+		<text>일타일피: 메신저를 제거하라.</text>
+	</string>
+
+	<string id="pri_b35_task_envoy_text">
+		<text>메신저를 꼭 제거해야 한다. 이 사람을 처치하면 용병이 연구소 위치를 알아낼 수 없기 때문이다.</text>
+	</string>
+
+	<string id="pri_b35_task_envoy_wait_name">
+		<text>일타일피: 의뢰자 측이 올 때까지 대기하라.</text>
+	</string>
+
+	<string id="pri_b35_task_envoy_wait_text">
+		<text>의뢰자 측이 올 때까지 대기하다가 의뢰자 대표를 제거해야 한다. 이 사람을 처치하면 용병이 연구소 위치를 알아낼 수 없기 때문이다.</text>
+	</string>
+
+	<string id="pri_b35_task_merc_name">
+		<text>일타일피: 용병 분대장을 제거하라.</text>
+	</string>
+
+	<string id="pri_b35_task_merc_text">
+		<text>용병 분대장을 제거해야 한다. 이 사람을 처치하면 용병의 지휘체계가 무너져 더 이상 위협 요소가 아니게 된다.</text>
+	</string>
+
+	<string id="pri_b35_task_merc_wait_name">
+		<text>일타일피: 용병이 올 때까지 대기하라.</text>
+	</string>
+
+	<string id="pri_b35_task_merc_wait_text">
+		<text>용병이 올 때까지 대기하다가 용병 지도자를 제거해야 한다. 이 사람을 처치하면 용병의 지휘체계가 무너져 더 이상 위협 요소가 아니게 된다.</text>
+	</string>
+
+	<string id="pri_b35_task_reward_name">
+		<text>일타일피: 코발스키와 대화하라.</text>
+	</string>
+
+	<string id="pri_b35_task_reward_text">
+		<text>임무 결과를 코발스키에게 보고하라.</text>
+	</string>
+
+	<string id="pri_a18_wait_reinf_name">
+		<text>모노리스 세력: 지원군을 기다려라.</text>
+	</string>
+
+	<string id="pri_a18_wait_reinf_text">
+		<text>서점에 있는 모노리스 세력을 제거하기 위해 코발스키가 보낸 지원군을 기다려야 한다.</text>
+	</string>
+
+	<string id="pri_a22_talk_with_kovalski_name">
+		<text>은밀한 대화: 코발스키와 대화하라.</text>
+	</string>
+
+	<string id="pri_a22_talk_with_kovalski_text">
+		<text>코발스키와 대화해야 한다. 중요한 얘기를 할 모양이다.</text>
+	</string>
+
+	<string id="pri_a28_defend_helis_name">
+		<text>대피: 헬리콥터 주위에서 방어하라.</text>
+	</string>
+
+	<string id="pri_a28_defend_helis_text">
+		<text>헬리콥터가 이륙할 때까지 적으로부터 헬리콥터를 보호해야 한다.</text>
+	</string>
+
+	<string id="pri_a28_save_medic_name">
+		<text>대피: 의무병을 살려라.</text>
+	</string>
+
+	<string id="pri_a28_save_medic_text">
+		<text>의무병이 정체불명의 세력에게 또 당했다. 최대한 빨리 살려야 한다.</text>
+	</string>
+
+	<string id="pri_a28_return_to_helis_name">
+		<text>대피: 헬리콥터로 돌아가라.</text>
+	</string>
+
+	<string id="pri_a28_return_to_helis_text">
+		<text>헬리콥터가 바로 이륙할 수 있으니, 헬리콥터로 돌아가야 한다.</text>
+	</string>
+
+	<string id="pri_a28_helis_gonna_fly_name">
+		<text>대피: 빨리 헬리콥터로 돌아가라.</text>
+	</string>
+
+	<string id="pri_a28_helis_gonna_fly_text">
+		<text>헬리콥터가 이륙할 준비가 됐다. 파일럿이 오래 기다릴 순 없으니 얼른 탑승해야 한다.</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,225 @@
+class "terms_of_use_dialog" (CUIScriptWnd)
+
+local MARGIN = 15
+
+function terms_of_use_dialog:__init() super()
+	self.mm_is_controller = main_menu.in_controller_mode()
+    self:InitControls()
+    self:InitCallBacks()
+
+	if self.mm_is_controller then
+	 action_repeaters():Register(self, key_bindings.kUI_UP, 0, 0)
+	 action_repeaters():Register(self, key_bindings.kUI_DOWN, 0, 0)
+	end
+end
+
+function terms_of_use_dialog:__finalize()
+	if self.mm_is_controller then
+	action_repeaters():UnregisterOwner(self)
+	end
+end
+
+function get_text_height(obj)
+	textObj = obj:TextControl()
+	textObj:SetWndSize( obj:GetWidth() ,obj:GetHeight())
+	local h = textObj:GetVisibleHeight()
+	return h
+end
+
+function terms_of_use_dialog:InitTermsDialog(xml)
+	self.dialog	= xml:InitStatic("main_dialog:dialog", self)
+	self.frame = xml:InitFrame("main_dialog:dialog:frame", self.dialog)
+
+	local title = xml:InitStatic("main_dialog:dialog:cap_title", self.dialog)
+
+	local w = self.dialog:GetWidth()
+	local h = self.dialog:GetHeight()
+	self.dialog:SetWndPos(vector2():set((1024 - w) /2, (768 - h) /2))
+
+	--xml:InitStatic("main_dialog:dialog:sep_line", self.dialog)
+
+	self.scroll	= xml:InitScrollView("main_dialog:dialog:scroll_v", self.dialog	)
+
+	self.textElem = xml:InitStatic("main_dialog:dialog:text_template", self.scroll)
+	
+	local text = get_mods_terms_text()
+	if text == nil or text == "" then		
+		text = "Sorry couldn't connect to internet"
+	end 
+
+	--text = "We use mod.io to support user-generated content in-game. By selecting \"I Agree\" you agree to the mod.io Terms of Use and a mod.io account will be created for you (using your online ID and avatar). Please see the mod.io Privacy Policy on how mod.io processes your personal data."
+	self.textElem:TextControl():SetText(text)
+	w = self.textElem:GetWidth()
+	self.textElem:SetWndSize(vector2():set(w,get_text_height(self.textElem)))
+
+	self.scroll:ForceUpdate()
+
+
+	if not self.mm_is_controller then
+		self.btnAccept = xml:Init3tButton("main_dialog:dialog:btn_accept_pc", self.dialog)
+		self.btnDecline = xml:Init3tButton("main_dialog:dialog:btn_decline_pc", self.dialog)
+	else
+		self.btnAccept = xml:Init3tButton("main_dialog:dialog:btn_accept", self.dialog)
+		self.btnDecline = xml:Init3tButton("main_dialog:dialog:btn_decline", self.dialog)
+	end
+	self:Register(self.btnAccept, "btn_accept")
+	self:Register(self.btnDecline, "btn_decline")
+
+	self.btnAccept:TextControl():SetText(get_mods_terms_accept())
+	self.btnDecline:TextControl():SetText(get_mods_terms_cancel())
+	self.btnAccept:UpdateButtonIcon()
+	self.btnDecline:UpdateButtonIcon()
+
+	local Ycenter = (self.btnAccept:GetHeight() - self.btnAccept:TextControl():GetVisibleHeight()) / 2
+	local Xcenter = self.btnAccept:TextControl():GetWndPos().x
+	self.btnAccept:TextControl():SetWndPos(Xcenter, Ycenter)
+	
+	Ycenter = (self.btnDecline:GetHeight() - self.btnDecline:TextControl():GetVisibleHeight()) / 2
+	Xcenter = self.btnDecline:TextControl():GetWndPos().x
+	self.btnDecline:TextControl():SetWndPos(Xcenter, Ycenter)
+
+	self:InitLinks(xml)
+end
+
+function split(strIn, sep)
+	local t = {}
+	for str in string.gmatch(strIn, "([^"..sep.."]+)") do
+		if str ~= "" then
+			table.insert(t, str)
+		end
+	end
+	return t
+end
+
+function  terms_of_use_dialog:addLinkBtn(xml, name, l, posY)
+	local p = split(l,"{}")
+	local btn = xml:Init3tButton("main_dialog:dialog:"..name, self.dialog)
+	if not self.mm_is_controller then
+		self:Register(btn, name)
+		self:AddCallback(name,	ui_events.BUTTON_CLICKED,	function ()  openbrowserwithurl(p[2]) end, self)
+	end 
+	table.insert(self.links, p[2])
+	btn:TextControl():SetText(p[1])
+	btn:UpdateButtonIcon()
+	btn:SetWndPos(vector2():set(btn:GetWndPos().x,posY))
+	
+	local Ycenter = (btn:GetHeight() - btn:TextControl():GetVisibleHeight()) / 2
+	local Xcenter = btn:TextControl():GetWndPos().x
+	btn:TextControl():SetWndPos(Xcenter, Ycenter)
+end
+
+function terms_of_use_dialog:InitLinks(xml)
+	local links = get_mods_terms_links()
+	self.links = {}
+	local l = split(links, "@#")
+
+	local posY = self.textElem:GetWndPos().y + 160 + MARGIN
+	
+	self:addLinkBtn(xml,"btn_manage_account",l[1], posY)
+	self:addLinkBtn(xml,"btn_privacy_policy",l[2], posY)
+	posY = posY + MARGIN + 44 --  plus 44 = button height
+	self:addLinkBtn(xml,"btn_terms_of_use",	l[3], posY)
+	self:addLinkBtn(xml,"btn_mod_io",		l[4], posY)
+
+end
+
+function terms_of_use_dialog:InitControls()
+
+	self:SetWndRect				(Frect():set(0,0,1024,768))
+	self:Enable					(true)
+	self:SetWindowName			("terms of use wnd")
+	local xml					= CScriptXmlInit()
+	xml:ParseFile				("ui_terms_of_use.xml")
+
+	self.xml = xml
+
+	if self.mm_is_controller then
+		self.sndSwitch	= sound_object("interface\\console\\menu_switch")
+		self.sndSelect	= sound_object("interface\\console\\menu_select")
+		self.sndDecline	= sound_object("interface\\console\\menu_decline")
+	end
+
+	self.bg = xml:InitStatic("main_dialog:background", self)
+	self:InitTermsDialog(xml)
+
+end
+
+function terms_of_use_dialog:InitCallBacks()
+	self:AddCallback("btn_accept",			ui_events.BUTTON_CLICKED,	self.OnBtnAccept,			self)
+	self:AddCallback("btn_decline",			ui_events.BUTTON_CLICKED,	self.OnBtnDecline,			self)
+end
+
+
+function terms_of_use_dialog:OnBtnAccept()
+
+	if self.mm_is_controller then
+		self.sndDecline:play(nil, 0.0, sound_object.s2d)
+	end
+	self.owner.shniaga:SetVisibleMagnifier(true)
+	self:HideDialog()
+
+	local console = get_console()
+	console:execute("ModIO_Terms_Accept 1")
+	console:execute("cfg_save")
+
+end
+
+function terms_of_use_dialog:OnBtnDecline()
+
+	if self.mm_is_controller then
+		self.sndDecline:play(nil, 0.0, sound_object.s2d)
+	end
+	self.owner.shniaga:SetVisibleMagnifier(true)
+	self:HideDialog()
+
+end
+
+
+function terms_of_use_dialog:OnKeyboard(dik, keyboard_action)
+	if keyboard_action == ui_events.WINDOW_KEY_PRESSED then
+		if self.mm_is_controller then
+			if is_binded(key_bindings.kUI_ACCEPT, dik) then
+					self:OnBtnAccept()
+				return true
+			elseif is_binded(key_bindings.kUI_BACK, dik)  then
+				self:OnBtnDecline()
+				return true
+			elseif dik == DIK_keys.CONTROLLER_DPAD_LEFT then
+				if #self.links > 3 then
+					openbrowserwithurl(self.links[1])
+				end
+				return true
+			elseif dik == DIK_keys.CONTROLLER_DPAD_UP then
+				if #self.links > 3 then
+					openbrowserwithurl(self.links[2])
+				end
+				return true
+			elseif dik == DIK_keys.CONTROLLER_DPAD_RIGHT then
+				if #self.links > 3 then
+					openbrowserwithurl(self.links[3])
+				end
+				return true
+			elseif dik == DIK_keys.CONTROLLER_DPAD_DOWN  then
+				if #self.links > 3 then
+					print(tostring(self.links[4]))
+					openbrowserwithurl(self.links[4])
+				end
+				return true
+			end
+		else
+			return true
+		end
+	end
+
+	return CUIScriptWnd.OnKeyboard(self,dik,keyboard_action)
+end
+
+function terms_of_use_dialog:OnKeyboardHold(dik)
+
+	return false
+end
+
+-- function terms_of_use_dialog:Update()
+	-- CUIScriptWnd.Update(self)
+
+-- end

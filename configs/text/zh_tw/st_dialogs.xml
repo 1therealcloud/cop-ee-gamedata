@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="about_quests_dialog_bandit_0">
+		<text>聽著，我有個問題問你……</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_1">
+		<text>你說吧。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_10">
+		<text>你怎麼看待小機靈？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_101">
+		<text>小機靈？我想總有一天我們會找個偏僻的地方，悄悄幹掉那個狡猾的蠢貨！</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_11">
+		<text>你知道關於綠洲的事嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_111">
+		<text>嗯，我聽過一個有趣的故事。大致是說，垃圾場的小子們造謠說知道綠洲在哪裡，還說得有模有樣的。然後，他們就去了那個地方等待。好吧，我能說什麼呢？太多輕信的笨蛋就去那邊給人「送」物資了，多到那些始作俑者不久後就離開了特異區——為什麼不呢？以後有好日子過了。只有一個人留了下來，這個人就是約加……</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_112">
+		<text>傳言是，如果你去了那裡，一切問題都能得到解決……聽上去挺有用的，想想看，沒有宿醉、沒有痔瘡的感覺一定很棒！找到它，建一個度假區，就能賺大錢啦。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_113">
+		<text>我為什麼要去聽這種鬼扯？說到底，這就是給蠢貨的屁話……正人君子誰會相信。知道嗎，你拿著冰啤酒坐在這間酒吧時，潛行者們正在四處奔波，為了綠洲的位址爭論不休。那些白癡中的隨便一個人都發誓說他知道綠洲在哪，只是不知為何，每一個人說的地點都不一樣……</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_12">
+		<text>你遇到過一個叫「喜鵲」的潛行者嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_121">
+		<text>當然了……第一眼看他我就知道這是一個十足的蠢貨，然後我又聽潛行者說他是個徹頭徹尾的人渣。不過我不知道他現在在哪……如果你在找他，你得靠你自己了。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_122">
+		<text>沒……這是我第一次聽說這個名字，老兄。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_13">
+		<text>你知道誰會偷走私人儲物箱裡的東西？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_131">
+		<text>輻射鼠。我想你最好去問問亞尼夫的首領們，他們就是以滅鼠出名的。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_14">
+		<text>這裡誰能幫我破譯一些東西？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_141">
+		<text>嗯，我聽說亞尼夫的奈喬擅長這個。據說，在他還沒為紀律團工作時，那些人就好幾次讓他破譯潛行者的PDA了……啊，往事如煙啊……</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_143">
+		<text>我對科學這種事不精通，長官，你得找一個駭客。當我還在監獄混的時候倒是遇到過一個，不過我也只認識這一個。我從裡面出來時他還有差不多五年要呆呢……</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_15">
+		<text>我有紀律團貿易商人的PDA。你知不知道誰會對它感興趣？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_151">
+		<text>在斯卡多夫斯克有一個叫「貓頭鷹」的貿易商人，他的報價優渥，所以時常會有人把潛行者的PDA賣給他。而且他不會問東問西的，這對雙方都好。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_152">
+		<text>幾乎所有人，兄弟。想想吧：紀律團想要活埋那個渾蛋，其他派閥想要挑事，而扎通的「貓頭鷹」則會讓這台PDA巧妙消失。只不過，之後這PDA會在哪裡出現，也只有他知道……你自己決定吧。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_16">
+		<text>這附近哪裡有工具？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_165">
+		<text>如果你要的是外科手術工具，就去醫院和急救站。如果你在找建造工具，那就去木星工廠的採石場看看。如果你說的是小型工具，那就在舊工作室裡找找。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_166">
+		<text>我他媽怎麼會知道？順便告訴你，我不需要工具就能讓潛行者乖乖給錢……別緊張，我開玩笑的。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_17">
+		<text>誰能解鎖記憶體模組？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_171">
+		<text>好問題！我的意思是我就是專業的，明白嗎？哈！你是蠢還是怎樣，老兄？要麼技術人員，要麼科學家……你不會真的以為我能對付那種東西吧？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_172">
+		<text>老實跟你講：上一次我解鎖記憶體模組是在上學的時候，而且還是一張該死的軟碟。去找專家，讓他們給你動腦子吧。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_18">
+		<text>誰有本事闖進一個鋼造貨櫃中？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_181">
+		<text>知道斯卡多夫斯克的卡丹嗎？某天他喝醉了，然後帶著一根鐵撬到處追這個混蛋。我覺得卡丹可以用那根鐵撬做些更有用的事，比如把什麼撬開，如果你需要的話。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_182">
+		<text>這麼說吧，只要有合適的工具，我也可以做。不過如果有它們，誰還會帶裝備來特異區？問問技術人員吧，朋友，他們很擅長幹那種事。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_19">
+		<text>我在找一個叫斯奈格的潛行者，你知道他在哪裡嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_191">
+		<text>天知道！去問斯卡多夫斯克的蘇丹。頭目通常都對所有傻子的動向一清二楚。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_193">
+		<text>啊，我聽說過那個笨蛋。他一般在扎通附近閒逛，所以你在這兒是找不到他的。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_2">
+		<text>你知道關於墜毀直升機的事嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_20">
+		<text>誰有可能對紀律團創始人的情報感興趣？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_201">
+		<text>我不知道有誰會不感興趣的！那可是爆炸性消息啊，老兄，所以最佳選擇是把它賣給斯卡多夫斯克的貓頭鷹——這樣一來，你既能拿到錢，又不會給自己樹敵。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_22">
+		<text>不知道。你想想，我被紀律團和自由團左右夾擊，背後還要提防潛行者，前有狼後有虎的，我還有心情往天上看？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_23">
+		<text>嗯，他們說看到有一架被吊在鋼鐵密林裡的電纜上擺來擺去的，不過那裡能看到的東西多了……你肯定會遇到特異點，或者被吵鬧鬼砸碎了腦袋。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_24">
+		<text>嗯，有人看見它墜毀在了高原上，問題是那裡根本沒路上去……他們說它飛得很怪，感覺像是飛機師嗑了藥之類的。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_26">
+		<text>我聽見有一架直升機衝下來了，掉進了沼澤池裡。它很快就擱淺了，而且那裡的水質也不利於健康，有毒物、化學製劑和屎什麼的都有。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_3">
+		<text>你在附近有看到軍隊嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_30">
+		<text>誰有可能對扎通和木星工廠之間區域的地圖感興趣？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_301">
+		<text>我覺得飛機師會。他是那些地區最重要的嚮導。如果他有地圖的話，就可以不用像現在這樣靠星星辨別方位了……</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_31">
+		<text>一些兄弟說有一支軍隊從高原南面直奔僱傭兵營地。他們預感到有壞事要發生，所以趕緊離開了。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_32">
+		<text>我聽說，一些軍方蟑螂們試圖從他們墜毀在沼澤地的直升機上逃出來。想象一下：五個身穿制服的士兵小子在沼澤地裡跳來跳去，努力不弄濕自己的模樣…… </text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_33">
+		<text>有個人告訴我，當他聽到槍聲和別的鬼動靜時，他正尾隨一名潛行者，想拿走一些戰利品。結果軍隊和僱傭兵開戰了。他躲了起來，等著雙方停火，不過到那時潛行者也已經走遠了。很倒楣吧？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_34">
+		<text>嗯，有個兄弟跟我說他目睹了滑稽的一幕。想象一艘駁船，最上面有個磨坊，然後挪亞在旁邊巴拉巴拉說個不停，都是激情演說之類的鬼扯，還有十個士兵小子拼盡全力想要遠離挪亞的狗。好吧，當時我兄弟笑得很開心，那個馬戲團還在自娛自樂呢。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_35">
+		<text>沒有。這個地方很危險，到處都是荷槍實彈的傢伙……我沒空去分辨哪些是軍人，哪些是紀律團的人在執行任務。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_4">
+		<text>你知道怎麼去普里皮亞季嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_40">
+		<text>我可以僱誰去保護科學家？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_403">
+		<text>哈，我和我的兄弟們可以做！我們將帶給他們前所未有的安全感！那裡的潛行者和變異體保證會怕得一步都不敢亂動！真的！報酬按周支付，我們就聽你的。還有別忘了聖誕節福利！</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_41">
+		<text>走著去，兄弟。一直走，走到木星工廠，然後再在那裡問路。科學事實表明，從扎通去普里皮亞季沒有直通的路。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_43">
+		<text>嘿老兄，我看上去像是個嚮導還是怎樣？我是說，我的額頭上是不是有刺青寫著「來問我蠢問題」之類的？去問飛機師，他的工作就是回答這種狗屁問題。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_44">
+		<text>不……我去那裡究竟能做什麼？想敲潛行者一筆都找不到人！</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_5">
+		<text>有沒有那種不怎麼束手束腳、願意找路前往普里皮亞季的人選推薦？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_51">
+		<text>普里皮亞季不適合我們這樣的人。想想吧，那裡到處都是變異體和特異點……和特異區其他地方一樣……只不過沒有潛行者和他們的戰利品。當潛行者在普里皮亞季出現時，告訴我們一聲，我們會去那裡整頓秩序的。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_57">
+		<text>不知道，老兄，抱歉。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_6">
+		<text>我找到了一把不尋常的槍。你知不知道有誰可能會懂這個？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_62">
+		<text>是我的話我就會去問技術人員。這是他們的本職工作，不是嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_63">
+		<text>我不清楚，不過斯卡多夫斯克的潛行者們覺得卡丹是一個技術天才。你要是想的話就去找他吧……要我說，他就是個老酒鬼……</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_7">
+		<text>我可以僱誰去為科學家做些測量工作？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_73">
+		<text>很簡單：我的手下。我想說，他們確實沒上過學，不過你讓他們量誰他們就量誰，而且絕對量得分毫不差。你告訴他們尺寸後，只需要挖好一個墳墓，一切就都搞定了！</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_8">
+		<text>我找到了一個很奇怪的神器。你知道有誰會願意買嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_81">
+		<text>一件奇怪的神器？看一下……拿給我，讓我好好看看……哈，別緊張，跟你開玩笑呢。不過如果我是你，我就會把那東西藏好。其他人可能就沒那麼好的幽默感了。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_83">
+		<text>你還挺有種的，敢就這麼把那個神器到處秀。了不起。告訴你吧：大鬍子在找這種鬼東西，他在斯卡多夫斯克。我們都不知道他是怎麼把神器從特異區帶進來的，所以你把神器賣給他應該不成問題。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_9">
+		<text>我在附近發現了一個完整的吸血鬼巢穴。我們該怎麼做？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_91">
+		<text>呃啊啊，還能做什麼？快他媽的逃命啊！</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_98">
+		<text>好吧，那沒事了。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_0">
+		<text>聽著，我有個問題問你……</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_1">
+		<text>問吧。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_10">
+		<text>你怎麼看待小機靈？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_101">
+		<text>小機靈？從沒聽說過。也許他在別的小隊什麼的？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_11">
+		<text>你知道關於綠洲的事嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_111">
+		<text>這是潛行者編的童話。潛行者總喜歡胡編亂造一些有的沒的，然後所有人都一窩蜂去找！如果我是你，我就不理會這種東西。它就像一個謬論入口：現在你信了這個，很快你就會相信許願石的存在。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_112">
+		<text>啊，那個能夠自動治愈創傷和回復能量的地方？朋友，讓我告訴你吧：它不存在。潛行者編造了這樣一個地方，好讓特異區聽上去沒那麼危險。但現實就是如此殘酷，特異區裡沒一個地方是安全的。你最好牢牢把握好現實，老兄——夢想家在特異區裡可活不久。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_113">
+		<text>嗯，那裡的神器價值堪比黃金，你可以邊做足底按摩邊等著它們自己拱手送上門……我當然是在說笑了。我懷疑它是不是真的存在，如果是真的就好了。我們甚至可以在那裡建一所醫院，連藥品都不需要——人們只要進來然後就痊愈了……該死，真像一場白日夢啊。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_12">
+		<text>你遇到過一個叫「喜鵲」的潛行者嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_121">
+		<text>我要記住紀律團的所有成員都很難，你還問我潛行者的事？他們在斯卡多夫斯克有一個基地，去那裡問吧。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_122">
+		<text>沒有。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_13">
+		<text>你知道誰會偷走私人儲物箱裡的東西？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_131">
+		<text>喔不！這永遠不可能在紀律團的基地發生，不過這個地方到處都是自由團的阿飛——是我我就會先查他們。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_14">
+		<text>這裡誰能幫我破譯一些東西？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_141">
+		<text>在亞尼夫站有一個叫奈喬的技術人員。他對電子設備很精通。有次我忘了我PDA的密碼，他才用 5 秒就破解了！</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_143">
+		<text>你應該去亞尼夫——去找奈喬，他很擅長這種事。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_15">
+		<text>我有紀律團貿易商人的PDA。你知不知道誰會對它感興趣？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_151">
+		<text>紀律團的貿易商人？那不可能！話說回來，如果你手上有情報，最好還是交給舒爾加中校，讓他去處理。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_16">
+		<text>這附近哪裡有工具？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_163">
+		<text>附近有一間大工廠。當然，現在可能已經被洗劫一空了。不過如果我是你，我就去工廠倉庫那裡找找。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_165">
+		<text>是我的話我會先去舊工作室裡看看。你也許還能在商店裡找到些什麼。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_166">
+		<text>這附近只有變異體和特異點。哈！我肯定不會去特異點的，但布雷爾和控制者也不會幫到你。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_169">
+		<text>事實上，這地方的橋下面有火車，我以前見過它們，通常用來運送技術人員。所以你也許能在那裡找到一些工具。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_17">
+		<text>誰能解鎖記憶體模組？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_171">
+		<text>奈喬——他是亞尼夫站唯一一個懂這種事的人。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_172">
+		<text>你得去找一個技術人員。這裡唯一一個像樣的技術人員就是奈喬了，他在亞尼夫。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_18">
+		<text>誰有本事闖進一個鋼造貨櫃中？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_181">
+		<text>據說潛行者之中有一名技術人員。他是個酒鬼，但他知道該做什麼。去找他談談。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_182">
+		<text>哈，你是不是還隨身帶保險箱了。我確信奈喬在這種事上幫不了你……如果是電子鎖的話，他可能就有用了……</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_19">
+		<text>我在找一個叫斯奈格的潛行者，你知道他在哪裡嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_191">
+		<text>你最好去問潛行者——他們知道自己人的行蹤。我從沒聽過叫什麼「司諾克」之類的人。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_2">
+		<text>你知道關於墜毀直升機的事嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_20">
+		<text>誰有可能對紀律團創始人的情報感興趣？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_201">
+		<text>毫無疑問，我們的指揮官。把你知道的一切都報告給舒爾加，紀律團一定會向你致以謝意。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_22">
+		<text>嗯，我們的斥候看見一架軍用直升機向木星工廠旁邊的備用停機坪方向下落。他們說，他們一直在發射信號讓直升機改變航向，不過我猜飛機師一定在忙別的事。我不知道那些士兵小子有沒有活著從那片地雷區中走出來。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_23">
+		<text>這裡沒有。我們在這個地方的人手有限……去問問我們在亞尼夫附近的人。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_25">
+		<text>我們的巡邏隊報告說有一架軍用直升機試圖在木星工廠附近緊急迫降。不幸的是，直升機正正撞到了工廠的屋頂。巡邏隊在事故後沒收到任何求救信號，所以很可能無人生還。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_3">
+		<text>你在附近有看到軍隊嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_30">
+		<text>誰有可能對扎通和木星工廠之間區域的地圖感興趣？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_301">
+		<text>用得上它們的人。我說的是飛機師——他是往來亞尼夫和斯卡多夫斯克之間航線的嚮導，所以這些地圖肯定對他有用。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_31">
+		<text>軍隊？我沒見到，不過我們剛來這裡不久。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_35">
+		<text>一名士兵的屍體最近在地雷區被發現了。他很有可能就是那架直升機機上人員之一。除了機組人員，直升機最多能承載 8 人，所以他們一定是逃出去了，儘管沒有人知道他們去了哪裡。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_36">
+		<text>有人看見一名軍方人員在科學家的地堡，而且是不久前才在的。詳情我就不知道了。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_37">
+		<text>有人看見某天一個穿軍隊制服的人進入沃爾霍夫戒酒無名會綜合大樓旁邊的一棟建築物。不過也有可能是將喪屍錯認成了士兵。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_38">
+		<text>潛行者在木星工廠附近發現了一支軍隊。從描述上看是特種部隊，隨行有一個身份不明的潛行者，向普里皮亞季方向行進。聽上去很像真的，不過經驗告訴我像這樣的情報通常都不可信。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_4">
+		<text>你知道怎麼去普里皮亞季嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_40">
+		<text>我可以僱誰去保護科學家？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_401">
+		<text>沒有比紀律團更合適的人選了。去見見亞尼夫的舒爾加中校——我敢肯定你們倆一定合得來。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_402">
+		<text>不知道。不過一旦他們僱用了自由團的人，我們就離那個地方遠遠的。要一整天聽那些白癡們講一些鬼屎笑話，我還不如死了算了。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_42">
+		<text>紀律團目前沒有理由尋路去往普里皮亞季，不過我們正在搜集情報。有待證實的報告說木星工廠底下的隧道通往普里皮亞季。要核實情報真偽，需要有人對那個工廠進行徹徹底底的搜查。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_43">
+		<text>不知道。如果你想得到那種類型的資訊，你得去問一個平民嚮導——我們的斥候已經有夠多事情要忙了。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_44">
+		<text>我們的斥候定期巡查這個區域以找到去往普里皮亞季的安全通路，不過目前仍然一無所獲。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_5">
+		<text>有沒有那種不怎麼束手束腳、願意找路前往普里皮亞季的人選推薦？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_51">
+		<text>紀律團在這個區域的人手有限。去跟我們在亞尼夫的人談。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_52">
+		<text>有傳聞說，科學家在他們的地堡裡藏了一個軍方人員，不過他在裡面的境遇不算好。你想，科學家們要在那裡呆 12 至 18 個月，他不可能獨自步行去到特異區邊緣了。有鑑於此，我敢說他一定會有興趣。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_53">
+		<text>我建議你去那些喜歡冒險的人堆裡找。比如，在亞尼夫站有一個叫瓦諾的潛行者，他從不在乎自己會遇到什麼樣的麻煩事，而且他很有用——那個小子可以閉著眼從特異點脫身。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_54">
+		<text>這樣，你可以在精神病院開辦一個招聘會……話說回來，我知道一個絕佳的備用人選——黑石組的戰士們。說到這個，有一隊他們的人被看到在戒酒無名會大樓附近出現，而且他們似乎知道怎麼去普里皮亞季……嘿兄弟，你可別太當真啊……</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_56">
+		<text>去紀律團找找有意願的人。比如斯特萊德，他最近沒任務，所以我想中校也許會讓他跟你走。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_57">
+		<text>所有人都知道紀律團有最好的戰士……不過我們現在有別的任務要做。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_6">
+		<text>我找到了一把不尋常的槍。你知不知道有誰可能會懂這個？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_62">
+		<text>我懂啊！這可是卡農槍！你是自己做的還是你真的找到了它？我從沒見過這樣的東西……去問技術人員吧。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_7">
+		<text>我可以僱誰去為科學家做些測量工作？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_71">
+		<text>好蠢的問題——當然是紀律團。我們有很多經驗豐富之人，以前也和科學家共事過。去見見舒爾加中校吧，我確信他能派出一支隊伍去做這份工作。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_72">
+		<text>如果地堡被自由團的人看守著，誰還想去那裡工作？那些該死的和平主義者在大多數時候都神智不清，很有可能做出把自己同伴當成敵人射擊這種事。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_8">
+		<text>我找到了一個很奇怪的神器。你知道有誰會願意買嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_81">
+		<text>所有神器都是奇怪的，我不建議你將它隨身攜帶。把它交給專業人士，不要再管了。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_83">
+		<text>你應該把它拿給潛行者看看——他們在這種東西上是專業的。更好的做法是，把它拿給潛行者出售神器的對象看。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_9">
+		<text>我在附近發現了一個完整的吸血鬼巢穴。我們該怎麼做？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_91">
+		<text>紀律團小隊目前尚未在這個地區進行清除行動，因此巢穴之事只能擱置待議。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_98">
+		<text>好吧，那沒事了。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_0">
+		<text>聽著，我有個問題問你……</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_1">
+		<text>說。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_10">
+		<text>你怎麼看待小機靈？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_101">
+		<text>我沒怎麼聽說過他……你最好去問潛行者，他是他們之中的一員，不是嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_11">
+		<text>你知道關於綠洲的事嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_111">
+		<text>很多……我跟你講，那就是一個美好的傳說。沙漠王宮，海市蜃樓，天空之城……香格里拉，伊甸園……這就是綠洲。每一個自由之人都嚮往此地，這也無可厚非。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_112">
+		<text>嗯，我確實從一名潛行者那裡聽過一個有趣的故事。我想他是第一個跟我提起綠洲的人。他告訴我，那地方傳說可以治愈所有的傷病，人們能享受平靜和放鬆，好像根本就不在特異區。從那以後我就沒見過他了……直到他走後，我才想起來他以前是瘸著腳走路的，但他離開的時候卻走得很直，而且看上去年輕了好多。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_113">
+		<text>知道，自由潛行者給了我座標……十組不同的座標。將它們放在一起就劃出了從焦腦器到切爾諾貝爾核電站的一片區域，它的中心位置附近就是亞尼夫酒吧。很有可能我們此時就在綠洲之中，所以盡情享受吧！</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_12">
+		<text>你遇到過一個叫「喜鵲」的潛行者嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_121">
+		<text>沒有。我在這裡跟很多潛行者都不熟。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_122">
+		<text>喜鵲？沒有，不過這個名字很酷。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_13">
+		<text>你知道誰會偷走私人儲物箱裡的東西？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_131">
+		<text>沒有，這裡沒這種人。是有人會趁你不注意偷咬一口你的麵包或是偷喝一口你的飲料之類的，不過絕對沒有小偷……</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_14">
+		<text>這裡誰能幫我破譯一些東西？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_141">
+		<text>我聽說亞尼夫的奈喬是數碼組合和演算法的愛好者。不過我不確定，我從來沒跟他說過話——他為紀律團工作，所以和我們這些自由人士沒什麼交集。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_143">
+		<text>我對本地專業人士知之甚少……下次你去亞尼夫時可以問問我們在那裡的人，他們肯定知道。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_15">
+		<text>我有紀律團貿易商人的PDA。你知不知道誰會對它感興趣？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_151">
+		<text>聽著很有意思！我會把它交給洛基，我們在亞尼夫的領袖。這樣他就能讓自由潛行者們看清，紀律團招入組織的都是什麼樣的人。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_16">
+		<text>這附近哪裡有工具？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_163">
+		<text>工廠，老兄，不然還有哪裡？那地方已經荒廢了，不過倉庫是個好地方，那裡會安全一點，而且你肯定能找到一些不錯的工具。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_165">
+		<text>好問題，兄弟。讓我們想想，在特異區外面你會去哪裡找工具？但凡你還有點腦子，你就會去商店裡買……如果你沒有，你會去工作室找工具，順便也找一下腦子，對嗎？在特異區也是一樣的——你得去同樣的地方找。就這麼簡單，潛行者！</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_166">
+		<text>工具？聽著，老兄，這是不是什麼代號？這裡沒有條子之類的人，你可以大膽講……噢，講真？那我就不知道了。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_169">
+		<text>好吧，我聽說有個我們的人在找工具的時候走進了橋底下的火車裡，顯然，那裡有一隻特斯拉……不管怎樣，按他說的，那地方可不是在開玩笑……為什麼我告訴你這個？因為他說他看到那附近有工具，不過考慮到危險性還是決定不去管它們了。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_17">
+		<text>誰能解鎖記憶體模組？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_171">
+		<text>諾維可夫，那個在科學家的地堡裡的人。他很快、很強、也很有禮貌。或者是亞尼夫的奈喬，那個對紀律團捧臭腳的人。他為人卑劣又小氣，不過他沒準能做得很好。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_172">
+		<text>一個技藝高超的技術人員吧。本地技師更擅長機械方面，除非你想給你的記憶體模組加一個有膛線的槍管。我建議你去木星工廠問問。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_18">
+		<text>誰有本事闖進一個鋼造貨櫃中？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_181">
+		<text>我想，斯卡多夫斯克的卡丹應該可以。儘管他大多數時間都是醉醺醺的，人們說他知道自己在做什麼。他也許可以幫你破開那個貨櫃。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_182">
+		<text>某個以闖入鋼造貨櫃謀生的人？不過那個本地技術人員奈喬做不了，我聽說他做更多的是闖入別人的電子設備中。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_19">
+		<text>我在找一個叫斯奈格的潛行者，你知道他在哪裡嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_191">
+		<text>沒聽說過這人……如果我是你，我就去問別的自由潛行者。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_2">
+		<text>你知道關於墜毀直升機的事嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_20">
+		<text>誰有可能對紀律團創始人的情報感興趣？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_201">
+		<text>洛基，毫無疑問。他是我們在亞尼夫的首領。即便他不知道如何處理這情報——最重要的是，不能讓紀律團的人拿到它。你能想象它會產生多少政治宣傳的鬼話嗎？光是想到這個我就頭疼。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_22">
+		<text>嗯，你聽說過關於地雷區的直升機的事嗎？簡單說，鍋蓋頭們迫降在了備用停機坪上，而他們的戰友六年前曾在那片區域上佈過地雷。有人說他們這麼做很愚蠢，不過我覺得還有隱情。這麼想吧：那裡不會有人去，所以一旦士兵小子們結束了任務，他們就能回到直升機上，稍作修補就能離開。我很想知道究竟是什麼任務……</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_23">
+		<text>我不是本地人，老兄。我什麼都不知道。去亞尼夫找我們的人吧，他們會把你想知道與不想知道的事通通都告訴你。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_25">
+		<text>知道啊，一些士兵們某天看見一架直升機飛得亂七八糟的。它也沒有在合適的地方著陸——就落在了木星工廠的一面屋頂上。有人說它墜毀後從屋頂掉進了大樓裡面，一路上還扯下來了各種垃圾。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_3">
+		<text>你在附近有看到軍隊嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_30">
+		<text>誰有可能對扎通和木星工廠之間區域的地圖感興趣？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_301">
+		<text>當然是飛機師，老兄。他是這附近最重要的自由潛行者嚮導——如果你說地圖的事，那他就是你要找的人。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_31">
+		<text>淡定，老兄，這裡不會有條子、鍋蓋頭和該死的民兵——你就像在特異區一樣安全。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_35">
+		<text>沒有，不過有幾個傢伙告訴我，他們見到了一支軍隊爬過地雷區去往直升機停機坪。他們想過幫忙，但還是沒這麼做。鍋蓋頭一向讓人捉摸不定，你不知道他們什麼時候會突然發瘋，從背後偷襲你。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_36">
+		<text>我自己是沒見過，不過有傳聞說，科學家的地堡裡有一個士兵。生物學家奧澤斯基說這人之前就在那架墜毀在工廠裡的直升機上……於是流傳開來一個笑話，那些書呆子們給自己養了個寵物士兵。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_37">
+		<text>我沒看到，但我從自由潛行者那裡聽到了些消息。他們說有人在沃爾霍夫戒酒無名會綜合大樓那裡看到了一個鍋蓋頭。可能是一個鬼魂，或者甦醒過來的喪屍……你怎麼看？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_38">
+		<text>沒有。這傢伙一直在說他看到七個士兵跟在一名自由潛行者身後穿過了無線電廠，朝普里皮亞季。特異區裡有段時間沒出現過大麻了，所以我敢肯定那完完全全就是在胡言亂語。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_4">
+		<text>你知道怎麼去普里皮亞季嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_40">
+		<text>我可以僱誰去保護科學家？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_401">
+		<text>自由團，也就是我們。我們一直在和科學家們一起工作，所以保護他們就是小菜一碟。跟我們的老大洛基談談吧，他在亞尼夫——他肯定會同意的。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_402">
+		<text>我不確定，朋友，因為我一直有聽到傳聞說那些書呆子已經僱傭了一支紀律團小隊來為他們工作……我們很願意去保護科學家，不過如果那意味著要每天盯著紀律團的那些便秘臉，就很划不來了。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_42">
+		<text>他們說你能從木星到達那裡……我指的是工廠，不是那個行星……哈！承認吧，這個雙關超棒的！</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_43">
+		<text>說實話，我不知道。找不到時間去那裡……我會去營地問問飛機師的，好嗎？他是個自由潛行者，比任何人都要瞭解這片區域。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_44">
+		<text>兄弟，如果我知道的話，我早就去了。能夠遠離紀律團、鍋蓋頭還有所有這一切戰爭，付出什麼代價都值得……</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_5">
+		<text>有沒有那種不怎麼束手束腳、願意找路前往普里皮亞季的人選推薦？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_51">
+		<text>抱歉，朋友，在扎通我想不到有誰可以……我的建議是，去問問我們在亞尼夫的人。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_52">
+		<text>你知道科學家的地堡嗎？好吧，目前他們在那裡遇上了一些棘手事。首先是蓋瑞，一個潛行者，決定尋路去普里皮亞季；現在是一個士兵，有了相同的計畫。蓋瑞是個獨行者而且引以為豪，但那個鍋蓋頭就是你要找的人。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_53">
+		<text>亞尼夫的瓦諾很適合。他是個相當不錯的傢伙，只要他想，任何時候都能加入自由團，但我覺得他不喜歡我們與紀律團的爭鬥……或是別的隨便什麼爭鬥。那是他的世界觀，我們表示尊重！</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_54">
+		<text>當然。我們有個人在乾涸的湖泊旁邊看到了一支隊伍。他們顯然對普里皮亞季瞭如指掌，而且他們看上去也不像是在為誰賣命。他們一定也很勇敢，因為他們是黑石組的戰士！</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_55">
+		<text>當然，斯特萊德，我們新募兵的首領……看來他對在我們的陣營感到不安，他的手下都已經很好適應了這裡，但他就是不太高興……跟他談談吧——我討厭看到一個好人身在曹營心在漢的模樣……</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_57">
+		<text>不，不知道。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_6">
+		<text>我找到了一把不尋常的槍。你知不知道有誰可能會懂這個？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_62">
+		<text>你有沒有找到它附帶的使用手冊？沒找到？那我就不知道了。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_7">
+		<text>我可以僱誰去為科學家做些測量工作？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_71">
+		<text>我想我們的人可以做這份工。自由團裡多的是聰明的傢伙，如果我們有任何問題，就在地堡裡問。我們希望能有機會為科學作貢獻！跟亞尼夫的洛基談談——我敢肯定他也是這麼想的。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_72">
+		<text>我和我的戰友們都很想做這事，但最近紀律團的人在守著地堡。要去拜訪那些科學家已經很成問題了，而要每天都呆在那兒也對健康不利，這一點毫無疑問。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_8">
+		<text>我找到了一個很奇怪的神器。你知道有誰會願意買嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_81">
+		<text>你要找一個收藏家，兄弟。在亞尼夫沒有這種人，畢竟這裡連一些潛行者都不敢來。你最好去扎通問問，那邊比較安寧一些。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_83">
+		<text>你認識大鬍子嗎？那個在自由潛行者營地裡的酒保？他收購神器，而且不會宰你太狠。從各方面來看，他都是一個不錯的傢伙。說真的，可惜他不為我們工作。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_9">
+		<text>我在附近發現了一個完整的吸血鬼巢穴。我們該怎麼做？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_91">
+		<text>老兄，你應該去警告自由潛行者們——畢竟他們的主要營地就建在這附近。誠然，特異區的野生動物很寶貴，但我更關心這個地方的人類。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_98">
+		<text>好吧，那沒事了。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_0">
+		<text>聽著，我有個問題問你……</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_1">
+		<text>問吧。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_10">
+		<text>你怎麼看待小機靈？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_101">
+		<text>沒那榮幸遇見他……你最好去問斯卡多夫斯克的常客。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_11">
+		<text>你知道關於綠洲的事嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_111">
+		<text>我聽說了有關綠洲的一切！它是一個傳說，一件虛構之事……每個潛行者對它的期望各不相同，每個人都聲稱自己知道它的確切位址。遺憾的是，所有那些所謂地址唯一的共同點就是難以到達。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_112">
+		<text>嗯，據說那裡可以迅速治愈傷病並回復能量……據說在綠洲不存在病痛困擾，包括輻射傷害！不過有一點我可以肯定，那就是它到底在哪兒……想知道嗎？它就在特異區中央！不過你得保密，不能對任何一個人說！</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_113">
+		<text>我聽說那裡的任何變異體都會對人不問不睬。我還聽說那裡有一個神器，名叫「綠洲之心」……沒人知道它有什麼用，不過有一點是肯定的：你不能觸碰它。任何帶走它的人將被驅逐出特異區……至於地點，老兄，所有人都知道，它就在摩天輪下方的普里皮亞季！我是說，它還能在哪裡？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_12">
+		<text>你遇到過一個叫「喜鵲」的潛行者嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_121">
+		<text>當然……不過不知道他現在在哪裡。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_122">
+		<text>唔……沒聽過這個人……</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_13">
+		<text>你知道誰會偷走私人儲物箱裡的東西？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_131">
+		<text>呃，沒人吧？去問亞尼夫資歷更老的人，他們也許能幫你。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_14">
+		<text>這裡誰能幫我破譯一些東西？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_141">
+		<text>亞尼夫的奈喬，還能有誰？比起擺弄槍炮，他對那些複雜難懂的技術可是要愛得多得多。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_143">
+		<text>我不知道有誰。去亞尼夫問問——他們那裡來了一個什麼方面的專家。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_15">
+		<text>我有紀律團貿易商人的PDA。你知不知道誰會對它感興趣？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_151">
+		<text>你認識斯卡多夫斯克的貓頭鷹嗎？我覺得他會想要拿到這個東西。他喜歡介入一些敏感生意中……</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_152">
+		<text>過去在扎通的斯卡多夫斯克有一個叫「貓頭鷹」的傢伙，他做買賣情報生意……他也許會對你的PDA感興趣。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_16">
+		<text>這附近哪裡有工具？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_161">
+		<text>一個潛行者告訴我，他以前有個手下，1986年前在變電站工作室工作。他說那裡有各式各樣的設備，所以我猜那裡也會有工具。放了這麼久它們可能都生鏽了，不過還是值得去看一看的。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_162">
+		<text>你知道山上樹林裡的鋸木廠嗎？那裡應該有些工具，除非有人先你一步拿走了。不過我不太相信——那地方就是，你離得越近，越感到恐慌，恨不得撒腿就跑。甚至連輻射都已經不算是恐怖的了，我就說這麼多……</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_163">
+		<text>嗯，這地方有木星工廠，那裡肯定有一些工具。就我個人而言，我不會想靠近那個地方……那地方讓我脊背發涼。你可以去木星工廠倉庫查看一下，就在工廠旁邊。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_164">
+		<text>我聽說普里皮亞季有幾個地方，你可以在那裡找到各式各樣的工藝雜物。其中一個地方應該是以前蘇聯的百貨商店，可能是那個年代唯一能買到像樣東西的地方。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_165">
+		<text>我怎麼會知道？去看看舊工作室或者商店，那裡也許會有些有用的東西。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_166">
+		<text>老實說，上一次我見到有像樣工具的地方還是在科頓，在西多羅維奇的地堡裡。當然，你得付錢才行，不過它們都是新的，而且也不算很貴。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_167">
+		<text>老兄，你要知道，我來特異區不是為了找工具的。想想看，一把放射性錘子會有多大用處呢？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_168">
+		<text>我聽人說，你可以在舊服務中心從事整修恢復工作……也許你也能在那裡找到工具。不過，就像做任何其他事一樣，想獲得好東西，前提你必須走得到那裡。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_169">
+		<text>好問題……如果我是你，我就去橋底下的舊火車裡看看。別問為什麼……我的直覺告訴我，你會在那裡找到些東西的。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_17">
+		<text>誰能解鎖記憶體模組？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_171">
+		<text>讓我想想……啊，亞尼夫的奈喬肯定能做。除了他，還有諾維可夫，他是科學家們的技術人員，也是一個真正的專家。不過你得想好到底需要什麼，畢竟奈喬要的報酬可低多了。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_172">
+		<text>嗯，你需要一名技術人員，不過這裡只有卡丹是。問題在於，這麼多年他一直在酗酒，已經沒辦法操控精密的電子設備了。如果我是你，我就去木星工廠問問——他們那裡有真正的專家。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_18">
+		<text>誰有本事闖進一個鋼造貨櫃中？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_181">
+		<text>我想，斯卡多夫斯克的卡丹可以。我的意思是，看他如何切斷掛鎖是一種享受。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_182">
+		<text>某種技術人員吧，我猜。不過奈喬可能做不了——他不擅長那種粗暴行為。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_183">
+		<text>哈，你在普里皮亞季問這個？聽我的，去離特異區中心遠一點的地方找人吧。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_19">
+		<text>我在找一個叫斯奈格的潛行者，你知道他在哪裡嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_191">
+		<text>最好去問大鬍子，他是斯卡多夫斯克的酒保。他總是對潛行者的行蹤一清二楚。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_193">
+		<text>斯奈格？我他媽怎麼會知道？你最好去扎通問問，他很多時候在那裡閒逛。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_2">
+		<text>你知道關於墜毀直升機的事嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_20">
+		<text>誰會對紀律團創始人的情報感興趣？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_201">
+		<text>你應該和「貓頭鷹」談談，那個斯卡多夫斯克的情報販子。我敢打包票，他一定會對這樣一位傳奇人物的可靠情報感興趣。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_21">
+		<text>我親眼看見了一架……它似乎沒有墜毀，但也飛得很糟糕。它一直在晃來晃去的，直到降落在扎通南面的高原上……我還挺想去看看有沒有人存活下來……不過我們都不知道該怎麼上去。事實上，我聽說那個駁船上的瘋子挪亞可能會知道……</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_22">
+		<text>我聽說有幾架軍用直升機在不遠處緊急迫降了……眾說紛紜，不過有一點我記得很清楚，說是直升機降落在了備用停機坪，之前那些鍋蓋頭在那裡佈過地雷。你能相信這有多可笑嗎？以前我的人曾說「不要為別人挖洞，因為很可能掉下去的人是你。」說得很對，不是嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_23">
+		<text>我的一個兄弟告訴了我這件事……他去鋼鐵密林找神器，一到那裡，他就聽見身後傳來墜毀的聲響。他轉身去看發生了什麼，就見一架直升機朝他全速衝來，一路上還扯掉了電纜之類的東西。他趕緊逃離了那地方……我驚訝的是他居然沒有遭遇特異點。要找到那片鋼鐵密林不難——就在幾英里外。那裡還遍地都是該死的吵鬧鬼，所以記得保持警覺。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_24">
+		<text>我聽說有一架降落在了高原南面，不過要上去可不容易。此外，我還聽說有人在高原邊界處看見了挪亞，這意味著那個瘋子知道怎麼去到高原上面。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_25">
+		<text>我自己沒看到，不過傳聞說有一架正正掉進了工廠裡……不過沒人想去查看——那地方太危險了。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_26">
+		<text>有個潛行者告訴我說他看到好幾架軍用直升機都遇到了麻煩……其中一架直升機的發動機燒了，然後就直直掉進了一個遍佈特異點的沼澤地裡。去到那裡很容易，但沼澤地就是惡夢一樣的存在……相信我，那絕不是人類能呆的地方。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_3">
+		<text>你在附近有看到軍隊嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_30">
+		<text>誰有可能對扎通和木星工廠之間區域的地圖感興趣？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_301">
+		<text>飛機師，不然還他媽能有誰？他是個嚮導，你知道吧？經常在斯卡多夫斯克和亞尼夫之間飛行，所以他肯定能好好利用你的地圖。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_302">
+		<text>這裡不是扎通或者木星工廠，所以這些地圖是沒用的，知道嗎？去那兩個地方問吧，可能有你要的答案！</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_31">
+		<text>我自己沒看見，不過我有聽人講述一些士兵如何從高原南面、沿著汙水管線一側下來。很明顯他們一開始試圖以像樣的方式，比如用電纜之類的，但之後就放棄了，直接一屁股滑下來了，哈！特異區大雪車——一定很好玩！</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_32">
+		<text>我在斯卡多夫斯克聽到了一段對話，說的是有人看見五個左右的士兵從沼澤地的排水管道裡鑽了出來。他們說那些鍋蓋頭身上髒得要命，其中一個甚至跟沼澤地吸血鬼沒分別，從頭到腳都被汙泥蓋住了。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_33">
+		<text>我沒看到，不過我的一個朋友看到一支軍隊和一群僱傭兵在廢料處理站打起來了。不過就在他剛剛找到一個絕佳的觀景點時，這場秀就以鍋蓋頭們撤退而結束了。雙方都沒有人員傷亡……不意外，不是嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_34">
+		<text>事實上，有人看到十個左右的士兵在挪亞的駁船上閒逛。鑑於那個瘋子現在還好好活著，他很有可能跟他們達成了某種協議……很像他會做的事。顯然沒人想問挪亞發生了什麼——你永遠不知道那隻狗雜種會做出什麼瘋事來。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_35">
+		<text>我聽見有什麼在晚上爆炸了，然後亞尼夫的人告訴我他們在舊地雷區看見一個士兵死在那裡，身後是一架廢棄的直升機。很難說清他們在夜裡著陸的位置以及如何徑直穿過了那些地雷。沒人知道有多少人逃出來了，不過我懷疑他是獨自駕駛那架直升機的。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_36">
+		<text>我沒見到任何軍隊……不過我聽說有一個士兵正和科學家們打得火熱。傳聞是這麼說的：一名叫蓋瑞的潛行者在去導彈發射綜合樓找同伴時湊巧看到了他。如今，那個建築群到處都是喪屍，而且對落單人類稱不上友好，因此，蓋瑞可以說是救了他一命。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_37">
+		<text>沒有，不過我聽說有人看到一個士兵出現在沃爾霍夫戒酒無名會綜合大樓。我其實不怎麼相信……他們可能在撒謊，也可能錯把一個喪屍看成是鍋蓋頭了。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_38">
+		<text>軍隊？嗯，我聽人提過「由一名潛行者帶領的一整支軍隊」經過木星工廠的事，不過我沒怎麼關注這類閒話。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_4">
+		<text>你知道怎麼去普里皮亞季嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_40">
+		<text>我可以僱誰去保護科學家？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_401">
+		<text>你知道斯巴達克斯和他的小隊嗎？就是扎通的那些潛行者？他們都是好人，也是很強的戰士——對他們而言一切都已司空見慣。我覺得他們會願意去保護科學家的。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_402">
+		<text>你在扎通的變電站工作室見過小斧的隊伍嗎？像所有僱傭兵一樣，他們有這樣那樣的毛病，不過至少他們不會搞先斬後奏那套。我想如果你能夠讓他們做這份工作，既能讓科學家們滿意，潛行者也能歇一會兒了。皆大歡喜，不是嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_403">
+		<text>嗯……想不到……抱歉。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_41">
+		<text>我能肯定的是，從扎通去不了那裡。每一個迫切想要去普里皮亞季的人都朝著木星工廠方向走，所以你應該去那地方問問。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_42">
+		<text>好吧，有傳聞說在木星工廠地底下有秘密隧道通向普里皮亞季……問題是，我聽到的那些傳聞通常已經傳了兩輪了，而且木星那地方危險得要命，沒人敢靠近它。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_43">
+		<text>我怎麼會知道呢，老兄？你有沒有簡單點的問題？我只能告訴你，你得去找飛機師談談——如果有人能幫你，那就是他無疑了。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_44">
+		<text>哈，如果我知道怎麼去普里皮亞季，我就不會還在這裡了。你覺得我為什麼要去特異區中心？普里皮亞季遍地都是神器啊兄弟！誰先到那裡，誰就能享受數不盡的榮華富貴！</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_5">
+		<text>有沒有那種不怎麼束手束腳、願意找路前往普里皮亞季的人選推薦？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_51">
+		<text>我感覺這裡沒有那種人。所有想更接近特異區中心的人都去了木星工廠，是我的話我就會去那地方問問。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_52">
+		<text>你聽說了那個現在和科學家們在一起的士兵嗎？我想他應該會願意跟你一起去的。科學家們短期內不會走，他靠他自己到不了科頓，因此很有可能會犯蠢跟你一起去普里皮亞季！</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_53">
+		<text>你知道亞尼夫站的瓦諾嗎？他很正直，是個不錯的潛行者，極其好騙。現在還來了個怪傢伙，在特異點周圍反而比跟人類混得更好——只要他在這裡，總會有人想利用他。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_54">
+		<text>聽著，有人在戒酒無名會綜合樓南面的乾涸湖泊那裡看見了一支隊伍……顯然他們不是普通的潛行者或自由團或紀律團成員——他們是黑石組的人！所以如果你在找跟你一起去普里皮亞季的人，他們正合適。哈哈，你知道我在跟你開玩笑的吧？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_55">
+		<text>你認識斯特萊德，那個新的自由團小隊的首領嗎？如果你見過他那副痛苦的模樣，你就知道亞尼夫不適合他。你應該試著跟他談談，也許他會同意去。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_56">
+		<text>你認識斯特萊德，那個新的紀律團小隊的首領嗎？如果你見過他那副痛苦的模樣，你就知道亞尼夫不適合他。你應該試著跟他談談，也許他會同意去。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_57">
+		<text>唔……我想不到有誰。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_6">
+		<text>我找到了一把不尋常的槍。你知不知道有誰可能會懂這個？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_62">
+		<text>天曉得啊，你得去問專業人士……比如技術人員之類的……</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_63">
+		<text>去問斯卡多夫斯克的卡丹，兄弟，對你沒壞處的。他在武器方面很擅長……即便他喜歡喝酒，也還是有餘力幫你的……</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_7">
+		<text>我可以僱誰去為科學家做些測量工作？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_71">
+		<text>你知道獵人貢塔嗎？我覺得他和他的手下應該不會介意給科學家做事。我的意思是，如果惹上了變異體，那些人能幫你擺平。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_72">
+		<text>你聽說過亞尼夫的潛行者葛里利、托爾巴和米塔伊嗎？他們三人一隊做事，很受歡迎！我覺得他們很適合做這種事……只要米塔伊能夠不惹麻煩，哪怕一次也好。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_73">
+		<text>不知道，老兄。我們自己都已經有夠多麻煩事要搞了。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_8">
+		<text>我找到了一個很奇怪的神器。你知道有誰會願意買嗎？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_81">
+		<text>在這是不用想了。這裡的人對新鮮事物沒興趣。去扎通問問，那裡更靠近特異區邊緣，新東西也多。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_83">
+		<text>我會把它拿給大鬍子看，那個斯卡多夫斯克的酒保。他們說他和外面世界的收藏家有合作，那些傻子總是對各種怪東西愛得發狂。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_9">
+		<text>我在附近發現了一個完整的吸血鬼巢穴。我們該怎麼做？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_91">
+		<text>哇，你該去跟斯卡多夫斯克的大鬍子說這事……因為要麼是我們幹掉牠們，要麼就是被牠們幹掉。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_98">
+		<text>好吧，那沒事了。</text>
+	</string>
+
+	<string id="about_skadovsk_dialog_bandit_0">
+		<text>這裡最近的潛行者營地在哪？</text>
+	</string>
+
+	<string id="about_skadovsk_dialog_bandit_1">
+		<text>你在犯蠢嗎？……我不知道什麼潛行者營地，不過最近的一個營地是在斯卡多夫斯克。我會給你座標，而且免費提供。怎麼樣，我是不是人超好？</text>
+	</string>
+
+	<string id="about_skadovsk_dialog_stalkers_0">
+		<text>這裡最近的潛行者營地在哪？</text>
+	</string>
+
+	<string id="about_skadovsk_dialog_stalkers_1">
+		<text>我會把座標上傳到你的PDA……斯卡多夫斯克是這附近唯一一個大型營地。</text>
+	</string>
+
+	<string id="actor_break_dialog_2">
+		<text>下次見。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_27">
+		<text>我聽說了一些墜機的事……但我不瞭解詳情——我對小道消息沒興趣。抱歉幫不了你什麼。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_28">
+		<text>老兄，比起你的直升機，我有其他破事要煩……我是說，撞到直升機上一定痛得要命，但除此之外我沒別的可說。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_27">
+		<text>小子，你在說什麼？你是不是吸了什麼猛料，才在這裡看到了直升機？畢竟，那些真傢伙跟這個地方半毛錢關係都沒有。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_27">
+		<text>蛤？不知道，老兄，我才不關心那種破事。它對我傳播知識的使命毫無幫助，你懂我意思吧？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_27">
+		<text>我們的巡邏隊看見了直升機降落，不過具體細節以私人方式被報告給了中校。按需知密，我確實也不需要知道這種事。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_50">
+		<text>我可以在哪裡找到一件配備有封閉式循環呼吸組件的防護服？</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_501">
+		<text>不知道在哪裡找，不過有錢能使鬼推磨——只要你知道該付錢給哪個鬼。去跟小機靈談談……如果你們在細節方面達成一致，他就能設法給你弄到防護服。希望你們能聊得來……我們就能在斯卡多夫斯克享受幾天安寧日子……</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_502">
+		<text>我他媽怎麼會知道？我自己都很久沒來這裡了……你最好去扎通問問，我們的人在那裡有自己的人脈網。</text>
+	</string>
+
+	<string id="about_quests_dialog_bandit_503">
+		<text>不知道。怎麼，你想要插手特異點的事？聽著，如果你找到了神器，記得馬上告訴我們，我們會立刻趕來……祝賀你！ </text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_50">
+		<text>我可以在哪裡找到一件配備有封閉式循環呼吸組件的防護服？</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_501">
+		<text>我怎麼知道？等等……斯卡多夫斯克有一個傢伙，據說能滿足你一切需要。他叫小機靈，就坐在上層甲板上。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_502">
+		<text>不知道，沒有人會穿這種特別的防護服來這裡……你最好去扎通問問，那裡更接近文明社會。</text>
+	</string>
+
+	<string id="about_quests_dialog_dolg_503">
+		<text>我不知道你該去哪裡找……那種防護服即便是在紀律團成員中也很罕見。他們只授予那些在戰斗中特別優秀或是在高度異常區域行動的人。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_50">
+		<text>我可以在哪裡找到一件配備有封閉式循環呼吸組件的防護服？</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_501">
+		<text>我聽一些潛行者談論過一個很有人脈的人，叫小機靈還是什麼。他幾乎能給你一切所需，像是裝備、槍炮之類的東西……毒品不行。如果你要找他，他常去斯卡多夫斯克。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_502">
+		<text>好問題，兄弟……我們在自由團不穿這種……如果我是你，我就去扎通問潛行者。那裡也許有人做這種生意。</text>
+	</string>
+
+	<string id="about_quests_dialog_freedom_503">
+		<text>嘿，你要那垃圾幹嘛？在實戰中完全沒用。不過話說回來……也許還是有點用的。呼吸能變得更容易，照進眼睛裡的太陽光也不會那麼強烈……或許我也該給自己搞一件。喂，你知道哪裡可以找到這種防護服嗎？……</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_50">
+		<text>我可以在哪裡找到一件配備有封閉式循環呼吸組件的防護服？</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_501">
+		<text>我打賭小機靈那裡有，他在斯卡多夫斯克的第三甲板。那傢伙可以給你從沙漠中變出雪來……不過他的收費可不便宜。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_502">
+		<text>讓我想想……以前在扎通有一個人有，他叫小機靈。去找找看他是不是還在那裡吧。我聽說他專門經營高檔貨色。</text>
+	</string>
+
+	<string id="about_quests_dialog_stalkers_503">
+		<text>老兄，你這麼問，好像在採購辦公用品一樣……沒有人能確切知道，畢竟這種東西很少見的……如果你僥倖拿到一件，那就是你運氣好。</text>
+	</string>
+
+	<string id="actor_break_dialog_3">
+		<text>再見。</text>
+	</string>
+
+	<string id="actor_break_dialog_1">
+		<text>再見。</text>
+	</string>
+
+	<string id="actor_break_dialog_0">
+		<text>之後見。</text>
+	</string>
+
+</string_table>

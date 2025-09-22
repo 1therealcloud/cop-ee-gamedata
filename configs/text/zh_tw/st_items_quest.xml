@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="jup_a9_conservation_info">
+		<text>寫有筆記的文件</text>
+	</string>
+
+	<string id="jup_a9_conservation_info_desc">
+		<text>文件提到，根據第一部門的命令，在密封運輸鎖之後，普里皮亞季 1 號地下通道內充滿了混合某種化學添加劑的二氧化碳。因此，所有工作人員都被要求穿著帶有封閉式循環呼吸組件的化學防護服。</text>
+	</string>
+
+	<string id="jup_a9_delivery_info">
+		<text>有關運送 62 號物品的信件</text>
+	</string>
+
+	<string id="jup_a9_delivery_info_desc">
+		<text>「由於特異活動影響，在空曠地面上運送 62 號物品是不可行的。請使用普里皮亞季 1 號地下通道進行運送。地下通道的交付和後續密封計畫已傳送至第一部門。」</text>
+	</string>
+
+	<string id="jup_a9_evacuation_info">
+		<text>帶命令的文件夾</text>
+	</string>
+
+	<string id="jup_a9_evacuation_info_desc">
+		<text>文件提到將生產綜合設施從木星工廠疏散到地下實驗室。這件事原本應該已經在實驗室區域討論過。</text>
+	</string>
+
+	<string id="jup_a9_losses_info">
+		<text>交貨時間表</text>
+	</string>
+
+	<string id="jup_a9_losses_info_desc">
+		<text>「62 號物品的交貨日程：07/14 - 20 件（一件損壞）；07/21 - 32 件（2 件損壞）；07/28 - 26 件（一件損壞）。有關途中損失的運單已發送至工廠管理部門，並附有一份副本發送至維修車間。」</text>
+	</string>
+
+	<string id="jup_a9_meeting_info">
+		<text>筆記頁</text>
+	</string>
+
+	<string id="jup_a9_meeting_info_desc">
+		<text>會議決定：交付部門將集中疏散 62 號物品的生產綜合設施。</text>
+	</string>
+
+	<string id="jup_a9_power_info">
+		<text>紀律團交接班記錄</text>
+	</string>
+
+	<string id="jup_a9_power_info_desc">
+		<text>「…18:30 - 所有 P-1 地下通道部分的氣密密封完成。19:00 - 鐵路門鎖密封完成。必須使用焊接來密封門。19:45 - 運輸門鎖關閉。門鎖機構的操作需要啟動備用發電機，因為地下通道的電源已被切斷。20:00 - 化學車間已開始用氣體淹沒地下通道。22:00 - 地下通道的密封工作已完成，所有文件已發送至第一部門。」</text>
+	</string>
+
+	<string id="jup_a9_way_info">
+		<text>地下通道示意圖 </text>
+	</string>
+
+	<string id="jup_a9_way_info_desc">
+		<text>普里皮亞季 1 號地下通道示意圖，顯示地下通道位於普里皮亞季城市的下方。該文件有幾處註釋：1. 密封運輸門鎖。2. 利用化工車間氣體封鎖地下通道。</text>
+	</string>
+
+	<string id="jup_b1_half_artifact">
+		<text>改造後的絕緣體</text>
+	</string>
+
+	<string id="jup_b1_half_artifact_descr">
+		<text>這曾經是絕緣體。現在已經快變成了不穩定的神器。它很可能是間歇性心靈輻射的來源。</text>
+	</string>
+
+	<string id="jup_b200_tech_materials_acetone">
+		<text>一罐松香</text>
+	</string>
+
+	<string id="jup_b200_tech_materials_acetone_descr">
+		<text>一罐用於焊接的松香。在特異區相當罕見，這解釋了為什麼當地技術人員經常使用藍色電工膠帶來修復損壞的設備。</text>
+	</string>
+
+	<string id="jup_b200_tech_materials_capacitor">
+		<text>一包電容器</text>
+	</string>
+
+	<string id="jup_b200_tech_materials_capacitor_descr">
+		<text>一包電容器——基本的電氣元件之一。在特異區並不罕見，因為需要用它們對高科技設備進行升級，但通常不需要這麼多。</text>
+	</string>
+
+	<string id="jup_b200_tech_materials_textolite">
+		<text>層壓膠板底座</text>
+	</string>
+
+	<string id="jup_b200_tech_materials_textolite_descr">
+		<text>層壓膠板是印刷電路的基本元件之一。業餘無線電技術人員看待一個原封未動的層壓膠板底座，就好比作家對一張白紙的感受。</text>
+	</string>
+
+	<string id="jup_b200_tech_materials_transistor">
+		<text>一盒電晶體</text>
+	</string>
+
+	<string id="jup_b200_tech_materials_transistor_descr">
+		<text>一盒電晶體——產生、調變和放大電振蕩的半導體。電晶體是特異區每個無線電技術人員的夢想。</text>
+	</string>
+
+	<string id="jup_b200_tech_materials_wire">
+		<text>銅線圈</text>
+	</string>
+
+	<string id="jup_b200_tech_materials_wire_descr">
+		<text>銅線圈是一種優良的導體，同時也是賤金屬的來源。由於後者的關係，這種電線在特異區非常罕見。早在上世紀 90 年代，所有這種金屬絲的儲備都被找了出來，被熔化並運送到了回收中心。</text>
+	</string>
+
+	<string id="jup_b209_monster_scanner">
+		<text>變異體探測掃描儀</text>
+	</string>
+
+	<string id="jup_b209_monster_scanner_descr">
+		<text>基於常規特異活動掃描儀，組合了有限範圍內變異體探測感應器和用於儲存結果的記錄組件。該設備配備了一個自動停用開關，當收集到一定數量的資料時，該開關就會啟用。</text>
+	</string>
+
+	<string id="jup_b47_jupiter_products_info">
+		<text>行政文件</text>
+	</string>
+
+	<string id="jup_b47_jupiter_products_info_descr">
+		<text>包含純粹管理資訊的文件資料夾。文件顯示，根據中心實驗室的命令，62 號物品的技術文件已傳遞至測試車間。</text>
+	</string>
+
+	<string id="jup_b47_merc_pda">
+		<text>布雷克的PDA</text>
+	</string>
+
+	<string id="jup_b47_merc_pda_desc">
+		<text>其中一則訊息很是與眾不同。傳送者名叫豺狼，訊息寫道：「我在研究所的人會建議由你來領導這次考察。他將不得不僱用你的手下來守衛地堡，這樣你做事就更容易了。記住，客戶不想讓任何有關 X 指定物品運行的資料到達科學家手中，不然的話我們將無法離開特異區。別讓我失望，布雷克。」</text>
+	</string>
+
+	<string id="jup_b9_blackbox">
+		<text>黑盒子</text>
+	</string>
+
+	<string id="jup_b9_blackbox_descr">
+		<text>在墜毀中倖存的魔鬼魚1號的黑盒子。裡面應該包含有最後飛行時刻的詳情，儘管被加密了。</text>
+	</string>
+
+	<string id="pri_a25_explosive_charge_descr">
+		<text>軍用級別的塑膠炸藥，帶有 5 秒計時器。</text>
+	</string>
+
+	<string id="pri_a25_explosive_name">
+		<text>帶有計時器的炸藥</text>
+	</string>
+
+	<string id="st_af_quest_b14_twisted">
+		<text>改造後的輪子</text>
+	</string>
+
+	<string id="st_device_flash_snag">
+		<text>斯奈格的PDA</text>
+	</string>
+
+	<string id="st_device_flash_snag_descr">
+		<text>這台PDA裡有一張標示了變電站位置的地圖，清楚顯示了一處藏匿點。還有幾張色情相片。沒什麼特別的。</text>
+	</string>
+
+	<string id="st_device_pda_port_bandit_leader">
+		<text>強盜的PDA</text>
+	</string>
+
+	<string id="st_device_pda_port_bandit_leader_descr">
+		<text>PDA上的最後一條訊息寫著：「抓住那個叫斯奈格的渾蛋，把他帶來給我——我們需要談談心。我不在乎他在哪裡——找到他就是了。如果他要打架——給他點教訓看看。蘇丹。」</text>
+	</string>
+
+	<string id="st_device_pda_zat_b5_dealer_desc">
+		<text>這台PDA裡有摩根客戶的詳細資料，以及紀律團秘密倉庫的座標，他就是從那裡拿到武器的。摩根隨後將這些武器賣給了僱傭兵，並與一個名叫蘇丹的人建立了聯繫。為了掩蓋自己的蹤跡，摩根決定將倉庫位置洩漏給自由團。他的同夥禿鷹本應該去傳達這個訊息。PDA還提到了一個只有摩根才能關閉的傳感器，如果藏匿點被打開，它將向紀律團發出警報。紀律團和自由團想必都對這些資訊感興趣。</text>
+	</string>
+
+	<string id="st_device_pda_zat_b5_dealer_name">
+		<text>摩根的PDA</text>
+	</string>
+
+	<string id="st_jup_b10_notes_01_desc">
+		<text>一份舊文件背面寫著：「鬼魂，我要帶走我的東西了。謝謝你的突擊步槍——我正需要它。作為交換，我給你留了一些博士的醫療用品。我設法困住了跟蹤我的僱傭兵，所以我就不需要它們了……希望吧。我現在要去見方——他成功把解碼器組裝了起來。如果你能去的話，我們在老地方見。史特列洛克。」</text>
+	</string>
+
+	<string id="st_jup_b10_notes_01_name">
+		<text>給鬼魂的筆記</text>
+	</string>
+
+	<string id="st_jup_b10_notes_02_desc">
+		<text>方格紙上寫著：「史特列洛克，我把另一個解碼器留在了普里皮亞季的藏匿點裡，以防萬一。我和鬼魂要去農會，所以我們會把多餘的彈藥留在這裡。如果你需要的話就拿走吧。狩獵愉快！方。」</text>
+	</string>
+
+	<string id="st_jup_b10_notes_02_name">
+		<text>給史特列洛克的筆記</text>
+	</string>
+
+	<string id="st_jup_b10_notes_03_desc">
+		<text>一份舊文件背面寫著：「方，我不能再等你了——有一整個小隊在追我。我要獨自前往石棺。我會把我的幸運之槍留在這裡——反正我也沒更多子彈了。​​要是我沒能回來，就把它給鬼魂。如果他能照顧好那枝槍，槍也會照顧好他的。保重。史特列洛克。」</text>
+	</string>
+
+	<string id="st_jup_b10_notes_03_name">
+		<text>給方的筆記</text>
+	</string>
+
+	<string id="st_jup_b10_ufo_memory_2_desc">
+		<text>無人機的記憶體模組。諾維可夫解鎖了該模組，從而讓你可以存取無人機收集的資訊。除此之外，它還包含三個無線電信標的座標。</text>
+	</string>
+
+	<string id="st_jup_b10_ufo_memory_2_name">
+		<text>記憶體模組（已解鎖）</text>
+	</string>
+
+	<string id="st_jup_b10_ufo_memory_desc">
+		<text>無人機的記憶體模組。儘管無人機墜毀了，模組仍然可以正常運作，但可惜被上鎖了。</text>
+	</string>
+
+	<string id="st_jup_b10_ufo_memory_name">
+		<text>記憶體模組（已上鎖）</text>
+	</string>
+
+	<string id="st_jup_b205_sokolov_note_desc">
+		<text>還有一張舊表單，寫著哨兵值班表，下面是數字 1421。用記號筆寫在舊字跡上的筆記寫著：「V.I.索科洛夫中尉。直升機墜毀後，我前往疏散點B205。兩天以來沒有進行任何疏散嘗試，留在這裡是有風險的。因此我決定離開B205，前往科考移動實驗室，該實驗室位於疏散點東北方。」</text>
+	</string>
+
+	<string id="st_jup_b205_sokolov_note_name">
+		<text>索科洛夫的筆記</text>
+	</string>
+
+	<string id="st_jup_b206_plant_desc">
+		<text>屬於小樹林一部分的植物，因特異活動導致其部分形態變化。樹林對入侵做出了攻擊性的反應，但到目前為止，該植物似乎並不危險。</text>
+	</string>
+
+	<string id="st_jup_b206_plant_name">
+		<text>特異植物</text>
+	</string>
+
+	<string id="st_jup_b207_merc_pda_with_contract_desc">
+		<text>這台PDA上接收到的最後一條訊息來自摩根。內容基本上是關於一份協議，刺殺一個名叫捷格加列夫的潛行者。隨附有幾張相片。摩根的最後指示是閱後刪除這條訊息。</text>
+	</string>
+
+	<string id="st_jup_b207_merc_pda_with_contract_name">
+		<text>僱傭兵的PDA</text>
+	</string>
+
+	<string id="st_jup_b32_scanner_device_desc">
+		<text>它結合了神器探測器、電池和強大的發射器。該設備能掃描特異點以確定出現神器的數量和類型。所有這些資訊都將自動傳送到科學家的地堡裡。</text>
+	</string>
+
+	<string id="st_jup_b32_scanner_device_name">
+		<text>特異活動掃描儀</text>
+	</string>
+
+	<string id="st_jup_b46_duty_founder_pda_desc">
+		<text>PDA上的最後一項是一段錄音：\n「…無論我們走哪條路，總會到達同一個地點。我仍然無法習慣這種霧……切普尼消失了，蹤跡全無，這非常奇怪。也許他找到出路了？……\n第六天……我們已經沒水了……上校失去了理智，近距離射殺了兩個人，然後是他自己……現在我在這個該死的特異點中只能靠自己了……如果我沒有解決與總部的通訊中斷問題，他們可能會救我們……而紀律團就不會存在了。我想知道那樣的話事情會如何發展……啊，管他的。塔琴科上尉很久以前就死了……而這位紀律團的塔琴科將軍將追隨他……我想，這就是正義吧……」\n槍聲響起後，錄音就終止了。</text>
+	</string>
+
+	<string id="st_jup_b46_duty_founder_pda_name">
+		<text>塔琴科將軍的PDA</text>
+	</string>
+
+	<string id="st_lx8_service_instruction_descr">
+		<text>手冊描述了如何使用 62 號物品。對它的說明強調了不需要依據子彈軌跡或風速進行任何調正，因為這些以遠距離來說在武器有效射程內並不影響。\n這些文件不能落入任何人手中，因為它們會引起烏克蘭國家安全局分析師的極大興趣。</text>
+	</string>
+
+	<string id="st_lx8_service_instruction_name">
+		<text>62 號物品手冊</text>
+	</string>
+
+	<string id="st_pri_a19_american_experiment_info_descr">
+		<text>筆記本中詳細描述了一項評估心靈場域對另一個半球物體的影響的實驗。加勒比地區的一組科學家收到了訊號，但訊號失真了。它以一種奇怪的方式被改變，就好像被人為糾正了一樣。一種可能的解釋是，智慧圈理論是正確的，並且這些改變是由智慧圈做出的。\n這些文件絕不能落入任何人的手中，因為它們會引起烏克蘭國家安全局分析師的極大興趣。</text>
+	</string>
+
+	<string id="st_pri_a19_american_experiment_info_name">
+		<text>記錄著一項實驗描述的筆記本</text>
+	</string>
+
+	<string id="st_pri_a19_lab_x10_info_descr">
+		<text>這些文件描述了天線的技術特性以及它們如何偏離計劃值。背面有一條註釋表明這些文件是在 X10 實驗室準備的。\n這些文件絕不能落入任何人的手中，因為它們會引起烏克蘭國家安全局分析師的極大興趣。</text>
+	</string>
+
+	<string id="st_pri_a19_lab_x10_info_name">
+		<text>彩虹發射器 - 主要技術特性</text>
+	</string>
+
+	<string id="st_pri_a19_lab_x16_info_descr">
+		<text>這些文件提到了該研究的一項附帶發現，特別是發現了生物能夠產生定向心靈輻射。作為 X16 實驗室進行的研究的一部分，一個生物場發射器被培育了出來，它本質上就是一個巨大的大腦。\n這些文件絕不能落入任何人的手中，因為它們會引起烏克蘭國家安全局分析師的極大興趣。</text>
+	</string>
+
+	<string id="st_pri_a19_lab_x16_info_name">
+		<text>研究文件</text>
+	</string>
+
+	<string id="st_pri_a19_lab_x18_info_descr">
+		<text>該報告詳細介紹了對 X18 實驗室送來的生物樣本的研究。樣品受到不同強度的資訊領域的影響。該報告細緻地描述了生物在接觸能量釋放後發生的突變。\n這些文件絕不能落入任何人的手中，因為它們會引起烏克蘭國家安全局分析師的極大興趣。</text>
+	</string>
+
+	<string id="st_pri_a19_lab_x18_info_name">
+		<text>樣本研究報告</text>
+	</string>
+
+	<string id="st_pri_a19_lab_x7_info_descr">
+		<text>文件提及了將研究團隊和所有材料轉移到另一個名為 X7 的實驗室，該實驗室將用於研究與智慧圈影響有關的事宜。研究小組成員包括：N.A.利別德夫、E.F.卡蘭查和V.I.蘇斯洛夫。\n這些文件絕不能落入任何人的手中，因為它們會引起烏克蘭國家安全局分析師的極大興趣。</text>
+	</string>
+
+	<string id="st_pri_a19_lab_x7_info_name">
+		<text>轉移命令</text>
+	</string>
+
+	<string id="st_pri_b306_envoy_pda_desc">
+		<text>PDA上的最後一條訊息寫道：「我在六樓（技術樓層）找到了緊急發電機。花了兩個小時才讓它再次運作。我很想啟動它，但謝爾賓命令我留在原地，直到他帶了一些人進來。」</text>
+	</string>
+
+	<string id="st_pri_b306_envoy_pda_name">
+		<text>巴丘克的PDA</text>
+	</string>
+
+	<string id="st_pri_b35_lab_x8_key_desc">
+		<text>一張標有 X8 的紅色磁性門禁卡。</text>
+	</string>
+
+	<string id="st_pri_b35_lab_x8_key_name">
+		<text>紅色 X8 門禁卡</text>
+	</string>
+
+	<string id="st_pri_b36_monolith_hiding_place_pda_desc">
+		<text>PDA上包含許多毫無意義的條目，但有一個很引人注目：黑石組正在與訊息的接收者通訊，命令他收集多餘的彈藥並將其存放在非信徒不知道的地方。這些位置將標有黑石組的標記。「當困難時刻到來時，那些聆聽黑石組之聲的人將會受益於它的智慧……我已經將黑石組的意志傳達給了我的兄弟們，並告訴他們彈藥應該放在哪裡……」</text>
+	</string>
+
+	<string id="st_pri_b36_monolith_hiding_place_pda_name">
+		<text>黑石組戰士的PDA</text>
+	</string>
+
+	<string id="st_toolkit_1_desc">
+		<text>兒童工具箱。不太適合精細工作，但考慮到特異區工具的匱乏，對於節儉的技術人員來說可能會有用。</text>
+	</string>
+
+	<string id="st_toolkit_1_name">
+		<text>基礎操作工具</text>
+	</string>
+
+	<string id="st_toolkit_2_desc">
+		<text>還算不錯的一套工具。似乎是由一名經驗豐富的技術人員精心裝配好供自己使用的。儘管年代久遠，這些工具的狀況良好。</text>
+	</string>
+
+	<string id="st_toolkit_2_name">
+		<text>精細操作工具</text>
+	</string>
+
+	<string id="st_toolkit_3_desc">
+		<text>一套對設備進行微調的專業工具。容器上的註釋表明該套件是在德國製造的。工具包內包含幾乎任何類型的調諧和校準操作所需的一切。</text>
+	</string>
+
+	<string id="st_toolkit_3_name">
+		<text>校準工具</text>
+	</string>
+
+	<string id="st_zat_a23_access_card">
+		<text>老舊磁性門禁卡</text>
+	</string>
+
+	<string id="st_zat_a23_access_card_descr">
+		<text>卡丹的磁性門禁卡。曾經被用來進入 62 號物品的測試車間。</text>
+	</string>
+
+	<string id="st_zat_a23_gauss_rifle_docs">
+		<text>有關 62 號物品的文件</text>
+	</string>
+
+	<string id="st_zat_a23_gauss_rifle_docs_descr">
+		<text>描述電磁裝置工作原理和主要技術特性的文件。\n文件中附有註釋，上面寫著：「文件必須被送回 X8 中心實驗室，我很忙，你自己送過來。普里皮亞季的尤比列尼服務中心，用磁性門禁卡下到地下二層。到那裡你就知道怎麼做了。附上門禁卡。\nN.利別德夫」\n這些文件絕不能落入任何人的手中，因為它們會引起烏克蘭國家安全局分析師的極大興趣。</text>
+	</string>
+
+	<string id="st_zat_a23_labx8_key_name">
+		<text>黃色 X8 門禁卡</text>
+	</string>
+
+	<string id="st_zat_b12_documents_1">
+		<text>第 562 號命令</text>
+	</string>
+
+	<string id="st_zat_b12_documents_2">
+		<text>第 423 號內部命令</text>
+	</string>
+
+	<string id="st_zat_b12_key_1">
+		<text>鑰匙 A</text>
+	</string>
+
+	<string id="st_zat_b12_key_1_descr">
+		<text>一把普通的鑰匙，上面標有字母「A」。</text>
+	</string>
+
+	<string id="st_zat_b12_key_2">
+		<text>鑰匙 B</text>
+	</string>
+
+	<string id="st_zat_b12_key_2_descr">
+		<text>一把普通的鑰匙，上面標有字母「B」。</text>
+	</string>
+
+	<string id="st_zat_b20_noah_pda_desc">
+		<text>其中一段錄音聽起來特別像精神病：「所以，這就是那些該死的變異體所在的地方！……那些狡猾的渾蛋爬上高原，以為挪亞找不到牠們……我敢打賭，他們不知道我的農場北面有一條私人小路通向那裡……你們將會享受一段有趣的旅程，蠢貨們！！」</text>
+	</string>
+
+	<string id="st_zat_b20_noah_pda_name">
+		<text>挪亞的PDA</text>
+	</string>
+
+	<string id="st_zat_b40_notebook_desc">
+		<text>這本筆記本中記錄的大部分是垃圾，但有一條被標記為重要的訊息：\n「在廢料處理站附近建立一個營地，所有將要參與這項工作的人都會跟你並肩工作。不要期待布雷克會來，他和他的人將在木星工廠執行另一個任務。軍隊已經叫停了所有進入特異區的航班，因此那邊不會有任何麻煩。當潛行者找到前往普里皮亞季的方法時，我們將派出一名嚮導並在那裡等待客戶的人——他們會告訴我們實驗室在哪裡。\n豺狼」</text>
+	</string>
+
+	<string id="st_zat_b40_notebook_name">
+		<text>僱傭兵的筆記本</text>
+	</string>
+
+	<string id="st_zat_b40_pda_1_desc">
+		<text>這是最後收到的訊息：\n「我們正在一些舊車間附近閒逛。我派了兩個手下在前面為你探路。然後我們會在這裡等，直到客戶的信使出現——這裡的空氣可新鮮呢。\n特薩克」</text>
+	</string>
+
+	<string id="st_zat_b40_pda_1_name">
+		<text>僱傭兵鉤子的PDA</text>
+	</string>
+
+	<string id="st_zat_b40_pda_2_name">
+		<text>僱傭兵里奇的PDA</text>
+	</string>
+
+	<string id="st_zat_b57_gas_desc">
+		<text>一罐危險的化學神經毒劑。</text>
+	</string>
+
+	<string id="st_zat_b57_gas_name">
+		<text>一罐裴寧 B3 氣體。</text>
+	</string>
+
+	<string id="zat_b33_safe_container_desc">
+		<text>盒子被一把相當巧妙的鎖鎖住了。從它的重量和搖晃時發出的聲音來判斷，裡面有東西。</text>
+	</string>
+
+	<string id="zat_b33_safe_container_name">
+		<text>鋼製盒子</text>
+	</string>
+
+	<string id="zat_b39_joker_pda_description">
+		<text>PDA上的紀錄寫道：「我確信神器就在樹上。從這裡看很清楚，我可以從山上爬到樹上。我只希望山上沒有變異體。遺憾的是，我和卡丹還有巴奇吵了起來，所以我不得不獨自一人來這裡。不過當我帶回神器後，他們就會發現我一直都是對的……」</text>
+	</string>
+
+	<string id="zat_b39_joker_pda_name">
+		<text>小丑的PDA</text>
+	</string>
+
+	<string id="zat_b44_barge_pda_desc">
+		<text>PDA上的最後一條紀錄表明記錄人很不高興：「卡丹那個老酒鬼，一喝酒就變成一個懶惰的渾蛋——『這裡更好，我們需要放鬆』——而且然後他就跑向我和小丑，說我們還年輕，什麼都不瞭解……呵呵……小丑也是一個奇葩：生氣了，抓起他的包就消失了。我還在試著讓卡丹平靜下來，他就離開了，鬼知道他去了哪裡。我該怎麼辦？和那個老白痴喝酒？算了吧！他的伏特加難喝的要死……嘔……」</text>
+	</string>
+
+	<string id="zat_b44_barge_pda_name">
+		<text>巴奇的PDA</text>
+	</string>
+
+	<string id="zat_b22_medic_pda_desc">
+		<text>特雷莫爾在他的PDA裡寫日誌，他最後的紀錄是最有趣的：「錄音 12。我的研究很快就會結束……營地裡的人們開始懷疑起來。松雞和丹尼拉正計劃獵殺一些吸血鬼……我想知道他們什麼時候會搞清楚……我需要對血瓶進行分類，找出哪些已被污染，然後將其餘的藏起來……[快速：]有人來了。[錄音設備的聲音被關閉，然後又開啟] 錄音 13……可能是我的最後一次紀錄了。先是那個愛管閒事的獵人，現在是松雞……我逃避不了的。我知道，他們會來找我。這不重要了——無論如何，這種對血紅素的依賴很快就會殺死我。但我寧願死於子彈，也不願死於疾病……」</text>
+	</string>
+
+	<string id="zat_b22_medic_pda">
+		<text>特雷莫爾的PDA</text>
+	</string>
+
+	<string id="st_zat_b12_documents_1_descr">
+		<text>絕密。負責 1 號物品安全的總部指揮官R.Yu.迪登科第 562 號命令。\n423 化學防護部隊：從 B103 區搬遷至 A19 區，在近戰條件下對裴寧 B3 化學溶劑進行現場測試。部隊指揮官P.P.斯拉文上校負責進行測試。副指揮官K.S.瓦洛夫中校負責運輸和安全工作。</text>
+	</string>
+
+	<string id="st_zat_b12_documents_2_descr">
+		<text>絕密。P.P.斯拉文上校的命令。\n根據此命令，423 化學防護部隊的成員應熟悉以下資訊：\n1. 裝有裴寧 B3 化學溶劑的容器鑰匙由P.P.斯拉文上校（鑰匙 A）和K.S.弗拉索夫中校（鑰匙 B）持有。\n2. 從前方開始，車隊順序為：副指揮官的車輛、8 號護送車輛、1 號裝甲運兵車、1 號運輸車輛、3 號裝甲運兵車、2 號護送車輛、部隊指揮官(P.P.斯拉文) 的車輛。\n命令副本交給K.S.弗拉索夫中校和R.B.納扎倫庫中尉。</text>
+	</string>
+
+	<string id="st_zat_a23_labx8_key_descr">
+		<text>一張標有 X8 的黃色磁性門禁卡。\n鑑於此門禁卡可用於進入秘密實驗室，該卡不得落入其他任何人之手。</text>
+	</string>
+
+	<string id="st_jup_b202_bandit_pda">
+		<text>蘇丹的信使的PDA</text>
+	</string>
+
+	<string id="st_jup_b202_bandit_pda_descr">
+		<text>從這台PDA上傳送的最後一條訊息是語音訊息：「蘇丹，我狠狠教訓了那個蠢貨一頓！……讓他知道不要輕易惹我們！」</text>
+	</string>
+
+	<string id="st_af_quest_b14_twisted_descr">
+		<text>這以前是挖泥船的輪子，現在已經半化為一件奇怪的神器了。除了活躍的發光和一點放射性之外，沒有什麼值得注意的特性。</text>
+	</string>
+
+	<string id="st_zat_b40_pda_2_desc">
+		<text>收到的訊息如下：\n「我設法協商了一些有關武器的事情，那個貪婪的渾蛋要把他們陣營的庫存賣給我們。要價會相當便宜，但我們必須趕緊去到木星工廠。\n禿鷹」</text>
+	</string>
+
+</string_table>

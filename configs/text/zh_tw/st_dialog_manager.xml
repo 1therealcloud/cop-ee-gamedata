@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="dm_anomalies_10">
+		<text>在扎通一個地方的水下出現了熱能特異點，他們稱之為「鍋爐」，因為地面上會冒出蒸氣之類的東西。如果你覺得蒸氣不算什麼，再好好想想吧。老練的潛行者會告訴你，這種蒸氣特異點對人造成的傷害，絕不比普通熱能特異點輕。雖然溫度可能沒那麼高，但它炙烤你的時間更長。至於神器，他們找到過普通類型的火系神器。</text>
+	</string>
+
+	<string id="dm_anomalies_11">
+		<text>據說在採石場有一處好地方，那裡有很多神器，但也不缺特異點。在它的底部，瓦斯特異點產生了很多氣泡，它們會灼傷眼睛，即便有防毒面具也無濟於事。</text>
+	</string>
+
+	<string id="dm_anomalies_12">
+		<text>「灰堆」位於科帕奇附近的舊墳場內，那裡有很多熱能特異點，有時也會出現一些喪屍。人們對這個地方避之唯恐不及，但你也能在那裡找到神器。</text>
+	</string>
+
+	<string id="dm_anomalies_13">
+		<text>據說在停車場內有人找到了神器。第一次切爾諾貝爾核災難遺留下的汽車還在那裡——這些寶貝給輻射計數儀添了點「熱度」。此外，這個停車場到處都是電型特異點。</text>
+	</string>
+
+	<string id="dm_anomalies_14">
+		<text>「腐林」中的樹木在酸的腐蝕下都扭曲變形了。去過的人說那裡到處都是瓦斯特異點。空氣中瀰漫著瓦斯，以至於你沒法看清前路。但若是有足夠多的經驗，你就可以找到想要的神器。</text>
+	</string>
+
+	<string id="dm_anomalies_15">
+		<text>如果你在尋找神器，去找那些強酸種類的吧。找尋它們的最佳地點是在「混凝土池」，在那裡，沒多少人和你競爭：因為靠近木星工廠的緣故，沒人喜歡那個地方。</text>
+	</string>
+
+	<string id="dm_anomalies_16">
+		<text>距木星工廠不遠處的一段路塌陷了。人們把這個人行道融化的地方叫做「瀝青」。裂口處有很多特異點，包括熱能特異點和重力特異點。由於存在著兩種特異點，神器也有不同。</text>
+	</string>
+
+	<string id="dm_anomalies_17">
+		<text>在水泥工廠的另一邊有一個叫做「沼澤」的小港口。整個港口都變成了可怕的惡臭沼澤地，水裡充滿了瓦斯特異點——那甚至已經不再是水了，更像是酸。從前人們在這裡找到過神器，但此處也是怪物的聚集地。</text>
+	</string>
+
+	<string id="dm_anomalies_18">
+		<text>順道訪問一下舊水泥工廠。這裡有很多特異點，但很值得來。確實，在一些地點會更容易找到神器，但競爭也會更激烈。而在這裡，你唯一的競爭對手就是倉鼠，而且還是當你到地下室去的時候。</text>
+	</string>
+
+	<string id="dm_anomalies_19">
+		<text>你應該在「松櫟」周圍看看。這些東西長在丘陵之間，瓦斯特異點上方。自從某個高手在樹皮上同時識別出松樹和櫟樹的特性後，人們就這麼稱呼它了。如果你想在那裡搜尋神器，你需要做好化學防護，以及帶上大量彈藥，因為那些丘陵中還住著非常多的狗。</text>
+	</string>
+
+	<string id="dm_anomalies_2">
+		<text>有時你不需要跳進特異點來費力搜尋神器。我曾聽說過在空曠地區找到神器的事。那位潛行者有個探測器出故障了，在他打算更換電池的時候，探測器顯示了一個讀數，然後「砰」的一下，一個神器就這麼落到了他的手裡。真是個幸運的傢伙啊，對吧？對你而言，特異區就是如此：有時它會抽你一鞭子，有時它會給你塊糖。</text>
+	</string>
+
+	<string id="dm_anomalies_20">
+		<text>我聽老練的潛行者說過，有時神器會在特異點之外移動。當你的探測器發出「嗶」的一聲，你拿出來檢視，但什麼也沒發現時，意味著一個「流浪的」神器剛剛經過你身旁。不過沒有必要去追逐它，因為只有特異區才能決定把它獎勵給誰。</text>
+	</string>
+
+	<string id="dm_anomalies_21">
+		<text>還沒有人在普里皮亞季搜尋神器。我知道的所有人都只是在那裡短暫停留了一會兒，他們很警覺。</text>
+	</string>
+
+	<string id="dm_anomalies_22">
+		<text>我不清楚是不是所有人都知道好地點在哪。普里皮亞季迄今為止沒怎麼被探索過。</text>
+	</string>
+
+	<string id="dm_anomalies_23">
+		<text>我會去順道看看地下隧道。據說城市下方有很多條隧道。</text>
+	</string>
+
+	<string id="dm_anomalies_24">
+		<text>這些地方不太出名，我們已知的大部分都是透過蓋瑞的描述。他說這裡有一棵巨大的葡萄藤從強酸特異點中生長出來，有十層樓那麼高。他也許是在開玩笑，但我最好去看看那棵藤樹，萬一有神器呢。</text>
+	</string>
+
+	<string id="dm_anomalies_3">
+		<text>最確定的地方就是這個強酸沼澤了。到處都是重力特異點，不過它們都很好找，只要保證視線不離開水面就沒問題。瓦斯特異點才更折磨人，因為這裡幾乎沒有可呼吸的空氣。相信我，被其中一個噴到一點也不好玩——那東西腐蝕背心的速度比硫酸還快。</text>
+	</string>
+
+	<string id="dm_anomalies_5">
+		<text>山上被焚毀的農場處有許多熱能特異點，人們在那裡能找到火系神器。去房子處看看：在能量釋放後哪裡的特異點最多，哪裡就有神器。</text>
+	</string>
+
+	<string id="dm_anomalies_6">
+		<text>在被焚毀的農場下面的洞穴裡或許會有不少。如果你帶著探測器上山，它就會不停地嗶嗶作響。要進入其中很容易——只要從上面的瓦斯中跳進去。出來才是困難的部分，畢竟下面有這麼多的特異點，大部分是漩渦和強酸，有人還說曾在裂口中見過一個像彗星的東西。的確，危險一大堆，但那也意味著有一大堆的神器。</text>
+	</string>
+
+	<string id="dm_anomalies_7">
+		<text>你見過馬戲團特異點嗎？它是一個巨大的蹺蹺板特異點，有兩顆彗星繞著它轉啊轉，看上去很美。不過遠遠站著看就可以了，因為馬戲團熱得要命，還有一堆的熱能特異點。那裡也有很多神器，但它們被一個很噁的火焰吵鬧鬼看守著，你一走近他就想把你烤了。</text>
+	</string>
+
+	<string id="dm_anomalies_9">
+		<text>如果你對重力神器感興趣，就在尖牙特異點找找。這個地方很好找——特異點已經改造了地形，把半邊山都清乾淨了。山上露出了幾個洞穴，馬上就被史諾克佔據了。好在他們很少出來。</text>
+	</string>
+
+	<string id="dm_anomalies_do_not_know_1">
+		<text>在特異區，兄弟，在特異區。別放棄就好。</text>
+	</string>
+
+	<string id="dm_anomalies_do_not_know_2">
+		<text>好問題，你知道答案時記得告訴我！</text>
+	</string>
+
+	<string id="dm_anomalies_do_not_know_3">
+		<text>何時、何地、為何……記住：如果你找到了好地方，不要與人分享。</text>
+	</string>
+
+	<string id="dm_anomalies_general">
+		<text>我可以在哪裡找到神器？</text>
+	</string>
+
+	<string id="dm_anomalies_no_more_1">
+		<text>我已經告訴過你了。</text>
+	</string>
+
+	<string id="dm_anomalies_no_more_2">
+		<text>不，我別的什麼都不知道。</text>
+	</string>
+
+	<string id="dm_anomalies_no_more_3">
+		<text>我就知道這麼多。去問別人吧。</text>
+	</string>
+
+	<string id="dm_hello_0">
+		<text>你好嗎，兄弟？</text>
+	</string>
+
+	<string id="dm_hello_1">
+		<text>日安。</text>
+	</string>
+
+	<string id="dm_hello_10">
+		<text>哈囉，潛行者。</text>
+	</string>
+
+	<string id="dm_hello_11">
+		<text>哈囉。</text>
+	</string>
+
+	<string id="dm_hello_12">
+		<text>你要甚麼？</text>
+	</string>
+
+	<string id="dm_hello_13">
+		<text>甚麼？</text>
+	</string>
+
+	<string id="dm_hello_14">
+		<text>說吧。</text>
+	</string>
+
+	<string id="dm_hello_15">
+		<text>下午好，少校，長官！</text>
+	</string>
+
+	<string id="dm_hello_16">
+		<text>下午好！</text>
+	</string>
+
+	<string id="dm_hello_17">
+		<text>我在聽，少校，長官。</text>
+	</string>
+
+	<string id="dm_hello_2">
+		<text>嗯，嗨。</text>
+	</string>
+
+	<string id="dm_hello_3">
+		<text>甚麼？</text>
+	</string>
+
+	<string id="dm_hello_4">
+		<text>那個人自己。</text>
+	</string>
+
+	<string id="dm_hello_5">
+		<text>嗨，潛行者，為何如此匆忙？</text>
+	</string>
+
+	<string id="dm_hello_6">
+		<text>嗨。</text>
+	</string>
+
+	<string id="dm_hello_7">
+		<text>嘿，老兄。</text>
+	</string>
+
+	<string id="dm_hello_8">
+		<text>噢，嘿，老兄。</text>
+	</string>
+
+	<string id="dm_hello_9">
+		<text>你好啊。</text>
+	</string>
+
+	<string id="dm_hello_general">
+		<text>嘿！</text>
+	</string>
+
+	<string id="dm_help_0">
+		<text>救我，兄弟！</text>
+	</string>
+
+	<string id="dm_help_1">
+		<text>救我，兄弟，我要死了……</text>
+	</string>
+
+	<string id="dm_help_10">
+		<text>我需要醫療援助！</text>
+	</string>
+
+	<string id="dm_help_11">
+		<text>醫療包……快點！</text>
+	</string>
+
+	<string id="dm_help_2">
+		<text>救我，朋友……啊啊，好痛！</text>
+	</string>
+
+	<string id="dm_help_3">
+		<text>把醫療包給我……醫療包，快……</text>
+	</string>
+
+	<string id="dm_help_4">
+		<text>老兄……呃啊……拜託，幫幫我！</text>
+	</string>
+
+	<string id="dm_help_5">
+		<text>哎，我需要一個醫療包……快點……</text>
+	</string>
+
+	<string id="dm_help_6">
+		<text>救救我，潛行者……一個醫療包……拜託……</text>
+	</string>
+
+	<string id="dm_help_7">
+		<text>我受傷了……救命！</text>
+	</string>
+
+	<string id="dm_help_8">
+		<text>需要一個醫療包！</text>
+	</string>
+
+	<string id="dm_help_9">
+		<text>醫療包！</text>
+	</string>
+
+	<string id="dm_information_1">
+		<text>你有沒有聽說過斯卡多夫斯克東面的挖泥船？有人說在晚上看見那裡發出奇怪的光……要知道，即使是在特異區，這也有夠奇怪的。我不確定應不應當去檢查一下，也許會有一些有價值的東西，但這值得我冒險嗎？這是個問題……</text>
+	</string>
+
+	<string id="dm_information_10">
+		<text>只有一些有關破銅廢鐵的事。比如那個普列奧布拉任斯基橋上壞掉的電動機柱——它鏽得不能再鏽了，那座橋也是。要不是史諾克和特異點的存在，許多人應該會很喜歡在這塊區域東翻西找的……</text>
+	</string>
+
+	<string id="dm_information_11">
+		<text>你聽說了蘇丹計劃接管大鬍子的生意嗎？斯卡多夫斯克已經滿足不了他的貪婪野心了，所以他想要搶奪更大的地盤……但我們也說過「沒門，喬西！」大鬍子和我們其他人好好給他們上了一課，蘇丹的暴徒行動在這裡根本沒路走。</text>
+	</string>
+
+	<string id="dm_information_12">
+		<text>哇，你聽說了嗎？那個人渣蘇丹狠狠教訓了大鬍子一頓……我不清楚具體細節，但似乎他開始向大鬍子收保護費了！特異區今後會如何呢？如果狀況持續下去，斯卡多夫斯克將在不知不覺中變成一個強盜大本營！</text>
+	</string>
+
+	<string id="dm_information_13">
+		<text>你聽說過「綠洲」嗎，兄弟？據說那個地方非常難找到，而且就算你知道在哪，要過去也是難上加難。聽說那裡有一個湖，走進去後所有的病痛都會消失，所有的傷口都能立刻痊愈！啊，光說無益。你看見沒有，有多少菜鳥潛行者來這裡，去往特異區中心？有人是為了搜尋神器，有人只是好奇，但大多數人希望能找到綠洲。傳聞說，它就隱藏在此處的某一個地方……</text>
+	</string>
+
+	<string id="dm_information_14">
+		<text>他們說特異區快完了……有人找到了「綠洲」還拿走了那裡的神器——綠洲之心。現在特異區將轉入另一個維度，沒有一個潛行者能夠逃離……開玩笑的，老兄。不過他們的確找到了某種新型神器，據說科學家們正在地堡裡研究它呢。</text>
+	</string>
+
+	<string id="dm_information_15">
+		<text>你聽說過「托普」嗎？他給他的手下找了幾個新的爛地方，讓他們去閒逛。他們自然很樂意去，只不過這種冒險行為的下場就是被控制者洗腦。要不是和他們在一起的那個潛行者，他們就等著在醫院病床上失禁吧。當托普從喪屍化的鬼扯中清醒過來時，那個潛行者就蹲在控制者旁邊，正把牠的耳朵割下來。</text>
+	</string>
+
+	<string id="dm_information_16">
+		<text>你聽說過「科帕奇」小鎮嗎？當最初那場災難降臨切爾諾貝爾核電站時，那個地方的狀況異常嚴重，以至於他們決定填埋整個小鎮。現在那裡沒有房屋了，只剩些小型放射性土丘。他們說那地方在災難之前就很恐怖，光想想現在那裡有可能找到的東西，我就渾身發抖。大家都不敢去那裡查看，但如果他們說的不對——就我們所知，這可能會是一個神器大寶庫啊！</text>
+	</string>
+
+	<string id="dm_information_17">
+		<text>你知道嗎，在亞尼夫，只有兩位潛行者能夠感知到能量釋放的來臨：一個是我們的醫護人員，接骨師；還有一個是前紀律團成員，祖魯，這個「前」是最近才加上去的……當紀律團來到亞尼夫站時，自由團的戰士們已經在了。正如預料的那樣，事態很快變得不可收拾。兩個派閥都遭受了巨大的損失，甚至一些自由的潛行者也被流彈擊中。就在那時，祖魯告訴他們一場能量釋放即將到來。別無選擇之下，紀律團和自由團停火了，並在站內建造掩體。當一切平息後，祖魯就退出了紀律團，並在離站不遠的塔裡安頓下來。</text>
+	</string>
+
+	<string id="dm_information_18">
+		<text>各種各樣的怪奇故事都有……你不能照單全信。最近，特異區裡到處都是講故事的人，但奇怪的是，一些來自亞尼夫站的潛行者報告說見到了幽浮。他們說它看起來像一個直徑約有 16 英呎的黑色碟形物，其他人則聲稱它從遠處看像是一架飛機，他們確信這就是它的樣子。無可爭議的是，其中一個目擊者是一名前飛機師，他說他一生中從未見過類似的東西。</text>
+	</string>
+
+	<string id="dm_information_2">
+		<text>最近盡是些壞消息。好人一個接一個地消失，屍體中一滴血都不剩。這一定是那些天殺的吸血鬼幹的，還能有誰？啊，我好想找到他們的老巢，然後用子彈把那些混蛋打得親媽都不認得！等下我們要結伴上廁所，知道嗎？落單的潛行者要倒大楣的。</text>
+	</string>
+
+	<string id="dm_information_20">
+		<text>給你講個新情報。自由團的人拿到了紀律團傳奇創始人的PDA，你敢信，原來他騙了他的手下，告訴他們說軍方首領把他們遺棄在了特異區。他撒謊就是為了能夠建立他自己的派閥！不過像這樣的鬼話在特異區可站不住腳，沒過多久我們的英雄就被困在了特異空間裡，這就是他的結局了。整個事件就是如此……我之前還想過加入紀律團的！算了，還是讓他們自娛自樂好了，別扯上我。</text>
+	</string>
+
+	<string id="dm_information_21">
+		<text>我說，那個新的紀律團小隊……他們好像是憑空出現的。想想看吧：一群紀律團的戰士們離開了亞尼夫，回來時人數變成了之前的三倍！他們是克隆了自己還是怎樣？不過我猜這就是紀律團的作風吧，你唯一能區分他們的方式就是透過排名！</text>
+	</string>
+
+	<string id="dm_information_22">
+		<text>我說，那個新的自由團小隊……他們好像是憑空出現的。想想看吧：一群自由團的戰士們離開了亞尼夫，回來時人數變成了之前的三倍！我想到了——他們一定是進行了出芽生殖！你也這麼想，對吧？看看他們抽的煙草，感覺他們很快就要落地生根然後開始無性生殖了！</text>
+	</string>
+
+	<string id="dm_information_23">
+		<text>你認識貢塔和他的手下嗎？他們之前有段時間運氣不好，丹尼拉失蹤了，螃蟹受了傷。不過現在他們的運勢不錯，和科學家們和諧相處，為他們做些測量工作。挺好，對吧？有一份安逸的工作，算是一個能讓他們獲得官方許可的保險方式。</text>
+	</string>
+
+	<string id="dm_information_24">
+		<text>聽說過名叫米塔伊、托爾巴和葛里利的潛行者嗎？據說他們在科學家那裡找了份工作，負責測量數據。這究竟在搞什麼鬼？要我說，那些書呆子不懷好意。不過，至少那些傢伙現在看開了，有一天也許還能得到官方許可。</text>
+	</string>
+
+	<string id="dm_information_25">
+		<text>認識斯巴達克斯和他的手下嗎？哎，你不會再在斯卡多夫斯克看見他們了——他們現在負責看守科學家的地堡。很合適，畢竟他們可以輕鬆解決變異體，還知道怎樣讓強盜們退避三舍。為了科學，付諸和平與寧靜是值得的。</text>
+	</string>
+
+	<string id="dm_information_26">
+		<text>你有見過僱傭兵們在變電站無所事事嗎？最近沒有吧，因為他們去了木星工廠去守衛科學家的地堡。我聽說，在他們之前就有一些僱傭兵負責守衛，不過出了點狀況。要我說，不是什麼壞事！一些僱傭兵消失，另一些僱傭兵補上空缺，然後同樣的事……再多來幾回，扎通這裡的僱傭兵就徹底沒了。</text>
+	</string>
+
+	<string id="dm_information_27">
+		<text>傳聞說紀律團的勇敢戰士們正守衛著科學家的地堡……我很好奇，這對他們有什麼好處呢？難道他們真的指望那些所謂「專家」會回報給他們一把嶄新的等離子槍，好讓他們去獵殺倉鼠？還守衛呢，鬼扯……</text>
+	</string>
+
+	<string id="dm_information_28">
+		<text>他們說自由團正守衛著科學家的地堡。難道那些科學家不害怕他們的測試樣本會灰飛煙滅嗎？對，就是字面意思，這還是往好了說。就算真的有人想要襲擊地堡，他們也得先通過這道煙霧屏障，哈哈哈！</text>
+	</string>
+
+	<string id="dm_information_29">
+		<text>你見過木星工廠嗎？就是那個無線電電子廠。一個很詭異的地方。沒人知道那裡近況如何。特異點和變異體和別處也沒什麼不同……不過我還是不想去，我的本能告訴我那裡會有麻煩。</text>
+	</string>
+
+	<string id="dm_information_3">
+		<text>嘿是你！你是不是揭發斯卡多夫斯克醫生的那個傢伙？我很感激你，真的。我本來可能成為他的下一個病人，你懂的……我們都以為那是怪物，但我想可能有些人也同樣糟糕。真相是，我們活在一個狗咬狗的世界裡，對吧？</text>
+	</string>
+
+	<string id="dm_information_30">
+		<text>應該是我來問你的。在你進入那些木星工廠下方的隧道後，有流言說你抵達了特異區的中心，大家一下子就沸騰了，很多人渴望追隨你的腳步。奈喬平息了騷動，他說隧道門被關上了，沒法再打開。當然，有幾個亡命之徒想要炸開隧道門，不過他們目前還在思考哪裡能找到足夠多的炸藥，以及一旦進入隧道後該如何呼吸的問題。</text>
+	</string>
+
+	<string id="dm_information_31">
+		<text>噢，你聽說了有關蓋瑞的最新消息嗎？就是那個曾經為科學家工作過的潛行者。他已經不再是一個「入侵者」了——他得到了特異區的官方許可，信不信由你！吶，你是不是在想，他應該已經拿了他的戰利品然後回家了，是吧？哈，正正相反，那個瘋子動身去了普里皮亞季。所有人都覺得他像其他人一樣死了，但遠非如此。他做到了，只不過他的壯舉對潛行者而言沒什麼用。他遇上了一些軍方人員，現在蓋瑞對那些鍋蓋頭可適應多了，畢竟有了許可證了嘛，但那個區域對普通潛行者來說仍然是個禁區。</text>
+	</string>
+
+	<string id="dm_information_32">
+		<text>好吧……自由團和紀律團又開戰了，這次是為了些大型藏匿點。據說那裡有足夠三個步兵師的裝備。不知道是誰最先佈置了這樣一個藏匿點，不過這場較量確實很重要。所有亞尼夫的潛行者都被吸引來了，好在他們並不干涉，否則我們又要經歷一場混戰了。我猜紀律團輸了，畢竟這個地方現在正由自由團隊伍守衛著。</text>
+	</string>
+
+	<string id="dm_information_33">
+		<text>好吧……自由團和紀律團又開戰了，這次是為了些大型藏匿點。據說那裡有足夠三個步兵師的裝備。不知道是誰最先佈置了這樣一個藏匿點，不過這場較量確實很重要。所有亞尼夫的潛行者都被吸引來了，好在他們並不干涉，否則我們又要經歷一場混戰了。我猜自由團輸了，畢竟這個地方現在正由紀律團隊伍守衛著。</text>
+	</string>
+
+	<string id="dm_information_34">
+		<text>最近發生了一些事。一群潛行者在探索木星工廠的管道時遇上了什麼東西——我是指，遇上了什麼人。首先他們的槍從手中脫離飛走了，然後所有東西又直直飛向他們。他們完全不知道是什麼在搞鬼，但他們在那裡失去了兩個成員。</text>
+	</string>
+
+	<string id="dm_information_35">
+		<text>我聽說他們在木星工廠北面的管道中發現了某種噁心的變異體。特拉帕派了一個潛行者去調查。結果顯示，那地方之前是布雷爾的巢穴——為甚麼是「之前」？因為那個潛行者把所有的布雷爾都幹掉了。單槍匹馬……你看起來很符合對他的描述，不過他更高一點，而且總是帶著一個榴彈發射器。</text>
+	</string>
+
+	<string id="dm_information_36">
+		<text>潛行者們完蛋了……怪物要從「沼澤」殺過來了。水泥工廠裡的潛行者看到牠們把一個你們的人拖走了。牠們至少有十幾隻，都是些身型巨大的傢伙，大到你都不敢信。牠們長得像是兩倍大的吸血鬼，但速度更快。我們祈禱特拉帕能夠弄清楚該如何對付這些野獸……</text>
+	</string>
+
+	<string id="dm_information_37">
+		<text>你知道沼澤地吸血鬼嗎？就是那些來自「沼澤」的？牠們已經消失了，特拉帕幹掉了牠們，不過不是親自動的手——他僱傭了一些潛行者。據說他集結了一個十人左右的小隊，徹徹底底將沼澤地翻了個底朝天。無論出現了什麼，都被他們用槍砲送上了西天。現在那裡連一隻青蛙都沒有了。</text>
+	</string>
+
+	<string id="dm_information_38">
+		<text>不久前，有傳言說有人殺死了一隻奇美拉。變異體從前殺了很多潛行者，但我們終於變聰明了，反敗為勝。我也從別處聽說那人是一個經驗豐富的獵人，他殺掉的怪物數量比你我這一輩子打死的蚊子都多。</text>
+	</string>
+
+	<string id="dm_information_39">
+		<text>你知道如今自由團都在招募什麼樣的人嗎？有個叫弗林特的傢伙，到處吹噓他的冒險經歷和戰利品……哼，他就是個徹頭徹尾的人渣。把他的夥伴留在特異點等死，搶奪了別人的戰利品後一走了之。後來他們還發現了他在扎通更多的「英勇事跡」，比如他幾乎是把一群獵人送到了奇美拉嘴邊。我以前覺得自由團還挺不錯的……該死，我寧可不加入任何一個派閥，也不想有這樣的朋友。</text>
+	</string>
+
+	<string id="dm_information_4">
+		<text>好吧，他們在扎通殺死了那隻奇美拉，貢塔的小隊和一名無名潛行者……等等，那個人是你吧？也許你能給我一些第一手資料？太感謝了，對了，順便說一句：無需擔心，那隻變異體不怎麼吃人！</text>
+	</string>
+
+	<string id="dm_information_40">
+		<text>不知道這算不算得上有新聞價值：挪亞在我們這裡，他是你能見到的最瘋的瘋子。他有一條很醜的駁船……就像是他請了一群非法勞工花了一周時間趕工造的，哈。要小心他，他是那種動不動就先開槍的人，甚至都懶得開口問問題。要我說，讓那混蛋見鬼去吧。</text>
+	</string>
+
+	<string id="dm_information_41">
+		<text>你認識「小機靈」嗎？好吧，他像貓一樣鬼鬼祟祟的，但毫無疑問，他賣的槍是這地方最好的。我很想知道他是怎樣偷運它們的，我的意思是，你要如何攜帶一把 Vintar 而不被人發現你帶著它？你要把這個東西放在哪裡？老兄，這怕不是有什麼巫術吧。</text>
+	</string>
+
+	<string id="dm_information_42">
+		<text>傳言說，蘇丹有大麻煩了。他想讓大鬍子破產並將對方的生意收歸己有，不過貪心不足蛇吞象，才拿了些皮毛。現在他的黨羽都在斜眼看他，他以後的日子要難過囉，再也回不到從前的地位了。</text>
+	</string>
+
+	<string id="dm_information_43">
+		<text>傳言說，蘇丹把大鬍子捏在了手心裡，榨乾了他的生意。那可都是大買賣，蘇丹現在的地位也提升了不少。不過最棒的是，我們現在可以以自己的方式管理斯卡多夫斯克了，豈不是美滋滋。想在能量釋放中尋找掩體？沒問題，付通行費就行了！</text>
+	</string>
+
+	<string id="dm_information_44">
+		<text>嘿老兄，你聽說過「綠洲」嗎？想象一下，這個地方能夠立刻治好你的病痛，可能是戲法或是魔術之類的吧……不過我有另外一個想法：如今所有的傳言都圍繞著綠洲，但關於許願石卻不再像從前那樣有人談論。所以，也許綠洲實際上是某個人的心願成真了？</text>
+	</string>
+
+	<string id="dm_information_45">
+		<text>在書呆子之中流傳一個說法，說是某種神器是被一路從綠洲拉到這裡來的。但搞清楚這點：一旦他們研究它，他們就會利用研究成果來提出一個治療癌症的方案！很對吧！</text>
+	</string>
+
+	<string id="dm_information_46">
+		<text>不一樣的日子，一樣的糟心事……每個人都在發挖有關特異區中心的舊事，就比如「綠洲」——一個能立刻恢復能量和治愈傷病的地方。這純純就是屁話，不過聽著倒是挺好玩的，特別是他們談論綠洲位址的時候。哦，我希望真的能有這樣一個地方……許多我們的人就能得救了。</text>
+	</string>
+
+	<string id="dm_information_47">
+		<text>我聽說了他們在綠洲找到的葡萄藤。我從沒想過它的存在，不過事實就是如此。一件神器在那裡被找到了，此時此刻科學家們正在研究它，也許他們可以用它來製造某種超高速治療儀……我們的人一定能好好利用它。</text>
+	</string>
+
+	<string id="dm_information_48">
+		<text>科帕奇。對特異區來說不是什麼新鮮事了，但對我是。想想看吧，一整個小鎮的房子被埋到只剩屋頂還在地面……一切追溯回 1986 年……房子所散發出的輻射量是如此之大，以至於他們不得不填埋掉所有。多麼令人毛骨悚然的景象啊……</text>
+	</string>
+
+	<string id="dm_information_49">
+		<text>你知道我們和紀律團是如何最終在亞尼夫實現共處的嗎？一切要歸功於祖魯。那時他還在紀律團，和其他人不同，他可以感知到能量釋放的來臨……但我們先來到了亞尼夫，也就是說，在潛行者之後。當那些懵懂的步兵出現，向我們開槍時，我們幾乎沒有時間去燃煙示警。我上一次看到這種屠殺還是在一年前的垃圾場。雙方都死了很多人，包括我們的能量釋放專家，願上帝拯救他的靈魂。就在那時祖魯說「能量釋放來了！找掩體！」我們該怎麼做，將他們趕出去，讓他們死？無論是否為紀律團成員，他們仍然是人類。這就是我們現在的生活方式：和平時期我們會爭吵，但當能量釋放來臨，我們就會攜手靜待危機渡過。祖魯最終離開了紀律團。他現在隱居在亞尼夫附近。</text>
+	</string>
+
+	<string id="dm_information_5">
+		<text>既沒有新消息，也沒有秘密，不過技術人員卡丹正步上酗酒致死的道路。他們說他剛來斯卡多夫斯克時還算好，只在偶爾或為了抗輻射才喝酒。直到後來，他的兩個朋友去世，悲慟之下他開始灌醉自己。他們一定很要好……</text>
+	</string>
+
+	<string id="dm_information_50">
+		<text>好吧，有一件搞笑的事。這個傢伙在說幽浮飛過亞尼夫的事。特異區真的能把人逼瘋，不是嗎？吵鬧鬼和控制者已經不能滿足他們了，非得來一些幽浮趣事才行。好吧，至少我們還沒有什麼通靈瘋子給伏特加驅魔。想象一下，一個人在那邊說「啊上帝，請將惡靈驅趕走！留下那口完美的酒！」哈哈。</text>
+	</string>
+
+	<string id="dm_information_51">
+		<text>你聽說過「科帕奇」小鎮嗎？當最初那場災難降臨切爾諾貝爾核電站時，那個地方的狀況異常嚴重，以至於他們決定填埋整個小鎮。現在那裡沒有房屋了，只剩些小型放射性土丘。他們說那地方在災難之前就很恐怖，光想想現在那裡有可能找到的東西，我就渾身發抖。大家都不敢去那裡查看。</text>
+	</string>
+
+	<string id="dm_information_52">
+		<text>這不是新聞，不過也許你沒聽說過。我們沒有跟自由團牽扯到一起是因為我們喜歡過安逸日子。一切要歸因於當時的情勢。當我們剛來這裡時，自由團就對我們無故發動了突襲……雙方損失都很慘重，雖然我們速度不快，但顯然我們比那些無政府主義者更有優勢……但就在戰鬥如火如荼之際，祖魯感知到了能量釋放的來臨。你知道的，他從不出錯……我們別無選擇，只能擱置戰斗。但我不理解的是，為甚麼祖魯要在那件事之後離開紀律團……</text>
+	</string>
+
+	<string id="dm_information_53">
+		<text>我們的斥候最近報告說在亞尼夫站上空見到了不明飛行物，也就是幽浮。在你問出任何愚蠢的問題之前，先解釋下，幽浮並不只是一個裡面坐著火星人的會飛碟形物。它有可能是任何飛行物體，一張硬紙板或是一個氣象氣球，只要目擊者認不出來就可以。明白了嗎？</text>
+	</string>
+
+	<string id="dm_information_54">
+		<text>你就是那個把PDA帶給洛基的人吧？老兄，那東西可不簡單。紀律團的傳奇創始人，塔琴科將軍，把自己的士兵騙得團團轉。他把無線電搞壞，讓他們接收不到外界的訊息，還找了一群蠢貨組建了自己的部隊……而他的下場，就是在一個該死的特異空間裡以一種弱智的方式死掉了！編都編不出這種事吧，老兄！</text>
+	</string>
+
+	<string id="dm_information_55">
+		<text>看到新隊伍裡那些懵懂的步兵怎麼行事的吧？不可能是他們的基地派的援軍——意識形態還沒有完全取代理智。他們相當訓練有素，也不像是平平無奇的潛行者。誰他媽知道呢。也許他們是黑石組的人？我知道，這聽上去很瘋狂！</text>
+	</string>
+
+	<string id="dm_information_56">
+		<text>見過我們的新戰士了嗎？哦，是你把他們帶到這裡的吧？你真厲害，他們超棒的，就是有些緊張……沒關係，跟我們在一起幾個月後，他們就能徹底放鬆下來了。他們會逐漸喜歡上我們的生活方式，然後很快就能像我們一樣生活。</text>
+	</string>
+
+	<string id="dm_information_57">
+		<text>我們招到了一些很不錯的新成員：一支前黑石組成員小隊。他們是訓練有素的戰士，可不是什麼菜鳥。當然了，他們的頭腦在離開黑石組之後還沒有完全步上正軌，不過不要緊，我們會提供特別的意識形態 101 速成課程，以及更多。</text>
+	</string>
+
+	<string id="dm_information_58">
+		<text>據說自由團招募了一些前黑石組成員。難以置信，不過他們確實有了一支新小隊，而且肯定不是來自特異區之外。我猜他們現在一定很絕望……或者說，他們的大腦已經被那些藥物徹底摧殘了。他們接下來還要招募什麼人呢？一個旅的喪屍，還是一個營的布雷爾？</text>
+	</string>
+
+	<string id="dm_information_59">
+		<text>這個地方很快就能恢復法律與秩序了。紀律團已經佔領了核心據點，我們在亞尼夫有了穩固的立腳點，而且我們還在科學家的地堡設立了全天無休的保護小組。是時候讓自由團捲鋪蓋走人了——這裡不歡迎無政府主義者。</text>
+	</string>
+
+	<string id="dm_information_6">
+		<text>世界最新一大奇跡——清醒著的卡丹。你敢信他在戒酒？斯卡多夫斯克的人問他是不是打了戒酒無名會的電話號碼，他回答說，「我唯一需要的號碼是 62。」</text>
+	</string>
+
+	<string id="dm_information_60">
+		<text>我想，是你幫了我們的人，讓他們可以去保護科學家的吧？謝謝你，很高興看到是我們的人守著地堡，而不是那些可惡的僱傭兵。做得好！</text>
+	</string>
+
+	<string id="dm_information_61">
+		<text>讓我想想……我們從紀律團的秘密藏匿點裡拿到了好東西，現在要讓那個藏匿點發揮它預期的作用了：關押紀律團的人渣們，逼迫他們吐出所有秘密，哼哼。噢，對了，謝謝你告知我們那個警報系統——要不是有援軍，我們都沒勝算。</text>
+	</string>
+
+	<string id="dm_information_62">
+		<text>紀律團的又一次勝利！那些無政府主義者自我感覺太良好了……偷偷溜進我們的秘密倉庫，以為他們可以為所欲為嗎？當然不可能！我們當場抓住了他們，像打死發瘋的倉鼠一樣把他們爆頭了。</text>
+	</string>
+
+	<string id="dm_information_63">
+		<text>自由團的人都是賤命，這沒什麼好講的，但我們挖到了那群瘋子其中一個的新鮮事。那個暴徒在自由團時叫弗林特，但在此之前，他叫「喜鵲」，是一個潛行者。至少在他來扎通時，他的名字就是喜鵲，就是他把幾乎一整個獵人小隊送到了變異體的嘴邊。他陷害了他們，讓一隻奇美拉把他們幾乎都撕成了碎片，而這個渾蛋拿走了他們的裝備後來到了亞尼夫。加入自由團後，他為了搶走別人的神器而把同伴丟在了特異點。所以，這就是自由團的德行了。</text>
+	</string>
+
+	<string id="dm_information_7">
+		<text>由挪亞指導的一項新的造船工程。給你介紹扎通的最新人氣王——一位名叫挪亞的潛行者。他經驗豐富，積極主動，完完全全是個瘋子。他最新的瘋狂想法是拯救所有潛行者於大災變之中，為此，他把一條舊駁船重建為「方舟」，十足就是一間瘋子製造廠。如果你執意要去看看，記得別惹怒挪亞。只要你照辦，他就沒什麼殺傷力。</text>
+	</string>
+
+	<string id="dm_information_8">
+		<text>你見過小機靈嗎？他現在就在斯卡多夫斯克。他是個貿易老手了，你想要什麼，他都有——好吧，幾乎都有。他最近主要買賣槍炮和服裝，都是上等貨！特色道具、實驗性設計、手工製品……他的貨很貴，不過為甚麼不呢？獨特性總是意味著要花大價錢！</text>
+	</string>
+
+	<string id="dm_information_9">
+		<text>你知道飛機師已啟用了一條往來扎通和木星工廠的新航線嗎？以前要走很久，翻山越嶺、躲避特異點等等。現在就輕而易舉了，和在公園散步差不多，更不要說路程還縮短了一半。不過飛機師把功勞給了應得之人——他不是那個發現新航線的人，一個潛行者給他看了地圖。雖然是有償服務，不過他也沒要求用一條手臂或腿來做報酬。</text>
+	</string>
+
+	<string id="dm_information_do_not_know_1">
+		<text>老實說，沒有什麼。</text>
+	</string>
+
+	<string id="dm_information_do_not_know_2">
+		<text>特異區裡不缺新鮮事，哪裡都有。</text>
+	</string>
+
+	<string id="dm_information_do_not_know_3">
+		<text>啊，現在你在這裡，我想這就算新鮮事吧。</text>
+	</string>
+
+	<string id="dm_information_general">
+		<text>特異區裡有甚麼新消息？</text>
+	</string>
+
+	<string id="dm_information_no_more_1">
+		<text>我不知道有什麼別的事你會感興趣。</text>
+	</string>
+
+	<string id="dm_information_no_more_2">
+		<text>如果有，我會很樂意跟你講，不過這就是我知道的全部了。</text>
+	</string>
+
+	<string id="dm_information_no_more_3">
+		<text>我已經告訴了你我所知道的一切。</text>
+	</string>
+
+	<string id="dm_job_1">
+		<text>唔……也許你該去問在斯卡多夫斯克的松雞。他一直在尋求幫助：潛行者們無故消失了。所有人都覺得是吸血鬼在搞鬼，因為當他們的屍體被發現時，一滴血都不剩了。不過這也太過分……牠們幾乎每隔一天都要抓人，一點也不像吸血鬼的作風……松雞甚至僱了一位經驗豐富的獵人去跟蹤那些吸血鬼。</text>
+	</string>
+
+	<string id="dm_job_10">
+		<text>你知道嗎，一位潛行者可以有兩種方式去賺錢：一種是去找神器，然後以 30 戈比兌SR的價格賣給貿易商人；還有一種就是為科學家做事。他們總有這樣那樣的工作要交給潛行者，比如遞送一件罕見神器或變異體屍體。不過最重要的是，如果你能夠討到他們喜歡，他們就會給你簽發一張特異區許可，完全官方合法。想象一下這個場景：你正穿過一個軍方崗哨，拖著裝滿了戰利品的背包，還有人向你敬禮！太暖心了！不管怎樣，科學家的地堡就坐落在亞尼夫站的西邊。他們已經僱傭了一個潛行者了，或許他們可以再僱傭一個，比如你。</text>
+	</string>
+
+	<string id="dm_job_11">
+		<text>你有多成功取決於你做了什麼。如果你願意獵殺變異體，你將得到許多工作機會。去亞尼夫的地下室逛一逛，與特拉帕談談——他會為獵殺變異體支付好價，不過要獲得報酬，你不能射殺見到的第一隻地獄犬。特拉帕會發佈特定怪物的訂單，那些怪物要麼會妨礙到蒐集神器，要麼經常造訪潛行者躲避能量釋放的地方。</text>
+	</string>
+
+	<string id="dm_job_14">
+		<text>像你這樣的人來斯卡多夫斯克都喜歡去拜訪大鬍子。他會為神器支付一個好價錢……不過讓我告訴你一件事：他的商業頭腦爛透了。他不願意和一些有權有勢的人分享利益……遲早他會為這付出代價的。你說對嗎？</text>
+	</string>
+
+	<string id="dm_job_15">
+		<text>如果你需要現金，就去見見貓頭鷹。他售賣任何人在斯卡多夫斯克都需要的東西——情報，槍炮，等等。如果你手上有一些搶手的值錢貨，比如一份文件或是潛行者的PDA，將它帶給貓頭鷹，你就能拿到報酬了。你也可以接受他的私人訂單來試著賺大錢，問問他是否需要幫忙做事就行。</text>
+	</string>
+
+	<string id="dm_job_2">
+		<text>你可能會想問問貢塔。他和他的手下有一次很驚險的遭遇。不久前，一隻奇美拉出現在扎通，貢塔就和他的人去抓牠。他們兵分兩路跟蹤那隻野獸，還派了一個獵人去搜尋吸血鬼的巢穴。最終他們找到了奇美拉，但人手有些不足，於是另一個潛行者「喜鵲」也加入了。我不清楚一切究竟是如何發生的，但大多數人都認為是喜鵲在見到奇美拉之後逃跑了。貢塔差點沒能活著出來，他的一個手下也傷得很重。儘管如此，那隻奇美拉仍然在逃，所以他們正在尋找幫手。</text>
+	</string>
+
+	<string id="dm_job_3">
+		<text>這很簡單：如果你急需用錢，就去找蘇丹。他是本地的地頭蛇。要是你表現夠好，他就會給你找一份工作。</text>
+	</string>
+
+	<string id="dm_job_4">
+		<text>如果你很擅長潛行——也就是搜尋神器——就去跟大鬍子談談。他在本地很有威望，也是斯卡多夫斯克唯一一個會以好價格買你神器的人。他有路子把它們運到特異區外。另外，知道嗎，他也是個好人……總能給你提供些建議或者好工作。</text>
+	</string>
+
+	<string id="dm_job_5">
+		<text>在斯卡多夫斯克有一個貿易商人，他叫貓頭鷹。他不算是一個很友善的人，經常抱怨為什麼所有的神器都去了大鬍子而不是他這裡。不過如果你需要錢，可以去看看他提供的服務。那個狡猾的傢伙可不止做彈藥生意，他能幫你鑒別、買賣貨物，然後為他感興趣的東西付錢。去造訪他吧——他在第二塊後甲板那裡。相信你們會談得來的。</text>
+	</string>
+
+	<string id="dm_job_6">
+		<text>你可以問問瓦諾，他常去亞尼夫的酒吧，他把強盜們惹毛了——三次向他討債未果。他有經驗以及別的一切，閉著眼就能找到特異點……即便如此，他還是總能給自己惹麻煩。很多人都說他經常原地失蹤。對那些暴徒來說，在偌大的特異區裡找他就像是大海撈針，不過他也很自負，沒想著逃跑，而這裡也沒什麼人願意幫他擺脫強盜們的追緝……</text>
+	</string>
+
+	<string id="dm_job_7">
+		<text>忘了工作吧，老兄……最近強盜們很猖獗——他們囚禁了米塔伊並索要贖金。米塔伊是亞尼夫的首批潛行者之一，他建立了這個地方以便人們躲避能量釋放。現在他有難了卻沒人理會。自由團和紀律團不必說——他們正忙著狗咬狗呢……不過其他人——他們總該做些什麼吧！哈，有什麼用……米塔伊自己的人都沒法救他。如果你想幫忙，就去找葛里利吧，他在站裡的酒吧那邊。</text>
+	</string>
+
+	<string id="dm_job_8">
+		<text>奈喬，那個亞尼夫的技術人員，他需要一些工作材料。以防你不知道，他很擅長搞武器和電子產品這種東西。不過只有技術還不夠——他需要合適的材料，所以正在四處打聽。問題在於，所有安全的地方早就被打掃乾淨了，剩下那些地方對於大多數人來說又太過危險。奈喬想找一個願意冒險的人，我敢說，他一定會為此開出高價的。</text>
+	</string>
+
+	<string id="dm_job_9">
+		<text>我聽說亞尼夫站的雅爾叔叔在找一個好奇心不那麼重的潛行者幫他做事。不清楚為甚麼他不去找他的自由團兄弟……不管怎樣，他是個正派的老人，所以也許你可以跟他談談，看看有沒有適合你做的。</text>
+	</string>
+
+	<string id="dm_job_do_not_know_1">
+		<text>唔……不認識這樣的人哎。</text>
+	</string>
+
+	<string id="dm_job_do_not_know_2">
+		<text>我自己也想知道。</text>
+	</string>
+
+	<string id="dm_job_do_not_know_3">
+		<text>我他媽怎麼會知道？</text>
+	</string>
+
+	<string id="dm_job_general">
+		<text>知道有誰可以給我份工作嗎？</text>
+	</string>
+
+	<string id="dm_job_no_more_1">
+		<text>你已經問過我了。</text>
+	</string>
+
+	<string id="dm_job_no_more_2">
+		<text>沒什麼新消息了。</text>
+	</string>
+
+	<string id="dm_job_no_more_3">
+		<text>我已經回答過你了。</text>
+	</string>
+
+	<string id="dm_universal_actor_exit">
+		<text>好吧，那沒事了。</text>
+	</string>
+
+	<string id="dm_universal_actor_start">
+		<text>我有事想問你。</text>
+	</string>
+
+	<string id="dm_universal_npc_start_0">
+		<text>問吧。</text>
+	</string>
+
+	<string id="dm_universal_npc_start_1">
+		<text>說吧。</text>
+	</string>
+
+	<string id="dm_universal_npc_start_2">
+		<text>說。</text>
+	</string>
+
+	<string id="dm_universal_npc_start_3">
+		<text>我在聽。</text>
+	</string>
+
+	<string id="dm_wounded_general">
+		<text>救命！</text>
+	</string>
+
+	<string id="dm_wounded_medkit">
+		<text>拿上這個醫療包。</text>
+	</string>
+
+	<string id="dm_wounded_sorry">
+		<text>抱歉，我什麼也沒有。</text>
+	</string>
+
+	<string id="dm_traveler_bye">
+		<text>我明白了。</text>
+	</string>
+
+	<string id="dm_traveler_what_are_you_doing">
+		<text>你在做什麼？</text>
+	</string>
+
+	<string id="dm_traveler_can_i_go_with_you">
+		<text>我可以跟你走嗎？</text>
+	</string>
+
+	<string id="dm_traveler_stalker_actor_companion_yes">
+		<text>當然，人越多越好。</text>
+	</string>
+
+	<string id="dm_traveler_stalker_actor_companion_no">
+		<text>不行，抱歉，我要一個人去。</text>
+	</string>
+
+	<string id="dm_traveler_actor_go_with_squad">
+		<text>出發吧。</text>
+	</string>
+
+	<string id="dm_traveler_take_me_to">
+		<text>我要去一個地方，你能帶我過去嗎？我會付錢的。</text>
+	</string>
+
+	<string id="dm_traveler_stalker_where_do_you_want">
+		<text>沒問題。你要去哪裡？地點你挑。</text>
+	</string>
+
+	<string id="dm_traveler_actor_agree">
+		<text>可以，出發吧。</text>
+	</string>
+
+	<string id="dm_traveler_actor_refuse">
+		<text>我改變心意了。</text>
+	</string>
+
+	<string id="dm_traveler_stalker_i_cant_travel">
+		<text>不行，我有別的要緊事要做。</text>
+	</string>
+
+	<string id="dm_stalker_doing_nothing_1">
+		<text>我只是在放鬆。</text>
+	</string>
+
+	<string id="dm_stalker_doing_nothing_2">
+		<text>沒什麼，只是在休養生息。</text>
+	</string>
+
+	<string id="dm_stalker_doing_nothing_3">
+		<text>我看上去像是在做什麼嗎？什麼屁事都沒有。</text>
+	</string>
+
+	<string id="dm_stalker_chasing_squad_monster">
+		<text>跟蹤變異體。</text>
+	</string>
+
+	<string id="dm_stalker_chasing_squad_bandit">
+		<text>我在尾隨幾個渾蛋。見鬼的蠢貨……</text>
+	</string>
+
+	<string id="dm_stalker_chasing_squad_killer">
+		<text>正在跟蹤幾個僱傭兵。他們都是些十足的惡棍。</text>
+	</string>
+
+	<string id="dm_stalker_chasing_squad_monolith">
+		<text>我在跟蹤一夥狂熱分子，也就是黑石組的戰士們……</text>
+	</string>
+
+	<string id="dm_stalker_chasing_squad_zombied">
+		<text>我正跟在幾個喪屍後面，附近有太多這種討厭鬼了……</text>
+	</string>
+
+	<string id="dm_traveler_travel_cost">
+		<text>好，你要付錢的。</text>
+	</string>
+
+	<string id="dm_traveler_actor_dont_go_with_squad">
+		<text>知道嗎，我改變心意了。</text>
+	</string>
+
+	<string id="dm_traveler_actor_has_no_money">
+		<text>我沒有那麼多錢。</text>
+	</string>
+
+	<string id="dm_freedom_doing_nothing_1">
+		<text>噢，沒在做什麼。</text>
+	</string>
+
+	<string id="dm_freedom_chasing_squad_monster">
+		<text>我在跟著一些變異體。得有人讓牠們認清局勢。</text>
+	</string>
+
+	<string id="dm_freedom_chasing_squad_bandit">
+		<text>我在追一些本地暴徒。</text>
+	</string>
+
+	<string id="dm_freedom_chasing_squad_killer">
+		<text>我要去殺幾個僱傭兵。我跟他們還有一筆債要收。</text>
+	</string>
+
+	<string id="dm_freedom_chasing_squad_monolith">
+		<text>我在尾隨一些瘋癲的黑石組成員。</text>
+	</string>
+
+	<string id="dm_freedom_chasing_squad_duty">
+		<text>我正設法跟蹤一些我的債務人。</text>
+	</string>
+
+	<string id="dm_duty_doing_nothing_1">
+		<text>我現在什麼事都沒在幹。</text>
+	</string>
+
+	<string id="dm_duty_chasing_squad_monster">
+		<text>我在狩獵變異體，盡力把牠們都殺光。</text>
+	</string>
+
+	<string id="dm_duty_chasing_squad_bandit">
+		<text>我在進行一個任務，跟蹤一夥強盜。</text>
+	</string>
+
+	<string id="dm_duty_chasing_squad_killer">
+		<text>我的目標是僱傭兵。我正在跟蹤他們那夥人。</text>
+	</string>
+
+	<string id="dm_duty_chasing_squad_monolith">
+		<text>我在追一個黑石組小隊。</text>
+	</string>
+
+	<string id="dm_duty_chasing_squad_freedom">
+		<text>我在追那些沒發育完全的混蛋們，就是自由團……</text>
+	</string>
+
+	<string id="dm_stalker_searching_artefacts_1">
+		<text>我正在搜尋神器。</text>
+	</string>
+
+	<string id="dm_stalker_searching_artefacts_2">
+		<text>我不是在撿蘑菇……更像是在撿神器。</text>
+	</string>
+
+	<string id="dm_stalker_searching_artefacts_3">
+		<text>我在找神器。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_1">
+		<text>我要去鍋爐房特異點，小樹林旁邊那個。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_2">
+		<text>我要往湖泊北面走……打算在半島上休個假。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_3">
+		<text>我要去湖泊北面另一邊——那裡有一個很不錯的野營地。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_4">
+		<text>我要去湖泊北面另一邊的樹林。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_5">
+		<text>我要去鋸木廠西面的小樹林。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_6">
+		<text>我想去沼澤地西面的小山丘。那裡不會被沼澤地污染。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_7">
+		<text>我想去天線設施那裡。在它的西面有一個很棒的小地方。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_8">
+		<text>我要去松櫟西面的樹林……如果你願意，就一起吧，我不介意身邊多個同伴。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_9">
+		<text>去一個小樹林，在鋼鐵密林和工作室之間。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_10">
+		<text>去那座大橋……在它東面應該有一個安全而私密的小地方。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_11">
+		<text>去舊駁船南面的停車場。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_12">
+		<text>沒什麼特別的，就走走吧。我想在斯卡多夫斯克東面的小山上露營。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_13">
+		<text>去一個小樹林，在翡翠地和加油站之間。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_14">
+		<text>去廢料處理站附近的那個分岔路口。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_15">
+		<text>去鍋爐房特異點。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_16">
+		<text>去遊騎兵哨所。那裡有一個建築設施，你也許見過。其中一座的裡面甚至有火爐——我很好奇他們在做著什麼生意。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_17">
+		<text>去一個小樹林，在被焚毀的農場西面。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_18">
+		<text>去一個小樹林，在鍋爐房特異點東面。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_19">
+		<text>去一座小山丘，穿過湖泊北面就是了。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_20">
+		<text>去一個小樹林，在被焚毀的農場南面。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_21">
+		<text>我要去斯卡多夫斯克西面……也就是管道出現的地方。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_22">
+		<text>我要去一個地方，就在斯卡多夫斯克和挖泥船兩地中間。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_23">
+		<text>去舊駁船附近的河口。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_24">
+		<text>去疤臉特異點附近的小溪。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_25">
+		<text>去加油站。</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_26">
+		<text>去松櫟峽谷。</text>
+	</string>
+
+	<string id="st_stalker_zat_b55">
+		<text>我想去石爪特異點尋找神器。</text>
+	</string>
+
+	<string id="st_stalker_zat_a1">
+		<text>我要去鍋爐房特異點西面的小山丘。</text>
+	</string>
+
+	<string id="st_stalker_zat_a23_smart_terrain">
+		<text>去鋼鐵密林特異點。</text>
+	</string>
+
+	<string id="st_stalker_zat_b100">
+		<text>我要去鋼鐵密林特異點尋找神器。</text>
+	</string>
+
+	<string id="st_stalker_zat_b101">
+		<text>我要去沼澤地。當然，要在瓦斯中呼吸不是件容易事，不過為了神器也值得了。</text>
+	</string>
+
+	<string id="st_stalker_zat_b103_merc_smart">
+		<text>我要去變電站車間。據說那裡有一個好地方可以躲避能量釋放，所以我想去試試。</text>
+	</string>
+
+	<string id="st_stalker_zat_b104_zombied">
+		<text>你知道附近有一間鋸木廠吧，那就是我要去的地方。我想去看看是否有值錢的東西。</text>
+	</string>
+
+	<string id="st_stalker_zat_b106_smart_terrain">
+		<text>我很想在翡翠地營區休息幾天，噢，那當然是一個非常棒的度假勝地……專為變異家畜和野豬而設！哈哈哈！不過，在那裡露營想來沒問題的。</text>
+	</string>
+
+	<string id="st_stalker_zat_b12">
+		<text>去一座橋，我想它在地圖上被標記為「普列奧布拉任斯基」。</text>
+	</string>
+
+	<string id="st_stalker_zat_b14_smart_terrain">
+		<text>去挖泥船。我敢說那片區域還有一些值錢貨等著我。</text>
+	</string>
+
+	<string id="st_stalker_zat_b18">
+		<text>去舊駁船。</text>
+	</string>
+
+	<string id="st_stalker_zat_b20_smart_terrain">
+		<text>我想順道去那個被焚毀的農場，看看那裡有沒有新的神器出現。</text>
+	</string>
+
+	<string id="st_stalker_zat_b28">
+		<text>去高原南部。</text>
+	</string>
+
+	<string id="st_stalker_zat_b33">
+		<text>去加油站旁的裂口。</text>
+	</string>
+
+	<string id="st_stalker_zat_b38">
+		<text>去克魯格天線設施——我要找一個安全的地方躲避能量釋放。不幸的是，那裡應該有很多怪物。</text>
+	</string>
+
+	<string id="st_stalker_zat_b38u">
+		<text>去克魯格天線設施——我要找一個安全的地方躲避能量釋放。不幸的是，那裡應該有很多怪物。</text>
+	</string>
+
+	<string id="st_stalker_zat_b39">
+		<text>我要去松櫟附近找神器。希望雜種狗們離得遠遠的。</text>
+	</string>
+
+	<string id="st_stalker_zat_b40_smart_terrain">
+		<text>去污水池……就是廢料處理站。那裡也是一個躲避能量釋放的好地方。</text>
+	</string>
+
+	<string id="st_stalker_zat_b42_smart_terrain">
+		<text>我要去湖泊北面的船塢。到了之後我再看情況。</text>
+	</string>
+
+	<string id="st_stalker_zat_b52">
+		<text>我要去碼頭，那裡有吊車，是一個露營的好地方。</text>
+	</string>
+
+	<string id="st_stalker_zat_b53">
+		<text>我打算在鍋爐房特異點尋找神器。我只希望這一身服裝能讓我在那個溫泉度假地活下來。</text>
+	</string>
+
+	<string id="st_stalker_zat_b54">
+		<text>去疤臉特異點。</text>
+	</string>
+
+	<string id="st_stalker_zat_b56">
+		<text>我想測試下我的裝備防火性能如何，以及尋找神器——這些都可以在馬戲團特異點做到。</text>
+	</string>
+
+	<string id="st_stalker_zat_b5_smart_terrain">
+		<text>去遊騎兵哨所。</text>
+	</string>
+
+	<string id="st_stalker_zat_b7">
+		<text>我要去舍甫琴科露營。在那裡可以不受到能量釋放的危害，而且變異體也打不過來。</text>
+	</string>
+
+	<string id="st_stalker_zat_b7_stalker_raider">
+		<text>我要去舍甫琴科露營。在那裡可以不受到能量釋放的危害，而且變異體也打不過來。</text>
+	</string>
+
+	<string id="st_stalker_zat_medic_home_smart">
+		<text>我要去碼頭，那裡有吊車，是一個露營的好地方。</text>
+	</string>
+
+	<string id="st_stalker_zat_stalker_base_smart">
+		<text>我想拋售掉我的戰利品，去喝一兩杯冰啤酒。斯卡多夫斯克那地方正合適。</text>
+	</string>
+
+	<string id="st_stalker_jup_a10_smart_terrain">
+		<text>我要去軍隊檢查點，就在木星工廠旁邊。</text>
+	</string>
+
+	<string id="st_stalker_jup_a12">
+		<text>去貨櫃倉庫。</text>
+	</string>
+
+	<string id="st_stalker_jup_a12_merc">
+		<text>我要去一個完全不起眼的地方，在貨櫃倉庫和隧道南面之間。</text>
+	</string>
+
+	<string id="st_stalker_jup_a6">
+		<text>去亞尼夫站。終於有時間放鬆了。</text>
+	</string>
+
+	<string id="st_stalker_jup_b1">
+		<text>去科帕奇北面的隧道。</text>
+	</string>
+
+	<string id="st_stalker_jup_b19">
+		<text>我要去一個非常可怕的地方：科帕奇小鎮——或者叫它的遺址。沒錯，我已經儲備了額外的抗輻射劑和彈藥，它們會派上用場的！</text>
+	</string>
+
+	<string id="st_stalker_jup_b200">
+		<text>去水泥工廠。那是一個不錯的觀察點，而且沒人可以偷襲你。</text>
+	</string>
+
+	<string id="st_stalker_jup_b200_tushkan_smart_terrain">
+		<text>去水泥工廠。我要去查看一下那個地下室。</text>
+	</string>
+
+	<string id="st_stalker_jup_b202">
+		<text>去亞尼夫附近的變電站。</text>
+	</string>
+
+	<string id="st_stalker_jup_b203">
+		<text>我要去一個地方，在火車隧道南面附近。</text>
+	</string>
+
+	<string id="st_stalker_jup_b204">
+		<text>我要去冷卻池，在木星工廠附近。</text>
+	</string>
+
+	<string id="st_stalker_jup_b205_smart_terrain">
+		<text>我要去沃爾霍夫戒酒無名會綜合大樓，想打一些喪屍。</text>
+	</string>
+
+	<string id="st_stalker_jup_b205_smart_terrain_tushkano">
+		<text>去地堡，你知道的，就在沃爾霍夫戒酒無名會綜合大樓裡。</text>
+	</string>
+
+	<string id="st_stalker_jup_b206">
+		<text>去採石場附近的異變樹林。也許能找到幾件神器。</text>
+	</string>
+
+	<string id="st_stalker_jup_b207">
+		<text>我要去採石場，建築工人的小貨車那裡。</text>
+	</string>
+
+	<string id="st_stalker_jup_b207_depot_attack">
+		<text>在採石場和亞尼夫站之間有一個地方，我準備在那裡躲一段時間。</text>
+	</string>
+
+	<string id="st_stalker_jup_b208">
+		<text>我要去隧道東面，就在木星工廠下方。</text>
+	</string>
+
+	<string id="st_stalker_jup_b209">
+		<text>去瀝青特異點。去看看我的服裝防火性能如何。</text>
+	</string>
+
+	<string id="st_stalker_jup_b211">
+		<text>我要去普拉夫尼特異點尋找神器。準備了足夠多的解毒劑——我比較擔心那裡的怪物。</text>
+	</string>
+
+	<string id="st_stalker_jup_b212">
+		<text>去通風設施處，就在工廠和貨櫃倉庫之間。為什麼？呃，我也不知道。</text>
+	</string>
+
+	<string id="st_stalker_jup_b219">
+		<text>我要去木星工廠。也許我能找到讓那地方臭名昭著的緣由。</text>
+	</string>
+
+	<string id="st_stalker_jup_b25">
+		<text>我要去採石場最底部。潛行者說他們在那裡找到了很多神器。</text>
+	</string>
+
+	<string id="st_stalker_jup_b32">
+		<text>去有很多舊車的停車場。我打算在電能特異點尋找神器。</text>
+	</string>
+
+	<string id="st_stalker_jup_b4">
+		<text>在沃爾霍夫戒酒無名會綜合大樓和貨櫃倉庫中間有一處很棒的小地方，我要去那裡。</text>
+	</string>
+
+	<string id="st_stalker_jup_b41">
+		<text>去科學家地堡。</text>
+	</string>
+
+	<string id="st_stalker_jup_b46">
+		<text>去亞尼夫站西北面的冷卻塔。</text>
+	</string>
+
+	<string id="st_stalker_jup_b47">
+		<text>去木星工廠，但我不想走進去。我就在行政大樓附近逛逛好了，看看有什麼能做的。</text>
+	</string>
+
+	<string id="st_stalker_jup_b6_anom_2">
+		<text>我要去科帕奇另一邊的灰堆特異點。</text>
+	</string>
+
+	<string id="st_stalker_jup_b8_smart_terrain">
+		<text>我要去木星工廠。據說有一架直升機降落在那裡，我想去看看。</text>
+	</string>
+
+	<string id="st_stalker_jup_sim_1">
+		<text>我要去損毀的火車處，就在沃爾霍夫戒酒無名會綜合大樓和停車場之間。</text>
+	</string>
+
+	<string id="st_stalker_jup_sim_2">
+		<text>我要去隧道南面，萬一能量釋放來了，我也有地方躲避。</text>
+	</string>
+
+	<string id="st_stalker_jup_sim_3">
+		<text>我要去亞尼夫和科帕奇之間的這個地方。</text>
+	</string>
+
+	<string id="st_stalker_jup_sim_4">
+		<text>我要去離河道不遠的一個地方，在水泥工廠的南面。</text>
+	</string>
+
+	<string id="st_stalker_jup_sim_5">
+		<text>我要去河道附近的一個地方，在木星工廠的南面。</text>
+	</string>
+
+	<string id="st_stalker_jup_sim_6">
+		<text>我要去看看採石場。</text>
+	</string>
+
+	<string id="st_stalker_jup_sim_7">
+		<text>我要去看看採石場。</text>
+	</string>
+
+	<string id="st_stalker_jup_sim_8">
+		<text>我要去看看亞尼夫北面的區域。</text>
+	</string>
+
+	<string id="st_stalker_jup_sim_9">
+		<text>去沃爾霍夫戒酒無名會綜合大樓。那裡有一個不錯的露營點，就在大樓和科帕奇小鎮之間。</text>
+	</string>
+
+	<string id="st_stalker_jup_sim_10">
+		<text>噢，就四處走走……往貨櫃倉庫方向走。</text>
+	</string>
+
+	<string id="st_stalker_jup_sim_11">
+		<text>我在調查這個區域。現在我打算去軍隊檢查點南面查看一下。</text>
+	</string>
+
+	<string id="st_stalker_jup_sim_12">
+		<text>去直升機停機坪，就在工廠和貨櫃倉庫之間。</text>
+	</string>
+
+	<string id="st_stalker_jup_sim_13">
+		<text>我要去亞尼夫站南面的這個地方，就在鐵路旁。</text>
+	</string>
+
+	<string id="st_stalker_jup_sim_14">
+		<text>去亞尼夫站北面的一個地方。</text>
+	</string>
+
+	<string id="st_stalker_jup_sim_15">
+		<text>去異變樹林。</text>
+	</string>
+
+	<string id="st_stalker_jup_sim_16">
+		<text>去戒酒無名會綜合大樓南面的一個地方。</text>
+	</string>
+
+	<string id="st_stalker_jup_sim_17">
+		<text>去冷卻池，就在混凝土池特異點旁邊。</text>
+	</string>
+
+	<string id="st_stalker_jup_sim_18">
+		<text>我要去看看工廠周邊的區域。</text>
+	</string>
+
+	<string id="st_stalker_jup_sim_19">
+		<text>我要去看看工廠周邊的區域。</text>
+	</string>
+
+	<string id="st_stalker_pri_a15">
+		<text>去自助洗衣店後面的院子。</text>
+	</string>
+
+	<string id="st_stalker_pri_a16">
+		<text>去自助洗衣店，周圍最安全的地方。</text>
+	</string>
+
+	<string id="st_stalker_pri_a17">
+		<text>去醫院。希望我一路上不會遇到那些黑石組的瘋子……</text>
+	</string>
+
+	<string id="st_stalker_pri_a18_smart_terrain">
+		<text>去書店……我聽說那裡有像樣的應對能量釋放的掩體。</text>
+	</string>
+
+	<string id="st_stalker_pri_a20">
+		<text>我要去看看本地的觀光點——那個「人類大團結」標誌，就在書店附近。</text>
+	</string>
+
+	<string id="st_stalker_pri_a21_smart_terrain">
+		<text>去舊雜貨店。如今那裡一塊新鮮面包都沒有，不過倒是能用來躲避能量釋放。</text>
+	</string>
+
+	<string id="st_stalker_pri_a22_smart_terrain">
+		<text>去別列茲卡商店。</text>
+	</string>
+
+	<string id="st_stalker_pri_a25_smart_terrain">
+		<text>去舊幼稚園。</text>
+	</string>
+
+	<string id="st_stalker_pri_a28">
+		<text>去電影院廣場，就在普羅米修士紀念碑附近。</text>
+	</string>
+
+	<string id="st_stalker_pri_b301">
+		<text>我要去教學樓。他們說那裡到處都是怪物，不過也可以用來躲避能量釋放。</text>
+	</string>
+
+	<string id="st_stalker_pri_b303">
+		<text>我要去舊服務中心。第一層樓應該有一個特異點，也許還有一些神器。</text>
+	</string>
+
+	<string id="st_stalker_pri_b304">
+		<text>我正在探索小鎮的這片區域。現在我要去舊雜貨店。</text>
+	</string>
+
+	<string id="st_stalker_pri_b304_monsters_smart_terrain">
+		<text>我正在探索小鎮的這片區域。現在我要去舊雜貨店。</text>
+	</string>
+
+	<string id="st_stalker_pri_b305_dogs">
+		<text>我在調查這個區域。現在我想看看公寓樓背後的這座建築。</text>
+	</string>
+
+	<string id="st_stalker_pri_b306">
+		<text>我想去公共便利設施中心搜查一下，我想那地方叫「尤比列尼」。</text>
+	</string>
+
+	<string id="st_stalker_pri_b307">
+		<text>我正在搜尋這片區域內的特異點。我聽說庭院裡有一個火焰特異點，就在幼稚園西面……</text>
+	</string>
+
+	<string id="st_stalker_pri_b35_envoy">
+		<text>噢，我正參觀這個小鎮呢。現在要去公寓樓了。</text>
+	</string>
+
+	<string id="st_stalker_pri_b35_mercs">
+		<text>噢，我正參觀這個小鎮呢。現在要去公寓樓了。</text>
+	</string>
+
+	<string id="st_stalker_pri_b35_military">
+		<text>噢，我正參觀這個小鎮呢。現在要去公寓樓了。</text>
+	</string>
+
+	<string id="st_stalker_pri_b36_smart_terrain">
+		<text>我就是四處逛逛，現在要去河港了。希望我不會碰到黑石組的狂熱分子們……</text>
+	</string>
+
+	<string id="st_stalker_pri_b302">
+		<text>我在尋找普里皮亞季的一個地方，那裡有很多神器，沒有怪物也沒有黑石組的戰士……呵呵……講真，我打算去看一下我聽說過的那個特異點，就在河港的南面。</text>
+	</string>
+
+	<string id="st_stalker_pri_sim_1">
+		<text>去普羅米修士電影院。</text>
+	</string>
+
+	<string id="st_stalker_pri_sim_2">
+		<text>去電影院廣場，就在普羅米修士紀念碑附近。</text>
+	</string>
+
+	<string id="st_stalker_pri_sim_3">
+		<text>我想找個地方躲幾天喘口氣。在幼稚園北面的院子裡有一個不錯的小地方，應該會很合適。</text>
+	</string>
+
+	<string id="st_stalker_pri_sim_4">
+		<text>公寓樓的南面。</text>
+	</string>
+
+	<string id="st_stalker_pri_sim_5">
+		<text>我要去這個地方，就在幼稚園和公寓樓之間。</text>
+	</string>
+
+	<string id="dm_anomalies_8">
+		<text>有一個被叫做「疤臉」的地方，那裡的地面就像被斧子劈過。人們在那裡找到過神器，但一旦進入那裡就會有奇怪的事情發生。那個東西會猛烈攻擊你的大腦，讓你都快忘記該怎樣呼吸，更不用說想著離開那鬼地方了。</text>
+	</string>
+
+	<string id="dm_anomalies_1">
+		<text>你知道挖泥船在哪裡嗎？它因重力特異點而被人知，但對於一個有經驗的潛行者來說不算什麼，只要照常一直扔螺栓就行了。那裡也有輻射，從內到外都有——就好像旁邊放著一塊巨型濃縮鈾。</text>
+	</string>
+
+	<string id="dm_anomalies_4">
+		<text>這裡有一個舊變電站，也叫「鋼鐵密林」。你看見就知道為什麼了。在經歷過一次能量釋放之後，有人聲稱在那個區域找到了叢集分佈的神器。它還有其他危險之處，主要就是電能特異點和少量輻射……以及幾個吵鬧鬼，他們會用各種骯髒手段幹掉你，如果你沒能及時躲好的話。</text>
+	</string>
+
+	<string id="dm_job_12">
+		<text>工作？老實說，我不知道。不過如果你有機會幫到自由團的話，就去見見我們的老大吧，他在亞尼夫。去南翼找洛基，對，就是這個人。記住：如果你相信人類的進步，相信特異區的恩賜具有更偉大的意志和意義，你就會做出正確的選擇。</text>
+	</string>
+
+	<string id="dm_job_13">
+		<text>不知道。不過如果你能找到些什麼來幫我們對抗特異區、對抗那些把它當作是恩賜而非詛咒的人，就去見見紀律團考察組的指揮官——舒爾加中校。他是亞尼夫站的負責人。你可以在北翼找到他。任何對紀律團的全勝作出貢獻的公民都將獲得豐厚獎勵，這一點是絕對有保證的。</text>
+	</string>
+
+	<string id="dm_information_19">
+		<text>大家都在談論在舊冷卻塔發生的怪事。如果你收聽常見頻道，你會聽到一些斷斷續續的求救信號，聽上去像是某個可憐蟲在試圖逃離特異點。當你詢問座標時，卻沒有答復。但最奇怪的是那個聲音，那樣扭曲失真，根本無法解釋……</text>
+	</string>
+
+	<string id="st_stalker_zat_sim_27">
+		<text>我要去一個地方，就在斯卡多夫斯克和舍甫琴科中間。</text>
+	</string>
+
+	<string id="st_stalker_jup_a9">
+		<text>去木星工廠，但我大概不會冒險在裡面走太遠。</text>
+	</string>
+
+</string_table>

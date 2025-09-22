@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_antirad">
+		<text>抗辐射药物</text>
+	</string>
+
+	<string id="st_antirad_descr">
+		<text>甲氧基色胺辐射防护药物在变异区很常见。使用时，这种药物会引起外周血管收缩和缺氧，从而起到治疗和防止辐照的作用。这种药物不会产生严重的副作用，但也有报告称个别案例出现轻微恶心、头晕、痉挛和胃痛。</text>
+	</string>
+
+	<string id="st_bandage">
+		<text>绷带</text>
+	</string>
+
+	<string id="st_bandage_descr">
+		<text>用于止血和防止伤口感染的普通弹性绷带。用于常规出血时，小心地将绷带缠在伤口上即可。动脉出血时，应立即将绷带绑在患处。</text>
+	</string>
+
+	<string id="st_binocular_descr">
+		<text>标准军用望远镜，最大放大倍率为 7.5 倍。在变异区内非常有用，可以让使用者从远处观察事物。</text>
+	</string>
+
+	<string id="st_binocular_name">
+		<text>望远镜</text>
+	</string>
+
+	<string id="st_bread">
+		<text>面包</text>
+	</string>
+
+	<string id="st_bread_descr">
+		<text>变异区内并未发现过任何面包师，但这种面包没有被污染，也没有辐射性，实际上颇为新鲜，可以食用。至少到目前为止，还没有谁投诉过它。</text>
+	</string>
+
+	<string id="st_conserva">
+		<text>“观光客的早餐”罐头</text>
+	</string>
+
+	<string id="st_conserva_descr">
+		<text>这些罐头食品可能来自被潜行者搜刮的军队配给站。但罐身没有任何标签，所以无从确认。如果你相信上面的最佳食用日期，应该仍然可以食用。</text>
+	</string>
+
+	<string id="st_detector1">
+		<text>回声探测器</text>
+	</string>
+
+	<string id="st_detector1_descr">
+		<text>当接近特异点时，异常粒子会进入这款旧型号异常活动探测器上一个特殊的腔室，从而令其发出报警信号。它还能记录超自然体的存在，并测量与最近超自然体的距离，以探测器发出的声音频率来标示。要切换到超自然体搜索模式，请打开设备的前盖。由于设计简单，回声只能用于搜索最常见的超自然体。</text>
+	</string>
+
+	<string id="st_detector2">
+		<text>“大熊”探测器</text>
+	</string>
+
+	<string id="st_detector3">
+		<text>“维列斯”探测器</text>
+	</string>
+
+	<string id="st_detector3_descr">
+		<text>新一代科学探测扫描仪，装有三个现代化探测腔，可以让超自然体的位置显示在一个特殊显示屏上。关闭时，设备只记录辐射和特异点。要切换到超自然体搜索模式，请打开前面的 LED 显示屏。在搜索模式下，探测器能够找到科学界已知的所有超自然体。</text>
+	</string>
+
+	<string id="st_detector4">
+		<text>“火神”原型探测器</text>
+	</string>
+
+	<string id="st_detector4_descr">
+		<text>一台功能扩展型异常频率扫描仪的原型机。该设备安装的程序可用于识别存储在其数据库中的静态异常活动区域，同时保留了定位超自然体的功能。异常区域和超自然体的位置会显示在一个特殊的屏幕上，超自然体搜索模式可以通过打开前面的 LED 显示屏来启动。已经过改装，可以探测到目前科学界未知的异常物质。</text>
+	</string>
+
+	<string id="st_device_torch_descr">
+		<text>标准的头戴式手电筒。对于天黑后外出的潜行者很有用，但如果使用不当，可能会招来麻烦。</text>
+	</string>
+
+	<string id="st_device_torch_name">
+		<text>手电筒</text>
+	</string>
+
+	<string id="st_drug_anabiotic">
+		<text>假死药</text>
+	</string>
+
+	<string id="st_drug_antidot">
+		<text>解毒剂</text>
+	</string>
+
+	<string id="st_drug_antidot_descr">
+		<text>IP2 抗毒素是一种由多种解毒剂组成的复合药物，包括甲氧氯普胺、吡哆醇、硫胺素、利巴韦林和其他药物。这种药物可用于注射一系列抗生素和合成毒物吸收剂，中和血液中的天然毒素。IP2 在变异区内算不上特别流行，因为大多数潜行者都依赖防毒面具和防护服，但仍有人会在身上藏一包这种解毒剂。药效持续时间长。</text>
+	</string>
+
+	<string id="st_drug_booster">
+		<text>大力神</text>
+	</string>
+
+	<string id="st_drug_coagulant">
+		<text>长春花</text>
+	</string>
+
+	<string id="st_drug_coagulant_descr">
+		<text>乌克兰维凯素：一种人工维生素 K 等效物。这种药物的主要作用是提高血液凝固速度。变异体造成的伤口和撕裂伤愈合较慢，潜行者希望加快伤口愈合速度，所以对这种药物的需求量很大。药效持续时间长。</text>
+	</string>
+
+	<string id="st_drug_psy_blockade">
+		<text>心灵屏蔽</text>
+	</string>
+
+	<string id="st_drug_psy_blockade_descr">
+		<text>一种能阻断雪崩式神经冲动的药物。服用后会在短期内丧失所有情感。只在变异区内使用，用于抵消异常心灵场的影响。药效持续时间长。</text>
+	</string>
+
+	<string id="st_drug_radioprotector">
+		<text>辐射防护剂</text>
+	</string>
+
+	<string id="st_energy_drink">
+		<text>“停不下来”能量饮料</text>
+	</string>
+
+	<string id="st_energy_drink_descr">
+		<text>潜行者经常在无法休息的长途旅行中饮用。这种饮料含有易消化的碳水化合物，以及能刺激血液释放肾上腺素的药物。</text>
+	</string>
+
+	<string id="st_guitar_descr">
+		<text>一把可靠的吉他。</text>
+	</string>
+
+	<string id="st_guitar_name">
+		<text>吉他</text>
+	</string>
+
+	<string id="st_kolbasa">
+		<text>减肥香肠</text>
+	</string>
+
+	<string id="st_kolbasa_descr">
+		<text>不管怎么说，这种由鸡肉和大豆替代品的混合物制成的香肠往往会被潜行者用来一股脑解决早餐、午餐和晚餐。防腐剂含量高，可长期保存。</text>
+	</string>
+
+	<string id="st_medkit">
+		<text>急救包</text>
+	</string>
+
+	<string id="st_medkit_army">
+		<text>军用医药箱</text>
+	</string>
+
+	<string id="st_medkit_army_descr">
+		<text>为战斗伤员提供急救的专用医药箱。内含基于甲萘醌的血液凝固剂、止痛药、抗生素和免疫刺激剂，以及用于从体内取出子弹和碎片的工具组。该医药箱作为标准配置发给军队人员，有时也供责任部队使用。</text>
+	</string>
+
+	<string id="st_medkit_descr">
+		<text>通用型一次性医药箱。可方便地治疗各种创伤——伤口、瘀伤、普通烧伤、化学烧伤和各种中毒。被潜行者广泛需求。</text>
+	</string>
+
+	<string id="st_medkit_science">
+		<text>科学医药箱</text>
+	</string>
+
+	<string id="st_medkit_science_descr">
+		<text>专为在变异区内使用而设计的医药箱。内含处理伤口、防止辐射中毒和减少体内累积辐射的医药品。与其它医药箱不同，它内部装有维凯素、鲨肝醇和萘甲唑林。</text>
+	</string>
+
+	<string id="st_pda_descr">
+		<text>没有存储数据。</text>
+	</string>
+
+	<string id="st_pda_name">
+		<text>PDA</text>
+	</string>
+
+	<string id="st_vodka">
+		<text>哥萨克伏特加</text>
+	</string>
+
+	<string id="st_vodka_descr">
+		<text>由 GSC 制造。入口柔顺，可大大降低辐射影响。应适量享用。</text>
+	</string>
+
+	<string id="st_detector2_descr">
+		<text>这款最新一代的异常活动探测器可用于定位异常物质，其彩色二极管面板不仅能指示超自然体的方向，还能测量与超自然体的距离。要切换到超自然体搜索模式，请打开设备的前盖。遗憾的是，该设备的程序中包含的可探测超自然体列表有些过时。</text>
+	</string>
+
+	<string id="st_drug_anabiotic_descr">
+		<text>奥泽斯基教授为了在变异区内工作的科研小组研制的一种实验性药物。这种药物的核心成分是河豚毒素，俗称“僵尸粉”，它能使人体的中枢神经系统完全关闭，让人们在遭遇喷发时缺乏掩体的情况下也能够得以幸存。该药物尚未经过临床或实地测试，因此其有效性存疑，并可能产生副作用。</text>
+	</string>
+
+	<string id="st_bolt">
+		<text>螺栓</text>
+	</string>
+
+	<string id="st_drug_booster_descr">
+		<text>该产品的主要成分是合成雄激素，是一种人工类固醇，其化学成分类似于睾酮。潜行者在长时间扫荡时经常使用以减轻肌肉疲劳，可显著提高负重能力。药效持续时间长。</text>
+	</string>
+
+	<string id="st_drug_radioprotector_descr">
+		<text>B190 恩德林辐射防护剂，发给核电站人员的医药箱中含有这种药物。在变异区内取代了毒性过强的 PC1 盐酸胱胺，后者反复使用往往会导致死亡。可减轻伽马辐射对活体组织的影响。最好在辐射前服用，因为效果并非立竿见影。药效持续时间长。</text>
+	</string>
+
+	<string id="st_harmonica_name">
+		<text>口琴</text>
+	</string>
+
+	<string id="st_harmonica_descr">
+		<text>适合蓝调爱好者和监狱里的情人。</text>
+	</string>
+
+</string_table>

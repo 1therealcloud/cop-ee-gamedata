@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="team_1_desc">
+		<text>特異區的無政府主義者。他們認為特異區是自由的聖殿，並相信所有外界的法律、規則和慣例在此都無效。他們的座右銘是「做你想做的事，管好你自己」。自由團反對政府對特異區的控制企圖，並與傭兵團處於交戰狀態。其成員主要配備蘇聯和俄羅斯的槍械。</text>
+	</string>
+
+	<string id="team_1_name">
+		<text>自由團陣營（自由潛行者）</text>
+	</string>
+
+	<string id="team_2_desc">
+		<text>這些尋求冒險的殺手來自世界各地，甚至願意做最骯髒的工作。可以想見，他們的座右銘是「金錢無所謂香臭」。只要有需求，他們就會一直爭奪對神器領域的完全控制權。僱傭兵裝備的主要是西式槍械。</text>
+	</string>
+
+	<string id="team_2_name">
+		<text>傭兵團陣營（殺手）</text>
+	</string>
+
+</string_table>

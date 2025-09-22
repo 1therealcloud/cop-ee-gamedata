@@ -1,0 +1,731 @@
+saved_game_extension	= ".scop"
+
+class "load_item" (CUIListBoxItem)
+
+function load_item:__init(height) super(height)
+	self.file_name		= "filename"
+
+	self:SetTextColor(GetARGB(255, 170, 170, 170))
+
+	self.fn = self:GetTextItem()
+	self.fn:SetFont(GetFontLetterica18All())
+	self.fn:SetEllipsis(true)
+end
+
+function load_item:__finalize()
+end
+
+class "load_dialog" (CUIScriptWnd)
+
+function load_dialog:__init() super()
+
+	self.mm_is_controller = main_menu.in_controller_mode()
+	self.loopInLists = true
+	self.saved_game_wrapper = nil -- mtb-bartlomiej.kunikowski: Validate save basing on cached info
+	self.saved_files = {}
+
+	if self.mm_is_controller then
+		self.sndSwitch	= sound_object("interface\\console\\menu_switch")
+		self.sndSelect	= sound_object("interface\\console\\menu_select")
+		self.sndAccept	= sound_object("interface\\console\\menu_accept")
+		self.sndDecline	= sound_object("interface\\console\\menu_decline")
+	end
+
+	self:InitControls()
+	self:InitCallBacks()
+
+	if self.mm_is_controller then
+		action_repeaters():Register(self, key_bindings.kUI_DOWN,0,0)
+		action_repeaters():Register(self, key_bindings.kUI_UP,0,0)
+	end
+end
+
+function load_dialog:__finalize()
+	if self.mm_is_controller then
+		action_repeaters():UnregisterOwner(self)
+	end
+end
+
+function read_file_info(file_name)
+	if get_platform_id() == platform_ids.PLATFORM_WIN64 and string.len(file_name) < 16 and file_exist(file_name .. ".info") then
+		local f = getFS()
+		local reader = f:r_open("$game_saves$", file_name .. ".info")
+		local content = reader:r_stringZ()
+		local file_length = reader:length()
+		file_name = string.sub(content, 0, file_length)
+		f:r_close(reader)
+	end
+
+	return file_name
+end
+
+function load_dialog:FillList()
+	self.list_box:RemoveAll()
+	local f = getFS()
+	-- MTB-bartlomiej.kunikowski: [JP-88] add corrupted saves detection
+	local flist = f:file_list_open_ex("$game_saves$",bit_or(FS.FS_ListFiles,FS.FS_RootOnly),"*"..saved_game_extension, true, false)
+	local f_cnt = flist:Size()
+
+	flist:Sort(FS.FS_sort_by_modif_down)
+	self.saved_files = {}
+
+	for	it=0, f_cnt-1 	do
+		local file		=	flist:GetAt(it)
+		
+		-- mtb-bartlomiej.kunikowski Start: Get rid of file extensions from save names on PS4
+		local file_name = nil
+		local save_name = nil
+		if get_platform_id() == platform_ids.PLATFORM_ORBIS or get_platform_id() == platform_ids.PLATFORM_PROSPERO then
+			file_name = file:NameFull()
+			save_name = file_name
+		else
+			save_name = string.sub(file:NameFull(), 0, (string.len(file:NameFull()) - string.len(saved_game_extension)))
+			file_name = read_file_info(save_name)
+		end
+		-- mtb-bartlomiej.kunikowski End
+		
+		local date_time = "[" .. file:ModifDigitOnly() .. "]"
+		--menu_item =  ..
+		self:AddItemToList(file_name, date_time)
+		self.saved_files[file_name] = save_name
+	end
+
+	if self.mm_is_controller then
+		--and auto select the top one
+		if self.list_box:GetSize() > 0 then
+			self.list_box:SetSelectedIndex(0)
+		end
+
+		self:UpdateInputLegend()
+	end
+
+	self:TryHandleEmptyList()
+end
+
+function load_dialog:TryHandleEmptyList()
+	if self.list_box:GetSize() == 0 then
+		self.file_caption:SetText( game.translate_string("ui_mmenu_no_savegames_utf8"))
+		self.file_data:SetText("")
+
+		local r = self.picture:GetTextureRect()
+		self.picture:InitTexture("ui\\ui_noise")
+		self.picture:SetTextureRect(Frect():set(r.x1,r.y1,r.x2,r.y2))
+	end
+end
+
+function load_dialog:InitControls()
+	self:SetWndRect			(Frect():set(0,0,1024,768))
+
+	local xml				= CScriptXmlInit()
+	local ctrl
+	if not self.mm_is_controller then
+		xml:ParseFile			("ui_mm_load_dlg.xml")
+	else
+		xml:ParseFile			("ui_mm_load_dlg_c.xml")
+	end
+
+	-- MTB-michal.chudzik Start: Added one background video to GDK platforms
+	local platform = get_platform_id()
+	if is_using_4k_movies() then -- MTB-anna.galach
+		xml:InitStatic("background_4k", self) 
+    -- mtb-bartlomiej.kunikowski Start: On PS4 we have one background video
+	elseif platform == platform_ids.PLATFORM_ORBIS or platform == platform_ids.PLATFORM_PROSPERO or platform == platform_ids.PLATFORM_GDK then
+		xml:InitStatic("background_orbis", self)
+	elseif platform == platform_ids.PLATFORM_GDK_1440 then
+		xml:InitStatic("background_orbis", self)
+	elseif platform == platform_ids.PLATFORM_GDK_4K then
+		xml:InitStatic("background_orbis", self) --replace with 4k and 1440p videos when ready
+	elseif platform == platform_ids.PLATFORM_NX64 then
+	-- MTB-Damian.Romanik [JP2-102] Start: NX64 textures
+		xml:InitStatic("background_nx64", self)
+	-- MTB-Damian.Romanik [JP2-102] End: NX64 textures
+    -- MTB-michal.chudzik End
+	else
+		xml:InitStatic			("background",self)
+	end
+	-- mtb-bartlomiej.kunikowski End
+
+	ctrl					= CUIWindow()
+	xml:InitWindow			("file_item:main",0,ctrl)
+
+	self.file_item_main_sz	= vector2():set(ctrl:GetWidth(),ctrl:GetHeight())
+
+	xml:InitWindow			("file_item:fn",0,ctrl)
+	self.file_item_fn_sz	= vector2():set(ctrl:GetWidth(),ctrl:GetHeight())
+
+	xml:InitWindow			("file_item:fd",0,ctrl)
+	self.file_item_fd_sz	= vector2():set(ctrl:GetWidth(),ctrl:GetHeight())
+
+	self.form				= xml:InitStatic("form",self)
+
+	xml:InitStatic			("form:caption",self.form)
+
+	self.picture			= xml:InitStatic("form:picture",self.form)
+
+--	xml:InitStatic			("form:file_info",self.form)
+
+	self.file_caption 		= xml:InitTextWnd("form:file_caption",self.form)
+	self.file_data			= xml:InitTextWnd("form:file_data",self.form)
+
+	xml:InitFrame			("form:list_frame",self.form)
+
+	self.list_box			= xml:InitListBox("form:list",self.form)
+
+	self.list_box:ShowSelectedItem	(true)
+	self:Register			(self.list_box, "list_window")
+
+	if not self.mm_is_controller or (get_platform_id() == platform_ids.PLATFORM_NX64) then
+		self.load_btn			= xml:Init3tButton("form:btn_load",	self.form)
+		self:Register			(self.load_btn, "button_load")
+
+		self.delete_btn			= xml:Init3tButton	("form:btn_delete",	self.form)
+		self:Register			(self.delete_btn, "button_del")
+
+		self.cancel_btn			= xml:Init3tButton	("form:btn_cancel",	self.form)
+		self:Register			(self.cancel_btn, "button_back")
+
+		if get_platform_id() == platform_ids.PLATFORM_NX64 then
+			self.input_legend = xml:InitInputLegend("input_legend", self)
+		end
+	else
+		self.input_legend = xml:InitInputLegend("input_legend", self)
+	end
+
+	self.message_box		= CUIMessageBoxEx()
+	self:Register			(self.message_box,"message_box")
+end
+
+function load_dialog:InitCallBacks()
+	self:AddCallback("button_load",		ui_events.BUTTON_CLICKED,             self.OnButton_load_clicked,	self)
+	self:AddCallback("button_back",		ui_events.BUTTON_CLICKED,             self.OnButton_back_clicked,	self)
+	self:AddCallback("button_del",		ui_events.BUTTON_CLICKED,             self.OnButton_del_clicked,	self)
+	self:AddCallback("message_box",		ui_events.MESSAGE_BOX_YES_CLICKED,    self.OnMsgYes,				self)
+	self:AddCallback("message_box",		ui_events.MESSAGE_BOX_OK_CLICKED,	  self.OnMsgYes,				self)
+	self:AddCallback("message_box", 	ui_events.MESSAGE_BOX_NO_CLICKED,	  self.OnMsgNo,					self)
+	self:AddCallback("message_box", 	ui_events.MESSAGE_BOX_CANCEL_CLICKED, self.OnMsgNo,					self)
+
+	if not self.mm_is_controller or (get_platform_id() == platform_ids.PLATFORM_NX64) then
+		self:AddCallback("list_window", ui_events.LIST_ITEM_CLICKED, 			  self.OnListItemClicked,		self)
+		if get_platform_id() == platform_ids.PLATFORM_NX64 then
+			self:AddCallback("list_window", ui_events.LIST_ITEM_SELECT, 			  self.OnListItemClicked,		self)
+		end
+	else
+		self:AddCallback("list_window", ui_events.LIST_ITEM_SELECT, 			  self.OnListItemClicked,		self)
+	end
+	self:AddCallback("list_window", ui_events.WINDOW_LBUTTON_DB_CLICK,		  self.OnListItemDbClicked,		self)
+
+
+end
+
+function file_exist(fname)
+	if get_platform_id() == platform_ids.PLATFORM_WIN64 then
+		return getFS():file_exist("$game_saves$", fname)
+	else
+		local f = getFS();
+		-- MTB-bartlomiej.kunikowski: [JP-88] add corrupted saves detection (but not here)
+		local flist = f:file_list_open_ex("$game_saves$",bit_or(FS.FS_ListFiles,FS.FS_RootOnly), fname, false, false)
+		local f_cnt = flist:Size()
+
+		if f_cnt > 0 then
+			return true
+		else
+			return false
+		end
+	end
+end
+
+function delete_save_game(filename)
+
+	-- mtb-bartlomiej.kunikowski Start: Get rid of file extensions from save names on PS4
+	local save_file = nil
+	if get_platform_id() == platform_ids.PLATFORM_ORBIS or get_platform_id() == platform_ids.PLATFORM_PROSPERO then
+		save_file = filename
+	else
+		save_file = filename .. saved_game_extension
+	end
+	-- mtb-bartlomiej.kunikowski End
+	local dds_file		= filename .. ".dds"
+
+        if get_platform_id() == platform_ids.PLATFORM_ORBIS or
+           get_platform_id() == platform_ids.PLATFORM_PROSPERO or
+           get_platform_id() == platform_ids.PLATFORM_DURANGO or
+           get_platform_id() == platform_ids.PLATFORM_GDK or
+           get_platform_id() == platform_ids.PLATFORM_GDK_1440 or
+           get_platform_id() == platform_ids.PLATFORM_GDK_4K or
+		   get_platform_id() == platform_ids.PLATFORM_NX64 then
+
+            savedata_delete(save_file, false)
+
+        else
+            local f = getFS()
+            f:file_delete("$game_saves$",save_file)
+
+            if file_exist(dds_file) then
+                f:file_delete("$game_saves$", dds_file)
+            end
+
+			local info_file = filename .. ".info"
+			if file_exist(info_file) then
+				f:file_delete("$game_saves$", info_file)
+			end
+        end
+
+	--[JUD-279][JUD-278] MTB-Denys.Hoida: Set or clear last save name and rebuild main menu buttons layout.
+	--If we cant find any previous saves in list than we just clear last save name.
+	local console = get_console()
+
+	local f = getFS()
+	local flist = f:file_list_open_ex("$game_saves$",bit_or(FS.FS_ListFiles,FS.FS_RootOnly),"*"..saved_game_extension, true, false)
+	local f_cnt = flist:Size()
+
+	console:execute("clear_last_save " ..filename)
+
+	if f_cnt == 0
+	then
+		console:execute("reload_mm")
+	else
+		flist:Sort(FS.FS_sort_by_modif_down)
+		local file		= flist:GetAt(0)
+		-- mtb-bartlomiej.kunikowski Start: Get rid of file extensions from save names on PS4
+		local file_name = nil
+		if get_platform_id() == platform_ids.PLATFORM_ORBIS or get_platform_id() == platform_ids.PLATFORM_PROSPERO then
+			file_name = file:NameFull()
+		else
+			file_name = string.sub(file:NameFull(), 0, (string.len(file:NameFull()) - string.len(saved_game_extension)))
+		end
+		-- mtb-bartlomiej.kunikowski End
+
+		console:execute("set_last_save " ..file_name)
+	end
+	-- MTB END
+end
+
+function AddTimeDigit(str, dig)
+	if (dig > 9) then
+		str = str .. dig
+	else
+		str = str .. "0" .. dig
+	end
+
+	return str
+
+end
+
+function load_dialog:get_file_data(fname) -- MTB-bartlomiej.kunikowski: Validate save basing on cached info
+	if file_exist(fname .. saved_game_extension) then
+
+		-- MTB-bartlomiej.kunikowski: Validate save basing on cached info
+		if ( not self.saved_game_wrapper:is_save_valid() ) then
+			return "corrupted data"
+		end
+		-- MTB-bartlomiej.kunikowski End
+
+		local y,m,d,h,min,sec,ms = 0,0,0,0,0,0,0
+		y,m,d,h,min,sec,ms = self.saved_game_wrapper:game_time():get(y,m,d,h,min,sec,ms) -- MTB-bartlomiej.kunikowski: Validate save basing on cached info
+
+
+		local date_time = ""
+
+		date_time = AddTimeDigit(date_time, h)
+		date_time = date_time .. ":"
+		date_time = AddTimeDigit(date_time, min)
+		date_time = date_time .. " "
+		date_time = AddTimeDigit(date_time, m)
+		date_time = date_time .. "/"
+		date_time = AddTimeDigit(date_time, d)
+		date_time = date_time .. "/"
+
+		date_time = date_time .. y
+
+
+		--string.format("[%d/%d/%d %d]",m,d,h,min,y)
+		-- MTB-bartlomiej.kunikowski: Validate save basing on cached info
+		local health = string.format("\\n%s %d%s", game.translate_string("st_ui_health_sensor_utf8"),self.saved_game_wrapper:actor_health()*100,"%")
+
+		-- MTB-bartlomiej.kunikowski: Validate save basing on cached info
+		return game.translate_string("st_level_utf8") .. ": " .. game.translate_string(self.saved_game_wrapper:level_name().."_utf8") .. "\\n" .. game.translate_string("ui_inv_time_utf8")..": " .. date_time .. health
+	else
+		return "no file data"
+	end
+end
+
+function load_dialog:OnListItemClicked()
+	if self.list_box:GetSize()==0 then return end
+	local item			= self.list_box:GetSelectedItem()
+
+	if item == nil then
+		self.file_caption:SetText	("")
+		self.file_data:SetText		("")
+
+		local r = self.picture:GetTextureRect()
+		self.picture:InitTexture						("ui\\ui_noise")
+		self.picture:SetTextureRect(Frect():set(r.x1,r.y1,r.x2,r.y2))
+
+		return
+	end
+	local item_text				= item.fn:GetText()
+	local item_file				= self.saved_files[item_text]
+
+	-- MTB-bartlomiej.kunikowski: Validate save basing on cached info
+	self.saved_game_wrapper = CSavedGameWrapper(item_file)
+
+	-- MTB-bartlomiej.kunikowski Start: Check if save is valid a bit eariler, before we want to read from it
+	-- mtb-bartlomiej.kunikowski Start: Get rid of file extensions from save names on PS4
+	local file_name = nil
+	if get_platform_id() == platform_ids.PLATFORM_ORBIS or get_platform_id() == platform_ids.PLATFORM_PROSPERO then
+		file_name = item_file
+	else
+		file_name = item_file .. saved_game_extension
+	end
+	-- mtb-bartlomiej.kunikowski End
+
+	if file_exist(file_name) ~= true or not self.saved_game_wrapper:is_save_valid() then
+		self.list_box:RemoveItem(item)
+		self:TryHandleEmptyList()
+		if self.list_box:GetSize() ~= 0 then
+			-- MTB-bartlomiej.kunikowski: Move to the beginning of list
+			self.list_box:SetSelectedIndex(0)
+		end
+		return
+	end
+	-- MTB-bartlomiej.kunikowski End
+
+	-- [JUD-24][Bartlomiej.Kordek]
+	local a = item_text:match("(.+)-(.+)")
+	if a == nil then
+		a = item_text
+	end
+
+	self.file_caption:SetText( a )
+	self.file_caption:SetEllipsis(true)
+
+	-- MTB-bartlomiej.kunikowski: Validate save basing on cached info
+	self.file_data:SetText		(self:get_file_data(item_file))
+
+	local r = self.picture:GetTextureRect()
+	if file_exist(item_file .. ".dds") then
+		self.picture:InitTexture(item_file)
+	else
+		local r = self.picture:GetTextureRect()
+		self.picture:InitTexture("ui\\ui_noise")
+		self.picture:SetTextureRect(Frect():set(r.x1,r.y1,r.x2,r.y2))
+	end
+	self.picture:SetTextureRect(Frect():set(r.x1,r.y1,r.x2,r.y2))
+end
+
+function load_dialog:OnListItemDbClicked()
+	self:OnButton_load_clicked()
+end
+
+function load_dialog:OnMsgYes()
+	if self.mm_is_controller then
+		self.sndAccept:play(nil, 0.0, sound_object.s2d)
+	end
+
+	local item  = self.list_box:GetSelectedItem()
+	if item == nil then return end
+	local index = self.list_box:GetSelectedIndex()
+
+	if self.msgbox_id == 1 then
+
+		local fname = item.fn:GetText()
+
+		delete_save_game(self.saved_files[fname])
+
+		self.list_box:RemoveItem(item)
+		self:TryHandleEmptyList()
+
+		if self.mm_is_controller then
+			local count = self.list_box:GetSize()
+			if count > 0 then
+				if index >= count then
+					index = count - 1
+					self.list_box:ScrollToEnd()
+				end
+				self.list_box:SetSelectedIndex(index)
+			end
+
+			self:UpdateInputLegend()
+		else
+			self:OnListItemClicked()
+		end
+	elseif self.msgbox_id == 2 then
+		self:load_game_internal()
+	end
+
+	self.msgbox_id = 0
+end
+
+function load_dialog:OnMsgNo()
+	if self.mm_is_controller then
+		self.sndDecline:play(nil, 0.0, sound_object.s2d)
+	end
+end
+
+function load_dialog:load_game_internal()
+	local console = get_console()
+
+	if disablemodmanager() then
+		if self.list_box:GetSize()==0 then return end
+
+		local item  = self.list_box:GetSelectedItem()
+		if item == nil then return end
+
+		local fname = self.saved_files[item.fn:GetText()]
+
+		if (alife() == nil) then
+			console:execute	("disconnect")
+			console:execute	("start server(" .. fname .. "/single/alife/load) client(localhost)")
+		else
+			console:execute	("load " .. fname)
+		end
+	else
+		self.msgbox_id = 3
+		self.message_box:InitMessageBox("message_box_modio_managerbusy")
+		self.message_box:ShowDialog(true)
+	end
+end
+
+function load_dialog:OnButton_load_clicked()
+	local console	= get_console()
+
+	if self.list_box:GetSize()==0 then
+		return
+	end
+
+	if self.mm_is_controller then
+		self.sndAccept:play(nil, 0.0, sound_object.s2d)
+	end
+
+	local item		= self.list_box:GetSelectedItem()
+	if item == nil then
+		return
+	end
+
+	local fname		= self.saved_files[item.fn:GetText()]
+
+	if ( not valid_saved_game(fname) ) then
+		-- MTB-bartlomiej.kunikowski Start: Back to main menu when try to load corrupted data
+		self.list_box:RemoveItem(item)
+		self:TryHandleEmptyList()
+
+		if self.mm_is_controller then
+			local count = self.list_box:GetSize()
+			local index = self.list_box:GetSelectedIndex()
+			if count > 0 then
+				if index >= count then
+					index = count - 1
+					self.list_box:ScrollToEnd()
+				end
+				self.list_box:SetSelectedIndex(index)
+			end
+
+			self:UpdateInputLegend()
+		else
+			self:OnListItemClicked()
+		end
+		return
+		-- MTB-bartlomiej.kunikowski End
+	end
+
+	if (alife() == nil) then
+		self:load_game_internal				()
+		return
+	end
+
+	if ( (db.actor ~= nil) and (db.actor:alive() == false) ) then
+		self:load_game_internal				()
+		return
+	end
+
+	self.msgbox_id							= 2
+	self.message_box:InitMessageBox			("message_box_confirm_load_save")
+	self.message_box:ShowDialog(true)
+end
+
+function load_dialog:OnButton_back_clicked()
+	if self.mm_is_controller then
+		self.sndDecline:play(nil, 0.0, sound_object.s2d)
+	end
+	self.owner:ShowDialog(true)
+	self:HideDialog()
+	self.owner:Show						(true)
+end
+
+function load_dialog:OnButton_del_clicked()
+	if self.list_box:GetSize()==0 then return end
+
+	if self.mm_is_controller then
+		self.sndDecline:play(nil, 0.0, sound_object.s2d)
+	end
+
+	local item = self.list_box:GetSelectedItem()
+
+	if item == nil then return end
+
+	self.msgbox_id = 1
+
+	self.message_box:InitMessageBox("message_box_delete_file_name")
+	self.message_box:ShowDialog(true)
+end
+
+function load_dialog:OnKeyboard(dik, keyboard_action)
+
+	if keyboard_action == ui_events.WINDOW_KEY_PRESSED then
+		if self.mm_is_controller then
+			if is_binded(key_bindings.kUI_BACK, dik) then
+				self:OnButton_back_clicked()
+				return true
+
+			elseif is_binded(key_bindings.kUI_ACCEPT, dik) then
+				self:OnButton_load_clicked()
+				return true
+
+			elseif is_binded(key_bindings.kUI_ACTION_1, dik) then
+				self:OnButton_del_clicked()
+				return true
+
+			elseif is_binded(key_bindings.kUI_DOWN, dik) then
+				action_repeaters():SetActionStarted(self, key_bindings.kUI_DOWN)
+				if not any_binded_key_for_action_pressed_c(key_bindings.kUI_UP) then
+					self:SelectNext(1, true, true)
+				end
+				return true
+
+			elseif is_binded(key_bindings.kUI_UP, dik) then
+				action_repeaters():SetActionStarted(self, key_bindings.kUI_UP)
+				if not any_binded_key_for_action_pressed_c(key_bindings.kUI_DOWN) then
+					self:SelectNext(-1, true, true)
+				end
+				return true
+			end
+		else
+			if is_binded(key_bindings.kQUIT, dik) then
+				self:OnButton_back_clicked()
+				return true
+			else
+				if dik == DIK_keys.DIK_RETURN then
+					self:OnButton_load_clicked()
+					return true
+				end
+			end
+		end
+	end
+
+	return CUIScriptWnd.OnKeyboard(self,dik,keyboard_action)
+end
+
+function load_dialog:OnKeyboardHold(dik)
+
+	if self.mm_is_controller then
+		if is_binded(key_bindings.kUI_DOWN, dik) then
+			if action_repeaters():CanRepeatActionNow(self, key_bindings.kUI_DOWN)
+			and not any_binded_key_for_action_pressed_c(key_bindings.kUI_UP) then
+				self:SelectNext(1, false, true)
+			end
+			return true
+
+		elseif is_binded(key_bindings.kUI_UP, dik) then
+			if action_repeaters():CanRepeatActionNow(self, key_bindings.kUI_UP)
+			and not any_binded_key_for_action_pressed_c(key_bindings.kUI_DOWN) then
+				self:SelectNext(-1, false, true)
+			end
+			return true
+		end
+	end
+
+	return CUIScriptWnd.OnKeyboardHold(self,dik)
+end
+
+function load_dialog:AddItemToList(file_name, date_time)
+
+	local _itm			= load_item(self.file_item_main_sz.y)
+
+	_itm:SetWndSize		(self.file_item_main_sz)
+
+	_itm.fn:SetWndPos	(vector2():set(0,0))
+	_itm.fn:SetWndSize	(self.file_item_fn_sz)
+	_itm.fn:SetText		(file_name)
+
+	_itm.fage			= _itm:AddTextField(date_time, self.file_item_fd_sz.x)
+	_itm.fage:SetFont	(GetFontLetterica18All())
+	_itm.fage:SetWndPos	(vector2():set(self.file_item_fn_sz.x+4, 0))
+	_itm.fage:SetWndSize(self.file_item_fd_sz)
+
+	self.list_box:AddExistingItem(_itm)
+end
+
+
+function load_dialog:SelectNext(offset, allowLoop, autoScroll)
+	local itemCount = self.list_box:GetSize()
+	if itemCount == 0 or itemCount == 1 then
+		return false
+	end
+
+	local nextIndex = self.list_box:GetSelectedIndex()
+	if nextIndex == index_for_not_found then
+		nextIndex = 0
+	else
+		nextIndex = nextIndex + offset
+		if nextIndex < 0 then
+			if allowLoop then
+				nextIndex = itemCount - 1
+			else
+				return false
+			end
+		elseif nextIndex >= itemCount then
+			if allowLoop then
+				nextIndex = 0
+			else
+				return false
+			end
+		end
+	end
+
+	if self.mm_is_controller then
+		self.sndSwitch:play(nil, 0.0, sound_object.s2d)
+	end
+
+	self.list_box:SetSelectedIndex(nextIndex)
+
+	if autoScroll then
+		local scroll = self.list_box
+		local lpos = scroll:GetMinScrollPos()
+		local rpos = scroll:GetMaxScrollPos()
+		local lrdif = (rpos - lpos)
+		local elementParent = self.list_box:GetSelectedItem()
+		if elementParent ~= nil then
+
+			local ratio = elementParent:GetWndPos().y / scroll:GetPadSize().y
+
+			local spos = lpos + lrdif * ratio - lrdif * (3 / itemCount)
+			scroll:SetScrollPos(spos)
+		end
+	end
+
+	return true
+end
+
+function load_dialog:UpdateInputLegend()
+	self.input_legend:ClearAll()
+
+	local numSaves = self.list_box:GetSize()
+
+	--self.input_legend:AddItem('legend_ui_navigation_v', numSaves > 1)
+
+	self.input_legend:AddItem('legend_ui_savegame_load', numSaves > 0)
+	self.input_legend:AddItem('legend_ui_savegame_delete', numSaves > 0)
+
+
+	self.input_legend:AddItem('legend_ui_back', true)
+
+	self.input_legend:UpdateText()
+end
+
+function load_dialog:OnTouchpadButtons()
+	local shouldShow = not is_switch_in_TV()
+
+	self.load_btn:Show(shouldShow)
+	self.delete_btn:Show(shouldShow)
+	self.cancel_btn:Show(shouldShow)
+end

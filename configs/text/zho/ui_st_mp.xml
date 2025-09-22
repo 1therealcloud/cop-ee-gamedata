@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="savedata_full">
+		<text>暂无空余的存档槽位！请删除或覆盖现有存档。</text>
+	</string>
+
+	<string id="mp_military_2">
+		<text>旧村庄</text>
+	</string>
+
+</string_table>

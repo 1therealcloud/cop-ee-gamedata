@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_achievement_10_descr">
+		<text>对敌人来说，这是何等的耻辱！这期间他被你连续杀死了十次，却一次都没把你干掉！希望他别把你当成大凶大恶之人——你只是给了他一个不断提升自己的理由而已。</text>
+	</string>
+
+	<string id="st_achievement_10_name">
+		<text>丰收之时</text>
+	</string>
+
+	<string id="st_achievement_11_descr">
+		<text>你是死神！一石二鸟的技术登峰造极…一把高斯步枪就把他们全灭了。</text>
+	</string>
+
+	<string id="st_achievement_11_name">
+		<text>一石二鸟</text>
+	</string>
+
+	<string id="st_achievement_12_descr">
+		<text>你手持双管霰弹枪，熟练地击发，在须臾之间拿下两个目标，在你的冷静与精密的计算下，敌人死得干脆而利落。</text>
+	</string>
+
+	<string id="st_achievement_12_name">
+		<text>弹无虚发</text>
+	</string>
+
+	<string id="st_achievement_13_descr">
+		<text>显然，你已经领悟了潜行者的本质，这也是你能首次跻身传奇潜行者的原因！</text>
+	</string>
+
+	<string id="st_achievement_13_name">
+		<text>社交达人</text>
+	</string>
+
+	<string id="st_achievement_14_descr">
+		<text>用刀切开外骨骼？看来你是那种喜欢刀刀见肉的家伙。</text>
+	</string>
+
+	<string id="st_achievement_14_name">
+		<text>开罐高手</text>
+	</string>
+
+	<string id="st_achievement_15_descr">
+		<text>他们自以为已经弄死了你，结果你反杀了他们五个人，让他们明白谁才是老大，虽然你也差点交待了！</text>
+	</string>
+
+	<string id="st_achievement_15_name">
+		<text>顽强抵抗</text>
+	</string>
+
+	<string id="st_achievement_16_descr">
+		<text>太刺激了！你下冰雹似地打子弹，把敌人全部干翻——五秒杀五个！太牛了！</text>
+	</string>
+
+	<string id="st_achievement_16_name">
+		<text>怒火中烧</text>
+	</string>
+
+	<string id="st_achievement_17_descr">
+		<text>哇哦，瞄得真准！一枪打爆眼球人还活着！您这手艺登峰造极啊。</text>
+	</string>
+
+	<string id="st_achievement_17_name">
+		<text>眼科专家</text>
+	</string>
+
+	<string id="st_achievement_18_descr">
+		<text>藏在角落里也好，设下伏击也罢——反正对你都没用。哎呀，你居然不用瞄准就能命中移动的目标！</text>
+	</string>
+
+	<string id="st_achievement_18_name">
+		<text>迅雷不及掩耳</text>
+	</string>
+
+	<string id="st_achievement_19_descr">
+		<text>就让他跑吧，跑吧——反正你的子弹追得上他。</text>
+	</string>
+
+	<string id="st_achievement_19_name">
+		<text>在劫难逃</text>
+	</string>
+
+	<string id="st_achievement_1_descr">
+		<text>你连续屠杀二十名敌人而没有死亡！哇哦，真是一场血战！</text>
+	</string>
+
+	<string id="st_achievement_1_name">
+		<text>大屠杀</text>
+	</string>
+
+	<string id="st_achievement_20_descr">
+		<text>他们可能有三个人，还可能有狙击步枪，但你精湛的技术把他们全灭了。</text>
+	</string>
+
+	<string id="st_achievement_20_name">
+		<text>技高一筹</text>
+	</string>
+
+	<string id="st_achievement_21_descr">
+		<text>不废一枪一弹，你靠着智慧拿下野蛮人。</text>
+	</string>
+
+	<string id="st_achievement_21_name">
+		<text>不斩来使</text>
+	</string>
+
+	<string id="st_achievement_22_descr">
+		<text>对真正的狙击手来说，距离不是问题！你可以在超过 120 米的距离击中靶心。</text>
+	</string>
+
+	<string id="st_achievement_22_name">
+		<text>百步穿杨</text>
+	</string>
+
+	<string id="st_achievement_23_descr">
+		<text>敌人给了你沉痛一击，但你回敬了一个拉了弦的手雷，真是个大惊喜！</text>
+	</string>
+
+	<string id="st_achievement_23_name">
+		<text>永生难忘</text>
+	</string>
+
+	<string id="st_achievement_24_descr">
+		<text>他们杀了你的朋友，你再怎么报复都不为过。三具敌人的尸体祭奠三个死去的朋友——这才叫公平。</text>
+	</string>
+
+	<string id="st_achievement_24_name">
+		<text>报仇雪恨</text>
+	</string>
+
+	<string id="st_achievement_25_descr">
+		<text>你是你朋友的守护天使。他带着超自然体到处跑，而你在一次袭击中救了他两回。</text>
+	</string>
+
+	<string id="st_achievement_25_name">
+		<text>小天使</text>
+	</string>
+
+	<string id="st_achievement_26_descr">
+		<text>你捍卫了自己和小队的荣誉，敌人没有占到便宜。</text>
+	</string>
+
+	<string id="st_achievement_26_name">
+		<text>捍卫荣誉</text>
+	</string>
+
+	<string id="st_achievement_27_descr">
+		<text>你真知道下一个超自然体会在哪儿出现吗？哎呀，它刚露头没几秒，你马上就找到它了！</text>
+	</string>
+
+	<string id="st_achievement_27_name">
+		<text>潜行者的直觉</text>
+	</string>
+
+	<string id="st_achievement_28_descr">
+		<text>你走运啦——你用弹匣里的最后一颗子弹干掉了敌人！他们死总比你死好，是吧！</text>
+	</string>
+
+	<string id="st_achievement_28_name">
+		<text>纯属侥幸</text>
+	</string>
+
+	<string id="st_achievement_29_descr">
+		<text>你连续击杀了八名敌人。你划出了自己的底线，就看他们敢不敢来闯了。</text>
+	</string>
+
+	<string id="st_achievement_29_name">
+		<text>黑名单</text>
+	</string>
+
+	<string id="st_achievement_2_descr">
+		<text>由于你的细心与谨慎，没人能够成功击杀你。在游戏期间，你一次都没死过，还获得了超过十五分。</text>
+	</string>
+
+	<string id="st_achievement_2_name">
+		<text>疑神疑鬼</text>
+	</string>
+
+	<string id="st_achievement_30_descr">
+		<text>你干活儿时总会用消音器，没有惊动过任何人。我们根本没必要告诉敌人死神在哪儿！</text>
+	</string>
+
+	<string id="st_achievement_30_name">
+		<text>沉默的死神</text>
+	</string>
+
+	<string id="st_achievement_3_descr">
+		<text>你摧毁了敌人，获得了胜利，得到的分数是他们最高得分选手的两倍。</text>
+	</string>
+
+	<string id="st_achievement_3_name">
+		<text>横扫千军</text>
+	</string>
+
+	<string id="st_achievement_4_descr">
+		<text>你大胆的计划大获成功，立刻就抢到了超自然体，而且开局三分钟就为自己的队伍得了分。</text>
+	</string>
+
+	<string id="st_achievement_4_name">
+		<text>闪电突袭</text>
+	</string>
+
+	<string id="st_achievement_5_descr">
+		<text>你没有放弃任何一个超自然体，还消灭了敌人，让他们明白什么叫团队合作。</text>
+	</string>
+
+	<string id="st_achievement_5_name">
+		<text>大获全胜！</text>
+	</string>
+
+	<string id="st_achievement_6_descr">
+		<text>你在各个方面的得分都是最高的：击杀数最多，获得的超自然体最多，死亡次数最少！继续努力！</text>
+	</string>
+
+	<string id="st_achievement_6_name">
+		<text>无所不能</text>
+	</string>
+
+	<string id="st_achievement_7_descr">
+		<text>你的刀舞得飒飒生风！二十秒内就将三名敌人斩于刀下，技术无与伦比。</text>
+	</string>
+
+	<string id="st_achievement_7_name">
+		<text>暴风骤雨</text>
+	</string>
+
+	<string id="st_achievement_8_descr">
+		<text>每个敌人都有弱点，而你发现了对方的弱点，用一把小手枪直接命中他的眼睛。</text>
+	</string>
+
+	<string id="st_achievement_8_name">
+		<text>致命要害</text>
+	</string>
+
+	<string id="st_achievement_9_descr">
+		<text>敌人的子弹对你无效。你经历枪林弹雨，依旧毫发无损，还把敌人都消灭了！</text>
+	</string>
+
+	<string id="st_achievement_9_name">
+		<text>速战速决</text>
+	</string>
+
+	<string id="st_sp_achievement_1_descr">
+		<text>你愿意研究变异区的最新动态。你找到了当前科学尚未发现的新异常物质，提升了我们对变异区的认知。</text>
+	</string>
+
+	<string id="st_sp_achievement_1_name">
+		<text>一马当先</text>
+	</string>
+
+	<string id="st_sp_achievement_2_hint">
+		<text>潜行者更看重你了。\n为了感谢你的努力，潜行者在亚诺夫车站给你的个人储物箱里留了些弹药。</text>
+	</string>
+
+	<string id="st_sp_achievement_2_descr">
+		<text>你没有到处躲避危险的变异体，相反，你在捕猎它们，而且成绩斐然。出色的猎人在潜行者当中享有极高的威望。</text>
+	</string>
+
+	<string id="st_sp_achievement_2_name">
+		<text>变异体猎人</text>
+	</string>
+
+	<string id="st_sp_achievement_3_hint">
+		<text>潜行者更看重你了。\n为了向你表达敬意，潜行者在斯卡多夫斯克号给你的个人储物箱里留了些医疗用品。</text>
+	</string>
+
+	<string id="st_sp_achievement_3_descr">
+		<text>你揭开了斯卡多夫斯克号潜行者消失的秘密：罪魁祸首根本不是变异体，而是更加危险的敌人——人类。你成功地追寻到了真相，获得了潜行者的尊敬。</text>
+	</string>
+
+	<string id="st_sp_achievement_3_name">
+		<text>名侦探</text>
+	</string>
+
+	<string id="st_sp_achievement_4_hint">
+		<text>潜行者更看重你了。\n潜行者让商人猫头鹰给你打折。\n大胡子现在会用最划算的价格来收购超自然体。</text>
+	</string>
+
+	<string id="st_sp_achievement_4_descr">
+		<text>你让强盗和他们的老大苏丹尝到了厉害。这让你在潜行者当中名声大涨。斯卡多夫斯克号永远欢迎你。</text>
+	</string>
+
+	<string id="st_sp_achievement_4_name">
+		<text>自己人</text>
+	</string>
+
+	<string id="st_sp_achievement_5_hint">
+		<text>你获得了强盗的尊重。\n商人猫头鹰出于恐惧，为你提供了折扣，他怕自己成为你的下一个受害者。\n按照约定，现在大胡子会将自己的一部分收益让给你。</text>
+	</string>
+
+	<string id="st_sp_achievement_5_descr">
+		<text>你运用谋略，帮助苏丹战胜了潜行者，还控制了大胡子的生意。现在，你在死水湾让人又敬又怕。</text>
+	</string>
+
+	<string id="st_sp_achievement_5_name">
+		<text>大哥大</text>
+	</string>
+
+	<string id="st_sp_achievement_6_hint">
+		<text>潜行者决定把喜鹊通过谎言和欺骗获得的战利品分给有需要的人。他们将东西放到了你位于亚诺夫的个人储物箱。</text>
+	</string>
+
+	<string id="st_sp_achievement_6_descr">
+		<text>你让这个渣滓接受了正义的制裁。喜鹊欺骗了很多潜行者，现在他的好日子到头了。</text>
+	</string>
+
+	<string id="st_sp_achievement_6_name">
+		<text>正义使者</text>
+	</string>
+
+	<string id="st_sp_achievement_7_hint">
+		<text>潜行者更看重你了。\n每当你冒险进入变异区，强盗就会来追捕你。</text>
+	</string>
+
+	<string id="st_sp_achievement_7_descr">
+		<text>你找到了变异区研究员已知的所有种类超自然体。这让潜行者刮目相看，也吸引了强盗的密切关注。</text>
+	</string>
+
+	<string id="st_sp_achievement_7_name">
+		<text>超自然体猎人</text>
+	</string>
+
+	<string id="st_sp_achievement_8_hint">
+		<text>万向节能做特殊的改装，安装液压伺服电机助推器，这样你就能穿着外骨骼快速移动。</text>
+	</string>
+
+	<string id="st_sp_achievement_8_descr">
+		<text>现在，所有的工具万向节都有了。这样他就能进行更加复杂的新改装了。</text>
+	</string>
+
+	<string id="st_sp_achievement_8_name">
+		<text>武器系统大师</text>
+	</string>
+
+	<string id="st_sp_achievement_9_hint">
+		<text>氮气可以对头盔做特殊的改装：安装红外线扫描仪，这样你就可以侦测到附近的人类了。</text>
+	</string>
+
+	<string id="st_sp_achievement_9_descr">
+		<text>氮气已经拥有了变异区技术员梦寐以求的工具。现在，他可以进行科技含量更高的改装了。</text>
+	</string>
+
+	<string id="st_sp_achievement_9_name">
+		<text>高科技专家</text>
+	</string>
+
+	<string id="st_sp_achievement_10_hint">
+		<text>你丰富的经验让你找到了更多稀有的超自然体。</text>
+	</string>
+
+	<string id="st_sp_achievement_10_descr">
+		<text>你去过变异区中心的每一个角落，拜访过当地的每一个特异点。</text>
+	</string>
+
+	<string id="st_sp_achievement_10_name">
+		<text>老练的潜行者</text>
+	</string>
+
+	<string id="st_sp_achievement_11_hint">
+		<text>你的领导才能提升了团队的生存率。</text>
+	</string>
+
+	<string id="st_sp_achievement_11_descr">
+		<text>你把队员们凝聚在一起，证明了自己的领导才能。</text>
+	</string>
+
+	<string id="st_sp_achievement_11_name">
+		<text>领袖</text>
+	</string>
+
+	<string id="st_sp_achievement_12_hint">
+		<text>自由、责任、中立的潜行者，甚至连强盗都认可你的谈判技巧，对你的评价很高。</text>
+	</string>
+
+	<string id="st_sp_achievement_12_descr">
+		<text>你很清楚怎样和平解决争端。如果几句话就能处理问题，谁愿意大动干戈？话虽如此，对那些先开枪再开口的人，你还是得留个心眼。</text>
+	</string>
+
+	<string id="st_sp_achievement_12_name">
+		<text>外交官</text>
+	</string>
+
+	<string id="st_sp_achievement_13_descr">
+		<text>你和科学家们一起工作了这么久，完全当得起研究助理这个称呼。科学家碉堡的每个人都把你当做一份子看待。</text>
+	</string>
+
+	<string id="st_sp_achievement_13_name">
+		<text>研究助理</text>
+	</string>
+
+	<string id="st_sp_achievement_14_hint">
+		<text>你和责任组织的关系更紧密了。如果你遇到了麻烦，责任的战士会出面帮你。\n支持责任组织的技术员氮气给你提供了优惠。\n你和自由组织的关系恶化了。\n现在，支持自由组织的夏威夷商品开价更高。</text>
+	</string>
+
+	<string id="st_sp_achievement_14_descr">
+		<text>你为责任组织提供了很多帮助，责任的战士和他们的朋友都对你格外敬重。但请记住，变异区可不是责任的天下。</text>
+	</string>
+
+	<string id="st_sp_achievement_14_name">
+		<text>责任之友</text>
+	</string>
+
+	<string id="st_sp_achievement_15_hint">
+		<text>你和自由组织的关系更紧密了。如果你遇到了麻烦，自由的战士会出面帮你。\n支持自由组织的商人夏威夷给你提供了优惠。\n你和责任组织的关系恶化了。\n现在，支持责任组织的技术员氮气收费更高。</text>
+	</string>
+
+	<string id="st_sp_achievement_15_descr">
+		<text>你为自由组织提供了很多帮助，自由的战士和他们的朋友都对你格外敬重。但请记住，变异区可不是自由的天下。</text>
+	</string>
+
+	<string id="st_sp_achievement_15_name">
+		<text>自由之友</text>
+	</string>
+
+	<string id="st_sp_achievement_16_hint">
+		<text>亚诺夫的潜行者希望责任和自由组织达成势均力敌的平衡状态，所以两边的技术员和商人都给你打折。</text>
+	</string>
+
+	<string id="st_sp_achievement_16_descr">
+		<text>你没有偏向任何一个派系，始终扮演着一名中立的潜行者。你没有树敌，也没有获得新的朋友。</text>
+	</string>
+
+	<string id="st_sp_achievement_16_name">
+		<text>不偏不倚</text>
+	</string>
+
+	<string id="st_sp_achievement_17_hint">
+		<text>商人为你提供了更多罕见的高价商品。</text>
+	</string>
+
+	<string id="st_sp_achievement_17_descr">
+		<text>你很清楚缺钱是什么滋味，不过目前你并不缺钱。而且有时候你还挺富裕的，商人就喜欢你这样的客人。</text>
+	</string>
+
+	<string id="st_sp_achievement_17_name">
+		<text>有钱客户</text>
+	</string>
+
+	<string id="st_sp_achievement_18_hint">
+		<text>拿到笔记后，步枪手又找到了活下去的理由，而且立志不惜一切代价，要达到他的目标。</text>
+	</string>
+
+	<string id="st_sp_achievement_18_descr">
+		<text>你的先见之明帮了大忙：你在步枪手小队的储藏点找到了笔记。你一直随身带着它，直到将它归还给真正的主人。</text>
+	</string>
+
+	<string id="st_sp_achievement_18_name">
+		<text>守口如瓶</text>
+	</string>
+
+	<string id="st_sp_achievement_19_descr">
+		<text>在没有躲进掩体的情况下，你挺过了 3 场大喷发，一定是假死药起了作用。目前，我们还不清楚这种药对精神方面有什么影响，不过你说过自己的大脑好像被静音了，无法听到自己的想法。</text>
+	</string>
+
+	<string id="st_sp_achievement_19_name">
+		<text>命中注定</text>
+	</string>
+
+	<string id="st_sp_achievement_20_hint">
+		<text>由于商人猫头鹰认为你是他最棒的线人和伙伴，他为你提供了一次折扣。</text>
+	</string>
+
+	<string id="st_sp_achievement_20_descr">
+		<text>当你弄到了情报，你总能找到最合适的买家。你会将消息卖给需要的人，拿回应得的回报。</text>
+	</string>
+
+	<string id="st_sp_achievement_20_name">
+		<text>情报贩子</text>
+	</string>
+
+	<string id="st_sp_achievement_21_hint">
+		<text>你和潜行者的关系更紧密了。如果你遇到了麻烦，潜行者会出面帮你。\n潜行者医务员也同意以成本价出售医疗用品。</text>
+	</string>
+
+	<string id="st_sp_achievement_21_descr">
+		<text>你一直对遇到麻烦的潜行者伸出援手。该组织成员之间的关系不是很紧密，但你在非官方的潜行者兄弟会还是获得了不少盟友，他们会在战斗以及后续的冒险中帮助你。</text>
+	</string>
+
+	<string id="st_sp_achievement_21_name">
+		<text>潜行者之友</text>
+	</string>
+
+	<string id="st_sp_achievement_1_hint">
+		<text>赫尔曼教授和奥泽斯基教授获得了各种各样的新资料，让他们可以在变异区合成一种全新的实验性药物：假死药。</text>
+	</string>
+
+	<string id="st_sp_achievement_19_hint">
+		<text>只要你健康情况良好，就算没有药物加持，也有机会在喷发中活下来。</text>
+	</string>
+
+	<string id="st_sp_achievement_13_hint">
+		<text>由于你的突出贡献，现在赫尔曼教授会以成本价向你提供医疗用品和设备，这些可都是碉堡人员专用的。\n诺维科夫也把你当做是常客，现在你去他那里改装，只要付点工本费就好。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_1_name">
+		<text>自然的馈赠 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_1_desc">
+		<text>寻找传说中的绿洲之心。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_2_name">
+		<text>顶级捕食者 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_2_desc">
+		<text>你杀死了300只变种生物。至少在一段时间内，封锁区变得更加安全了。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_3_name">
+		<text>咖啡反应器 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_3_desc">
+		<text>你喝掉了100瓶能量饮料。封锁区幅员辽阔，可千万别停下脚步。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_4_name">
+		<text>匹诺曹 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_4_desc">
+		<text>聆听费尔特的所有故事。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_5_name">
+		<text>探测侦探 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_5_desc">
+		<text>至少用每个探测器找到一件神器。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_6_name">
+		<text>及时支援 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_6_desc">
+		<text>在最后的撤离过程中，拯救科瓦尔斯基小组的所有潜行者。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_7_name">
+		<text>石下之宝 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_7_desc">
+		<text>从扎通所有内含武器的藏匿处找到并且获得物品</text>
+	</string>
+
+	<string id="st_sp_achievement_new_8_name">
+		<text>捉鬼专家 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_8_desc">
+		<text>消灭三个喧闹幽灵。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_9_name">
+		<text>永不沉没 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_9_desc">
+		<text>首次进入斯卡多夫斯克。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_10_name">
+		<text>阿克莱斯 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_10_desc">
+		<text>与诺亚相见。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_11_name">
+		<text>开往亚诺夫的火车 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_11_desc">
+		<text>首次进入亚诺夫。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_12_name">
+		<text>不完美的计划 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_12_desc">
+		<text>搜查所有魔鬼鱼直升机。</text>
+	</string>
+
+	<string id="st_sp_achievement_new_13_name">
+		<text>被遗忘的道路 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_13_desc">
+		<text>集结小队前往立交桥。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_14_name">
+		<text>炼狱 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_14_desc">
+		<text>首次进入洗衣店。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_15_name">
+		<text>物品62 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_15_desc">
+		<text>找到未来的武器。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_16_name">
+		<text>图书管理员 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_16_desc">
+		<text>获取X-8实验室的所有文件。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_17_name">
+		<text>撤离 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_17_desc">
+		<text>游戏结束时乘坐直升机撤离。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_18_name">
+		<text>天生的潜行者 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_18_desc">
+		<text>完成游戏并决定留在封锁区。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_19_name">
+		<text>米罗尼，是你吗？ </text>
+	</string>
+
+	<string id="st_sp_achievement_new_19_desc">
+		<text>找到米罗尼。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_20_name">
+		<text>昔日旧友 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_20_desc">
+		<text>遇见彼得罗哈，并帮助他逃离异常现象。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_22_name">
+		<text>自然灾害</text>
+	</string>
+
+	<string id="st_sp_achievement_new_22_desc">
+		<text>同时装备雪花、火焰、石之花和月光。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_23_name">
+		<text>都是假象 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_23_desc">
+		<text>以“新手”难度通关游戏。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_24_name">
+		<text>情报员 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_24_desc">
+		<text>以“潜行者”难度通关游戏。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_25_name">
+		<text>封锁区将会铭记我们 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_25_desc">
+		<text>以“老手”或“大师”难度通关游戏。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_26_name">
+		<text>不可抗拒的召唤 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_26_desc">
+		<text>完成《潜行者：普里皮亚季的召唤》。 </text>
+	</string>
+
+	<string id="st_sp_achievement_new_27_hint">
+		<text>普里皮亚季专家的线索</text>
+	</string>
+
+	<string id="st_sp_achievement_new_27_name">
+		<text>普里皮亚季专家</text>
+	</string>
+
+	<string id="st_sp_achievement_new_27_desc">
+		<text>获得所有战利品。</text>
+		<text_ps4>获得所有战利品。</text_ps4>
+	</string>
+
+	<string id="st_sp_achievement_state">
+		<text>状态： </text>
+	</string>
+	<string id="st_sp_achievement_popup">
+		<text>已解锁挑战： </text>
+	</string>
+
+	<string id="st_sp_achievement_unlocked">
+		<text>已解锁</text>
+	</string>
+
+	<string id="st_sp_achievement_locked">
+		<text>已锁定</text>
+	</string>
+
+	<string id="st_sp_achievement_hidden">
+		<text>已隐藏</text>
+	</string>
+
+	<string id="st_sp_achievement_new_21_name">
+		<text>特工F-1</text>
+	</string>
+
+	<string id="st_sp_achievement_new_21_desc">
+		<text>用手榴弹击杀100名敌人。</text>
+	</string>
+
+</string_table>

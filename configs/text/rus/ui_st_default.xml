@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ls_c_tip_82">
+		<text>В некоторые места невозможно пробраться, даже пригнувшись. Чтобы пригнуться как можно ниже, нажмите $$ACTION_CROUCH$$, а затем $$ACTION_RUN_OR_LIE_DOWN$$.</text>
+	</string>
+	<string id="legend_ui_talk_reply">
+		<text>$$ACTION_UI_ACCEPT$$ Поговорить</text>
+	</string>
+</string_table>
